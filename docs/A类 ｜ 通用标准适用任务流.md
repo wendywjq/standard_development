@@ -1,0 +1,2225 @@
+# A类 | 通用标准适用任务流
+
+[返回目录](../README.md) · [学城原文](https://km.sankuai.com/collabpage/1667755862) · 已保存正文 · 2026-11-19
+
+> 正文保留表格和折叠结构。图片和媒体仅保留原始链接，需要学城访问权限。完整源数据见 [原始文件](../sources/A%E7%B1%BB%20%EF%BD%9C%20%E9%80%9A%E7%94%A8%E6%A0%87%E5%87%86%E9%80%82%E7%94%A8%E4%BB%BB%E5%8A%A1%E6%B5%81.json)。
+
+<div>
+<h1 id="b-026415b431804b5095fbf469642ae584">A类 | 通用标准适用任务流</h1>
+<aside id="b-6f30fd2b8b084f3ab48936e1b3e79600" class="note">
+<strong>注意:</strong>
+<div>
+<p id="b-8cda41142d0d4fa0afcfed6dbd3bc5d5">通用标准即<span style="color:#000">违反政策法规、合规风险、不良生态画风、内容低质四大类审核标准。</span></p>
+</div>
+</aside>
+<hr id="b-7145ec392e144cc19ff2e21eca5876ee">
+<table id="b-796a04c3e3994a0382f0018d0f239bba">
+<tr id="b-2fbcceb2ffbd451f8fd71bfe918baa17">
+<th id="b-5420171b44f5472f9d6a58b6fc9fea64">
+<p id="b-737ced90e9d44e9f9053445925b82b17" style="text-align:center"></p>
+</th>
+<th id="b-e9434ea35ce44cc486978884de55622c">
+<p id="b-96ad9c1c14d7430e969501e21030bca4" style="text-align:center"><strong>任务类型</strong></p>
+</th>
+<th id="b-f94a4a1e7f894b2889caba294239fbb0">
+<p id="b-fab310f80005429a838f0e493547ee8b" style="text-align:center"><strong>任务流名称</strong></p>
+</th>
+<th id="b-9afab1d8129841698da2b0abfd175a41">
+<p id="b-316c0b6f24bf4a43a4b37f7917c8a017" style="text-align:center"><strong>适用标准范围</strong></p>
+</th>
+<th id="b-dbecce97fbae4ecbadf6e12a95e8258a">
+<p id="b-93162b98ffe5400488b45e9c69aa8066" style="text-align:center"><strong>具体涵盖的TYPE</strong></p>
+</th>
+</tr>
+<tr id="b-de5321d6070b4fbeb04f6b912eef5c29">
+<td id="b-e82cb2640c6841cfbbe3ee5d0f378d23">
+<p id="b-6a3e2bd752464f8d81f216770868eeec"></p>
+</td>
+<td id="b-fcc5469d2a694cc596efd639bf917cc5">
+<p id="b-4e8e515a6a2041fd984080a37b900293" style="text-align:center">回扫</p>
+</td>
+<td id="b-a4708dc641f645a6a448566b54c72a1f">
+<p id="b-2d2ea5cac18f43e18409b306e58d8579" style="text-align:center">北斗_一号</p>
+</td>
+<td rowspan="67" id="b-393fcf969a574c7e8ee73550d7527f46">
+<p id="b-d0e5a3ba8bca4090b282fc0aac21a834" style="text-align:center">通用标准</p>
+</td>
+<td id="b-8109f849ce8a422f8a0f1126bcd8bc2a">
+<p id="b-d4da3ea685574c07ad9d81de469bfa83">暂无</p>
+</td>
+</tr>
+<tr id="b-9710045120b94366b8332fd3cb238f55">
+<td id="b-4a47a22bba72406e908ecffc23226dff">
+<p id="b-f104aadda23f466ea84fdceef3c1dd20"></p>
+</td>
+<td id="b-7132e993b1b8450dbd8a563389e69883">
+<p id="b-6d8cfa84a0274625879723940cc34cbb" style="text-align:center">实时</p>
+</td>
+<td id="b-93ecd5d54df84791b08da965cc2bfdb8">
+<p id="b-74d8a55f3ec0452fa448f10b6ac63022" style="text-align:center">一号专审</p>
+</td>
+<td id="b-5a1969a59adf464495e6bd64ec811234">
+<p id="b-3240a6c02fbd45509bf00d905b462e5d">50002	到综直播</p>
+<p id="b-a6d105e6989849a699ce73c7c70d2f53">20556	外卖商品图片接纯人审-图片</p>
+<p id="b-f688348983424cf28a9a0266321047e3">10676	快驴商品信息审核-文字</p>
+<p id="b-2e14e38429db485a8b141213de0f91f0">20508	快驴商品信息审核-图片</p>
+<p id="b-d26fb2ac5f6f49378e3c34238bf7b574">20112	美团-零售事业部-掌鱼商品信息-图片接入</p>
+<p id="b-729db88e2b0f451aaeaa6b633c01adc8">20556	外卖商品图片接纯人审-图片</p>
+<p id="b-82e0e2a362a74ed3ac312e6f70770695">10447	新对接-点评评论-文字评论接入</p>
+<p id="b-3f80f53bd51141c4a65b5af467d84f96">20746	Push增量-图片</p>
+<p id="b-e3efde10034e4b468dd51f93f310096a">40035	新对接-点评评论-视频接入</p>
+<p id="b-10283bf45aca439f862ce480bede78f7">20508	快驴商品信息审核-图片</p>
+<p id="b-887d63538dd04c09a4e20f4557acdb23">10424	饭否-文字</p>
+<p id="b-dd886820e145473ca54bb97bafeaf048">20336	饭否-图片</p>
+<p id="b-61bbb4066c8548d5a912651200b01baa">20746	Push增量-图片</p>
+<p id="b-d2526a8f59864c80835edf6bb79bc3fe">10424	饭否-文字</p>
+<p id="b-09420873078848f29a83087fea41c3d9">20336	饭否-图片</p>
+</td>
+</tr>
+<tr id="b-cc514c3bd0654c629f9b6b574a57a758">
+<td id="b-091c08416c0b48dfaff472d93a689c6d">
+<p id="b-c6c69e7ed4044ce99235774f9470268b"></p>
+</td>
+<td id="b-064f23e84f4e4d018c1b9c7b4c232458">
+<p id="b-3f5be65ab62f46ffbfc6007c8ddc5fd7" style="text-align:center">回扫</p>
+</td>
+<td id="b-cb1fba3170e14bf897d6f240c6b8ec9c">
+<p id="b-17bade7d228046e49f09d1afe64624ae" style="text-align:center">收件人_习相关周期回扫_20220407</p>
+</td>
+<td id="b-58a2810886cb4e31a70be36eedbf418a">
+<p id="b-b02da6d52b6b4a058ca3f287ed163f04">暂无</p>
+</td>
+</tr>
+<tr id="b-578fbd5aeb7e4b9690ad14d7f8741c16">
+<td id="b-45e01f8e5f7a49028ff56e3932f702f3">
+<p id="b-425e1348e4014994af6085d580fb9c82"></p>
+</td>
+<td id="b-60a8e43fbd754dabaccfe719f1681b07">
+<p id="b-d3dbfa04c6864d3e9c4bb63078d49d93" style="text-align:center">回扫</p>
+</td>
+<td id="b-13e509a20d9b46f18f8403c90266e9ba">
+<p id="b-d77ce9593e294003b4607cd81d67f4dd" style="text-align:center">北斗_国家领导人</p>
+</td>
+<td id="b-14094257199a47d1adde353577e48343">
+<p id="b-18b650ad1eb04f92bb1eb7c0f71b6a46">暂无</p>
+</td>
+</tr>
+<tr id="b-127bf8b76a8e43c8a21d94a92a0633d5">
+<td id="b-6da62a54a8584a0f8de5a58000324837">
+<p id="b-1f29b232ae4d43c9bdf657cc39a0f286"></p>
+</td>
+<td id="b-0c4ec4ecee454b7eab25ac1579116134">
+<p id="b-9d30e013bc8842ba9228a89e0ad603db" style="text-align:center">回扫</p>
+</td>
+<td id="b-42c3a78c33654c03bcc29781c19140d4">
+<p id="b-fff06be2ae00411b8df06ce98498fe7c" style="text-align:center">北斗_分裂旗帜</p>
+</td>
+<td id="b-dc95d7a5ff494beb94709d02f7423dc5">
+<p id="b-3322a72443984a268e45fe33c01fb96d">20793	餐饮SaaS零售版图片-图片</p>
+<p id="b-45c50319036d4713b4e98a880e0568b9">20960	中台内容送审诚信（笔记）-图片</p>
+</td>
+</tr>
+<tr id="b-631d5b0cfefe45bba4aa8569bc710b42">
+<td id="b-fe3a50f29632410693e185d79cd13a22">
+<p id="b-2b64552d316b482c8618cf561591eb21"></p>
+</td>
+<td id="b-c10e3b1f142b4a4f87fd25e719e4568e">
+<p id="b-47acc271b7184c9e9bc80f59a3675ea6" style="text-align:center">回扫</p>
+</td>
+<td id="b-fcb04c27490448008e38d5271d2374de">
+<p id="b-6f55d3e20d3b4773ba893fad59e5f6d7" style="text-align:center"><span style="color:#000">离线策略_高危涉政规则复检</span></p>
+</td>
+<td id="b-c53d6b3e88ae49d39ab2c20fe2c6b730">
+<p id="b-3380511c7f424ec18dd29133d8e6023e">暂无</p>
+</td>
+</tr>
+<tr id="b-2d71d056f95649be806dfc32dbdf5ad9">
+<td id="b-36fa766a98014ab6a4e1dbae9f52c3f0">
+<p id="b-ccb1a2ccfd064b77bb0e780c8f12a0f9"></p>
+</td>
+<td id="b-10d968f147104353824c1919d036cbb2">
+<p id="b-eabdde4e9d3c4cf3aecdd41a0b91a15e" style="text-align:center">回扫</p>
+</td>
+<td id="b-304716e4483e457cb6507925eca4d8e5">
+<p id="b-3b06f5ad8d1748df90fd768780193d0e" style="text-align:center"><span style="color:#000">图片_头像相似图涉政高危_20220430</span></p>
+</td>
+<td id="b-d1255787c3bb49679de2977ab6a2c1f0">
+<p id="b-20db4009ea984f2fb8e3a347044f6a54">20494	平台三方登录头像增量</p>
+</td>
+</tr>
+<tr id="b-554312c839c94161aef8b2391e7f71d1">
+<td id="b-0c19cffd77a24efaa4ecd2988b1ac764">
+<p id="b-6f0375eb50314ad2a23bd76cf248c9ea"></p>
+</td>
+<td id="b-b9a84d93456c4e5986b45b7dfe2d7f95">
+<p id="b-a33cbe44b7d64bdab24238264228b15a" style="text-align:center">回扫</p>
+</td>
+<td id="b-439967be679441f48bc36414ab4d88a5">
+<p id="b-66edd9fa6faa4f808164af17eaa60525" style="text-align:center"><span style="color:#000">图片_相似删除高危涉政_周期</span></p>
+</td>
+<td id="b-1b223b5769e94bc4805fdb7ce89b6dac">
+<p id="b-feb9e05961a040a481b029c3487a6a1d">暂无</p>
+</td>
+</tr>
+<tr id="b-8f0e367e2d36482e8a739d4748ca240c">
+<td id="b-d5c3344d1d8440f98143dfb9b82244f8">
+<p id="b-89f5a1fed29f4e1cbe85ee5cdac92814"></p>
+</td>
+<td id="b-94e78e903ca4422b81b34b5b601443bf">
+<p id="b-ce73df22188f4421bf0331222ea872ea" style="text-align:center">回扫</p>
+</td>
+<td id="b-db3db4c227fd4dcdb232e54585e4e42f">
+<p id="b-16a71589c78e4154a17056b8a65750b3" style="text-align:center"><span style="color:#000">文字_定向高危关键词_周期</span></p>
+</td>
+<td id="b-f16dfa625418479cb0195876b02eff0d">
+<p id="b-0ec3200314d244f39192575f2fd04949">暂无</p>
+</td>
+</tr>
+<tr id="b-34b2ec207e3c4860892ca16994ee7f62">
+<td id="b-f888075dc4a8440b89f61d7e840ac821">
+<p id="b-c7896a5924664058b54cf6303cab26e8"></p>
+</td>
+<td id="b-94101829551a49118face656484ce77f">
+<p id="b-6dc8c24616194c108fbb508481b1ff86" style="text-align:center">回扫</p>
+</td>
+<td id="b-0c9cd96f0f1b471eb53397772fa25f89">
+<p id="b-312cebb9afb04ae9bc293982a6793763" style="text-align:center"><span style="color:#000">文字_相似删除高危涉政_周期</span></p>
+</td>
+<td id="b-4700e0cd2480472abcb1fe473eee006a">
+<p id="b-0f2810908ce8424c94acb72e247f0d66">10173	美团收银-收银会员系统-文字接入</p>
+<p id="b-7ab8ce3828c5444881184fd0f11bbe7e">10179	新到店-丽人美业学院评论-文字接入</p>
+<p id="b-5d05c3370cb84836b11c622094962c8e">10252	联名会员卡C端-领卡流程</p>
+<p id="b-30b0740cac954c8886080e9674a7bdbf">10294	教培正式课程新单</p>
+<p id="b-b8e6782c99864034994c80d8af1c0dfc">10402	到综结婚-预付新单&amp;变更（统一）-文字接入</p>
+<p id="b-7c1d5e0025aa4592bf07d3512f0075ce">10643	美团评论</p>
+<p id="b-c176ddd7b66f49718b99f8e67bd22619">10912	到综交易—用户填写的文字</p>
+<p id="b-f2e7c844e044468fb8cc8bc2aab535f1">10970	广告CPM-文字</p>
+<p id="b-183b72bdd7864772acd3c33c3c9c6dab">11005	教育母婴-教师认证审核-文字</p>
+<p id="b-2ab25b05e3bf42eea369505d6bf93cee">11149	茶饮版会员营销-文字</p>
+<p id="b-515a5efdc220481cb94270029a12f417">11159	餐饮SaaS智能版挂账管理 - 文字</p>
+<p id="b-2a05a356c7634b81aafb0dc4d5516a7c">11160	智能版会员信息-文字信息</p>
+<p id="b-dae15c370663416eb31584a9562ccf83">11161	专业版会员信息-文字</p>
+<p id="b-0f27bd8a0853447992fe3f55f871c9f5">11173	餐饮SaaS智能版桌台管理-文字</p>
+<p id="b-46b4b400068041269b83a14e5d4548bc">11174	餐饮SaaS智能版员工姓名-文字</p>
+<p id="b-403ea329263448cab95a1793eb2c7e08">11178	餐饮SaaS智能版宴会预定-预定单信息</p>
+<p id="b-2d489888ebb6435a88fb98a5293af9ba">11183	餐饮SaaS智能版中寄存-寄存单信息</p>
+<p id="b-0c854f04e2bd444499b0a82794ec1fd3">11192	餐饮SaaS青春版桌台管理-文字</p>
+<p id="b-fc1308ad927545a4bb9d763a287ecaf1">11194	餐饮SaaS青春版门店信息-文字</p>
+<p id="b-17d026320c394d85b05852d673e31bac">11201	餐饮SaaS青春版菜品管理-文字</p>
+<p id="b-45a955cee49746b28aa1135479e6c9bc">11203	餐饮SaaS零售版商品管理-文字</p>
+<p id="b-086fe33495b94e4c911d2b14ecedf43b">11214	餐饮SaaS青春版会员-文字</p>
+<p id="b-44159493696a4958ad8a9c8bb117ac9a">11215	餐饮SaaS青春版票据格式-文字</p>
+<p id="b-5c5ffd79fcf84afbb20da93ec1f039e8">11273	leads-姓名和评论</p>
+<p id="b-d4dfcbb0d102425ca8e4bf92aa59fe5d">11342	客满满微信小程序-文字(存量)</p>
+<p id="b-2e3285b5ae9143709b995ab03013bfba">11358	美团拼场活动发布活动详情 -文字</p>
+<p id="b-eb0f98d369ec4889b69b6bd065401a84">11574	Airbnb评论-用户昵称</p>
+<p id="b-aa813c32acd8435c971df9dbcb2f02cb">409	外卖商品信息接入</p>
+<p id="b-8abe52b87f804d77b2fa74efc6dbaba1">10365	外卖-外卖评价迁移-文字接入</p>
+<p id="b-4ca72ec256dd4643a927bc32c3127906">10726	外卖/闪购/医药商品评价（关联商品）-文字</p>
+<p id="b-19a27b28889e4875af2f8f20812e9a41">10826	（外卖）智能推荐理由-文字</p>
+<p id="b-bf3db9c7a54949c78fcbda08fc9aa301">10911	外卖-我的-昵称校验</p>
+<p id="b-fa29ee33b46747cb98a11572b71b20bd">11289	用户地址-联系人姓名</p>
+<p id="b-f0175b3918f44d918563fb8a06c35527">11412	闪购小程序新增/编辑地址信息-文字</p>
+<p id="b-0e4033abad3d44249b2e0c828cf4f392">11609	外卖&amp;频道搜索-词服务离线接入保时洁</p>
+<p id="b-e2a345f227a24f0392b2e78fddebf9f5">10274	点评账号昵称修改</p>
+<p id="b-702cdfc797344d479325df8529d5945f">10335	新对接-点评用户回应-文字接入</p>
+<p id="b-cc087128f1a54d2c9ce11696c3efd67c">10447	新对接-点评评论-文字评论接入</p>
+<p id="b-831412c0538040c0b006e2148c029c35">10609	点评商家账号昵称</p>
+<p id="b-f7656709c68746aba9bd15a4bfc83413">10618	存量C端点评用户昵称</p>
+<p id="b-35172d4e5efe4631b68f7bd1431c1680">10704	中台内容送审-文字</p>
+<p id="b-3cc3826109d746248761e2c2d427b79b">10708	点评搜索Suggest页引导词-文字 </p>
+<p id="b-84707cbd87734f0ca816c0e5e2f93cca">10819	点评侧展示的美团评价-文字</p>
+<p id="b-47a0431d379d46efa698bb105f9989d3">10837	点评搜索推荐理由-文字</p>
+<p id="b-9fe744037a36497390a9e78a6213d64c">11090	点评内容搜索-摘要审核</p>
+<p id="b-c54d19b1852d42b7a3e2da4ce1419504">10403	美团用户昵称（历史批量）</p>
+<p id="b-352a90115c9341e5aba437c9be3143ce">10539	美团app-用户账号中心-用户昵称-文字</p>
+<p id="b-05cf158854c1491d8173123a852830b7">10650	平台三方登录昵称增量</p>
+<p id="b-1ee7ef72d9654e98884f564b3d0296de">10654	POI新增（批量新增）-文字（有人审）</p>
+<p id="b-52314205f3bd43a7a72ed39f4d6b7195">10655	POI新增（批量新增）-文字（机审）</p>
+<p id="b-e580f28fa5764892bc03d0a1e73e3db8">10656	平台三方登录昵称存量审核</p>
+<p id="b-2e188bd9043d42b298c250030b8f7326">10980	账号昵称nickname-文字</p>
+<p id="b-4bc989dbfb114b7ea26ad76069c20ff4">11104	猜喜内容卡送审-文字增量</p>
+<p id="b-2da47c30f0c340d5a4b9c233c1acfb6a">11157	猜喜内容卡送审-文字存量</p>
+<p id="b-dca62b2b7de9423c9907615b3bb5ceda">11459	常旅客平台-文字</p>
+<p id="b-b1ddafa6aaef4505bb810f119e44dea4">11528	常旅客平台-存量数据送审-文字</p>
+<p id="b-f596ec5699864f1c87a180d59a2f7ede">10918	打车-联系人昵称文字校验</p>
+<p id="b-aad17fab3ca94c0e8e11c1147b5f6cdd">10799	优选提单内容-文字</p>
+<p id="b-7a79364995954270b4de1b67b45c1506">11354	优选提货人（新增）+文字</p>
+<p id="b-69392bef10b647b694f7c051f391d8d0">10365	外卖-外卖评价迁移-文字接入</p>
+<p id="b-2e5b61ff3dfc4527865d792961c1cfc4">10380	配送-海葵订单信息-商品文字接入</p>
+<p id="b-0d0f64e144034ff3b76d8e76754bb61e">10444	外卖-用户评价骑手</p>
+<p id="b-4ed53f5c91a947a582c6ff577badd287">10929	跑腿B-文字</p>
+<p id="b-3810ece0da1948bb9c4331aba034e80f">11264	外卖-基本信息门店名称</p>
+<p id="b-eb019bc2f2424d50b8a986f52a2e11c8">11609	外卖&amp;频道搜索-词服务离线接入保时洁</p>
+<p id="b-d3ff6fe67c544f7eabdf9f0a786f475f">10980	账号昵称nickname-文字</p>
+<p id="b-f263c8c97b8b44a0865f537be6063ba5">11104	猜喜内容卡送审-文字增量</p>
+<p id="b-075d2cb89ac042b6802939e35ba989b0">11157	猜喜内容卡送审-文字存量</p>
+<p id="b-299ee3cbfad7455eb9ddd5354fb119e4">10799	优选提单内容-文字</p>
+<p id="b-9f73f8d9e9aa43a6a69438788c84ee37">11354	优选提货人（新增）+文字</p>
+</td>
+</tr>
+<tr id="b-762e329876544eadbaaf2584b19c39cc">
+<td id="b-cd2b7beb316a462cbd8d54f050db8f42">
+<p id="b-71cde795461a4fa390d380f693759d3f"></p>
+</td>
+<td id="b-e40868cd056446fc8fee12da069c9714">
+<p id="b-9486a28eb3b141d5908360356a558d64" style="text-align:center">批量</p>
+</td>
+<td id="b-0b1f8c84ffde4f85b93fe0407f967bcb">
+<p id="b-8507d70b40f14fbaae6756135c425dec" style="text-align:center">批量导入-高危涉政</p>
+</td>
+<td id="b-19bd57b5df454ac790a34cb1d1ab2aba">
+<p id="b-6e73efeec2f346a9a17e16bfac6e3b9f">20330	点评未合作商户头图</p>
+</td>
+</tr>
+<tr id="b-e42817dcbe95470fa48038a8e4daee1c">
+<td id="b-1c591fc791ba416e90fdafdc9e2d5863">
+<p id="b-e2e0e53e8d1a46f18bf5d45e9de50e0e"></p>
+</td>
+<td id="b-c32c5a04c1e84e29b2bbc6423c024e33">
+<p id="b-1eb73f8acd1e4a939653d38b1794bbb6" style="text-align:center">批量</p>
+</td>
+<td id="b-5c2da9c57bbf48b6b5311334a91bffa0">
+<p id="b-2155a17e63ea4bbbb9d144f88beceda5" style="text-align:center">批量导入-高危政治</p>
+</td>
+<td id="b-b57532d9d41c446186bae01d96911be7">
+<p id="b-fb53d8c5b16b4bf493ee3cb39d282220">10980	账号昵称nickname-文字</p>
+<p id="b-4ad705962eed43ab97fad785fa8835e5">11008	国内酒店POI/房型文字信息</p>
+<p id="b-82588cf0f9a644428fc5bd5a8813b071">11366	丽人-手艺人信息</p>
+<p id="b-87352e0898dc4ded8001598f2a377cda">10681	AOI区域名称-文字</p>
+<p id="b-6131c7f7d1ed433a9017a13b6a9e08f1">10130	大象业务部-用户签名-文字接入</p>
+<p id="b-86ccd93b0f65416daa6d617ad28eaa74">20117	大象业务部-用户签名-图片接入</p>
+<p id="b-bc2354326423420586fa12a934a9e8be">10980	账号昵称nickname-文字</p>
+</td>
+</tr>
+<tr id="b-f44aa81e77ca40a883d246e28a8adecd">
+<td id="b-6b30e799ae32417494fda2fafb3c42ee">
+<p id="b-2dac196ed1104bf0aff74c6360346a5c"></p>
+</td>
+<td id="b-3f7d748d0f8c48b9a39d051d7260edca">
+<p id="b-9c964f241c024c309b9f6dc86093e65d" style="text-align:center">实时</p>
+</td>
+<td id="b-9a63be1295f54effb4a86df7a13648c4">
+<p id="b-d095808543624b8ab0ff31c120f629a1" style="text-align:center">饭否-高危</p>
+</td>
+<td id="b-15d8adbbb4c641e8b9cd48f16e77cc52">
+<p id="b-e93e0a880a92499594a049c59c7675e0">10424	饭否-文字</p>
+<p id="b-011b4eb8413c43f8aa94240e7eaf8449">20336	饭否-图片</p>
+</td>
+</tr>
+<tr id="b-2150146cac8b420bacc63f2e9204ca46">
+<td id="b-c144e9a572b24c7f9086de789eca8606">
+<p id="b-6995dea522c445e08606f4300086d27c"></p>
+</td>
+<td id="b-20e94fd254b64945b34424025718ab48">
+<p id="b-7caf8c7519e342b292bfc2432b76b925" style="text-align:center">实时</p>
+</td>
+<td id="b-92c6561e4d3940fd974a445a800701fe">
+<p id="b-ca021359a5084180a7bd00773dd3edbf" style="text-align:center">高危涉政</p>
+</td>
+<td id="b-942bedd297c54ba6be4f1f296fa36cef">
+<p id="b-828d6e56f7be451fb46924fea8de19fb">21094	供应链平台商品信息-图片</p>
+<p id="b-052ab6cc5c694642b970c8a1b56874be">50002	到综直播</p>
+<p id="b-fe2996575e98407c97097c0681ffe529">21054	站外广告投放-图片</p>
+<p id="b-c0784f1666674dcc9d5d4aa478443d83">10676	快驴商品信息审核-文字</p>
+<p id="b-85512f53995f4746b59a3e713f6615d2">20508	快驴商品信息审核-图片</p>
+<p id="b-2137b55efde34e27ba140bd8df020e0b">10122	美团-零售事业部-掌鱼商品信息</p>
+<p id="b-b682c0c8481b41109e90d301f1532123">11679	美团买菜评论-文字</p>
+<p id="b-ee23878b7b2343e08bd033215ea3d434">20112	美团-零售事业部-掌鱼商品信息-图片接入</p>
+<p id="b-5ea14d44d4814900921f676cb752ce2a">11733	美团免费小说-文字</p>
+<p id="b-a206d4de748b4079aa2a1fafadc3f21a">21094	供应链平台商品信息-图片</p>
+<p id="b-f56567de7ab54762a65c37c179557232">10447	新对接-点评评论-文字评论接入</p>
+<p id="b-dd49e914c9bf4c98820a79ad00836754">20746	Push增量-图片</p>
+<p id="b-2f33bcd43e144bf3b2246e83be7b60dc">11679	美团买菜评论-文字</p>
+<p id="b-c78c3552710848c187d1b802f67846ee">11733	美团免费小说-文字</p>
+<p id="b-6527ace369d742b083667a2c13534b0f">21094	供应链平台商品信息-图片</p>
+<p id="b-4503bf49b89b4f4185fbf23536ee6d71">20746	Push增量-图片</p>
+<p id="b-167047762f6143d5aa866484bc60c152">20508	快驴商品信息审核-图片</p>
+<p id="b-6ddd3912b650402da5d29c80bd4bea87">11733	美团免费小说-文字</p>
+</td>
+</tr>
+<tr id="b-91a9f5ae3b9a442393de0279758eba21">
+<td id="b-7234bed5bb4f4930a8e5e6f6763240b5">
+<p id="b-9d8af66847a5442f8cfa5374b369dc5d"></p>
+</td>
+<td id="b-7a7dc426457f466c8ea657a0f167e68f">
+<p id="b-a0e1af9db0204b26ac6f7dd45ff34e38" style="text-align:center">回扫</p>
+</td>
+<td id="b-be61c4ba6ef644e4b33a3df863eeef27">
+<p id="b-7762052423304b39b6e45c0b477e5b06" style="text-align:center">周期_涉黄_回扫策略_色情关联通过_复审定性</p>
+</td>
+<td id="b-1df241b5ca8a400ba3cb6a22dbe6c7f5">
+<p id="b-0d9da494732849c5ad0560d335b9f334">暂无</p>
+</td>
+</tr>
+<tr id="b-c52a85a3f0904e0990d799986b73c613">
+<td id="b-6569673bd2234397a1c64c224c2910b6">
+<p id="b-cbf21af1550b40d7983a7c7b39141687"></p>
+</td>
+<td id="b-574599ac07c148c59f7096812ff1d90e">
+<p id="b-247063f07e0f464c8585efaebcd7b776" style="text-align:center">回扫</p>
+</td>
+<td id="b-c0d0b84683a84ceab0b4de4070012ff7">
+<p id="b-492a1867c056459ca9d341f17c0e0309" style="text-align:center">涉黄_回扫策略_色情关联通过_复审定性</p>
+</td>
+<td id="b-0055824596b941cc8145fb2fcdcd500d">
+<p id="b-a4c940d0b70342d291fa0f2f6e39fc6d">暂无</p>
+</td>
+</tr>
+<tr id="b-3db86fb868f2411b91e554f20283f4be">
+<td id="b-51e10d44654b49d29a67ad406a9bb552">
+<p id="b-5c4cd053d2c24fcb91081e336a280614"></p>
+</td>
+<td id="b-161e0c6012b34f849954fc373c357bfc">
+<p id="b-1519d6ce882c4f17bbf81da9beae499b" style="text-align:center">批量</p>
+</td>
+<td id="b-1ef037c8969d43cba3e17a6893fb5dcc">
+<p id="b-d1bfe8fb395f400d9e391f865d952040" style="text-align:center">批量导入-暴恐</p>
+</td>
+<td id="b-8b10fecd2f704d0289fd9c8de8f8b1e6">
+<p id="b-42f6302008ae43109865ad9411b94b1f">11008	国内酒店POI/房型文字信息</p>
+<p id="b-8ea840368cfa4f21be31cdc66356295a">10681	AOI区域名称-文字</p>
+<p id="b-d5e78f66c94e41ca9a744961f28b6cd2">11090	点评内容搜索-摘要审核</p>
+<p id="b-c7456d762e164175b0b435e7becb1da6">10130	大象业务部-用户签名-文字接入</p>
+<p id="b-6295418e2a2d47b39037c433e4b48310">20117	大象业务部-用户签名-图片接入</p>
+<p id="b-86d47c685d094ca6976d160df1c83221">10980	账号昵称nickname-文字</p>
+<p id="b-76873a62422b4eae94bdde81768803d1">11090	点评内容搜索-摘要审核</p>
+<p id="b-5bc5ef57256240fc8672f2a151be6828">20330	点评未合作商户头图</p>
+<p id="b-bfcd8a773d754742a334114457641bed">10130	大象业务部-用户签名-文字接入</p>
+<p id="b-ff184836c59a48dd8d39f09f95684ab6">20117	大象业务部-用户签名-图片接入</p>
+<p id="b-e9b95056741043319e18965c0498e1b4">10980	账号昵称nickname-文字</p>
+<p id="b-6078e6eb798d4b2495ad0cdda4aff7fb">11090	点评内容搜索-摘要审核</p>
+<p id="b-dc79b6924b83480ba3cc7adde338137b">10130	大象业务部-用户签名-文字接入</p>
+<p id="b-d1089ae41afa418fa5e00d4f77db6c05">20117	大象业务部-用户签名-图片接入</p>
+<p id="b-1c6c2067781b4267b8eae479c2b5ee31">10980	账号昵称nickname-文字</p>
+<p id="b-19070cc6d2264dd1a521250ff8fda5a7">20778	猜喜内容卡送审-图片存量</p>
+</td>
+</tr>
+<tr id="b-75ebaff686dc4455a082edab482be67b">
+<td id="b-55d9921f78bc49d98366d4da6ed4dc49">
+<p id="b-b520c4800f6e44ae9892bae5c063a124"></p>
+</td>
+<td id="b-ed0e86f598d84375a968fdf4acffe960">
+<p id="b-6814d577a3c44d76a5585656b1097d0e" style="text-align:center">实时</p>
+</td>
+<td id="b-0d3393409f884c1e83b0c37a420879d0">
+<p id="b-c636c5696fee4bb88daeb910271f9e28" style="text-align:center">暴恐</p>
+</td>
+<td id="b-faa62156a54b4fb7afa20750d2a225ae">
+<p id="b-7eaaa54033fd417eaf8651c245b9c61a">21094	供应链平台商品信息-图片	46</p>
+<p id="b-c2d3cc75c7af469d9b5e9d4d020a26f8">40285	M潮视频沉浸页	1</p>
+<p id="b-061813699528442d981da4f92d353af0">50002	到综直播	11818</p>
+<p id="b-cb9406996f84492c807b81081fc1a507">40277	站外广告投放-视频	1</p>
+<p id="b-8442aa8b14a046a3a074944e124823d9">10676	快驴商品信息审核-文字	91</p>
+<p id="b-1c9256e168df4ef6b37cc75bbaac09e5">20508	快驴商品信息审核-图片	207</p>
+<p id="b-12ae904572de487e833fdad5b6661c2d">40076	快驴商品信息审核-视频	89</p>
+<p id="b-e6e24ad6b48141e18993062fc8a44bfb">11679	美团买菜评论-文字	14</p>
+<p id="b-8a562b45edf04e989ef0cc9103694450">20112	美团-零售事业部-掌鱼商品信息-图片接入	6</p>
+<p id="b-da0d01963be44695b0aa0276bc279337">11733	美团免费小说-文字	123</p>
+<p id="b-fd2404ea529c47c99c1a3f15796acde6">21094	供应链平台商品信息-图片	6</p>
+<p id="b-5199ea6249cd40d18e2ea21aad644ea5">40285	M潮视频沉浸页	1</p>
+<p id="b-9cb4bc5ecf5e46c8b081c24994d5f0ef">40277	站外广告投放-视频	1</p>
+<p id="b-a5e6903a3441430e9704f7cc19de88f7">40035	新对接-点评评论-视频接入	750</p>
+<p id="b-99267ea719f1465f95315ab8f1d8cf89">40076	快驴商品信息审核-视频	89</p>
+<p id="b-b9b1399811f846b788b72f1133fb1484">11679	美团买菜评论-文字	10</p>
+<p id="b-27728a212bec469bb10b6539c90d2712">11733	美团免费小说-文字	119</p>
+<p id="b-63ede72f261f462bbff096c3f9ca6017">21089	蘑菇物料图片上传——图片	1</p>
+<p id="b-fef64c713753481cbce33c1e6e728822">11679	美团买菜评论-文字	1</p>
+<p id="b-9f72e2cf92d64de586f0e3ffc6f5b8a5">11733	美团免费小说-文字	1</p>
+</td>
+</tr>
+<tr id="b-e213ae8e6fb74db5b73746d1be1c6380">
+<td id="b-80b8e032c6de45ceb378e35b00c44518">
+<p id="b-7d6b82dbefba4f8485275e90f1663805"></p>
+</td>
+<td id="b-fc937d191da5453881032bbb931787e5">
+<p id="b-e7d245c1942146e282f5896d5bc6ea66" style="text-align:center">批量</p>
+</td>
+<td id="b-c4a7c33a0065488cb5bcb83d0ea24bbf">
+<p id="b-eb87db97292848deb6a4876a14bbdc69" style="text-align:center">批量导入-不当语言</p>
+</td>
+<td id="b-5b98b77b4f664c668222a3ea141c09d0">
+<p id="b-a995963c370844f0bb3e59d55c159576">11008	国内酒店POI/房型文字信息</p>
+<p id="b-9172e9c07b814a23b5ec70910b9c6d52">11366	丽人-手艺人信息</p>
+<p id="b-ef7464b661e0493991de10b44b22dd4b">10681	AOI区域名称-文字</p>
+<p id="b-12e7795dcc6547ac8c6aedf3ac58ce0a">11090	点评内容搜索-摘要审核</p>
+<p id="b-24358dca1695401ea1ccbb121c984fd3">10130	大象业务部-用户签名-文字接入</p>
+<p id="b-fd1f304ef9e34306920c0632344addd2">20117	大象业务部-用户签名-图片接入</p>
+<p id="b-e08601e6ba854241b9537a7b23422d77">10980	账号昵称nickname-文字</p>
+<p id="b-e46162bd728341cda5c1fd7813753c7d">11090	点评内容搜索-摘要审核</p>
+<p id="b-60e56bcbc8f34cdfbd2881c5a9e5f4f0">11090	点评内容搜索-摘要审核</p>
+<p id="b-7fc31fbfd32d475bb6ebc14105926ee1">10130	大象业务部-用户签名-文字接入</p>
+<p id="b-e53e7ebd041b485897039a990b689c31">10980	账号昵称nickname-文字</p>
+<p id="b-3cd0259b08d04b25b54f744c2df8b5ae">11157	猜喜内容卡送审-文字存量</p>
+</td>
+</tr>
+<tr id="b-2da8f5d1a8db4e0bae439a0d187f4069">
+<td id="b-b7b1450ca89b4a9aba1671f44a6c65c2">
+<p id="b-62a1936a9d0d419c8bf4a110f330a95e"></p>
+</td>
+<td id="b-e4bb31f3427e4bf2a1ceaf7573ff6460">
+<p id="b-fae62c72c0f544d1b7407f485f189c32" style="text-align:center">实时</p>
+</td>
+<td id="b-6ded9559af3a4c4891229e213f3b7a70">
+<p id="b-11210c25253a4ed9b222c41a3e541660" style="text-align:center">不当语言</p>
+</td>
+<td id="b-e4083a1c0e8b43f082dd669531d18e9e">
+<p id="b-364335b15e6941b680e1e9f3a6fe5e3f">10735	骑手商城商品-文字</p>
+<p id="b-b6cc2194a1444036acc68f12e8b6e4a4">10676	快驴商品信息审核-文字</p>
+<p id="b-c1519f8b01644a9683e0987bc37af30a">10122	美团-零售事业部-掌鱼商品信息</p>
+<p id="b-2386ba0a58a64fbfa6da9c4976110659">11679	美团买菜评论-文字</p>
+<p id="b-61b5f3c0892a436a8356396bbaa773e3">20112	美团-零售事业部-掌鱼商品信息-图片接入</p>
+<p id="b-f0666b48010848d9a0397d7a114f53b5">11733	美团免费小说-文字</p>
+<p id="b-1b25daf69459470eafd7c79b1f89a6d2">10447	新对接-点评评论-文字评论接入</p>
+<p id="b-05e6341044144d2284e8db0cef8c68f2">11679	美团买菜评论-文字</p>
+<p id="b-69e0c2441f8e451e86aa4a8847c9a4a1">11733	美团免费小说-文字</p>
+</td>
+</tr>
+<tr id="b-dae10b1cfe2049478ecd9e1d57484a9e">
+<td id="b-73333d6316324b549f1d6fa71ad42ca0">
+<p id="b-8324630bc1384b3285fb9f45057683ae"></p>
+</td>
+<td id="b-4528e9f7136c4713a8d4599e3e9dc532">
+<p id="b-757e8a4525f7482c88a2b69243c446ae" style="text-align:center">实时</p>
+</td>
+<td id="b-c09e79af08a8408fbac5182646722599">
+<p id="b-17cbb3e6afab45f09d43dad9fa93e406" style="text-align:center">图片中的文字违规</p>
+</td>
+<td id="b-ad8d0a72f1bf40e8b2a3091a9880f638">
+<p id="b-799a52772e004c9fa90a3bdb6bc2a06c">21094	供应链平台商品信息-图片</p>
+<p id="b-45b2ad23165141c886b88d130aab07a9">21054	站外广告投放-图片</p>
+<p id="b-00c43537c6804441acedb7d1ce4341c7">40277	站外广告投放-视频</p>
+<p id="b-391fe4b16293410fa15bdd519613b210">20358	新对接-点评评论-图片接入</p>
+<p id="b-f4af9f99b00f4e19bac68632b2e305da">40277	站外广告投放-视频</p>
+<p id="b-4030df6f093740ec9183e192168345f5">20746	Push增量-图片</p>
+</td>
+</tr>
+<tr id="b-92a18e648f2d465e85c53cb30c378cc7">
+<td id="b-e526e1d019764323b9e27330c13e5a03">
+<p id="b-05980b5b02bd44a48e0f8a82721aa66e"></p>
+</td>
+<td id="b-1d0bcbd03d9f447494cc81a718d9c797">
+<p id="b-9ee348ee51574fd59237892b57d73799" style="text-align:center">批量</p>
+</td>
+<td id="b-ca01ab2d8da0452dbfb4087a16a87ef2">
+<p id="b-9075ff24f6e94acdad3cb767aae01c75" style="text-align:center">批量导入-恶心</p>
+</td>
+<td id="b-b5374949f5d94fb89b07f2350dc885db">
+<p id="b-4c1272adbd704ff2a3f9767baa3e8341">20778	猜喜内容卡送审-图片存量</p>
+<p id="b-927e52230ad24fb7998e9445ff109b22">40181	猜喜内容卡送审-视频存量</p>
+</td>
+</tr>
+<tr id="b-40216b98edf841a5820069ec9da3fdfb">
+<td id="b-62baa1c0dd94493282b483ba41312f8a">
+<p id="b-285e4322b2594f84b8a12fc49bb03708"></p>
+</td>
+<td id="b-3ffd3d9fe6be43eab9381913c936f5b0">
+<p id="b-0596af7c27f540f68263ac1300469598" style="text-align:center">实时</p>
+</td>
+<td id="b-a16f683633ec4c47bc44415d650298b5">
+<p id="b-2397962caa4c497ca0e23db6f44c9250" style="text-align:center">恶心</p>
+</td>
+<td id="b-abc2c30943dd4e9c8c0acd2290421cca">
+<p id="b-1ff954f6b24849af84e8d961bb708435">21054	站外广告投放-图片</p>
+<p id="b-f964cb28cb3e48069f3f165e7550be1d">40238	医药店铺装修-视频</p>
+<p id="b-2b8a282c27ad41c9b22c9ad41adb80e2">40277	站外广告投放-视频</p>
+<p id="b-eb9909ac51144c85aa381a271b716d04">20358	新对接-点评评论-图片接入</p>
+</td>
+</tr>
+<tr id="b-acc614b654ad4ede9986850f53cc316c">
+<td id="b-dccfa92f8c3c4747949f4660e12dbb9e">
+<p id="b-9589b5cfb8c8400493fe34078fe04a67"></p>
+</td>
+<td id="b-a635bbd55a1247c1abc75d0de3e1ddcc">
+<p id="b-be47054a448045a5ab6798666db89a17" style="text-align:center">批量</p>
+</td>
+<td id="b-694d9a5d031344d48d5f4c0d176ed2a1">
+<p id="b-b6d71388ed6c4a129c5c4b078505f41e" style="text-align:center">批量导入-广告</p>
+</td>
+<td id="b-80d8fe6962e14d6d909627d8e86fced6">
+<p id="b-711b7a3c7d2c4708af634e664845e4a7">11090	点评内容搜索-摘要审核</p>
+<p id="b-a9850a791bd74bada916e7b697b83a16">10980	账号昵称nickname-文字</p>
+<p id="b-03d65deda61343b398c60d53c28116b1">11334	首页猜喜内容评论-文字</p>
+<p id="b-f018420087f645b6be1e65c529de70e4">11090	点评内容搜索-摘要审核</p>
+<p id="b-607bf0717d7d48b0848f94f758c949ea">10980	账号昵称nickname-文字</p>
+<p id="b-e5e9930cefd949c6a650d92615161655">11090	点评内容搜索-摘要审核</p>
+<p id="b-6f7eb30b1821471795e516e6c08584ec">20330	点评未合作商户头图</p>
+<p id="b-151a5853317644fcb884ee1ca4cbbf8e">10980	账号昵称nickname-文字</p>
+<p id="b-cf67f1311e7c438b97980ac7a2b50423">11157	猜喜内容卡送审-文字存量</p>
+<p id="b-389f2319e4854b73887155afc282f958">20778	猜喜内容卡送审-图片存量</p>
+<p id="b-705140b997aa40d28c99233a061ac3ff">40181	猜喜内容卡送审-视频存量</p>
+<p id="b-8b936d468305446086f9400f9e2df685">10463	广告平台-万花筒创意-文字</p>
+<p id="b-9a7c4db72fc9455cb5729cf6b5ffb00f">20512	广告平台素材风控-图片</p>
+</td>
+</tr>
+<tr id="b-6e9a306d659a4abe9f6f84f20b376150">
+<td id="b-df4d920990334345a9a77d2cd0a0f5bc">
+<p id="b-6ee41ad5a5e649aab0dcef59125aee03"></p>
+</td>
+<td id="b-5397f126da324ea889f722d0d16c6a95">
+<p id="b-c30bfbf530254fed8e48e642e54a7512" style="text-align:center">实时</p>
+</td>
+<td id="b-df158c9cfc09490abfc0656412fbe194">
+<p id="b-4c2420d11f624ce1ab90c2b9ba04a388" style="text-align:center">25分钟点评广告实时</p>
+</td>
+<td id="b-66a5066ebb58416d8bb01be37e0d4364">
+<p id="b-5ade294e8c204b27bc9d99184bd84224">11432	广告图文创意-文案</p>
+<p id="b-f181857425734100b87e249ff080f4b0">20909	广告图文创意-图片</p>
+</td>
+</tr>
+<tr id="b-71880efe312547ff87870caab57e3624">
+<td id="b-6b9eea68cad34bdc94bd3b40a9ccf204">
+<p id="b-f3f3d19178a04e6fa915752d2190661b"></p>
+</td>
+<td id="b-9644241b47724bb3b921b54be181644d">
+<p id="b-df82791e9f3e4b5a88b79a6fd19de343" style="text-align:center">实时</p>
+</td>
+<td id="b-5cd30fae86f44cb0b7e3140806e6a6c8">
+<p id="b-5b840332a27a4bc9909221affc47a4f1" style="text-align:center">25分钟美团平台实时广告</p>
+</td>
+<td id="b-a34930ef11f24b7c8782270bf531a7d6">
+<p id="b-4076dda9c36d4a24a3c18923c7a2f160">229	站外广告投放--无矩（视频）</p>
+<p id="b-52e473d94b4c44cfa76cf9c1a220b2a6">10076	站外广告投放--无矩（文字）</p>
+<p id="b-619f50a1216048fbad76c2fb9190b893">20073	站外广告投放--无矩（图片）</p>
+<p id="b-d7f7c66d683e4f598367cdcf2b019beb">20078	【美团B端接入】站内广告—资源位系统图片</p>
+<p id="b-f37e179be1e34d9b9b60eee68fae1884">20079	【美团B端接入】站内广告—活动魔方图片</p>
+</td>
+</tr>
+<tr id="b-bcd366b84b28494cb1b61b1c8abcf312">
+<td id="b-fadb4eb35d5b4e608d4ce2008345ebc7">
+<p id="b-c53d2f576b254d4a8d885d8959fff346"></p>
+</td>
+<td id="b-914d100526a0472eaf3000c7f3d781f7">
+<p id="b-e6c11968546043f7b7fe277a9c78cbf0" style="text-align:center">实时</p>
+</td>
+<td id="b-6241cd4b77774f01a3698f9473e5f8d6">
+<p id="b-fa4bb07be6e14eba9b0afa34b74e4a40" style="text-align:center">到店25分钟实时广告</p>
+</td>
+<td id="b-b969e31324ec4379b2346fd292d6ce39">
+<p id="b-02d8ed7887784667bde7b7ce5ff3d528">10922	四叶草-商户编辑</p>
+<p id="b-ca33437b8c82479499e26c2c1fa62ed3">20081	【美团B端接入】站内广告-广告系统图片</p>
+<p id="b-d56b851cffd4447fa1aba1747c17a867">20108	美团-站内广告魔盒系统-图片接入</p>
+<p id="b-b38c7605f8bf45ad873bdffe527fdc7b">20183	广告平台-站外联盟广告</p>
+<p id="b-f5448165cc914b4985abac808a28f53e">20647	四叶草-商户编辑-图片</p>
+<p id="b-3b3f4327126b40fd9cb9acf9770bc0f4">20669	国内酒店+C端广告内容</p>
+<p id="b-e6c8275bc53f4821bba85563ab21687a">20973	招商加盟广告-图片</p>
+<p id="b-f90275701dee4d668f3321e6c2a7830f">40134	四叶草-商户编辑-视频</p>
+<p id="b-148046f2d823498c8e621b69bd3ae189">10922	四叶草-商户编辑</p>
+<p id="b-4187f67b73d44f629ea6378e5b5ae2d8">20081	【美团B端接入】站内广告-广告系统图片</p>
+<p id="b-732cec70a3d341b48279d43747d0a49a">20108	美团-站内广告魔盒系统-图片接入</p>
+<p id="b-a0328636549642ed97beb66564c2f99e">20183	广告平台-站外联盟广告</p>
+<p id="b-158399097e6742eb91f60a01881a4b80">20647	四叶草-商户编辑-图片</p>
+<p id="b-67f566a8e3d24b6999330416045b0383">20669	国内酒店+C端广告内容</p>
+<p id="b-1cab9bedb03b4d92a75bff880184bab4">40134	四叶草-商户编辑-视频</p>
+</td>
+</tr>
+<tr id="b-67c08a49a347440fa278dddadacdc79d">
+<td id="b-47a8fb3d6b85437c9c1c07a1141a2234">
+<p id="b-d4b157cea3e94179901986ab812c5969"></p>
+</td>
+<td id="b-ad0002970d404d36becf481fdb4fb399">
+<p id="b-ad5d1db45e0d413c9ad99b9c336c8a8b" style="text-align:center">实时</p>
+</td>
+<td id="b-d5ebc987ad1442b190d500ec856d46a8">
+<p id="b-6737e7a696a549d79d4734b4521eea39" style="text-align:center">广告</p>
+</td>
+<td id="b-3ec6b36db53c449b94002e571a643616">
+<p id="b-f94a2602fdf24bf4bb9172b665663fb0">21094	供应链平台商品信息-图片</p>
+<p id="b-3b2ba34f2b4f4aaab204f3f89cc5a338">21054	站外广告投放-图片</p>
+<p id="b-eeb3f05e0e2a42f6976912ebe164d47c">40238	医药店铺装修-视频</p>
+<p id="b-a973ea05f34c43f8bcc4d0cb1839c5d1">40277	站外广告投放-视频</p>
+<p id="b-b199ec6cf2bc42969b75ea87c5e305ba">40076	快驴商品信息审核-视频</p>
+<p id="b-f2c1982ce443400e9f88dabe0de61cf3">11679	美团买菜评论-文字</p>
+<p id="b-c6a01fee28b146dda3be0a04cc8a764a">11103	优选团长企业微信推品-文字</p>
+<p id="b-a1d8e3a60ecf46d7942578af33f015fe">20749	优选团长企业微信推品-图片</p>
+<p id="b-3ba45c9234e24ed7af95c4633b5ebe33">10447	新对接-点评评论-文字评论接入</p>
+<p id="b-9cfcf0c9a83940379921c66f4e1a521c">20358	新对接-点评评论-图片接入</p>
+<p id="b-4c2e9538aef3475191c3526177a850d0">40035	新对接-点评评论-视频接入</p>
+<p id="b-df3df0b1f6ba477fa376f2c38546e8e2">20687	到综在线咨询-商户图片（高危类目）</p>
+<p id="b-fda437c8ec474c03972b6f911983e043">20583	拼好饭微信社群聊天内容-图片</p>
+<p id="b-851e5c644bae4cb3a00adcbf647ecac3">20648	医药-商&amp;用IM-图片</p>
+<p id="b-9b7802529d7f49d3b7d551758d6ac26b">20649	闪购商&amp;用IM-图片</p>
+<p id="b-7f12711dc3544a9aa39c06f5cdd31806">20664	跑腿订单-图片</p>
+<p id="b-6d4daa1c606f4ad6935982fb663b0874">20787	外卖社群-运营活动信息-图片</p>
+<p id="b-948e4613e81c4aaab4d03bdf81fe6fa3">40238	医药店铺装修-视频</p>
+<p id="b-67d4bb4b7f2748499d048ebe92afae24">20746	Push增量-图片</p>
+<p id="b-caad263808a0447980ab5cc642b978f2">20555	微信生态群控-聊天图片</p>
+<p id="b-c9a7b77379d747e49fda515641ffa77a">20817	直播封面-图片</p>
+</td>
+</tr>
+<tr id="b-0eed5d78d79f4b13a50a0ab2bb83aed1">
+<td id="b-7ccc5df985cd462793fe8b0c0c754d37">
+<p id="b-0d0483a633f74a2a95e5db2c7404cb71"></p>
+</td>
+<td id="b-1133b08bef184ec9a99b1633911c1b1a">
+<p id="b-b089792bddb644d08997c53dc43a6a14" style="text-align:center">批量</p>
+</td>
+<td id="b-48aa856a70e04468b783b25af5f9dea1">
+<p id="b-5ea76f5484864d51ab5d9fe7e69b6893" style="text-align:center">批量导入-垃圾图片</p>
+</td>
+<td id="b-6878dc87c56044da81ce9f273ee6e853">
+<p id="b-d9f87ad481644e979ded150caec709c3">20117	大象业务部-用户签名-图片接入</p>
+<p id="b-14d66cbcebeb432ea7f99bbbdaee1666">20778	猜喜内容卡送审-图片存量</p>
+</td>
+</tr>
+<tr id="b-f4c93c95575e4cc98afdbd31d1d1cadf">
+<td id="b-193a96952df0473e953087f69b19e8c3">
+<p id="b-76e2327cf2814992bc3c70123001d3bc"></p>
+</td>
+<td id="b-5efdb982e303455f8e2b10c2ed157247">
+<p id="b-7b2682ee70f743baa9de1362f3f010e5" style="text-align:center">批量</p>
+</td>
+<td id="b-80e750f030cb4509bbb90bdbe30620cb">
+<p id="b-99f5c0d552ee46c8bb32138946ead1df" style="text-align:center">批量导入-垃圾文字</p>
+</td>
+<td id="b-65e9de94a38e47b48d7a2627b1250fb5">
+<p id="b-8d8c66065b5f47b2a83382945e88336e">11008	国内酒店POI/房型文字信息</p>
+<p id="b-6daf06a2a78948c49cf327737809e238">10681	AOI区域名称-文字</p>
+<p id="b-60385fef06fa4431a25c136efd8df093">10130	大象业务部-用户签名-文字接入</p>
+<p id="b-46ab3d02952042b4aff5264beef61731">20117	大象业务部-用户签名-图片接入</p>
+<p id="b-21c566a6333348f18cf769b92a44a8ab">10980	账号昵称nickname-文字</p>
+<p id="b-08b620f5334448b38002751378d754da">11129	首页推荐title存量</p>
+<p id="b-c0ac7680719f47719599e8d1e07686fb">11157	猜喜内容卡送审-文字存量</p>
+</td>
+</tr>
+<tr id="b-66a00c735e0c4d1faac5b3ccfd5de6e3">
+<td id="b-896ff1d84b4c41648b78ebe714ac15e1">
+<p id="b-4a8dc3b1921e43aab9678666dc7a40ff"></p>
+</td>
+<td id="b-eff9169f449b46608e7fbdd3967bfdab">
+<p id="b-cb487b9810b74ace8560a39034f23087" style="text-align:center">批量</p>
+</td>
+<td id="b-6563bf8fc4374ba7afac47c700da7953">
+<p id="b-055eb553ca954950a0d09279c4e7cb24" style="text-align:center">批量导入-涉黄</p>
+</td>
+<td id="b-bdfcd559814a43a3875efd6292950c66">
+<p id="b-aebf3531ed4b476da9b99135fc40a2e7">11008	国内酒店POI/房型文字信息</p>
+<p id="b-4d4be654cfad470e99d50e5ab85b8e8c">10681	AOI区域名称-文字</p>
+<p id="b-973fbf94ea7f430c82e0100e52f12a57">11090	点评内容搜索-摘要审核</p>
+<p id="b-c0059aead1f2459487b3eb4b5f1b0ac1">10130	大象业务部-用户签名-文字接入</p>
+<p id="b-c74e3cc8e416408c886d2c9beb4ee50c">20117	大象业务部-用户签名-图片接入</p>
+<p id="b-5f37e72733494ce29138883aadf42b9d">10980	账号昵称nickname-文字</p>
+<p id="b-d921744f94224781a0a8a2f1efd56d20">11119	供给中心测试-文字</p>
+</td>
+</tr>
+<tr id="b-2ee367ea79a54b93b46d08044e8f1b0d">
+<td id="b-ed67027781544fc88c5cdaf85d1cb377">
+<p id="b-0e417343386948dda0b9888513f92db3"></p>
+</td>
+<td id="b-627938efb1d34e75a573f62c286e280e">
+<p id="b-f57a067810d34276a4684191705a0932" style="text-align:center">实时</p>
+</td>
+<td id="b-4d2273f73c334b7cb957eaf0b176dafb">
+<p id="b-930468dd6b3f401fb3b25b77472c61cb" style="text-align:center">色情</p>
+</td>
+<td id="b-0abce39a6a134458a48c788726fdebe5">
+<p id="b-1b6aedc5aa90424384da5f2a127c46b1">40238	医药店铺装修-视频</p>
+<p id="b-cae8a80bd2dc4f4b95f6b4bd89fb5ac9">11679	美团买菜评论-文字</p>
+<p id="b-c75e6ee2352e4de6b24b7344453487e9">11733	美团免费小说-文字</p>
+</td>
+</tr>
+<tr id="b-8c47316514f7462592d90df62e33c959">
+<td id="b-fe77842bfcb34d53a030414a17ee9876">
+<p id="b-3b544cc979944de7bd6fe43d9c28b565"></p>
+</td>
+<td id="b-50b9c91ae61a46368c4975e6f660dee4">
+<p id="b-c7391cc7ad68449c8b066f46ea0a71f6" style="text-align:center">实时</p>
+</td>
+<td id="b-cc423c47154f4d4db9cc91c9037e1008">
+<p id="b-584e7a7e9db444039a2739620983c962" style="text-align:center">涉黄</p>
+</td>
+<td id="b-1cbc88cbb252494caf7db914acf30717">
+<p id="b-ca89ea4555054a2b92000fcf56cd5d0d">20698	到家商品-闪购（宠物医药）图片</p>
+<p id="b-7ea80f2dc4544f3c8380873b65093558">21075	结婚彩妆风格作品审核</p>
+<p id="b-fad903e4208e4b9098f0108a77a3fc45">21094	供应链平台商品信息-图片</p>
+<p id="b-39dac17fea084d6da161bb409d47f901">50002	到综直播</p>
+<p id="b-ba97925694104e3a851c9b6c2beb8d9d">10735	骑手商城商品-文字</p>
+<p id="b-f2793aab239e4d68b3e7cb03ec8cb951">11484	医药店铺装修-文字</p>
+<p id="b-290a2e34b2b34579b081fa6341ccc5a0">21054	站外广告投放-图片</p>
+<p id="b-52865429b31d4adeae12859219eb9c3e">40238	医药店铺装修-视频</p>
+<p id="b-7de2cc8ac9c64d2eb5edc0a5f31f7278">40277	站外广告投放-视频</p>
+<p id="b-295566b7bbdf4d2982d2784574544a48">10676	快驴商品信息审核-文字</p>
+<p id="b-103d88a80b734b399377878eafc4622f">20508	快驴商品信息审核-图片</p>
+<p id="b-d8bcfd4a824f4cf39d2a3210c007fe27">40076	快驴商品信息审核-视频</p>
+<p id="b-c4fbe09bfe7a48508c0714c6469d85d5">10122	美团-零售事业部-掌鱼商品信息</p>
+<p id="b-e5b5612eefdd4a6aa75a069802293b8d">11679	美团买菜评论-文字</p>
+<p id="b-a1f00622f79748ff8e306fdbcce8f65f">20112	美团-零售事业部-掌鱼商品信息-图片接入</p>
+<p id="b-9e76a11d944b49ddb7ea9e35c7ce8a39">11733	美团免费小说-文字</p>
+<p id="b-2912011d611a4e7292dcde2568b0e446">11103	优选团长企业微信推品-文字</p>
+<p id="b-cec95da796cf4a23a9a265f139be9373">21075	结婚彩妆风格作品审核</p>
+<p id="b-ba814a8dcdf74387850dcaf545a32313">21094	供应链平台商品信息-图片</p>
+<p id="b-75995da95d4a40a083328d447403f04a">11484	医药店铺装修-文字</p>
+<p id="b-29391ca3302148ba8b7a4a87ee6c26a7">21054	站外广告投放-图片</p>
+<p id="b-78fad51cf2324d37bf2355f9c26c26f9">40238	医药店铺装修-视频</p>
+<p id="b-d79fb7adfe72429483a32733697baa7b">40277	站外广告投放-视频</p>
+<p id="b-130f48668e074ca0a51e7976ce445455">10447	新对接-点评评论-文字评论接入</p>
+<p id="b-f735162e7d404038ad2dbee7974043c4">20358	新对接-点评评论-图片接入</p>
+<p id="b-97bb66b5f1634235a3f85f8c9429d22a">20746	Push增量-图片</p>
+<p id="b-c47913302e22467ab6a878c6248295cd">40035	新对接-点评评论-视频接入</p>
+<p id="b-73c05252b9ac4190a75b3a7d7203ea4a">20508	快驴商品信息审核-图片</p>
+<p id="b-1b7ea47517e843a89f8f99818e721f57">40076	快驴商品信息审核-视频</p>
+<p id="b-9bf776c62b034399b43793fe5d807f3e">11679	美团买菜评论-文字</p>
+<p id="b-42583dd5804b41d9be76ae6331fd6226">20112	美团-零售事业部-掌鱼商品信息-图片接入</p>
+<p id="b-921e7975776b47829c704c8f28fd1b4d">11733	美团免费小说-文字</p>
+<p id="b-9fa4ad90f1a34a75a09d377c4d4da379">11484	医药店铺装修-文字</p>
+<p id="b-f9b81c80202646bd8ff7b0f83cf49505">20290	到家-外卖广告-图片接入</p>
+<p id="b-5665bc43304a4565969a46982a3c9b5c">40238	医药店铺装修-视频</p>
+<p id="b-b5cd9c3fad5445379d5315b8c865f1d1">20746	Push增量-图片</p>
+<p id="b-61bbfadc184e4efab8a91b50b94b5f16">11679	美团买菜评论-文字</p>
+<p id="b-0b4920b23a6a4c1c88ace61b8fd5fd13">11733	美团免费小说-文字</p>
+</td>
+</tr>
+<tr id="b-ecfa3cc508014820a55d543544ea4f1b">
+<td id="b-a43dfb2a9b59483aa40534cbbc2a0a43">
+<p id="b-f08b0c0141b0415ea4591da20beeffa0"></p>
+</td>
+<td id="b-d881295ebe5240c4b1eefe9d45cf1f32">
+<p id="b-9a4ab27a2c384eee850e2bd16bc175f9" style="text-align:center">实时</p>
+</td>
+<td id="b-9b45e3e9896d4d04b624556f18fe4229">
+<p id="b-7fa5613f939e4e7898fc2fae04b8adb8" style="text-align:center">涉黄舆情&amp;冲塔</p>
+</td>
+<td id="b-2aa1c7b949a744fcb267cc61cc48aa95">
+<p id="b-5f39d82d33834c089bc71f7455ca9525">10464	广告平台-万花筒创意非批量-文字</p>
+<p id="b-2a4652b0deb748d38b1ce7454c063040">20370	广告平台-万花筒创意非批量-图片</p>
+<p id="b-846872a4235b40c7936bdf9d21361231">10336	新对接-点评商户回应-文字接入</p>
+<p id="b-bfc587919c7845a79fe678f2ec187bcd">10447	新对接-点评评论-文字评论接入</p>
+<p id="b-ac830358a7354ba781098a34faca071c">20358	新对接-点评评论-图片接入</p>
+<p id="b-7b74ce2e86fe4074a9db4ab60b7cfe98">11104	猜喜内容卡送审-文字增量</p>
+<p id="b-ee355b617619462ebbbb46ead0b1f99b">20750	猜喜内容卡送审-图片增量</p>
+</td>
+</tr>
+<tr id="b-42b96e02e6ce4e71a8ad8f2173be47e5">
+<td id="b-70cc35cd613e4abd8b28d2dae23965cb">
+<p id="b-fa1d11f7a6e64a358f1dbacff0357e27"></p>
+</td>
+<td id="b-01ab0ef0bb3e4083a2774c1615239cf7">
+<p id="b-55452ff147be402da0c5c4831ab78e03" style="text-align:center">批量</p>
+</td>
+<td id="b-4f99bc2039974e95bc2504b3779719fc">
+<p id="b-2b165e70a6b04d29b4c26c0fa6998e28" style="text-align:center">批量导入-违禁买卖</p>
+</td>
+<td id="b-89c2657e0cb0457e8165131dc98c2c7b">
+<p id="b-289324e453b94e8680a1ab9079eb56b6">11008	国内酒店POI/房型文字信息</p>
+<p id="b-4dbc75aa03754ac182d61bac7e7c30ab">10681	AOI区域名称-文字</p>
+<p id="b-9887a4825d13437e89aeb99bd5fe2ec7">11090	点评内容搜索-摘要审核</p>
+<p id="b-3897371b57a541a19e66bef9ea4265c1">10130	大象业务部-用户签名-文字接入</p>
+<p id="b-7378b8ca89bd435e97fcf01511252524">20117	大象业务部-用户签名-图片接入</p>
+<p id="b-d539a99c4fda44fcac84d5665b1d075e">10980	账号昵称nickname-文字</p>
+<p id="b-dcefe976575c4ea3bc94fff960cf5f5b">10862	榜单-数据排行榜-标签</p>
+<p id="b-bbd503014ccf4dcfb20a2048a003c3a3">11090	点评内容搜索-摘要审核</p>
+<p id="b-6b60902f684a4cabaaf578ba9b774f90">10980	账号昵称nickname-文字</p>
+<p id="b-1ea8f0f951484ed88bcbf77cdee79220">11462	到综送审网关-文字</p>
+<p id="b-4a8ca3b9189048969a034c9bee343a74">11518	到综商家存量数据-文字</p>
+<p id="b-2f6a1a4bd1b14495b57e4b7ca0715047">11090	点评内容搜索-摘要审核</p>
+<p id="b-312a8e9095c5414d9e49131a0bc499dd">20330	点评未合作商户头图</p>
+<p id="b-107f9f79a5e342cebd77ac8f1d184c4a">10130	大象业务部-用户签名-文字接入</p>
+<p id="b-d0fe984f292b4b759e9f043b768e28c4">20117	大象业务部-用户签名-图片接入</p>
+<p id="b-174fcdb945024a3aa9febb96bed80cd1">10980	账号昵称nickname-文字</p>
+<p id="b-537ff5d3b1ff4fea8af2e37c5f7de844">11157	猜喜内容卡送审-文字存量</p>
+<p id="b-00620317010743b68ca03f68ddbd589a">20778	猜喜内容卡送审-图片存量</p>
+<p id="b-4991ef1ff3324437abf1fdd21aa61166">40181	猜喜内容卡送审-视频存量</p>
+</td>
+</tr>
+<tr id="b-7fb484bbbf434cb88bbe8f461ddb1a86">
+<td id="b-eef0f44f06964f5aa7a8717403f484cc">
+<p id="b-ec6825d145bb4ff7b6737aa1944b2ab1"></p>
+</td>
+<td id="b-91dc559ace4f4761b1b6b93064d1e704">
+<p id="b-a7d38706c64e4e10b0bfaed0c67ee7b7" style="text-align:center">实时</p>
+</td>
+<td id="b-6292874e72b347699774db28f47b5937">
+<p id="b-a62339838d66433d8643596f93ee6b06" style="text-align:center">违禁买卖</p>
+</td>
+<td id="b-b9cbf0d3231d4fde94cca355aa0161bf">
+<p id="b-43f17af30bdf4b3e938113d7b7661a15">11695	酒餐活包+到餐商品平台推荐语</p>
+<p id="b-30aa76efbfce450192ec23e266895399">21075	结婚彩妆风格作品审核</p>
+<p id="b-2363fc6e444640d98aeb44489a9a93cf">21089	蘑菇物料图片上传——图片</p>
+<p id="b-897a1d3b93a644fb9bbcff4b489c2b1e">21094	供应链平台商品信息-图片</p>
+<p id="b-e07478e98e274f7887d32ed69a229686">40285	M潮视频沉浸页</p>
+<p id="b-3d066fdf0fe943f58610e954437ee798">243	外卖/闪购/医药商品视频</p>
+<p id="b-96a2fe10f0684a71b4809bf70658931f">10735	骑手商城商品-文字</p>
+<p id="b-bbea6462fb3d441981985562b38c1fb6">11484	医药店铺装修-文字</p>
+<p id="b-258cdcd0147c4493874b7c265a7dc430">20294	到家-外卖广告-展示广告-图片接入</p>
+<p id="b-42c73dfd7fbc4e52a69c2c062c683616">21054	站外广告投放-图片</p>
+<p id="b-fffb43da59ae475f9796a084add16499">40238	医药店铺装修-视频</p>
+<p id="b-7fdd4aa93b1245099810bddc60439b95">40277	站外广告投放-视频</p>
+<p id="b-7f8a55e041e544fc832f88e7439c9fad">10676	快驴商品信息审核-文字</p>
+<p id="b-e8728de5b66546a98e4159b541e06d6f">20508	快驴商品信息审核-图片</p>
+<p id="b-60bcb8a8bea24ab5a8d1ee98c331ece8">40076	快驴商品信息审核-视频</p>
+<p id="b-596830755d9346f48f9d552141acd8d4">10122	美团-零售事业部-掌鱼商品信息</p>
+<p id="b-6ea207c21cbd4096a99c08b0090e1db4">11679	美团买菜评论-文字</p>
+<p id="b-3238f46b92bd4c4abbc370265ebb8443">20112	美团-零售事业部-掌鱼商品信息-图片接入</p>
+<p id="b-a3931566d7d74563a03f718c69b92301">11733	美团免费小说-文字</p>
+<p id="b-070c9962c02e4d388edb7d192f3432b2">11103	优选团长企业微信推品-文字</p>
+<p id="b-3f9cc3e19f844e618499b0520ae3714b">11115	优选C端PUSH模板-文字</p>
+<p id="b-ac7ccac608ef4cfc8070c2b90c1cfc90">20749	优选团长企业微信推品-图片</p>
+<p id="b-676d12de09c14d8eada2bbd0cf0a8bbd">11695	酒餐活包+到餐商品平台推荐语</p>
+<p id="b-0ec75e00094d4d409c60366cfa5960a9">21075	结婚彩妆风格作品审核</p>
+<p id="b-cb0de631f6ca41a3b612d88bf61b93a2">21089	蘑菇物料图片上传——图片</p>
+<p id="b-87602c9156ac4d018430f46d7a93f306">21094	供应链平台商品信息-图片</p>
+<p id="b-fe0e73451b0f4b62b804ba3e439ec3f1">40285	M潮视频沉浸页</p>
+<p id="b-bcd73ad9e9834197b1a0b9f28e58d18c">243	外卖/闪购/医药商品视频</p>
+<p id="b-ff742bcce9d64943b129da584747bf33">20294	到家-外卖广告-展示广告-图片接入</p>
+<p id="b-12416ef7e37749a0adbd8a07c4370ffe">21054	站外广告投放-图片</p>
+<p id="b-ec7a7b041485441da121d28ced053da7">40238	医药店铺装修-视频</p>
+<p id="b-cf5b3c0f9f844296bcf064859c2f2320">40277	站外广告投放-视频</p>
+<p id="b-3575d851a9094b4584f07397f6149e88">10447	新对接-点评评论-文字评论接入</p>
+<p id="b-80b0e22232954393804f0d3d3fff5c5f">20358	新对接-点评评论-图片接入</p>
+<p id="b-e0c57d7d40464af2b6fdeddf50146101">20746	Push增量-图片</p>
+<p id="b-f8500dabe1ac4ac3aee2e74c28246676">40035	新对接-点评评论-视频接入</p>
+<p id="b-f5c6c25961984c08bad4383ee04164e7">10676	快驴商品信息审核-文字</p>
+<p id="b-17bbf8ea81fe4e86810b1382db46b28a">20508	快驴商品信息审核-图片</p>
+<p id="b-3891a61d54bb428e864d70414a6eabdd">40076	快驴商品信息审核-视频</p>
+<p id="b-83570c39cbf04f0abcf6556659eefcec">10122	美团-零售事业部-掌鱼商品信息</p>
+<p id="b-dda2dc46ae694278a73edad22b790999">11679	美团买菜评论-文字</p>
+<p id="b-cd32b443fe2d4a14b0131c65ff45a990">11733	美团免费小说-文字</p>
+<p id="b-3c04170e3b434fdbb0b5b067d838b6f9">20749	优选团长企业微信推品-图片</p>
+<p id="b-6df24e7f0694427ab88638ea979025ad">20649	闪购商&amp;用IM-图片</p>
+<p id="b-11659412290041eeb579cbcace726311">20746	Push增量-图片</p>
+<p id="b-f2d8ef953304498788094909e5588b3e">10676	快驴商品信息审核-文字</p>
+<p id="b-3e6ca7bb0bad4ad69a7496e7f7b3bdf5">20508	快驴商品信息审核-图片</p>
+</td>
+</tr>
+<tr id="b-bea133fcaec3422c99907f25bb36c1b5">
+<td id="b-fe4918e1fbb44c8eb7c60daf12fd06e2">
+<p id="b-7ae69f0efaf6489d891672c6d9c3f0a4"></p>
+</td>
+<td id="b-91ac40a2ef4d4d5797ccc83abd4bb4ac">
+<p id="b-892d9d5f6e364dd6a302c1eeefdc825b" style="text-align:center">批量</p>
+</td>
+<td id="b-304909e7d88c4c59a19a695b335f37ca">
+<p id="b-a3727277924a41c394b197c1faa0180e" style="text-align:center">批量导入-新闻</p>
+</td>
+<td id="b-0d1ec1d09e1d4272aa258c28e442aa12">
+<p id="b-15c12bbfd3554a3e8fa9b4b961c97473">11008	国内酒店POI/房型文字信息</p>
+<p id="b-880288869b7f42d7979acc6c38bbb249">10681	AOI区域名称-文字</p>
+<p id="b-3b7b50e2a4384771884d46f9ca56b361">11090	点评内容搜索-摘要审核</p>
+<p id="b-bd560bb2443840c7ae7ef6f6621ff5a3">10130	大象业务部-用户签名-文字接入</p>
+<p id="b-cc80de4facf943f99baf9aabdc883455">20117	大象业务部-用户签名-图片接入</p>
+<p id="b-f1526a0f422c45d3bfc984877b182143">10980	账号昵称nickname-文字</p>
+<p id="b-1bfd07de04434ffa8c75ed8d29d07253">11090	点评内容搜索-摘要审核</p>
+<p id="b-ba9ff29c797c4afaa803bc3cfe87f6d6">20330	点评未合作商户头图</p>
+<p id="b-11ba111a1a2e4c1d945b8759b554a024">10980	账号昵称nickname-文字</p>
+</td>
+</tr>
+<tr id="b-10fd12125e3640dc8fb2268c611558ac">
+<td id="b-497274cf80034ad19edaa2b0b29610f0">
+<p id="b-8442c7f14d464beb8439829e9d6621aa"></p>
+</td>
+<td id="b-bd85dab83d2b479f926abeff1a024d9a">
+<p id="b-22907f6660374f62b5473682b946b79d" style="text-align:center">实时</p>
+</td>
+<td id="b-25c6bf270ff64eff80189b7e361be1ce">
+<p id="b-d2c29d1560ba4f4a8fdc5a561075f19a" style="text-align:center">新闻</p>
+</td>
+<td id="b-9ef28dc537cc47028316e285d746dba2">
+<p id="b-86984e4186ee49ea9b6bc7e7ae29ae70">40277	站外广告投放-视频</p>
+<p id="b-ec123e3ebc0d4514b82a4c878550eaf6">10676	快驴商品信息审核-文字</p>
+<p id="b-447865a1a2994375b99b72a733a20b47">20112	美团-零售事业部-掌鱼商品信息-图片接入</p>
+<p id="b-9567448c1e2c45fcb9950c12137197fd">11733	美团免费小说-文字</p>
+<p id="b-9987c662e3ba4e87975a9286b3529a9c">40277	站外广告投放-视频</p>
+<p id="b-ab6c0d5f7e894e74bfeb5ffcd00123b5">20358	新对接-点评评论-图片接入</p>
+<p id="b-3c33d360fe01437d8a81eca7ffe24692">20746	Push增量-图片</p>
+<p id="b-b4e2aeb1ebf34758b19f548a6934c40d">40035	新对接-点评评论-视频接入</p>
+<p id="b-59607815f83a4cbfadd4f8c632f7a747">11733	美团免费小说-文字</p>
+<p id="b-4a3ba5b7a926481a9eb45292b7210507">20746	Push增量-图片</p>
+</td>
+</tr>
+<tr id="b-08298e5d126446f2b7c6edee4a9274c0">
+<td id="b-148ff9a4b095462dad3eadcaaa0185b3">
+<p id="b-ddb1ea33919d4c4eb2e3cafae0d3ce10"></p>
+</td>
+<td id="b-8346182eeca54583b05ea7da4d1775cc">
+<p id="b-6d3843e73aa84ca78bfdc018aa652eaf" style="text-align:center">实时</p>
+</td>
+<td id="b-5f28004947e343a7b6fffc26708ba256">
+<p id="b-58021034128f483287b1961b0e6493cb" style="text-align:center">点评达人信息引流专项</p>
+</td>
+<td id="b-a2efc9ab8ef440a1adae6d17363e8059">
+<p id="b-3f29ebdfdc174e6fbd322041d73b376e">10262	点评用户签名</p>
+<p id="b-4b7e6dd0b2ef4c618f53f2a1c6fe8754">10274	点评账号昵称修改</p>
+</td>
+</tr>
+<tr id="b-33ae950b99024a3481d4f69e7158f61a">
+<td id="b-8365be22f6fe403db46acb3a6f362721">
+<p id="b-857c91b436ee47898668c8fce2192a7a"></p>
+</td>
+<td id="b-712b16bd5541414dbb5e1300333dd56a">
+<p id="b-594181d04cf14ee9a76e69c5e4820a11" style="text-align:center">实时</p>
+</td>
+<td id="b-8ad364a4dc52422a8ec7e031c8661964">
+<p id="b-2bb74d1b17b64ddaab3efe7501618006" style="text-align:center">点评非重保通用25分钟</p>
+</td>
+<td id="b-d3aaa53fcba54b8f8b846c7ebb0ac7a3">
+<p id="b-84160f0253ec4e1b920f7e2daf608459">10065	雅典娜后台文字接入</p>
+<p id="b-9e6eb1e7155f44aa97e73671702ea28d">10070	品牌业务-门店动态文字接入</p>
+<p id="b-3799cff873004e41b05504b909e76146">10072	品牌业务-品牌资讯文字接入</p>
+<p id="b-1f749c74cfe74b4197d1e1f6156fba5e">10207	点评商户问答-问题</p>
+<p id="b-2edcc8b074f148e792bdd96a68912df0">10208	点评商户问答-回答</p>
+<p id="b-6ba4c864a2804d29b7c56a87530c5838">10209	点评平台问答-回复</p>
+<p id="b-b829e3272b8f41aeb835ae0a74fc194e">10262	点评用户签名</p>
+<p id="b-347e2480c9b24b1ea86d0560c15dc3f3">10336	新对接-点评商户回应-文字接入</p>
+<p id="b-f882f47ca69a456ab274dcf8bb3ded0d">10371	UGC-用户自定义纯文本标签-文字接入</p>
+<p id="b-c8578ada4c53434f8580483f435ec3ae">10413	新对接-点评新回应-商家新回应-文字接入</p>
+<p id="b-bfeba8831b154102b24aa119c1ce8bd0">10448	新对接-点评评论-视频贴纸文字接入</p>
+<p id="b-0defcaf91d5149d1a991f1b70c970b92">10462	点评-霸王餐活动回应（业务）-文字</p>
+<p id="b-79fe1e1662e647f995449e9c8b81e7db">10492	点评app-推荐菜-文字</p>
+<p id="b-b6250c5f8e9a4fb4b1b02fd9b93fa4fd">10531	点评app-收藏-专辑名称-文字</p>
+<p id="b-d1f529786d2f47028f6cf314f599779e">10558	美团商户回应</p>
+<p id="b-b7fe6e2c961f49ee80ffe2825918a948">10781	Oscar奖券使用规则-文字</p>
+<p id="b-a906e8b7f1624a04a72c16c013a197c8">10819	点评侧展示的美团评价-文字</p>
+<p id="b-1b2887d583514c0bb47e5eca443b160c">10926	内容搜索标签-文字</p>
+<p id="b-c40f913cf8774766b30f4ae1fefcb29d">20064	雅典娜后台图片接入</p>
+<p id="b-1c44609975894b69980ebe1c13f3632c">20068	品牌业务-门店动态图片接入</p>
+<p id="b-55374fabc15645b6a88feacf8be8a4e6">20069	品牌业务品牌资讯-帖子图片接入</p>
+<p id="b-e765bcac3e424b1590306de2896f602a">20070	品牌业务品牌资讯图片接入</p>
+<p id="b-50a6d98e13334b11b1bb01e52ae72385">20169	点评平台-profile页面封面-图片接入</p>
+<p id="b-cd1bc29c8262453787b031030d151b61">20187	点评平台商户问答</p>
+<p id="b-4cefd30bcaea48018118bd672f395517">20223	点评用户头像</p>
+<p id="b-2761e993e69c45d8956a6872754737c1">20338	推荐菜美团侧图片-图片接入</p>
+<p id="b-d87842354aee4f3197a0ee9b908828b1">20363	点评商圈相册-图片</p>
+<p id="b-e047b403ac44457195af56936a80184e">20444	用户菜单-图片</p>
+<p id="b-5e0d22cbb9e44f44a34887ccf36e8927">20505	点评直播-封面图</p>
+<p id="b-c566e3c92d4f4de5a1087f250c9f36f9">20540	点评直播预告-图片</p>
+<p id="b-bd40fd21d4b84f65b34f14db64d0aa6a">20576	点评商户下传图-图片</p>
+<p id="b-a5eb5219739948bd8e4f97279f6a2445">20581	Oscar奖券头图-图片</p>
+<p id="b-77b7099a7afd4f378b37d2d32b33b926">20605	点评侧展示的第三方评价图片-图片</p>
+<p id="b-2f169fbe0502472eb40f12b6dab4d21e">40036	点评商圈相册-视频</p>
+<p id="b-3b36822b6c0c44eba4017feed342d73a">40106	点评商户下传视频-视频</p>
+<p id="b-401fb8c001684fe8a0893c1d16dc0c5f">40282	快闪POI-图文详情视频</p>
+<p id="b-c18355f529fd4cd398ed0800fa94789d">10070	品牌业务-门店动态文字接入</p>
+<p id="b-e880560f02ff47dc8a0e18abebba258a">10207	点评商户问答-问题</p>
+<p id="b-3c90d90ec5e349e282f219454ded96dd">10208	点评商户问答-回答</p>
+<p id="b-7b564e9316fd4db79676116034f7aca2">10209	点评平台问答-回复</p>
+<p id="b-8e8fe54c076c447a81da70e22ce81f21">10262	点评用户签名</p>
+<p id="b-20ce5c79459a4dfda7f544ea50600496">10336	新对接-点评商户回应-文字接入</p>
+<p id="b-b6cd54099c01417c9a27c1337ed9ea1c">10371	UGC-用户自定义纯文本标签-文字接入</p>
+<p id="b-0d115cf8360f40d3ac25b237c8d1b67a">10448	新对接-点评评论-视频贴纸文字接入</p>
+<p id="b-ecb9178ebef44641b152b1e09d4a50f6">10462	点评-霸王餐活动回应（业务）-文字</p>
+<p id="b-e03c7cd6eb3447019edb9ab20dbaaca6">10492	点评app-推荐菜-文字</p>
+<p id="b-32737122b9c6479690323bd53a199fe2">10531	点评app-收藏-专辑名称-文字</p>
+<p id="b-4c6edf9ec7cb47b3a7b08600bbb91ce5">10558	美团商户回应</p>
+<p id="b-b404dbc6008f470f82d208e5db14201f">10819	点评侧展示的美团评价-文字</p>
+<p id="b-023f2b26482f4737aaa5230a48c34f33">20169	点评平台-profile页面封面-图片接入</p>
+<p id="b-255dcd2e9a654a7893c9445c249c2a2f">20187	点评平台商户问答</p>
+<p id="b-38961e468977423fbbd3e600a73e600a">20338	推荐菜美团侧图片-图片接入</p>
+<p id="b-ce6f4c20655f408e9c1a4b0a823080c2">20363	点评商圈相册-图片</p>
+<p id="b-8b9dd9a2f62b4ad699a2d71874d1553e">20444	用户菜单-图片</p>
+<p id="b-d91461f663124908a2abcd87c88de119">20576	点评商户下传图-图片</p>
+<p id="b-a85f452f11f74a60a4b095046a439bac">20605	点评侧展示的第三方评价图片-图片</p>
+<p id="b-3ce28e2f139043839ba4d3bc1272791e">40036	点评商圈相册-视频</p>
+<p id="b-3869a4114abf406aba938de8aa1f4e59">40106	点评商户下传视频-视频</p>
+</td>
+</tr>
+<tr id="b-7c8be1ba33fa4dd7af3d37c077eacc91">
+<td id="b-e93b220fdc2e4ef2a10170d065027ae9">
+<p id="b-ff9a50603059400baa5ff77649229883"></p>
+</td>
+<td id="b-73e967f15afa4d72889ef84b4de66ed1">
+<p id="b-028debf454f14823b05f69c21c83d1c0" style="text-align:center">实时</p>
+</td>
+<td id="b-c046df5b59bb4cd1a1c26d84bb817aab">
+<p id="b-de35cf6350074b27bcc777fb8196fa53" style="text-align:center">垃圾图片</p>
+</td>
+<td id="b-24f4afeec6c1435ba5517d49b9aa7361">
+<p id="b-6a40ca4b03c6421c9f808167b6fd08e6">20358	新对接-点评评论-图片接入</p>
+</td>
+</tr>
+<tr id="b-8977746fca784742b736be0516e57ed7">
+<td id="b-bc8a1fc8013546a88ed0d47c7d083676">
+<p id="b-866ada6aa8cf446da49012d3d7c89439"></p>
+</td>
+<td id="b-a936e47766ae41ddbb279d12eb388701">
+<p id="b-e0ef02437d774fc1b70225ac8fae14dc" style="text-align:center">实时</p>
+</td>
+<td id="b-3387734cf26548a0beff97accec7554e">
+<p id="b-47dbf4874d1e4974b93388f793ec1671" style="text-align:center">垃圾文字</p>
+</td>
+<td id="b-8630da02ad2c4411b30356e43342b974">
+<p id="b-a45f012d7768404cb7df7164c76d0df5">11679	美团买菜评论-文字</p>
+<p id="b-6221f891e2d149fd9355ecee218ff9ed">10447	新对接-点评评论-文字评论接入</p>
+<p id="b-43ceee4ee2174e0f8bfd027516fa6894">11679	美团买菜评论-文字</p>
+</td>
+</tr>
+<tr id="b-8f9ca52aa5254de993471deb918973c6">
+<td id="b-a9aec4922ac64ab1a84a83c8c5956dd6">
+<p id="b-1a203745681342ceb158ff3e4314f017"></p>
+</td>
+<td id="b-043e7ff21e45462aa9f05703d1acc16e">
+<p id="b-44ad7ba1600d4197b71c7af3eeefb624" style="text-align:center">实时</p>
+</td>
+<td id="b-5fce8ddcd2ee4c2b908cddadc1ad65c4">
+<p id="b-19b5e1cd691e45cfb6a18af1501a3525" style="text-align:center">六四专项任务</p>
+</td>
+<td id="b-e16e916dbd644d9fa08ba50776538050">
+<p id="b-35a8f716140544fd88eef78198e2b761">20508      快驴商品信息审核-图片</p>
+</td>
+</tr>
+<tr id="b-53e8f386add0477aa326219545378c3a">
+<td id="b-cd9f30d7f85d46d3941fe9044e8dc88e">
+<p id="b-e83c43e7ff4347a38172d293294ddb03"></p>
+</td>
+<td id="b-4b0332bed94041168bf917da74b5aefd">
+<p id="b-81ed2e6aa73b4d0a9323e2323f6a5a6b" style="text-align:center">实时</p>
+</td>
+<td id="b-586501c12bfe4c299efb1165ff7bbc80">
+<p id="b-5f4dedd3b80444c6aec44d20efcc9391" style="text-align:center">其他</p>
+</td>
+<td id="b-ddd7c903fb9c41dba752f5ae80b71aaf">
+<p id="b-897a433e8e4a4465902797b792d1c4fe">11695	酒餐活包+到餐商品平台推荐语</p>
+<p id="b-1b4ffb541519406c8f64a159aabf12b2">11701	月子超值特惠套餐-日常营销+文字</p>
+<p id="b-dad4474ff3ee46769a1b871c85c761e4">20184	美团平台-境外住宿—TDC送审</p>
+<p id="b-1f9f41f900ee448185f093f26ae6740b">20515	商家内容-图片</p>
+<p id="b-fdfda9d2f3224a18b975ced39570b963">20687	到综在线咨询-商户图片（高危类目）</p>
+<p id="b-a1301b7ff32a4230b9672b80b96d61df">20765	境内酒店-图片信息</p>
+<p id="b-d81c31ea52ce4189ae6ff26e3499097b">21089	蘑菇物料图片上传——图片</p>
+<p id="b-357d9ce6356647bea790ab0765570266">21094	供应链平台商品信息-图片</p>
+<p id="b-ffb04144d08144eb9b8a01c1b81fd432">50002	到综直播</p>
+<p id="b-57232521d01143afaf1ee7fdc23c220c">243	外卖/闪购/医药商品视频</p>
+<p id="b-c7417f0741074db081aa19309f538f66">10735	骑手商城商品-文字</p>
+<p id="b-215270fab3a54640a586180bd7a73719">11484	医药店铺装修-文字</p>
+<p id="b-858a4f849dbe4ca592519b1d6895b549">11728	骑手特别关注-文字</p>
+<p id="b-b24544e4376c41d984906bba54e9d083">20290	到家-外卖广告-图片接入</p>
+<p id="b-9879df787f6940f3894ade38a22e4fdf">20294	到家-外卖广告-展示广告-图片接入</p>
+<p id="b-6fdd1538de7645ff8658c2b5eadbbdd3">20332	外卖菜品-图片</p>
+<p id="b-5e4f2b9dd11748c78e3382d8ac51c164">20525	跑腿C-用户IM-图片</p>
+<p id="b-5c106a56558e4513a4d98dc6169040f0">20583	拼好饭微信社群聊天内容-图片</p>
+<p id="b-e1c76535f4e04dbcbe048d72acad5727">20648	医药-商&amp;用IM-图片</p>
+<p id="b-3950982ee8a74b6b85ecfb5b83e587f0">20649	闪购商&amp;用IM-图片</p>
+<p id="b-84ba62a3ab7d418290422b114d203bee">20664	跑腿订单-图片</p>
+<p id="b-a958c54555a04b99b542ba73c11dd7b0">20755	跑腿B-商家&amp;骑手IM-图片</p>
+<p id="b-a0533694ef634921b5fa61fd0b7f58ba">20787	外卖社群-运营活动信息-图片</p>
+<p id="b-e783204d32bf4f8ca461c1928217c995">20827	跑腿C-帮送订单备注-图片</p>
+<p id="b-e16ee560379b4439908ebb74fd98bb8d">21054	站外广告投放-图片</p>
+<p id="b-76f0e2354fd7412f874a8445085cf735">40238	医药店铺装修-视频</p>
+<p id="b-e97f51437cd244d8b19ce7b435e7e3c4">40277	站外广告投放-视频</p>
+<p id="b-45a79436e22348498c80c25d4c69ae15">20162	点评平台-推荐图片数据-图片接入</p>
+<p id="b-56ebb21970974aabbdcdbdefd02eda3c">10676	快驴商品信息审核-文字</p>
+<p id="b-a48231498453477c845bc962b1ca5e53">20508	快驴商品信息审核-图片</p>
+<p id="b-ceab7fcf3cde4005b574c3ea20c50909">40076	快驴商品信息审核-视频</p>
+<p id="b-4a001f853c894f28b712fb54eaca3564">10122	美团-零售事业部-掌鱼商品信息</p>
+<p id="b-9186ff9b1d444abfb6d460a7d1ac7b85">11679	美团买菜评论-文字</p>
+<p id="b-fee98956019b4552911dd17bccc0e0a8">20112	美团-零售事业部-掌鱼商品信息-图片接入</p>
+<p id="b-d246820601494363b43e135e85b60a5a">20853	送达图片-图片</p>
+<p id="b-e96ce8310b5f49ebbeda1990a240c810">11733	美团免费小说-文字</p>
+<p id="b-8124e7c0e6614290af4193f1b200f26c">20555	微信生态群控-聊天图片</p>
+<p id="b-04383491e03d495484e8c9f16d113de0">20640	智能门户+图片</p>
+<p id="b-4a72f972c20449c6922a76c421eeca44">20817	直播封面-图片</p>
+<p id="b-21c143b8fc474e0099389e472ce2b3c8">20863	客服C端-图片</p>
+<p id="b-ae5303c1a8864be79f0cd206932bc424">11103	优选团长企业微信推品-文字</p>
+<p id="b-7b6fc3e223fd40578ed98f577e3bcd1a">20749	优选团长企业微信推品-图片</p>
+<p id="b-bc94434b8f014d9bb5d92be186993881">10447	新对接-点评评论-文字评论接入</p>
+<p id="b-66272b3da7b643909445a6b1a99d6493">40035	新对接-点评评论-视频接入</p>
+<p id="b-ee7ff56727b14e21844e35408b7585a5">20649	闪购商&amp;用IM-图片</p>
+</td>
+</tr>
+<tr id="b-c4817bb0dac84960a3254a72afbaa573">
+<td id="b-8ca0188761994aa894364e0607ea4144">
+<p id="b-c8f64811b4124c0fa64b1bb97b65abc5"></p>
+</td>
+<td id="b-61c8ffcca0f04e16bc67215d181fb423">
+<p id="b-7912b04217d14b559177dc8a48e6046a" style="text-align:center">实时</p>
+</td>
+<td id="b-f36dbc5d3c5344e4ad03adad0d0eca08">
+<p id="b-493ca800b6704aeda1f54e0394d6c78c" style="text-align:center">其他25分钟通用</p>
+</td>
+<td id="b-000b74c4441049f7b6b6cd5e0c45fa5f">
+<p id="b-4d6b2ff691cc49c0bcf6cf961c6f2006">10460	外卖服务市场-文字</p>
+<p id="b-003f780ac5424c75bf484b07212fba1e">10758	骑手用户聊天记录-文本</p>
+<p id="b-e53010a509e1441baa478744bc1be0fb">11431	拼好饭用户昵称-文字</p>
+<p id="b-02d2e4216da8437f80bbef87cecb5185">20366	外卖服务市场-图片</p>
+<p id="b-4959762c70d04757acc922033b7693f2">20551	骑手商城商品-图片</p>
+<p id="b-bcbde7912f30492d94acbd0fa0c4d03a">20885	供应商广告图-图片</p>
+<p id="b-8407edf1667a487cb1b433f4ed327380">20908	拼好饭用户头像-图片</p>
+<p id="b-f448cf3e992f47939f4a732ffd5b9c50">20949	医药店铺装修-图片</p>
+<p id="b-4a0f7d71ef5f42979eda1c506d196bc1">21059	商家评价骑手-图片</p>
+<p id="b-36db6e2d3fc843b4b53fdb37f7cb62d0">40186	骑手商城封面/商品详情-视频</p>
+<p id="b-b54b9f99a0054076a25da8bf6e2e9582">11208	用户输入的话术-文本</p>
+<p id="b-dc9c4ad06edd401da690651699c90478">11120	阳光义卖商城评论-文字</p>
+<p id="b-2c28c55bb03d427bb80c359c43942302">11142	美团公益 - 文字</p>
+<p id="b-125d90ccc3d147d6a025957ea4be3eec">10442	话题社区-文字</p>
+<p id="b-df196bead1dc456498b93412dd105f97">10935	环保档案-文字</p>
+<p id="b-79d62b601a714d0c88738001a144ecaa">11102	小美陪审团-文字-机审&amp;人审</p>
+<p id="b-3aecba9ea2cb44fca3f9c8fb9e31c0c4">11117	规则议事厅用户留言-文字-机审&amp;人审</p>
+<p id="b-a3f19959a98745cba9af2df5e0e5ef96">11118	小美陪审团留言模块-文字-机审&amp;人审</p>
+<p id="b-f8eab374807e4da1812fc7bd455f7177">20355	话题社区-图片</p>
+<p id="b-4a615b2de8d24d97a00321610ea9380b">20560	像素上传-图片</p>
+<p id="b-fd63f25514674b13baa75702c0e0cb82">20655	环保档案-图片</p>
+<p id="b-87a5e83ccfc345adb86f06a9b8e20b77">20748	小美陪审团-图片-机审&amp;人审</p>
+<p id="b-5839ea6804cc4940bcc2a79b619fe0a8">10180	美团打车-司乘评价-文字接入</p>
+<p id="b-41db19104abe4150ba62ef5a26c90a97">11142	美团公益 - 文字</p>
+<p id="b-868cab83f23c49e6800cb761409d8885">10442	话题社区-文字</p>
+<p id="b-8c457362e88d48ae953fe13575d2d054">10935	环保档案-文字</p>
+<p id="b-9743cd92766248a7af3f15705015edc8">11102	小美陪审团-文字-机审&amp;人审</p>
+<p id="b-e09bc2b4b7d74ce2bf3acf0bca76369a">11118	小美陪审团留言模块-文字-机审&amp;人审</p>
+<p id="b-1298d7cf69144f9b964c43a1f5b37f35">20355	话题社区-图片</p>
+<p id="b-a1199ff56e3c4bee986c245b874c62c6">20560	像素上传-图片</p>
+<p id="b-d9e2fe4b24a04afe8cea7cb9ebc2e2e8">20655	环保档案-图片</p>
+<p id="b-e2723b8ff48844e9820c56efe864245d">20748	小美陪审团-图片-机审&amp;人审</p>
+<p id="b-42d600a5f334403694a0624cae84dee6">10180	美团打车-司乘评价-文字接入</p>
+</td>
+</tr>
+<tr id="b-909a6e745a564db8a122331bb5ac1554">
+<td id="b-cbf2afc7c9a5478aa23ac204bd7c2e86">
+<p id="b-12756db6b3f645bdbc0b53ba21e8d7c0"></p>
+</td>
+<td id="b-b2a5f9d2e6ee4025ab42c0f86bf21973">
+<p id="b-288ca70b75ea4126a7ddf132b2fd439d" style="text-align:center">实时</p>
+</td>
+<td id="b-ec1bdfa9e86b4320b8f9f0f8293db972">
+<p id="b-a49aabf1c73d42fbada7240118973370" style="text-align:center">舆情&amp;冲塔</p>
+</td>
+<td id="b-ea53193467eb43cd8ba6cad21adb0173">
+<p id="b-d41371d07777405ca6f7d164a1f8414a">10092	到综B端接入】美业学院评论</p>
+<p id="b-a79f138caaf44450868d896a4f470c19">10134	到综-休闲娱乐酒吧特色酒水</p>
+<p id="b-b338e058813747b2a5c69bd0929c9a2a">10152	新到店-餐饮生态商家账号-文字接入</p>
+<p id="b-5757153597474400810cd2be56488685">10179	新到店-丽人美业学院评论-文字接入</p>
+<p id="b-8d2055ee2f0a4254bf11d62df1bd2118">10199	新到店-到餐商家接入促销活动-文字接入</p>
+<p id="b-d492b475ed774f57b6ca9ed1ce1b4690">10295	休娱旺铺宝-品牌馆</p>
+<p id="b-5ed016ed4b2d4fb682de5a4169b1dead">10312	宠物官方案例（统一）</p>
+<p id="b-f98b7528f86546ec919b1d0e7dc78012">10401	泛商品-酒吧预订（统一）-文字</p>
+<p id="b-d0d9b5feca214b85a4bf7ad2f147cb33">10402	到综结婚-预付新单&amp;变更（统一）-文字接入</p>
+<p id="b-023fbba2d83047bda9359a1018b4fe17">10436	美甲款式单接入-文字</p>
+<p id="b-22354dad1a4d4466ac2c61d4a4291a22">10440	到综店铺装修-视频标题</p>
+<p id="b-2c33da207b6347a58e994bd0d2252419">10464	广告平台-万花筒创意非批量-文字</p>
+<p id="b-ae5e222844384dbbb5252b9c37fd9723">10552	酒旅问答-问题-文字</p>
+<p id="b-a84a0b34905e46db9a2c3b32c6f43be5">10559	美团用户回应</p>
+<p id="b-bf641133571e4fa9b6d0c6b7100b8015">10571	常用备注--文字</p>
+<p id="b-d9250beda1054df3a64dc8ec2d0ecd15">10591	密室预定-文字</p>
+<p id="b-d3bdaee7f41444de9d19c0a92216a48b">10603	医美预付（重新接入）-文字</p>
+<p id="b-f2c7f9d3e0804734b5a9e0c29a8f4eea">10643	美团评论</p>
+<p id="b-6ea58a8fe57d4e7cb0f1a58731e2916a">10715	美妆品牌馆</p>
+<p id="b-ffd8b277963b47ce8ba411d64866b230">10755	到综在线预约-预约到店送礼品-文字</p>
+<p id="b-fae23e1b871e42b59f6a88ce60ba0ef8">10877	休娱桌面剧本杀预订-文字</p>
+<p id="b-8d5fd3f4337c4b459a6b745553c0df7c">10892	到综商户端预约礼-文字</p>
+<p id="b-1e09c9fe8c8f4322b7613808ee29c1b3">10995	酒店旅行攻略-文字</p>
+<p id="b-6310cfbfe396404da072797d72172dd1">11008	国内酒店POI/房型文字信息</p>
+<p id="b-a8932a2e5e9c4f44ae3d720e6af72edb">11088	到综-通用行业-团购New</p>
+<p id="b-443ca4297a83449db3440749d463742a">11089	到综-高危行业-团购-文字</p>
+<p id="b-2b36c735ddc34174a4ed1fd310b478ac">11185	团单-文字</p>
+<p id="b-fa60ec8ad3b64c10a02b6c69b624b1ce">11186	门店-文字</p>
+<p id="b-50e8500ae66f4676a4a9a2c7601c2422">11272	商家新鲜事-文字</p>
+<p id="b-93f77c09865243a499218ca04d62e893">11366	丽人-手艺人信息</p>
+<p id="b-24180ca2c3fe401aba695044a9e8e09e">11368	到综美团商户榜单-文字</p>
+<p id="b-2f0abc11314f47549b71b191e1a3a359">11388	教育母婴-月子中心套餐+文字</p>
+<p id="b-01cbc1e3c8c8413bbc3af3720f36df66">11400	扫码点餐菜品-B端-文字（疑似再次送审）</p>
+<p id="b-9fc90053ab3b483198b578dbb53a29cd">11546	到餐团单-文字</p>
+<p id="b-f1af052bb114430395a57feba2b8a6c5">11678	到综 - 美团评价 - 文字</p>
+<p id="b-6d5da3f5b3e146f7886cf5447f43299d">11685	百度关键词 - 文字</p>
+<p id="b-0c20d4cb84b34ff88dc2b10e094ae3ad">20179	新到店-到餐商家接入促销活动-图片接入</p>
+<p id="b-2416068586a646468ebfd70a795d0e2a">20185	美团平台-境内住宿—TDC送审</p>
+<p id="b-79e7f8c516044f6c9fdef5ef88f5c850">20303	医美商户通-中通封面图（统一）-图片接入</p>
+<p id="b-ac60e21db6104aab987faf71ebdf3fe3">20315	泛商品-酒吧预订（统一）-图片</p>
+<p id="b-c6ffd5d097f841aebb73e2e08301e20d">20348	到综店铺装修-头图</p>
+<p id="b-f9a33ee2d45e47f28ae47d2925241242">20349	到综店铺装修-相册</p>
+<p id="b-f2ad58d8cc3b4854863e2be54062ca53">20370	广告平台-万花筒创意非批量-图片</p>
+<p id="b-b1945061575f4b49b324015831f0649d">20431	酒旅问答-图片</p>
+<p id="b-67180dd3f1eb41ffa9c8db7d3cbf0929">20490	美团评价-图片</p>
+<p id="b-5134479f59044ba4b781c589925c9d38">20684	广告平台-万花筒-实时素材-图片</p>
+<p id="b-014c31697da04ee88e8eb3e9dfa53719">20737	到综-高危行业-团购-图片</p>
+<p id="b-5ca54b5acfc44a7abba7919cd3485415">20879	到综美团商户榜单-图片</p>
+<p id="b-c895fd2f2e4a4b53b11282cccd42a162">10365	外卖-外卖评价迁移-文字接入</p>
+<p id="b-f46bf3e3341144e89897156c50ccb38a">10367	外卖-外卖商户回应迁移-文字接入</p>
+<p id="b-0de6ace925ac4cf2a0ea2227d651ca26">10368	外卖-外卖追评评价迁移-文字接入</p>
+<p id="b-914fdaa745d34823ad79ccd8a7dcca32">10472	骑手社区-回复文本-文字</p>
+<p id="b-2d5cedb87d1b41ecae2cb6019a633654">10726	外卖/闪购/医药商品评价（关联商品）-文字</p>
+<p id="b-bfbefca5af90407ba6f782de202f5e1f">10758	骑手用户聊天记录-文本</p>
+<p id="b-8457b1555e8a4f5286c30d83efa0c40d">10779	商家社区（闪购）-文字</p>
+<p id="b-eba9bb3f19534e35b0032e161f004e3f">10884	外卖笔记-文字</p>
+<p id="b-12be9167c64049528f8a4c7d3b0e4012">10945	到家商品-闪购文字</p>
+<p id="b-2d828ecaea3943b7b5e847f873577891">10950	到家商品-医药文字</p>
+<p id="b-e239975ccc9948538e30393582255c64">11131	外卖IM群-文字</p>
+<p id="b-d8f6e401df31462586352da982961fc4">11254	 IM-骑手&amp;站长-文本-异步送审</p>
+<p id="b-1e20058956354927b8a4a03103e051b7">11301	外卖商品合规-文字</p>
+<p id="b-bf6b281dc57340288d891a3c044432e1">11302	外卖商品-店铺分类（文字）</p>
+<p id="b-2ed95fa544534b208a231a2f362b8f4a">11431	拼好饭用户昵称-文字</p>
+<p id="b-4c2f117ad5774fbab2fdcaf44974bb73">20297	外卖-用户评价图片迁移-图片接入</p>
+<p id="b-6840e300c4254dd48c5479e83d671484">20543	外卖/闪购/医药商品评价（关联商品）-图片</p>
+<p id="b-c0770483162f4efebb8bf892ab175982">20908	拼好饭用户头像-图片</p>
+<p id="b-cb3b41a1b7b64482b69a89d270146186">10207	点评商户问答-问题</p>
+<p id="b-41d692c938184228a56a2460f5c4acf6">10208	点评商户问答-回答</p>
+<p id="b-59cded0f07bb415a9288aa4ff12b95c1">10209	点评平台问答-回复</p>
+<p id="b-ba1b480e22634589a8612390b621c053">10226	UGC自定义话题</p>
+<p id="b-d941690f6f8349639ab6c737fbcee487">10267	点评私信聊天大象版</p>
+<p id="b-61aa927e9baf4a2a91b8337fbc55ef67">10274	点评账号昵称修改</p>
+<p id="b-cc1aba2e6b1e48b79da4bd409846de0a">10336	新对接-点评商户回应-文字接入</p>
+<p id="b-1ebb112e72524f44bc04d14f28c13f89">10337	新对接-点评用户新回应-文字接入</p>
+<p id="b-d8d74f3fff9244f88ce310f397ae2f00">10371	UGC-用户自定义纯文本标签-文字接入</p>
+<p id="b-443b32d566e74dcfb2237e4dec24e242">10447	新对接-点评评论-文字评论接入</p>
+<p id="b-4f69b51a885546a6b57511fe5c5b24b4">10449	新对接-点评评论-图片标题文字接入</p>
+<p id="b-9d5f2a3f42c342bf8e048182c87855e0">10492	点评app-推荐菜-文字</p>
+<p id="b-a871fb5afb1745b88bdc7059b2a6d22f">10558	美团商户回应</p>
+<p id="b-a890def63f764c85b15cbb0012493f68">10704	中台内容送审-文字</p>
+<p id="b-1bc2d988cde54a54b4c6a3024c0b47dc">10798	点评笔记&amp;评论-标题文字</p>
+<p id="b-3ebcbe7d4c974f29926c50509bb5dde0">10803	免费试-文字</p>
+<p id="b-54d8f6f005bf46cabb92a3ccdb3427ca">10819	点评侧展示的美团评价-文字</p>
+<p id="b-2eecbf57b0684e9f91d77780047f7e1c">11251	点评系统消息-文字</p>
+<p id="b-c753a749da3e4fd6b900f27f64dbf1ca">11493	中台内容送审（笔记）-文字</p>
+<p id="b-d599f8db8b324c9a8fb6de399db62b3e">11494	中台内容送审诚信（笔记）-标题文字</p>
+<p id="b-9bb59fd7a468442a9edbbf35a87ee4df">20223	点评用户头像</p>
+<p id="b-4261e73a5ef04a94b74dfea54bcbe828">20338	推荐菜美团侧图片-图片接入</p>
+<p id="b-ecb5624bbf7644eab41623d5fbebf266">20358	新对接-点评评论-图片接入</p>
+<p id="b-498f11794d6341bca72fc827f57fe6cd">20522	中台内容送审-图片</p>
+<p id="b-c88c21ac5d4b4468b78a60c6cded59f2">20576	点评商户下传图-图片</p>
+<p id="b-aae94bbb369040e680a8640d5d068c8d">20610	点评笔记&amp;评论-视频封面图审核需求</p>
+<p id="b-924157e10ce144259b02df035178d9aa">20959	中台内容送审（笔记）-视频封面图</p>
+<p id="b-8ae5ed6a850c4d688ae1e8eda39419ea">20960	中台内容送审诚信（笔记）-图片</p>
+<p id="b-128055ab07844fb0bbb2fcad05de8266">100000	评价回应</p>
+<p id="b-8f7f5fa0ab9343e5bd2fa7b5d3e82f9d">100001	笔记回应</p>
+<p id="b-45fc100766a944bdbe452b8d4302246f">11118	小美陪审团留言模块-文字-机审&amp;人审</p>
+<p id="b-4db3e7f8c5a748ad890f63e0f0a670ec">11679	美团买菜评论-文字</p>
+<p id="b-d92fc06668a244b48ac038b239a38bfd">10278	点评平台POI报错流程（用户）</p>
+<p id="b-335ea78cddd648da875d1b1b205c46f9">10279	点评平台POI新增流程（用户）</p>
+<p id="b-d2b2f193c15043e6bfc6c0750f538eac">10325	点评平台POI新增流程（销售）-文字接入</p>
+<p id="b-3559a6de7dbe4d4088989f328f610cbd">10404	点评平台-PDC商家端基础信息报错-文字接入</p>
+<p id="b-ce5a50b487e944d2a0dca92f56e9bcfa">10654	POI新增（批量新增）-文字（有人审）</p>
+<p id="b-cb3cdd45daaa4d2bb4d82b4d7c249359">10873	酒旅境外POI基础信息 - 文字</p>
+<p id="b-59d6876237d049afabb4896726f03ae7">10952	美团搜索sug（文本）</p>
+<p id="b-9e9ab3cb126d4f50a8bc9d1c5f44a8c4">11104	猜喜内容卡送审-文字增量</p>
+<p id="b-9f6fd5f2262746309af8e31cd63cd406">11130	首页推荐title增量</p>
+<p id="b-71e6504a901c4bc9bd313988d1d11751">11488	用户名-文字</p>
+<p id="b-084746090e4e4e32a7b2f8dae4c2636e">11733	美团免费小说-文字</p>
+<p id="b-3bf0e03566cb4a7298ce031562420d94">20093	美团-用户头像-图片接入</p>
+<p id="b-c1b7800c43aa48349dd22e760b342514">20750	猜喜内容卡送审-图片增量</p>
+<p id="b-25ecc4e35cd94a2d962e40f7d5d782f2">20761	首页推荐picture增量</p>
+<p id="b-47533172bcbe4ee5ae46a5fa6504f8c3">10489	猫眼-帖子-文字</p>
+<p id="b-afeb1478a0574b5aa9ccf26311b7d693">10271	优选评价接入/（优选商品评价-文字）</p>
+<p id="b-7d760de45eec4602af8e2ced3c01efab">11209	团好货商品-文字</p>
+<p id="b-12de9d4047d2489d983865f422aa99d0">11274	团好货-达人点评-文字</p>
+<p id="b-1b43c7ee873849009cf9621f425757c7">11636	团推素材-文本</p>
+</td>
+</tr>
+<tr id="b-16acaa1aeb2e4dfdbb1536b72d330df9">
+<td id="b-39d496cb1a68444a9be68be6356fef79">
+<p id="b-83a2930e14444637a06fa66bc09f9c5a"></p>
+</td>
+<td id="b-78e2a093d24e4f05ae0587e0d73c0a16">
+<p id="b-6fe3e71658754249892a8ec60eaa6156" style="text-align:center">实时</p>
+</td>
+<td id="b-d853610c6a81430f86af35a8e2e7410e">
+<p id="b-dedf32f42a384ceb95e2b760622110f6" style="text-align:center">政治</p>
+</td>
+<td id="b-70e6d28db4b64e86890a6622f083ce75">
+<p id="b-a91b03411f9843828b6ca4f5c4384c3d">11695	酒餐活包+到餐商品平台推荐语</p>
+<p id="b-17c80a4f75cc4df09e5559b26f881b25">11701	月子超值特惠套餐-日常营销+文字</p>
+<p id="b-5bc478b968d64f8d8b55d96e1de635ca">20515	商家内容-图片</p>
+<p id="b-cc63f820d20d4b2c866bfb0d31d9490d">21089	蘑菇物料图片上传——图片</p>
+<p id="b-7899cada126348c3b9f88f1157d913c8">21094	供应链平台商品信息-图片</p>
+<p id="b-7c97accd525247eca5222f181ce4a242">11728	骑手特别关注-文字</p>
+<p id="b-b7b0ce9b84824d0fa98108ce571e461c">20294	到家-外卖广告-展示广告-图片接入</p>
+<p id="b-81ba2f6552fb4e3db11bf88817c4f969">21054	站外广告投放-图片</p>
+<p id="b-8405f6f264c145d8bc42c61779c0a7e2">40238	医药店铺装修-视频</p>
+<p id="b-36c292b9c15f47b28be4ad8f440013e2">40277	站外广告投放-视频</p>
+<p id="b-ce06b8c6cc8d4343814ade2f0d20860a">10447	新对接-点评评论-文字评论接入</p>
+<p id="b-fb241d765a7e4e87a1c27866751fba8e">20358	新对接-点评评论-图片接入</p>
+<p id="b-f038bfc574aa43a6a0d624d867e46db4">20746	Push增量-图片</p>
+<p id="b-cd2daebb81a341f3b8324b7547ba209e">40035	新对接-点评评论-视频接入</p>
+<p id="b-082552e466174d3cb61261c0b39496d5">10676	快驴商品信息审核-文字</p>
+<p id="b-0c034d8531774281bae6bc0c1195466f">20508	快驴商品信息审核-图片</p>
+<p id="b-36a6589285334895a875deaabde864bc">40076	快驴商品信息审核-视频</p>
+<p id="b-2b139b38b64f4d09b6e7a44590a146ac">10122	美团-零售事业部-掌鱼商品信息</p>
+<p id="b-5c413172a58d4efda769064398331de6">11679	美团买菜评论-文字</p>
+<p id="b-4b364bcee9fb4e0fb7cedc5ee2425731">11733	美团免费小说-文字</p>
+<p id="b-ea79b00788854adeac1d6d6d9077ee4b">20649	闪购商&amp;用IM-图片</p>
+<p id="b-cbff4d3ae34d4b49aafc8e6905d2fdd1">20746	Push增量-图片</p>
+<p id="b-3b2a01ad186347cea7a34bc818786fc1">20508	快驴商品信息审核-图片</p>
+<p id="b-35ee715f8d444861a071cfcbfac23c23">10122	美团-零售事业部-掌鱼商品信息</p>
+<p id="b-e557cc6b754f4cd8a1b070a2b32c5db8">11679	美团买菜评论-文字</p>
+<p id="b-99de19ee8220431e8d072469c0206ab8">11733	美团免费小说-文字</p>
+</td>
+</tr>
+<tr id="b-349ddaf268594c9fbd23b74278c6967c">
+<td id="b-6f30acfcb856454b8cafc1b538d3907a">
+<p id="b-a0adae96d7b845478e50ec90dba7bcab"></p>
+</td>
+<td id="b-1a3af7115079483189549078a19148f6">
+<p id="b-35d9f7fa36614beaaa478d4ecd4b0c79" style="text-align:center">回扫</p>
+</td>
+<td id="b-99bd40fe94f9479c881c23963dbb30d0">
+<p id="b-5fad06e974194d259f82607118859e13" style="text-align:center">文字_涉政变体人审_20220901</p>
+</td>
+<td id="b-a8369208a2704a84bcd2d1f31d883213">
+<p id="b-703b379f9b084c96891891d612ff1363">暂无</p>
+</td>
+</tr>
+<tr id="b-2d21c29c4d4f41b8a2f4cbc7d94d670b">
+<td id="b-dca90996da0346a6bb7b167a9ae051ea">
+<p id="b-32721de1c8bf4aa2a5b4459eb802962e"></p>
+</td>
+<td id="b-2b0ac73ac0874844938117cf105b6cd3">
+<p id="b-6cc0ee0723614fe0a3712a6e1fe0df9a" style="text-align:center">回扫</p>
+</td>
+<td id="b-498113faaf6842d9adb6373e6b9b9766">
+<p id="b-853dede604bc4dafa64b8dc55f632f7f" style="text-align:center">机审漏过重试后疑似数据送审</p>
+</td>
+<td id="b-136cd6e2d7684ff8bfcfe485695c43d1">
+<p id="b-3a3fa214fcdf4b04839775a026c90ba1">20960	中台内容送审诚信（笔记）-图片</p>
+</td>
+</tr>
+<tr id="b-d947d8e6e74e4336bd94320539817383">
+<td id="b-50398b582ba14bc8bfd023ceda0c5005">
+<p id="b-2d335ceb98fc4ee798e3d6cd1c5da759"></p>
+</td>
+<td id="b-cd92e0c88d084bdfb39f0176851c8e62">
+<p id="b-2ba55bf210fb4f23971bca2a72b92a97" style="text-align:center">回扫</p>
+</td>
+<td id="b-36edce0749154115889a8c9e46747b41">
+<p id="b-ba9fc1fb1c244b9ea539c9e3c831223b" style="text-align:center">仅机审业务抽审_图片_2130</p>
+</td>
+<td id="b-56d914752b9245ce92c11e191199f143">
+<p id="b-12b2cc0f31924c31b5cc89d2f54b8c88">暂无</p>
+</td>
+</tr>
+<tr id="b-fb3c8c1dac07453ab2f3533b986abb01">
+<td id="b-f8d53a60255b4ebbb7a44ec76800d200">
+<p id="b-17f6dc16321f45e38ef42474089e046c"></p>
+</td>
+<td id="b-6fca13d052094352974f2cf9ea661488">
+<p id="b-ab6e6083f3f84589a357eb705d0255ac" style="text-align:center">回扫</p>
+</td>
+<td id="b-44c50a1a70cc459db0e9ca0cd5968d5b">
+<p id="b-59d94e9b06a143e59e5def5e20199e25" style="text-align:center">仅机审业务抽审_文字_2129</p>
+</td>
+<td id="b-a0dddd8ec3804ec9ade289ae02b04f4a">
+<p id="b-28448bbf9e8f4ff4a806ca55194e66e4">暂无</p>
+</td>
+</tr>
+<tr id="b-905a4edc4ddc4a68bc5c378a7329ab85">
+<td id="b-7f6d6f9826c341fbb378532e3c188621">
+<p id="b-f5182373dcd14379b0efcb350ed53371"></p>
+</td>
+<td id="b-b41b6aeb962443fda15a29aff7bd6018">
+<p id="b-30823966dab44c9abe08f8e460bc4e43" style="text-align:center">回扫</p>
+</td>
+<td id="b-2aba3ccfdcff4228856c5111cfde75dd">
+<p id="b-1f8bfabdada5447e83b7431950724a75" style="text-align:center">图片_相似图普通涉政_头像</p>
+</td>
+<td id="b-78e7bc057f5c429ab01463625d0eb08f">
+<p id="b-f92f709bb3834819b65cffbc42ea99d0">暂无</p>
+</td>
+</tr>
+<tr id="b-a39a12bdbb5240eaae25cfe8ac5f1711">
+<td id="b-bcf68029a9d245c5adf7ede8254ed7e9">
+<p id="b-899e6d5c2adc4e70a8a0ea5b8b819cd0"></p>
+</td>
+<td id="b-8d950ad25ba844da97504ade784fed6b">
+<p id="b-29c9d4b9aff9479a9bbca19e3f1630d9" style="text-align:center">回扫</p>
+</td>
+<td id="b-88efd6e7844d435d9150646967c6e38e">
+<p id="b-5cc02cc492154de091334c7ddf685278" style="text-align:center">文字_关键词机禁评估_周期</p>
+</td>
+<td id="b-67d682ba9b0f41298bd8bcf4cad21dfc">
+<p id="b-c7b071abd75d4409b5e45ac267e9620f">10650	平台三方登录昵称增量</p>
+<p id="b-1f9a402595b64e5a926a7144e3d11fde">10918	打车-联系人昵称文字校验</p>
+<p id="b-d3a0325613f4467f8d2a3e8f5b548cdb">10854	优选团长小助手群昵称-文字</p>
+</td>
+</tr>
+<tr id="b-3987e17fc6034de0833ad4b73732d316">
+<td id="b-3514cbe7e6f5424886a6244143c87ac0">
+<p id="b-8a30a7f1701447019dd52e26af9feb4a"></p>
+</td>
+<td id="b-b0c540ca5a364738ab43c348125d330c">
+<p id="b-dbfcc968d317449d8ed3cd9ee9543105" style="text-align:center">回扫</p>
+</td>
+<td id="b-d1a838b58d5b4b42b3493c63e6460e67">
+<p id="b-82553405e4e5428393ac57c90f94ebda" style="text-align:center">每周关键词回扫_过三方_v2</p>
+</td>
+<td id="b-1926d5068e7a4853bf96397c934cb735">
+<p id="b-8c09eb8a4b5c44eeb34225984ddba930">7	NULL</p>
+<p id="b-c4e2c7e4b54f435c99c5c4a045a3462e">29	NULL</p>
+<p id="b-5d51dc5faf7249b6a909b0132599c061">30	NULL</p>
+<p id="b-e57143dd1c4140cda7ab24b1264ba7ab">40	NULL</p>
+<p id="b-cca226fc7550451c9403d7db86518fe0">61	NULL</p>
+<p id="b-8b7bba6abb2549aebc3a8eb40ba5802c">302	NULL</p>
+<p id="b-7282036358764c8382793e46b1a20b3f">308	NULL</p>
+<p id="b-a6aec4b039934363b0a0c0444a1a2081">11088	到综-通用行业-团购New</p>
+<p id="b-5caf03ae619540079e90e6d475a08a9d">11231	到餐菜品-菜品名称/品类名称/描述</p>
+<p id="b-46ab4d38164d4908b6c9ae482a4ab52b">10945	到家商品-闪购文字</p>
+<p id="b-039fa37d57cd4ffb86c68c6ab6dcdc5d">11208	用户输入的话术-文本</p>
+<p id="b-026442c220fe406fbd9685250d3c1b2b">11254	 IM-骑手&amp;站长-文本-异步送审</p>
+<p id="b-2a6025976fe44722bb0a184b1cf809d0">10274	点评账号昵称修改</p>
+<p id="b-ca84f2e6f05242eda1a1bffe3f75e2e9">10447	新对接-点评评论-文字评论接入</p>
+<p id="b-29e11401cb4a4105a6ca30d4a7f04f26">10558	美团商户回应</p>
+<p id="b-8954e6ed0f204c879bd253440188f227">10618	存量C端点评用户昵称</p>
+<p id="b-d7e0f762620b4fdab037e0e55fe7b775">11090	点评内容搜索-摘要审核</p>
+<p id="b-b1c898338ad04baebb043be7a46d0482">11098	Push增量-文字</p>
+<p id="b-6ba6d2085c24471384d9a3ace1703fa0">10403	美团用户昵称（历史批量）</p>
+<p id="b-a4498390f7c94f17a0e3e6a52eefd03a">10539	美团app-用户账号中心-用户昵称-文字</p>
+<p id="b-5126c448766e4f9a891b4caa8b182eae">11104	猜喜内容卡送审-文字增量</p>
+<p id="b-d1c46f0c6e654b84a1da88722832b954">11129	首页推荐title存量</p>
+<p id="b-2d0579ffd2cf45b0aea9275a04e2f318">11130	首页推荐title增量</p>
+<p id="b-8e32add63ace4648becea0599ba46bbf">11157	猜喜内容卡送审-文字存量</p>
+</td>
+</tr>
+<tr id="b-a0f983f89ffd4516ba43dadb7b25c3c9">
+<td id="b-931ae6d3fd604b70b4de1ae266cfafbf">
+<p id="b-2090074c7123431c9c741faa94ca5052"></p>
+</td>
+<td id="b-b60664d516e44f3c8290d27e795e21d6">
+<p id="b-d6cfcec9c70a49a080f21bba6960ac83" style="text-align:center">回扫</p>
+</td>
+<td id="b-9a3b0ef5a3604f4a91069c28b3d567b8">
+<p id="b-72e11803db1b4b7fb5748f78d90ab188" style="text-align:center">每周新增关键词图片回扫</p>
+</td>
+<td id="b-1c015fa633e04af0ab306374436388f7">
+<p id="b-2d8c4b69e8584eb6b4b090bac06ba4de">20185	美团平台-境内住宿—TDC送审</p>
+<p id="b-bfe5974d6f01451bb170376730df244c">20186	境内度假—TDC送审 -图片接入</p>
+<p id="b-bd766ba1ea5942e095b27bf683ddfb8e">20320	学培商户头图</p>
+<p id="b-61fb8bc728a04b9897f8fd5f0a2a4b82">20348	到综店铺装修-头图</p>
+<p id="b-3f56e33aca8d46db89ab881018024ce9">20349	到综店铺装修-相册</p>
+<p id="b-e345c169b8aa43e1b1ce2cb29ebf8264">20370	广告平台-万花筒创意非批量-图片</p>
+<p id="b-fc3b450e683145c181fe6a04b72b70fb">20384	到餐-商家官方相册审核-图片</p>
+<p id="b-d07bce30cbd44752be93a227654c7ba0">20454	密室预定-图片</p>
+<p id="b-ba160a528a80474f85101a0a467de283">20490	美团评价-图片</p>
+<p id="b-036d73dea8e941a8b96a53b0991137c6">20358	新对接-点评评论-图片接入</p>
+<p id="b-652c1d2875324d9f8599f214488d7756">20522	中台内容送审-图片</p>
+<p id="b-921e4091a8b94856a6a28673cdc8d274">20576	点评商户下传图-图片</p>
+<p id="b-ccee7e1402974510b3293cf4e319d4fb">20287	点评平台-POI报错商户图片（用户端）-图片接入</p>
+<p id="b-58703d1ba51340b69a52efc4a9b96f69">20379	点评app-POI新增流程（用户）-图片</p>
+</td>
+</tr>
+<tr id="b-ec35667a7f8e49eaa0fa451b0eb8d10a">
+<td id="b-1c4869b7af224087940746dc51ff7856">
+<p id="b-3af86f57860a42b2a1ae2bce28811ee5"></p>
+</td>
+<td id="b-6cf5e7b3572449498c5bbd2c3b305332">
+<p id="b-d6c263f1d1d64cc2a02a1acf3cfca29d" style="text-align:center">回扫</p>
+</td>
+<td id="b-a16ad22ce77e4aa6b7cd2c20a3c75cba">
+<p id="b-be81e0dcc0594256915fbfde4931b3c3" style="text-align:center">图片_相似删除不合规_周期</p>
+</td>
+<td id="b-5e67c116cba44c72b064c0315cb50fd6">
+<p id="b-845d112a637143a18cacec4718e0fbf3">20290	到家-外卖广告-图片接入</p>
+<p id="b-0fff8cfebda34995975cdf391d970c7d">20338	推荐菜美团侧图片-图片接入</p>
+<p id="b-8902cf786efb4ef38b4f195623c22b49">20761	首页推荐picture增量</p>
+</td>
+</tr>
+<tr id="b-56691cb7b0b84fbab8abf5a20ff62ad6">
+<td id="b-e36fdd775f994852a025e757dc89f863">
+<p id="b-a9169a5dbb64429fa8ab16019bc69a7f"></p>
+</td>
+<td id="b-9eb8cd73dd23497e9691fdc413c2311a">
+<p id="b-4b0a5340300247788ccebe6a09a3edec" style="text-align:center">批量</p>
+</td>
+<td id="b-be956bb2a7654c1387be9c03249117b2">
+<p id="b-1ae6d742af974accb5bd72f2ba4f9f81" style="text-align:center">批量导入-其他</p>
+</td>
+<td id="b-90c8744a0c9f4db09741febd1b541989">
+<p id="b-a4472fd811ff4d509edacd4ae2e1f071">11008	国内酒店POI/房型文字信息</p>
+<p id="b-90d0e0fe8ddc4b5ab7798f2386acb703">11090	点评内容搜索-摘要审核</p>
+<p id="b-ff4f8abc41ca40508c6f8c981cd16869">10130	大象业务部-用户签名-文字接入</p>
+<p id="b-60b360e14031476a89dffbcec0c98139">10980	账号昵称nickname-文字</p>
+<p id="b-7d50da601db94b58aecd879a24fc29b1">10980	账号昵称nickname-文字</p>
+</td>
+</tr>
+<tr id="b-bb818861da1a4906beac164867071263">
+<td id="b-589adb92d0ae480d9eef5879b285f3cc">
+<p id="b-7774e31ff2cc41e397474e6742dc8075"></p>
+</td>
+<td id="b-ef03115040fc4e9aa0840a15d704bdfc">
+<p id="b-26bd33a3a8234028a52f50dd6447b56d" style="text-align:center">批量</p>
+</td>
+<td id="b-d6209150de7641bca47a7d01e91622b3">
+<p id="b-2e630fc8533c4b49b4ba208ae910d363" style="text-align:center">批量到店通用</p>
+</td>
+<td id="b-7b33c32d3b20470e9cd984338dde30b8">
+<p id="b-465f5956f86f42bca462a22274fb6ed8">11462	到综送审网关-文字</p>
+</td>
+</tr>
+<tr id="b-307c657983614fa9baea66c58ca8abf1">
+<td id="b-c23fafd1633145b6b6b768fb41de8989">
+<p id="b-7b7b699aa9a54921b0def5be8bdf2da4"></p>
+</td>
+<td id="b-a16c3559c8a14136b1c3937f4aca07fc">
+<p id="b-188d1f769551486c83c568d8758bb1c7" style="text-align:center">实时</p>
+</td>
+<td id="b-afb6d3c846184674b2eb976335f2e161">
+<p id="b-89b703f03f8b4b6d84b31bceee3f02e3" style="text-align:center">25分钟到家其他通用实时</p>
+</td>
+<td id="b-19e34a50517b4f72a99042e7d8f783c0">
+<p id="b-7307dc94bb784dcc8dffa6eabcc25e92">10460	外卖服务市场-文字</p>
+<p id="b-61a617f47942436a866ca6aea0ec0e32">10758	骑手用户聊天记录-文本</p>
+<p id="b-daaf9112f5e34db596fd883b10ebff03">11431	拼好饭用户昵称-文字</p>
+<p id="b-6017db0ba2c64f42b90b78dacada1d0e">20366	外卖服务市场-图片</p>
+<p id="b-9ba8b89400a0470088c8a44d3622865a">20551	骑手商城商品-图片</p>
+<p id="b-f89e37ee2a4a42c496792e66e16dd843">20885	供应商广告图-图片</p>
+<p id="b-7ed4f01a7d6e4068b520368cd58e45ff">20908	拼好饭用户头像-图片</p>
+<p id="b-3f87a9ea9233495d9ad48e61e55aefa8">20949	医药店铺装修-图片</p>
+<p id="b-0ca8bea75d834893ad164fc6f6559d65">21059	商家评价骑手-图片</p>
+<p id="b-310bd26bdedd461983347d7ca09fa120">40186	骑手商城封面/商品详情-视频</p>
+<p id="b-5601e4a8a52e42e594cd2c6da2fd0f51">11208	用户输入的话术-文本</p>
+</td>
+</tr>
+<tr id="b-3af6e96b892f46fb9f7359952aa73a27">
+<td id="b-5c1912b5e9e343aca43daee0e38453dc">
+<p id="b-9c0f3638e4544b42bcd3f2e585b0f4cf"></p>
+</td>
+<td id="b-222848318c164e4ba22fee6420ca4e69">
+<p id="b-f416e77222dd4352afed38d1c7e30096" style="text-align:center">批量</p>
+</td>
+<td id="b-a1c57d5562874f9c998d91ddd8146561">
+<p id="b-71df7ee52ddf4bce806bad0542c803e2" style="text-align:center">批量导入-政治</p>
+</td>
+<td id="b-01588e6034674a28812c2fed66492ecc">
+<p id="b-27470b81ccad4e0dac32a12f64c2cc61">11008	国内酒店POI/房型文字信息</p>
+<p id="b-18f7074bfd8d4e97a7de6c34fae3a9a7">11366	丽人-手艺人信息</p>
+<p id="b-372a4cfbbf9f4ba1aef7a73023a6bc28">10681	AOI区域名称-文字</p>
+<p id="b-2ba72d0996f54bd6b57c758e7b8d74e0">11090	点评内容搜索-摘要审核</p>
+<p id="b-17464afe3ab2435587651c5f0e3b3e6a">10130	大象业务部-用户签名-文字接入</p>
+<p id="b-38c8e6db84364f5593fed2c74f9829bb">20117	大象业务部-用户签名-图片接入</p>
+<p id="b-cad1f8340032459f8c21b35c48e880b1">10980	账号昵称nickname-文字</p>
+</td>
+</tr>
+<tr id="b-9ac9daf645d94f0eba86093947b10f24">
+<td id="b-f8352bbb244743f9af4530e0fbbc470a">
+<p id="b-597b4e52260045579edcc49e5daaad4d"></p>
+</td>
+<td id="b-6983815922a64b379d70ec7f07c24c0e">
+<p id="b-d37d408ca8944936a345e16e807dbb81" style="text-align:center">实时</p>
+</td>
+<td id="b-9c4bd03b58b8448a96db040480deb30a">
+<p id="b-95120f0e06ce4fb8b3d9fa2270df85ec" style="text-align:center">25分钟美团平台通用实时</p>
+</td>
+<td id="b-f1fe6c2380114f79b5b89d11413311b2">
+<p id="b-469501e0da2b49ab968f86fa32932edc">11045	答题淘金-文字</p>
+<p id="b-22a92a43ba2743309e6f4655ba8cd255">11050	美团App消息-商家消息内容文案</p>
+<p id="b-51d04a5a0aa5431391861806837dbb14">11051	美团App消息-商家消息标题</p>
+<p id="b-41866e19eb86434d899effdf8afb5f5e">11080	摩西平台知识库 - 文字 </p>
+<p id="b-8afa308a999d4fefa068b70510065b6b">11514	美团回应-文字</p>
+<p id="b-32ff34a0cea54a91a64ce2e54ebb0b9b">20708	答题淘金-图片</p>
+<p id="b-85724deefb2046088ecc04a5a3072955">20830	游戏中台-图片（先审后发所有人可见）</p>
+<p id="b-1640fb4cf9c743128301721a5fd91a6b">40020	美团魔方-公共服务-视频接入</p>
+</td>
+</tr>
+<tr id="b-f2d7c50872244102b4d2ec8a856fe076">
+<td id="b-3b2c3263f66645e28d4c978d6bdee5eb">
+<p id="b-1f09822e6fde429296fd609cdada9b3e"></p>
+</td>
+<td id="b-0ae8796538d2418a84d21b400b592aab">
+<p id="b-18a73de4be7b4da986d2198911e7f8d0" style="text-align:center">实时</p>
+</td>
+<td id="b-06a7aab29fdb4508af4c2845b7643906">
+<p id="b-2f37ee5383a149d69639fe59f7db5d2d" style="text-align:center">到店25分钟通用实时</p>
+</td>
+<td id="b-2792a188a80a40de9c86babacbd05df6">
+<p id="b-403bfcb93d104457ace98d4435ed16b9">226	到综购物视频接入审核</p>
+<p id="b-b16444fb09654228a32609644254d1b0">245	点评管家商户</p>
+<p id="b-65872aebcd5248699ea8b4fd8210baf6">249	商户通各功能</p>
+<p id="b-41598c2963c64bed8a8095d706dd9a58">252	POI品牌故事视频</p>
+<p id="b-f46089cc42044bc4b628b970f4b02981">10038	齿科医师审核文字接入</p>
+<p id="b-e71f3c6fc1244fea85ee0f9495e0d7cc">10055	健身教练信息审核文字接入</p>
+<p id="b-42c3613ff33c4bc0a3d92835db1018da">10091	【到综B端接入】快照案例文字接入</p>
+<p id="b-2d2e4b9fdd04479aae915c28334a54da">10092	到综B端接入】美业学院评论</p>
+<p id="b-12fcddd0693f45e3baa89fcdb7740e70">10103	到综-POI品牌故事-文字接入</p>
+<p id="b-bf6e85a631574ef6be5f9fd35f3e49f2">10112	到综-留学攻略文章-文字接入</p>
+<p id="b-7e06258a1a4844e4b1df0c5c593f156a">10147	新到店-购物实物电商信息-文字接入</p>
+<p id="b-aeb506b842b74125a38ca8530797e212">10152	新到店-餐饮生态商家账号-文字接入</p>
+<p id="b-e5aa27af017144e484b9d9b8bdf8efd2">10179	新到店-丽人美业学院评论-文字接入</p>
+<p id="b-69d807a606704a4daed004c582b7552b">10184	新到店-生活服务律师信息-文字信息</p>
+<p id="b-9794c7a472fb4401ac0ab275225c1c6d">10185	新到店-生活服务心里咨询师信息-文字信息</p>
+<p id="b-6042a0c124024e29be1fd8a896d0b01c">10187	新到店-休娱旺铺自荐-文字接入</p>
+<p id="b-c4acd57ddd7f4be69466228c63ded924">10193	新到店-教培—品牌新单(无广告)</p>
+<p id="b-6c71c5a8e1f8445ba25590ed90c7344e">10199	新到店-到餐商家接入促销活动-文字接入</p>
+<p id="b-debe6466d5bc4582bcc8084421017521">10201	新到店-到餐商家接入主厨故事-文字接入</p>
+<p id="b-3006e34894b2437aaf5367d8b673e2a1">10223	宠物-美容师认证</p>
+<p id="b-27c62c035a0f49f89ed7791b261dd2b3">10235	医疗-商户促销活动</p>
+<p id="b-a611132e79154c15b6fee5a9387c4601">10250	医美门店介绍信息（统一）</p>
+<p id="b-a96e11d696a144a38669800aee0b828a">10259	养老院商户信息审核</p>
+<p id="b-f4a47ef32d7f4fa292a594c7dc6f53da">10266	健身教练相册</p>
+<p id="b-0a9cee769ee1497c8eba684a7518218c">10276	爱车-官方案例（统一）</p>
+<p id="b-ae435e320b4e4f268a27171a749bb4d2">10277	爱车-技师（统一）</p>
+<p id="b-3f89298762e64e5babb6541dfc3e64a1">10287	健身学员案例（统一）</p>
+<p id="b-59256adba1234af3af0735c04c7e2ac4">10295	休娱旺铺宝-品牌馆</p>
+<p id="b-1191d941e5f74740889d8bbe192541b2">10312	宠物官方案例（统一）</p>
+<p id="b-81bc23e3c89d4835bbdb0eba351cf196">10314	齿科特色技术（统一）</p>
+<p id="b-c817d9470bb84aa9b70fcba3e7eb7d97">10358	网吧配置服务（统一）</p>
+<p id="b-2e8844cf866849e69c06fb4dd205ad49">10372	医美品牌馆（品牌信息）（统一）-文字接入</p>
+<p id="b-48870d11741b44108aa07bbf9e8d3307">10386	到综-分享砍价-文字接入</p>
+<p id="b-fdaee519a90642b194982c0907483077">10405	学培商户视频名称</p>
+<p id="b-00617c91f00d49c58ec4cd33c8f95a76">10412	新对接-点评新回应-美团用户新回应</p>
+<p id="b-8d39985956404483a1dcb77fd0fdde83">10426	宠物寄养整体介绍-文字</p>
+<p id="b-ccf233be16cf425fa12aabcb67739236">10427	宠物寄养间管理信息-文字</p>
+<p id="b-d2c943946e974bb1a4ebb4f9c1830002">10446	智能版收银评价-文字</p>
+<p id="b-2615071fb0ca498ab66940ac7f064b10">10478	到店-餐饮生态-收银专业版评价-文字</p>
+<p id="b-f48b3d2ef82241d8b78f06344bec133a">10510	新到店-学培-店铺短视频-文字</p>
+<p id="b-b5c13e1a3b00461380d9775b621f981f">10524	酒旅-榛果民宿文字审核</p>
+<p id="b-01ad7170f516454bbfd754c2692c1007">10529	酒旅-榛果民宿文字审核-房东信息-文字</p>
+<p id="b-f798a482da824053b85c839a380281d9">10542	休娱-【经典案例管理】团建拓展轰趴馆-文字</p>
+<p id="b-185ba1425778455ead9aec2fa3b117c4">10552	酒旅问答-问题-文字</p>
+<p id="b-22396b32d5604a23a98efff64889ca1d">10553	酒旅问答-回答-文字</p>
+<p id="b-68a44623b0b34e0fa92b9fe8b0f83a0d">10559	美团用户回应</p>
+<p id="b-e6ca547ba4ee48e5b92b24a0df38aa9f">10571	常用备注--文字</p>
+<p id="b-03fe3a69b4e842c9a0f5f8543b2ac7bb">10572	宠物-摄影案例-文字</p>
+<p id="b-a7a0d3b319ce414184f3ee66bcf8c0ab">10581	境外店铺装修-视频标题文字</p>
+<p id="b-8ee7886edd3c411da9ad6864486c835f">10621	休娱足疗技师信息审核-文字</p>
+<p id="b-f7a2bd3492c14a3d9172c0fb1033c673">10624	学院平台评论-文字</p>
+<p id="b-ec7d08cc0780468a93e8ad50cb6a2d74">10643	美团评论</p>
+<p id="b-68fa894c44ca49eabb0e9a7b9b0dfb3e">10659	美团收银</p>
+<p id="b-80bce5476b544717a52466143da3e589">10686	教育亲子-直播物料审核-文字</p>
+<p id="b-370352093ab24006952cfa927ee5954e">10702	到餐官方相册图片名称</p>
+<p id="b-ba92ea24ff714f34913b934f57dfa95d">10710	手机点餐菜品海报-文字</p>
+<p id="b-4a225ec9878b4f8fa7bdc6c1342f78c7">10715	美妆品牌馆</p>
+<p id="b-f3dac4e77d3f4ceabb58db23cbf3af0a">10749	医生信息审核</p>
+<p id="b-2f8c5b3892f445d38e019d1c2923315b">10770	家居甲醛案例-文字</p>
+<p id="b-76aebf6d63894263bd35113c845d1f92">10791	酒吧调酒师/驻唱歌手审核</p>
+<p id="b-02bf2d246f484018adabe633d98c95ac">10846	家居-装修/定制/建材行业案例-文字</p>
+<p id="b-47189fdbd9ff459a8787a8993029ec8f">10878	境内住宿信息平台组-图片标签内容-文字</p>
+<p id="b-73ae6a51e40445a6b388ed684aea55b8">10882	景点业务内容安全+文字</p>
+<p id="b-5eaa1f35f2cf472086372105bc168890">10892	到综商户端预约礼-文字</p>
+<p id="b-36ed3b7f28174d7194171a2e013d1b11">10987	门店特色（新）-文字</p>
+<p id="b-53292c8090ed476f8cc86fe4397d5d3e">10995	酒店旅行攻略-文字</p>
+<p id="b-a89f420a0235427d96c6712ee5e1d424">11005	教育母婴-教师认证审核-文字</p>
+<p id="b-d0546224b06545d7b11fde9ee7031e7c">11021	亲子游乐-游玩须知-文字</p>
+<p id="b-50ae79dfed4c494084ff0de1c10afad8">11035	LE-结婚-结婚婚宴宴会厅审核-文字</p>
+<p id="b-1280ae7c3a8343709e1bfdcec2bcaaf5">11059	LE-结婚个性写真案例审核-文字</p>
+<p id="b-50f8ca66661046e78b2997ef34122b9a">11060	LE-结婚婚庆公司案例审核</p>
+<p id="b-61325c37bd1c45359f634c5903e204fb">11061	LE-结婚婚纱礼服案例审核-文字</p>
+<p id="b-4f103846a68f462d9e9fcf5615fd9339">11062	LE-结婚旅拍案例审核-文字</p>
+<p id="b-5dde7cba4a424475abab24d8a045e444">11063	LE-结婚西服定制案例审核-文字</p>
+<p id="b-9874a097a6c9470bb31eb27d84448ea6">11064	LE-结婚婚纱摄影案例审核-文字</p>
+<p id="b-166dfe470a6d4796a2ff883aab70e966">11068	LE-家居-家用电器商户信息审核-文字</p>
+<p id="b-ffdeb852e261446dac6f33a8197b10ea">11069	LE-家居-家装卖场商户信息字段-文字</p>
+<p id="b-967a28692ae44d8991795d2c76f45c57">11071	LE-家居-装修设计商户信息审核-文字</p>
+<p id="b-597d4daecd644373a86197bd68750b16">11072	亲子游乐家长休息区+文字</p>
+<p id="b-eee4d5eadf8d448bbc918ab82129ed48">11077	教育及母婴 - 月子会所护理团队+文字</p>
+<p id="b-8c5ab498842945d8b63e75e35e072402">11083	教育作者信息-文字</p>
+<p id="b-c4af7668907743b6b7d2429d2fb1e539">11127	SPU推荐语-文字</p>
+<p id="b-062c11a65fb64f45938927026e666053">11200	【休娱剧本杀】剧本评论 - 文字</p>
+<p id="b-790120e5762b4f1b913543ea8218e18e">11252	社区话题正文</p>
+<p id="b-d9c21dfb4a2a41bba712b3ced3f10e57">11256	生活服务+老家政服务人员</p>
+<p id="b-23593c7f6c7f4352a62cd748d3dc089c">11272	商家新鲜事-文字</p>
+<p id="b-15041e3c9dae4b9480e7a75f8ba4bdca">11275	休娱-诊疗案例产品-文字</p>
+<p id="b-27bb32e4b808460397f526d013ac7824">11293	啡快菜品信息3-文字</p>
+<p id="b-42803220844b4fc4a71057dbc8a62e1c">11296	啡快属性值信息-文字</p>
+<p id="b-bf7319fd76f14b579943511a8bc1142b">11314	亲子医疗医师信息审核+文字</p>
+<p id="b-1b8b4bd795a5410eab8781e06d297845">11332	新奇酷-文字</p>
+<p id="b-f9a30880ebbf44c4821277c8b665ad00">11358	美团拼场活动发布活动详情 -文字</p>
+<p id="b-48999f1c9b6a4ebd8091ecc48ebe7e54">11365	到综休娱-在售车车型-文字</p>
+<p id="b-221b6dff4e4846ea8194b8d7ad71ddfb">11366	丽人-手艺人信息</p>
+<p id="b-228234d93c2c48bf996b5fd8c9ab96c5">11367	丽人-手艺人简介信息</p>
+<p id="b-6a8a4cb0800646d1bc8dd06b9d37f94a">11383	丽人-舞蹈视频-文字</p>
+<p id="b-0b0b4591cdc24eb0bb7658ff3e9d7513">11461	宠物健康档案-自定义服务项目、备注-文字</p>
+<p id="b-48104e7c0ac9498e85cfc7056ee54a40">11465	调研问卷-文字</p>
+<p id="b-865682b809e5457c861a87baa1c29dea">11485	医美履约—文字</p>
+<p id="b-03043c85a92c4af492ee529927f17ea5">11504	丽人价目表-文字</p>
+<p id="b-461931ab4ba44d409d3d141a4fb20c24">11533	宠物-在售萌宠-文字</p>
+<p id="b-884c2bc1693c45fdbeace90d7be39bcd">11543	个人信息-文字</p>
+<p id="b-543a00ef1a504400b96ca25684ac979f">11621	酒店店内吐槽-文字</p>
+<p id="b-0556bd476db745fcb221086817d9449a">11635	健身中心</p>
+<p id="b-5dbae202e91b4828a8675a97d7f001ab">11642	LE-家居-手艺人-文字</p>
+<p id="b-dbdadd8b367e4baabdd3d65c287229fe">11643	医美智能外呼-文字</p>
+<p id="b-a79fe17d20754719b226c60021b08b83">11678	到综 - 美团评价 - 文字</p>
+<p id="b-a32136233956493d8e1830174d6ee8ef">11710	特价团购主会场商品卡片上展示推荐理由</p>
+<p id="b-3494a93b51e245e59a55cc40094ecb77">20038	齿科医师审核图片接入</p>
+<p id="b-147878eb205c41428b10592b90e1c30a">20055	健身教练信息审核图片接入</p>
+<p id="b-11a73e4810884fd6bc6aa033580ae9d7">20057	物料入店审核图片接入</p>
+<p id="b-74e0d2de5a074f4db019cf80b6983fbe">20084	到综B端接入】快照案例图片接入</p>
+<p id="b-e153466e490045a6bae34977157c0a62">20092	到综-POI品牌故事-图片接入</p>
+<p id="b-c7451ba5787542f6883494df98bed28f">20138	新到店-购物实物电商信息-图片接入</p>
+<p id="b-9eba9428bb1a476c92c9fff1fb510389">20157	新到店-丽人官方作品三美相册(新)-图片接入</p>
+<p id="b-ccf92e5520b14c4e99626d5c92d17542">20158	新到店-丽人技师作品相册-图片接入</p>
+<p id="b-dec26d5d8e914f54aacbfaabda0f470d">20160	新到店-生活服务律师信息-图片接入</p>
+<p id="b-5918e9fd5a204772a9e33705075d5942">20161	新到店-生活服务心理咨询师信息-图片接入</p>
+<p id="b-ec3eafa1a5eb456dbe8fe0d01ba7af3e">20170	新到店-教培-品牌新单(无广告)-图片</p>
+<p id="b-70293756446f4986b8fa57a1b68fa0c1">20177	新到店-到餐商家接入官方相册-图片接入</p>
+<p id="b-f093f58b529f443799855c9370e258bb">20179	新到店-到餐商家接入促销活动-图片接入</p>
+<p id="b-547d434727444eb39a92c18d9aebd38e">20181	新到店-到餐商家接入主厨故事-图片接入</p>
+<p id="b-bcb22bed421147ab97aec2ebdf085fc1">20194	宠物-美容师认证</p>
+<p id="b-6bebf15c54c743b3a5f6be783c4887c3">20202	医疗-商户促销活动</p>
+<p id="b-dc37c554bfe64eb28c02e4d00243c529">20215	医美门店介绍信息（统一）</p>
+<p id="b-f650c9bc33c5455793264efc3b335ce8">20222	养老院商户信息审核</p>
+<p id="b-852a6e334ef94a09a12af72559554d9d">20227	健身教练相册</p>
+<p id="b-55117ae649a84eb5b1268228c0e4a430">20233	爱车-官方案例（统一）</p>
+<p id="b-fd6e826e83aa4ce48e523eec571afe63">20234	爱车-技师（统一）</p>
+<p id="b-72c59fbdea294f6b9268a0620b1a5f94">20239	健身学员案例（统一）</p>
+<p id="b-6a872082253e4dcea7a6b2185ba3ae1b">20247	休娱旺铺宝-品牌馆</p>
+<p id="b-82088ace614245ee8e8b1c62836b4051">20264	宠物官方案例（统一）</p>
+<p id="b-9c8f32e952854425837186999d0625f6">20266	齿科特色技术（统一）</p>
+<p id="b-1a04c655ba6e4982a3aa326442aaa1ab">20272	开店宝商家上传结构化菜单-图片接入</p>
+<p id="b-5b65aefc1384446d81052eb65193cfb7">20303	医美商户通-中通封面图（统一）-图片接入</p>
+<p id="b-086fede61a044e16a91fb25d2c170a61">20339	宠物寄养整体介绍-图片</p>
+<p id="b-43e676f28e884a9cb090af4a942a93fd">20340	宠物寄养间管理信息-图片</p>
+<p id="b-3a705d7df7d340ac9dd68378bff37dba">20346	手艺人基本信息（存量）-图片</p>
+<p id="b-2c9adb7cc5ee4ead9e9bd3da7cdcac71">20352	榛果民宿评价-图片</p>
+<p id="b-c087b8bd941b47ff913c41281514d3a2">20384	到餐-商家官方相册审核-图片</p>
+<p id="b-da130e6599be432e8405f6ae5c416758">20390	到餐-门店主图-图片</p>
+<p id="b-846b6675f0004860996be81b52bff3d4">20391	到餐-商户通主厨故事-图片</p>
+<p id="b-ad3140fb08cf4c219deb31fe64bcf786">20392	到餐-商户通二楼-图片</p>
+<p id="b-f6565e966fe04ac19ae64e3e4124bc6d">20397	到综-店铺装修-BANNER</p>
+<p id="b-5435319a83af4acb93ff51f19acbd456">20405	新到店-学培-店铺短视频-图片</p>
+<p id="b-19108f7f6381460baa746eb4cb219f38">20419	休娱-【经典案例管理】团建拓展轰趴馆-图片</p>
+<p id="b-af78c398e83a48f28aafe0c65e7057bd">20431	酒旅问答-图片</p>
+<p id="b-25ae406bbc734fb59baea91795308f80">20443	宠物-摄影案例-图片</p>
+<p id="b-564f3b35959c4e8386fa1f7ffd8084e9">20445	菜单图片-图片</p>
+<p id="b-5e9422f15f2f45058cb8a842d1b03b06">20447	境外店铺装修-头图</p>
+<p id="b-bed1ee9047ae4669abb4e8d44eebd143">20448	境外店铺装修-轮播图</p>
+<p id="b-ed9fbecdaea44471b1b8a3f40c38ce63">20449	境外店铺装修-相册</p>
+<p id="b-bf471731702742d7bd8c0823fcec1985">20456	列表页主图-图片</p>
+<p id="b-009db48bf0fb4275be29225c27cb8ad7">20490	美团评价-图片</p>
+<p id="b-94f51e7844554abba1a2364547634ef5">20499	婚宴实例相册-图片</p>
+<p id="b-1b1a8ff581b744a4ab2670d8f6b41d8d">20500	手机点餐点餐-菜品海报-图片</p>
+<p id="b-62f81f7892cb4ff091840e56c94adeed">20523	SKA品牌馆-图片</p>
+<p id="b-9f1852a6e28649709ad7a7911d32ff23">20530	美妆品牌馆</p>
+<p id="b-c3bbeca428ea441d80418563373ddbe9">20562	医生信息审核</p>
+<p id="b-cf3395dc234d4225bd1e92b6e8e71eb7">20574	家居甲醛案例-图片</p>
+<p id="b-471e5b41539142089841433443e4707c">20588	酒吧调酒师/驻唱歌手审核</p>
+<p id="b-7bb0421919b94936b71293b995e5decf">20590	教育亲子-卫生安全标签及图片-图片</p>
+<p id="b-d6c89a3ac64942e0851b48b14d981a13">20613	家居-商家3D案例-图片</p>
+<p id="b-803d0b77be0e443a93b9fd640c06a2ab">20616	家居-装修/定制/建材行业案例-图片</p>
+<p id="b-182f3bda7d934d9289b2e635ba3236a0">20635	景点业务内容安全-图片</p>
+<p id="b-8a8bebb1b4264b3a82b8bbb4ea6a43cd">20681	酒店旅行攻略-图片</p>
+<p id="b-bee199cb3c484df79588b8758c3d08d3">20683	教育母婴-教师认证审核-图片</p>
+<p id="b-d2ecc66177bc454388fc4057906391be">20692	LE家居-工地实拍-图片</p>
+<p id="b-77389bd22da34ba0b05cabd79f7ea166">20703	LE-结婚-结婚婚宴宴会厅审核-图片</p>
+<p id="b-8243c19fc6f848aba70ed497d8210b72">20710	眼科特色技术-图片</p>
+<p id="b-bd45f9eecd7146999a05c985663dde75">20717	LE-结婚个性写真案例审核-图片</p>
+<p id="b-33cff5e0429a4ff9a74d6e434c57512e">20718	LE-结婚婚庆公司案例审核</p>
+<p id="b-d1db5127d9224e4ba057f360bf11e8ce">20719	LE-结婚婚纱礼服案例审核-图片</p>
+<p id="b-e3e42c0a42c34406b48ecf08e915f6ab">20720	LE-结婚旅拍案例审核-图片</p>
+<p id="b-66a105cd14024789936949bcdfa25804">20722	LE-家居-家具定制商户信息字段-图片</p>
+<p id="b-cdf05600d26c49779af1e5c8827275cd">20723	LE-结婚西服定制案例审核-图片</p>
+<p id="b-9a2da1e0fa2844b79dd7e901de13e9be">20724	LE-结婚婚纱摄影案例审核-图片</p>
+<p id="b-639d0f94942f470eb30d1e1a4f6ec1d3">20728	LE-家居-装修设计商户信息审核-图片</p>
+<p id="b-fbf8f4c2205845e3a9b9b77f653f37a0">20729	亲子游乐家长休息区+图片</p>
+<p id="b-adb8c3ce0cb64949ba3ce71cc8dc0661">20732	教育及母婴 - 月子会所护理团队+图片</p>
+<p id="b-1f8465fcfece4107a4b612f61fa879bf">20735	教育作者信息-图片</p>
+<p id="b-c2a4678f9f6f469382a088b106117826">20756	扫码点餐-B端-图片</p>
+<p id="b-7d6e70971351483abfd21a12b50348ec">20766	医美推广图-图片</p>
+<p id="b-e334b591058f4090bb5580361a45cbf3">20771	专业版会员营销-图片</p>
+<p id="b-7b9b16b0eebf458ea909797b335ecc9d">20772	智能版会员营销-图片</p>
+<p id="b-b12752a9071d4332bcaa253ef72c7e1b">20774	茶饮扫码点餐-B端-图片</p>
+<p id="b-6f8d4eb46e1b4fc98a20bc7b6845293b">20779	扫码点餐菜品-B端-图片</p>
+<p id="b-7164187ed94242f49b3be2cd04c26a49">20780	智能版微商城-图片</p>
+<p id="b-bf5e1bba20ca44589a299797982a3706">20794	【休娱剧本杀】剧本评论 - 图片</p>
+<p id="b-736468533e44402ea13f15e7d788668b">20814	社区话题图片</p>
+<p id="b-a7531c17ef1048ea87f98d45f6065fdd">20816	生活服务-家政服务人员</p>
+<p id="b-ebe7dbdbd1d94a3686de3325a5cb3caf">20824	商家新鲜事-图片</p>
+<p id="b-1f1bd55092ec4799bcaf559e34111a61">20828	休娱-诊疗案例产品-图片</p>
+<p id="b-dad83e71a6024693b6c67cade5a919f3">20835	啡快菜品信息3-图片</p>
+<p id="b-59ea2de16d8243ef8b5323039024b864">20846	亲子医疗医师信息审核+图片</p>
+<p id="b-c0628913695a4bcd90b1d26bceb85762">20860	企微自动化营销计划内容-图片</p>
+<p id="b-1671872c6ef1415f98901319306d49ad">20861	新奇酷-图片</p>
+<p id="b-d25f2523a9a14fc5bc3d205c216466bc">20871	美团拼场活动发布-图片</p>
+<p id="b-cc33dca44eb94547b8190230a09d44d4">20932	教育及母婴+款式管理+图片</p>
+<p id="b-f9cdbd7c8c7e4106b839ff5cd218e96b">20937	丽人品牌专区+图片</p>
+<p id="b-cc674afb1bda4c9ba2c7c042f06ea35e">20979	品牌会员-图片</p>
+<p id="b-2dd58b81f4624924a739fb4077bc29c0">21003	到餐品牌主页-图片</p>
+<p id="b-63b500f66ee644cea21fa983255a32bc">21012	结婚新版摄影案例-图片</p>
+<p id="b-42e4ce8c500d449d85bd5327c150387e">21016	住宿供给产品-图片</p>
+<p id="b-c5c1bfe4ee184002adf6a396344af1c0">21045	蓝V认证-图片</p>
+<p id="b-b38ba3c122b84d8f8bcc1e9dbd93449a">21047	LE-家居-手艺人-图片</p>
+<p id="b-e07c162bbb0a4b828a923c9da5e64263">21049	到餐-五层标准化自助餐长图审核-图片</p>
+<p id="b-211e2a8cc93e4aababac283cda719a2e">21081	月子商户端预约礼+图片</p>
+<p id="b-fdd9247556964c859ec10a174a1d44e1">21089	蘑菇物料图片上传——图片</p>
+<p id="b-7f21bcb93bfe40d89f0eb5de75627443">40009	医美-用户分享内容审核</p>
+<p id="b-d6f39966f0aa40f6999df14f21fe717f">40031	宠物寄养间管理信息-视频</p>
+<p id="b-e8ba14870b4a46c7ac5ac1aba0f8215b">40042	到餐-商户通主厨故事-视频</p>
+<p id="b-ce4738ed2c7c4d5ca2850d59ab343877">40043	到餐-商户通二楼-视频</p>
+<p id="b-b926ad9ca91b404b9c9dd4ca94d0073f">40045	新到店-教培-品牌新单(无广告)-视频</p>
+<p id="b-474bcb485b1e44f7a9ca0833b845e921">40058	休娱-【经典案例管理】团建拓展轰趴馆-视频</p>
+<p id="b-c3a6d2d6baef4b5ab56e771b42b27b22">40064	宠物-摄影案例-视频</p>
+<p id="b-3fe9b2587e0346b8ab50beed6f58079b">40065	境外店铺装修-视频</p>
+<p id="b-668042ef60d544209d4dcfb0cdd65698">40069	商家清洁－视频</p>
+<p id="b-fc073c4313b5475fba31e2e6f6a199e8">40073	美团评价-视频</p>
+<p id="b-6c82743b8efa4e409c572a2b250aff0d">40116	家居-装修/定制/建材行业案例-视频</p>
+<p id="b-fccd40f74bcd4fdcb721817a59eea31f">40126	景点业务内容安全-视频</p>
+<p id="b-65b03e0c05b4457a8a0fd9a70e318e94">40148	酒店旅行攻略-视频</p>
+<p id="b-6da81423f87c44d387ecce1eea5a2bdd">40149	教育母婴-教师认证审核-视频</p>
+<p id="b-a6d27a52749c47759d328ffe0def3837">40159	教育视频探店-视频</p>
+<p id="b-9f929112a6a643889edcf129f5419818">40162	LE-结婚个性写真案例审核-视频</p>
+<p id="b-5378d0e4a690448eab0f05fb5983a7ad">40163	LE-结婚婚庆公司案例审核</p>
+<p id="b-b4202d4b28f84955a5faa7010330ecf6">40164	LE-结婚婚纱礼服案例审核-视频</p>
+<p id="b-92a4e5aedf2a40c2bd7ca986a4d05c91">40165	LE-结婚旅拍案例审核-视频</p>
+<p id="b-ebbd177e8b754d429fe4fd7de31991a3">40166	LE-结婚婚纱摄影案例审核-视频</p>
+<p id="b-90c9c1ef17154897867beb0a3cb48005">40184	【休娱剧本杀】剧本评价 - 视频</p>
+<p id="b-e02adf8fc99a4159b586048d3db8c692">40190	商家新鲜事-视频</p>
+<p id="b-cb911167857840279910594dde57285e">40192	休娱-诊疗案例产品-视频</p>
+<p id="b-c00bd76806454f1b905ef21a6a2eb160">40258	到餐品牌主页-视频</p>
+<p id="b-95c4d44d95934047af34c6ca149cfd5b">245	点评管家商户</p>
+<p id="b-55fc178efe894b1bb50f6a88cbacd581">249	商户通各功能</p>
+<p id="b-7e57bc526adc49969857f8ff05b58bf0">252	POI品牌故事视频</p>
+<p id="b-4bcb9d9c2dd3405db39797a396f58f55">10038	齿科医师审核文字接入</p>
+<p id="b-e7a2ea07968a4446abc78c1a4ae5b1dc">10055	健身教练信息审核文字接入</p>
+<p id="b-762e1338a9dc4e38a36290aeb934e6a0">10091	【到综B端接入】快照案例文字接入</p>
+<p id="b-fc146bd3447749ee8db970791ff37fb9">10092	到综B端接入】美业学院评论</p>
+<p id="b-5f1b874b51db4c8d8799aed1c9ff38b9">10103	到综-POI品牌故事-文字接入</p>
+<p id="b-dd61c8812134442c9e425445cdc4147e">10112	到综-留学攻略文章-文字接入</p>
+<p id="b-2a3b4016066c49d184d08a2fab2da785">10147	新到店-购物实物电商信息-文字接入</p>
+<p id="b-a51e4f294b274ae8a9f8220002919351">10152	新到店-餐饮生态商家账号-文字接入</p>
+<p id="b-e4bda869d8e14efb84611f98d2dcbf28">10179	新到店-丽人美业学院评论-文字接入</p>
+<p id="b-cc9137df94cc46b38376cb7b5152631d">10184	新到店-生活服务律师信息-文字信息</p>
+<p id="b-a113cda549b648c483328c117edae36e">10185	新到店-生活服务心里咨询师信息-文字信息</p>
+<p id="b-297d5a233e32483292fc362ff61668f0">10187	新到店-休娱旺铺自荐-文字接入</p>
+<p id="b-f9f6088b3488405b9e90ca55c6f2e18d">10193	新到店-教培—品牌新单(无广告)</p>
+<p id="b-76ed4dd7ed064c7086a60049b64fa504">10199	新到店-到餐商家接入促销活动-文字接入</p>
+<p id="b-19c11df123274822befe87389c45236a">10201	新到店-到餐商家接入主厨故事-文字接入</p>
+<p id="b-a2ec93607a2449ed98dcea9aef2fe942">10223	宠物-美容师认证</p>
+<p id="b-4efe5e1fb1a54b73ab23f81879547d42">10235	医疗-商户促销活动</p>
+<p id="b-a63af47d5a774eb5b8a181103da304af">10250	医美门店介绍信息（统一）</p>
+<p id="b-abe00e10118a4ccd8e4b662e23a451b9">10259	养老院商户信息审核</p>
+<p id="b-4bec1ab27a4a4c499cbab1e58e7991ba">10266	健身教练相册</p>
+<p id="b-a70889ef7eef4af6a1667528c8092797">10276	爱车-官方案例（统一）</p>
+<p id="b-d205676667894826a79bc6cb9fa03745">10277	爱车-技师（统一）</p>
+<p id="b-3ab456489fcf4500a57dd0e130e8d2d1">10287	健身学员案例（统一）</p>
+<p id="b-dea5a9b3f49748e09915663e25038e02">10295	休娱旺铺宝-品牌馆</p>
+<p id="b-a1611271f54849e99414735046590ebc">10312	宠物官方案例（统一）</p>
+<p id="b-85568f44aeb44deea817b1278f996018">10314	齿科特色技术（统一）</p>
+<p id="b-e8559fb2dff64a0ca116a6b5d0b76eb7">10358	网吧配置服务（统一）</p>
+<p id="b-bb5db69801194fff9f6482afa29cb974">10372	医美品牌馆（品牌信息）（统一）-文字接入</p>
+<p id="b-f8553ccf50eb48ee85208f9d3b238a80">10386	到综-分享砍价-文字接入</p>
+<p id="b-f0c0ebb25a24451c94b8208bda9e4938">10405	学培商户视频名称</p>
+<p id="b-e4675d1c8dcf46f1ad70a30791685331">10412	新对接-点评新回应-美团用户新回应</p>
+<p id="b-04fad854f794422d9cc22a74b2b67ff3">10426	宠物寄养整体介绍-文字</p>
+<p id="b-7976da817a6d48d485a0a1b2b0075d1d">10427	宠物寄养间管理信息-文字</p>
+<p id="b-cdebf8c29ccd45fb9b4f5eafb5625f93">10446	智能版收银评价-文字</p>
+<p id="b-b1275041673b4275b2566af97b24a34c">10478	到店-餐饮生态-收银专业版评价-文字</p>
+<p id="b-cae723576dea4e4c97019a196d784f9f">10510	新到店-学培-店铺短视频-文字</p>
+<p id="b-257034852ede43eb8363176887943ec5">10524	酒旅-榛果民宿文字审核</p>
+<p id="b-bc5942095bbd418d86cc767af502024f">10529	酒旅-榛果民宿文字审核-房东信息-文字</p>
+<p id="b-b19a042a3d3c45dc90be94fbe6de7997">10542	休娱-【经典案例管理】团建拓展轰趴馆-文字</p>
+<p id="b-d2a41d89c25148deb539bfd51e37e0b9">10552	酒旅问答-问题-文字</p>
+<p id="b-c3206fe4a9944a53a51ab242857c1d6f">10553	酒旅问答-回答-文字</p>
+<p id="b-a47f05de0e8a420ab546f3845cd4b92e">10559	美团用户回应</p>
+<p id="b-1674b1cb53d046f4a707a11916e1c156">10571	常用备注--文字</p>
+<p id="b-461d0afe96e14cc4ac832589a261200a">10572	宠物-摄影案例-文字</p>
+<p id="b-a6adf9d413484fcab0e595376e42fbfa">10581	境外店铺装修-视频标题文字</p>
+<p id="b-1bc3e47930c6462e9fc2b55932196d15">10621	休娱足疗技师信息审核-文字</p>
+<p id="b-effead40450a4b3f9855c055f4b50982">10624	学院平台评论-文字</p>
+<p id="b-9c49806cb64b4bf7b0f6b5a0f36e9b29">10643	美团评论</p>
+<p id="b-2da52f689a4e4960a5fdacff67130560">10659	美团收银</p>
+<p id="b-70ba76e218d14a58a5645b08cdb14869">10686	教育亲子-直播物料审核-文字</p>
+<p id="b-52fa0c39d3a8420cb9d2c2c35b6b4cc4">10702	到餐官方相册图片名称</p>
+<p id="b-7aa5c2bac86044dba955fc094131cdd9">10710	手机点餐菜品海报-文字</p>
+<p id="b-eae5b541ffef462f9ba45a9d8868993e">10715	美妆品牌馆</p>
+<p id="b-77e6774b6b2347ca921d154a59331ee4">10749	医生信息审核</p>
+<p id="b-5e6084d1ba8044f3b08c599dab72b0fa">10770	家居甲醛案例-文字</p>
+<p id="b-1cc555b8e7344922ae4d8cd2e2835072">10791	酒吧调酒师/驻唱歌手审核</p>
+<p id="b-c5a2e7ebeb97403c84369e0a9e7439a6">10846	家居-装修/定制/建材行业案例-文字</p>
+<p id="b-37c80eb24a2b41a9a6f38ba93ac0a1ba">10882	景点业务内容安全+文字</p>
+<p id="b-405ee0ced3fd47908349a0861f156c86">10892	到综商户端预约礼-文字</p>
+<p id="b-8cf1eb0cad2448d89db81e64b269c401">10987	门店特色（新）-文字</p>
+<p id="b-557927ae22f143439ad42842bf4c937a">10995	酒店旅行攻略-文字</p>
+<p id="b-ba4ee27d41564f8b84c5eb00ae7b206e">11005	教育母婴-教师认证审核-文字</p>
+<p id="b-770e3df042db4de980017175ae445f74">11021	亲子游乐-游玩须知-文字</p>
+<p id="b-7ae25211918a4bc1992f49bc1f9bdd2b">11035	LE-结婚-结婚婚宴宴会厅审核-文字</p>
+<p id="b-bb98551a11fe4f51a969cba6e9a32a23">11059	LE-结婚个性写真案例审核-文字</p>
+<p id="b-4dd6a53042474f5e93bba989d7c3f9ac">11060	LE-结婚婚庆公司案例审核</p>
+<p id="b-b89fd0b4659d4998958e992139863b8a">11061	LE-结婚婚纱礼服案例审核-文字</p>
+<p id="b-03e9fe76b5b1425fa8a18397ceb676cd">11063	LE-结婚西服定制案例审核-文字</p>
+<p id="b-ecee7cad1dd7433bb198b56c701b751a">11064	LE-结婚婚纱摄影案例审核-文字</p>
+<p id="b-3e8dc32423ed4211b2c6dcda86daa52f">11071	LE-家居-装修设计商户信息审核-文字</p>
+<p id="b-bee1efd4f5e74a748e5e423478128664">11077	教育及母婴 - 月子会所护理团队+文字</p>
+<p id="b-eb3387bec6c647c89cb392ca6816395f">11083	教育作者信息-文字</p>
+<p id="b-43de6011560a4ab1b37f165e412095e1">11127	SPU推荐语-文字</p>
+<p id="b-5b98d02dc24840a0809540c56d89feef">11200	【休娱剧本杀】剧本评论 - 文字</p>
+<p id="b-b69ff36bcaf043e789d17521e971d069">11252	社区话题正文</p>
+<p id="b-cde46d4635a8469fad215d88dc7841fe">11256	生活服务+老家政服务人员</p>
+<p id="b-bf5660d7a9c6445ead445bfbb5b449ad">11272	商家新鲜事-文字</p>
+<p id="b-3c00a867a8c640ef9f495ce9b1c7bb32">11275	休娱-诊疗案例产品-文字</p>
+<p id="b-b6f65fb1e5ef477fa57ffe0a880cc0f9">11293	啡快菜品信息3-文字</p>
+<p id="b-3d1a0aca84d1424e9f6a373e4e6f5ba7">11296	啡快属性值信息-文字</p>
+<p id="b-afba6e4bc54f4e44b75b6f2ab01db517">11314	亲子医疗医师信息审核+文字</p>
+<p id="b-cb2061b624494924959cb95a9c075363">11332	新奇酷-文字</p>
+<p id="b-76c1109a21f843c993e0bf3b255e4c23">11358	美团拼场活动发布活动详情 -文字</p>
+<p id="b-3bc9e86922c143f980cff7bcd62f86f0">11365	到综休娱-在售车车型-文字</p>
+<p id="b-a7332d66cab342c5beb77ad0db0cb0ff">11366	丽人-手艺人信息</p>
+<p id="b-43c82b736ae341d496dfba90a917fb5f">11367	丽人-手艺人简介信息</p>
+<p id="b-43ce7af9b1f844d980cf9e4e2e1a1b37">11383	丽人-舞蹈视频-文字</p>
+<p id="b-6308ef52fae54ddd927d0710b3b07581">11465	调研问卷-文字</p>
+<p id="b-5f07d941851b497a99a169e187a25fba">11485	医美履约—文字</p>
+<p id="b-32f507d3a4fa4581acb5c1272abc08c1">11504	丽人价目表-文字</p>
+<p id="b-a849bdc4857e41089babd6a08cf300a7">11533	宠物-在售萌宠-文字</p>
+<p id="b-606a3410179a47e2974f4edf2087ebbf">11543	个人信息-文字</p>
+<p id="b-6cdc60749f4e4ae2b03cf4727d1c64c7">11621	酒店店内吐槽-文字</p>
+<p id="b-1bb42b28740c44a1b0ea329ddebd70f8">11635	健身中心</p>
+<p id="b-92069aa600504ade8f74fe049d320a6d">11642	LE-家居-手艺人-文字</p>
+<p id="b-0ea4655df8ec450191b8ad0126eec421">11643	医美智能外呼-文字</p>
+<p id="b-c952dc38f1a64934a9f2dc59fe967564">11678	到综 - 美团评价 - 文字</p>
+<p id="b-7ae9dde9777d469abe4bf610e9224c40">11710	特价团购主会场商品卡片上展示推荐理由</p>
+<p id="b-c0ee8d7a58b04bbca6ad5d4fe772d16f">20038	齿科医师审核图片接入</p>
+<p id="b-50fd3aa9eb5743fa902a4d5387e319ae">20055	健身教练信息审核图片接入</p>
+<p id="b-ad62eab8b2ab426298e3ec7eb7923d07">20057	物料入店审核图片接入</p>
+<p id="b-d0f70ea6ed5043e4a56a10308d5bd6e9">20084	到综B端接入】快照案例图片接入</p>
+<p id="b-3a6c66582a694dcf8c4a9e5103ebdee6">20092	到综-POI品牌故事-图片接入</p>
+<p id="b-c98f7c05d79a46c48726cec20807d63b">20138	新到店-购物实物电商信息-图片接入</p>
+<p id="b-8ddad3d1b9d8428e86b62a6ac39c78fe">20157	新到店-丽人官方作品三美相册(新)-图片接入</p>
+<p id="b-c451799a1ce840cb92b49ff663602f58">20158	新到店-丽人技师作品相册-图片接入</p>
+<p id="b-7a3d432e10324166afcde05c56dfd087">20160	新到店-生活服务律师信息-图片接入</p>
+<p id="b-e5bcd90a7b0b4d2ba4abab99be4d9717">20161	新到店-生活服务心理咨询师信息-图片接入</p>
+<p id="b-07b48fd275734b38a1d1bac60e9e6ce2">20170	新到店-教培-品牌新单(无广告)-图片</p>
+<p id="b-3f4738ad60bc4a8fa15933b0477258b6">20177	新到店-到餐商家接入官方相册-图片接入</p>
+<p id="b-efc25352022149788574c29fa3810bd4">20179	新到店-到餐商家接入促销活动-图片接入</p>
+<p id="b-50e7f904636d48eaaf5475702948fb15">20181	新到店-到餐商家接入主厨故事-图片接入</p>
+<p id="b-c9ab829ba53a42d99114843b61f9fed2">20194	宠物-美容师认证</p>
+<p id="b-3ddc391585614823b2b6e84814d84cb8">20202	医疗-商户促销活动</p>
+<p id="b-d58994412260415dadd255ca00609f99">20222	养老院商户信息审核</p>
+<p id="b-df249f5d263c4d49bc413c3ae8554d6b">20227	健身教练相册</p>
+<p id="b-15afa6ef12a94dfebe0340a4db99a5b9">20233	爱车-官方案例（统一）</p>
+<p id="b-dbc6bc94c17346a498e73508f5cb3d56">20234	爱车-技师（统一）</p>
+<p id="b-78a12546f08341b688d190ac7a4cec45">20239	健身学员案例（统一）</p>
+<p id="b-f2e7b29765c04cecbbeb43df745d1fb1">20247	休娱旺铺宝-品牌馆</p>
+<p id="b-53a5ae3e16704a2ba78ac29ecc9c3a4b">20264	宠物官方案例（统一）</p>
+<p id="b-19a6fd1405da4ffe83e26a6764d2864b">20266	齿科特色技术（统一）</p>
+<p id="b-540fdb89a87f4cbda57c1bfe7e152e13">20272	开店宝商家上传结构化菜单-图片接入</p>
+<p id="b-a8b739c1506f464f9ea759eea837fbf3">20303	医美商户通-中通封面图（统一）-图片接入</p>
+<p id="b-b6126d6da1a746f9a48a6906be4c271e">20339	宠物寄养整体介绍-图片</p>
+<p id="b-b07b85ed1942448f92cef61068a559fa">20340	宠物寄养间管理信息-图片</p>
+<p id="b-a7f293d646c94b908eaf892e5a8b5127">20346	手艺人基本信息（存量）-图片</p>
+<p id="b-66be3ff5b8d74c1b956a030e4d92a386">20352	榛果民宿评价-图片</p>
+<p id="b-b2ddf2fcdf104135a48a365934320c09">20384	到餐-商家官方相册审核-图片</p>
+<p id="b-d75b6523b9854a12aac42b27b286e78f">20390	到餐-门店主图-图片</p>
+<p id="b-2e737f1671254f5db8624e026a241e2b">20391	到餐-商户通主厨故事-图片</p>
+<p id="b-e9a0a881ce994354b527bc115204eec2">20392	到餐-商户通二楼-图片</p>
+<p id="b-1ad46cec2f77463ca6a50aa3a334466b">20397	到综-店铺装修-BANNER</p>
+<p id="b-adc5d88cfff244b096c053c3efe4dc7e">20405	新到店-学培-店铺短视频-图片</p>
+<p id="b-3ef233ab527c43ea9c8b1a8411119ea5">20419	休娱-【经典案例管理】团建拓展轰趴馆-图片</p>
+<p id="b-e6cb2b74f1cb44e49b2d71f96020ad80">20431	酒旅问答-图片</p>
+<p id="b-99467812bbb14b1a92ae5f05ce3e841c">20443	宠物-摄影案例-图片</p>
+<p id="b-2af9f2779df541e28ec1ffb41da83310">20445	菜单图片-图片</p>
+<p id="b-4b427afe945549b19bb28a792dfc8c00">20447	境外店铺装修-头图</p>
+<p id="b-5fcc3a8593e74c8caf6888b0900ebf07">20448	境外店铺装修-轮播图</p>
+<p id="b-22af83d0409c4e1ab46244670e66bb2a">20449	境外店铺装修-相册</p>
+<p id="b-c0e2fa9a4dd64cd4ae29f8b6e9e52420">20456	列表页主图-图片</p>
+<p id="b-d9eb99fe670a42418f61b8249182debd">20490	美团评价-图片</p>
+<p id="b-68a93b596e3941f4abab767e2f64738a">20499	婚宴实例相册-图片</p>
+<p id="b-bdc15461abac4fd78d973343d18190c7">20530	美妆品牌馆</p>
+<p id="b-2c93ee532a354f3382024a4fff9e479f">20562	医生信息审核</p>
+<p id="b-4c5708b8a1a440208ba2964850aec223">20574	家居甲醛案例-图片</p>
+<p id="b-85e147a3f7f3419aa8d6cbccb0b97aed">20588	酒吧调酒师/驻唱歌手审核</p>
+<p id="b-61c9a9d7561c43f5b04b5b1273271894">20590	教育亲子-卫生安全标签及图片-图片</p>
+<p id="b-4c6a228e44a8437193e1265795993cf0">20613	家居-商家3D案例-图片</p>
+<p id="b-fb3d18f1c83f4f34a69e6884f640ec44">20616	家居-装修/定制/建材行业案例-图片</p>
+<p id="b-e678c3bd267d469182e87a5b698c0218">20635	景点业务内容安全-图片</p>
+<p id="b-c2f1a005823c4f7e9b6e10a3d4841def">20681	酒店旅行攻略-图片</p>
+<p id="b-6b4eaa49a0324a5f8642e7d362164751">20683	教育母婴-教师认证审核-图片</p>
+<p id="b-5387a26decc14afeaad0d2be7fd14e59">20692	LE家居-工地实拍-图片</p>
+<p id="b-f8e712e959e84a28bb8955584aa8c0a6">20703	LE-结婚-结婚婚宴宴会厅审核-图片</p>
+<p id="b-b2a7dff4159b4f018547afab45891e39">20710	眼科特色技术-图片</p>
+<p id="b-ca15de446acc48c18258d3ddb638b273">20717	LE-结婚个性写真案例审核-图片</p>
+<p id="b-57b2b3f3a56b419380c985cd7b6b682e">20718	LE-结婚婚庆公司案例审核</p>
+<p id="b-0913bc50a68d4264b953e63a60875371">20719	LE-结婚婚纱礼服案例审核-图片</p>
+<p id="b-2cb5e9c589554df692372af81a54a200">20720	LE-结婚旅拍案例审核-图片</p>
+<p id="b-85e30ca2915b49359f6d69a322211a34">20723	LE-结婚西服定制案例审核-图片</p>
+<p id="b-4f2761da882d410d912512dff0d580ad">20724	LE-结婚婚纱摄影案例审核-图片</p>
+<p id="b-830e4492ad46407aa9e55ef4b28f5d03">20728	LE-家居-装修设计商户信息审核-图片</p>
+<p id="b-1e0293e848f2415599a7c92cae22d30e">20729	亲子游乐家长休息区+图片</p>
+<p id="b-7b1fe20242ad48ddadf97b435d182cbd">20732	教育及母婴 - 月子会所护理团队+图片</p>
+<p id="b-02d562c356954cf5ae39f07142dc1d02">20735	教育作者信息-图片</p>
+<p id="b-a42690a4599645cc8ecc6d390b0183bf">20756	扫码点餐-B端-图片</p>
+<p id="b-92cd4841a150421ab329c469c33486d4">20766	医美推广图-图片</p>
+<p id="b-77d55a56cbc4461fb8cba65547bcb663">20772	智能版会员营销-图片</p>
+<p id="b-c7b0b8eb5ce1436296698f8ba40b7c43">20774	茶饮扫码点餐-B端-图片</p>
+<p id="b-03aa0d26920845a7bd69d6c250c80d80">20779	扫码点餐菜品-B端-图片</p>
+<p id="b-3a3b88f8b01c4cb489754569e9d7f243">20780	智能版微商城-图片</p>
+<p id="b-39f9f74d2e574d358cf69f6dea2e1a60">20794	【休娱剧本杀】剧本评论 - 图片</p>
+<p id="b-88b1a346e4ea4e50ac3fa4d816a2ab79">20814	社区话题图片</p>
+<p id="b-d202f77f9e9040a1b5eb75480382fb72">20816	生活服务-家政服务人员</p>
+<p id="b-7cb0aa06b26d47f18cde0e1ed7358676">20824	商家新鲜事-图片</p>
+<p id="b-7185e2d57b544404abe967a317c87faa">20828	休娱-诊疗案例产品-图片</p>
+<p id="b-34ecac6567ad4ea19d0f174bb1fd322e">20835	啡快菜品信息3-图片</p>
+<p id="b-6f82482925714877a58335932abf4b7c">20846	亲子医疗医师信息审核+图片</p>
+<p id="b-fd32df17c8034299b93d878a767f9f90">20860	企微自动化营销计划内容-图片</p>
+<p id="b-e08b5bb66eda47c099426036df536aa9">20861	新奇酷-图片</p>
+<p id="b-0c644e731fd741bba4ad6fe98c64c4ae">20871	美团拼场活动发布-图片</p>
+<p id="b-86d28bdfe8194dc59e561503864d8ca1">20932	教育及母婴+款式管理+图片</p>
+<p id="b-b835785161a54450870743320b44acd5">20937	丽人品牌专区+图片</p>
+<p id="b-ff34d54bac464cbd896d72d7200723f9">20979	品牌会员-图片</p>
+<p id="b-f8d7dd4e6da44b919efbc3f1de8fb356">21016	住宿供给产品-图片</p>
+<p id="b-d3daddcc8c464d03897dd74a98721082">21045	蓝V认证-图片</p>
+<p id="b-4ec0910856d24c99b031f1ffef8f8b89">21047	LE-家居-手艺人-图片</p>
+<p id="b-d16dd2b3f1c74d9d98c98e9b3d862b8e">21049	到餐-五层标准化自助餐长图审核-图片</p>
+<p id="b-a7201cab31b24e37bcdc6be59c5c084e">21081	月子商户端预约礼+图片</p>
+<p id="b-d2ac4b2328d647129014649bf7a9bfc1">40009	医美-用户分享内容审核</p>
+<p id="b-11dcc9c6c22b4fd3b8b71867d4f875e1">40031	宠物寄养间管理信息-视频</p>
+<p id="b-bb70f59b3de8463eab6c269e217ccdbf">40042	到餐-商户通主厨故事-视频</p>
+<p id="b-304be6e00d68471bafe05eb612eef879">40043	到餐-商户通二楼-视频</p>
+<p id="b-22f42f830a4946c3a650a9b4c3ecf6d7">40045	新到店-教培-品牌新单(无广告)-视频</p>
+<p id="b-5060add491054e2d92bb2f300f6ffa53">40058	休娱-【经典案例管理】团建拓展轰趴馆-视频</p>
+<p id="b-f1303da0a4b14a0586b4f405fd2ebcf6">40064	宠物-摄影案例-视频</p>
+<p id="b-6a87f702c5fc4bd29745d44b4feb2e14">40065	境外店铺装修-视频</p>
+<p id="b-e8f0b7da6663448a8b36a8600785e472">40069	商家清洁－视频</p>
+<p id="b-c802666cf77949e4bd84279faab9e5f4">40073	美团评价-视频</p>
+<p id="b-3d39565cb6a746aabb6f1722cd248871">40116	家居-装修/定制/建材行业案例-视频</p>
+<p id="b-f68285afbeb3454eb728e90bbcf1b23b">40126	景点业务内容安全-视频</p>
+<p id="b-5462ee87868c42d1a3c621b1d6db37fb">40148	酒店旅行攻略-视频</p>
+<p id="b-66ffdbc5f8874579b07dddea30283974">40149	教育母婴-教师认证审核-视频</p>
+<p id="b-e518efbcec7240f19ab65cdc8ccd6000">40159	教育视频探店-视频</p>
+<p id="b-16b06b2881f24ef08676d81b42d2a418">40163	LE-结婚婚庆公司案例审核</p>
+<p id="b-04ddf815f65b4ed599232f197bc895c0">40166	LE-结婚婚纱摄影案例审核-视频</p>
+<p id="b-dd8f3580c567458aaa138add04e30a8c">40184	【休娱剧本杀】剧本评价 - 视频</p>
+<p id="b-b50a7317b8df48fabeec4108aa535c9d">40190	商家新鲜事-视频</p>
+<p id="b-d3c6d5aa0e29499b8ca3029dddceddfa">40192	休娱-诊疗案例产品-视频</p>
+<p id="b-0c68dc680df54d55b29db8c28154966e">40258	到餐品牌主页-视频</p>
+</td>
+</tr>
+<tr id="b-afb5622409324012b2e38a436f6eab42">
+<td id="b-b438d1e83a584c649f041b82c461aef1">
+<p id="b-82801615da1340489b67c529a3954fa6"></p>
+</td>
+<td id="b-2b1dcfa4328e4ee9a98edcc316a59a5a">
+<p id="b-7a7d29cab49544cebe182639773c61fb" style="text-align:center">实时</p>
+</td>
+<td id="b-4a888fb106db4106a8a59227c1c6d32b">
+<p id="b-f02fb93115e24774b4215affac6e56ea" style="text-align:center">到家25分钟通用骑手涉政专项</p>
+</td>
+<td id="b-b98bc7d26e7e4662a77ba4dce3b1463d">
+<p id="b-ad065e103ed344dc8baf1ce42ffc2248">10472	骑手社区-回复文本-文字</p>
+<p id="b-7f0da8b7985544ad8aeca648cf7c185d">10473	骑手社区-评论文本-文字</p>
+<p id="b-3479bf7f3ba84b6bb78f577e29755576">10474	骑手社区-帖子文本-文字</p>
+<p id="b-675a2dcdb5f04a36a327ce22547907d3">20378	骑手社区-帖子图片-图片</p>
+</td>
+</tr>
+<tr id="b-436e92d32f614e768b7c0dfcd8834389">
+<td id="b-ff24d31bd9be48ad8637c5e8e1ebf431">
+<p id="b-333fe1f7587149469d3bb0b1e8e6f063"></p>
+</td>
+<td id="b-dea2b9da9df247a3955406a716be224f">
+<p id="b-4b3b395257734ba4868d75d05e1272f7" style="text-align:center">实时</p>
+</td>
+<td id="b-782d949a2749499184cd058f838a645c">
+<p id="b-7d582fb71a0749b3b17ee04f043f120d" style="text-align:center">点评爆量业务降级审核通用标准</p>
+</td>
+<td id="b-9910379ab522465caf82369499994813">
+<p id="b-79825bc43f2c49a0b71acc58078a7832">20665	抖音广告投放 - 图片</p>
+</td>
+</tr>
+<tr id="b-ecd083392ede406fbacf14b6a503e1fd">
+<td id="b-a43d364507134087a56d432314beb9e5">
+<p id="b-8bbd017291344a70bf77146705e4e0a2"></p>
+</td>
+<td id="b-612bb85b38de409f93eb0cd26dd5c57e">
+<p id="b-5e4df4d8ff9b48cda6ce9fe9efa7dd9d" style="text-align:center">实时</p>
+</td>
+<td id="b-5619951da5aa4729a1b997827541b3dd">
+<p id="b-ffd5c8727ee649edb1c216598a65dc05" style="text-align:center">25分钟点评重保通用</p>
+</td>
+<td id="b-0949cf3856a749229ae6a69f4a69fe83">
+<p id="b-f6c03121ff4a4ce19688ca68b3d36c27">10226	UGC自定义话题</p>
+<p id="b-da417edead97419a823e3eeeb21d9588">10337	新对接-点评用户新回应-文字接入</p>
+<p id="b-2bb49bebc5834a16861c75c90b65f118">11339	点评攻略3.0-标题</p>
+<p id="b-c898e0d345e44cd5a0ebf692336db3f6">20596	视频笔记封面-图片</p>
+<p id="b-0b6af0e8ac764ed5879e023f3adf449e">10226	UGC自定义话题</p>
+<p id="b-9b6d9c13c3fa4dd2af4b958673ae6985">10337	新对接-点评用户新回应-文字接入</p>
+<p id="b-e7eac687b2c54d2d8bdf1d817548a554">11339	点评攻略3.0-标题</p>
+<p id="b-e5c1e429b8134bcd963c34ff5fc89b9b">20596	视频笔记封面-图片</p>
+</td>
+</tr>
+<tr id="b-0712979323c74e3e870d3dedd2f3d2c2">
+<td id="b-d9d8f5dff80f467785b866b83fe7c2eb">
+<p id="b-66a38f004945427095ed3703a95a240d"></p>
+</td>
+<td id="b-4c236838b46e47faa6cd49e64f6ac6eb">
+<p id="b-170b612e5ae748bdaa8a924d0800fdeb" style="text-align:center">实时</p>
+</td>
+<td id="b-9a68845896504292841770186abc68a2">
+<p id="b-0d5a79d3aeeb49c5ab3abb21458c233c" style="text-align:center">二十大专项-POI内容</p>
+</td>
+<td id="b-bd48a15c2377488794c117e08451a604">
+<p id="b-333c6ab8c8ab4dbda28bd434e669a5d2">10464	广告平台-万花筒创意非批量-文字</p>
+<p id="b-5356cb9f1e91403095b219e37d61e5f3">10552	酒旅问答-问题-文字</p>
+<p id="b-6ba42aa6457b40a5aa35b5ffabe66a70">10643	美团评论</p>
+<p id="b-6df1745b18904f3f84564f93e0700ae0">11057	到综-休娱-KTV预订套餐-文字</p>
+<p id="b-e532d63adfa849cd8a776ad7f92f7779">20370	广告平台-万花筒创意非批量-图片</p>
+<p id="b-7984589a52c94d8a96410119d2677044">20490	美团评价-图片</p>
+<p id="b-e1affc6a685f4abe94b1b9fec0e6be12">10207	点评商户问答-问题</p>
+<p id="b-ae8ad9d1b33d4e60b0e90c4aae26bf1f">10208	点评商户问答-回答</p>
+<p id="b-cb44708010ce4fd387bd72e41bb18e9d">10209	点评平台问答-回复</p>
+<p id="b-a59a3c76c3ff4115bf243a7f85b00a7c">10336	新对接-点评商户回应-文字接入</p>
+<p id="b-decb42eb388d43d48442f1e0d11b9b9e">10558	美团商户回应</p>
+<p id="b-c230596fb56849b3b4f37b2184c69be8">10819	点评侧展示的美团评价-文字</p>
+<p id="b-9d609c89ee3b4b64bf007f91e7cc893b">20576	点评商户下传图-图片</p>
+<p id="b-8d1ca4729903484cbdfefb6f8217121a">11104	猜喜内容卡送审-文字增量</p>
+<p id="b-de04408f10c542b4b7a8a6b6d0c9e0da">11130	首页推荐title增量</p>
+<p id="b-77b41f6864dc442c9d7303cc6e982de1">20750	猜喜内容卡送审-图片增量</p>
+<p id="b-c8afc8c3ae2e46e2b42632890bc067e7">20761	首页推荐picture增量</p>
+</td>
+</tr>
+<tr id="b-e79baba058204485a301cc7d73246cf0">
+<td id="b-2bba8ff01dd249fe8215c1069c641498">
+<p id="b-9427b17f327e484682fbd5784a463c12"></p>
+</td>
+<td id="b-3dd793be86644191b3b2b23fd14994e4">
+<p id="b-b82b9c4068d6463a9fef998815a92edd" style="text-align:center">实时</p>
+</td>
+<td id="b-9dac28923afd4c5dbefaacf4dda36be9">
+<p id="b-a2e2ac25431248e98c38c711e9676095" style="text-align:center">二十大专项-重点用户内容审核</p>
+</td>
+<td id="b-a1edcddbadaf4ee4b62302496f3820cf">
+<p id="b-c9d2b34736e64de29087be4d59a9b697">10552	酒旅问答-问题-文字</p>
+<p id="b-5bb120ceeedb4e85a070a1b938c3b298">10553	酒旅问答-回答-文字</p>
+<p id="b-fb54011a1ec949099b7ec6c385d9136c">10559	美团用户回应</p>
+<p id="b-c7ef2346848b41fc8d9527b93b9f080a">10643	美团评论</p>
+<p id="b-4e1622c50a8f42e1937266638f045930">10659	美团收银</p>
+<p id="b-7a00fadc05404bcdb4d769639f99ad30">11200	【休娱剧本杀】剧本评论 - 文字</p>
+<p id="b-a3939062973445409b2e6035058a0821">11252	社区话题正文</p>
+<p id="b-7bec0ab467e24257a92065ae79d59a05">20352	榛果民宿评价-图片</p>
+<p id="b-c8a7b5c47cd54aeeb42e77a42e98bc41">20490	美团评价-图片</p>
+<p id="b-a71ff0116df44849bff35644ee4fbc97">20794	【休娱剧本杀】剧本评论 - 图片</p>
+<p id="b-d94bb3a3e3884faebc4cc86e786fcd17">20814	社区话题图片</p>
+<p id="b-3e742def535342ce94f490046be99cd8">10365	外卖-外卖评价迁移-文字接入</p>
+<p id="b-5cb6c7bde28b48bab7ed142348acc7e5">10472	骑手社区-回复文本-文字</p>
+<p id="b-f878a11d2a2f4b3aae007e08b409a511">10486	外卖-商户社区-文字</p>
+<p id="b-b008479ae03d477198b85dca9f7f1475">10726	外卖/闪购/医药商品评价（关联商品）-文字</p>
+<p id="b-f2270912fc254481aa1bba5a62baf019">11131	外卖IM群-文字</p>
+<p id="b-e95a02429e934181bf5f22e9d3750671">11431	拼好饭用户昵称-文字</p>
+<p id="b-db4f1161a13d44729099134fe0025ae1">20543	外卖/闪购/医药商品评价（关联商品）-图片</p>
+<p id="b-53c5e215e2944700b0ea0a65fb8a5234">20545	外卖IM商家-用户群聊-图片</p>
+<p id="b-827c47f59bb14ea5be9ce4303148e523">10207	点评商户问答-问题</p>
+<p id="b-c3018364e29647f4851206a7d9442f55">10208	点评商户问答-回答</p>
+<p id="b-8f2e5ff87e33450e909f8e0725d88be7">10209	点评平台问答-回复</p>
+<p id="b-3e1320a6fb4f4ee6a3e3b88d40836600">10226	UGC自定义话题</p>
+<p id="b-a60d628bbc554db9af84e422595db05c">10247	【榜单】榜单内容接入诚信</p>
+<p id="b-ef73360b602446018bbadf93d773986b">10262	点评用户签名</p>
+<p id="b-cd5c6ed6484f48e592aba2ee92c49f99">10267	点评私信聊天大象版</p>
+<p id="b-e6bcb41138974eb6846d3db880af379b">10274	点评账号昵称修改</p>
+<p id="b-5adef99348af49798a171d15a98f3ac7">10336	新对接-点评商户回应-文字接入</p>
+<p id="b-a1721e8c54e44f28a2edfc0502e2335b">10337	新对接-点评用户新回应-文字接入</p>
+<p id="b-d242e9ff8b0c4c57a12ce5d48df5c022">10371	UGC-用户自定义纯文本标签-文字接入</p>
+<p id="b-335b0ed6da864039a1a407791b4c1539">10448	新对接-点评评论-视频贴纸文字接入</p>
+<p id="b-fe72780b5da04210be824f602b208e60">10462	点评-霸王餐活动回应（业务）-文字</p>
+<p id="b-9fbebe5c786649eabced2bcceb6163ef">10531	点评app-收藏-专辑名称-文字</p>
+<p id="b-b06d39b0057946d8ac6211319fd14b0a">10558	美团商户回应</p>
+<p id="b-82242deff4a24decb915353435d9587f">20169	点评平台-profile页面封面-图片接入</p>
+<p id="b-518cb762d76048be961716694403a930">20187	点评平台商户问答</p>
+<p id="b-f449ef48bbd147e9871f7e91a34f9db6">20212	【榜单】榜单内容接入诚信</p>
+<p id="b-5034dbfe11434958a31cf41365649a95">20223	点评用户头像</p>
+<p id="b-df573e00afe34ea8b92741243873ca38">20338	推荐菜美团侧图片-图片接入</p>
+<p id="b-5f30ab2cf0d340e8a9a16458aa315621">20576	点评商户下传图-图片</p>
+<p id="b-62663d690d4048b09bf3b16f727c7742">20596	视频笔记封面-图片</p>
+<p id="b-5110e33dd56742408602ae20a967fda3">11120	阳光义卖商城评论-文字</p>
+<p id="b-cef0f485b83043268040c9e048181276">10278	点评平台POI报错流程（用户）</p>
+<p id="b-f78cc2594a674baaad1299c1ddd315ce">10279	点评平台POI新增流程（用户）</p>
+<p id="b-cb09f836cbeb43eeae5301edefa9283d">10539	美团app-用户账号中心-用户昵称-文字</p>
+</td>
+</tr>
+<tr id="b-0063624d0c2a4bc7bd5ad49f98be872d">
+<td id="b-0948901f515a40f085fe660ad556432e">
+<p id="b-ae602d2ad0f24df9b114e498f25a4fd3"></p>
+</td>
+<td id="b-d7f03afe70994cf1bc9d09c4bfae04cb">
+<p id="b-e5cfdd75109a4691bd3a44de3007bf49" style="text-align:center">实时</p>
+</td>
+<td id="b-44a37e57aedb4e7292b2457b8cc89ef7">
+<p id="b-77219f53d1c64519ac47837f99be9005" style="text-align:center">25分钟猫眼专项</p>
+</td>
+<td id="b-e7c6d8cc776545328587b03da7084fc4">
+<p id="b-70bffa0bbc6e459b99a0f59cf6c732fc" style="text-align:center">猫眼专项标准</p>
+</td>
+<td id="b-a9aae5384e2942d39349641a6f92d468">
+<p id="b-2cf2c3fa22ba45d9993cf4492d3d6c94">10466	猫眼-电影评论-文字</p>
+<p id="b-7a2c8fb183304d0ea003440af96270b8">10489	猫眼-帖子-文字</p>
+<p id="b-4396520fca9e46eeb2e9b6b9ece0758f">10496	猫眼-资讯评论-文字</p>
+<p id="b-6f92d01d602e467193096a1ee29caf6d">10771	猫眼演出评论 + 文字</p>
+<p id="b-9822845555e94096a78f398ff1422c47">20388	猫眼-帖子-图片</p>
+<p id="b-7aa1bca0fd5e424ab368702d949d7244">20393	猫眼-电影长评-图片</p>
+<p id="b-10e0e9b68b2f4bf39a7f1e113211edd8">20575	猫眼演出评论-图片</p>
+<p id="b-6ad34bc106334d73a6eaebc102db8d2b">21043	基础图片 合规审核</p>
+<p id="b-6f108fea0e824f1fa08917ffb546ef52">40040	猫眼-帖子-视频</p>
+<p id="b-7de4b48a32334decb48b6827f8978f9a">40273	猫眼电影 预告片</p>
+<p id="b-752e51e653904c30b452fdc18c5df414">40040	猫眼-帖子-视频</p>
+<p id="b-07b58ebe1fa0496b867325d8a957f599">40273	猫眼电影 预告片</p>
+</td>
+</tr>
+</table>
+</div>

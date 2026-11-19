@@ -3,11 +3,13 @@
 from pathlib import Path
 from html import escape
 from html.parser import HTMLParser
-from urllib.parse import urlsplit, unquote
+from urllib.parse import urlsplit, quote
 import collections, copy, hashlib, json, re, xml.etree.ElementTree as ET
 
 BASE = Path(__file__).resolve().parents[1]
 DOCS = BASE / 'docs'
+PREVIEWS = BASE / 'previews'
+SOURCES = BASE / 'sources'
 DATE = '2026-11-19'
 SOURCE = 'https://km.sankuai.com/collabpage/1637005052#b-921650b1a29b4bd2bd2f815014f77623'
 records = json.loads((BASE / 'manifest.json').read_text())['documents']
@@ -42,13 +44,12 @@ def safe_url(url):
 
 
 def render(n, target='html'):
-    folder = DOCS / n['id']
     if n['status'] != 'saved':
         return '<p class="unavailable">'+escape(STATUS[n['status']])+'：'+escape(n['reason'])+'。未申请权限。</p>'
     if n.get('format') == '1.0':
-        root = Fragment((folder/'source.html').read_text()).root
+        root = Fragment((BASE/n['source_paths']['html']).read_text()).root
     else:
-        raw = (folder/'source.xml').read_text()
+        raw = (BASE/n['source_paths']['xml']).read_text()
         clean = re.sub('[\x00-\x08\x0b\x0c\x0e-\x1f]', '', raw)
         root = ET.fromstring(clean)
     parents = {c:p for p in root.iter() for c in p}
@@ -106,8 +107,9 @@ def render(n, target='html'):
                 match=re.search(r'^https?://km\.sankuai\.com/(?:collabpage|page)/(\d+)',url)
                 if match and match[1] in by_id:
                     cid=match[1];frag=urlsplit(url).fragment
-                    dest='index.html' if target=='html' else 'README.md'
-                    el.set('href',f'../{cid}/{dest}'+('#'+frag if frag else ''))
+                    path_key='preview_path' if target=='html' else 'markdown_path'
+                    dest=Path(by_id[cid][path_key]).name
+                    el.set('href',quote(dest,safe='')+('#'+frag if frag else ''))
                     el.set('title','学城原文：'+url+'；'+STATUS[by_id[cid]['status']])
         if el.tag == 'img':
             url=el.get('src','')
@@ -138,32 +140,36 @@ CSS='''*{box-sizing:border-box}body{margin:0;color:#202c40;background:#f5f6f8;fo
 
 
 def page(title,body,root=False):
-    prefix='' if root else '../../'
+    prefix='' if root else '../'
     return '<!doctype html><html lang="zh-CN"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="referrer" content="no-referrer"><title>'+escape(title)+'</title><link rel="stylesheet" href="'+prefix+'archive.css"></head><body>'+body+'</body></html>'
 
 
 rows=[];mdrows=[]
 for i,n in enumerate(records,1):
-    folder=DOCS/n['id'];folder.mkdir(parents=True,exist_ok=True)
+    DOCS.mkdir(exist_ok=True); PREVIEWS.mkdir(exist_ok=True)
     body=render(n)
-    toolbar='<div class="toolbar"><a href="../../index.html">全部文档</a><a href="'+escape(n['url'],quote=True)+'">学城原文</a><a href="README.md">GitHub 阅读版</a></div>'
+    md_url=quote(n['markdown_path'],safe='/')
+    preview_url=quote(n['preview_path'],safe='/')
+    toolbar='<div class="toolbar"><a href="../index.html">全部文档</a><a href="'+escape(n['url'],quote=True)+'">学城原文</a><a href="../'+md_url+'">GitHub 阅读版</a></div>'
     header='<header><h1>'+escape(n['title'])+'</h1><p>'+STATUS[n['status']]+' · 文档 ID '+n['id']+' · 保存日期 '+DATE+'</p>'+toolbar+'</header>'
     note='<p class="notice">正文与表格已保存；图片、附件、音视频、思维导图及流程图保留原始链接，可能需要学城登录和对应权限。未展开保存正文中的二级引用链接。</p>' if n['status']=='saved' else ''
-    (folder/'index.html').write_text(page(n['title'],header+'<main>'+note+'<article>'+body+'</article></main>'))
-    md='# '+n['title']+'\n\n[返回目录](../../README.md) · [学城原文]('+n['url']+') · '+STATUS[n['status']]+' · '+DATE+'\n\n'
-    if n['status']=='saved':md+='> 正文保留表格和折叠结构。图片和媒体仅保留原始链接，需要学城访问权限。完整源数据见同目录 source 文件。\n\n'
+    (BASE/n['preview_path']).write_text(page(n['title'],header+'<main>'+note+'<article>'+body+'</article></main>'))
+    md='# '+n['title']+'\n\n[返回目录](../README.md) · [学城原文]('+n['url']+') · '+STATUS[n['status']]+' · '+DATE+'\n\n'
+    if n['status']=='saved':
+        source_url=quote(n['source_paths']['json'],safe='/')
+        md+='> 正文保留表格和折叠结构。图片和媒体仅保留原始链接，需要学城访问权限。完整源数据见 [原始文件](../'+source_url+')。\n\n'
     md+=render(n,'md')+'\n'
-    (folder/'README.md').write_text(md)
+    (BASE/n['markdown_path']).write_text(md)
     label=escape(n['title']);status=STATUS[n['status']]
-    rows.append('<tr><td>'+str(i)+'</td><td><a href="docs/'+n['id']+'/index.html">'+label+'</a></td><td><span class="badge '+n['status']+'">'+status+'</span></td><td>'+n['id']+'</td></tr>')
-    mdrows.append('| '+str(i)+' | ['+n['title'].replace('|','\\|')+'](docs/'+n['id']+'/README.md) | '+status+' | '+n['id']+' |')
+    rows.append('<tr><td>'+str(i)+'</td><td><a href="'+preview_url+'">'+label+'</a></td><td><span class="badge '+n['status']+'">'+status+'</span></td><td>'+n['id']+'</td></tr>')
+    mdrows.append('| '+str(i)+' | ['+n['title'].replace('|','\\|')+']('+md_url+') | '+status+' | '+n['id']+' |')
 counts=collections.Counter(n['status'] for n in records)
 intro=f"共 {len(records)} 篇：正文已保存 {counts['saved']} 篇；无权限 {counts['no_permission']} 篇；需安全屋环境 {counts['restricted_environment']} 篇。"
 body='<header><div class="index"><h1>标准文档归档</h1><p>'+intro+'</p><p class="muted">来源：05-标准汇总表 V3.0 · '+DATE+' · <a href="'+SOURCE+'">查看来源</a></p></div></header><main class="index"><p class="notice">归档范围：汇总表本身与其中 137 篇直接链接。无权限内容仅保存占位记录。媒体保留原链接，未申请任何权限。</p><input type="search" id="search" placeholder="按标题、文档 ID 或状态查找" aria-label="搜索文档"><article><table><thead><tr><th>序号</th><th>文档</th><th>状态</th><th>ID</th></tr></thead><tbody>'+''.join(rows)+'</tbody></table></article></main><script>document.getElementById("search").addEventListener("input",function(){const q=this.value.trim().toLowerCase();document.querySelectorAll("tbody tr").forEach(row=>row.hidden=!row.textContent.toLowerCase().includes(q));});</script>'
 (BASE/'index.html').write_text(page('标准文档归档',body,True))
-(BASE/'README.md').write_text('# 标准文档归档\n\n'+intro+'\n\n来源：[05-标准汇总表 V3.0]('+SOURCE+')。保存日期：'+DATE+'。\n\n本次保存汇总表及其 137 篇直接链接，不递归抓取每篇正文中的参考链接或下级目录。各文档保留原文标题、表格合并结构、折叠内容与来源链接。无权限和安全屋限制均已记录，未申请权限。\n\n- 在 GitHub 中阅读：点击下表文档标题。\n- 本地浏览：用浏览器打开 [index.html](index.html)，支持按标题、ID、状态搜索。也可在仓库目录运行 `python3 -m http.server 8000` 后访问 `http://localhost:8000`。\n- 完整来源：`docs/<文档ID>/source.json`；2.0 文档另有 `source.xml`，1.0 文档另有 `source.html`。\n- [权限与读取限制清单](ACCESS_REPORT.md) · [机器可读清单](manifest.json) · [图片与媒体引用](media.json)\n\n> 图片、音视频、附件、思维导图与流程图保留原始地址，未下载二进制文件；查看时仍可能需要学城登录及对应权限。此副本不提供完整离线媒体。部分学城专有组件显示为原文链接或源内容提示，原始数据完整保留于 source 文件。原文的敏感内容提示仍予保留。\n\n| 序号 | 文档 | 状态 | 文档 ID |\n| --- | --- | --- | --- |\n'+'\n'.join(mdrows)+'\n')
+(BASE/'README.md').write_text('# 标准文档归档\n\n'+intro+'\n\n来源：[05-标准汇总表 V3.0]('+SOURCE+')。保存日期：'+DATE+'。\n\n本次保存汇总表及其 137 篇直接链接，不递归抓取每篇正文中的参考链接或下级目录。各文档保留原文标题、表格合并结构、折叠内容与来源链接。无权限和安全屋限制均已记录，未申请权限。\n\n- 在 GitHub 中阅读：点击下表文档标题。\n- 本地浏览：用浏览器打开 [index.html](index.html)，支持按标题、ID、状态搜索。也可在仓库目录运行 `python3 -m http.server 8000` 后访问 `http://localhost:8000`。\n- 文件命名：`docs/<学城标题>.md`；无权限文件标注 `（无权限）`，安全屋限制另行标注。同名文档附文档 ID 区分；无法读取标题时明确标注 `标题未读取`。\n- 完整来源：`sources/<学城标题>.json`；2.0 文档另有 `.xml`，1.0 文档另有 `.html`。预览文件位于 `previews/<学城标题>.html`。\n- [权限与读取限制清单](ACCESS_REPORT.md) · [机器可读清单](manifest.json) · [图片与媒体引用](media.json)\n\n> 图片、音视频、附件、思维导图与流程图保留原始地址，未下载二进制文件；查看时仍可能需要学城登录及对应权限。此副本不提供完整离线媒体。部分学城专有组件显示为原文链接或源内容提示，原始数据完整保留于 source 文件。原文的敏感内容提示仍予保留。\n\n| 序号 | 文档 | 状态 | 文档 ID |\n| --- | --- | --- | --- |\n'+'\n'.join(mdrows)+'\n')
 (BASE/'media.json').write_text(json.dumps({'storage':'source_url_only','references':assets,'unsupported_components':render_notes},ensure_ascii=False,indent=2))
-report='# 权限与读取限制清单\n\n核查日期：'+DATE+'。逐篇执行只读操作；未申请、修改或授予权限。\n\n'+intro+'\n\n'
+report='# 权限与读取限制清单\n\n核查日期：'+DATE+'。逐篇执行只读操作；未申请、修改或授予权限。\n\n无权限条目的名称取自汇总表链接文字；未读取到实际标题的文档明确标注“标题未读取”。文件名同时注明访问限制。\n\n'+intro+'\n\n'
 for status in ['no_permission','restricted_environment','read_failed']:
     group=[n for n in records if n['status']==status]
     if not group:continue
@@ -172,6 +178,6 @@ for status in ['no_permission','restricted_environment','read_failed']:
     report+='\n'
 report+='安全屋文档并不等同于已确认无阅读权限；当前环境无法读取，未请求安全屋 Token 或尝试其他访问路径。\n\n图片、媒体及附件仅保存原始链接，不将链接有效性等同于已下载或可离线访问。\n'
 (BASE/'ACCESS_REPORT.md').write_text(report)
-checksums={str(p.relative_to(BASE)):hashlib.sha256(p.read_bytes()).hexdigest() for p in sorted(DOCS.glob('*/source.*'))}
+checksums={str(p.relative_to(BASE)):hashlib.sha256(p.read_bytes()).hexdigest() for p in sorted(SOURCES.iterdir()) if p.is_file()}
 (BASE/'source-checksums.json').write_text(json.dumps(checksums,ensure_ascii=False,indent=2)+'\n')
 print(json.dumps({'documents':len(records),'counts':dict(counts),'media_references':len(assets),'source_files':len(checksums)},ensure_ascii=False))

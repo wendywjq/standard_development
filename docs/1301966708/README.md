@@ -1,7 +1,0 @@
-# 商品合规标准
-
-[返回目录](../../README.md) · [学城原文](https://km.sankuai.com/page/1301966708) · 已保存正文 · 2026-11-19
-
-> 正文保留表格和折叠结构。图片和媒体仅保留原始链接，需要学城访问权限。完整源数据见同目录 source 文件。
-
-<h1>商品合规标准</h1><div><p id="b-ct-diff-id-1f7ccd14-0749-438d-91f8-e821609afff3">人审落地标准：<a class="ct-link" href="https://km.sankuai.com/page/1304029179">https://km.sankuai.com/page/1304029179</a></p></div>

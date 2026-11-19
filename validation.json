@@ -18,5 +18,7 @@
     "搜索按安全屋状态筛选",
     "汇总表布局与合并单元格"
   ],
-  "media_storage": "source_url_only"
+  "media_storage": "source_url_only",
+  "file_naming": "document_title_with_access_status",
+  "title_named_markdown_files": 138
 }
