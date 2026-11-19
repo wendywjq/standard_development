@@ -1,0 +1,2992 @@
+<km-doc>
+<km-title nodeId="7ae23225631048c8b99b347d5809718f">现行标准适用TYPE索引</km-title>
+<h2 nodeId="bd9cd4907d494179b228a2fb87a9dc30"><strong>一、第一阶段</strong></h2>
+<km-collapse active="false" nodeId="f8d898be21944aaabd17961982689365">
+<km-title>背景输入</km-title>
+<km-content>
+<km-attachment src="https://km.sankuai.com/api/file/cdn/1664494579/38208190912?contentType=0" name="任务流对应标准(1).xlsx" size="16.71KB" nodeId="be163c79008f40f2b37b91f298e301a3" />
+</km-content>
+</km-collapse>
+<p nodeId="1bfb5c99c8324d5cbcebb671f889814c">根据人审侧提供的全量任务流Excel表格，提纯如下： </p>
+<table responsive="false" nodeId="5c2a7da7f7344aa7851e77b5bafe03da">
+<tr nodeId="fb828327978843ba8ab7878a8c58b0e8">
+<th colspan="5" colwidth="[79,195,335,220,129]" bgColor="#F4F5F7" nodeId="c0ff3379af5a4df59faf1d74ac39476e">
+<p align="center" nodeId="02a8b9ac7b164203a25db388e5a9596a"><span font-size="22"><strong>审核任务流应用标准分布</strong></span></p>
+</th>
+</tr>
+<tr nodeId="8486da19efa14dafa852d9533c4ec665">
+<td colwidth="[79]" bgColor="#F4F5F7" nodeId="aaa4b43ea3b3428e8f9bb4f315a5d6d9">
+<p align="center" nodeId="456865327c1243e3912c8a62326f148b"><span font-size="19"><strong>代号</strong></span></p>
+</td>
+<td colwidth="[195]" bgColor="#F4F5F7" nodeId="c5a01390e8e54f9ebdf920562c79492e">
+<p align="center" nodeId="7f9cb51d70bd431ea5c7beb4971ecca8"><span font-size="19"><strong>类别</strong></span></p>
+</td>
+<td colwidth="[335]" bgColor="#F4F5F7" nodeId="33fef21f1400489d91012f3e7bbe1447">
+<p align="center" nodeId="39bb76f58c1343d8a0a50c75fe186c0c"><span font-size="19"><strong>适用标准范围解释</strong></span></p>
+</td>
+<td colwidth="[220]" bgColor="#F4F5F7" nodeId="cce8ee230e7e4eb5b919f77c40cb08e6">
+<p align="center" nodeId="e85d2ba5a41c481e9e9d3043cc4fd037"><span font-size="19"><strong>TYPE数量（</strong></span><span color="#FF4A47"><span font-size="19"><strong>1853</strong></span></span><span font-size="19"><strong>个）</strong></span></p>
+</td>
+<td colwidth="[129]" bgColor="#F4F5F7" nodeId="bb5aa7b12e7e420ca6f45a3591af71f8">
+<p align="center" nodeId="824a068d3cdb43c5bd8dbb7f34549a68"><span font-size="19"><strong>备注</strong></span></p>
+</td>
+</tr>
+<tr nodeId="fafd8fa930c6487c9e3a0cb99a7197a3">
+<td colwidth="[79]" nodeId="3c2073a4d0124abf84c6dfb0aaa2bac3">
+<p align="center" nodeId="2e20d9e116844ed59220bb21bcc9b903">A</p>
+</td>
+<td colwidth="[195]" nodeId="46bc885e57cb40c8988a2821b1da44ba">
+<p align="center" nodeId="72d5b015632043438c701e827f572fdd"><a href="https://km.sankuai.com/collabpage/1667755862?from=citadel_space_tree" title="通用标准任务流" nodeId="8d30ca6a516d44cfba4fecd9302c1458">通用标准任务流</a></p>
+</td>
+<td colwidth="[335]" nodeId="a3002cde7a6f492fa11338b1d7fbf66e">
+<p nodeId="b349c3e7d9b345f9b160ecdc0daa9889"><span color="#FF4A47">运用全量的</span>通用标准。</p>
+</td>
+<td colwidth="[220]" nodeId="7dd753eab6e1470cbcf5e123f1272e07">
+<p align="center" nodeId="830e4127b589467da97467cece01814b">1288</p>
+</td>
+<td colwidth="[129]" nodeId="f297e1553fbb48088f30df07057065db">
+<p align="center" nodeId="0a819daca2fc42a1ac7d0d396f3ef28d" />
+</td>
+</tr>
+<tr nodeId="6a11fc4f07db4f828e4aa490a12debef">
+<td colwidth="[79]" nodeId="1fcde9da6e8b425d841b67a6457b9927">
+<p align="center" nodeId="751d8e620feb4c01b153922ee52c5fe8">B</p>
+</td>
+<td colwidth="[195]" nodeId="886f9da675db4054a95715745abe3c39">
+<p align="center" nodeId="424c824e61e74e709dea2db259c925ed"><a href="https://km.sankuai.com/collabpage/1668032171" title="业务业态品类标准任务流" nodeId="16c0d6fdeb8a43acad03112ef5a0f49e">业务业态品类标准任务流</a></p>
+</td>
+<td colwidth="[335]" nodeId="a110ab87da2f4d4f9112c750aab5c4c0">
+<p nodeId="0787baf783354e568e8558ceee88f416"><span color="#FF4A47">运用某一</span>业务业态品类的标准。</p>
+</td>
+<td colwidth="[220]" nodeId="8c6e64db224444f480201882722c02ad">
+<p align="center" nodeId="4cc6b4177230467d97d320961144f48b">219</p>
+</td>
+<td colwidth="[129]" nodeId="aaba15dcf8e348cbbd9c4771dc134b4f">
+<p align="center" nodeId="8e72593bbdf3444db8adc4927b8e8168" />
+</td>
+</tr>
+<tr nodeId="15688be1f93d43d9a2383decc7383127">
+<td colwidth="[79]" nodeId="dd57ba5ebce349509b4965e5dbfd2d60">
+<p align="center" nodeId="9c98c14677dc49d3b9cfeae112f9daf2">C</p>
+</td>
+<td colwidth="[195]" nodeId="5c5c878b7548403a98156facc2df4b8c">
+<p align="center" nodeId="2f615a555e2149799702ad4a34c32090"><a href="https://km.sankuai.com/collabpage/1673989461" title="业态标准适用任务流" nodeId="060b85366cb94c6d8d43279444f1a93b">业态标准适用任务流</a></p>
+</td>
+<td colwidth="[335]" nodeId="ab492e57a9e648bfb7755e441e7edb12">
+<p nodeId="ea58015d1ef74d07959f3030d042855e"><span color="#FF4A47">运用某一</span>模态的审核标准。</p>
+</td>
+<td colwidth="[220]" nodeId="7d853b466705465aa9f3b94f0f1ac068">
+<p align="center" nodeId="144d40873aba498e98b5154548702299">346</p>
+</td>
+<td colwidth="[129]" nodeId="6f7a8c5099ec4c35a478cf9bb5e80e97">
+<p align="center" nodeId="44d190d6e3e947959c92a5c764dc4c68" />
+</td>
+</tr>
+</table>
+<p nodeId="6ed4ac8b12bc413dac6d94ae70a4dd51" />
+<h2 nodeId="57ab495e831b41b288154861a98ac3f6"><strong>二、第二阶段 「</strong><span color="#00BA73"><strong>DONE</strong></span><strong>」</strong></h2>
+<p nodeId="820685526c144d93b6e52666a7b319aa">往V3标准体系里面按照代号对号入座输入对应的审核任务流。</p>
+<ul nodeId="34003c5801a24d679f463ca7861cd360">
+<li nodeId="6fa28e6494d941698ffc519f7961f9ef">A类「全部」代表全量通用审核任务流。</li>
+</ul>
+<ul nodeId="ee41c74055474b67acec2d08ee2e8d2f">
+<li nodeId="02a11c8ff9384f6093d04b49cf260fcc">B类「N1-N12」 代表通用审核任务流中的某一区间 。</li>
+</ul>
+<p nodeId="2352511c2f254289af41a9fb1d68904f">所以往V3里面直接输入编号即可找到对应的某一个/块审核任务流。</p>
+<p nodeId="1032b8bbd9524edabcd94aeaf4174cf4" />
+<h2 nodeId="23d068c1ddca48fab63e21ee5a8108f0">三、第三阶段 <strong>「</strong><span color="rgb(0, 186, 115)"><strong>DONE</strong></span><strong>」</strong></h2>
+<p nodeId="6749eb614d764a9da0ae2cac318a7fc3">单一任务流和TYPE的映射关系，辛苦<km-mention name="吴周文" uid="wuzhouwen" empId="" nodeId="dbe4d7acbeed4a0fae5fcd2aa3427dbd" />协助梳理。 </p>
+<p nodeId="eb81e254ca9b4f65b1de2494119fa82c" />
+<h2 nodeId="15aa81bd47b24984885cc23aad0bd5d5">四、第四阶段 - 「标准整合」</h2>
+<h3 nodeId="4e968471593349569cc1d48d7d21282d">1、目标与解决方案</h3>
+<ul nodeId="327c929fa883456191d8a5efe70354cb">
+<li nodeId="47530ff84589406780dd8347c18af216"><span color="rgba(0, 0, 0, 0.5)">判断标准是否使用的前置条件：只要能命中某个任务流映射的一个TYPE就说明该标准在使用，否则为啥要在对应的标准上圈定对应的TYPE。</span></li>
+</ul>
+<ul nodeId="8a80882e15b74775beb183c7d232eaca">
+<li nodeId="23190199323d461aa5233c9396ac9e6f"><strong>目标</strong>：你所负责拆解的某个业务业态标准，<span color="#FF4A47"><strong>对比通用标准分析，剔除归属于通用标准重复性质的内容</strong></span>，专门筛选出专属于该业务/业态标准的细则。</li>
+</ul>
+<ul nodeId="9d0e3e74bb4d4c57b607df333f07e394">
+<li nodeId="ee14ab4061fa4a66b775187bf7cec0a9"><strong>标准发布位置</strong>：<a href="https://km.sankuai.com/collabpage/1680245774" title="https://km.sankuai.com/collabpage/1680245774" autoUpdate="true" nodeId="9e59c059215242b5891c41d5b4e23760">https://km.sankuai.com/collabpage/1680245774</a></li>
+<li nodeId="088c8a1e892c4a00a796ad5e9e4dbc8a"><strong>注意事项</strong>：能明显识别是一类的，就直接收了汇总吧，预先给标了底色。</li>
+</ul>
+<h3 nodeId="27fb6806c9d34ed8bc0e2e72b19fe20f">2、资源盘点</h3>
+<table responsive="false" nodeId="e2a644305edc4ac1b39206c31a775080">
+<tr nodeId="f8b7c33b19884f00bc5f47f0918621d4">
+<th colwidth="[114]" nodeId="1d4ecc8859134c44a66348c4d6161965">
+<p align="center" nodeId="36736e88a1dc43968d6ce3c82f18bfa5"><strong>归属团队</strong></p>
+</th>
+<th colwidth="[275]" nodeId="f7870134e8e146b19b12266d39af11fa">
+<p align="center" nodeId="4e08e65629284d6b83cefd8041d3658e"><strong>人力资源</strong></p>
+</th>
+</tr>
+<tr nodeId="502c3754f4454df985cb1a448f28d2de">
+<td colwidth="[114]" nodeId="4034e08203584279bc72faa3da831e10">
+<p align="center" nodeId="2709b0d220ea47fd879e43c52532c779">人审</p>
+</td>
+<td colwidth="[275]" nodeId="f4440f1da3a24cb9a9c85323333d6648">
+<p nodeId="8c20f7e2f6d44b2a933a0c23ec8a0717">吴周文、<span color="rgba(0, 0, 0, 0.87)">解光勋、</span><span color="rgba(0, 0, 0, 0.84)">那炜晨</span><span color="rgba(0, 0, 0, 0.84)"><strong>、 </strong></span><span color="rgba(0, 0, 0, 0.84)">沈昊</span></p>
+</td>
+</tr>
+<tr nodeId="0fec0a4624d74ffabcbbfaa774e784eb">
+<td colwidth="[114]" nodeId="949d08bdce604a23b9c05bb3751c4d9c">
+<p align="center" nodeId="1e7c4ec843c142bfab2d657c1f39a2a2">解决方案</p>
+</td>
+<td colwidth="[275]" nodeId="b4e79822423a4d3ca36fbf51e31e008a">
+<p nodeId="521ce44f702a4db790837f39d5a5ab40">李刚、顾佳能</p>
+</td>
+</tr>
+<tr nodeId="7a429be8339f4648b1c8fd4890cca33f">
+<td colwidth="[114]" nodeId="a5ae04d8d80f49648f32b531ee6fc64b">
+<p align="center" nodeId="90deef92f44141f394d3593475a06030">质检</p>
+</td>
+<td colwidth="[275]" nodeId="0187b3f1718945e9879f05de976c929c">
+<p nodeId="960445bf401349e08f7c63892a05da8f"><span color="rgba(0, 0, 0, 0.84)">胡贝迪</span></p>
+</td>
+</tr>
+<tr nodeId="9068b4f5f5f145cda9dd68052140a4ce">
+<td colwidth="[114]" nodeId="a3f3767de85544479eeaab6b2b975a4b">
+<p align="center" nodeId="5f46e9f64c01484590c77f88a90ab2ec">巡检</p>
+</td>
+<td colwidth="[275]" nodeId="c95b4b820afa4e7d898294d4396e668d">
+<p nodeId="9a0966137a984385af4348539a6b7fa3"><span color="rgba(0, 0, 0, 0.84)">米珠旗</span></p>
+</td>
+</tr>
+</table>
+<h3 nodeId="73ef194263a3420795223f3add4ff84c">3、标准盘点</h3>
+<table responsive="false" nodeId="3ac53880b01742c28cc18da1466a3da7">
+<tr nodeId="9f45b1f2600149ff92b3c173bc7ae60f">
+<th colwidth="[50]" verticalAlign="middle" nodeId="dafcf9628dec4898833c557b8e7c6ddc">
+<p align="center" nodeId="421d6e57dc3a409fb352be003c6c1c5b" />
+</th>
+<th colwidth="[67]" verticalAlign="middle" nodeId="1fc1c63d171547ceaef841513791db85">
+<p align="center" nodeId="47fa4c037c69421f82a4924166151e98"><span font-size="19"><strong>标准类别</strong></span></p>
+</th>
+<th colwidth="[184]" verticalAlign="middle" nodeId="3d98f6b87a184701af76c84ad2d856c9">
+<p align="center" nodeId="36a1379556e64d7bb98b81258aac8bcc"><span font-size="19"><strong>标准名称</strong></span></p>
+</th>
+<th colwidth="[278]" verticalAlign="middle" nodeId="e53d6aaba1684174a43d60368e69e177">
+<p align="center" nodeId="db7ac5d9da59455c8a4f8e07f711108b"><span font-size="19"><strong>标准</strong></span></p>
+</th>
+<th colwidth="[75]" verticalAlign="middle" nodeId="4d4ca7b489674088a16efbe937631102">
+<p align="center" nodeId="bc8f2858040349659d7b588af5eae840"><span font-size="19"><strong>归属通道</strong></span></p>
+</th>
+<th colwidth="[245]" verticalAlign="middle" nodeId="2c280508533d4a6282a6279e96f82040">
+<p align="center" nodeId="b6ac5d129a1f412facebf5b2f1a930f5"><span font-size="19"><strong>任务流</strong></span></p>
+</th>
+<th colwidth="[272]" verticalAlign="middle" nodeId="bf331013610d41baadf5bdd7830f71bc">
+<p align="center" nodeId="553e37181cd343fbaf720166e5888335"><span font-size="19"><strong>TYPE</strong></span></p>
+</th>
+<th colwidth="[73]" verticalAlign="middle" nodeId="71df44ee2d5d44f785ab2476a703538f">
+<p align="center" nodeId="4e4cbf6bd1944171be00db36b823a6c3"><span font-size="19"><strong>是否在用</strong></span></p>
+</th>
+<th colwidth="[86]" verticalAlign="middle" nodeId="9a906e77b2c348b38bcca121e922ad12">
+<p align="center" nodeId="c779bf7b747a457c954fc441483643f1"><span font-size="19"><strong>负责人</strong></span></p>
+</th>
+<th colwidth="[117]" verticalAlign="middle" nodeId="e922588c3a9d4bb3ae577108c82ffd79">
+<p align="center" nodeId="135735e7ac704e82999eefa487214c84"><span font-size="19"><strong>梳理进度</strong></span></p>
+</th>
+<th colwidth="[129]" verticalAlign="middle" nodeId="071246a53763455d84396d33e57eedf1">
+<p align="center" nodeId="da715b692f7e4f38a135eb5261021ad6"><span font-size="19"><strong>标签体系</strong></span></p>
+</th>
+<th colwidth="[129]" verticalAlign="middle" nodeId="e6f178aba1f04255a99d7a6c27654ea4">
+<p align="center" nodeId="d15be6ea9b4c4327921c4249d2befefa"><span font-size="19"><strong>备注</strong></span></p>
+</th>
+</tr>
+<tr nodeId="b84768f5c7024eeb894ea01c51a51d67">
+<td colwidth="[50]" numCell="true" nodeId="32bf6d83d6e943c993c84185ca5091bd">
+<p nodeId="45b23905d4e7467c9da2bf2c63ecf12b" />
+</td>
+<td rowspan="13" colwidth="[67]" nodeId="d5797d049e0a43f89d52b0e357b37ba2">
+<p align="center" nodeId="b9404468f00f40d99c6d5e00530f3899">业态</p>
+</td>
+<td rowspan="3" colwidth="[184]" nodeId="5b43ae1daa6a4a26b4aff5f448c795f5">
+<p align="center" nodeId="de22fddf4176423c89809c1595222aa0"> POI审核标准</p>
+</td>
+<td colwidth="[278]" bgColor="rgb(250, 225, 235)" nodeId="d41f416b36e54da2ae085b50f2175ac9">
+<p align="center" nodeId="0a63ba68e9cc4a56be70f1c85dfe7bf4"><a href="https://km.sankuai.com/page/1200479693" title="涉政poi审核标准" autoUpdate="true" nodeId="e5e434b4244b468db472d468c111aa9d">涉政poi审核标准</a>（目前未用）</p>
+</td>
+<td rowspan="13" colwidth="[75]" nodeId="5c18e7eb4b4d4f27a6c1e0986ba0c322">
+<p align="center" nodeId="6eb7f9e2ea6d486bac4d85cc080694ac">B</p>
+</td>
+<td colwidth="[245]" nodeId="86682c96fa7d4d52b314521e3f95b545">
+<p align="center" nodeId="923cabf06f924f0694f2f47661ed9cd4">25分钟美团平台实时POI</p>
+</td>
+<td colwidth="[272]" nodeId="c10cef346a93404d82c37be09ccaf3bb">
+<p align="center" nodeId="22db119ee9274df492c0e7e7ec584715" />
+</td>
+<td colwidth="[73]" nodeId="1ac40520a1f448fb82f6ba08bf6477e0">
+<p align="center" nodeId="539096190d0e473b81bd5ceda14b4e1e">✔️</p>
+</td>
+<td colwidth="[86]" nodeId="cfc46c54f95145938fbbb705042c349e">
+<p nodeId="4d5c54f109cc4b3fb34e97d51ecb0226">解决方案</p>
+</td>
+<td colwidth="[117]" nodeId="2492fa23cbdb4262ad09a554a2953857">
+<p align="center" nodeId="02d12e035d344c5798739e4812e56941" />
+</td>
+<td rowspan="100" colwidth="[129]" nodeId="b9fd0fc43c024e2b9963784b9e2546f6">
+<p nodeId="80ec42f677d0409e95f59efcf8ad193b">按照<a href="https://km.sankuai.com/collabpage/1647960362?from=citadel_space_tree" title="https://km.sankuai.com/collabpage/1647960362?from=citadel_space_tree" autoUpdate="true" nodeId="41258ed65fd6424fa3621c509d7b9e03">https://km.sankuai.com/collabpage/1647960362?from=citadel_space_tree</a>对号入座即可</p>
+</td>
+<td rowspan="3" colwidth="[129]" nodeId="cbbc052651e442bc9d625688fc17182a">
+<p align="center" nodeId="84d2d77243004b5a83bf84b77fafad77">合并为一，没法搞定说下原因</p>
+</td>
+</tr>
+<tr nodeId="33dbdfb65fd9449d946d8dddf839098a">
+<td colwidth="[50]" numCell="true" nodeId="5bfd5e941fe0440ca6b8d157539d9feb">
+<p nodeId="b58d8fadfbf74052b943d5e5f5d38d45" />
+</td>
+<td colwidth="[278]" bgColor="rgb(250, 225, 235)" nodeId="e9b0ad2243e0483cb8458bbda1edeb2d">
+<p align="center" nodeId="825c9145f38747e69bd5a8f20d38ba80"><a href="https://km.sankuai.com/page/271177261" title="商户名（POI）、AOI区域审核标准" autoUpdate="true" nodeId="8681988772814995842c783ce1ee5b80">商户名（POI）、AOI区域审核标准</a></p>
+</td>
+<td colwidth="[245]" nodeId="8092d2df522844369266b1f307e369fd">
+<p align="center" nodeId="e9c65bcddbaf484faa52b984ab4741ac">25分钟美团平台实时POI</p>
+</td>
+<td colwidth="[272]" nodeId="88e1484f84c6441297b3179e600c2685">
+<p align="center" nodeId="87f7bc1230cb4662ac11b2cf791f330a">点评平台POI新增流程（用户）</p>
+</td>
+<td colwidth="[73]" nodeId="23dc044a18d14634affa03748a996899">
+<p align="center" nodeId="de06de5e9ab04d6a87be6405316d2f9b">✔️</p>
+</td>
+<td colwidth="[86]" nodeId="60a851e66ae142e691c3bac61dc476e0">
+<p nodeId="213bad18074d4e378c8899a19d6236d8">解决方案</p>
+</td>
+<td colwidth="[117]" nodeId="af2b88f241084925b2a44bc410c87bc5">
+<p align="center" nodeId="a41b27b311f7477c9f569bf7517b61d5" />
+</td>
+</tr>
+<tr nodeId="3296c561656a4203bd0e8918cf66cdea">
+<td colwidth="[50]" numCell="true" nodeId="a90609f0275f4d2fa58d868d45c7a5d9">
+<p nodeId="f1e3d449b2b0430f82e3b96afa31f6d5" />
+</td>
+<td colwidth="[278]" nodeId="f2793e824ea8410ebaa9f063a0cc7ec7">
+<p nodeId="68de6d277b9948989a9b5a9f3c7724ad"><a href="https://km.sankuai.com/page/1229067305" title="POI名称涉领导人敏感词处置流程" autoUpdate="true" nodeId="856520c63f8146b199b84aca9d7878bf">POI名称涉领导人敏感词处置流程</a></p>
+</td>
+<td colwidth="[245]" nodeId="adf178b1124d448480444fe4a0bb584f">
+<p nodeId="4c45d21f4d5a4479bcde01d071659e6b" />
+</td>
+<td colwidth="[272]" nodeId="7189bd1472d84e0f981c53895d8d5d2a">
+<p nodeId="d533cb4b1dda4244ac48baf27e24fbab" />
+</td>
+<td colwidth="[73]" nodeId="e8dc7a60cc1f4fd7a95b238f75eda97a">
+<p nodeId="ccdd2e4fc6dd4a199fc3ae9b0c6ef4f9" />
+</td>
+<td colwidth="[86]" nodeId="b5e318bb76db4516a3d2d33942cd472b">
+<p nodeId="a48446f4fc854d81a92c70e3c4656bce">解决方案</p>
+</td>
+<td colwidth="[117]" nodeId="c4a7611553634a41b51748bf00d0b34a">
+<p nodeId="03e98c278c5042f3a235baa4b514430e" />
+</td>
+</tr>
+<tr nodeId="ba3be6f7eb2e4b05b443050ccccd53bd">
+<td colwidth="[50]" numCell="true" nodeId="3c7c092ea66e473ea5e621de730848fc">
+<p nodeId="47b460661a8b4824ad22f81966deba4c" />
+</td>
+<td colwidth="[184]" nodeId="303812b7351c45ecaa89cfb215234602">
+<p align="center" nodeId="80cb05d52f3f4c6db7b28163ac70b8fe">商户名违禁词（烟、易燃易爆）</p>
+</td>
+<td colwidth="[278]" bgColor="rgb(232, 237, 255)" nodeId="fb903eade8e648f594e80a1303c2eb40">
+<p align="center" nodeId="681af14cc4c84a3784e0723b771d191b"><a href="https://km.sankuai.com/page/455537357" title="商户名" autoUpdate="true" nodeId="571426b3858f4d5783d38487a2c29875">商户名</a></p>
+</td>
+<td colwidth="[245]" nodeId="88707652cdf84872830f2ddaff674963">
+<p align="center" nodeId="fe8e13adae6145feaba11acc75642274">25分钟美团平台实时POI</p>
+</td>
+<td colwidth="[272]" nodeId="57c47f650b97427a8f1603311df53eee">
+<p align="center" nodeId="c43a7a4fd22c42018f3962f022f9e1a0"><span color="rgb(170, 170, 170)"><span font-size="16">点评平台POI新增流程</span></span></p>
+</td>
+<td colwidth="[73]" nodeId="17b09daa1bc048a89d495d5e20835723">
+<p align="center" nodeId="8be2befc517c4adc9723c263f5afa69a">✔️</p>
+</td>
+<td colwidth="[86]" nodeId="ee6d08864ed3430db084d48e824df959">
+<p nodeId="4e9e05cff52d428eb4e83ab46af0ef76">解决方案</p>
+</td>
+<td colwidth="[117]" nodeId="bd172ead0b5a430a9bc9b438d3a19a59">
+<p align="center" nodeId="cbb633c884d54c77b6576c3caa8a54a8" />
+</td>
+<td rowspan="3" colwidth="[129]" nodeId="7750d8e264e04807a56d861934910e23">
+<p align="center" nodeId="5ca69829b0c34d518ff4c06b3ddb07d4">合并为一，没法搞定说下原因</p>
+</td>
+</tr>
+<tr nodeId="19687bd1ee0b4671ba78e782535325c9">
+<td colwidth="[50]" numCell="true" nodeId="621910303af1438fbb3fc33543efd3bf">
+<p nodeId="be6cff6a879b4c7eb68a7180012bf597" />
+</td>
+<td colwidth="[184]" nodeId="e4f3d6d263ed4fecb4d88bb2ac7d2b89">
+<p align="center" nodeId="dc0a662d4e844c09beb3cf5d37fa91c6">娃娃&amp;成人体验商户名标准</p>
+</td>
+<td colwidth="[278]" bgColor="rgb(232, 237, 255)" nodeId="0814f1b1b89946339f21b8036c78913e">
+<p align="center" nodeId="344f85d8c22c44b290b22b882efc5200"><a href="https://km.sankuai.com/page/1213018209" title="商户名" autoUpdate="true" nodeId="9c491c0128f64e6a9feefab9d3b27423">商户名</a></p>
+</td>
+<td colwidth="[245]" nodeId="c18856720f364119b4486b8f876dc771">
+<p align="center" nodeId="c7d691c4d1cf4d6196be619008e3b2e1">25分钟美团平台实时POI</p>
+</td>
+<td colwidth="[272]" nodeId="96cf4e77c2f041c2b7a719612ce1414d">
+<p align="center" nodeId="981de801b72743cf93dce1d5f24653ba"><span color="rgb(170, 170, 170)"><span font-size="16">点评平台POI</span></span><span color="rgb(245, 35, 45)"><span font-size="16">新增</span></span><span color="rgb(170, 170, 170)"><span font-size="16">流程（用户）</span></span></p>
+</td>
+<td colwidth="[73]" nodeId="c7bffec152a14fecb190d58d62c88cf6">
+<p align="center" nodeId="499b8adb42584782a4868e3c5fffbd1a">✔️</p>
+</td>
+<td colwidth="[86]" nodeId="2d950f5b6c314aa5ac2093571c7583fa">
+<p nodeId="571a94921e124d7fa050a62be74571cd">解决方案</p>
+</td>
+<td colwidth="[117]" nodeId="bc8dec7ba0b84788b22e106d4708629c">
+<p align="center" nodeId="7b567a7d8d254bbc82765e6a141be666" />
+</td>
+</tr>
+<tr nodeId="31cd490d5d0c4a30ac66d94a109e2d8b">
+<td colwidth="[50]" numCell="true" nodeId="2166ace0e82649feae6e6c1a270cfbac">
+<p nodeId="348c50b42ae949479b21bf82c1720e1c" />
+</td>
+<td colwidth="[184]" nodeId="b5d711f01f1442fba3046b3c8c040aed">
+<p align="center" nodeId="5837ef10fceb48379c868fb9097d6dc8">躺式采耳，拟废除</p>
+</td>
+<td colwidth="[278]" bgColor="rgb(232, 237, 255)" nodeId="58482612e58e43dd96c897ca64abb05a">
+<p align="center" nodeId="21a236657cd54433bd6ef0a6cd3d5f19"><a href="https://km.sankuai.com/page/1319397021" title="商户名标准" autoUpdate="true" nodeId="2408914bcc7040ccaa5a23a593875cd4">商户名标准</a></p>
+</td>
+<td colwidth="[245]" nodeId="36d2f1661bba43b680152dc8e702ee1a">
+<p align="center" nodeId="1f7bb5dfefe64a23abd32110ab879de6">25分钟美团平台实时POI</p>
+</td>
+<td colwidth="[272]" nodeId="cac7b711e5dc4b4787153c226d2a0bf5">
+<p align="center" nodeId="c97a40b9245d4cfa8cd91fe46c2f863f"><span color="rgb(170, 170, 170)"><span font-size="16">点评平台POI</span></span><span color="rgb(245, 35, 45)"><span font-size="16">新增</span></span><span color="rgb(170, 170, 170)"><span font-size="16">流程（用户）</span></span></p>
+</td>
+<td colwidth="[73]" nodeId="a0e3241eef70468aac861fc2dd9fdc19">
+<p align="center" nodeId="6512438f7c70441998e8c8cc30f11a02">✔️</p>
+</td>
+<td colwidth="[86]" nodeId="3e15a138bb8d482ba6fb3ed675a9b476">
+<p nodeId="82bd0e92a8634d0faf0b669c281863ef">解决方案</p>
+</td>
+<td colwidth="[117]" nodeId="d84df3db699348a99a8e6389ce3201da">
+<p align="center" nodeId="29d478d83c9a42e09c996ab01e74943e" />
+</td>
+</tr>
+<tr nodeId="11a59de7c02d458ea698dcec4e4343a8">
+<td colwidth="[50]" numCell="true" nodeId="a8efcd0357914149a54a1d2529c2a3e1">
+<p nodeId="9d422670212640948f16c35ca6dc844d" />
+</td>
+<td colwidth="[184]" nodeId="eb82887b3daa441db5d4350bb9a80017">
+<p align="center" nodeId="f16745010181499a80cd1f852dca2a2e">用户昵称审核标准</p>
+</td>
+<td colwidth="[278]" bgColor="rgb(239, 225, 250)" nodeId="1548336adabd4f9aa4eef3bd30d6a8df">
+<p align="center" nodeId="ff249cb3f73a40dea8f05e8897da095b"><a href="https://km.sankuai.com/page/645660874" title="用户昵称标准" autoUpdate="true" nodeId="9a7d4e74a87f458396bf608fe746c7b7">用户昵称标准</a><span color="">、</span><a href="https://km.sankuai.com/page/447399954" title="用户昵称" autoUpdate="true" nodeId="a3584c64357e40db91f84e8c21b0f925">用户昵称</a></p>
+</td>
+<td colwidth="[245]" nodeId="035d506e524e479abc22164a4f3d6793">
+<p align="center" nodeId="06ff7a70ee994800abfa466d4149e5f1">文字_相似文<span color="rgb(255, 74, 71)">高危</span>涉政_昵称</p>
+</td>
+<td colwidth="[272]" nodeId="1f8de657ec4d4b37b112fc200bf71e8d">
+<p align="center" nodeId="3efb8aefb7bc4ddc8819b6df00cf275e">平台三方登录昵称增量</p>
+</td>
+<td colwidth="[73]" nodeId="39659dd2424545798008333989faa23c">
+<p align="center" nodeId="2ec54d152b3e47dcb4cf37249e0e65cd">✔️</p>
+</td>
+<td colwidth="[86]" nodeId="46be1cb1d507459ab968a49a7fa803ab">
+<p nodeId="2be6e63a1613428e96d6127c8d72a777">解决方案</p>
+</td>
+<td colwidth="[117]" nodeId="7d2b1005f286495ba9340e4fd2b750c0">
+<p align="center" nodeId="98656a48b42f41afa86852d791f461e9" />
+</td>
+<td rowspan="3" colwidth="[129]" nodeId="1604a2dabba24a6cb62d2b83d21d331f">
+<p align="center" nodeId="086e78dedf6e4ba29f3b8c14a8757708">合并为一，没法搞定说下原因</p>
+</td>
+</tr>
+<tr nodeId="f1b3f960491a45578a70157f91831668">
+<td colwidth="[50]" numCell="true" nodeId="3e7db5295ef2433295ea13504c113fae">
+<p nodeId="7c93e92b9faa4508a06c819f2cd70ff5" />
+</td>
+<td colwidth="[184]" nodeId="2a9bfff7377549049b9d17b2afdeea9a">
+<p align="center" nodeId="4757e2338d7a471aba84031469126cb2">昵称违禁词（烟、医美、违禁物品）</p>
+</td>
+<td colwidth="[278]" bgColor="rgb(239, 225, 250)" nodeId="8a4eba09b27e43ada4f98196ddf4c588">
+<p align="center" nodeId="b70c88132532417f8001543041cc4e9e"><a href="https://km.sankuai.com/page/270704960" title="昵称" autoUpdate="true" nodeId="15b5d0ea4c5d45d3be4d8b6a93786acb">昵称</a></p>
+</td>
+<td colwidth="[245]" nodeId="dc629f26b42945fd9235f758372dc6a5">
+<p align="center" nodeId="9acde96dccf64b0e958d714c44f411dd">文字_相似文普通涉政_昵称</p>
+</td>
+<td colwidth="[272]" nodeId="59e07ce957984d0ca2bbc89fceec23d7">
+<p align="center" nodeId="9638d3e81822428686056509a7ced2cb">点评账号昵称修改</p>
+</td>
+<td colwidth="[73]" nodeId="33a9c34129764f20ae6c3e53c7d1c0fd">
+<p align="center" nodeId="0e12a815b91740d9b8bf48c3eeee47cb">✔️</p>
+</td>
+<td colwidth="[86]" nodeId="8c48df15f2214de2ae07e762f9bc4fb9">
+<p nodeId="173a8a8cd7ca489498835421053b9829">解决方案</p>
+</td>
+<td colwidth="[117]" nodeId="a7a13025afba46979c5ff94ed4676c19">
+<p align="center" nodeId="e3e69aa2de7e473eb298f22adab6fd8f" />
+</td>
+</tr>
+<tr nodeId="a81df9ceb1744a5aa9c1937b0b7c10b8">
+<td colwidth="[50]" numCell="true" nodeId="37df0640926d453fbd7b56e72cb1fdef">
+<p nodeId="2d6e3094354a474f8b0cba4e659fba71" />
+</td>
+<td colwidth="[184]" nodeId="e44fc01fdcfc40d5bdb883fe705bca2e">
+<p align="center" nodeId="b316764887bf48729de14f81a46cf628">新闻相关昵称标准</p>
+</td>
+<td colwidth="[278]" bgColor="rgb(239, 225, 250)" nodeId="5bbd209ba4654c1a85a5b532a3648aa2">
+<p align="center" nodeId="059e9ba3b4cb46c98041bd50e3735a59"><a href="https://km.sankuai.com/page/270693398" title="昵称" autoUpdate="true" nodeId="e7241c0c9e264a219188b462ceef9dcc">昵称</a></p>
+</td>
+<td colwidth="[245]" nodeId="3b70996956094d089e77494dff60b7bf">
+<p align="center" nodeId="c78a75e7a04440ad8157c6c3bfdaa9ac">文字_相似文普通涉政_昵称</p>
+</td>
+<td colwidth="[272]" nodeId="1c8b7961ce2d438ea8342a1274f9ebe7">
+<p align="center" nodeId="ead12f42e84e450ebc44962b6c1eda66"><span color="rgb(0, 0, 0)"><span font-size="16">点评账号昵称修改</span></span></p>
+</td>
+<td colwidth="[73]" nodeId="5b3c99908f994acdb469a2335eef3aa1">
+<p align="center" nodeId="09c32ea1ffc849b2bc2593ba2409ed1d">✔️</p>
+</td>
+<td colwidth="[86]" nodeId="1dd8951fed5a4831abc9ced347f161c7">
+<p nodeId="45d7465101ea4695bafabb05715466a1">上述合并入通用</p>
+</td>
+<td colwidth="[117]" nodeId="b2c61beef4484538a1816647d40a1b96">
+<p align="center" nodeId="b5603dec71764bc592a53f545d945c72" />
+</td>
+</tr>
+<tr nodeId="df711cfa0bc24c0f813003aff15ed126">
+<td colwidth="[50]" numCell="true" nodeId="8c9c041255f54d3f838af94729b134ec">
+<p nodeId="d4856b90c7c34027b4014088fdb9f805" />
+</td>
+<td colwidth="[184]" nodeId="db88897c199f44b79c330b1f5b493910">
+<p align="center" nodeId="873ebbecd6eb4af2995ed54a880d9fb9">点评推荐审核标准</p>
+</td>
+<td colwidth="[278]" bgColor="#E6FAF8" nodeId="12f9f57f5068498fa28e0dbbbd586bbf">
+<p align="center" nodeId="eff4587d1f7341fc8a126b828480f9b3"><a href="https://km.sankuai.com/page/1200525087" title="点评feed审核标准" autoUpdate="true" nodeId="e1d9203a5d0141ae8116092c28206c93">点评feed审核标准</a></p>
+<p align="center" nodeId="916f87378d264ea2b6a385712d000037"><a href="https://km.sankuai.com/collabpage/1463834278" title="点评首页信息流标准变更台账" autoUpdate="true" nodeId="39b5ab27550b4ac69d86c6859f18ec0b">点评首页信息流标准变更台账</a></p>
+</td>
+<td colwidth="[245]" nodeId="a8a8ac739a7844a6a99e05e55a6e7983">
+<p align="center" nodeId="f92c8329563e4c61ad549f10d0718049">点评feed流-笔记</p>
+</td>
+<td colwidth="[272]" nodeId="136468b444a04404915b4128cee347d1">
+<p align="center" nodeId="aa589caf652e44cb8f0f9fabe3fd6d80">中台内容送审（笔记）-文字</p>
+</td>
+<td colwidth="[73]" nodeId="12c239641a904299b060c694a0678691">
+<p align="center" nodeId="4646621a19a34cd0b47dd65a0f7d142f">✔️</p>
+</td>
+<td colwidth="[86]" nodeId="1114f1770e254f7cace54f05e43b89a3">
+<p nodeId="75830ea80dc24b1e82d6ca43eedd6279">人审</p>
+</td>
+<td colwidth="[117]" nodeId="2f0ac0423ded44bc947a026b43e5cb58">
+<p align="center" nodeId="57e75c74899648159b04c2ff3cb122ec" />
+</td>
+<td rowspan="4" colwidth="[129]" nodeId="5ba08f04e7e94821ba28691e2c4cdf98">
+<p align="center" nodeId="395e4371dc834d82b1f34f492afc03a1">这四个看样子是推荐的审核标准，干脆建立1个<span color="#00BA73">平台推荐标准</span>，直接往里面放4个。</p>
+</td>
+</tr>
+<tr nodeId="e0f4e2efa31f4f34aa856b3a66376afc">
+<td colwidth="[50]" numCell="true" nodeId="74e23f5947ab457ca24d6dc32c52ed03">
+<p nodeId="c5b7d69d25bf4086b4da19ba664e6391" />
+</td>
+<td colwidth="[184]" nodeId="0efe6033ffad40b59281e7593d8d5c62">
+<p align="center" nodeId="4006eed8172841ea9ee3f6bae91098c0">美团推荐审核标准（含猜喜标准）</p>
+</td>
+<td colwidth="[278]" bgColor="#E6FAF8" nodeId="ee180a05978544fe8651de86be53952b">
+<p align="center" nodeId="8aa4691edeee4ebf8b174451f8961d60"><a href="https://km.sankuai.com/page/1218300139" title="美团推荐审核标准" autoUpdate="true" nodeId="b47d23a266f14a09b54c3fa07ae4c204">美团推荐审核标准</a></p>
+</td>
+<td colwidth="[245]" nodeId="55e33fae637945afb342f17448d8162b">
+<p align="center" nodeId="b0c0c48c63214941a9ccd073b1407b03">用户画像_老司机爱看的猜喜休娱内容</p>
+</td>
+<td colwidth="[272]" nodeId="f0b332cd05284c989c3571373c289d7a">
+<p align="center" nodeId="6c471244192441aa8b054d4f73918048">猜喜内容卡送审-文字增量</p>
+</td>
+<td colwidth="[73]" nodeId="f14fdf3c93fa43909fdd5c30ec41104b">
+<p align="center" nodeId="e6c134b6a2b3468eb6f256a8f4a0d5ae">✔️</p>
+</td>
+<td colwidth="[86]" nodeId="8e1ff6232b964e729dc7cb3bd722411d">
+<p nodeId="3e55b1b4e5b7478481c74fc85755e38f">人审</p>
+</td>
+<td colwidth="[117]" nodeId="27b2dbed124444c1a3f8a853add54c11">
+<p align="center" nodeId="0e2489a03a074e24b33fb48afe0ff99b" />
+</td>
+</tr>
+<tr nodeId="925d895993a1456ca4f074309b2fa594">
+<td colwidth="[50]" numCell="true" nodeId="4b44899b50a241a2b82c2bad5e8acd21">
+<p nodeId="4e17ff99e6f44a938793b8567aef2692" />
+</td>
+<td colwidth="[184]" nodeId="38c581c380924474ae543063917a8dac">
+<p align="center" nodeId="c6912af307054e7a8d27c4aaabe0c530">内容推荐审核标准</p>
+</td>
+<td colwidth="[278]" bgColor="#E6FAF8" nodeId="5d18f78325ff4308a5b09ceb4e30c0e0">
+<p align="center" nodeId="cdb91e3b90054755957a8510857aa96c"><a href="https://km.sankuai.com/page/1200594341" title="内容推荐审核标准" autoUpdate="true" nodeId="91ad12e6b12741ab858bf2db07984191">内容推荐审核标准</a></p>
+</td>
+<td colwidth="[245]" nodeId="ae90ccd403cd4c63b7d5bee822aaedfd">
+<p align="center" nodeId="eff24071bf4141efbf8600eb3d68154e">门票&amp;酒店推荐语</p>
+</td>
+<td colwidth="[272]" nodeId="69e7b70ff5814bcd8693a1d7c9df0f64">
+<p align="center" nodeId="798478136ab0403c935ce5020b37ac26">酒店推荐理由-文字</p>
+</td>
+<td colwidth="[73]" nodeId="542190f376ba4a899ba95ca8fa1787c0">
+<p align="center" nodeId="f9b970789a3846df8c3e7ca91cd3d2f6">✔️</p>
+</td>
+<td colwidth="[86]" nodeId="b02740f694fa4749b2b04ee32d41ab52">
+<p nodeId="12ceca11c0714b73af9a265f002ab1e4">人审</p>
+</td>
+<td colwidth="[117]" nodeId="b4c04b872061427f8b757e96fd3950c9">
+<p align="center" nodeId="412935ad81e840a8b2b53514904446ec" />
+</td>
+</tr>
+<tr nodeId="6b93eddf26dc4c30aff5582a21235621">
+<td colwidth="[50]" numCell="true" nodeId="400a1a8775a94da5afb3138d89621170">
+<p nodeId="647c752a3e234392a5134e830409a829" />
+</td>
+<td colwidth="[184]" nodeId="3a9ede8567e54d54835542853f86ee20">
+<p align="center" nodeId="9e1b8651b81a418aa52d7d10c33b946e">push内容审核标准</p>
+</td>
+<td colwidth="[278]" bgColor="#E6FAF8" nodeId="ba4215155cee41a8a52cc15913c633b6">
+<p align="center" nodeId="8ddb39c096bc43068cbbf9d73bf2fab5"><a href="https://km.sankuai.com/page/1326060470" title="push审核标准" autoUpdate="true" nodeId="1c7f084f4d4d4c3387d26921a9428788">push审核标准</a></p>
+</td>
+<td colwidth="[245]" nodeId="5b17fc15709040ef93442ee2b3d85b21">
+<p align="center" nodeId="d0929f974f2f436f90621cfbaa9b77db">24小时美团平台推荐Push</p>
+</td>
+<td colwidth="[272]" nodeId="17d76a277a7a4968bae734fad2686442">
+<p align="center" nodeId="89af648944bc4faa947fcc229d5f7c51">美团平台-美团push系统</p>
+</td>
+<td colwidth="[73]" nodeId="1059f98104ab4a208c5740678a1061f3">
+<p align="center" nodeId="984f833ed60a43908bc53621f3de25b5">✔️</p>
+</td>
+<td colwidth="[86]" nodeId="61a14d3cd3c34d7ba2f48d8872669034">
+<p nodeId="5c4fee55e1754c6eb18655fc70b23f41">人审</p>
+</td>
+<td colwidth="[117]" nodeId="0973fa0e396e4c238cb1243baa4172fa">
+<p align="center" nodeId="304b25ef337e4d79ac0fd6b36393c7a8" />
+</td>
+</tr>
+<tr nodeId="59d1b480c27746bebf9fc9166d0a1511">
+<td colwidth="[50]" numCell="true" nodeId="6a288daf14454cecad6f69ddc7bb9a3b">
+<p nodeId="d04ce81e0cc14ca3897adc09df2b5d00" />
+</td>
+<td rowspan="15" colwidth="[67]" nodeId="03873fb7411a4eb0bc470913522fec0b">
+<p align="center" nodeId="258e8a3218d44981bc7f3fc7b627f1f2">业务</p>
+</td>
+<td colwidth="[184]" nodeId="f0a496b02fdc4a5aa826894a456b1624">
+<p align="center" nodeId="ae0df184397c471a87b36ff97873400b">到综高危类目标准</p>
+</td>
+<td colwidth="[278]" bgColor="rgb(230, 250, 248)" nodeId="0be10aa8feaa4a0297a2d1b240459a27">
+<p align="center" nodeId="297e037af8b041eeaa5efd14484cc231"><a href="https://km.sankuai.com/collabpage/1646837733" title="到综类目定制化标准-业务版" autoUpdate="true" nodeId="e76287a10ff84e9288c86b3ba02f1ea7">到综类目定制化标准-业务版</a></p>
+<p align="center" nodeId="af49db86382949de8e92dcee30bad7e1">改用梳理好版本，无需继续</p>
+<p align="center" nodeId="8f2ed1f079c046828b4b26635983873d"><a href="https://km.sankuai.com/collabpage/1680237627" title="https://km.sankuai.com/collabpage/1680237627" autoUpdate="true" nodeId="4debbfeaa07843cabe972c5bee19f994">https://km.sankuai.com/collabpage/1680237627</a></p>
+</td>
+<td rowspan="14" colwidth="[75]" nodeId="d8afb9aa36f44c10bef590fee55a51f6">
+<p align="center" nodeId="f9fb2fe9dfe74f1ab488737915a91a0b">B</p>
+</td>
+<td colwidth="[245]" nodeId="dea364c6221b49c0a64b1fa96d629fed">
+<p align="center" nodeId="8ef6bc1357b54e6ea41677618512b70c">25分钟到店技师信息</p>
+</td>
+<td colwidth="[272]" nodeId="8e3176eac80a4b3eaa236d6558b20bce">
+<p align="center" nodeId="5d6141d07b0a497e870c95910163b43d">休娱足疗技师信息审核-图片</p>
+</td>
+<td colwidth="[73]" nodeId="12250689f7ef4457b1907008e23a9e75">
+<p align="center" nodeId="32573b37a12f4e75a5697299704d0d2c">✔️</p>
+</td>
+<td colwidth="[86]" nodeId="29eb3cd22688440db92dcf38320c7b6a">
+<p nodeId="7b5fcb92f9174855a3cda051d0e570ff">无需投入</p>
+</td>
+<td colwidth="[117]" nodeId="01e256af5bf848489e1e34b7d6244e12">
+<p align="center" nodeId="a61559e71d014c1e8e90e0aaf841cdd3" />
+</td>
+<td rowspan="14" colwidth="[129]" nodeId="943ab141adcd4edcb0d3dd7716eb8a88">
+<p align="center" nodeId="c8baf0e80ee240c29c817734e84f47f4">直接弄个到综业务审核标准，分为：</p>
+<ol nodeId="d9ddeced1ed347b893a1c2f101e0765a">
+<li nodeId="85c74e16fe77470fb74aa437a7433ff7">到综高危审核标准</li>
+<li nodeId="e4805f6657e3405fa125eb896097a642">到综特殊业务审核标准</li>
+</ol>
+</td>
+</tr>
+<tr nodeId="35234d5a8382418792fd8f861de801f3">
+<td colwidth="[50]" numCell="true" nodeId="4d24fb74c05341d4a0d2b5aee0c5aac4">
+<p nodeId="f92d4759db764faebe5423871c0a94ad" />
+</td>
+<td colwidth="[184]" nodeId="33f4d153b1e344f6a162a585cb1c11c3">
+<p align="center" nodeId="e493615ee72847b3909a920160d00d56">高危品类性感图片标准</p>
+</td>
+<td colwidth="[278]" bgColor="rgb(230, 250, 248)" nodeId="d64ead53f4134ed29725333698090320">
+<p align="center" nodeId="61b9739bd40d40ae8562414a9133ca62"><a href="https://km.sankuai.com/page/270298402" title="高危品类（性感）" autoUpdate="true" nodeId="0aaba642c28741ac9a72f21842e54ba0">高危品类（性感）</a>合并</p>
+</td>
+<td rowspan="13" colwidth="[245]" nodeId="6403ec03e0eb48b999f6a8ab8ebf4a6d">
+<p align="center" nodeId="41362fc27cab4f528a1341ef8e03a4bc">休娱高危品类</p>
+</td>
+<td rowspan="13" colwidth="[272]" nodeId="9f250e5f1d054d7aadc805a8f8529c6c">
+<p align="center" nodeId="bb2a9016cce542bb9f0c61ff0e538698">新对接-点评评论-图片接入</p>
+</td>
+<td colwidth="[73]" nodeId="e832a7b36f744b1e8384efe0c20c5f94">
+<p align="center" nodeId="4339fc900e034382bcb5a8353f8c695c">✔️</p>
+</td>
+<td colwidth="[86]" nodeId="e8ed3cd83991479f91611e5fd04e7041">
+<p nodeId="d2832506413c450391fce55f7d6f54f9" />
+</td>
+<td colwidth="[117]" nodeId="0e6dfb7e84934dd28f5ba6454ea0aaba">
+<p align="center" nodeId="e032590329ba4d8cb8b791ad3e17e52e" />
+</td>
+</tr>
+<tr nodeId="4590a6d9cf68404aada4b8de35c75973">
+<td colwidth="[50]" numCell="true" nodeId="212ce38a63f045fa951b9a88a07f73d5">
+<p nodeId="5c4a48b095e74420b12706a8a875fab0" />
+</td>
+<td colwidth="[184]" nodeId="c52a2d08d9dc4679880b4a5767e97795">
+<p align="center" nodeId="c5f0514748844114a7202d9cc14985de">高危品类榜单业务</p>
+</td>
+<td colwidth="[278]" bgColor="rgb(230, 250, 248)" nodeId="0e9edf1540b94d86a12262526f8e83d8">
+<p align="center" nodeId="39f8a4a7dd034346874c08fc6ab3c37a"><a href="https://km.sankuai.com/page/1309870243" title="榜单业务" autoUpdate="true" nodeId="24eee01f006e42a3994934936964e5bf">榜单业务</a>合并</p>
+</td>
+<td colwidth="[73]" nodeId="b421884b909d4228b38d91da6d6ec325">
+<p align="center" nodeId="c4d5f664fc6f48078d370e25793f2461">✔️</p>
+</td>
+<td colwidth="[86]" nodeId="9a0ecfdbe2d940b9bee5b3f6c54a8105">
+<p nodeId="d3c3c6be96834dc99aabd11782400030" />
+</td>
+<td colwidth="[117]" nodeId="d8e53bff8af1480a9fe26a1b9ed9cec4">
+<p align="center" nodeId="098e898f2c9d4a769a642d8740cbe858" />
+</td>
+</tr>
+<tr nodeId="dac410d784ff40018eeddb6f306b15f3">
+<td colwidth="[50]" numCell="true" nodeId="11fe9535aceb410c97ca65e97b0a1dc3">
+<p nodeId="75208742169b4fe3a142a6e4765912e8" />
+</td>
+<td colwidth="[184]" nodeId="16e0526c9fe142039b0eff7a64bbb675">
+<p align="center" nodeId="eab5348c294d49bab3ae79a255eac0c8">酒吧、KTV、娱乐会所图片标准类目标准</p>
+</td>
+<td colwidth="[278]" bgColor="rgb(230, 250, 248)" nodeId="ab0acfd82b0c44f69861ce755c084c48">
+<p align="center" nodeId="8e2e17ffc3d44c3c8ebf54e25e05f376"><a href="https://km.sankuai.com/page/270269900" title="酒吧、KTV、娱乐会所" autoUpdate="true" nodeId="fd741e8431fe40bb89455c82fd3c8d99">酒吧、KTV、娱乐会所</a>合并</p>
+</td>
+<td colwidth="[73]" nodeId="cceb823e2738468f8ca91ce8d5bbe007">
+<p align="center" nodeId="ee2ea6fd7efd4a9fb3aac902708458f4">✔️</p>
+</td>
+<td colwidth="[86]" nodeId="e7f461e22abb417cb27372f666cfb054">
+<p nodeId="64c1add28996408d8ac9c0f838cc2fa7" />
+</td>
+<td colwidth="[117]" nodeId="070cf6f610d9485da5dc6cbb84dafd02">
+<p align="center" nodeId="2aff9eca6ce045688053436ae24f82b2" />
+</td>
+</tr>
+<tr nodeId="a65ccab20f8e46c3bbe2a985bc80e831">
+<td colwidth="[50]" numCell="true" nodeId="eeb7b209e1a445cf919ac9ebbb4027d7">
+<p nodeId="cc9c43a8c4f84caeb63908122cf0c01c" />
+</td>
+<td colwidth="[184]" nodeId="3db4a4f6300548a7aaefab738434e7f1">
+<p align="center" nodeId="9896dd3b890143d1970ee7e20d578c52">高危品类主仆关系不良导向</p>
+</td>
+<td colwidth="[278]" bgColor="rgb(230, 250, 248)" nodeId="12cc889f187549ac936d6225c2d4e5d2">
+<p align="center" nodeId="a0ebe5903e0e41c6a34ad30bc78263dc"><a href="https://km.sankuai.com/page/1276647024" title="高危品类" autoUpdate="true" nodeId="3c5e0c89d2c24cbeb0cbbe66f3860981">高危品类</a>合并</p>
+</td>
+<td colwidth="[73]" nodeId="c90d3b89bb8c4f1daa1ebd28c65fcded">
+<p align="center" nodeId="8379ca4df83046c2857b1e170f2c4493">✔️</p>
+</td>
+<td colwidth="[86]" nodeId="0e149a2988884635873e160acc0ddfee">
+<p nodeId="f24dc0eab6da4567b4e99f81f6224b03" />
+</td>
+<td colwidth="[117]" nodeId="7f665172b65e473599ff43d571ee074e">
+<p align="center" nodeId="5e1a465ff42c4ffe82b513729e6bcf41" />
+</td>
+</tr>
+<tr nodeId="e3bc4995f84d4377bd0906e81dfe8aae">
+<td colwidth="[50]" numCell="true" nodeId="3c62453f8e184e819b07d0dba7c8bc41">
+<p nodeId="01d62c5193b946fcb3a9d0f81db25a5f" />
+</td>
+<td colwidth="[184]" nodeId="7a4739297edd45ad9db7155b04768bfa">
+<p align="center" nodeId="d32813459c9b468184e472887959649c">高危品类软色情文字标准</p>
+</td>
+<td colwidth="[278]" bgColor="rgb(230, 250, 248)" nodeId="48c8a733a83d4293a595bca5380f8de3">
+<p align="center" nodeId="29185076f4744f71bef7ac648cf21de6"><a href="https://km.sankuai.com/page/532736842" title="高危品类" autoUpdate="true" nodeId="d7a6b327636447f7b0a88cd1dc71d348">高危品类</a>合并</p>
+</td>
+<td colwidth="[73]" nodeId="08db5be7a5984efa817f3badb2a76d9d">
+<p align="center" nodeId="d06aef2f21cc4801a18097534b9eebcc">✔️</p>
+</td>
+<td colwidth="[86]" nodeId="fa67b761073949c996aea1dfec9794fb">
+<p nodeId="76b8064a016449c3a1ccae7fb7e68040" />
+</td>
+<td colwidth="[117]" nodeId="9fcf0c3085d54519ac6c06568b69d6d7">
+<p align="center" nodeId="44cfc49c30114e59893eaf304281b2f2" />
+</td>
+</tr>
+<tr nodeId="28f1673b6efa4b0b8ef93789347e195a">
+<td colwidth="[50]" numCell="true" nodeId="b9604878b7af494aac09b266449f96e2">
+<p nodeId="84100c5b36394e50972c5551f3e4cc5d" />
+</td>
+<td colwidth="[184]" nodeId="61ea3d78b2ba41baaf9cea53cf4fbe81">
+<p align="center" nodeId="84893095a9b8451c811bc4597ad856bc">高危品类美团点评评论性暗示</p>
+</td>
+<td colwidth="[278]" bgColor="rgb(230, 250, 248)" nodeId="ed71d1d7cc3d43e88f42112aadab5992">
+<p align="center" nodeId="9d39b7b0d88a446c926c031851c178b6"><a href="https://km.sankuai.com/page/532909577" title="点评+到店的评论业务" autoUpdate="true" nodeId="05995da3d8954fb5bf1f367b18ba946b">点评+到店的评论业务</a>合并</p>
+</td>
+<td colwidth="[73]" nodeId="82f127d53cb64f76a28283c746c57d83">
+<p align="center" nodeId="01ebd9b463ef42979c06621d09ea9f6d">✔️</p>
+</td>
+<td colwidth="[86]" nodeId="145195261cb84876b2129431f0fd242c">
+<p nodeId="c6cada9dd90143b19302eeefbeb26267" />
+</td>
+<td colwidth="[117]" nodeId="39a40e05d1a9445381b6e9f109d88068">
+<p align="center" nodeId="be973ef6865f4e87a2d7a5fb114cff37" />
+</td>
+</tr>
+<tr nodeId="ecf1d2eb85cd4deb84b1eaeadd210e76">
+<td colwidth="[50]" numCell="true" nodeId="0f1e52d4cbe44f209f0b598a37c807cc">
+<p nodeId="bbe230ce21a643139e58dc1a8f0002bf" />
+</td>
+<td colwidth="[184]" nodeId="6e22c5889dce4a7380fa0ce5f8008b3b">
+<p align="center" nodeId="a901b5e4486146feb3e95b553cce496a">高危品类商户名性暗示</p>
+</td>
+<td colwidth="[278]" bgColor="rgb(230, 250, 248)" nodeId="70fbcdbe8f304f2987c3efb17170af3b">
+<p align="center" nodeId="88eea7bec5a5480f8d1a09e77eac4145"><a href="https://km.sankuai.com/page/548712443" title="商户名" autoUpdate="true" nodeId="53c451f24fd4446f941e1e637957c00d">商户名</a>合并</p>
+</td>
+<td colwidth="[73]" nodeId="d466770364d041588039ffd117771178">
+<p align="center" nodeId="b66f05e03fc84fe3bcb6e4cbfa11495b">✔️</p>
+</td>
+<td colwidth="[86]" nodeId="0bc59200cfcf4e6e91d0da8b30606941">
+<p nodeId="9149636c6ea94b8b978b6352b293157b" />
+</td>
+<td colwidth="[117]" nodeId="a9b167c5f97f4b5d89f7c4b8a5aad5a9">
+<p align="center" nodeId="9c04f61a17404e0f9e60f069143b7bd8" />
+</td>
+</tr>
+<tr nodeId="66e141b8bbfb4604817a6ce34ee4e4ac">
+<td colwidth="[50]" numCell="true" nodeId="51bf7682ad31419a8c483d710c17900c">
+<p nodeId="3780f4bb762e415f865670617e6c841d" />
+</td>
+<td colwidth="[184]" nodeId="d3ce03e182954ce592c98adf3bb04898">
+<p align="center" nodeId="5c05343d12bf4b16abeddea168abb3e5">高危品类团单性暗示</p>
+</td>
+<td colwidth="[278]" bgColor="rgb(230, 250, 248)" nodeId="c58ab4799b9d4eb7a4e6d38e62cd015d">
+<p align="center" nodeId="f910ef297e60425d8d632a0988e2a093"><a href="https://km.sankuai.com/page/532830127" title="团单" autoUpdate="true" nodeId="27f06721e88c463e93d2f06f4af27ceb">团单</a>合并</p>
+</td>
+<td colwidth="[73]" nodeId="e2b3264e3ae8438797f5b56e9edf6eba">
+<p align="center" nodeId="73a979a73b2c4efb9acb54c6f54e8399">✔️</p>
+</td>
+<td colwidth="[86]" nodeId="2a2bfa1ae7bb4c5b8a317f7715a175be">
+<p nodeId="0f31a74a65584b3f8857ea3f87a6422b" />
+</td>
+<td colwidth="[117]" nodeId="5b5f442fdd5543219c42b6f0436d4ab9">
+<p align="center" nodeId="1e292359e30e46cab917822df1840c07" />
+</td>
+</tr>
+<tr nodeId="dbaffb0fde194cdf971191566731e70d">
+<td colwidth="[50]" numCell="true" nodeId="f28993bf0d254dd0a229c4957438c0b3">
+<p nodeId="cb2b734533644237aab787d8633b28b4" />
+</td>
+<td colwidth="[184]" nodeId="3fd35d6463c04b0db6155771d0617128">
+<p align="center" nodeId="477d0742c8a241dc809771d70ca0ff1c">高危品类色情性感用户回应标准</p>
+</td>
+<td colwidth="[278]" bgColor="rgb(230, 250, 248)" nodeId="37d5e38415814ec48e7954183e307629">
+<p align="center" nodeId="6d90caf12138442ba13cd65e0f604dd8"><a href="https://km.sankuai.com/page/532907411" title="高危品类-用户回应" autoUpdate="true" nodeId="493323adf64d41abaf89a51aefe67d0c">高危品类-用户回应</a>合并</p>
+</td>
+<td colwidth="[73]" nodeId="04784ee3cd7d48e8a8dbb7d24eae24cc">
+<p align="center" nodeId="6f7bc2f0e68e401680b2b85b425eec71">✔️</p>
+</td>
+<td colwidth="[86]" nodeId="6924e4bc280944a29ae5b3893c7c9118">
+<p nodeId="7c855a6632b8417ab728e37742a8ff96" />
+</td>
+<td colwidth="[117]" nodeId="1be4b703343247a2906243ce65e335d4">
+<p align="center" nodeId="5092f4efd6bb471b991a804e2ceb4241" />
+</td>
+</tr>
+<tr nodeId="d509afc4418041269748ea128bea83ee">
+<td colwidth="[50]" numCell="true" nodeId="fea57b19ce13414b98c16ce473d05420">
+<p nodeId="b0a32c88511e4c828e7d3ff39eff7388" />
+</td>
+<td colwidth="[184]" nodeId="9ce6b8763de74628ab9a617458f6814b">
+<p align="center" nodeId="0a2c036488914cd5ba0d8d82e028f45e">高危品类联系方式</p>
+</td>
+<td colwidth="[278]" bgColor="rgb(230, 250, 248)" nodeId="204d59b54d22413297c8f4b81fea4415">
+<p align="center" nodeId="8a2e852fcfb84dc6ba8ad7cba372b55a"><a href="https://km.sankuai.com/page/270747201" title="高危品类" autoUpdate="true" nodeId="c10927dbf8364930b9811066349a7af6">高危品类</a>合并</p>
+</td>
+<td colwidth="[73]" nodeId="b85ed571d9494388a79c64ff1aaf61f9">
+<p align="center" nodeId="0f4745b0db2f41ca998246e8cf214581">✔️</p>
+</td>
+<td colwidth="[86]" nodeId="2e5de84403cf4f9e8da44d7fc0ba0d7a">
+<p nodeId="a6eef08b6e1e44ec9072a3a8e1725770" />
+</td>
+<td colwidth="[117]" nodeId="1b7acce851264a05b8f03c03650298fd">
+<p align="center" nodeId="c653b2d3e4ce4cb2aa1b8773af081d0e" />
+</td>
+</tr>
+<tr nodeId="14ca34f491534f7593d4d7bc757dc2df">
+<td colwidth="[50]" numCell="true" nodeId="12f2de6c75c04b0b8e2b16663d917c72">
+<p nodeId="12bf1dd1417a4070878df0979dfa4f19" />
+</td>
+<td rowspan="3" colwidth="[184]" nodeId="f1ac57aca0554ad4b63980fd77261b0b">
+<p align="center" nodeId="521072dbbd744411aeead572c18c7c07">到综女仆治理标准</p>
+</td>
+<td colwidth="[278]" bgColor="rgb(237, 250, 244)" nodeId="cef65203917440909026855007de3570">
+<p align="center" nodeId="1638c90f330b4cb9ae19a4fa5d82b648"><span color="rgb(230, 250, 248)"><a href="https://km.sankuai.com/page/1284047684" title="女仆治理标准-文字" autoUpdate="true" nodeId="1dc8235def19450e8e7aa41a56911525">女仆治理标准-文字</a></span></p>
+</td>
+<td colwidth="[73]" nodeId="2f1a418bde5e478199c6169f1bf64fe1">
+<p align="center" nodeId="b2a9f42108634b2684c30eb9ee0f79d1">✔️</p>
+</td>
+<td colwidth="[86]" nodeId="12306255e9224285821d84226d48c4ad">
+<p nodeId="e1201ce1cbcb4a049f142b95b4086ab8" />
+</td>
+<td colwidth="[117]" nodeId="9a2e7b5ab58245269145d2ead5c372f7">
+<p align="center" nodeId="6653c282affe4ecfba9d5d4b4266ffa6" />
+</td>
+</tr>
+<tr nodeId="c0d0ca67454c40e2ae0fff95440cedde">
+<td colwidth="[50]" numCell="true" nodeId="273957ee082a4903a5cf6f9597f69a0e">
+<p nodeId="745255af1bf249f5bcf894fe8a4db203" />
+</td>
+<td colwidth="[278]" bgColor="rgb(237, 250, 244)" nodeId="2b3084d44e1f4baf941abe54fc8ad4a9">
+<p align="center" nodeId="a2bd7fe9acd640cd91fbb667c52026c4"><span color="rgb(230, 250, 248)"><a href="https://km.sankuai.com/page/1309933588" title="高危品类榜单业务" autoUpdate="true" nodeId="2eb7873e72f6497db5fd5fcb7897762d">高危品类榜单业务</a></span></p>
+</td>
+<td colwidth="[73]" nodeId="d1c07ce463a0491eaf0d3cc9c1c9f921">
+<p align="center" nodeId="e69b969487024f4186a80e3693d184ae">✔️</p>
+</td>
+<td colwidth="[86]" nodeId="ecb59e31fa4540d3b900b09f177ce4c0">
+<p nodeId="d38f73216e9b47c9940f6b483ee9e695" />
+</td>
+<td colwidth="[117]" nodeId="33b1d446e7c94d8f8594517c62e2f32f">
+<p align="center" nodeId="d77feeab184f4e8fb23cca8e944826fb" />
+</td>
+</tr>
+<tr nodeId="5808d0f8f9764ff3afa9400164a05c09">
+<td colwidth="[50]" numCell="true" nodeId="709da265240847ceba84b098c8ccc97c">
+<p nodeId="e34032250b47448290c1646ed78ca071" />
+</td>
+<td colwidth="[278]" bgColor="rgb(237, 250, 244)" nodeId="ac4461ae61e94be7b470ad58396d5157">
+<p align="center" nodeId="fb1fc9c50ae54071aac0d98d91564008"><span color="rgb(230, 250, 248)"><a href="https://km.sankuai.com/page/1309830046" title="榜单业务" autoUpdate="true" nodeId="ae2311c425f74b75aea9a7f168da4e8d">榜单业务</a></span></p>
+</td>
+<td colwidth="[73]" nodeId="58b6f918d1784435832849b2fa6c1623">
+<p align="center" nodeId="01f731ac62a94d57816239d0d7b26604">✔️</p>
+</td>
+<td colwidth="[86]" nodeId="8c06bb1bb6c440d09ed67d978e5ce28e">
+<p nodeId="760e14548cbf421ba2080ff0f928b069" />
+</td>
+<td colwidth="[117]" nodeId="dd05c2da90fb42679ea078f80bbc0a30">
+<p align="center" nodeId="513a360469f64d93a0ea53733e5e1467" />
+</td>
+</tr>
+<tr nodeId="cf0edb5c21204dae92bb4dda8e2a6b9f">
+<td colwidth="[50]" numCell="true" nodeId="7d39b26c7162466991183df980f6383d">
+<p nodeId="8747f72f18a94172a0a91ab601b7712b" />
+</td>
+<td colwidth="[184]" nodeId="14b4a3183ec24c759d2bc82059ba2d92">
+<p align="center" nodeId="85b9826bcbb047b7847b6527cebaa237">美团好评返现标准</p>
+</td>
+<td colwidth="[278]" nodeId="ccf1c164c3ad4b90897f3faf73b0fa3b">
+<p align="center" nodeId="0fbd087c5f574543a31b1c991d7efad4"><a href="https://km.sankuai.com/page/270443918" title="美团外卖" autoUpdate="true" nodeId="12ba4cd97c5c469ebce3c29d7cd4ca3e">美团外卖</a></p>
+</td>
+<td colwidth="[75]" nodeId="0c8185b6de364d898702e9db9b9b40a2">
+<p align="center" nodeId="675e2c33136f4d7293d88ddb182aa514" />
+</td>
+<td colwidth="[245]" nodeId="9ad3b26097424f8799634d84190b6dab">
+<p align="center" nodeId="6a96d1f39ca241ec9c85423232f16a9e" />
+</td>
+<td colwidth="[272]" nodeId="27b4a75e89064b0ea305c8f1a89de727">
+<p align="center" nodeId="cb0aed9be98b43f5bd70e5c48841f68c" />
+</td>
+<td colwidth="[73]" nodeId="b76eac4239604efe9f82e72a7f3d50c4">
+<p align="center" nodeId="f88c9317fc414632a881db90996e8ffe">❌</p>
+</td>
+<td colwidth="[86]" nodeId="c392ceeeeec34ecab353fa03e13641b6">
+<p nodeId="d9508707d6c544469b48a675042db71b" />
+</td>
+<td colwidth="[117]" nodeId="dbf486ecf31e433fb988cbd3954ddefa">
+<p align="center" nodeId="7ee6e22df40847dd94111f923d5e2f0d" />
+</td>
+<td colwidth="[129]" nodeId="d9ca379927a14d75b90b5574a1d821e2">
+<p align="center" nodeId="b31441e1c79f4275892bd48e99113aa5">文档被删除，默认废弃。</p>
+</td>
+</tr>
+<tr nodeId="674dc77bd58e4284863b9db62c9a0a9a">
+<td colwidth="[50]" numCell="true" nodeId="6ae93a4ae4684a0795b9f1004a53bce8">
+<p nodeId="558d2e1705684988830d6189795773c5" />
+</td>
+<td rowspan="18" colwidth="[67]" nodeId="a58d251750ad41938097b8ccd49e4f4b">
+<p align="center" nodeId="e33e1ae794134ed7b792871d316f9af3">通用</p>
+</td>
+<td colwidth="[184]" nodeId="b0a40f8f76f34338a7f98742da51ad32">
+<p align="center" nodeId="23fba774b9e54de0ab39be366e70bb57" />
+</td>
+<td colwidth="[278]" nodeId="346048eadb5148669005a3e47f36ce2f">
+<p align="center" nodeId="573354e9e02d4b6ca6508cecea05eea8"><a href="https://km.sankuai.com/collabpage/270654786" title="办证" autoUpdate="true" nodeId="5f8cb1a4a2174989b0f6376acba9f81c">办证</a></p>
+</td>
+<td colwidth="[75]" nodeId="e47caf01ecb748a2881aa8ed6e486d8b">
+<p nodeId="06760d07369745ea970046c8ced03d37" />
+</td>
+<td colwidth="[245]" nodeId="bc220a0c33d8417eb75f43d0589c179a">
+<p align="center" nodeId="b4a2f34d23d547778490f160ac99630d" />
+</td>
+<td colwidth="[272]" nodeId="2abbdc0969db4c3fb27ff5c1e32e7029">
+<p align="center" nodeId="2fcad63a907741e690ea4dff31f17c1f" />
+</td>
+<td colwidth="[73]" nodeId="e9a1a44ed36c4998a300abd99b96c0d0">
+<p align="center" nodeId="b8615e1974994629b3fa215c1a2a8ca2">❌</p>
+</td>
+<td colwidth="[86]" nodeId="a1a13f0da91948b596c2902d770bb397">
+<p nodeId="0dd0a1a1589346c587a70618e722f2a4" />
+</td>
+<td colwidth="[117]" nodeId="0730d2e9007a426db93b099426a5292c">
+<p align="center" nodeId="5ed17a00279e416db609e8bea76e91f4" />
+</td>
+<td colwidth="[129]" nodeId="f953c59e75584c85b38447f1d419c0b5">
+<p align="center" nodeId="99fdc97b6dec41489ef01c0331a0196d">和通用重复，看下哪个更全吧。</p>
+</td>
+</tr>
+<tr nodeId="c6464db9b66b47feaa19dffdd194fe07">
+<td colwidth="[50]" numCell="true" nodeId="f8cc979a19cc466498b7c93c00232947">
+<p nodeId="7c95f76303cd407698825fc670f7a266" />
+</td>
+<td colwidth="[184]" nodeId="5b265ef8f6fd4c1fb577a706788b04b3">
+<p align="center" nodeId="4d72fa84350e439e95be6688b48eb28b">点评评价无关标准</p>
+</td>
+<td colwidth="[278]" nodeId="6819eb6b1cb147378eb95403b92bcb1c">
+<p align="center" nodeId="e41cdee8c63d433f81aae8a37b10d96c"><a href="https://km.sankuai.com/page/313559681" title="点评业务" autoUpdate="true" nodeId="d20c1648b99549b686d5ab4d23272ed5">点评业务</a></p>
+</td>
+<td colwidth="[75]" nodeId="fae8a5a715eb42fea01535bbc349aeec">
+<p align="center" nodeId="4d939e7571744bc3b7a84dfc8f65fc6a">B</p>
+</td>
+<td colwidth="[245]" nodeId="368793f5155348abbe27001d65abb892">
+<p align="center" nodeId="3cf16e34275442e2bd22ebde06148d80">点评评价</p>
+</td>
+<td colwidth="[272]" nodeId="567d10a9a58e41a0b0ef8c4808cf207f">
+<p align="center" nodeId="c01ade740eff4c92b4b10566cdb568b7">新对接-点评评论-文字评论接入</p>
+</td>
+<td colwidth="[73]" nodeId="11c0259185874194a39b4b0908f11f6c">
+<p align="center" nodeId="78a24f1575314827bfd689e53271b4f9">✔️</p>
+</td>
+<td colwidth="[86]" nodeId="45d1cbd99ab64b45baec484a389abea4">
+<p nodeId="1fc2a529d90f4d6ebe775d1df3dcdc7f">人审</p>
+</td>
+<td colwidth="[117]" nodeId="02b0e7c543ea4f88b0ce93c7f6911cb7">
+<p align="center" nodeId="1496991f033a4bda830ba745a4b74256" />
+</td>
+<td colwidth="[129]" nodeId="5c8cdf5f1fdf4d239780550f2e481203">
+<p align="center" nodeId="99b3934a687b42ebb338f523030ea520">架设在通用的上面，多了单独弄个标准</p>
+</td>
+</tr>
+<tr nodeId="8f240304424940fe9018d5e624ec3deb">
+<td colwidth="[50]" numCell="true" nodeId="92ff35e15df44dffaf2894597febee54">
+<p nodeId="5bc09d2f6d8c470bb7b702d1e003512d" />
+</td>
+<td colwidth="[184]" nodeId="0b3056bdce684e4383325bb238891adc">
+<p align="center" nodeId="8c21ad960b9249b689bb9d03b3087c87">菜品商品名违禁词汇</p>
+</td>
+<td colwidth="[278]" bgColor="rgb(255, 255, 255)" nodeId="e357755c89044823910a627a97959c71">
+<p align="center" nodeId="b07e78e2cf5c499a88a9f99c9ba8b5a7"><a href="https://km.sankuai.com/page/271275612" title="菜品商品名" autoUpdate="true" nodeId="bef20ee2b93346f5a278e25175ddeaef">菜品商品名</a></p>
+</td>
+<td colwidth="[75]" nodeId="c78e2dbced3d42ceb5f8a156d5149f37">
+<p align="center" nodeId="3461c4cf2d574337a452f4a9ecfaa5de">A</p>
+</td>
+<td colwidth="[245]" nodeId="a2f45127438f42db9eadca4df2b9f3de">
+<p align="center" nodeId="0b4bb3717fbd4eb5acf1c04e9cfe0b1e">点评非重保通用25分钟</p>
+</td>
+<td colwidth="[272]" nodeId="f9ba143e43844911a6216028ab399b28">
+<p align="center" nodeId="cc1f9e5a43e94ac6895f620bb2b6285e">点评app-推荐菜-文字</p>
+</td>
+<td colwidth="[73]" nodeId="bcf0cf0bc7db48daa05e4f2cd53c10e7">
+<p align="center" nodeId="c9bbe0bfe2274a2680918ea0cc985741">✔️</p>
+</td>
+<td colwidth="[86]" nodeId="6749dac8571d4626b14038ec23824f3c">
+<p nodeId="d81bf9851a8d4fa983d72cdf7c84b177">人审</p>
+</td>
+<td colwidth="[117]" nodeId="1f8dae8c6fa746989bc771c2f5d5f4a7">
+<p nodeId="a72cc806224b4feaaa8eb9614373992b" />
+</td>
+<td colwidth="[129]" nodeId="7d3f50bdff0248ada3578d8308dd85a0">
+<p nodeId="8774bb2dc0ff4fa8b3827e9c015d5c30">架设在通用的上面，多了单独弄个标准</p>
+</td>
+</tr>
+<tr nodeId="fce1f519c4e14519b575a6fa73b83972">
+<td colwidth="[50]" numCell="true" nodeId="7e2184c153d74a038fbb97eade9f404b">
+<p nodeId="00423134d4f240eeb4de929f4e44cde6" />
+</td>
+<td colwidth="[184]" nodeId="939a3f43701746fc9a666556cc110af1">
+<p align="center" nodeId="016ea01331404c60861f811ae1cc7bdd">六四相关推荐菜价格标准</p>
+</td>
+<td colwidth="[278]" nodeId="6eb044a3a6b54149a813a8d607ba3a28">
+<p align="center" nodeId="f45215d2080f481d90e12919aef8a9cc"><a href="https://km.sankuai.com/page/1069806961" title="推荐菜价格审核标准" autoUpdate="true" nodeId="90e84777cc014a3b9307193bb0078532">推荐菜价格审核标准</a></p>
+</td>
+<td colwidth="[75]" nodeId="f87de994a8e2457ab1e16d306116b612">
+<p align="center" nodeId="634704829e644e48b0b09ab59cee051d">A</p>
+</td>
+<td colwidth="[245]" nodeId="b05fcdcf317947a7abc4d73d1103ee3a">
+<p align="center" nodeId="bd12bed69bae41bda080c89c8a605c68">舆情&amp;冲塔</p>
+</td>
+<td colwidth="[272]" nodeId="1f889065d8d5447fa1acae5be5232155">
+<p align="center" nodeId="580ceb0be4664aaab6ec52257c483cfd">点评app-推荐菜-文字</p>
+</td>
+<td colwidth="[73]" nodeId="e4b540dd252f4f9d9e16e392a9a52379">
+<p align="center" nodeId="f7a40321b8404780ad7f81c26512d199">✔️</p>
+</td>
+<td colwidth="[86]" nodeId="1864d898966b4d8a8d929eeaa8943a31">
+<p nodeId="5ffb76bc4a1b4571b79fd512062101d6">人审</p>
+</td>
+<td colwidth="[117]" nodeId="6180e76055ea43558a617cc118a58189">
+<p nodeId="1bbd57eca21f4c05b9956dbfc384896b" />
+</td>
+<td colwidth="[129]" nodeId="07fda98482334fc08f9f63c111991a8a">
+<p nodeId="77fc52bc925143319beae188dc9167b8">架设在通用的上面，多了单独弄个标准</p>
+</td>
+</tr>
+<tr nodeId="3378d58fbbac4984a1418608c59614c1">
+<td colwidth="[50]" numCell="true" nodeId="1daa73aaa8ec4161ad038d6a77bb4ecf">
+<p nodeId="229ed0ce411a42c49f24775aa7e3d24d" />
+</td>
+<td colwidth="[184]" nodeId="e18816cd23f94ccb8629469f6e2db726">
+<p align="center" nodeId="3720b6e9a42a462783eda54d17b45d4c">医美图片标准类目标准</p>
+</td>
+<td colwidth="[278]" nodeId="c72d330fcfd3470dac133d3b5147c5e0">
+<p align="center" nodeId="afa4ba746d8243599c5e742e3a10c7ac"><a href="https://km.sankuai.com/page/637101953" title="医美标准" autoUpdate="true" nodeId="6fa81ed6d6a74a158e0efaf28e0d824d">医美标准</a></p>
+</td>
+<td colwidth="[75]" nodeId="16a7f94e8857419898506c3d4e404680">
+<p align="center" nodeId="775b532ea93c4bd68c0d52d7c7c353fa">A</p>
+</td>
+<td colwidth="[245]" nodeId="ccc22d2a21a04bb1824bae37dc3d7f2e">
+<p align="center" nodeId="cfde735183f04e9b9f3b032d74f6cf16">到店25分钟通用实时</p>
+</td>
+<td colwidth="[272]" nodeId="c85c80a065b0454d84dbc9c0d206098c">
+<p align="center" nodeId="b24be9fd63c54f31a584f82e4ae80f5f">医美门店介绍信息（统一）</p>
+</td>
+<td colwidth="[73]" nodeId="1d2027fec0344788a0e347a8551edb1a">
+<p align="center" nodeId="6c4731359a3c48e58c7f5e0c1a46c67f">✔️</p>
+</td>
+<td colwidth="[86]" nodeId="9bcef4afbeb14cafb31622b487e02f2a">
+<p nodeId="da36decc8a0941ab9fa00921605748f5">人审</p>
+</td>
+<td colwidth="[117]" nodeId="2afc8afb054742418e42560d7f0bd875">
+<p nodeId="0a1f037a24814bd5a01eecf31c335a56" />
+</td>
+<td colwidth="[129]" nodeId="0c8f0de1815d4531a9878c505a998d2d">
+<p nodeId="bc0d98458af54dff8608d8b031a7136b">也没说哪个业务单独用，为啥不能被通用吃掉哪？可复查通用里面是否包含了。</p>
+</td>
+</tr>
+<tr nodeId="61c286178391488c8afb31b64c48c0c3">
+<td colwidth="[50]" numCell="true" nodeId="bfbbe76f703949f0b77969132f143269">
+<p nodeId="df19f226deb44f0e8d3341959043d34d" />
+</td>
+<td colwidth="[184]" nodeId="26f8c147b48d4a71a42f4482587f6752">
+<p align="center" nodeId="a70b0ad1f31747129dd4980289be18c4">广平涉政涉黄分级标准</p>
+</td>
+<td colwidth="[278]" nodeId="fb5a220202c14581ad21e902590024b6">
+<p align="center" nodeId="70f00fe12cd446419986c8442d639ebb"><a href="https://km.sankuai.com/page/1210906933" title="广平涉政涉黄分级标准" autoUpdate="true" nodeId="f3c7b12ab87142deb712ffa344f78ba0">广平涉政涉黄分级标准</a></p>
+</td>
+<td colwidth="[75]" nodeId="6d358f8bb19849529bb69151985feea9">
+<p align="center" nodeId="b7f70d40ed124be985ba391d61443e2e">A</p>
+</td>
+<td colwidth="[245]" nodeId="4369435759f34891b0cd64a1eac5eeeb">
+<p align="center" nodeId="0a8cf1e52adf42aebd6c0345248985d1">批量导入-广平</p>
+</td>
+<td colwidth="[272]" nodeId="befc639e16b142278955d0fa7ee30ff8">
+<p align="center" nodeId="6b0b8ebc54024512ae707c3fc843e401">广告平台素材风控-图片</p>
+</td>
+<td colwidth="[73]" nodeId="70405c8cc9324985ab2c73e073d41412">
+<p align="center" nodeId="d7e6bde726e44b898ffb516962cb252c">✔️</p>
+</td>
+<td colwidth="[86]" nodeId="8d59b486f99b48e48a978a7179ab26ae">
+<p nodeId="f151ecda8b9346d183eb713ec761c116">人审</p>
+</td>
+<td colwidth="[117]" nodeId="ba486b85d26f41f9a8215f63f9d38053">
+<p nodeId="53fa9fc129684b36846265232970261a" />
+</td>
+<td rowspan="3" colwidth="[129]" nodeId="db2c6c74e8ed4b6eb98526a75be7da90">
+<p nodeId="95c32fe0c0bc4d9e9dc7bd716bf35d34"> 国粹维护的广告法违规，通用成分较大。</p>
+</td>
+</tr>
+<tr nodeId="4a9ce1885109456a909525f05b4c7c9c">
+<td colwidth="[50]" numCell="true" nodeId="d1be632a413b4cc581bc62df2401763d">
+<p nodeId="2b61473d45124d94a608b7cc34cc79c9" />
+</td>
+<td colwidth="[184]" nodeId="bb2697fc302342b293d1703cce0600c3">
+<p align="center" nodeId="c202528ac9ac4b5e9d2ff559203c178c" />
+</td>
+<td colwidth="[278]" nodeId="ea4bb240de3a415ba47977ec17fbc456">
+<p align="center" nodeId="4d4719a9671e490e87defbe8ecd4f907"><a href="https://km.sankuai.com/page/1203773217" title="教育行业审核规范" autoUpdate="true" nodeId="f73cfba12c1842f39df37ecaea8b775a">教育行业审核规范</a></p>
+</td>
+<td colwidth="[75]" nodeId="d579422c89e6440aa7de8a27937c0d58">
+<p align="center" nodeId="417bf31954e046a9a486e1882a60a6d0">C</p>
+</td>
+<td colwidth="[245]" nodeId="d4ab4d92b9904b0eb0968bbed872b927">
+<p align="center" nodeId="7e99bb395a5e440eb54d8a33eff3b664">到店25分钟实时商品信息</p>
+</td>
+<td colwidth="[272]" nodeId="147f25ef9bfc4fdaa4ae8701c53be072">
+<p align="center" nodeId="5d7d8b10aba54d079f443ae0567bd654">教育亲子-早教行业课程项目-文字</p>
+</td>
+<td colwidth="[73]" nodeId="f66588342700438fa2dccabe85193360">
+<p align="center" nodeId="d7401183a5e34b8fa822afa98daa650a">✔️</p>
+</td>
+<td colwidth="[86]" nodeId="8acaad5360a84e498332146e985957ee">
+<p nodeId="8a7cf03294ec4a21819f238d6913462d">独立业务审核标准</p>
+</td>
+<td colwidth="[117]" nodeId="5877a7000fef40b1bbc7f63af8011d39">
+<p nodeId="ae1c03a2f36343a19a9f1e3484dd61ed" />
+</td>
+</tr>
+<tr nodeId="b2810b5305074f4d8bae1553cfcf787c">
+<td colwidth="[50]" numCell="true" nodeId="3cad9406e98f4e1aa052a63f5846abb2">
+<p nodeId="24251be9d7934d949273e01bf8be35fc" />
+</td>
+<td colwidth="[184]" nodeId="33b0b0f31dd74d8c87aef62b38cf1a85">
+<p align="center" nodeId="07d9236fa24a4b22bf83882719d93df7" />
+</td>
+<td colwidth="[278]" nodeId="582852607491454c949f9f3d5fae64e1">
+<p align="center" nodeId="9563e225a1fc4898bf9340fe9e479e3b"><a href="https://km.sankuai.com/page/1200937670" title="医疗行业审核规范" autoUpdate="true" nodeId="0d5f0582c09b456b93ade7210ffb182a">医疗行业审核规范</a></p>
+</td>
+<td colwidth="[75]" nodeId="e4d883fd71c14138b9385b1a70f2a9bd">
+<p align="center" nodeId="84a5f86039424005816f1543bc48ee5f">B</p>
+</td>
+<td colwidth="[245]" nodeId="f885e690999041a494aeece33c41a22e">
+<p align="center" nodeId="bc1481e0a4bf49719e9b1b572ce57005">到店25分钟实时商户poi基础信息</p>
+</td>
+<td colwidth="[272]" nodeId="3735886f7fb54155a3549f41381b4ea5">
+<p align="center" nodeId="abf3b184cd0b48c494af37f34ec2b369">医美医疗丽人商户基础信息审核-文字</p>
+</td>
+<td colwidth="[73]" nodeId="ed7bcea65a9147c49728b6c4ea3ae2e5">
+<p align="center" nodeId="0c789fce12eb4f7c9706603832d499b3">✔️</p>
+</td>
+<td colwidth="[86]" nodeId="0144702fd10a444e8797e99ff97daebb">
+<p nodeId="ed3420449318469dae7e46b3d0cc7014">独立业务审核标准</p>
+</td>
+<td colwidth="[117]" nodeId="ff89db4e56234c9a853b185c75354d43">
+<p nodeId="6bf35b648d0740ca915a1e3b537204e6" />
+</td>
+</tr>
+<tr nodeId="66c9fc11cf26407ba1931031cc9d3dc7">
+<td colwidth="[50]" numCell="true" nodeId="d6b84072f4e84427abe864f96def8141">
+<p nodeId="1cb3d5f8ef4048c9a8b7f144f0f972ed" />
+</td>
+<td colwidth="[184]" nodeId="1e48af7547b9474eaf694960034d1644">
+<p align="center" nodeId="44e4dccf8bd847028fefbe3f93860a76">骑手社区防止聚集活动标准</p>
+</td>
+<td colwidth="[278]" nodeId="ea6d2bc1f85047c093cd283bae6abc0a">
+<p align="center" nodeId="bd6b5382a6f24c0a87d3840f0a6034a0"><a href="https://km.sankuai.com/page/681272360" title="骑手社区" autoUpdate="true" nodeId="9f9f2f7e5fc643aebfa63108e90eb440">骑手社区</a></p>
+</td>
+<td rowspan="2" colwidth="[75]" nodeId="efbb89f22666484582cc3c19dcf7464f">
+<p align="center" nodeId="f1968796c2f3459cb9759f4d76204228">A</p>
+</td>
+<td colwidth="[245]" nodeId="0568cc8987db4d0db4628aaa93315b98">
+<p align="center" nodeId="b78bc7236cc8434ba6bcc89739035f9f">舆情&amp;冲塔</p>
+</td>
+<td colwidth="[272]" nodeId="11fa643eb80c4b02992db849c99d9039">
+<p align="center" nodeId="4e6ee70cc3fe449bb20a0b729a0ef5d5">骑手社区-回复文本-文字</p>
+</td>
+<td colwidth="[73]" nodeId="b026a64914694ea29b4a0b304a2e4b05">
+<p align="center" nodeId="3ea35988b2544423a193f1cc0497b2c6">✔️</p>
+</td>
+<td colwidth="[86]" nodeId="9399debdadf847ea8c5176d023cb9b54">
+<p nodeId="310dade1b2004bb390d40f5feb30111c">独立业务审核标准</p>
+</td>
+<td colwidth="[117]" nodeId="d212c3657e224fa2a7b075c625560309">
+<p align="center" nodeId="fcc9f189f57a4a27b132164e6ca8a170" />
+</td>
+<td colwidth="[129]" nodeId="80266a92f09741e18f7897e93aeb762e">
+<p align="center" nodeId="eba4e8b0078145e2aff01b2f3e5d3f06">和通用重复，对比通用叠加一下吧。</p>
+</td>
+</tr>
+<tr nodeId="de6f127860ed41dcb12a4fa1fcab8a10">
+<td colwidth="[50]" numCell="true" nodeId="bfd84e4b320c4ef6aceaa646507f91bf">
+<p nodeId="c9d54744839a4457989e355d342faad0" />
+</td>
+<td colwidth="[184]" nodeId="9f2272a10833424cafb20419753b1ef2">
+<p align="center" nodeId="5738165b4cd244beb0584b0f49daae04">餐饮saas豁免标准</p>
+</td>
+<td colwidth="[278]" nodeId="f121f0721ed443ef9df9871534497c3f">
+<p align="center" nodeId="3a9f89e3579145f98fe01cbb5c05ba83"><a href="https://km.sankuai.com/page/1221522260" title="餐饮saas豁免标准" autoUpdate="true" nodeId="12bd6a4a04ce4b69aa72f97e4eefa23d">餐饮saas豁免标准</a></p>
+</td>
+<td colwidth="[245]" nodeId="4f830798cee043c5af7e13769dd1ce11">
+<p align="center" nodeId="d0a6b156dcf34476ad3b8f5c3ebc3d0c">北斗_分裂旗帜</p>
+</td>
+<td colwidth="[272]" nodeId="9afeedb55f4e4f308c020a6e7003c1d1">
+<p align="center" nodeId="a49946e3e7b0411e9780c60f132bd690">餐饮SaaS零售版图片-图片</p>
+</td>
+<td colwidth="[73]" nodeId="6ff1c7a49e5d4f0ea461ee988d50b0ad">
+<p align="center" nodeId="c500f68d5ef44f8ca65d0a4ad996d2e8">✔️</p>
+</td>
+<td colwidth="[86]" nodeId="67c3a37f9ab444f4a04d7ea0fa2aa89c">
+<p nodeId="663692fffc724c11b86755d6b20cc9d8">独立业务审核标准</p>
+</td>
+<td colwidth="[117]" nodeId="504c16c0f4ff40dea57c435d3f7176b4">
+<p align="center" nodeId="a1b0cdfb054c4128b02467682fd327a8" />
+</td>
+<td colwidth="[129]" nodeId="59228825ecc244809c528596c351dd0a">
+<p align="center" nodeId="49a55e17e83744e8a8f06743627b2a62">辛苦国粹看下这是属于啥业务。</p>
+</td>
+</tr>
+<tr nodeId="9aa8f802c87844ec955266771ccd56e8">
+<td colwidth="[50]" numCell="true" nodeId="95de3a6b69bd4dc58ac28832e471bf1d">
+<p nodeId="a12cc5cc04e64c65b0209d0b84ecff3d" />
+</td>
+<td colwidth="[184]" nodeId="85f36ec3dc2e485381ff1efb7e8ae001">
+<p align="center" nodeId="426d67aff0e34af48b9cf59c54cbe5e8">辱骂人审打标分级</p>
+</td>
+<td colwidth="[278]" nodeId="ce6052109da44a7f8f7ab51c73b01629">
+<p align="center" nodeId="654366266d5e419f98acd16a98e6cfae"><a href="https://km.sankuai.com/page/290707089" title="程度分级" autoUpdate="true" nodeId="abaa65ef726a44b2b23aa46c48a8f63d">程度分级</a></p>
+</td>
+<td colwidth="[75]" nodeId="f74003b7820c41078244cd9dc44d7223">
+<p nodeId="b7d811065190480b9841a86316b6b00c" />
+</td>
+<td colwidth="[245]" nodeId="a626cb7429b24ddf9c070091a7432540">
+<p align="center" nodeId="53cb458675b9411e901e8c27c84007e8" />
+</td>
+<td colwidth="[272]" nodeId="f63fdea33900483fb45e82cf6b2566e6">
+<p align="center" nodeId="d7e3b0902f7347e79499e81af4835167" />
+</td>
+<td colwidth="[73]" nodeId="1c873bb946224487ab56b6fc1c39776d">
+<p align="center" nodeId="a853ea258abc489da8c54542521b5e8f">❌</p>
+</td>
+<td colwidth="[86]" nodeId="008de4720f8945c39d191da4596f071d">
+<p nodeId="c526201e4f3840558c09fb328a072799" />
+</td>
+<td colwidth="[117]" nodeId="632d53e21fa443b6803420ad519b39cd">
+<p align="center" nodeId="de327011e4b64f66901e303614099c55" />
+</td>
+<td rowspan="5" colwidth="[129]" nodeId="e6b3464f82c245f1aaf17181883fdf0d">
+<p align="center" nodeId="3fc41b403ffa49779061ca21958e9777">和通用重复，看下哪个更全吧。</p>
+</td>
+</tr>
+<tr nodeId="9a94fcfee2824e038ef37c6a978a3b9f">
+<td colwidth="[50]" numCell="true" nodeId="8c45e272f0e94d1bb60fcf1626aba76f">
+<p nodeId="c7cc4262c35547668164fbb5c2adffb7" />
+</td>
+<td colwidth="[184]" nodeId="4c00863f3a0a4f5b9200459cb4fd9589">
+<p align="center" nodeId="c464cb8b632145a6bb110b390da758d3">饭否辱骂标准</p>
+</td>
+<td colwidth="[278]" nodeId="3a7146de89ea441cbd40e9c220f060a1">
+<p align="center" nodeId="a8d437dbf530453d83ceba90d02b2f42"><a href="https://km.sankuai.com/page/604238286" title="饭否" autoUpdate="true" nodeId="68091e93b28240feae25fc07de8c45cc">饭否</a></p>
+</td>
+<td colwidth="[75]" nodeId="b0ca39bd984f4078a3ae4cac945d6396">
+<p nodeId="1e646d17d314411cada3a560af2a8748" />
+</td>
+<td colwidth="[245]" nodeId="31dd16142ef047c799c4423f95a0581e">
+<p align="center" nodeId="77e57be0ad7343279b8e883d6b96a772" />
+</td>
+<td colwidth="[272]" nodeId="bef353dfcdd244fbb583d4229a5fe106">
+<p align="center" nodeId="90a4cefe87e1410e840916e118b3be42" />
+</td>
+<td colwidth="[73]" nodeId="24583b13739847db927848e5a4878608">
+<p align="center" nodeId="c2cf045761d34552b926b1bb720c1b45">❌</p>
+</td>
+<td colwidth="[86]" nodeId="61a76b89da4b47b4b6c5a85e368b61ff">
+<p nodeId="9d5f0e8f3c3a4d9abc0ca930fa21be9c" />
+</td>
+<td colwidth="[117]" nodeId="cf89d830755b467a9fc1fb3f428e55ea">
+<p align="center" nodeId="a39f2447264a446bb19fe8595bc49828" />
+</td>
+</tr>
+<tr nodeId="7641615ecad2437aa6b28102d43ef0be">
+<td colwidth="[50]" numCell="true" nodeId="a20db9649e6942d9a47567a6ef6baa6c">
+<p nodeId="36afc3f9354540d0aaff8033ae7b4c32" />
+</td>
+<td colwidth="[184]" nodeId="5702ba7e1e0744cdb3669facf816da87">
+<p align="center" nodeId="9343aad071ea450faf765ec704e89126">用户昵称相关辱骂标准</p>
+</td>
+<td colwidth="[278]" nodeId="25a5d09cff97452ba8aeeb90f1259180">
+<p align="center" nodeId="4a4878b4cc5f4954b51c7407f35bd8b6"><a href="https://km.sankuai.com/page/270704432" title="昵称" autoUpdate="true" nodeId="5be75e8f17ff4f9fb04b6b4f1cae14dd">昵称</a></p>
+</td>
+<td colwidth="[75]" nodeId="3afcbcffc4a042ddb95f0cde3e1a9a0b">
+<p nodeId="28d0f48dc15e4557bba12cd699f8262a" />
+</td>
+<td colwidth="[245]" nodeId="d3698aa4fdad4a06b64288dae485e0fc">
+<p align="center" nodeId="51fddf4e3da74b0d828e06de666dc082" />
+</td>
+<td colwidth="[272]" nodeId="5b642abd6e6f40c3941ba011b932e42d">
+<p align="center" nodeId="06c5cff0af5349f995f86c33dd799591" />
+</td>
+<td colwidth="[73]" nodeId="b10697b8aa214bdf92591ef4ecb61e16">
+<p align="center" nodeId="055629a0f33040e4a0ac111334ea9fcc">❌</p>
+</td>
+<td colwidth="[86]" nodeId="5fbc253cfa184d19ac471cbdebf55822">
+<p nodeId="ffd87f3829c140e1bff22df5794fea52" />
+</td>
+<td colwidth="[117]" nodeId="08aac0d32fd144f3abbb19c34c35231a">
+<p align="center" nodeId="cd543af8996f4d629e5244eb9784df3a" />
+</td>
+</tr>
+<tr nodeId="1f422f68372243c3b81a6ad8d0695c08">
+<td colwidth="[50]" numCell="true" nodeId="73766f9be4694b1380fcb42652d8a566">
+<p nodeId="0e924f3308c249ae9d7a90a7fd4da4ac" />
+</td>
+<td colwidth="[184]" nodeId="6bd2a140dfcf478db566eec98d25bd59">
+<p align="center" nodeId="55f539c7d01846659f3420937c30ba75" />
+</td>
+<td colwidth="[278]" nodeId="2260c614889f4e4dab509d931deb7ebd">
+<p align="center" nodeId="bf21da1c596b4edb8fc4f13b29d77f54"><a href="https://km.sankuai.com/page/1306276853" title="广告落地标准标签映射" autoUpdate="true" nodeId="0ce93572b3fb41c18fa9c422ddc3a787">广告落地标准标签映射</a></p>
+</td>
+<td colwidth="[75]" nodeId="000a5675dac84c9fb957cd6a2fbc03b4">
+<p align="center" nodeId="b0634a4611c14ea9a4f2119a1cf811d5">A</p>
+</td>
+<td colwidth="[245]" nodeId="88e36a0d16494e888f2e3504648e0235">
+<p align="center" nodeId="21d04d70aa274ab1bf027f11a6209c21">25分钟美团平台实时广告</p>
+</td>
+<td colwidth="[272]" nodeId="744737491bbf4285ab098302187ac448">
+<p align="center" nodeId="e43be8980e0541dea848039524aaa962">广告平台素材风控-图片</p>
+</td>
+<td colwidth="[73]" nodeId="865e47c805af455f9ef9ae9aa89a1403">
+<p align="center" nodeId="88fa3bd3bad4427f98dd8ee857a00afe">✔️</p>
+</td>
+<td colwidth="[86]" nodeId="0b31b5f4680143dba18501216905031d">
+<p nodeId="57b27df079fd477cb34eb4bc29a441d3">独立业务审核标准</p>
+</td>
+<td colwidth="[117]" nodeId="3397c04138fd4ebab55454bc960146b2">
+<p align="center" nodeId="54498cb14cb649289689d60fbc6a8e62" />
+</td>
+</tr>
+<tr nodeId="d0345059de0242f5bd00b924e8286bf6">
+<td colwidth="[50]" numCell="true" nodeId="ec1bcd768211488db5a1448b35bdb6ac">
+<p nodeId="820f02e54ed2467cbfabb58069a150ad" />
+</td>
+<td colwidth="[184]" nodeId="bd3e3a7d7ff945d3b0817360dfab5363">
+<p nodeId="48fb656ea4704082b10323d09d954617" />
+</td>
+<td colwidth="[278]" nodeId="1f01cc8ad8d04bbaa143c2787ddeaea8">
+<p nodeId="87f1b143c494494d89b30370ea5e6f3c" />
+</td>
+<td colwidth="[75]" nodeId="0341014e6bdb408186bc9c8b3f70d1ec">
+<p nodeId="b806b3a4515a4cdd876098c84937c339" />
+</td>
+<td colwidth="[245]" nodeId="0b900a907d77457e8badd78814696110">
+<p nodeId="45178ccc5f2e4bc48139ec831cf8764b" />
+</td>
+<td colwidth="[272]" nodeId="e8a3b04ae9fa4cc5a5bedf858c33565a">
+<p nodeId="2e81adb41805446a84edca8b5600ea40" />
+</td>
+<td colwidth="[73]" nodeId="966c384a4dce4a4c8ee70b749f963e67">
+<p nodeId="4d88f46f415e47308f309907b7aa5db9" />
+</td>
+<td colwidth="[86]" nodeId="49245e09d1f54e10ba6ac4e2c86458a7">
+<p nodeId="cb7170b3b93e4f4599bd29f86598e4c2" />
+</td>
+<td colwidth="[117]" nodeId="a6c855652cc641b48900544c4eba2708">
+<p align="center" nodeId="19e1e902808a44bd8bf1882fe200d382" />
+</td>
+</tr>
+<tr nodeId="3b3f7c65c05846b1bdc92f34a16604a0">
+<td colwidth="[50]" numCell="true" nodeId="1438a0473aa8401288a92e5550136e54">
+<p nodeId="ff5e1ce933d444ebbdd381db3258466c" />
+</td>
+<td colwidth="[184]" nodeId="530565d11b544276bba05443e55106d9">
+<p align="center" nodeId="607daa0d28af442fbce620b03aa9c8f6">生活服务烟草相关标准</p>
+</td>
+<td colwidth="[278]" nodeId="105c75c27cf7465b836aa8d9064d0de8">
+<p align="center" nodeId="f504b6431cb94b25ba6ef63d24d2256c"><a href="https://km.sankuai.com/page/1148772952" title="生活服务烟草治理" autoUpdate="true" nodeId="1a3fdc39be6f48d5a972662c02d26f82">生活服务烟草治理</a></p>
+</td>
+<td colwidth="[75]" nodeId="edeae0d1c22f4866a10a0e3298c2a00d">
+<p align="center" nodeId="283eb753408c40638e461a87aff266ef" />
+</td>
+<td colwidth="[245]" nodeId="26e50e817f594390a67bcc397fee9633">
+<p align="center" nodeId="d868b233a66447c5893dabfa34b5f66f" />
+</td>
+<td colwidth="[272]" nodeId="0b18a40b64f24c07b91c08c4378bc12a">
+<p align="center" nodeId="73fe6d82ca26430783aa947a7cb1c988" />
+</td>
+<td colwidth="[73]" nodeId="c610bd64ea6240ac87d1aff233606ad7">
+<p align="center" nodeId="ff01e74058ba468297170913573d4e4e">❌</p>
+</td>
+<td colwidth="[86]" nodeId="107595a883ac4884b72ba4453e8b19e2">
+<p nodeId="62a726d3451446ba9afd99590b424740" />
+</td>
+<td colwidth="[117]" nodeId="c1ed0990f2fb45ea9dee843600cd699d">
+<p align="center" nodeId="f5b2f1299d17418d9ba45f4c853f5f9e" />
+</td>
+<td colwidth="[129]" nodeId="4e379226226a4cb39c46952faf1a087e">
+<p align="center" nodeId="1c9f69b343164fccb50c743718a4a9ad">里面写了是通用，属重复内容。</p>
+</td>
+</tr>
+<tr nodeId="8bc732f68fc645a896c05fa42eb2b067">
+<td colwidth="[50]" numCell="true" nodeId="4d70d99ac9f641e8a315d53af49c5963">
+<p nodeId="567f9099fd0342109aa6cbabb1d84206" />
+</td>
+<td rowspan="2" colwidth="[184]" nodeId="869e774a16bc40729877193421a50ca9">
+<p align="center" nodeId="b33e4dd151534f398350db53e2341c19">特殊业务标准</p>
+</td>
+<td colwidth="[278]" nodeId="4b6cccf59723491d900f7cbdbeeeb71b">
+<p align="center" nodeId="5602727333e341c38d4fcbe0b4ce173a"><a href="https://km.sankuai.com/page/532801638" title="零售收银数据" autoUpdate="true" nodeId="3bdd9e5736344a578ff4815f9f87534e">零售收银数据</a></p>
+</td>
+<td colwidth="[75]" nodeId="ae198ee3d00e4a31aece8c18095d783c">
+<p align="center" nodeId="62fc4bf17a8346538c499a2ae7732760" />
+</td>
+<td colwidth="[245]" nodeId="6e28200a60db4556bff51cac7f740ff1">
+<p align="center" nodeId="de0c8535ee974bd3b16ed102a23cb735" />
+</td>
+<td colwidth="[272]" nodeId="c9e67f5cf910446c928ff2336dc6b807">
+<p align="center" nodeId="9488efe891324866ad8cdefefa8a3c9c" />
+</td>
+<td colwidth="[73]" nodeId="60dbcec1f1f2412ab96f46e8c83adabc">
+<p align="center" nodeId="6ce75dcb3ea34396b5312746989574de">❌</p>
+</td>
+<td colwidth="[86]" nodeId="499a2c78ffd648ff84d854bf79b9f774">
+<p nodeId="91e7e3ac15e54987a664991431deb645" />
+</td>
+<td colwidth="[117]" nodeId="13a50c0ff28a48ce9f5aa6a187761f80">
+<p align="center" nodeId="e1a07bbcb93f4729ae08e33b21f593a9" />
+</td>
+<td rowspan="2" colwidth="[129]" nodeId="467c35e80719494ca633ceb539ed4fb0">
+<p align="center" nodeId="0c750407759b46a5a922403c78245575">ABC三通道找不到对应的TYPE，换个角度，一两个的业务，通用可以覆盖。</p>
+<p align="center" nodeId="248fa565ff1d41f89c89a0e704665b2c"><a href="https://km.sankuai.com/collabpage/1626375204" title="公序良俗审核标准" autoUpdate="true" nodeId="7d8c4b06b8644063be662550d24e4043">公序良俗审核标准</a></p>
+</td>
+</tr>
+<tr nodeId="d14510c75a6f446e8139d65f78b95863">
+<td colwidth="[50]" numCell="true" nodeId="6a794595226c46919132cb469055d9c5">
+<p nodeId="9e0da8a0f4c1406f811488a6bfdc588e" />
+</td>
+<td colwidth="[278]" nodeId="72ddac69eaac43f09cf96097b372f995">
+<p align="center" nodeId="d7222467fd264925af6683aeee3d6271"><a href="https://km.sankuai.com/page/532912065" title="推荐菜" autoUpdate="true" nodeId="8e741cb4f4ac45329f1a4cdadeba6705">推荐菜</a></p>
+</td>
+<td colwidth="[75]" nodeId="c90e75b158d74bff8af2e943d8f1ed2f">
+<p align="center" nodeId="0220fcdf698b43f98f5be76b8f4cb35a" />
+</td>
+<td colwidth="[245]" nodeId="739e73e83b014a238a2fbd4d143146fc">
+<p align="center" nodeId="5a0850a427a345afb8113f848e443d13" />
+</td>
+<td colwidth="[272]" nodeId="af30a72ac92e40a9800c596a3df18cea">
+<p align="center" nodeId="1dabcd664b8e4492b5c40cb95c3dc7ab" />
+</td>
+<td colwidth="[73]" nodeId="f4ffcddc411744eeb9bef810bb72e7ba">
+<p align="center" nodeId="97a60e56624d4203ab06be9859b636bb">❌</p>
+</td>
+<td colwidth="[86]" nodeId="bdd198a3d9d64d128ea1d0db28fa06b0">
+<p nodeId="3f7bd369a5ae4b41a2911a54a99e43dc" />
+</td>
+<td colwidth="[117]" nodeId="5024413d0e1a4e73983946616686d787">
+<p align="center" nodeId="b8be88bddb9e402b89419b6dea90dd60" />
+</td>
+</tr>
+<tr nodeId="919c104f04da4df0899542d52959edfd">
+<td colwidth="[50]" numCell="true" nodeId="b1c05ffb158447feb4d4579a5809ff62">
+<p nodeId="f99f9d7af8344ba6becfbc3b6466f5be" />
+</td>
+<td rowspan="2" colwidth="[67]" nodeId="f55b9608ba4945b8aa0290744049b9cc">
+<p align="center" nodeId="819a8b990ff54e5c87ef7d6ab863a02e">专项</p>
+</td>
+<td rowspan="2" colwidth="[184]" nodeId="eb9caef1cab342488df08327b2b830fa">
+<p align="center" nodeId="0d57fd3e3abc41cfb23b53c50fbcbea1">港独事件专项审核标准</p>
+</td>
+<td colwidth="[278]" nodeId="0f84ecd4eff04907aa9ac82b6aaf26d5">
+<p align="center" nodeId="456bec91a7674f1f88ba4643041d07f5"><a href="https://km.sankuai.com/page/227441053" title="【涉港独专题】" autoUpdate="true" nodeId="be84ddaf99054f908f6e127a84dc13a8">【涉港独专题】</a></p>
+</td>
+<td colwidth="[75]" nodeId="ede31589b1924c368feb73689dcb2158">
+<p align="center" nodeId="dd524ce7fed44874bf247e12a15eb270" />
+</td>
+<td colwidth="[245]" nodeId="c2ab9d80fed14a229378984a5eba71de">
+<p align="center" nodeId="0b53f482f7d44c4dacfe51ee1691d1b8" />
+</td>
+<td colwidth="[272]" nodeId="8c2502db81044287bab043a41078717f">
+<p align="center" nodeId="96fcfb4dae674c33874f40c2262fd22e" />
+</td>
+<td colwidth="[73]" nodeId="8dc7dfbb199c406d98543c2fb2d681a8">
+<p align="center" nodeId="2b2e26fe403c482a8b53f1086ceffd1e">❌</p>
+</td>
+<td colwidth="[86]" nodeId="b8563cab0c5e4e78a0adabfc73be0376">
+<p nodeId="c309cc78660448f6af6106324ed25c0f" />
+</td>
+<td colwidth="[117]" nodeId="075c4bf53b4f49eb8d4ac643ef039c24">
+<p align="center" nodeId="dc790865a78d4b8fa22b0ff5bb13514b" />
+</td>
+<td rowspan="2" colwidth="[129]" nodeId="911acc4a83474ca89c6e7bc8a340a509">
+<p align="center" nodeId="18af57d628224a6285b3c5db91a91556">通用覆盖了，看下哪个更全</p>
+</td>
+</tr>
+<tr nodeId="fe66729d485540caa7433fe5c6aee146">
+<td colwidth="[50]" numCell="true" nodeId="78b19879917249be8cc989e32e1f14a7">
+<p nodeId="cd968f109b5649f18dca65230e768e37" />
+</td>
+<td colwidth="[278]" nodeId="66bbfdad1f184e57a22a923263a3c3bb">
+<p align="center" nodeId="343e12537f6b431b98c23741f85dcae2"><a href="https://km.sankuai.com/collabpage/1348371312" title="涉政营销专项标准（持续迭代中）" autoUpdate="true" nodeId="0f09604d3982405d9b8cf2b7a30e527b">涉政营销专项标准（持续迭代中）</a></p>
+</td>
+<td colwidth="[75]" nodeId="6415bad2ccf44326aab24fdde45852b9">
+<p align="center" nodeId="a1c32b59cc144d3fb53e8e250bf9989a" />
+</td>
+<td colwidth="[245]" nodeId="5dff103f7b5c472185af1a69c4bbdad9">
+<p align="center" nodeId="944a1bf12ddf41a884da92893ba80ba9" />
+</td>
+<td colwidth="[272]" nodeId="08113dd89bc64f5d839502faa605ec0d">
+<p align="center" nodeId="248b6e090f4f4e75a8646d3b498ad6c8" />
+</td>
+<td colwidth="[73]" nodeId="f589b46abd3f4056b8e6c58173980baa">
+<p align="center" nodeId="e93df88d5e694575a439c1cf7c57d5a8">❌</p>
+</td>
+<td colwidth="[86]" nodeId="39bb3d56af2841b1adabedf47c6b8564">
+<p nodeId="6b8af1f1d79c4da08c2929d32f894034" />
+</td>
+<td colwidth="[117]" nodeId="f3f853ef8f384f0bbbb0e9020efa675f">
+<p align="center" nodeId="e1422e6e47904683817d5b105355d797" />
+</td>
+</tr>
+<tr nodeId="aae68843cd7c47618356e94d799ba186">
+<td colwidth="[50]" numCell="true" nodeId="854ba852b15c415dadf5c015e3e9e71a">
+<p nodeId="f36f4af5a16c4079a0304d7c5953a70d" />
+</td>
+<td rowspan="5" colwidth="[67]" nodeId="483b4d6b1b0448988495930e4c1e36c5">
+<p nodeId="7b02749594b64c15a5f5367e2bea5f0e">商品审核标准</p>
+</td>
+<td colwidth="[184]" verticalAlign="top" bgColor="rgb(255, 255, 255)" nodeId="1d65dc0e1fb04e7c9d166975ab03cc63">
+<p align="start" nodeId="25aafb0eebea4bc7865a95a8f84c07d3"><span font-size="14">到家商品审核标准</span></p>
+</td>
+<td colwidth="[278]" verticalAlign="top" bgColor="rgb(255, 255, 255)" nodeId="39b5094e05574517a5c80bd4203fd608">
+<p align="start" nodeId="40584b164c7c4a508c816c036be441ac"><a href="https://km.sankuai.com/page/1200574894" title="到家商品审核标准" autoUpdate="true" nodeId="4f2a5c04f3d04978ace0f4b48951a613">到家商品审核标准</a></p>
+</td>
+<td rowspan="22" colwidth="[75]" nodeId="060b233a1eaa4691afd5ce1802515e3f">
+<p align="center" nodeId="9c2b7564e03042f8b39b07a862766779">C</p>
+</td>
+<td colwidth="[245]" nodeId="d40606a1b9414e4bb5fb0d590ab64120">
+<p nodeId="945f88e0ab794db78f6faa4ccd0bab39">到家闪购内容</p>
+</td>
+<td colwidth="[272]" nodeId="ece764a9b299420c814c592b4012deb6">
+<p nodeId="b3374c1c982048e1b6211c122749eae3">到家商品-闪购文字</p>
+</td>
+<td colwidth="[73]" nodeId="96fb806dacdb42ed877e79b17730e5e9">
+<p align="center" nodeId="b6f29eb1d8a441999b22f21266a165e6">✔️</p>
+</td>
+<td colwidth="[86]" nodeId="4d36b11b568c4da4a8d8607c4e9c28bb">
+<p nodeId="b8079d3804cc4c9f8eaf231216b51e8e" />
+</td>
+<td colwidth="[117]" nodeId="6cd1e05593b649d08c862d37feba22f3">
+<p nodeId="6c52e7c7d6c5459d96fe45a25831f122" />
+</td>
+<td rowspan="5" colwidth="[129]" nodeId="75f8f9aeb69c4d75a1eb573f6193e36c">
+<p nodeId="64d757576e444409ae561b1225307464" />
+</td>
+</tr>
+<tr nodeId="6f7bc2a8611f4fb4beb7de8c574ffa36">
+<td colwidth="[50]" numCell="true" nodeId="6233fd2ba6e7499b9afc9ee932fd1dbf">
+<p nodeId="21f4aab258114f0cb8ee1c61cce226a2" />
+</td>
+<td colwidth="[184]" verticalAlign="top" bgColor="rgb(255, 255, 255)" nodeId="d729741ed69c4c11a221b479ca7fcc32">
+<p align="start" nodeId="ced0167ed80d4d5ba67b15068e2739c9"><span font-size="14">买菜商品审核标准</span></p>
+</td>
+<td colwidth="[278]" verticalAlign="top" bgColor="rgb(255, 255, 255)" nodeId="bc4409f8b134468c9773ac8baeb5ac95">
+<p align="start" nodeId="adc799b9ef004d5e8bc51c23f39802c3"><a href="https://km.sankuai.com/page/1294713871" title="买菜商品审核标准" autoUpdate="true" nodeId="4c08071258b841d8bbcc6d4be3c947db">买菜商品审核标准</a></p>
+</td>
+<td colwidth="[245]" nodeId="300d4db7a9194c63b514b43a690c3bae">
+<p nodeId="32812b5e5f0c40cca2f31bd76c4a2e91">买菜商品内容</p>
+</td>
+<td colwidth="[272]" nodeId="1e9362221a4e4633a58c61e49009c7d7">
+<p nodeId="62fb8972cba64522865adb0b164f90c7">买菜商品合规-文字</p>
+</td>
+<td colwidth="[73]" nodeId="83f51aea55a346e68ebdcb940051d6be">
+<p align="center" nodeId="640cf431aec5426ea406087c429fbfaa">✔️</p>
+</td>
+<td colwidth="[86]" nodeId="0387c8ecad3f4dccbc80fd7e850308b6">
+<p nodeId="4c847dc7208240fbbbb533a273d10041" />
+</td>
+<td colwidth="[117]" nodeId="9ac3d370d5274953a3721f9026e1b61f">
+<p nodeId="2ba37dcbd77247ce81dca9b6806cfac9" />
+</td>
+</tr>
+<tr nodeId="12465dcff8ec46ea871e024ffee1ac73">
+<td colwidth="[50]" numCell="true" nodeId="b5087b8b00894c45ac5c6759d8df4b13">
+<p nodeId="d212201c4f8c42bfbe0013e3f83aaf9c" />
+</td>
+<td colwidth="[184]" verticalAlign="top" bgColor="rgb(255, 255, 255)" nodeId="38f724b6d75e4ed88fde69054e09e9a7">
+<p align="start" nodeId="b6e2b492fbae437c8e0b64306855da69"><span font-size="14">商品合规标准</span></p>
+</td>
+<td colwidth="[278]" verticalAlign="top" bgColor="rgb(255, 255, 255)" nodeId="3826d88314004285bcce2532de12ea2b">
+<p align="start" nodeId="caecd0af09d34ccead1df3e3be1ec5a1"><a href="https://km.sankuai.com/page/1301966708" title="商品合规标准" autoUpdate="true" nodeId="e380afc37aa44726b63b4edf5b37b51a">商品合规标准</a></p>
+</td>
+<td colwidth="[245]" nodeId="cbdfb0ffb67f48e9ac70cba885b2a490">
+<p nodeId="1270fb41e1e54dcc8f092b3859089f37">到店25分钟实时商品信息</p>
+</td>
+<td colwidth="[272]" nodeId="bddb5b6eb41541898cb4d805a56f4dcc">
+<p nodeId="42428552eaf449268d7cc12daf00c28e">新到店-生活服务价目表-文字接入</p>
+</td>
+<td colwidth="[73]" nodeId="5f7f6a61144943fca507bb1b5483ed0d">
+<p align="center" nodeId="07217bfbdf3f4c7b820232dbbdb9c614">✔️</p>
+</td>
+<td colwidth="[86]" nodeId="b8e7a42e60a54a49bf2f8e6482b77a2c">
+<p nodeId="a003a29d50f24a6fb9dab3ddc73b046d" />
+</td>
+<td colwidth="[117]" nodeId="cd7e6b41e56244b2bfb4f3bdee146f2c">
+<p nodeId="04a84244aec44301a73445d23495c5d9" />
+</td>
+</tr>
+<tr nodeId="e2e24b5a900745508e0809c47ab90a15">
+<td colwidth="[50]" numCell="true" nodeId="44965eae923145098a9095d4b6ffe175">
+<p nodeId="19ea777efcfe405ca8a779fd383f36d0" />
+</td>
+<td colwidth="[184]" verticalAlign="top" bgColor="rgb(255, 255, 255)" nodeId="86dc0b7e03ed4617bc9cc0da8cd15a8c">
+<p align="start" nodeId="a726760c2d1d4dccb468dc288eb22394"><span font-size="14">团好货审核标准</span></p>
+</td>
+<td colwidth="[278]" verticalAlign="top" bgColor="rgb(255, 255, 255)" nodeId="42c3df013dd140909811c19ce5d54733">
+<p align="start" nodeId="26a0c4d5613d476fa59b7655997ff171"><a href="https://km.sankuai.com/page/1297234982" title="团好货审核标准" autoUpdate="true" nodeId="c7c99ac5e0ea4d9490f345f37c33fb84">团好货审核标准</a></p>
+</td>
+<td colwidth="[245]" nodeId="a2f958ef82cf45f88c847b7128c373e4">
+<p nodeId="c6420aa9677648c5b3f8ddb487a9a24b">团好货内容</p>
+</td>
+<td colwidth="[272]" nodeId="3acfaffe55be4bdb85488e211d5df2fd">
+<p nodeId="f3f4255251f94b72904a27584e0dbb61">团好货评价（美团拼购）-文字</p>
+</td>
+<td colwidth="[73]" nodeId="2fad0ae90f8343c286ecade5209a0123">
+<p align="center" nodeId="115aef80dc9442499eaf2c2d7f45166e">✔️</p>
+</td>
+<td colwidth="[86]" nodeId="a0a57ab31c40464da9a0183f219e936a">
+<p nodeId="495fc28bf5504fa1a1a879f138008da6" />
+</td>
+<td colwidth="[117]" nodeId="bd2e82c2a4184085aac1957706044bc5">
+<p nodeId="10ad5557ba9941ceb88184b6d2779686" />
+</td>
+</tr>
+<tr nodeId="f4456604a1a84d39bb46d4322db9fe17">
+<td colwidth="[50]" numCell="true" nodeId="a0abbacd98ef4737bfb2692a050e53f1">
+<p nodeId="b697cd0f62df4144b942ae1c39927229" />
+</td>
+<td colwidth="[184]" verticalAlign="top" bgColor="rgb(255, 255, 255)" nodeId="d233d9dbacb342d3a9864f56811846f4">
+<p align="start" nodeId="b992d2eae6904200bd427a63bef3b15c"><span font-size="14">优选商品审核标准</span></p>
+</td>
+<td colwidth="[278]" verticalAlign="top" bgColor="rgb(255, 255, 255)" nodeId="d7221959a205486ba386ce6912d10667">
+<p align="start" nodeId="edfab22d25694830803b6ce74f3c7ca6"><a href="https://km.sankuai.com/page/1200534995" title="优选商品审核标准" autoUpdate="true" nodeId="4e831232162b40ae8af9ac56ac33bd91">优选商品审核标准</a></p>
+</td>
+<td colwidth="[245]" nodeId="cad6a10bbd094bb8b8eaf012d88c730f">
+<p nodeId="191c8ff551e847419e241c5c9f2775d9">优选商品内容</p>
+</td>
+<td colwidth="[272]" nodeId="efbd2da44e884e629087b55379f80b62">
+<p nodeId="af0d5e44ea4c420d964f584fc80daf86">优选商品合规-文字</p>
+</td>
+<td colwidth="[73]" nodeId="2910f3c75ee54b4ea0c9812885bb527f">
+<p align="center" nodeId="d6fa3cc1aa8843748de494fb80496bc7">✔️</p>
+</td>
+<td colwidth="[86]" nodeId="81092223bb8b4733b144e533323b036c">
+<p nodeId="6bc746c6624a400c96f106bec7377a7d" />
+</td>
+<td colwidth="[117]" nodeId="35a23998eef545fd91cefa299ccc6252">
+<p nodeId="6aa10d74ced344eabc3b35134f25f673" />
+</td>
+</tr>
+<tr nodeId="e56cfbe1f59d4c558319000e09248939">
+<td colwidth="[50]" numCell="true" nodeId="7939665a76b74d53a42c58cf1e15e810">
+<p nodeId="c85c6ee319fe4c4596422b1e3b991063" />
+</td>
+<td rowspan="8" colwidth="[67]" nodeId="8236a0823d5c4647b56e193ee8a6cdb1">
+<p nodeId="2f4b04d12b84474ab6253d22c660c423">直播审核标准</p>
+</td>
+<td colwidth="[184]" verticalAlign="top" bgColor="rgb(255, 255, 255)" nodeId="9d871ce830614893a91f3be02c87065d">
+<p align="start" nodeId="6f8ed794366549d78deb58945f3776b3"><span font-size="14">直播流通用审核标准</span></p>
+</td>
+<td colwidth="[278]" verticalAlign="top" bgColor="rgb(255, 255, 255)" nodeId="1341af9565c240bda3ec4dbe55d050d0">
+<p align="start" nodeId="b6773873a00047b5a841e4baaf396381"><a href="https://km.sankuai.com/page/1315488840" title="直播流通用审核标准" autoUpdate="true" nodeId="1b3c63c67b304a2ea2a4c2084e8f0850">直播流通用审核标准</a></p>
+</td>
+<td colwidth="[245]" nodeId="57eaaeb26b4a44ed9d5a43723ee196d6">
+<p nodeId="0d10b2c88ba24f3d8054035749d1b315">到综直播流</p>
+</td>
+<td colwidth="[272]" nodeId="a06906827fbd458ab614b3a8bd89a7f8">
+<p nodeId="77ac09b7c24841b7b21e91ec0bfa2287">到综直播</p>
+</td>
+<td colwidth="[73]" nodeId="100a1824083b4a2da83c8fa6c5b5bf3d">
+<p align="center" nodeId="4d13fb7fdb7042d78b0d92c4181f217d">✔️</p>
+</td>
+<td colwidth="[86]" nodeId="b6ff8ecb2d944c95ba764aaa19a89c1e">
+<p nodeId="f6b5e923bfb84718bca988f4693c408c">解决方案</p>
+</td>
+<td colwidth="[117]" nodeId="a49b73c0b89c4184af21c5ce8b5c2e24">
+<p nodeId="6c2d896fc2bc407ca37d9521bf094741" />
+</td>
+<td rowspan="8" colwidth="[129]" nodeId="ef3dc47d666c48319190b935d07582be">
+<p nodeId="fa3011acc445446dbe9c6b484dc15376">对比B站审核标准迭代为一整套。</p>
+</td>
+</tr>
+<tr nodeId="fbd0232f94fc407a821557323daaec23">
+<td colwidth="[50]" numCell="true" nodeId="c51c6c09d1544a068c69595d26dcdf0d">
+<p nodeId="3546751bc8574fca9deb0fab14a2cdfe" />
+</td>
+<td colwidth="[184]" verticalAlign="top" bgColor="rgb(255, 255, 255)" nodeId="1e0f88748fe04b72b18c7a9c019136f8">
+<p align="start" nodeId="3a00d24ed7fb47ca86f0fa8bb23b9f8a"><span font-size="14">直播封面审核标准</span></p>
+</td>
+<td colwidth="[278]" verticalAlign="top" bgColor="rgb(255, 255, 255)" nodeId="461f94a1c99d4f499b4df5c81a801085">
+<p align="start" nodeId="91c91a4126db4f139fd00621526bca6c"><a href="https://km.sankuai.com/page/1315524812" title="直播封面审核标准" autoUpdate="true" nodeId="0a5ec59c41114c3f8b737d9adb27b7a8">直播封面审核标准</a></p>
+</td>
+<td colwidth="[245]" nodeId="a39bd842221f4f2080f9690c1a3be791">
+<p nodeId="04aec794a8aa417e97b47d316303218e">直播标题封面</p>
+</td>
+<td colwidth="[272]" nodeId="46fa6191337443058595e493b5fb8c20">
+<p nodeId="d98c76b431c743758b5fa487b69437db">丽人直播文字接入</p>
+</td>
+<td colwidth="[73]" nodeId="b30f02cfc1564465a903838f63fb3f86">
+<p align="center" nodeId="c8c8756f18564f3aa58dfd04caeff03d">✔️</p>
+</td>
+<td colwidth="[86]" nodeId="f3c68138c0db466cac657cbae9a7bb7d">
+<p nodeId="275f8d34f62f4ec38f69d40d590ddab7">解决方案</p>
+</td>
+<td colwidth="[117]" nodeId="d281316ea40a425181bfda0b12855bac">
+<p nodeId="d328f5892a234b1abe437881abdca178" />
+</td>
+</tr>
+<tr nodeId="e1b66f3d517f4e2e8ee6938f261f9485">
+<td colwidth="[50]" numCell="true" nodeId="dff401343fc5423795c623390065aba1">
+<p nodeId="eb4c602a65784240b65795e264071a74" />
+</td>
+<td colwidth="[184]" verticalAlign="top" bgColor="rgb(255, 255, 255)" nodeId="a10393b9149e40bea2b0dea7fd649076">
+<p align="start" nodeId="63825782fbbd47fd990da7ab79d918b3"><span font-size="14">直播图片流标准</span></p>
+</td>
+<td colwidth="[278]" verticalAlign="top" bgColor="rgb(255, 255, 255)" nodeId="8e70cb453800427db0bc31111aaf30fa">
+<p align="start" nodeId="cc73016edb814451be6c4d67f6f88bcb"><a href="https://km.sankuai.com/page/1315467869" title="直播图片流标准完整版" autoUpdate="true" nodeId="b756bbabd6b844c0a336940a1651b518">直播图片流标准完整版</a></p>
+</td>
+<td colwidth="[245]" nodeId="c2d18486a31848418e630c45bd6313e5">
+<p nodeId="e6d0825ec5164e01ba7423d02d631271">到综直播图片流</p>
+</td>
+<td colwidth="[272]" nodeId="7bc9bc8eaac6423f9808d399dffab314">
+<p nodeId="19238efb3113429fb3e4bfde7fb77893">到综直播</p>
+</td>
+<td colwidth="[73]" nodeId="142b839c3ae54245890702ac93513dc8">
+<p align="center" nodeId="b6423e8cc0fd472fb8d242797114e605">✔️</p>
+</td>
+<td colwidth="[86]" nodeId="b3f3f05f431742f089c7909a70559b5a">
+<p nodeId="e559e6683caa4b1c9108c8b7169f99b2">解决方案</p>
+</td>
+<td colwidth="[117]" nodeId="b967cf3e622845eb8505d1cc57620836">
+<p nodeId="17a8f4a81ff0491cbe2c95b24ade0b00" />
+</td>
+</tr>
+<tr nodeId="05f09dad57ef4911bffcde9d5f5769b6">
+<td colwidth="[50]" numCell="true" nodeId="fbaeaa82ce1542deb4022761385528e0">
+<p nodeId="3e170e7eee644b7d80b8e8d77c394d78" />
+</td>
+<td colwidth="[184]" verticalAlign="top" bgColor="rgb(255, 255, 255)" nodeId="ae4044697a674134afbb2fff88b4d2a1">
+<p align="start" nodeId="b8fac0ed457340e6a2e30d53e8779108"><span font-size="14">开车直播标准</span></p>
+</td>
+<td colwidth="[278]" verticalAlign="top" bgColor="rgb(255, 255, 255)" nodeId="2f02b8ce56a14aeb94e05e7d90ea986b">
+<p align="start" nodeId="e6610725e12a474b94863c711b22f07f"><a href="https://km.sankuai.com/page/1315487345" title="开车直播标准沟通" autoUpdate="true" nodeId="138c68b6ce824de6b5a6acb18b3737b5">开车直播标准沟通</a></p>
+</td>
+<td colwidth="[245]" nodeId="c6569c7438ad4dcf86ebd4defacb74dd">
+<p nodeId="35808ecdfce74278bbb6e347e6379f21">到综直播流</p>
+</td>
+<td colwidth="[272]" nodeId="883721bb34a74ac59566034d10d4efbe">
+<p nodeId="2367a22a324e4acf824528ba364afb16">到综直播</p>
+</td>
+<td colwidth="[73]" nodeId="c5ee30ad3d6347cc9892711ea1cbf39e">
+<p align="center" nodeId="7f50c012da994eac8717002d46a4dfe6">✔️</p>
+</td>
+<td colwidth="[86]" nodeId="9079e2d831a149dfb548fe6e66f19034">
+<p nodeId="9150cb091a6340ad89fcb231f8f03f4b">解决方案</p>
+</td>
+<td colwidth="[117]" nodeId="692e3c0dbc114f6db4f199ba4e63ca32">
+<p nodeId="917a3aeff25e44b78089a362d5d893cc" />
+</td>
+</tr>
+<tr nodeId="0c4fe78b9ecc4e3c97709f7400e3f7f0">
+<td colwidth="[50]" numCell="true" nodeId="587d179db0114f07bc7e3e8ced500977">
+<p nodeId="e34537cf56c14fd1aa080230135cf5a2" />
+</td>
+<td colwidth="[184]" verticalAlign="top" bgColor="rgb(255, 255, 255)" nodeId="7316c34400b340959761138b0e861048">
+<p align="start" nodeId="ba64e34241c64d4c8e528f79078b36b0"><span font-size="14">到综医美直播标准</span></p>
+</td>
+<td colwidth="[278]" verticalAlign="top" bgColor="rgb(255, 255, 255)" nodeId="caf2e5159f784d0d802c2c5d1ba2a358">
+<p align="start" nodeId="02d371bcb68c446ab26d02bd4907d364"><a href="https://km.sankuai.com/page/1315508186" title="到综医美业务标准" autoUpdate="true" nodeId="b8bc598cdc8f4a6abe10674d11b62d54">到综医美业务标准</a></p>
+</td>
+<td colwidth="[245]" nodeId="9220bb6b7f764bef8a0253153eec8916">
+<p nodeId="e297612129b54627b6a4c34785c0c51d">到综直播图片流</p>
+</td>
+<td colwidth="[272]" nodeId="12793b5c636d4b28a8d9e711cbca1a94">
+<p nodeId="94ee8e130a254ede89502956bf273e89">到综直播</p>
+</td>
+<td colwidth="[73]" nodeId="9eccdc45a15249f78e231f9372c02280">
+<p align="center" nodeId="87c78f7c9ea54ae9b916db2debc17d61">✔️</p>
+</td>
+<td colwidth="[86]" nodeId="8b10f084b5db49bf9c696ed933f3d1c8">
+<p nodeId="75a78c6d77b14941a7d535f2c8147c32">解决方案</p>
+</td>
+<td colwidth="[117]" nodeId="9b610f13f6af453f8b3d6434628ee11e">
+<p nodeId="52da29e64c8440029ba40a2e6193a2dd" />
+</td>
+</tr>
+<tr nodeId="978854d42eed4124a17757a55f146a52">
+<td colwidth="[50]" numCell="true" nodeId="144f9bc5a6d444699424659b57c05b79">
+<p nodeId="4c3de98112b34c95bee5fd85e417f1bb" />
+</td>
+<td colwidth="[184]" verticalAlign="top" bgColor="rgb(255, 255, 255)" nodeId="108df52f6f3b4fb892193e91c5317f71">
+<p align="start" nodeId="57a1de298a9c463e8e244ef3f8662388"><span font-size="14">美团优选直播标准</span></p>
+</td>
+<td colwidth="[278]" verticalAlign="top" bgColor="rgb(255, 255, 255)" nodeId="1559559211614ef5ab7f32cd8d1aa800">
+<p align="start" nodeId="451b8b2030674109a256d8ebc310e320"><a href="https://km.sankuai.com/page/1315429710" title="直播标准-美团优选" autoUpdate="true" nodeId="602aa2d68ef34755857b4557d802090d">直播标准-美团优选</a></p>
+</td>
+<td colwidth="[245]" nodeId="fff287cf478b4543bcdf805f8a86cd8d">
+<p nodeId="57dcd7454fb94988875ded51be8035ca">优选直播流</p>
+</td>
+<td colwidth="[272]" nodeId="777e5f48082f4ed286e6ddb4fb074613">
+<p nodeId="03ca0b280d1745ba91d8b186b8e9384c">优选直播流</p>
+</td>
+<td colwidth="[73]" nodeId="95ae12f745de49b4af4e9ce56d50c5dc">
+<p align="center" nodeId="6547f87c806b454cb60cf8845d45ab70">✔️</p>
+</td>
+<td colwidth="[86]" nodeId="3538d406d6b24c3790ab959c1e00ca8c">
+<p nodeId="8342749e393042ffb6f37eba1815af4a">解决方案</p>
+</td>
+<td colwidth="[117]" nodeId="691f128f364242b5bd42684379c43c6f">
+<p nodeId="6a14d3b2e92249e7931f7d1fba176e80" />
+</td>
+</tr>
+<tr nodeId="adb783f348d7474bace5a3011ca1a20d">
+<td colwidth="[50]" numCell="true" nodeId="80aafd75bfbb433e8483d98ccc87038d">
+<p nodeId="3dd4033833b2441186efc0f58a9aac0f" />
+</td>
+<td colwidth="[184]" verticalAlign="top" bgColor="rgb(255, 255, 255)" nodeId="2321c2d9c0f142999cdee19dcb732677">
+<p align="start" nodeId="e23f204d1aab4918805eae7ff80c00bc"><span font-size="14">优选直播特殊标准</span></p>
+</td>
+<td colwidth="[278]" verticalAlign="top" bgColor="rgb(255, 255, 255)" nodeId="8e210e10e7e34eda80e7375196d4eaee">
+<p align="start" nodeId="93304519ba88427abbf1153be816ef8c"><a href="https://km.sankuai.com/page/1315542100" title="优选业务封面&amp;标题特殊标准" autoUpdate="true" nodeId="ec4af0a69e8d42649105ad3737a714e7">优选业务封面&amp;标题特殊标准</a></p>
+</td>
+<td colwidth="[245]" nodeId="00ede78aee68497bab5b11de79d86bf5">
+<p nodeId="dcb0dbb380204dc5964aaaaff122025a">优选直播流</p>
+</td>
+<td colwidth="[272]" nodeId="e760786986364a68ab17abbe05415b13">
+<p nodeId="c07fdc2a404b4f63be49007f15d6cba1">优选直播流</p>
+</td>
+<td colwidth="[73]" nodeId="605ea85339aa448dbd7ff09fa2b81d9f">
+<p align="center" nodeId="8888b7abcb2a46189f110d58afd53706">✔️</p>
+</td>
+<td colwidth="[86]" nodeId="ceab79584a4349d2abced4c9c78bef0c">
+<p nodeId="a16524d35e8641f982a388cb0bd12e2e">解决方案</p>
+</td>
+<td colwidth="[117]" nodeId="3c637f87074b4340a7cb5f32fa088b4f">
+<p nodeId="264921fab38f441fbffad1bb6252259c" />
+</td>
+</tr>
+<tr nodeId="e501d31eed6f4a69b8070d0d08723f34">
+<td colwidth="[50]" numCell="true" nodeId="97c1b3a9443b4592b75194b3aec0dfce">
+<p nodeId="e68c5902e9a24a228e0873bb34c5e1c3" />
+</td>
+<td colwidth="[184]" verticalAlign="top" bgColor="rgb(255, 255, 255)" nodeId="3e66730bc20245ed82c0b10fb53963f4">
+<p align="start" nodeId="62a63697c4914082a31fcde9e6abee14"><span font-size="14">点评直播二维码标准</span></p>
+</td>
+<td colwidth="[278]" verticalAlign="top" bgColor="rgb(255, 255, 255)" nodeId="f5e9a681605345859ac8161f6f6af3e1">
+<p align="start" nodeId="7f32e9960dc8416a9f8edbd47982158d"><a href="https://km.sankuai.com/page/1315429593" title="二维码处理尺度（点评直播）" autoUpdate="true" nodeId="2c55ac52ec5840f1a32f072703635d76">二维码处理尺度（点评直播）</a></p>
+</td>
+<td colwidth="[245]" nodeId="e770c602ac63487fa4b5c4ffd4719747">
+<p nodeId="1bc727cf41ae4616a4a3a9a1339c90e2">点评直播图片流</p>
+</td>
+<td colwidth="[272]" nodeId="f2e448aee4d34399b27bdf92e21763b0">
+<p nodeId="c75da9832dad437785b9c06025eb5b07">点评直播流</p>
+</td>
+<td colwidth="[73]" nodeId="02d2d695215c454295631a5c733aa135">
+<p align="center" nodeId="e28b9a20b715430faeefe36f46640e27">✔️</p>
+</td>
+<td colwidth="[86]" nodeId="93bde8ae791b4c069135ccb603e6dbc1">
+<p nodeId="21768a0f3eba4270a1bae32101424e3a">解决方案</p>
+</td>
+<td colwidth="[117]" nodeId="4a1c735442fd4baeb75df7cc7de08871">
+<p nodeId="42b28ea8e18f43c2a9ccedc42ae3c27b" />
+</td>
+</tr>
+<tr nodeId="436d0f88751f4ceaa2e8ce2c24d9bdd8">
+<td colwidth="[50]" numCell="true" nodeId="aa61327e5bd846239645796f3036b4d6">
+<p nodeId="438ea37b7572472fb0c103bee85c6212" />
+</td>
+<td rowspan="4" colwidth="[67]" nodeId="a3f16e9758494af6a6a09315540fed95">
+<p nodeId="359119675d4448c0ae2b0ae4a769a8b7">用户商户审核标准</p>
+</td>
+<td colwidth="[184]" verticalAlign="top" bgColor="rgb(255, 255, 255)" nodeId="7a76bd3895e74574be1a266695658e10">
+<p align="start" nodeId="7af1a0ccd649420593b5e07af0d0a172"><span font-size="14">用户策略召回审核标准</span></p>
+</td>
+<td colwidth="[278]" verticalAlign="top" bgColor="rgb(255, 255, 255)" nodeId="025368823172489b8b7d3ce7f946ecca">
+<p align="start" nodeId="6b7806e4b08e4556b07943ef2dcebe23"><a href="https://km.sankuai.com/page/1315899461" title="用户审核标准" autoUpdate="true" nodeId="dcfd0ed2ecb149d1b22a3acef7e7934f">用户审核标准</a></p>
+</td>
+<td colwidth="[245]" nodeId="ac6c9b92c8ab4bb68d8903ba23468fe1">
+<p nodeId="bff4bce629a04e178567ab080eea0fa6">25分钟美团平台实时用户</p>
+</td>
+<td colwidth="[272]" nodeId="983ececfccb54e34969d7004865f7f61">
+<p nodeId="c8c24ea54e6049cb92de446164975c5f">美团app-用户账号中心-用户昵称-文字</p>
+</td>
+<td colwidth="[73]" nodeId="3b94d3a3d5014bb89c12a3b3ce4debfe">
+<p align="center" nodeId="85b7e9bbc1994c0c9e371b885cfcdae5">✔️</p>
+</td>
+<td colwidth="[86]" nodeId="c96979ba69ac41fba71c13caf10e509b">
+<p nodeId="08036d5c41954dad9b8634a436be7434">独立标准</p>
+</td>
+<td colwidth="[117]" nodeId="efe081719a254cd4ad4cfe31a629fb88">
+<p nodeId="f9b19cdec77c4a8097e43acdf4cd4d2c" />
+</td>
+<td rowspan="3" colwidth="[129]" nodeId="a2b79426bb504f7d9346e6b5c647eb39">
+<p nodeId="f5b8377a731249a399715e3e27e2d274" />
+</td>
+</tr>
+<tr nodeId="2f857acb82a345ad996954e5e0bab32b">
+<td colwidth="[50]" numCell="true" nodeId="a62cf73712e544d79e5850c652ee9f97">
+<p nodeId="8d8a15c7e4324ab79c0a10e8232ab39c" />
+</td>
+<td colwidth="[184]" verticalAlign="top" bgColor="rgb(255, 255, 255)" nodeId="049b8047e0e14cdb80791d3eedbf828d">
+<p align="start" nodeId="0ad22848e68d48ffba956fae61bbad7b"><span font-size="14">商户策略召回审核标准</span></p>
+</td>
+<td colwidth="[278]" verticalAlign="top" bgColor="rgb(255, 255, 255)" nodeId="1dc90ff955394dae90265b63db2ae9fa">
+<p align="start" nodeId="4a422da28d3f40eea2101322d504b43e"><a href="https://km.sankuai.com/page/1316020972" title="商户审核标准" autoUpdate="true" nodeId="68140ea93ef84cf9bf201057e6758800">商户审核标准</a></p>
+</td>
+<td colwidth="[245]" nodeId="e4e87f878f674e849fe4c1616c04ba7d">
+<p nodeId="eff24f81b37646739232ea59ae8897ef">足疗按摩商户名</p>
+</td>
+<td colwidth="[272]" nodeId="482ed625ef204a55960188c0ae4d1f6a">
+<p nodeId="7024d1ca45b24054b4fffdfe0158fd4e">到综店铺装修-头图</p>
+</td>
+<td colwidth="[73]" nodeId="54b14ce8d966477cbb5e56eb2c7e45c6">
+<p align="center" nodeId="5d6f95a87e604fd8bf89c630d5f67156">✔️</p>
+</td>
+<td colwidth="[86]" nodeId="22e43ef4d52347d89c92ac0ac079abb1">
+<p nodeId="4bf6091c3bf7470799779eb2db6ec99c">独立标准</p>
+</td>
+<td colwidth="[117]" nodeId="5efd707de0d04737855c793739ac5644">
+<p nodeId="b4b27348e9864fcca96502b7da7ad561" />
+</td>
+</tr>
+<tr nodeId="4e33e632964e4ff4b5a911c6b0c2e148">
+<td colwidth="[50]" numCell="true" nodeId="affe4a39f0614aff84b96cdbb400f041">
+<p nodeId="f35e8c79946d4ff0b23d5629d899afb2" />
+</td>
+<td colwidth="[184]" verticalAlign="top" bgColor="rgb(255, 255, 255)" nodeId="3d6b4dadfb0e429daf11bf3b0f84fdf7">
+<p align="start" nodeId="f694775cde4d486c82ea7fc8d9cbd25d"><span font-size="14">用户违规处置标准</span></p>
+</td>
+<td colwidth="[278]" verticalAlign="top" bgColor="rgb(255, 255, 255)" nodeId="ea8984a3d2b440aa9130e0983a44b9a5">
+<p align="start" nodeId="28cc8a9deb474aafa046848f4820bec2"><a href="https://km.sankuai.com/page/1065027299" title="用户违规具体标准" autoUpdate="true" nodeId="0de26771a42a409f939d3d88ab6d1c03">用户违规具体标准</a></p>
+<p align="start" nodeId="dc6e1316e306420f99b947c942d616d4"><a href="https://km.sankuai.com/collabpage/1383511721" title="招嫖用户标准" autoUpdate="true" nodeId="e2f6a530184546bead40bbc4840c1643">招嫖用户标准</a></p>
+<p align="start" nodeId="5eea212b43ef4744a259e7ab49e15a21"><a href="https://km.sankuai.com/collabpage/1406727810" title="招嫖用户回扫补充标准" autoUpdate="true" nodeId="5a521af1d20d4459a082143707566080">招嫖用户回扫补充标准</a></p>
+</td>
+<td colwidth="[245]" nodeId="9a43b07e647b4a7c90eaaa984a81077d">
+<p nodeId="c2cedc5c65384120a590644eacdcde96">25分钟美团平台实时用户</p>
+</td>
+<td colwidth="[272]" nodeId="22748b42fe3f48ebbb60af3da6848702">
+<p nodeId="6ee887b1edb94fedbaf05788444e939d">美团app-用户账号中心-用户昵称-文字</p>
+</td>
+<td colwidth="[73]" nodeId="edb82451aba74a25b00cc0c29b3d1989">
+<p align="center" nodeId="2f8f8fc7f8ff4bd4a5c3fec3d435d6fa">✔️</p>
+</td>
+<td colwidth="[86]" nodeId="c780f1309f15444a82c38bd517e531d9">
+<p nodeId="b0dc7294fe6e4c5da6292630faa31188" />
+</td>
+<td colwidth="[117]" nodeId="983b943a316a465fab57d311790131db">
+<p nodeId="1fde33fa5bf64474b9b878cf825a84a9" />
+</td>
+</tr>
+<tr nodeId="4802ce80b63e42d089a51f562f65a0b5">
+<td colwidth="[50]" numCell="true" nodeId="99d97ed0997645efaaa3647508ea1b9d">
+<p nodeId="e7924594c8cc467ca27d0d22917cc07b" />
+</td>
+<td colwidth="[184]" nodeId="f0654a11123d4a2e92a67e070041552a">
+<p nodeId="df239fe67de04d348b8aab840850ff64" />
+</td>
+<td colwidth="[278]" verticalAlign="top" bgColor="rgb(255, 255, 255)" nodeId="9fee443ca8804b43931c6e6b98d56043">
+<p align="start" nodeId="6cffb538b4d74350a043b2e6f4af898a"><a href="https://km.sankuai.com/page/1214312557" title="用户昵称标准" autoUpdate="true" nodeId="47ab89e7bca9476188cbec0379395d73">用户昵称标准</a></p>
+</td>
+<td colwidth="[245]" nodeId="3cf64cf465134ccfa3db5071f2e176cf">
+<p nodeId="de539753932e4c3799f59b75da41d6a2">25分钟美团平台实时用户</p>
+</td>
+<td colwidth="[272]" nodeId="e42aff0934ff453ea43321b8b8b34804">
+<p nodeId="8e822cfc4a9f4ff98c984dd800a9b2b2">美团app-用户账号中心-用户昵称-文字</p>
+</td>
+<td colwidth="[73]" nodeId="fd94f626f0aa41dcb2e97f21c281e35e">
+<p align="center" nodeId="0466966b7d5d4fa187193a7e6a621d59">✔️</p>
+</td>
+<td colwidth="[86]" nodeId="0320112055bf4aac809555d7fbffe1a2">
+<p nodeId="ece9a036bfe94f07a9bc647194f1ef39">合并</p>
+</td>
+<td colwidth="[117]" nodeId="95391ab91f864644824dda599ac9f1bd">
+<p nodeId="d33b4f9d1cef4d2db681b607fd92cfa8" />
+</td>
+<td colwidth="[129]" nodeId="4fe000f96acd4dbf823234747e54eba6">
+<p nodeId="fa55c648b5584e8e818b50bd80046bfb">该项看起来更像通用昵称审核标准。</p>
+</td>
+</tr>
+<tr nodeId="e793401a7eaa4afe8ebd097984619d7f">
+<td colwidth="[50]" numCell="true" nodeId="d578710cf6054ec2ba471e4a203b1e38">
+<p nodeId="7c810b54164e4d41b4ccdb2ab8b2d315" />
+</td>
+<td colwidth="[67]" nodeId="1c9473d51b6349deb8870dc63d3c63d0">
+<p nodeId="26d50ac44bff4cb3be471f1805b4dce1">IM审核标准</p>
+</td>
+<td colwidth="[184]" nodeId="fda38b7e326e4a77a693df236def1bf2">
+<p nodeId="d547efb731194244a6d9b622575e9881" />
+</td>
+<td colwidth="[278]" nodeId="8b2a6adbc60a4ccdabb30b13bcae634d">
+<p nodeId="8321256029d440fdaff34fd00dee8f3c"><a href="https://km.sankuai.com/page/1229198252" title="IM标准" autoUpdate="true" nodeId="71131c7857bf448f8e8aaf5ec683d8aa">IM标准</a></p>
+</td>
+<td colwidth="[245]" nodeId="777c19b6e003481cb84d3abd31761f39">
+<p nodeId="4b12448b8ee5456dad0ea558a1c73faf">到店25分钟实时IM</p>
+</td>
+<td colwidth="[272]" nodeId="4c92c25195d54b9bb6265c7546257547">
+<p nodeId="7ce790a09bd04d0f8340327c3535d853">美团休娱拼场-文字</p>
+</td>
+<td colwidth="[73]" nodeId="3cea13bfaf33475386c7bbf87f2f11a2">
+<p align="center" nodeId="5132bf2cf1bf42eda28b94734ec68fba">✔️</p>
+</td>
+<td colwidth="[86]" nodeId="f7db2dab96044751a364d27dd9dd5108">
+<p nodeId="8794ebb8d07547da9e6a8618ef190532">解决方案</p>
+</td>
+<td colwidth="[117]" nodeId="d080056db552424995ec72720556c25a">
+<p nodeId="a5bb092f81fc456fbca76927982e3d7c" />
+</td>
+<td colwidth="[129]" nodeId="a87fb7c525244c99b179e2b7b7a8ed83">
+<p nodeId="c80319950e7049dfb7e7b38f060a9237" />
+</td>
+</tr>
+<tr nodeId="20da12e1a27f42e2b7be25672c6dff40">
+<td colwidth="[50]" numCell="true" nodeId="b816a043cf38487bb77b38041dec30f5">
+<p nodeId="e06e629e0403419cb8b3e28f0ae4df77" />
+</td>
+<td colwidth="[67]" nodeId="7d7bca7ab4714e32a1c5019af93fd6ff">
+<p nodeId="1814397e047f46ba934661b9c7dcaa27">多模态审核标准</p>
+</td>
+<td colwidth="[184]" nodeId="8d84bd83c1b5420fb284fbff276a3dc0">
+<p nodeId="70feeaeeab8a496a8f0e66d37b1bd2f3" />
+</td>
+<td colwidth="[278]" nodeId="7875686c2ec340d18bf91fbb45aab5f8">
+<p nodeId="b77b95ef5556437fb75fa6a37809f9e6"><a href="https://km.sankuai.com/page/1293537692" title="1）交互类组合审核标准" autoUpdate="true" nodeId="eab472bdfc9640c3bda7019ed91c0cd8">1）交互类组合审核标准</a></p>
+</td>
+<td colwidth="[245]" nodeId="2247b1baba0d4060b928145898ece16a">
+<p nodeId="243bbdf9b88b4988aa56115d70ac87ba">回扫-多模笔记</p>
+</td>
+<td colwidth="[272]" nodeId="15113f2118194f899fb0e08794882132">
+<p nodeId="cc08a740bf074ed6b07280ca0f7526ce">点评笔记</p>
+</td>
+<td colwidth="[73]" nodeId="ee77f1dfb4704f5f88a8573ab9d7c133">
+<p align="center" nodeId="b2442bce51b24a9b86062299264356ce">✔️</p>
+</td>
+<td colwidth="[86]" nodeId="ccf5fd5f01304900bdfa5192acc46572">
+<p nodeId="b264dc03121248f290bb824c5c8eff34">合并通用</p>
+</td>
+<td colwidth="[117]" nodeId="731cdcd353b2445ba5ee8273872e6ac9">
+<p nodeId="5d5820f6c48b4818bf6eefbf322ddda9" />
+</td>
+<td colwidth="[129]" nodeId="a7f723896c644788b0f50942317974b2">
+<p nodeId="da48c691c62842c4bdfc2ea86e875bbd" />
+</td>
+</tr>
+<tr nodeId="39a92f9651e547c48f0922ca8a49d614">
+<td colwidth="[50]" numCell="true" nodeId="ccf161d21d044ac6b198990d0983361d">
+<p nodeId="50f6e9807acd4b6a9ec2cd77cb5714b8" />
+</td>
+<td rowspan="2" colwidth="[67]" nodeId="0cd082d9966f478ca8734f48d04dd63b">
+<p nodeId="d01042d0243a4cdcb6221f991534f3eb">标星词使用标准</p>
+</td>
+<td colwidth="[184]" nodeId="1998a6a940c4447d9bd2f3eb9c1b1cf1">
+<p nodeId="aa5e76a8b4ec48a394b333115f92b4c2" />
+</td>
+<td colwidth="[278]" nodeId="9be8eda24ed64ed68a1173de471242cb">
+<p nodeId="c7f822f2918d41fdbe8b27e5d792d7f7"><a href="https://km.sankuai.com/page/1222921548" title="标星词使用标准" autoUpdate="true" nodeId="bb1b4dff77fb4003bbb6eb7c2b069222">标星词使用标准</a></p>
+</td>
+<td colwidth="[245]" nodeId="6dd8604eaf8e4dcb911b317998d1979a">
+<p nodeId="e8e03e64ba324eb2bd5032c4876d8ace" />
+</td>
+<td colwidth="[272]" nodeId="09289b498c8e4be6aad30c7b17590be0">
+<p nodeId="1856bb703c604f7d8049c42f48610f2b" />
+</td>
+<td colwidth="[73]" nodeId="b82c7d88fca94755945550d250be49df">
+<p align="center" nodeId="bed2a967edf44088bbcbbd6202faf197">❌</p>
+</td>
+<td colwidth="[86]" nodeId="ba67dfc15e1a4280a3479828c2b62e89">
+<p nodeId="caa96ca8121c4c3086b00f17ab1103cd" />
+</td>
+<td colwidth="[117]" nodeId="952584585d14499095caf5105e3f0379">
+<p nodeId="96f19257716f488896e2663a84a5dbe5" />
+</td>
+<td colwidth="[129]" nodeId="8f32485d20ac4c75be8a43c298ceb470">
+<p nodeId="84d1f4a903ec4328990e3dcfc22f35cb">必要就收拢一下，拆一拆放在各自的通用里面</p>
+</td>
+</tr>
+<tr nodeId="6b5a6659b01c45678a3fe93a9f6d0b8e">
+<td colwidth="[50]" numCell="true" nodeId="08707b3e6a9644f4867a173d8b300fd6">
+<p nodeId="7f708bfa5cb24594ba554fb6f96f3c62" />
+</td>
+<td colwidth="[184]" nodeId="33c594445c894694ad08b6377b3a88ce">
+<p nodeId="d14b2923a8674b42886a7860baf27a8b" />
+</td>
+<td colwidth="[278]" nodeId="77fccc0df21148998903e29bc6c2bce0">
+<p nodeId="103fa63106134d579ba2f1c0bb2053ab"><a href="https://km.sankuai.com/page/1221479927" title="骑手社区星标辱骂处置分级标准" autoUpdate="true" nodeId="b2ff498e8dff4964a1f981f117ad8a6d">骑手社区星标辱骂处置分级标准</a></p>
+</td>
+<td colwidth="[245]" nodeId="09ec88fd832945c797ef0127f04a95ab">
+<p nodeId="81017197a29147edac9a81150361802e" />
+</td>
+<td colwidth="[272]" nodeId="f6c7878e195c412981f79c330034d881">
+<p nodeId="193110e8fe2741f68b9c5e1ca59fd4cb" />
+</td>
+<td colwidth="[73]" nodeId="f55e2de44efc4a3ab627c964e6898182">
+<p align="center" nodeId="f420d97a0cfa4222bf516df596bcb43c" />
+</td>
+<td colwidth="[86]" nodeId="ec41c86f9e5c47e2981ffbc1748871cd">
+<p nodeId="701d5c2b394245c89cda1d2f2a3ebaaa" />
+</td>
+<td colwidth="[117]" nodeId="4a29bd1e27894e698724921f8b6b506f">
+<p nodeId="c94c76e6b75140d789722e91465b4b77" />
+</td>
+<td colwidth="[129]" nodeId="8b38620faecf4030a9767029031212c0">
+<p nodeId="7a8a55f620fa4cb5a55acee52e93158e" />
+</td>
+</tr>
+<tr nodeId="9aec8e84c413435189ab0854b437eae0">
+<td colwidth="[50]" numCell="true" nodeId="b5763d0055744a5a8340935b1fcd0c05">
+<p nodeId="824b8308749c4246a3ee044d597c0056" />
+</td>
+<td rowspan="2" colwidth="[67]" nodeId="708741ee43de452f816be737139f3d44">
+<p nodeId="05b33f3de7a7416e8aecd100758b482b">业务合作标准</p>
+</td>
+<td colwidth="[184]" verticalAlign="top" bgColor="rgb(255, 255, 255)" nodeId="84c8f4038d054c7aae0ce967df06c51e">
+<p align="start" nodeId="38e4d08f2c2b4e8280de139d2f724fd5"><span font-size="14">公里医院评价审核标准</span></p>
+</td>
+<td colwidth="[278]" verticalAlign="top" bgColor="rgb(255, 255, 255)" nodeId="82465ca4bac54a1bb4af6aa2df110f88">
+<p align="start" nodeId="168dfea20c6148938baa331c282a64d7"><a href="https://km.sankuai.com/page/1284421381" title="公立医院评价-个人隐私、人身攻击、过激辱骂标准" autoUpdate="true" nodeId="555509bbc26849cbbd01405e9d8a7663">公立医院评价-个人隐私、人身攻击、过激辱骂标准</a></p>
+</td>
+<td colwidth="[245]" nodeId="d6f91d2442014f9d93ead29fe0273809">
+<p nodeId="033be4b052904a4bb490e40951af81e2">三甲医院医生负评_周期_增量</p>
+</td>
+<td colwidth="[272]" nodeId="ce40fef2b21c41af999beaca7f69a541">
+<p nodeId="67b52ef1dea14e339316e7cc8590f2b7">暂无</p>
+</td>
+<td colwidth="[73]" nodeId="ddb1b1d796e44d628d823d9e24fc1e00">
+<p align="center" nodeId="ce64f0ee88f74f5d94524b0d3796622d">❌</p>
+</td>
+<td colwidth="[86]" nodeId="7e516e61b3c54ebc90ca81a6fa045868">
+<p nodeId="19d4a83a577242d98753649c73300678" />
+</td>
+<td colwidth="[117]" nodeId="3064645b04fb4b61920b624f19fa2399">
+<p nodeId="f187b806c440449db90a4425cc00f91a" />
+</td>
+<td colwidth="[129]" nodeId="ed9600e8f1284581ba7c0a332674f62e">
+<p nodeId="3d8c027cafb84136a16564e33a7893d7">这个任务流都没对应的TYPE了，是否可以默认该任务流自动作废了？</p>
+</td>
+</tr>
+<tr nodeId="5163e780cd7d463183256e4d55776081">
+<td colwidth="[50]" numCell="true" nodeId="91d26196470c48798b8cac6c2b9c7ff5">
+<p nodeId="b60bde3db7834a7b8f9c033765f3a351" />
+</td>
+<td colwidth="[184]" verticalAlign="top" bgColor="rgb(255, 255, 255)" nodeId="e58fb863007f456bbf15d79adda3b030">
+<p align="start" nodeId="cab8f5ba8ae042d686252b391d86af0a"><span font-size="14">金银箔禁止添加标准</span></p>
+</td>
+<td colwidth="[278]" verticalAlign="top" bgColor="rgb(255, 255, 255)" nodeId="0d8d030d550b4135a5618ac0efa7b498">
+<p align="start" nodeId="c847322469c248c884ed80ce85f9bc1a"><a href="https://km.sankuai.com/page/1278133459" title="金银箔粉食物审核标准" autoUpdate="true" nodeId="c9ab8af249194a91a74290415259cf41">金银箔粉食物审核标准</a></p>
+</td>
+<td colwidth="[75]" nodeId="fc321898d2ba44a4aef9d28fbd461190">
+<p nodeId="1461c0e9bf6f4d8ba9b19b1255dde2cc" />
+</td>
+<td colwidth="[245]" nodeId="2fc5a98d6a3846fca21b451b31a51f09">
+<p nodeId="37b35d1e34724095adaa6828b6cd4d8c" />
+</td>
+<td colwidth="[272]" nodeId="675ecb53601c4f98934cb4984a0154df">
+<p nodeId="0b03e9d2ec3b47c6a728022d71b3d326" />
+</td>
+<td colwidth="[73]" nodeId="6911cc508d1e4107b4b2cb6e2f939bff">
+<p align="center" nodeId="a35666052c344d56adcb8c5267c5315a">✔️</p>
+</td>
+<td colwidth="[86]" nodeId="c2539937861145438f245b94b502065b">
+<p nodeId="bca1550079824b0881e9aa23ccf1ee29">违禁包含</p>
+</td>
+<td colwidth="[117]" nodeId="8175d64af64b4b1c8ee2446f2db8a288">
+<p nodeId="0d34f9dc2355479ea87c2861f5b2875e" />
+</td>
+<td colwidth="[129]" nodeId="b2dc3ff3cd634ebaba359582e2491186">
+<p nodeId="ac08f4b540a44335ad2e32ededf57b37">纯通用内容，直接加入商品资质合规里面去吧。</p>
+</td>
+</tr>
+<tr nodeId="820e0780d85a49fb855540d26cce0d09">
+<td colwidth="[50]" numCell="true" nodeId="e3579ebbd93d4211982cbecf95d94889">
+<p nodeId="abeaf8eedaed490997b87d3b32a1e328" />
+</td>
+<td rowspan="4" colwidth="[67]" nodeId="84a30eb3489148c59b2248dc6e317362">
+<p nodeId="3295542625ad47bd8205e3fb457e38cc">重保审核标准</p>
+</td>
+<td colwidth="[184]" verticalAlign="top" bgColor="rgb(255, 255, 255)" nodeId="06ebba34f3ed4b1fa4d3d35d02848658">
+<p align="start" nodeId="0dea0931eb0047c9af5168ddce8b6c9a"><span font-size="14">2022年535重保标准</span></p>
+</td>
+<td colwidth="[278]" nodeId="cbb23ee57b964897857f739e00612170">
+<p nodeId="7429f210822c49629a3174c20a55c761"><a href="https://km.sankuai.com/page/1317609823" title="年中敏感节点-拦截图片标准" autoUpdate="true" nodeId="7a21913d566b4093870edab2e184e782">年中敏感节点-拦截图片标准</a></p>
+</td>
+<td colwidth="[75]" nodeId="8fbb3190214545dfbd73769d7c0cc516">
+<p nodeId="ca106c65875a491aa209b2ceece506f2" />
+</td>
+<td colwidth="[245]" nodeId="cd387f7fdea9447c9e5e525ae73751c2">
+<p nodeId="0ae4d75cc3e540b3adce821e2411f693">重保和专项流程</p>
+</td>
+<td colwidth="[272]" nodeId="0b25aac037e349e7bcfc8e66030eb5dc">
+<p nodeId="f32a130084454400af113922d217cf35" />
+</td>
+<td colwidth="[73]" nodeId="5b228daa3a924142af2596114d08f9ed">
+<p align="center" nodeId="3ead5111cb54463a9ffcd834a8acd982" />
+</td>
+<td colwidth="[86]" nodeId="c45dc37ef98c45d3ab3fec28e2d60278">
+<p nodeId="074777d5a72843eba50fd01f653cccb3" />
+</td>
+<td colwidth="[117]" nodeId="596ea711e45f4db4955a33e56418be78">
+<p nodeId="65f8c4db61e74e8eba2f9874e985f021" />
+</td>
+<td rowspan="4" colwidth="[129]" nodeId="e09ae2b5a6884cb388623b6af50a797b">
+<p nodeId="e7743a8421b141449a46de59937a39a4"> 赖涵可以作为重保专项规则维护呀，这些规则比较吃时间节点。</p>
+</td>
+</tr>
+<tr nodeId="6027168c91fe4032b2c2a7833b2d5d42">
+<td colwidth="[50]" numCell="true" nodeId="c7421e87a43c46ab804ae2b7b9598faf">
+<p nodeId="a81e55048d0948209ae117083cd69491" />
+</td>
+<td colwidth="[184]" verticalAlign="top" bgColor="rgb(255, 255, 255)" nodeId="7d1c6aa9718f4e00b8f61afe0235a79f">
+<p align="start" nodeId="3807f905b23e44d296327c7213d18b40"><span font-size="14">2022年冬（残）奥会标准</span></p>
+</td>
+<td colwidth="[278]" verticalAlign="top" bgColor="rgb(255, 255, 255)" nodeId="3715329d10ca46e5903a9033db76ae2f">
+<p align="start" nodeId="d9463803bdcf43fdb174b6f7a6076801"><a href="https://km.sankuai.com/page/1248178078" title="003 冬（残）奥会线上内安标准" autoUpdate="true" nodeId="0e0082dffab748ba98fc66a8441d5e2c">003 冬（残）奥会线上内安标准</a></p>
+</td>
+<td colwidth="[75]" nodeId="981a29e620bc455ca4e51fd9f5023fc3">
+<p nodeId="f2d2c316918f49788ca3201289b5bc5f" />
+</td>
+<td colwidth="[245]" nodeId="b4ee758126f544068ec05229ef858980">
+<p nodeId="2ce85f2dc34c4493b7474b29fd362609" />
+</td>
+<td colwidth="[272]" nodeId="27a4a9328d5c4d13bcd3dcc82e98f0c0">
+<p nodeId="29a4ae9950284e43b394490480668cc0" />
+</td>
+<td colwidth="[73]" nodeId="2751849b33a348789ab4e3f4c3f0b04f">
+<p align="center" nodeId="69d0b81d776b451cbeb95719d552f768" />
+</td>
+<td colwidth="[86]" nodeId="c375824fc114428eae5d6bf306ff87da">
+<p nodeId="5f4a0192d08244d4932d74bbdf3b4a8e" />
+</td>
+<td colwidth="[117]" nodeId="8f1b8618e252480dae11621192bf1f99">
+<p nodeId="9a65c3eb050a421a8683b5d20c343ba9" />
+</td>
+</tr>
+<tr nodeId="0dad23912281449e883372980432bd6a">
+<td colwidth="[50]" numCell="true" nodeId="1dea9f3510024352b568535f78e5c490">
+<p nodeId="f16c789889e04eed8a7a1a6a8d88ce2b" />
+</td>
+<td colwidth="[184]" verticalAlign="top" bgColor="rgb(255, 255, 255)" nodeId="94ab264c9c4a41268c43ddf822fec1fb">
+<p align="start" nodeId="5471408e5afe41ddac42830aeaf10655"><span font-size="14">2022年两会标准</span></p>
+</td>
+<td colwidth="[278]" verticalAlign="top" bgColor="rgb(255, 255, 255)" nodeId="f98437b8b8ea4156b9c55441a38d88a0">
+<p align="start" nodeId="371b16b8ba794b51abe5792b8569d1af"><a href="https://km.sankuai.com/page/1285166107" title="2022全国两会标准" autoUpdate="true" nodeId="704263c6aaf54a8fb7814b7b5e627bd5">2022全国两会标准</a></p>
+</td>
+<td colwidth="[75]" nodeId="7e8dec714e2e42b3a536b8bbfa6d5deb">
+<p nodeId="a116c01663da48cd93d3764f47779d07" />
+</td>
+<td colwidth="[245]" nodeId="645a8ed1ffed4391b8c1347da3fac399">
+<p nodeId="92f1e925bd9945378c8580a95ae4fd3c" />
+</td>
+<td colwidth="[272]" nodeId="a49118aba5154ecd951260781be11692">
+<p nodeId="1569e85e55dd43ab8ba87d0daf7dc89b" />
+</td>
+<td colwidth="[73]" nodeId="15fedcb977414ad885305e1e6111b256">
+<p align="center" nodeId="88326166d1334b2dae82d7bc70b099c6" />
+</td>
+<td colwidth="[86]" nodeId="a638d8b716cb4f4896305d38d2de321f">
+<p nodeId="e5c3570882944d40ad023d2ff02c44ea" />
+</td>
+<td colwidth="[117]" nodeId="4ced2768e7ae444c9c7f462779132599">
+<p nodeId="cdd553539c0c40fb865a077852d3dbba" />
+</td>
+</tr>
+<tr nodeId="f620886dae4c4bf3a4d92b6cbd18a84f">
+<td colwidth="[50]" numCell="true" nodeId="a3feed85f9894863996346ecf865ad52">
+<p nodeId="c1a68d62846f4e7e84d10b56fe4dba0b" />
+</td>
+<td colwidth="[184]" verticalAlign="top" bgColor="rgb(255, 255, 255)" nodeId="928092863aa34e07a209ed60631cee84">
+<p align="start" nodeId="35c8089adbc145809c5298fe867d5e68"><span font-size="14">2021年十九届六中全会标准</span></p>
+</td>
+<td colwidth="[278]" verticalAlign="top" bgColor="rgb(255, 255, 255)" nodeId="41fdfee8cfa2412a8769cba1f6b92834">
+<p align="start" nodeId="f2ebf6f4e19142c3a98061f960a9fe70"><a href="https://km.sankuai.com/page/1212297337" title="十九届六中全会防控标准" autoUpdate="true" nodeId="5bfdf623fa504fbc8a4313b4b840dd51">十九届六中全会防控标准</a></p>
+</td>
+<td colwidth="[75]" nodeId="67249014206847d28bb22fb33bd663b3">
+<p nodeId="fbd3f435fe3743b7afb44379e6f6b3d3" />
+</td>
+<td colwidth="[245]" nodeId="aebdc50c80494a5daec037b3a3365ac4">
+<p nodeId="600baa807c274e00b6780e668d8fdf13" />
+</td>
+<td colwidth="[272]" nodeId="95560136caa349b2a0dd1db089c9ccec">
+<p nodeId="3489f34871fb43ff9b9bba9cd8965043" />
+</td>
+<td colwidth="[73]" nodeId="938b58a42a0a44af8d600b1a504b1d6e">
+<p align="center" nodeId="33ab1bab99d74ffa8e531c3bda3fad6e" />
+</td>
+<td colwidth="[86]" nodeId="00ac1124dcac4336b3a6580212e1d0de">
+<p nodeId="bb1328f1bb7142628fe82dd9e65cc1d6" />
+</td>
+<td colwidth="[117]" nodeId="aa2df524c2ef44b0b09c78f9e6329366">
+<p nodeId="9cde9ee83b864f049ffc008133aa150c" />
+</td>
+</tr>
+<tr nodeId="4f959a0064d046e2a50dd2c4f0f376b6">
+<td colwidth="[50]" numCell="true" nodeId="d6feec6770744d8d9d4c24fcbc32ce0d">
+<p nodeId="cba01e7c21034cbb97508273f41aa11a" />
+</td>
+<td rowspan="25" colwidth="[67]" nodeId="6b368fd8e27c409baa229903faffc5cc">
+<p nodeId="8fa6ad1d877a462ca1dbf1b1114f3269">监管和舆情增补标准</p>
+</td>
+<td colwidth="[184]" verticalAlign="top" bgColor="rgb(255, 255, 255)" nodeId="3f9610cf4f854282966033cca4270671">
+<p align="start" nodeId="d52c90f717b643b6b07238027ba3973f"><span font-size="14">《与灵沟通》邪教迷信标准</span></p>
+</td>
+<td colwidth="[278]" verticalAlign="top" bgColor="rgb(255, 255, 255)" nodeId="2d2a674303de495f940f1a0670ab1f97">
+<p align="start" nodeId="7fdb03ff8dba43719cef141de70279f7"><a href="https://km.sankuai.com/page/1307956682" title="BJWXB通知2022年4月25日拆解" autoUpdate="true" nodeId="6b72df1f577048a7a48e7b3b5b731092">BJWXB通知2022年4月25日拆解</a></p>
+</td>
+<td colwidth="[75]" nodeId="41230837d6124dabbe65021543e18bb2">
+<p nodeId="e1e0f0d2938f407b9b3bd6285892d1d0" />
+</td>
+<td colwidth="[245]" nodeId="09eeb1ce768c4cc6b559d7efe2b4e032">
+<p nodeId="4c7bbb8524904c9f8ec6d3f5457ca142" />
+</td>
+<td colwidth="[272]" nodeId="0e1b3a0978b7461b9432ad404ac74b4b">
+<p nodeId="cde2c45dc72c4bec855df3c0f56e62e8" />
+</td>
+<td colwidth="[73]" nodeId="29bcacc383d944159f2849cc21c6430a">
+<p align="center" nodeId="8a0bf7f433ab4b139646f1885fc528ae" />
+</td>
+<td colwidth="[86]" nodeId="1b830b7fdc58456f97befc1b6bf4c10f">
+<p nodeId="d93d271acdd94ff598eee87ef7d844e6" />
+</td>
+<td colwidth="[117]" nodeId="7c09f690ff1e476099dbebab83531b89">
+<p nodeId="fa376e19dfaf4cf880a32107201ea757" />
+</td>
+<td rowspan="25" colwidth="[129]" nodeId="539dfd4b4d0c4db3ab15ed61b63f5f5a">
+<p nodeId="fa559cf117de4899aee6dbb1bc48d96e">这一块来源都是监管指令的，通用多半可以吃掉。</p>
+</td>
+</tr>
+<tr nodeId="e0e4eddaa55c4365ab08e260f77ed731">
+<td colwidth="[50]" numCell="true" nodeId="bbef4e0fd08240719507eb1f87f44b1b">
+<p nodeId="60ebab1f7ef94edaa282ce549c1da19d" />
+</td>
+<td colwidth="[184]" verticalAlign="top" bgColor="rgb(255, 255, 255)" nodeId="fe63e77e24904544a5358a4a54cf87cc">
+<p align="start" nodeId="ec215f2cf86f40f7a135aca245d1022c"><span font-size="14">反垄断标准</span></p>
+</td>
+<td colwidth="[278]" verticalAlign="top" bgColor="rgb(255, 255, 255)" nodeId="0ecf6f829f9e478385f8d970f5a8c235">
+<p align="start" nodeId="86d4393a025b43f183130dfb6dd6d6dc"><a href="https://km.sankuai.com/page/1272733192" title="反垄断标准" autoUpdate="true" nodeId="2ec343372cbb4f3281347a88593f5de8">反垄断标准</a></p>
+</td>
+<td colwidth="[75]" nodeId="7353fa53ddc94f93b87f118733a7c556">
+<p nodeId="ad21f00d83994e3fba1f2bbc1ebf0754" />
+</td>
+<td colwidth="[245]" nodeId="2d6b57aed4e74812890011226be8f844">
+<p nodeId="108a537f42b846c0838486ad79199402" />
+</td>
+<td colwidth="[272]" nodeId="5a463466050f4686a29c85e9718b36e0">
+<p nodeId="fcaa79e8e88b458491e199d17a6e9c55" />
+</td>
+<td colwidth="[73]" nodeId="974b673503d74e72be23e7ad7d01b269">
+<p align="center" nodeId="e5e7f26336a84f16a687e4b12eb74799" />
+</td>
+<td colwidth="[86]" nodeId="c951a5a1734c4faf8592f9d469528519">
+<p nodeId="06d9e007e5124f0fb2d8f2b2d56cfd4c" />
+</td>
+<td colwidth="[117]" nodeId="36bdacfe22094ec4a8d21846dbfa274a">
+<p nodeId="3f77054949bc4424978cb9bf1fa90312" />
+</td>
+</tr>
+<tr nodeId="ddaf2fdaa1d54271895f09fec1b82af1">
+<td colwidth="[50]" numCell="true" nodeId="3b6da345372642ea86225bc68b146de8">
+<p nodeId="fbf3727db105471d9b41bb3add9d6ff4" />
+</td>
+<td colwidth="[184]" verticalAlign="top" bgColor="rgb(255, 255, 255)" nodeId="a5bfcd601d30428b9338cf39427fdc10">
+<p align="start" nodeId="f6fd6f374ad1489d896aa9d6b300626d"><span font-size="14">涉疆管控标准</span></p>
+</td>
+<td colwidth="[278]" verticalAlign="top" bgColor="rgb(255, 255, 255)" nodeId="2499072fbb7a40539e5a81d248060727">
+<p align="start" nodeId="6c069b1352a94ae4a33b7d15cc45729a"><a href="https://km.sankuai.com/page/1316145522" title="0518落地标准" autoUpdate="true" nodeId="a8f55a923599426c8dfbd3ab8c0a4710">0518落地标准</a></p>
+</td>
+<td colwidth="[75]" nodeId="e1c2485503714d63a0a490d43e74477d">
+<p nodeId="98a8d57ecf9f48dc906b0285dbd22eec" />
+</td>
+<td colwidth="[245]" nodeId="fc5d8476e0aa48f0ba1e1685644e7b25">
+<p nodeId="d5824431704d46c6af890a096004e1e0" />
+</td>
+<td colwidth="[272]" nodeId="9701a8fc5b4a40f59687fe0fd6b84f57">
+<p nodeId="e10a1dc64cc1492f82943b54abf4dab3" />
+</td>
+<td colwidth="[73]" nodeId="9fcee17203ca4f62bc3bc27f83226678">
+<p align="center" nodeId="5e1cce550bb1443b8deab639f445fc08" />
+</td>
+<td colwidth="[86]" nodeId="fa83853fd9934ec980127c88480adfc9">
+<p nodeId="da76406d135a4366ac968491ea14c510" />
+</td>
+<td colwidth="[117]" nodeId="5496b4a6e3804183a10bcc537125b5ab">
+<p nodeId="363d691a817e44998ced83931bd6db0e" />
+</td>
+</tr>
+<tr nodeId="4499a605bb9c45fcbd87851a88c37d79">
+<td colwidth="[50]" numCell="true" nodeId="4d7ec2e5d49f4fa9a4551d775fc1cff0">
+<p nodeId="a0ae0ec9ed3c4f6b884f3f77d141285e" />
+</td>
+<td colwidth="[184]" verticalAlign="top" bgColor="rgb(255, 255, 255)" nodeId="0261ca88a27d4270b176e75b4219b0c0">
+<p align="start" nodeId="1667cea06cc74921ba2816cbc5e46f9d"><span font-size="14">马来西亚流亡政府691基地管控</span></p>
+</td>
+<td colwidth="[278]" verticalAlign="top" bgColor="rgb(255, 255, 255)" nodeId="9ed0965322d24a0d90a0a86f7b78ed26">
+<p align="start" nodeId="a717eef1f53d4310958207de2a9c8bd5"><a href="https://km.sankuai.com/page/1221263259" title="691基地相关管控标准" autoUpdate="true" nodeId="6c59bc939ef3400185dff5107ff37ade">691基地相关管控标准</a></p>
+</td>
+<td colwidth="[75]" nodeId="bae37e937db04239a3d98464c64c9aaf">
+<p nodeId="a4510a5dc13140658612d61639c58987" />
+</td>
+<td colwidth="[245]" nodeId="16caf43e133b41a787824a62eebcf868">
+<p nodeId="4f729e1d8dc4468b8cf2eb61bf92301f" />
+</td>
+<td colwidth="[272]" nodeId="cc175ab2c7744f61bb3cdb902ee3c871">
+<p nodeId="10928dc6f1994c5c9db5379bce008764" />
+</td>
+<td colwidth="[73]" nodeId="b7430583afd347c4937140c14e8c5c47">
+<p align="center" nodeId="fb20d1406112439f99748fb9af1c3485" />
+</td>
+<td colwidth="[86]" nodeId="e79bec9394ca486880092a860841ef9d">
+<p nodeId="d9f55296a913424dae92390dc993c169" />
+</td>
+<td colwidth="[117]" nodeId="2677cae25db948ada5e0d524f860dc66">
+<p nodeId="9534159795bc4395a39d0314fcd31e36" />
+</td>
+</tr>
+<tr nodeId="afb22ebca19748eda2ee9c207f0166b9">
+<td colwidth="[50]" numCell="true" nodeId="f731d29f58f14ae9b563b5e68dccf268">
+<p nodeId="afabee7ff46940a6b52c66066beb26b6" />
+</td>
+<td colwidth="[184]" verticalAlign="top" bgColor="rgb(255, 255, 255)" nodeId="961827dd32014cc9bee9c08771ac4406">
+<p align="start" nodeId="7caf3fb45c7a4ce9a41f050a0b5bf4a8"><span font-size="14">丑化乡村生活管控</span></p>
+</td>
+<td colwidth="[278]" verticalAlign="top" bgColor="rgb(255, 255, 255)" nodeId="ffaedb86422b4d05a9a674b1a6873823">
+<p align="start" nodeId="811649d64e24443a883e6ed90bf95785"><a href="https://km.sankuai.com/page/1280562724" title="丑化乡村生活、抹黑乡村振兴内容打击标准" autoUpdate="true" nodeId="aadc4a2006904f5cb601eb8226209d86">丑化乡村生活、抹黑乡村振兴内容打击标准</a></p>
+</td>
+<td colwidth="[75]" nodeId="9f2d9ef5a26d4f669bcfcb353269c56a">
+<p nodeId="2039c82db7bd49be830cb160ddfbade8" />
+</td>
+<td colwidth="[245]" nodeId="119ec1209deb4463abb40fceb260612b">
+<p nodeId="b73d6a93f8674dda8ced18e698b9d85a" />
+</td>
+<td colwidth="[272]" nodeId="a00c02021df64b03b36db53542f1430d">
+<p nodeId="9b5386dbebaa46a8be7d09384c143d1d" />
+</td>
+<td colwidth="[73]" nodeId="17cff49391de470e920c19b49bddddb2">
+<p align="center" nodeId="2aff98c59e99404092a3f96c5827d312" />
+</td>
+<td colwidth="[86]" nodeId="462daeb44eef4d669a7605bc14881c6c">
+<p nodeId="541b4d10c41447e08d2d95186071a5e2" />
+</td>
+<td colwidth="[117]" nodeId="5a6fa567858b4ce9824bc998a0998c59">
+<p nodeId="ef2458be4e784930aa777b3ebbdd3e97" />
+</td>
+</tr>
+<tr nodeId="7843ada51f264b51a22f965b03cb2f6c">
+<td colwidth="[50]" numCell="true" nodeId="88c48e50438545bf9982f669a0a884ff">
+<p nodeId="2ac8401726bf451793c953030de96f32" />
+</td>
+<td rowspan="4" colwidth="[184]" verticalAlign="top" bgColor="rgb(255, 255, 255)" nodeId="778349c269a64288b8dfdc8bb88c9c5d">
+<p align="start" nodeId="13e1ee3091fb4beda57b94ef451165aa"><span font-size="14">违禁买卖类标准，梳理后并入通用标准</span></p>
+</td>
+<td colwidth="[278]" verticalAlign="top" bgColor="rgb(255, 255, 255)" nodeId="99d128d2e2444cc3bb5dbd8421fdb1a7">
+<p align="start" nodeId="68ca9e3112c241c0a0af9220f9d6bd18"><a href="https://km.sankuai.com/page/1221413674" title="违禁买卖-22年公考助考信息打击标准" autoUpdate="true" nodeId="c0c1c5aae53f42c69d99d553bdf173c9">违禁买卖-22年公考助考信息打击标准</a></p>
+</td>
+<td colwidth="[75]" nodeId="65ad8b2d52a44e09bd319f24ef60e65f">
+<p nodeId="ce8bc6a927a4442db7c91bff91bce5e6" />
+</td>
+<td colwidth="[245]" nodeId="8db4356a2832453cab5aa2adef7d8323">
+<p nodeId="8aabba8b2e324484be127731ea013f0a" />
+</td>
+<td colwidth="[272]" nodeId="57cadda3570f40eb8daeb50bd66d31aa">
+<p nodeId="6a9c84c41b74447287b98f0d27a86091" />
+</td>
+<td colwidth="[73]" nodeId="e910178d9fae4cc3b99931b806ea1835">
+<p align="center" nodeId="cbbec5d6b3bf4714afe8a7900b661849" />
+</td>
+<td colwidth="[86]" nodeId="2cbdad51268540659a5e824d97598ffa">
+<p nodeId="f34d26729b9e4dcaa52bb5b7f1bc14fd" />
+</td>
+<td colwidth="[117]" nodeId="5f773d9467f14cb7ad7ea59a7fc07bf0">
+<p nodeId="704897aec0c840e3bc5e8b3ac1b66511" />
+</td>
+</tr>
+<tr nodeId="d3e514ea5c4740949e2023086c4b41a9">
+<td colwidth="[50]" numCell="true" nodeId="9a6f1940961946a799cb692afc3efbc3">
+<p nodeId="eb9ff05fd729475cbd5cb73b4c0328c5" />
+</td>
+<td colwidth="[278]" verticalAlign="top" bgColor="rgb(255, 255, 255)" nodeId="3f656f3d4a5a4bc88d2e30eb3f96f577">
+<p align="start" nodeId="cc511d940b6f48548e5da9616806d362"><a href="https://km.sankuai.com/page/1219095226" title="违禁买卖-NLP教练技术有害信息打击标准" autoUpdate="true" nodeId="f97e1369ac064d50be5a5b206b24e4ef">违禁买卖-NLP教练技术有害信息打击标准</a></p>
+</td>
+<td colwidth="[75]" nodeId="e84ac6acfbfe4d04962861c971e64878">
+<p nodeId="aff02601ffd34916be57e4c4929fd3f2" />
+</td>
+<td colwidth="[245]" nodeId="e5e1e21a3bcd4196995110d6d1dd193c">
+<p nodeId="65e3ceaeb84a4738b47ba65430be9428" />
+</td>
+<td colwidth="[272]" nodeId="275919a66baa4484884e0040a1560b00">
+<p nodeId="14dec3ce269c44b7b2afb86a1cedb2fd" />
+</td>
+<td colwidth="[73]" nodeId="e40e1d8c509d47839fc68daaf3e34c7b">
+<p align="center" nodeId="080925602cd5498d92a54a8325dd4fe3" />
+</td>
+<td colwidth="[86]" nodeId="b78ddb77f3c647f6a79528326f2b126e">
+<p nodeId="93828cecd7bb45bab7bb6878e1a046b4" />
+</td>
+<td colwidth="[117]" nodeId="c9b1298d65ee4282bc883adef7b76dd0">
+<p nodeId="17914a0faeb7402580f62f876d1eaa23" />
+</td>
+</tr>
+<tr nodeId="472cbff8d5a54a7c81bffef3c43b6b6b">
+<td colwidth="[50]" numCell="true" nodeId="2f617aeca4cb402488ac4b043a00d89a">
+<p nodeId="3187b604e23141b585b79213ab382d80" />
+</td>
+<td colwidth="[278]" verticalAlign="top" bgColor="rgb(255, 255, 255)" nodeId="1e5775a0c1824965a0968fc4a4d1e75f">
+<p align="start" nodeId="49cf2fa4ec114e9db01436e63f2b21e5"><a href="https://km.sankuai.com/page/1264759287" title="违禁买卖-代开发票" autoUpdate="true" nodeId="cb955b8d07b84247a3a613ff66f6fa94">违禁买卖-代开发票</a></p>
+</td>
+<td colwidth="[75]" nodeId="bd7984e5d60b48f6b8a63dfc128a085e">
+<p nodeId="07503064aa0d4045a887ed9aa6959108" />
+</td>
+<td colwidth="[245]" nodeId="bb09d67858c94d838ec15ba9ec51dcfd">
+<p nodeId="e089e943e0f940029b33a54a79aff7f4" />
+</td>
+<td colwidth="[272]" nodeId="e5e666d89f8742728b7b78c8175d9d29">
+<p nodeId="15a17133d5ad4851bfa4d953a7c6e1a9" />
+</td>
+<td colwidth="[73]" nodeId="0707a76fcc9c4f3fb24e12ac6c673b72">
+<p align="center" nodeId="74bd07f62e034df5a502c3e66212f35d" />
+</td>
+<td colwidth="[86]" nodeId="0d94fad1425b47d288a9d62f4fd280a8">
+<p nodeId="4ace63a0ff604d21a5cc7672e1f21df4" />
+</td>
+<td colwidth="[117]" nodeId="aedfe237f68b48aab1c49c5794a1c277">
+<p nodeId="67c48b8922414c168bf8cd8bb926d9a0" />
+</td>
+</tr>
+<tr nodeId="7f68d71b56494f5695b074c235245242">
+<td colwidth="[50]" numCell="true" nodeId="b747d1b26ac741e489788e6572be8895">
+<p nodeId="b04e399d2a5c4bd2a711086b4b23d324" />
+</td>
+<td colwidth="[278]" verticalAlign="top" bgColor="rgb(255, 255, 255)" nodeId="76216f1c6ac74d518bf4a5acc4f3c8fe">
+<p align="start" nodeId="a13fb612c4b04da490a6f1f8449330e9"><a href="https://km.sankuai.com/page/1215691562" title="违禁买卖-烟花爆竹" autoUpdate="true" nodeId="9cd7bef7d0854c6f83ae19abaf1af2ff">违禁买卖-烟花爆竹</a></p>
+</td>
+<td colwidth="[75]" nodeId="c0eff1c74dac4b77aca275cf624364d0">
+<p nodeId="6bbd2606ad1a4db3a34e899afa51e96c" />
+</td>
+<td colwidth="[245]" nodeId="a286ff5a0de247a58f7dc45dc1effcd6">
+<p nodeId="d8b675ee19e54f2fb4b8ea91df66981a" />
+</td>
+<td colwidth="[272]" nodeId="3cc069f87173480bb840f91c94bd3079">
+<p nodeId="d0fd96023b8640058f3b8246492842b9" />
+</td>
+<td colwidth="[73]" nodeId="daa9890611824fe3a63d6a0462e1f57b">
+<p align="center" nodeId="e960d76aab174284aee405ff2365da21" />
+</td>
+<td colwidth="[86]" nodeId="4a55502f38324dadaa72c160aab79bf8">
+<p nodeId="c0f34116d4f04e458d9120dd10076f72" />
+</td>
+<td colwidth="[117]" nodeId="a847b4200dd141c0bdb4e72954b40fed">
+<p nodeId="e16d9d32c10843dfa37e428e226de0e4" />
+</td>
+</tr>
+<tr nodeId="187ff25afa9544d08dcf6581eda9dd68">
+<td colwidth="[50]" numCell="true" nodeId="5886692949424fca8fa78b5f0b1ef8f1">
+<p nodeId="c23269ae42a4436bb1ab14636656645a" />
+</td>
+<td colwidth="[184]" verticalAlign="top" bgColor="rgb(255, 255, 255)" nodeId="ae274cc7f4254e9496546a8fc51f65d6">
+<p align="start" nodeId="b885a169b11f45cab62adb9a968d6272" />
+</td>
+<td colwidth="[278]" verticalAlign="top" bgColor="rgb(255, 255, 255)" nodeId="ac2a0261d0e14b6f9cab21c9680c34ef">
+<p align="start" nodeId="7e3a2a5ba5e04482a3937519829a815f"><a href="https://km.sankuai.com/page/1143149255" title="中美不当言论标准" autoUpdate="true" nodeId="30a52909141043e0a7e54c81f12a272d">中美不当言论标准</a></p>
+</td>
+<td colwidth="[75]" nodeId="65ce006c2da044ab8dfa321b3b98bc33">
+<p nodeId="171865ed9e4147859e0afb796983d4a4" />
+</td>
+<td colwidth="[245]" nodeId="eebde85b0dfd420e90d675ef3c4325e4">
+<p nodeId="041dc34f3b10488687d80d91a97920b2" />
+</td>
+<td colwidth="[272]" nodeId="1f2bb7f8ca144440a79a6a46b0491af3">
+<p nodeId="d018d0f1a85749198cc8c95c959d782d" />
+</td>
+<td colwidth="[73]" nodeId="3d1b3df32b574745a682e2f0e9ac453d">
+<p align="center" nodeId="c18ceab5e4c547cca6c4f2612da36a60" />
+</td>
+<td colwidth="[86]" nodeId="590e2e91158b47d7b52b4cdd3fe3c415">
+<p nodeId="bbdbd7709b8743109581e0c29578db21" />
+</td>
+<td colwidth="[117]" nodeId="1f2c9e3edba34669896526bb3f6cfbd7">
+<p nodeId="7e34f6544f4846ceb609bedcc4de0d13" />
+</td>
+</tr>
+<tr nodeId="2899ec6c2cdf40548811b79e357a7e19">
+<td colwidth="[50]" numCell="true" nodeId="8d9088eb8f344f7a9492c01db54ded2a">
+<p nodeId="bd4f6d55156240388b94762bbd959e90" />
+</td>
+<td colwidth="[184]" verticalAlign="top" bgColor="rgb(255, 255, 255)" nodeId="b4d251e1d28c4cb9903d0c2699ddbd00">
+<p align="start" nodeId="98fd97afb4a54644a797a2db13815baf"><span font-size="14">清朗未成年人网络环境整治专项</span></p>
+</td>
+<td colwidth="[278]" verticalAlign="top" bgColor="rgb(255, 255, 255)" nodeId="8af2d563ae624ee296ccb9d2196e97f4">
+<p align="start" nodeId="d855e696acb4467abd19e691385c3934"><a href="https://km.sankuai.com/page/1047058197" title="关于清朗·未成年人网络环境整治管控标准" autoUpdate="true" nodeId="5344b23d06ef4157a0014c4d259a79d3">关于清朗·未成年人网络环境整治管控标准</a></p>
+</td>
+<td colwidth="[75]" nodeId="ee05c6dffcdf4bcb919f1f72ada2afdb">
+<p nodeId="f9faf90e2fb34fee85dad6d26bb23f09" />
+</td>
+<td colwidth="[245]" nodeId="912a026d79454738bf2194e8e96f4941">
+<p nodeId="51dfab8562e04f69a30db0bf4b88611b" />
+</td>
+<td colwidth="[272]" nodeId="794899825de2467182b33231a103de9c">
+<p nodeId="66186bc78c7445099bd0c2207f8f1781" />
+</td>
+<td colwidth="[73]" nodeId="4ace25b75d014c889e287337e0cc696c">
+<p align="center" nodeId="3123b91a5e474713809553d4b07da50c" />
+</td>
+<td colwidth="[86]" nodeId="ab1e8f0bc26246afa78bdf4f79336f60">
+<p nodeId="de5330e3b515476aae1890864c4f8be9" />
+</td>
+<td colwidth="[117]" nodeId="5e9f2207c0d44b8599752de416d501b4">
+<p nodeId="f08d4a30eb8e46448f815ca16f18b288" />
+</td>
+</tr>
+<tr nodeId="fd4c8b6fca664db787c5825a20521a2c">
+<td colwidth="[50]" numCell="true" nodeId="942d6ec66fb043ceba0167f4a32e9b79">
+<p nodeId="12c83ca2b19f47189b3fd08e231c3cbf" />
+</td>
+<td colwidth="[184]" verticalAlign="top" bgColor="rgb(255, 255, 255)" nodeId="6b9bc3292311415cabb9db12bc16ec7b">
+<p align="start" nodeId="c9457e9a8fa64a44b3f6605679afcb2b" />
+</td>
+<td colwidth="[278]" verticalAlign="top" bgColor="rgb(255, 255, 255)" nodeId="f1c0f68195c742498c377649ab5c5752">
+<p align="start" nodeId="5db5e5be3c7144a2bac7944c0a23b9ee"><a href="https://km.sankuai.com/page/1213160443" title="鱿鱼游戏标准" autoUpdate="true" nodeId="ab4a42609dcd4061ae1b9cab4167dbde">鱿鱼游戏标准</a></p>
+</td>
+<td colwidth="[75]" nodeId="d2cc735967574fd691fa244aff8bc1be">
+<p nodeId="fdadd2ea98da477a8c1d9f6903efb3ac" />
+</td>
+<td colwidth="[245]" nodeId="db0813204c804eb581e45fa62f2718b0">
+<p nodeId="c0954b2196a64634b757aeb186a86267" />
+</td>
+<td colwidth="[272]" nodeId="89aa2c2c19e54a0ea1e80a7b1cc9975b">
+<p nodeId="2f440f940ca84f09a5fbdfb2c30da137" />
+</td>
+<td colwidth="[73]" nodeId="7601d358caa34a36b9088603c497db99">
+<p align="center" nodeId="3002bca62d5c49948fa02ef55136d78b" />
+</td>
+<td colwidth="[86]" nodeId="d724b895c35d461da2473f5b35948f5c">
+<p nodeId="a5f06af5aebb4dad9e967d6f30054805" />
+</td>
+<td colwidth="[117]" nodeId="56bdf33215ce4b4dbd92e3605d7b87ac">
+<p nodeId="40a74cc727b24cb5ab6a419eeb23cf91" />
+</td>
+</tr>
+<tr nodeId="53ed13400e554bf094b9dd9f752fae9b">
+<td colwidth="[50]" numCell="true" nodeId="54db6db4c05442c292c865c29c34b757">
+<p nodeId="3bd8f13ccdff42ffab3d129f496f738f" />
+</td>
+<td colwidth="[184]" verticalAlign="top" bgColor="rgb(255, 255, 255)" nodeId="9a6a7c8b1e844afca37422e470531677">
+<p align="start" nodeId="30dd708e281e4f7597835410d9506aa0" />
+</td>
+<td colwidth="[278]" verticalAlign="top" bgColor="rgb(255, 255, 255)" nodeId="8f3f6b1e168440c7881289b7fe6ab173">
+<p align="start" nodeId="ceef46e46b71460da5469c3352e2e04a"><a href="https://km.sankuai.com/page/1206782818" title="“一日男友”审核标准" autoUpdate="true" nodeId="367ee179003c41aea185cf9028768293">“一日男友”审核标准</a></p>
+</td>
+<td colwidth="[75]" nodeId="ef602caafe21452ca14b0ba889a5880e">
+<p nodeId="aced9664022e408086ddb40d72746d82" />
+</td>
+<td colwidth="[245]" nodeId="f01707d7cf9a42edb83fa5d0af30153d">
+<p nodeId="fff376f73cbf4c4ab2e5a481f05738f2" />
+</td>
+<td colwidth="[272]" nodeId="6623416e405d4600a295c906db017b0c">
+<p nodeId="937e56f47d884762bf0aeadbd230a223" />
+</td>
+<td colwidth="[73]" nodeId="462a1d66850443f2b465fa252d5c4afd">
+<p align="center" nodeId="7bc5ba19fb2c4a539e50b1f7d6715b6a" />
+</td>
+<td colwidth="[86]" nodeId="1b845f760cb1490a896014e3e2c735a8">
+<p nodeId="46e8837085244447a0c40fb0cef0b228" />
+</td>
+<td colwidth="[117]" nodeId="6af55f381d58483ba84986baed623681">
+<p nodeId="11ec57e624014ded82ddb56b1accc295" />
+</td>
+</tr>
+<tr nodeId="efb9807d3f8147cc92213fb58e4c2cce">
+<td colwidth="[50]" numCell="true" nodeId="6f4a218ca1944cbe8f89557a9678ba67">
+<p nodeId="a0b885292da94f8b8941e78d35e8560a" />
+</td>
+<td colwidth="[184]" verticalAlign="top" bgColor="rgb(255, 255, 255)" nodeId="7e599571285a4953a848900c277d488e">
+<p align="start" nodeId="61cf4e7cdd6f485cbad1b27f26e1b9cd"><span font-size="14">女仆涉黄标准</span></p>
+</td>
+<td colwidth="[278]" verticalAlign="top" bgColor="rgb(255, 255, 255)" nodeId="3260d442111f4a9aa6f31d721bcadb49">
+<p align="start" nodeId="f2eb35cfb9cb4a969ca52637d8c44f41"><a href="https://km.sankuai.com/page/1227274452" title="女仆涉黄治理标准" autoUpdate="true" nodeId="416c6506c1d74a488d696e35cc3f7598">女仆涉黄治理标准</a></p>
+</td>
+<td colwidth="[75]" nodeId="1c82901716e4476fa57f0bdf75c131d0">
+<p nodeId="8c8d90d87072407c8caf891a2ac0368e" />
+</td>
+<td colwidth="[245]" nodeId="99520eaefb894e7789e02e178e84389b">
+<p nodeId="5cdfb4d8aeab42a6900a8aee47185d6f" />
+</td>
+<td colwidth="[272]" nodeId="0d53141bd134414fa834a850023ccd64">
+<p nodeId="5b73f9b21f3044dea116d76813b79812" />
+</td>
+<td colwidth="[73]" nodeId="53a68aa8b35445deae79d29727750193">
+<p align="center" nodeId="7577a094164749638c8c3d776a03d5dd" />
+</td>
+<td colwidth="[86]" nodeId="451d6255871946eab8cdb088b36fa46d">
+<p nodeId="60209eb73f964f3e809a55b5c79d36e8" />
+</td>
+<td colwidth="[117]" nodeId="aa1a54f6075c4c0c94aa8652b907a640">
+<p nodeId="25266bb2ac9d417cbb52f496864116b9" />
+</td>
+</tr>
+<tr nodeId="652a569cf93840f8bf190a71327814bb">
+<td colwidth="[50]" numCell="true" nodeId="114bb4e9254c4aebaf9761c39f03d03e">
+<p nodeId="1edb4ed003b74c84babb77ffdb82953a" />
+</td>
+<td colwidth="[184]" verticalAlign="top" bgColor="rgb(255, 255, 255)" nodeId="3d950e7aa96e4126ad856f5c314ec26e">
+<p align="start" nodeId="e99a55fc96274fd2824d3a4002ea1929" />
+</td>
+<td colwidth="[278]" verticalAlign="top" bgColor="rgb(255, 255, 255)" nodeId="1bfaed731d1a44aba680a89298008291">
+<p align="start" nodeId="5779a700fa774a45ae05449776a4bb41"><a href="https://km.sankuai.com/page/1229878836" title="南京大屠杀公祭日内容发布审核标准" autoUpdate="true" nodeId="d7b5dea28989485297b1232979c7b8e8">南京大屠杀公祭日内容发布审核标准</a></p>
+</td>
+<td colwidth="[75]" nodeId="278306b221e846a8ab98a60d69a499ae">
+<p nodeId="1a24e39dae35465e946a684134205051" />
+</td>
+<td colwidth="[245]" nodeId="da538a4372b040a0b3cee08007040cf8">
+<p nodeId="7879d4994f5445aaa6309b3458690714" />
+</td>
+<td colwidth="[272]" nodeId="8617b543cfd648d9874cb73c23e4482a">
+<p nodeId="8d0059f9af1944f3bd361d1f6ef7793a" />
+</td>
+<td colwidth="[73]" nodeId="e886f97a58af4f3bbb195e58ae445b7e">
+<p align="center" nodeId="4e969539fcf04c22af5ae147e0d974a0" />
+</td>
+<td colwidth="[86]" nodeId="bb5327d2d40246a090b077fcead5b7cd">
+<p nodeId="5d0e9dac59324e0f907a45849a351e9b" />
+</td>
+<td colwidth="[117]" nodeId="e8b8e5144628467f868ee12ab356feb4">
+<p nodeId="73ffe6a62bc940a190b569b4ea5ef673" />
+</td>
+</tr>
+<tr nodeId="3e701e3203c44003a979ada4da6f8f0f">
+<td colwidth="[50]" numCell="true" nodeId="e3a65bc9c8ac45228703de23678946f9">
+<p nodeId="b49cc754a117426984911376b4636bed" />
+</td>
+<td colwidth="[184]" verticalAlign="top" bgColor="rgb(255, 255, 255)" nodeId="d488a7d336df4b3389b36ef2ef841f34">
+<p align="start" nodeId="bf0c5f5ddfed43d2b119aad8c1d881e6"><span font-size="14">胎儿性别鉴定标准</span></p>
+</td>
+<td colwidth="[278]" verticalAlign="top" bgColor="rgb(255, 255, 255)" nodeId="415df505029346eaa3e1719441d853a4">
+<p align="start" nodeId="45dccba0bce8451586c315eef387a568"><a href="https://km.sankuai.com/page/1299382129" title="胎儿性别鉴定" autoUpdate="true" nodeId="eb5f5967b2c642d099557c6a0e6fee34">胎儿性别鉴定</a></p>
+</td>
+<td colwidth="[75]" nodeId="8c51172f45364adfa547c7be5580a415">
+<p nodeId="7b94e863eae543769e14987666538df9" />
+</td>
+<td colwidth="[245]" nodeId="e4ef990ef46d40e68dfae8d4c3327e3d">
+<p nodeId="4ee47dba4d334b2abffae377140e4f3a" />
+</td>
+<td colwidth="[272]" nodeId="3b8bd565dfed4ed391ccd48e15c0de1f">
+<p nodeId="62d8dd6b0c9c4698bacc44c85989f0c6" />
+</td>
+<td colwidth="[73]" nodeId="18e82ec2839f4db4b3eeee86a0a233cc">
+<p align="center" nodeId="73c4fe82b84b494a9928f63722ac2dcb" />
+</td>
+<td colwidth="[86]" nodeId="805daa2185c245a689a6d1c86b11015a">
+<p nodeId="d5580f34b77b4160931b4f7f887cd53b" />
+</td>
+<td colwidth="[117]" nodeId="f4b915656506455283a908cef983753c">
+<p nodeId="625ae0337238424ba8f418cf4deb420e" />
+</td>
+</tr>
+<tr nodeId="72308d930d6e45bb81f7e643d125cd17">
+<td colwidth="[50]" numCell="true" nodeId="257813d8b8ec4a3084ce647560f19ce7">
+<p nodeId="983f28bf0dad4f7ea2f09f8bc1cc31cb" />
+</td>
+<td rowspan="2" colwidth="[184]" verticalAlign="top" bgColor="rgb(255, 255, 255)" nodeId="22039a00ae4b46a69c168b444f0b4306">
+<p align="start" nodeId="5b5b96b194c04210911f7493edd9b71e"><span font-size="14">节日管控标准，后并入风险日历预警</span></p>
+</td>
+<td colwidth="[278]" verticalAlign="top" bgColor="rgb(255, 255, 255)" nodeId="e2bc633972424c06886f43166783ef74">
+<p align="start" nodeId="0088120a8595473e99201ccc72f23bc3"><a href="https://km.sankuai.com/page/1216044815" title="洋节管控标准方案" autoUpdate="true" nodeId="c16c1b78f217481cbc7f043678f964c0">洋节管控标准方案</a></p>
+</td>
+<td colwidth="[75]" nodeId="6b728490429440d09b8db0adfd50625f">
+<p nodeId="fe3d64e1ea994a12a8a488251aacd23c" />
+</td>
+<td colwidth="[245]" nodeId="e278d65622aa4cd79251cb74d494b21e">
+<p nodeId="8281be2d139547bc834c7ee49e94495b" />
+</td>
+<td colwidth="[272]" nodeId="8be2ae6e442b4f34a4c997a656c08c7c">
+<p nodeId="45b66f2f1c044ed593ba14af58720728" />
+</td>
+<td colwidth="[73]" nodeId="a3960c03b2f84b2a95def965a83bd2a6">
+<p align="center" nodeId="df16cb81dd6941de93d563210415b278" />
+</td>
+<td colwidth="[86]" nodeId="0c2f583730104dccb44c91254d676e26">
+<p nodeId="9ff842eb4b984f63af784518a98962c8" />
+</td>
+<td colwidth="[117]" nodeId="e4eeccab914c46759d4c39eac2291e37">
+<p nodeId="7937c737fc234034896b0964c65af22d" />
+</td>
+</tr>
+<tr nodeId="9bebe09d4f844ea68bcec461329c336e">
+<td colwidth="[50]" numCell="true" nodeId="33acd70f4d424181a65d9983a11786c9">
+<p nodeId="422e3158c5df482d83a755b4c8fa5e40" />
+</td>
+<td colwidth="[278]" verticalAlign="top" bgColor="rgb(255, 255, 255)" nodeId="1010199845784aa69c69467b7eca6361">
+<p align="start" nodeId="847139723eda49928f289d3f5ffdeb4f"><a href="https://km.sankuai.com/page/1230713162" title="圣诞节管控标准" autoUpdate="true" nodeId="1d7ad7cab376426ca7f09092a5f459d2">圣诞节管控标准</a></p>
+</td>
+<td colwidth="[75]" nodeId="26c7d2f6362248f999b1dcaceb0998cc">
+<p nodeId="67a03b0f485f4336a71537b48c252b66" />
+</td>
+<td colwidth="[245]" nodeId="84c1f46927784d618e14fb4fcad76234">
+<p nodeId="273f4da3e3574b19805712f2f061b78b" />
+</td>
+<td colwidth="[272]" nodeId="fc8df048293c428ab08a85d8837afdbd">
+<p nodeId="20fd80bc9eb14ba3a869fa641c4af61e" />
+</td>
+<td colwidth="[73]" nodeId="5ab846e3b810442ebb5ecbf1f166faad">
+<p align="center" nodeId="1de766c477534b309f70493021b291fb" />
+</td>
+<td colwidth="[86]" nodeId="514e2fc744664f3f9722e7600b24f5b5">
+<p nodeId="378ee77910be4f6db738995b41f4a882" />
+</td>
+<td colwidth="[117]" nodeId="1855cf8d0c0c47e8b872d28ce6df172e">
+<p nodeId="38b969948c7d45bfa841bae051d9abed" />
+</td>
+</tr>
+<tr nodeId="eac6310696f64bc7b424b40ce7495ab1">
+<td colwidth="[50]" numCell="true" nodeId="bc98cb9deca4464a917c9eebba3589a1">
+<p nodeId="4b884be3f9fc4d00831e640270ee1cb7" />
+</td>
+<td rowspan="2" colwidth="[184]" verticalAlign="top" bgColor="rgb(255, 255, 255)" nodeId="d02657d80a044c98b5581061265956b9">
+<p align="start" nodeId="660a64bf10994fbeb6faf4a26b84ed62"><span font-size="14">新冠、坠机应急标准，并入涉政-社会负面事件</span></p>
+</td>
+<td colwidth="[278]" verticalAlign="top" bgColor="rgb(255, 255, 255)" nodeId="920ebadd97f447e9847ebec6fdd934fa">
+<p align="start" nodeId="d43e588d78664de4a1e293f6971bea75"><a href="https://km.sankuai.com/page/1273780486" title="传染病（新冠Covid-19）疫情突发应急审核标准v2.5" autoUpdate="true" nodeId="f687d969a26a4b4a950017dfcb7e5eb6">传染病（新冠Covid-19）疫情突发应急审核标准v2.5</a></p>
+</td>
+<td colwidth="[75]" nodeId="6dee55ebf9a747ea9b9b6b07cf74ac92">
+<p nodeId="a761e9d93625498a9dd984e006e70ed6" />
+</td>
+<td colwidth="[245]" nodeId="3565613074aa4844b9391b9223bb2979">
+<p nodeId="2d8e5f5d318349758f062576c6121166" />
+</td>
+<td colwidth="[272]" nodeId="1a4773e3bc6e4bd8b8c8e4b5864b9381">
+<p nodeId="25727674261e4fe08be84e48d2405178" />
+</td>
+<td colwidth="[73]" nodeId="4cf5947948104ac59bc3f4d7e0491889">
+<p align="center" nodeId="a1423cd75ec448798105a76748d240fc" />
+</td>
+<td colwidth="[86]" nodeId="fc7a293fa87548f8a10e8f351ae183c1">
+<p nodeId="0b947c20c5b94c5390a1657737e84061" />
+</td>
+<td colwidth="[117]" nodeId="943cc0d62dd9486684226303d2cf7570">
+<p nodeId="8a4054634c65499abeb66e3592b3696f" />
+</td>
+</tr>
+<tr nodeId="064d08174b934d51ae2b3f84003019e7">
+<td colwidth="[50]" numCell="true" nodeId="4452b7fe86f946a289c94f7d5c901a85">
+<p nodeId="c47f8a720d2c496b85451a1b83678f4b" />
+</td>
+<td colwidth="[278]" verticalAlign="top" bgColor="rgb(255, 255, 255)" nodeId="a5ccabf80d594aa1a56cc03dc94fb0bc">
+<p align="start" nodeId="af826ac71d314761a2a3c3ff86841275"><a href="https://km.sankuai.com/page/1294258078" title="社会负面事件之特大交通事故（MU5735）" autoUpdate="true" nodeId="f14410ba8200485197cc6ae9c9083500">社会负面事件之特大交通事故（MU5735）</a></p>
+</td>
+<td colwidth="[75]" nodeId="a5502a2dcba843c78dc73e212b889756">
+<p nodeId="0677d2d79f534d65bb4bc693c0f33d15" />
+</td>
+<td colwidth="[245]" nodeId="ef4e6c53d5874b21a6afae34a61cb0e5">
+<p nodeId="924dd560a0a944f59c51fab912f0915c" />
+</td>
+<td colwidth="[272]" nodeId="bd5fa1ccbb0f42c6b73fcde61b5b439d">
+<p nodeId="72c84d525b8f48cb915abe8273ec8a80" />
+</td>
+<td colwidth="[73]" nodeId="38dabfc7c4d24f3d8b432aa0c23db836">
+<p align="center" nodeId="266216419c454766ab54276ec5d5219d" />
+</td>
+<td colwidth="[86]" nodeId="96f27846df744b0ab99321b732c2ca76">
+<p nodeId="4be8be9daf4d42b7a1f155038b137ca7" />
+</td>
+<td colwidth="[117]" nodeId="1b9e195f4ad948fcbd22df2e14cc864f">
+<p nodeId="a8b18ae496624d6c8450f10abccb87e8" />
+</td>
+</tr>
+<tr nodeId="4a895424b35945a09628f3d5355775e2">
+<td colwidth="[50]" numCell="true" nodeId="2a8c08cd0c6a456fbe2168fa8e634a67">
+<p nodeId="dc9d161bf6b34392be0e26b51d525a2b" />
+</td>
+<td colwidth="[184]" verticalAlign="top" bgColor="rgb(255, 255, 255)" nodeId="138268d933124fcb94f7774602bcca75">
+<p align="start" nodeId="1acae3fa52fb439e9058963d240cbb1c"><span font-size="14">违禁内容-电子烟管控标准</span></p>
+</td>
+<td colwidth="[278]" verticalAlign="top" bgColor="rgb(255, 255, 255)" nodeId="246b8f13d85345c4a6c69811fc64d9fe">
+<p align="start" nodeId="6ee33fdd180c4f578443cfca17e4fc1c"><a href="https://km.sankuai.com/page/1270162756" title="电子烟管控补充规则20220107" autoUpdate="true" nodeId="6b9e5c554776408c89e2eaba23afbee6">电子烟管控补充规则20220107</a></p>
+</td>
+<td colwidth="[75]" nodeId="35f9f2610b07415e8ebf092f40b276a4">
+<p nodeId="0633fe445b0a40a382e56ba793ca443c" />
+</td>
+<td colwidth="[245]" nodeId="1cc57fadc4c94befb75c072f5bf8999a">
+<p nodeId="56718752d6e747a4a06ac8fa0f55ce78" />
+</td>
+<td colwidth="[272]" nodeId="3c7df4b78357433aa459b1837e0cb50f">
+<p nodeId="7e08493c97ad45d5aacc17ab08437783" />
+</td>
+<td colwidth="[73]" nodeId="fa9b2f705a504088a094713e9f33199f">
+<p align="center" nodeId="a2f824072e3a417b94f8a358b2321dfc" />
+</td>
+<td colwidth="[86]" nodeId="1adad538317544cb8d1425b5378ac9ac">
+<p nodeId="cb8a3c0266e747fa90cf3458f89b2c02" />
+</td>
+<td colwidth="[117]" nodeId="8bd5c9c5186e403191821e98741623a3">
+<p nodeId="8d52edf26c554352a5c4e4c770969b65" />
+</td>
+</tr>
+<tr nodeId="d1f6cd7fa3f549a7b4b8ea1162b8dc86">
+<td colwidth="[50]" numCell="true" nodeId="4544a1a7419545a1a767edfcd38f3221">
+<p nodeId="4411d4f565b94d92866754f694d36ada" />
+</td>
+<td colwidth="[184]" verticalAlign="top" bgColor="rgb(255, 255, 255)" nodeId="16625ba0f2c148d584bdde821aa8b599">
+<p align="start" nodeId="bd7c140cdfb746c7880ce4774cbd02ac"><span font-size="14">宗教剧本杀管控</span></p>
+</td>
+<td colwidth="[278]" verticalAlign="top" bgColor="rgb(255, 255, 255)" nodeId="77ef419ba3564752864fbbace098bacf">
+<p align="start" nodeId="215b3fe78bae4bc394956955452cf999"><a href="https://km.sankuai.com/page/1269178268" title="剧本杀《椰枣》相关处置标准" autoUpdate="true" nodeId="0c657b76a5f641ca9d2fb71d8ea377ac">剧本杀《椰枣》相关处置标准</a></p>
+</td>
+<td colwidth="[75]" nodeId="9d0c412713d1436ca4a0f31f091a0ad8">
+<p nodeId="15455188525f4dbc8ba156ba39c517f9" />
+</td>
+<td colwidth="[245]" nodeId="118871b8c0bb4115a06ac09a9e1f4603">
+<p nodeId="80afcf75adc943a5b704abc00a05e35a" />
+</td>
+<td colwidth="[272]" nodeId="4c79c13e738248a88ed03fc4ff8af82e">
+<p nodeId="3988ba6e3c14419e80ca9b490574a19d" />
+</td>
+<td colwidth="[73]" nodeId="380498f22b014379808f68addffd0f16">
+<p align="center" nodeId="39772ddb3b554d29a0c1dba570a09988" />
+</td>
+<td colwidth="[86]" nodeId="23bccd17ab394bbe868a26b7a85e5423">
+<p nodeId="a71c7119f34b4eeea0f56ae32c3fecd2" />
+</td>
+<td colwidth="[117]" nodeId="2143f4718f324ecb85557462414792b0">
+<p nodeId="2e4f5529c8464d069688b68c92d12fea" />
+</td>
+</tr>
+<tr nodeId="3528b3d0b26f433291495890d9d31c8a">
+<td colwidth="[50]" numCell="true" nodeId="85ee6538e4fe48dea13c60a7d7aa9d29">
+<p nodeId="8868f10a6e5d40578297e921c49d7654" />
+</td>
+<td colwidth="[184]" verticalAlign="top" bgColor="rgb(255, 255, 255)" nodeId="e6a6106943e74d958b00c06429e6d4d2">
+<p align="start" nodeId="aa6e7c6868464c2e943b3e1aa29168a4" />
+</td>
+<td colwidth="[278]" verticalAlign="top" bgColor="rgb(255, 255, 255)" nodeId="e3c6ce756d0c46bdba0b707ee36cbb1b">
+<p align="start" nodeId="ef36082ff1c742a0ba831ca8934a4519"><a href="https://km.sankuai.com/page/1286567096" title="战争冲突应急增补标准" autoUpdate="true" nodeId="4eb0969d2880485fbbe2507044841457">战争冲突应急增补标准</a></p>
+</td>
+<td colwidth="[75]" nodeId="91c0efcb4778446b9ca175767d3ac10d">
+<p nodeId="c0dba843873a4858885b5d468f5d0ed9" />
+</td>
+<td colwidth="[245]" nodeId="004cba04beb54a2b85d93449b6c74234">
+<p nodeId="1b7dfab185d84f429ce42d314639f01b" />
+</td>
+<td colwidth="[272]" nodeId="ee501374057f49d0897c2e645952e73f">
+<p nodeId="9fe87157c74843a89d68724cc91a90be" />
+</td>
+<td colwidth="[73]" nodeId="af792611ff614c268912a8de71000e80">
+<p align="center" nodeId="5bb281d219fb410fbadc6bf439a01311" />
+</td>
+<td colwidth="[86]" nodeId="509f16ff310b4730a9085c1eba7184b1">
+<p nodeId="283aa118306d4d278e0efb6f607e9b98" />
+</td>
+<td colwidth="[117]" nodeId="5a96e9ae7e5a4632a29851cf3d6d9142">
+<p nodeId="e08f939765a74fc58096df27f56e63f4" />
+</td>
+</tr>
+<tr nodeId="ff53b1151d3b414eb3966810f3f8dd3b">
+<td colwidth="[50]" numCell="true" nodeId="3400109f7c534703ada7b7af4a29a540">
+<p nodeId="095a235769704a50a5e1a641fd926892" />
+</td>
+<td colwidth="[184]" verticalAlign="top" bgColor="rgb(255, 255, 255)" nodeId="725910aa555d4733b2159af5ed3b24da">
+<p align="start" nodeId="78a794bcc7e34ddf927a0587a67de885"><span font-size="14">违禁内容</span></p>
+</td>
+<td colwidth="[278]" verticalAlign="top" bgColor="rgb(255, 255, 255)" nodeId="c79dd810c089493f902aa8dc668e277a">
+<p align="start" nodeId="687c1b19b6b044988a0253584aaafd3e"><a href="https://km.sankuai.com/page/1275813182" title="违禁游戏应急增补标准" autoUpdate="true" nodeId="3db6f572cd5047aca5f8dc3a359da25f">违禁游戏应急增补标准</a></p>
+</td>
+<td colwidth="[75]" nodeId="0f3f409adce74bc7bcef4955602aa33f">
+<p nodeId="d016aa96984f47a8967953f93bcfae77" />
+</td>
+<td colwidth="[245]" nodeId="c6c8ff0ddd9d4147af00ea40a15a3564">
+<p nodeId="db3175e5a8dd4f07a7f58160c8fee095" />
+</td>
+<td colwidth="[272]" nodeId="c8e8507c367248feab468f23d266210b">
+<p nodeId="f6ebdeaef34841719f481fa3e3ab04a5" />
+</td>
+<td colwidth="[73]" nodeId="b5755f321ccc4670bd8049dda0f3403f">
+<p align="center" nodeId="efaaaaed18824082846e1238d0be61e6" />
+</td>
+<td colwidth="[86]" nodeId="67dab71e77dd424980a85b6f5c30b560">
+<p nodeId="a2d9c6d5dc7e42b586a7b07209ea1cbb" />
+</td>
+<td colwidth="[117]" nodeId="e25d6b77ebbe44dab85af92af58d8ed9">
+<p nodeId="97818446ab0f491f96c1be0e32711047" />
+</td>
+</tr>
+<tr nodeId="100acad6ae824435bcea0480bdee62fe">
+<td colwidth="[50]" numCell="true" nodeId="f49fa05052ec439a98a516a9dd2417ee">
+<p nodeId="8ccc0f772d374a31a1817790e73f507d" />
+</td>
+<td colwidth="[184]" verticalAlign="top" bgColor="rgb(255, 255, 255)" nodeId="6fbae7e13afd4183b505e18d7c67d4f1">
+<p align="start" nodeId="eef5a8298a304f9b9f5ead614dba106c"><span font-size="14">三春专项标准</span></p>
+</td>
+<td colwidth="[278]" verticalAlign="top" bgColor="rgb(255, 255, 255)" nodeId="2ba9ed5fe7ff437796b75500c3b7aa79">
+<p align="start" nodeId="abc7b59c995a4c5c9c62748740e5ba60"><a href="https://km.sankuai.com/page/1276502679" title="三春（春节、春晚、春运）专项应急增补标准" autoUpdate="true" nodeId="6deaa2127cb24e2c9e8a4522961c086a">三春（春节、春晚、春运）专项应急增补标准</a></p>
+</td>
+<td colwidth="[75]" nodeId="69f2bd18402c4ab9b32130032dc5c4f1">
+<p nodeId="0e66dc8bbd484935972b96096a5ec3ba" />
+</td>
+<td colwidth="[245]" nodeId="781e7e7a8cdc469e99104f0b5990e495">
+<p nodeId="7739b72c779a44d2b66e667b12570bb4" />
+</td>
+<td colwidth="[272]" nodeId="22ee7a07e0dc452387a6a0552ca1d3cb">
+<p nodeId="cc5df106ca4449c8be8973bb4e36de0c" />
+</td>
+<td colwidth="[73]" nodeId="36e8d37f542245b89a57658313f30b35">
+<p align="center" nodeId="021c1701c5f442fe91f66a59d5c54003" />
+</td>
+<td colwidth="[86]" nodeId="5b56517406dd4e848170b08aa635cb12">
+<p nodeId="af91ce351f1f40e2835d2c64bcda4f7c" />
+</td>
+<td colwidth="[117]" nodeId="b103ffaee23f47748ab039ccdc2f6645">
+<p nodeId="4b9d2b8697344e9d9b509392426c4dfa" />
+</td>
+</tr>
+</table>
+</km-doc>

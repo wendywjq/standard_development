@@ -1,0 +1,1266 @@
+# C类 | 业态标准适用任务流
+
+[返回目录](../../README.md) · [学城原文](https://km.sankuai.com/collabpage/1673989461) · 已保存正文 · 2026-11-19
+
+> 正文保留表格和折叠结构。图片和媒体仅保留原始链接，需要学城访问权限。完整源数据见同目录 source 文件。
+
+<div>
+<h1 id="b-ddf0f94c1a3d4ecc95f4293afce30a81">C类 | 业态标准适用任务流</h1>
+<table id="b-2faae19c677c499f9586d90f02f228e0">
+<tr id="b-3db1ccbae0f845e68f51f826fe2e2cd6">
+<th id="b-49e33a6c36cd41a681559cb36629b020">
+<p id="b-c400be23a29a4b7d80d5a511cb2f2e3f" style="text-align:center"></p>
+</th>
+<th id="b-1097ee36a8e44145a28348876041a812">
+<p id="b-31bd890cb9a14182a852a037419eec9b" style="text-align:center"><strong>任务类型</strong></p>
+</th>
+<th id="b-7f3e08a3860f4d649f7759f1547c4108">
+<p id="b-2039e1f77c794b44bb08fd5dfebfbe1c" style="text-align:center"><strong>任务流名称</strong></p>
+</th>
+<th id="b-d0e156b546094f47af7fd47546322c5c">
+<p id="b-7844066b1df94d9ab2a8a51e11b6dfe3" style="text-align:center"><strong>适用标准</strong></p>
+</th>
+<th id="b-9afab1d8129841698da2b0abfd175a41">
+<p id="b-316c0b6f24bf4a43a4b37f7917c8a017" style="text-align:center"><strong>具体链接</strong></p>
+</th>
+<th id="b-dbecce97fbae4ecbadf6e12a95e8258a">
+<p id="b-93162b98ffe5400488b45e9c69aa8066" style="text-align:center"><strong>具体涵盖的TYPE</strong></p>
+</th>
+</tr>
+<tr id="b-ecb42b1fd8cb4df59fa27dbefd90c160">
+<td id="b-ed75893ed83c4735ae65b380f55a73d9">
+<p id="b-2732c9c11c194597a08301ce2e711d7c" style="text-align:center"></p>
+</td>
+<td rowspan="2" id="b-48f639a49b5745e0981d6f2cc4b42fb6" style="vertical-align:middle">
+<p id="b-b71eb8f777904f218877e1a6736a8ab9" style="text-align:center">回扫</p>
+</td>
+<td id="b-822f068895b245caa07928ce61ba5924" style="vertical-align:middle">
+<p id="b-8f39759b61fb460687804260a2600e47" style="text-align:center">仅IM业务抽审_图片</p>
+</td>
+<td rowspan="8" id="b-9aac827ca72243fd97b2e034e6e62fb7">
+<p id="b-9bf310409db348488c2c8cc0dd6d7d64" style="text-align:center">单模态 - IM标准</p>
+</td>
+<td rowspan="8" id="b-5225486b337e433fac0b14ca6882eacb">
+<p id="b-a8c83ecfe72c4180a8183204e20ecb6c" style="text-align:center"><a href="../1229198252/README.md" title="学城原文：https://km.sankuai.com/page/1229198252；已保存正文" id="b-71131c7857bf448f8e8aaf5ec683d8aa">IM标准</a></p>
+</td>
+<td id="b-be67537a075048c2bf99ed5d440d9e7d">
+<p id="b-1e52e4ad711a4dfd8eeccaf50ef28f99">暂无</p>
+</td>
+</tr>
+<tr id="b-506fec54da7246a78f103ee31cd17391">
+<td id="b-880a4e65367c4cd5b6c9075987bdea7c">
+<p id="b-db9e5803fdda4de68c65e491d16b6f59" style="text-align:center"></p>
+</td>
+<td id="b-a120425e4b4b417686db0dcb79e62cd9" style="vertical-align:middle">
+<p id="b-3a42e48a4a094d65908c0afa5b1f81a2" style="text-align:center">仅IM业务抽审_文字</p>
+</td>
+<td id="b-b319134be76b4ec4b270d6c58fc0cfba">
+<p id="b-0f0bd3aa99634dd1b94ac07a8f1a5af1">11003	到综在线咨询-商户文字（普通类目）</p>
+</td>
+</tr>
+<tr id="b-ddfc12f0820e433d862bbdc630d25e92">
+<td id="b-749a43cc5f2e4a59a244219c414fd2f7">
+<p id="b-b46a5ab279314e32b133260168f30a21" style="text-align:center"></p>
+</td>
+<td rowspan="6" id="b-b841f62b2b62410d98204925ab0bc4b5" style="vertical-align:middle">
+<p id="b-cbf3a2b769d24287a352a9a2873a391a" style="text-align:center">实时</p>
+</td>
+<td id="b-dddc9a7f2f974400b689a8ef704658cb">
+<p id="b-4ba33c7746ba4160ad088c35f61e90a5" style="text-align:center">25分钟到家im二审</p>
+</td>
+<td id="b-7daada1b729c4142939be6ea707e4ce9">
+<p id="b-b43a987ea1c74cb0a6aed105788d33ad">11131	外卖IM群-文字</p>
+<p id="b-29e3254d51644381abd6d1cfed58efc7">11207	IM群聊消息</p>
+<p id="b-a282afb2bfc240fcac9b051aa889605a">20458	闪购商家-用户群聊</p>
+<p id="b-89a103fc431c4ce7a9d452d0ba4099f2">20696	医药-商&amp;用群聊（非成人）-图片</p>
+<p id="b-b4308f1eacd74a6b99b9f961738f24e2">40135	外卖IM商户&amp;用户群聊-视频</p>
+<p id="b-179eff406f5741289ae75ca5059cca89">40274	团长群发消息-视频</p>
+</td>
+</tr>
+<tr id="b-8154f98826184be9a702fdee62b864e8">
+<td id="b-0790da9dc661426a8c5d9cd238aad2d8">
+<p id="b-9b06ad45b5044e3a987980b1229d6b6c" style="text-align:center"></p>
+</td>
+<td id="b-89b18ff55750432f914aeb9acc858b81">
+<p id="b-8e4e6e3af4dc4de2a7a509f4e669dc05" style="text-align:center">25分钟到家im一审</p>
+</td>
+<td id="b-8545af460dd74790b139ce168cfc0724">
+<p id="b-f02111878c324d138a5cb4cf24cd0218">11131	外卖IM群-文字</p>
+<p id="b-a7468119d70c4f9a9c6e65ce9f4a1980">20545	外卖IM商家-用户群聊-图片</p>
+<p id="b-9f447394a3ed41b2b0020522269fb3b1">40135	外卖IM商户&amp;用户群聊-视频</p>
+<p id="b-8c2a6ddff86f44fc9486ed7013ae2084">11636	团推素材-文本</p>
+<p id="b-c18d8b44757941ec950d62371a39046b">21042	团推-图片素材</p>
+<p id="b-1a4a1d87f0f04fe6990d37650ba06f6b">40274	团长群发消息-视频</p>
+</td>
+</tr>
+<tr id="b-b8bf3d0b57ad42e69a05b0e65f2c51ec">
+<td id="b-3147cf5b34924bc48c758f53a84d50eb">
+<p id="b-c601367548234bd7a90af66062b32303" style="text-align:center"></p>
+</td>
+<td id="b-8b8227044d104a8ca595c6e9e2a8880d">
+<p id="b-e221558864be4e9f9008ee2a6bb9bd72" style="text-align:center">到店25分钟实时IM</p>
+</td>
+<td id="b-b9691688684c4895ba3fec03e8ac9d6d">
+<p id="b-7b1835437e874927b5b01563636dd138">10977	美团休娱拼场-文字</p>
+<p id="b-1881035a27574566985d961eb8da8da0">11611	商家IM-到综欢迎语文字（普通类目）人审</p>
+<p id="b-0ee1e53b23114ffba4099fffb5092b13">11612	商家IM-到综欢迎语文字（高危类目）人审</p>
+<p id="b-4fc6b91f2eca452f9cdd9081aad7aa3e">20672	美团休娱拼场-图片</p>
+<p id="b-0be38da8ab374c088b1f90fe94937ac6">10977	美团休娱拼场-文字</p>
+<p id="b-482a4521db5f45f28329e8aac83c48f1">11611	商家IM-到综欢迎语文字（普通类目）人审</p>
+<p id="b-233a25c49d264092a2ab83d09d81450b">11612	商家IM-到综欢迎语文字（高危类目）人审</p>
+<p id="b-198780a6992749f9be10c5b742724999">20672	美团休娱拼场-图片</p>
+</td>
+</tr>
+<tr id="b-5867a08fcb8947bb8af0103964a480ba">
+<td id="b-00b6458e24914fa480391f4a7fd06817">
+<p id="b-e82a94f0451b42749286f989cabb370f" style="text-align:center"></p>
+</td>
+<td id="b-91193697c4754556aa7dbb396cc884c1">
+<p id="b-119ee67957b24bffbfd2edde7852033e" style="text-align:center">到家25分钟IM骑手涉政专项</p>
+</td>
+<td id="b-1a771e69335c4391ac398d61fbe0bdf7">
+<p id="b-72a24451522049f89dff7af47551f1e0">11254	 IM-骑手&amp;站长-文本-异步送审</p>
+<p id="b-96a25befcd1b4b85afc902b1a19bb75b">20537	IM-骑手&amp;站长-图片</p>
+<p id="b-c0412ed2172e43d3a64f876af7eb56a2">40089	IM-骑手&amp;站长-视频</p>
+</td>
+</tr>
+<tr id="b-781e99029f1d49e4b589ee04a799e60b">
+<td id="b-5c4380d6ce414f829d347a567924bc7f">
+<p id="b-727901dcee264397b6e155ca3a773535" style="text-align:center"></p>
+</td>
+<td id="b-943c5240d5f74be7864615c6c0557129">
+<p id="b-826f8cefab784ac381214eebbb6ca907" style="text-align:center">闪购IM</p>
+</td>
+<td id="b-42bf7ad0ebb543c7b59774bf45f771df">
+<p id="b-13a9958e45db4a24a6636b4834ec0d2e">11208	用户输入的话术-文本</p>
+<p id="b-6425981bf4e049ac868b7bca051dcb9e">20458	闪购商家-用户群聊</p>
+<p id="b-854f39fe7ba74cadbd6878f5d1b1008b">11208	用户输入的话术-文本</p>
+<p id="b-9f38127c806f433884b85f9d74774aae">20458	闪购商家-用户群聊</p>
+<p id="b-b7ff0c383992423d9a8f73bf5bc56cd9">11208	用户输入的话术-文本</p>
+<p id="b-7ba2932759344b2f817ccc85ac6a38ba">20458	闪购商家-用户群聊</p>
+</td>
+</tr>
+<tr id="b-b738aed1ab6a461bbe591da528212c0f">
+<td id="b-45c80e0289ab4b10a3b48c6c34d8474a">
+<p id="b-f47d172a3b644aa7b51b3155a3ebaf05" style="text-align:center"></p>
+</td>
+<td id="b-33ad6b64075f44f3999556c9010a977b">
+<p id="b-e915ba3b4f034c149033f67d4e79c6ea" style="text-align:center">医药IM</p>
+</td>
+<td id="b-aa8ba67b0d724a15871dd7c0be649369">
+<p id="b-abd86e37347b4db390841cbf3cffa721">11207	IM群聊消息</p>
+<p id="b-788c4271e3b840f9938322a44fcf1659">20696	医药-商&amp;用群聊（非成人）-图片</p>
+<p id="b-3a4b5cdb38b64742a7f38c228519e03a">11207	IM群聊消息</p>
+<p id="b-2cbe456c651042c4b0b56107832d23ef">20696	医药-商&amp;用群聊（非成人）-图片</p>
+<p id="b-6a04efcb39994a698528643952dc0692">11207	IM群聊消息</p>
+<p id="b-6ccd874ee91445988b825451d65b00d0">20696	医药-商&amp;用群聊（非成人）-图片</p>
+</td>
+</tr>
+<tr id="b-d32a5506e97b42309710c2a141b54564">
+<td id="b-0ca1620ad2484ceaa82b2eb019c186c1">
+<p id="b-785443af54374975a7598c29fb7bcfa3" style="text-align:center"></p>
+</td>
+<td id="b-ba841f2f38de4c51b98c27d4146ff8cf">
+<p id="b-96963a58ecf944e4a62b44b1058cba93" style="text-align:center">回扫</p>
+</td>
+<td id="b-1f72ea1f3c9c471587d11b51de351cf9">
+<p id="b-2db93cb853e54f24a334f817a6fee5cf" style="text-align:center">三甲医院医生负评_周期_增量</p>
+</td>
+<td id="b-ab48b6f8886b4d0eb8fd366ce91e3f0f">
+<p id="b-3ba258dd03bf4a6aa36fab914bd47054" style="text-align:center">单模态 - 业务合作标准</p>
+</td>
+<td id="b-48a8dace034e40e0b6a5050e791f747f">
+<p id="b-e23b62f7b5b94dcf96efc4d47fe248f3" style="text-align:center"><a href="../1284421381/README.md" title="学城原文：https://km.sankuai.com/page/1284421381；已保存正文" id="b-555509bbc26849cbbd01405e9d8a7663">公立医院评价-个人隐私、人身攻击、过激辱骂标准</a></p>
+</td>
+<td id="b-53555a20ce904ed5a14f30d1120a28fa">
+<p id="b-d297f30ab58649ec84a2f52946d628ba">暂无</p>
+</td>
+</tr>
+<tr id="b-81e025c027a44b16a5071b83181b6741">
+<td id="b-c2825fe9929c4a3c99fdfe7b7f5e5ad3">
+<p id="b-7184cdc274a043eb916959195213c838" style="text-align:center"></p>
+</td>
+<td id="b-2ff7c4c87e3543dba2a24a4d53c2e473">
+<p id="b-5360f6f066ea4fd7a347ef8720639326" style="text-align:center">回扫</p>
+</td>
+<td id="b-aec07ee313b444d79cfce7c28e3ca7b3">
+<p id="b-005d3438eb6b47e089e2cac2f47b66b6" style="text-align:center">成人体验店周期审核</p>
+</td>
+<td id="b-abc353cc5ca543768f3e27026bc8c716">
+<p id="b-37ee757209754e45835822daa19e337b" style="text-align:center">单模态 - 用户商户审核标准</p>
+</td>
+<td id="b-9ee5cb4d6b56406d923a4ad09e4f45b9">
+<p id="b-f431ea5f84164c94860dfa767c59babb" style="text-align:center"><a href="../1316020972/README.md" title="学城原文：https://km.sankuai.com/page/1316020972；无权限" id="b-68140ea93ef84cf9bf201057e6758800">商户审核标准</a></p>
+</td>
+<td id="b-0ed54b88d7e54bde8ca37746e5bc1c3a">
+<p id="b-6649293ea043468db77b67d58e6df902">暂无</p>
+</td>
+</tr>
+<tr id="b-c5d52d6b36214a0b9a5c76b8699a20ef">
+<td id="b-6cdf517b98884c6fafd379e7d3a813c4">
+<p id="b-80eb1c21abed4d94a879ebf87b28be50" style="text-align:center"></p>
+</td>
+<td rowspan="3" id="b-09d16d37bbb24b87a2a7d0a97d13b761">
+<p id="b-e3edc08d27da4b42a05971ddae6f3ea1" style="text-align:center">回扫</p>
+</td>
+<td id="b-0914d8a024bc405b8bf68a97fb268798">
+<p id="b-f434d7c2bab74da6804252f4679be530" style="text-align:center">合规类增量违规用户历史图片回扫-商品</p>
+</td>
+<td rowspan="32" id="b-c44dfb429370420caee683d8c02993a6">
+<p id="b-434aa1f487ae48418b6598beb93c3d1a" style="text-align:center">单模态 - 商品审核标准</p>
+</td>
+<td rowspan="19" id="b-eec941b84cf2460faf14ce3816e1250b">
+<p id="b-cc51dc3474a348d48b1a40b28eee1118" style="text-align:center"><a href="../1301966708/README.md" title="学城原文：https://km.sankuai.com/page/1301966708；已保存正文" id="b-e380afc37aa44726b63b4edf5b37b51a">商品合规标准</a></p>
+<p id="b-4c890975e41f4da9ac91604f4d4878d4" style="text-align:center"><a href="../1203773217/README.md" title="学城原文：https://km.sankuai.com/page/1203773217；已保存正文" id="b-f73cfba12c1842f39df37ecaea8b775a">教育行业审核规范</a></p>
+</td>
+<td id="b-3dd5492600fa487d84945cfa26522108">
+<p id="b-84a800793e924aacadf24365cbec2fb7">暂无</p>
+</td>
+</tr>
+<tr id="b-fdf538b1b11c44bb883bf2c2881941ae">
+<td id="b-297154ec7b9040cabc472ed1129ba9d8">
+<p id="b-a415b7ab3b9641b7bbcbcc3663784ce2" style="text-align:center"></p>
+</td>
+<td id="b-f3ddbb98ee484b87ad5d54667df60a5e">
+<p id="b-b47b235402834838a25aa92cee2dda50" style="text-align:center">合规类增量违规用户历史文字回扫-商品</p>
+</td>
+<td id="b-f5a0be2209f74d6887eba7904e79a79e">
+<p id="b-b6045d8c16f94ca786cedabeef554842">暂无</p>
+</td>
+</tr>
+<tr id="b-fd43b21cb18146238e661b206c70f1ed">
+<td id="b-f5b6648fff8542fd808017aac6585b46">
+<p id="b-37418f15ab844ab4b923341dee56fc5e" style="text-align:center"></p>
+</td>
+<td id="b-8b72d5d3789c41e1a3808f294490fa69">
+<p id="b-23277ce11f7b4ffe9e36dbba0abd11b8" style="text-align:center">医药商品回扫</p>
+</td>
+<td id="b-2fad4f3fd3a54771931255c8bb4b8570">
+<p id="b-da546001e441410d9234c720be58e756">10950	到家商品-医药文字</p>
+<p id="b-df525185f3f743ce9567699182d88639">11027	到家商品-闪购（宠物药品）文字</p>
+<p id="b-bd1356b99eac4ea796d019b2e44146ca">20663	到家商品-医药图片</p>
+<p id="b-15aa1b95a0e14da0925c0814b056da4d">20698	到家商品-闪购（宠物医药）图片</p>
+<p id="b-9e07c7fe8e1b43bbad7ecfd30380d7f8">40140	到家商品-医药视频</p>
+<p id="b-f15ab37b90d146a7ae368ec84fec4710">40155	到家商品-闪购（宠物药品）视频</p>
+</td>
+</tr>
+<tr id="b-e887c6333af441a794347b1fb1177f87">
+<td id="b-ce93a640d4e34638a391a5a34e281fe1">
+<p id="b-8817364a474f4ac9880c5173be4dbbe3" style="text-align:center"></p>
+</td>
+<td id="b-157563362d564d38b0a224513c117e60">
+<p id="b-89ca5d64418545d6b76c109b410f74ca" style="text-align:center">实时</p>
+</td>
+<td id="b-6bea8d06279e4304a0a9aa58e9deb9ca">
+<p id="b-68547557a0f9448ea019c9360f9104ba" style="text-align:center">外卖商品</p>
+</td>
+<td id="b-96ddc80e8677443186c879fbe7863c3c">
+<p id="b-3992a54164ad44b3843f2cc53c646593">20556	外卖商品图片接纯人审-图片</p>
+</td>
+</tr>
+<tr id="b-92d15d5504184f92a17bafb1e76c6bbb">
+<td id="b-bc992f9c10d0405a92b41ce90458aa0e">
+<p id="b-9c6532c7a3714f469cd2d085cfdce08e" style="text-align:center"></p>
+</td>
+<td id="b-5328b3c8baae42b48ef080c73d731a47">
+<p id="b-de5191850f624069a87387e09feb394f" style="text-align:center">实时</p>
+</td>
+<td id="b-27766b723c22412a9369a47ce24be1a0">
+<p id="b-3ba188c9a491404698924714080aa33b" style="text-align:center">到店25分钟实时商品信息</p>
+</td>
+<td id="b-35cf3f79e4e145e4984923b4f93364a5">
+<p id="b-8e0fed8df9a94a2d874bd0cf52a708f3">10060	休娱拼团审核文字接入</p>
+<p id="b-4f174541e37142e591a4731607447c9d">10121	到综-休娱酒吧活动-文字接入</p>
+<p id="b-1597d3c37feb4116b25ca8a0a7f2b686">10127	到综-家居商品-文字接入</p>
+<p id="b-9eb8946b3d03453a8a73c04b0b415fe9">10131	新到店-丽人医美门店线下活动-文字接入</p>
+<p id="b-6bcec9dbfc6548b0a75dbd59f763aba8">10134	到综-休闲娱乐酒吧特色酒水</p>
+<p id="b-e71d22b836934a689cf08199f5a210be">10145	新到店-生活服务价目表-文字接入</p>
+<p id="b-4febd7d287254ae2b00b20c8596d6d52">10270	爱车-价目表（统一）</p>
+<p id="b-4e31c8b654ce4abc964d6b81f269bae4">10292	丽人产品发布审核</p>
+<p id="b-a2e0028e9f874c63bd57ae6bf3d1961a">10293	教培正式课程变更单</p>
+<p id="b-e57df1ed450b4f4c928c5334a03b9290">10294	教培正式课程新单</p>
+<p id="b-6700ad4dd58b4d0bb04c2d529cc73f39">10300	丽人课程审核</p>
+<p id="b-e3512c1d60174234bac21f4ee634d1e4">10436	美甲款式单接入-文字</p>
+<p id="b-aefaaaa038144c258d925b7bde19cf00">10484	休娱-[商户信息线上化]私人影院/轰趴_主题房间-文字</p>
+<p id="b-167e89402a1849778b727f84ae3f540d">10511	到综-宠物-特色服务-文字</p>
+<p id="b-0e44bb5e001d434c895d3a2d2353cf95">10541	休娱-【特色项目管理】农家乐新奇体验-文字</p>
+<p id="b-7bea8627b75047f28e7da784addb61e4">10598	家居-新泛商品-文字</p>
+<p id="b-bc81e4d866954ecea013b91283f03fd2">10636	到综平台大转盘</p>
+<p id="b-07fc876d3da64e59822cd8d9d7073b36">10645	孕产套餐特色</p>
+<p id="b-c4daa6e6831e4533ac60b89d83070bd5">10671	LE价目表迁移-文字</p>
+<p id="b-4a19c8bb46e546fdbf1e0c029b007f53">10672	医美活动橱窗-文字</p>
+<p id="b-eca5781df19546b190ac82bb29097b56">10705	到餐招牌菜-文字</p>
+<p id="b-d9f94f6bfc5a4406a7c99801cb602e2b">10709	亲子-摄影主题产品文字</p>
+<p id="b-27077c2be5c94836925cab9c12fa3559">10736	租车信息</p>
+<p id="b-a6f5b23aa95347c3ac9fa44372c50475">10804	教育亲子- 月子会所月子餐-文字</p>
+<p id="b-a2df541851d6495bb8c50e2b64142661">10806	教育亲子-自习室座位类型管理-文字</p>
+<p id="b-5e317b8b7bec44d68abf622354e7bde2">10833	教育亲子-早教行业课程项目-文字</p>
+<p id="b-f8087edafe5a433a9287beab7798e716">10983	LE-婚纱礼服单品-文字</p>
+<p id="b-02111f479b6942c092ecf3658750a1ab">11008	国内酒店POI/房型文字信息</p>
+<p id="b-913e4d9c1ff64585b3a070de25bf2d51">11031	休娱-剧本杀-剧本标品库-文字</p>
+<p id="b-0d9d3631ca364426beaddfe8229c059e">11041	LE业务-结婚-结婚婚宴菜单审核-文字</p>
+<p id="b-9a2b0c8f14a94614be56433708937fd8">11042	LE-结婚-结婚婚宴套餐审核-文字</p>
+<p id="b-6a94d99b4ad5459cb2bd11b55767190a">11074	亲子游乐-游乐项目-文字</p>
+<p id="b-f083edbb87e041b8afafeeea1ae6546d">11185	团单-文字</p>
+<p id="b-bb97997e10e94d159ca1285990c4012e">11379	信息库-文字</p>
+<p id="b-7f9da8d0dac745ffb88d58433eb35aa9">11388	教育母婴-月子中心套餐+文字</p>
+<p id="b-a06ffc830c004e20a3234f0cfb14145d">11389	教育母婴-月子中心套餐-房型+文字</p>
+<p id="b-889bd3159cbb4cd0b70fcf40ba47b3ee">11390	教育母婴-月子中心套餐-母婴用品+文字</p>
+<p id="b-01064ef4b56943808d4befe9ada08f38">11391	教育母婴-月子中心套餐-护理服务+文字</p>
+<p id="b-a1dc3469d3f9415ca561a90953d794b1">11400	扫码点餐菜品-B端-文字（疑似再次送审）</p>
+<p id="b-44b678521b554470ad078480563bc3a7">11546	到餐团单-文字</p>
+<p id="b-4fbfa7603329404d94f9c1701d6c593b">11616	FDC  菜品文字信息审核</p>
+<p id="b-0790e8fcdd2d4d29a25cb7eac5bd1eeb">11644	到餐团单刷红-文字</p>
+<p id="b-cd5e8ae88ccc49dfbb38096f86b8ded3">11695	酒餐活包+到餐商品平台推荐语</p>
+<p id="b-c1ceeb67af314e978517e0f128cb5f9f">20013	团购视频审核图片接入</p>
+<p id="b-689878d424b048a581624fc727f076c0">20060	休娱拼团审核图片接入</p>
+<p id="b-71e560da004d4b88ab0c4f84accf1f17">20111	到综-休娱酒吧活动-图片接入</p>
+<p id="b-d4e9f91227c04ba8a88dd89959832236">20115	到综-家居商品</p>
+<p id="b-64edb156f68f4e838788cfed6a604d4d">20118	新到店-丽人医美门店线下活动</p>
+<p id="b-37829737777b4fc1911eb6f7146453a4">20125	到综-休闲娱乐酒吧特色酒水</p>
+<p id="b-5a49c291827049469193caa37fe3c15f">20137	新到店-生活服务价目表-图片接入</p>
+<p id="b-e03249a88ae54059834de01320429c7e">20184	美团平台-境外住宿—TDC送审</p>
+<p id="b-1d595d2063ca4fcab216dd04076bc9df">20185	美团平台-境内住宿—TDC送审</p>
+<p id="b-56f4487e0e034ba7a46990f39936d438">20211	到餐BD上团单体</p>
+<p id="b-0730786ad4634453956bc7836cd5d872">20230	爱车-价目表（统一）</p>
+<p id="b-08fae6aa880346a7a4e94608839fcb7a">20244	丽人产品发布审核</p>
+<p id="b-8b9ee7d37fd1411985b776de1984c4bb">20245	教培正式课程变更单</p>
+<p id="b-8b6c2a86da574e8186ed17a2266160bd">20246	教培正式课程新单</p>
+<p id="b-576a4d4778754d79bc33d5c5b97d189d">20252	丽人课程审核</p>
+<p id="b-769363743fe046a2bb5b3f8e763b79a5">20347	美甲款式单接入-图片</p>
+<p id="b-27a5329944fb47cf9727c152ffebe752">20381	休娱-[商户信息线上化]私人影院/轰趴_主题房间-图片</p>
+<p id="b-99e6c8a80b9948769c97ea24e5c22d14">20394	医美预付视频审核-图片</p>
+<p id="b-d11659f8e3774dd281d11223cfbc46dd">20406	到综-宠物-特色服务-图片</p>
+<p id="b-454442d72a1a4b9281be7212e48a676c">20408	到综-宠物-在售萌宠-图片</p>
+<p id="b-eb3df3a6385b48fb8654a95d9cc338b1">20416	到综-客满满拼团-图片</p>
+<p id="b-8c17c03d06334103b0c36be841f0d1dd">20418	休娱-【特色项目管理】农家乐新奇体验-图片</p>
+<p id="b-9ed906cbe4e944f69f591dbf75e30eee">20461	家居-新泛商品-图片</p>
+<p id="b-a9c10dbf83644b73bbb41fffc635f518">20491	孕产套餐头图</p>
+<p id="b-eb4cf141412448a8910a909647cb2c56">20524	到餐招牌菜-图片</p>
+<p id="b-cde06540de864c77b0b6320b2014d306">20526	亲子-摄影主题产品图片</p>
+<p id="b-e276da6d0cac401792b6859c1b722de2">20552	租车信息</p>
+<p id="b-0af5517b5f304667a57dc41c093127fd">20595	教育亲子- 月子会所月子餐-图片</p>
+<p id="b-cf22a37f825945feb30e4f2974f2ed7c">20598	教育亲子-自习室座位类型管理-图片</p>
+<p id="b-28091d44e8ac4e77a8e15b7fd505bf54">20645	休娱-洗浴评级-图片</p>
+<p id="b-e43c2253d5634292bd316e4f4250cf40">20668	美团圈圈-图片</p>
+<p id="b-600521e0862a4968b1ee5b28fcc7ea84">20674	LE-婚纱礼服单品-图片</p>
+<p id="b-e606196f1afd40b184deff1d7796cd28">20700	休娱-剧本杀-剧本标品库-图片</p>
+<p id="b-54df45d09e7644e7a95d8f188284d452">20705	LE业务-结婚-结婚婚宴菜单审核-图片</p>
+<p id="b-83e792de719e4ce7b7c50aba0e258154">20730	亲子游乐-游乐项目-图片</p>
+<p id="b-277039e65c8741ddaa4cd524eb2d4068">20789	团单-图片</p>
+<p id="b-38eca81d8bbd43f1ad0a1fbc1d4a9a87">20893	教育母婴-月子中心套餐+图片</p>
+<p id="b-6fc76310f892481d83eedf1f38cf4ad7">20894	教育母婴-月子中心套餐-房型+图片</p>
+<p id="b-7e8fc7e7368a46d98538c1104ffadd68">20914	FDC  菜品图片审核</p>
+<p id="b-1f87ab0e905348f98cd8901290ba036e">21084	投放渠道素材审核-图片</p>
+<p id="b-e68b83bf3e3949f39b03a1b75b86f3be">21094	供应链平台商品信息-图片</p>
+<p id="b-d44862f8d6f148d081b03705aed3ce0f">40039	休娱-[商户信息线上化]私人影院/轰趴_主题房间-视频</p>
+<p id="b-fa3e960f712143d586d35a111d4361ab">40055	到综-客满满拼团-视频</p>
+<p id="b-0512fa2c3db04dcd87148012e28d280b">40057	休娱-【特色项目管理】农家乐新奇体验-视频</p>
+<p id="b-af7a8db87b954bd7a1a531283e1cb871">40084	到餐招牌菜-视频</p>
+<p id="b-0c63f0635b1b43a7947ac05b2cab307f">40108	教育亲子- 月子会所月子餐-视频</p>
+<p id="b-a26cba1d3c5f48c3b4db4573a04d1de6">40168	亲子游乐-游乐项目-视频</p>
+<p id="b-230f63deb0194cb49e9b29e24d454092">40223	教育母婴-月子中心套餐-房型+视频</p>
+<p id="b-b2ed0af28903466eb9aa76cf4ed677d6">40248	到餐套餐业务-视频内容</p>
+<p id="b-37a48faf23cc4ae192b7ff45fd58d6ad">10060	休娱拼团审核文字接入</p>
+<p id="b-e133815d7c054d05bf8f5dd9d8390283">10121	到综-休娱酒吧活动-文字接入</p>
+<p id="b-5ef4d6f0e97741b486d87c0ff592a3cd">10127	到综-家居商品-文字接入</p>
+<p id="b-af78b55885d0416bb4fe124c7cdf334c">10131	新到店-丽人医美门店线下活动-文字接入</p>
+<p id="b-8b7c6b729d4840ca9614b2e567989104">10134	到综-休闲娱乐酒吧特色酒水</p>
+<p id="b-2bf8433b25f04e18b452921b52662774">10145	新到店-生活服务价目表-文字接入</p>
+<p id="b-6effa0af5247432cbc6144456fb2d44e">10270	爱车-价目表（统一）</p>
+<p id="b-ba436f5145704a52b44d7141e869d5c7">10292	丽人产品发布审核</p>
+<p id="b-93c5510eeb2c411e85e4981e797aadb1">10293	教培正式课程变更单</p>
+<p id="b-ee24c22ce46d42adb37f5a91b210334f">10294	教培正式课程新单</p>
+<p id="b-c893642ba005489f9b41c1fd53c6f498">10300	丽人课程审核</p>
+<p id="b-8b5bcb82c8244238ae871608d352a410">10436	美甲款式单接入-文字</p>
+<p id="b-f725662e917249fd8e3c1e44ab6f18e4">10484	休娱-[商户信息线上化]私人影院/轰趴_主题房间-文字</p>
+<p id="b-dc8e816d5c86432283ae2715da804cb5">10511	到综-宠物-特色服务-文字</p>
+<p id="b-3fa363f0e25e47c6a0da3c5b2ecfd5b7">10541	休娱-【特色项目管理】农家乐新奇体验-文字</p>
+<p id="b-3d84231687ea4c22a715811f4acba199">10598	家居-新泛商品-文字</p>
+<p id="b-45ab8d7d5bf146b792f492762f299a97">10636	到综平台大转盘</p>
+<p id="b-1cbef63e748a44f0bee65ea603768182">10645	孕产套餐特色</p>
+<p id="b-dfda3a0cf4234f5e977515a507bfa883">10705	到餐招牌菜-文字</p>
+<p id="b-2d5058800bc441e896ffb4fb515f5648">10709	亲子-摄影主题产品文字</p>
+<p id="b-c8d1c30355904f7fa4de0c8d984d6ae9">10736	租车信息</p>
+<p id="b-3a1d78d3e07f40c4a9152dff616ceb20">10806	教育亲子-自习室座位类型管理-文字</p>
+<p id="b-26a8ad36fb524bf3a81695c7af8b1e29">10983	LE-婚纱礼服单品-文字</p>
+<p id="b-89e62b92304342e6a187fa9281fe4ee1">11008	国内酒店POI/房型文字信息</p>
+<p id="b-c2385f7c258c4522be7d14c16fc506cc">11041	LE业务-结婚-结婚婚宴菜单审核-文字</p>
+<p id="b-16607f8d77e2490fb7c86d5a388de517">11042	LE-结婚-结婚婚宴套餐审核-文字</p>
+<p id="b-145f4432d59f495da4515a65954ffee8">11074	亲子游乐-游乐项目-文字</p>
+<p id="b-78d96e9acb6d4be18642a96464156fcc">11185	团单-文字</p>
+<p id="b-6a9d2ad1709641038f22e7ec68216ebe">11388	教育母婴-月子中心套餐+文字</p>
+<p id="b-998e270e6dc64ad38420e66462f39b95">11389	教育母婴-月子中心套餐-房型+文字</p>
+<p id="b-5405b21c3d424f4591430aff215b3dcd">11390	教育母婴-月子中心套餐-母婴用品+文字</p>
+<p id="b-19b893f459654feca34e7e409c8821f4">11400	扫码点餐菜品-B端-文字（疑似再次送审）</p>
+<p id="b-36705288b7414ce3b6c60e6ac6684e54">11546	到餐团单-文字</p>
+<p id="b-f55d577cf7b8424d88ddc10f708b1e4e">11616	FDC  菜品文字信息审核</p>
+<p id="b-58b7a2dabaa747cd8e2fd0748a455089">11644	到餐团单刷红-文字</p>
+<p id="b-915ab61ba64945949ef6db70d07aa5fc">20013	团购视频审核图片接入</p>
+<p id="b-4e377ae3cadd42ba979a284f4347bcac">20060	休娱拼团审核图片接入</p>
+<p id="b-7ffffe8e70724bc1ae9e246476ed37f3">20111	到综-休娱酒吧活动-图片接入</p>
+<p id="b-598f0f5a5fc54ff59cca06c976aa84d6">20115	到综-家居商品</p>
+<p id="b-0c183e3241304c658522a7ec4e838480">20118	新到店-丽人医美门店线下活动</p>
+<p id="b-0b1beda202804736a9a79d47ad63ee0b">20125	到综-休闲娱乐酒吧特色酒水</p>
+<p id="b-17664c981f154d84a8172f0f4fc39dd5">20137	新到店-生活服务价目表-图片接入</p>
+<p id="b-83ab34aa5c964f638947f6b1cf98a624">20185	美团平台-境内住宿—TDC送审</p>
+<p id="b-d73b1446741b4ae4946eb2760e4c8ce9">20211	到餐BD上团单体</p>
+<p id="b-3482e032b3bf4a7980453d8a0825e47c">20230	爱车-价目表（统一）</p>
+<p id="b-a6ed75d635bb49cd8c14d0bfef2da8f7">20244	丽人产品发布审核</p>
+<p id="b-a9cfacb6686c4775af625eaaef98ccc7">20245	教培正式课程变更单</p>
+<p id="b-af2e77dfa14d4dd08455fdc7e7b2958e">20246	教培正式课程新单</p>
+<p id="b-e72e144a220240dd9d72e4ca113a41d2">20252	丽人课程审核</p>
+<p id="b-1fee3f759b8146e0be3b6a4454909aaa">20347	美甲款式单接入-图片</p>
+<p id="b-fb54805bf9b04f419115a56f2ace6025">20381	休娱-[商户信息线上化]私人影院/轰趴_主题房间-图片</p>
+<p id="b-c2d3f7606b32464d867f1db251a638f7">20394	医美预付视频审核-图片</p>
+<p id="b-7bc1b23b866d48df8864925d70bc21fb">20406	到综-宠物-特色服务-图片</p>
+<p id="b-e4c323aebc614fbc95c260a6a3ec3a25">20408	到综-宠物-在售萌宠-图片</p>
+<p id="b-431c2c0093ce441f9d8fa30410054d47">20416	到综-客满满拼团-图片</p>
+<p id="b-73a6e39be9644fa1807bcabd3503a1e6">20418	休娱-【特色项目管理】农家乐新奇体验-图片</p>
+<p id="b-6998285a49d34bd783ecafcb656c599d">20461	家居-新泛商品-图片</p>
+<p id="b-ea1cd3b9d4ec4f879ab70ad0b584e8a0">20491	孕产套餐头图</p>
+<p id="b-f96da0ccd3d643b29b4d8bb9cdbe41cc">20524	到餐招牌菜-图片</p>
+<p id="b-b60c4ad5d3694317b67575fe7f92adec">20526	亲子-摄影主题产品图片</p>
+<p id="b-a4af2f386d8b40b68443fa8e49108ccb">20552	租车信息</p>
+<p id="b-3d88bb443e28454796631778adb79810">20595	教育亲子- 月子会所月子餐-图片</p>
+<p id="b-0ce42e4e57c14ee28f730c73bb908297">20668	美团圈圈-图片</p>
+<p id="b-cd981134483042a5951d565f97129267">20674	LE-婚纱礼服单品-图片</p>
+<p id="b-94541d854ac94373944df3fba71d0aca">20700	休娱-剧本杀-剧本标品库-图片</p>
+<p id="b-744b3bd8de2e4b0b9b788751957874ec">20705	LE业务-结婚-结婚婚宴菜单审核-图片</p>
+<p id="b-8c4ef64ac3ba4cb3bb45bea69f0c558b">20730	亲子游乐-游乐项目-图片</p>
+<p id="b-89505b634d4745bcb67d6bc9ef3ce8d4">20789	团单-图片</p>
+<p id="b-faf8df844dae4a3394baf05076d06645">20893	教育母婴-月子中心套餐+图片</p>
+<p id="b-ff1b09f79f13401e8a5b2f71e8c65ba0">20894	教育母婴-月子中心套餐-房型+图片</p>
+<p id="b-16a800eebc664c69b8706af998dbb3a3">20914	FDC  菜品图片审核</p>
+<p id="b-f2ce9e9a3191409c8ed513d0521bc6f5">21084	投放渠道素材审核-图片</p>
+<p id="b-1377bf432ebb4909a004eb4eea396217">21094	供应链平台商品信息-图片</p>
+<p id="b-ff88ad27893146ceb5d0eed96f471f88">40039	休娱-[商户信息线上化]私人影院/轰趴_主题房间-视频</p>
+<p id="b-3c5aa052955a4bba9a9bfa25d64c530f">40055	到综-客满满拼团-视频</p>
+<p id="b-4909a8b242b249878b9377ce05239058">40057	休娱-【特色项目管理】农家乐新奇体验-视频</p>
+<p id="b-e328a267642747e4a86d5355219a4ea4">40084	到餐招牌菜-视频</p>
+<p id="b-22fe339ab8b54731b3020a9c58b7d423">40168	亲子游乐-游乐项目-视频</p>
+<p id="b-c697acf0f1f84eada9bede269906acb2">40248	到餐套餐业务-视频内容</p>
+</td>
+</tr>
+<tr id="b-c2fec8ac3b284339a7f1c085fb48f77e">
+<td id="b-5255da28b74948faa908624c6f52b024">
+<p id="b-09777d6e85754c7caf4b6092f7b831c0" style="text-align:center"></p>
+</td>
+<td id="b-c44253615a924327a315de69696f8400">
+<p id="b-666719ae4270420095827963fe399219" style="text-align:center">实时</p>
+</td>
+<td id="b-d0618f91cad8413ea51eddd87a6e30f4">
+<p id="b-ccde7eab2117492d8c9229f4dc9cc191" style="text-align:center">闪购-宠物药品</p>
+</td>
+<td id="b-853025eba2734569b25e7be9e5c930ab">
+<p id="b-2b4b2cbe9c924dd9a6aeb092044c7b90">11027	到家商品-闪购（宠物药品）文字</p>
+<p id="b-6aa6e1ee5f874cdab61179ce80357daf">11439	宠物用品标品-文字</p>
+<p id="b-c8425df7706f436fb3b3d72284ef1d1e">20698	到家商品-闪购（宠物医药）图片</p>
+<p id="b-f5a490300d0e44d0b3baad566810460d">20918	宠物用品标品-图片</p>
+<p id="b-2d797d45d5674d4ba6b0f0cb01549a7d">40155	到家商品-闪购（宠物药品）视频</p>
+<p id="b-d11da523934545aabe185bbf865b29ae">11211	团好货商品医药-文字</p>
+<p id="b-2d0ce1ddab5b4464b876b37bd53057a2">20799	团好货商品医药-图片</p>
+<p id="b-c6a3f79cad1a4791b6f1c30580155ca6">40243	团好货商品医药-视频</p>
+<p id="b-bc1651e441b747e6b356a06cb0493737">11027	到家商品-闪购（宠物药品）文字</p>
+<p id="b-cb62fbe778ea408e87801eb1e874af12">20698	到家商品-闪购（宠物医药）图片</p>
+</td>
+</tr>
+<tr id="b-49ce6f7b56784b32b81b79c205c4929c">
+<td id="b-a056a4fef0484a6d920e9b7ecab8d4d3">
+<p id="b-21f44bab41c24a1eafdbdd4396411fe5"></p>
+</td>
+<td id="b-e68d1e175a134ea5b5ef6326d201cc44" style="background-color:#FAE1EB">
+<p id="b-02fd66cc952b4e62b8c6159e84da45d0" style="text-align:center">回扫</p>
+</td>
+<td id="b-1f807da650ff474d93114474cb461305">
+<p id="b-c661c4d02f45451991c468761985f144" style="text-align:center">北斗_一号-<span style="color:rgb(255, 74, 71)">商品</span></p>
+</td>
+<td id="b-534d71c6fdfa4cb1bf92d3bf85e43de1">
+<p id="b-a6db2ed054444e68a4c6e9c6e3fdd41a">暂无</p>
+</td>
+</tr>
+<tr id="b-cd44bc1ed1c34aa8b3306a89bb504249">
+<td id="b-241418ecdfcc4ce8accfb79c10df2b89">
+<p id="b-31e5f0064db5433a9bc5ea4a790249e5"></p>
+</td>
+<td id="b-80f51c3615034ecea9473a8a2658036f" style="background-color:#FAE1EB">
+<p id="b-527c6274163b4042a46f7efbd0c0f159" style="text-align:center">回扫</p>
+</td>
+<td id="b-5eb8427ad7784f799eb40fb1c0553e49">
+<p id="b-e4eefdc3f7d6454a85133dd1b1e14aa0" style="text-align:center">北斗_国家领导人-<span style="color:rgb(255, 74, 71)">商品</span></p>
+</td>
+<td id="b-ce73312ee0bc46c49cb317e2801acff0">
+<p id="b-c2edc5e70eb3480ba71d2523ed9df730">暂无</p>
+</td>
+</tr>
+<tr id="b-9046dc7365964b3e9ac7474ff5088640">
+<td id="b-91c55d2c886e426392c92a3a050031f3">
+<p id="b-da2a31b2c74a41929c7078e1255dbc5f"></p>
+</td>
+<td id="b-d7ebb9a275544e3c8648aa3d3d0b8100" style="background-color:#FAE1EB">
+<p id="b-836f30da98ec46f6afcad1648fb63998" style="text-align:center">回扫</p>
+</td>
+<td id="b-233376e0cc6e4b86bc47a717aa8c1227">
+<p id="b-85fbf39b9e1d4cc295a9b7568dd1243b" style="text-align:center">北斗_分裂旗帜-<span style="color:rgb(255, 74, 71)">商品</span></p>
+</td>
+<td id="b-c322b4da27a34383b5b197ea216648ff">
+<p id="b-843a067c83e744ffb7586750aae6495e">暂无</p>
+</td>
+</tr>
+<tr id="b-d8c095c17a934d008a8621ad519b2b02">
+<td id="b-27c0622406ee474f97f1500c80c48721">
+<p id="b-4506824f52d948baaf256136de573a2d"></p>
+</td>
+<td id="b-034e2fe1e9f54f139647b43f8668a940" style="background-color:#FAE1EB">
+<p id="b-c9c64a6318fb4cf9a03c058ebbb7e217" style="text-align:center">回扫</p>
+</td>
+<td id="b-821b0ba85c03434185352ed31ef4bcff">
+<p id="b-4832ebdd787e47ca9396bc59b71c7235" style="text-align:center">图片_相似删除不合规_周期-<span style="color:rgb(255, 74, 71)">商品</span></p>
+</td>
+<td id="b-34713d8dfb7a45a58ebf930aa0e3ab2b">
+<p id="b-3494a0304b09436b9daf665e9d58db0a">暂无</p>
+</td>
+</tr>
+<tr id="b-8392545d56e94a7da55d389a237d0b78">
+<td id="b-843935aea06d4b0fbab9a4187ae5d8e6">
+<p id="b-c5b96c8ea88847d6b3aa8c910e739560"></p>
+</td>
+<td id="b-d981badb5f024c78871a103890dee9fa" style="background-color:#FAE1EB">
+<p id="b-24fc6411d02b4d0f9f554b16220c261b" style="text-align:center">回扫</p>
+</td>
+<td id="b-ed88b7e8ddb1460892ed0dbc45d6bbbc">
+<p id="b-f2636df581024040b3f2d98b0e82d927" style="text-align:center">图片_相似删除<span style="color:rgb(0, 0, 0)">高危</span>涉政_周期-<span style="color:rgb(255, 74, 71)">商品</span></p>
+</td>
+<td id="b-a3f7f12f60f148b98b48f2023b2746b2">
+<p id="b-dbbb8fe6466f4876b9f4185d6f455449">暂无</p>
+</td>
+</tr>
+<tr id="b-d1ad8518b887469698419b22b01c99ec">
+<td id="b-4d16ae0682eb4c06a2aba1d60bec449f">
+<p id="b-3d0bfa141c5743a89fe76860d70a2efc"></p>
+</td>
+<td id="b-5da402d59c964e94a7b7d8c8436c55b6" style="background-color:#FAE1EB">
+<p id="b-e64f57f6c48d45b4af3abc0b15b1a778" style="text-align:center">回扫</p>
+</td>
+<td id="b-d0c39b31e28b45d7a17639115581abad">
+<p id="b-4a017e62d62149e39eaf0c2748abaf2c" style="text-align:center">离线策略_<span style="color:rgb(0, 0, 0)">高危</span>涉政规则复检-<span style="color:rgb(255, 74, 71)">商品</span></p>
+</td>
+<td id="b-9bd747cdde71436786347ebd573239d2">
+<p id="b-3401da92516c4862b05e790bf9fac482">暂无</p>
+</td>
+</tr>
+<tr id="b-260990bbc1af43d3919af7cd58e36874">
+<td id="b-4456321414454e4f826a959208c54640">
+<p id="b-8d3cc521da3f40788f6d1ab6f3076df7"></p>
+</td>
+<td id="b-6f24b370c61342f8bca89133241a9374" style="background-color:#FAE1EB">
+<p id="b-26c945b15cc44f06a9ff690221a9ef7f" style="text-align:center">回扫</p>
+</td>
+<td id="b-5ca761184e194050b2c5966be11b8069">
+<p id="b-cd1a2bef36dd4f41a1c77d9d44d339e2" style="text-align:center"><span style="color:rgb(0, 0, 0)">文字_定向高危关键词_周期-</span><span style="color:rgb(255, 74, 71)">商品</span></p>
+</td>
+<td id="b-9b4772b61a3943518f14faec46598bcf">
+<p id="b-07d7158c2d5b4ecaa107fe3f4e4cc5c8">暂无</p>
+</td>
+</tr>
+<tr id="b-7acf7895baed46d8984df224b0ee22b4">
+<td id="b-4a631b974dd5454fba35bf24c0397061">
+<p id="b-a623e514c4f74affb19e99bdec2cc402"></p>
+</td>
+<td id="b-b9b372c946e94deda813860278665b40" style="background-color:#FAE1EB">
+<p id="b-b514f7de937f40ca932de7d11b7560ae" style="text-align:center">回扫</p>
+</td>
+<td id="b-141f054b2e234d0cbba5d966126f9cd0">
+<p id="b-4608302acfd2421da2f7bf151747e772" style="text-align:center"><span style="color:rgb(0, 0, 0)">文字_相似删除高危涉政_周期-</span><span style="color:rgb(255, 74, 71)">商品</span></p>
+</td>
+<td id="b-42c62778822b494dab7ea382a2c76821">
+<p id="b-300dc91c84784e549a340a784d52ee3d">暂无</p>
+</td>
+</tr>
+<tr id="b-657c454c2a51471f8bc4c1b120659d46">
+<td id="b-d186dea2382b42878c2ba0ab5cff0911">
+<p id="b-7ec5056131fd4042801aeab7b13ea79a"></p>
+</td>
+<td id="b-18e7a6234e7740a18749317ec866da8e" style="background-color:#FAE1EB">
+<p id="b-267edb9250714200abad33333a45afd9" style="text-align:center">回扫</p>
+</td>
+<td id="b-8b19240c3d884d72a0d384c68f295096">
+<p id="b-fffb8d93a8db4bc1ab95bb552c400791" style="text-align:center">文字_关键词机禁评估_周期-<span style="color:rgb(255, 74, 71)">商品</span></p>
+</td>
+<td id="b-b2478d3ff7c64a96871dc7c852f8538c">
+<p id="b-eaf0bfa552354b3da6ce914fc2ac0139">暂无</p>
+</td>
+</tr>
+<tr id="b-9064406a356a4a84940adbc5065be6e5">
+<td id="b-6249c01c289d4f77b8a8aec4882b10e6">
+<p id="b-1aed43402bcd4c89a21d0d1abd7c69ce"></p>
+</td>
+<td id="b-0b07c26ba7704ae983754e1f25049118" style="background-color:#FAE1EB">
+<p id="b-9762bd1b61b4470aa927bb7555a3fee2" style="text-align:center">回扫</p>
+</td>
+<td id="b-9e28035b29414b1f80d7053a8a4539f4">
+<p id="b-cd10adf0fab3407abc56467edad2eb2e" style="text-align:center">文字_涉政变体人审_20220901-<span style="color:rgb(255, 74, 71)">商品</span></p>
+</td>
+<td id="b-f6a7c912efd945e48585227c578d35c0">
+<p id="b-3b9be8763de34f369929f5be9872d4b2">暂无</p>
+</td>
+</tr>
+<tr id="b-fab497259d3b489b87d11f36ddfd400f">
+<td id="b-6c3f1583763747b89add10adfb5cfa10">
+<p id="b-35d3cd8a6ab148e08db0db2cc1dbd804"></p>
+</td>
+<td id="b-1c735168ea924e4dafc1eb8f1c67fb8c" style="background-color:#FAE1EB">
+<p id="b-27c5c46cb95b4a4eb351b08e7cfb8bbe" style="text-align:center">批量</p>
+</td>
+<td id="b-6acb527afdc34ffd8f8ddf4241c756db">
+<p id="b-52c957c7b8154b05850d41a6e2e4e96c" style="text-align:center">批量到店<span style="color:rgb(255, 74, 71)">商品</span>信息</p>
+</td>
+<td id="b-dc2239cea163432899be3f614ed1f29d">
+<p id="b-4871a77e91a0486b972a0a753219caba">暂无</p>
+</td>
+</tr>
+<tr id="b-83d57431087e4dcdb194185a6ffaf8d8">
+<td id="b-cf5c26a9bd1345f483df5d8c0c407135">
+<p id="b-ce38169faf8c437ba9f3d699e2c54949"></p>
+</td>
+<td id="b-7a5a1dab5f204c569ce5cc431fab18bc" style="background-color:#FAE1EB">
+<p id="b-c2df751e3103467a802dd620e119acc2" style="text-align:center">实时</p>
+</td>
+<td id="b-9bf3552794d64ec4b0a96ce224359afe">
+<p id="b-843506ffca1e471ea993f19174ea6324" style="text-align:center">25分钟点评<span style="color:rgb(255, 74, 71)">商品</span>实时</p>
+</td>
+<td id="b-1bf0c0be82b7494e884da2caeccd5b99">
+<p id="b-99d0effb6dfa4e639a061228b7ca4bd7">暂无</p>
+</td>
+</tr>
+<tr id="b-c401db0f0ba740f28b6800c0a3a62f2a">
+<td id="b-e5d265a412ed41a09694d632b6b6633b">
+<p id="b-92c1dd6192d54170a6da3fa3f952d60e"></p>
+</td>
+<td id="b-305139add41649bbaf86c8b98093ffa0" style="background-color:#FAE1EB">
+<p id="b-b0b091feb3124149a6aba0b46aecf136" style="text-align:center">实时</p>
+</td>
+<td id="b-e128fa49b8e847cead93b7f9bac0719f">
+<p id="b-fea308267f2a4d2d9218338008c0c97f" style="text-align:center">到店高优25分钟<span style="color:rgb(255, 74, 71)">商品</span>信息</p>
+</td>
+<td id="b-55c96e537fd34048b1bba77546e01312">
+<p id="b-91a09818ad4a4363823e1bc513e32747">暂无</p>
+</td>
+</tr>
+<tr id="b-1486e4323fbe4fe6b2581a400626b6ce">
+<td id="b-a043a946099f4364a0d9d60933bec53d">
+<p id="b-0c90783e5a6b440caaad26720bfc21ff" style="text-align:center"></p>
+</td>
+<td id="b-a3604c72a23d45a197d23f4838d2cf8e">
+<p id="b-99423750b8974859a783cf5b0235a367" style="text-align:center">实时</p>
+</td>
+<td id="b-6aafb410e94e44d6a03c95e8c5432b30">
+<p id="b-460ed80c2aa34d429d0fb1e1d828112d" style="text-align:center">到家闪购内容</p>
+</td>
+<td rowspan="6" id="b-308679bc541c4066a6635ab8e08986e7">
+<p id="b-ecba9d4d3ccf444183bfddd352c2bcfc" style="text-align:center"><a href="../1200574894/README.md" title="学城原文：https://km.sankuai.com/page/1200574894；无权限" id="b-4f2a5c04f3d04978ace0f4b48951a613">到家商品审核标准</a></p>
+</td>
+<td id="b-4844fef5e15546498d64ca013a9d2c0b">
+<p id="b-01580222379044d585b60de94f6f241b">10945	到家商品-闪购文字</p>
+<p id="b-834fba8225ab449fa4644fd0a04d932e">11380	闪购-B2B商城-文字</p>
+<p id="b-0462ae31b6c5459aa00e2db36ee8aead">11440	闪购标品-文字</p>
+<p id="b-f11414be6fa84d44a09da971ce15ac23">20660	到家商品-闪购图片</p>
+<p id="b-5a17a7bb03aa4b689569705bb4252f64">20886	闪购- B2B商城-图片</p>
+<p id="b-c7774fdc5eb34526a788ff371ee87a82">20919	闪购标品-图片</p>
+<p id="b-88326bd01c74444f8a02c390aae5a7f7">40141	到家商品-闪购视频（新）</p>
+<p id="b-36fbfe6fcb044beb97ba06c393416866">40217	闪购- B2B商城-视频</p>
+<p id="b-840993d7d14640e0b2a3052e243893e0">10945	到家商品-闪购文字</p>
+<p id="b-865208166a7e4b3eb3538d1c03af72f6">11440	闪购标品-文字</p>
+<p id="b-12997a65e57f41589d4032c3ee8afb04">20660	到家商品-闪购图片</p>
+<p id="b-e8b25230e112478f8bb306b55d1f3aa5">20886	闪购- B2B商城-图片</p>
+<p id="b-0e168dcf419246ff97427bc8860515a4">20919	闪购标品-图片</p>
+<p id="b-178ff6dab9d04aef9dcbdf75d2d75c10">40141	到家商品-闪购视频（新）</p>
+<p id="b-73ce4c5b50c749c88743b0aeabcb90b6">40217	闪购- B2B商城-视频</p>
+</td>
+</tr>
+<tr id="b-af38baa1dcfd4c138365cd79de519078">
+<td id="b-4166569460ec4f3788fd94622aa541db">
+<p id="b-9c56d66c45604f48ae133968aaa74b7a" style="text-align:center"></p>
+</td>
+<td id="b-f5e620b7e8d04e848cec24378854004e">
+<p id="b-fa813478a6a5495b825865da2563d4a4" style="text-align:center">实时</p>
+</td>
+<td id="b-b4824a4d3f6e4ffca0df7331f9ba0ebd">
+<p id="b-d504b2e92cc04707bee48dadbe720943" style="text-align:center">到家闪购商品合规</p>
+</td>
+<td id="b-50d5302ccfcc487b999cb13e3b320996">
+<p id="b-446b272eb298491fba7124d73110ae57">70001	到家商品-闪购商品合规</p>
+</td>
+</tr>
+<tr id="b-0646bc458525453c9848bff6ba5f960f">
+<td id="b-39d6281ffb03451b9f7f6fcbf71d4ac7">
+<p id="b-344d8735f8444760af9a2a2d3dce9a5b" style="text-align:center"></p>
+</td>
+<td id="b-cff41fc540644b6cb60b8e4864507adb">
+<p id="b-3782bfb94f4f41079dbb4d202f25c98a" style="text-align:center">实时</p>
+</td>
+<td id="b-3ce485044afc477ea26653c6f710256b">
+<p id="b-422dd967b52f4d128987982b63585a47" style="text-align:center">到家外卖内容</p>
+</td>
+<td id="b-cd78a7fc90644870b23c18a6258a9cd2">
+<p id="b-2db2ba1d5af84ebab8f6ba6d865f29c3">11301	外卖商品合规-文字</p>
+<p id="b-ea648afa6a804bc8bfddc78da4b2b6e5">11302	外卖商品-店铺分类（文字）</p>
+<p id="b-f475fc681a7442d887a2a9aecccd94b5">20837	外卖商品合规-图片</p>
+<p id="b-8b564e1a34fc4363b859b2bdbaf41b65">40196	外卖商品合规-视频</p>
+</td>
+</tr>
+<tr id="b-84594b687be2458eb12b0fcc1359c087">
+<td id="b-ee8c9d242c3943d691ea9c81a5bb46ee">
+<p id="b-c7e74709cc664818a2a21dc8eb841be5" style="text-align:center"></p>
+</td>
+<td id="b-27ebc7a72e164072986376c88a93c872">
+<p id="b-4a614caa14374cb7bb3723ad2bd1f5de" style="text-align:center">实时</p>
+</td>
+<td id="b-99ecd9515dc44075b51ded13e013c292">
+<p id="b-6b720dabc3734a579e80604cb0ece400" style="text-align:center">到家药品内容</p>
+</td>
+<td id="b-98aab3a2539e4ce8bd47b34ba86e2d04">
+<p id="b-0c82a246675a4a889490eaadc34fbaa3">10950	到家商品-医药文字</p>
+<p id="b-bd975a7016a940ed854525c8c9fc8cf2">11441	医药标品-文字</p>
+<p id="b-a5d8067294d546b5b56095b2473a87f7">20663	到家商品-医药图片</p>
+<p id="b-dff3cc5feedd48bfbf644d6c55a36dee">20920	医药标品-图片</p>
+<p id="b-285b8554c5164eac95e579e0d6d17e41">40140	到家商品-医药视频</p>
+</td>
+</tr>
+<tr id="b-4e33bd1e2d50472b8524d86f97fa67e4">
+<td id="b-b994024786744023a750396fc7682cde">
+<p id="b-8efa7cb8ba154376963d38b0208e6f4b" style="text-align:center"></p>
+</td>
+<td id="b-e6c38c72034f4102bc72b15aa562597d">
+<p id="b-9acaae9b639d4c9eaae8c0af8b39f876" style="text-align:center">回扫</p>
+</td>
+<td id="b-64c102a1762b4f969f33bcabf76a786f">
+<p id="b-6b1091223bbd4fa78034a61f2da7f98d" style="text-align:center">情趣商品回扫</p>
+</td>
+<td id="b-2daef3fa4d67411da1cb0a6e2e69ac07">
+<p id="b-adc73c26e7e747579a5b75b5a9305301">10949	到家商品-（医药）情趣文字</p>
+<p id="b-d57f1c72135147229422c43e46c01168">11026	到家商品-闪购（成人）文字</p>
+<p id="b-e3da8601e3254f76a17ef0d0b2a01577">20662	到家商品-（医药）情趣图片</p>
+<p id="b-70663088929f4b37a3e34218e48c2f87">20697	到家商品-闪购（成人）图片</p>
+<p id="b-247cfd05774e4a0499af4825eb3efd9f">40154	到家商品-闪购（成人）视频</p>
+<p id="b-dd305c4cd83e4d24b5c1746407e32e58">11312	买菜-情趣商品（文字）</p>
+<p id="b-6b81ff7475bb4083aec022e15c6d495a">20847	买菜-情趣商品（图片）</p>
+</td>
+</tr>
+<tr id="b-6df479b2e1574ed78f22e73ef53fde28">
+<td id="b-c739b9634022495091df0a757fab895d">
+<p id="b-431fffe33b444251b4bcea8e846434b2" style="text-align:center"></p>
+</td>
+<td id="b-27f8ad8679b94f19b20731224bdd4138">
+<p id="b-65f022e8e28841f48ac83789a553164f" style="text-align:center">实时</p>
+</td>
+<td id="b-1df7cc4379d74b02b882bdd9819e6d9b">
+<p id="b-9d496618293f471790741aa7e43d90ba" style="text-align:center">到家情趣内容</p>
+</td>
+<td id="b-d345d2f587f04ee7bd577464b02193b5">
+<p id="b-5036e330e2994f34a97ddfa1d4d0dad0">10949	到家商品-（医药）情趣文字</p>
+<p id="b-64ef895b46d0480889388ee118b2c5f3">11026	到家商品-闪购（成人）文字</p>
+<p id="b-84041e5639e94d8eb4f5aacc7c3dac22">11438	闪购成人用品标品-文字</p>
+<p id="b-d50e0e05aa0a4c1db81dd7b262f271d3">11442	医药情趣标品-文字</p>
+<p id="b-2258fd087ca64e9ba811a1281db5e62c">20662	到家商品-（医药）情趣图片</p>
+<p id="b-6030160dc34244e185533ecb306a78ff">20697	到家商品-闪购（成人）图片</p>
+<p id="b-fddc067c7fa94e5fb76fa6c2943d90ea">20903	闪购图片库-成人用品图片</p>
+<p id="b-594f100f35824860bc9ee3e31f75fc36">20916	闪购成人标品用品-图片</p>
+<p id="b-10716369f7954ec39fb3bf3b071a6a3d">20921	医药情趣标品-图片</p>
+<p id="b-b8900770cefa45bcaf8d148fecb82ec3">40154	到家商品-闪购（成人）视频</p>
+<p id="b-b01d69a3a09d4f2a9f13ae20998af720">40212	到家商品-（医药）情趣商品合规-视频</p>
+<p id="b-0b5a8d75b59c4eb2bc253c955430430b">11210	团好货成人类目-文字</p>
+<p id="b-e4152717178b4a3094d57ffff16edfab">20798	团好货成人类目-图片</p>
+<p id="b-2930623cb4bf4eb79aab3c8688d20e82">40211	团好货商品信息-成人-视频</p>
+<p id="b-5098123d2fa04d83ba02c573d3fa162d">10949	到家商品-（医药）情趣文字</p>
+<p id="b-b467535963bb4c989195e3aad2fa0b8c">11026	到家商品-闪购（成人）文字</p>
+<p id="b-33795df05fce4f67b1b5bf8dc1f95550">20662	到家商品-（医药）情趣图片</p>
+<p id="b-42670aaca3024591ac9361f2f3580005">20697	到家商品-闪购（成人）图片</p>
+<p id="b-f8d5d1da585e4ff4a21518f13666d6c7">20903	闪购图片库-成人用品图片</p>
+<p id="b-206d4cb86ef840488ed9b38166732651">20921	医药情趣标品-图片</p>
+<p id="b-c9416dc596bf4f45aaa3c0db939dc277">40154	到家商品-闪购（成人）视频</p>
+<p id="b-00135717569b4c83aff1285bebdfb674">40212	到家商品-（医药）情趣商品合规-视频</p>
+<p id="b-142fe78dbc7d4f3985044fbcef9a9707">11210	团好货成人类目-文字</p>
+<p id="b-5d89c90365db4b69a8ea16c766554af2">20798	团好货成人类目-图片</p>
+</td>
+</tr>
+<tr id="b-ff05f82c555447d0a0fbe9c3d37d9e30">
+<td id="b-dde40a1792e14df2a464ff98840f3f4c">
+<p id="b-f793ccec9b1e4b748eee5234b55c7d06" style="text-align:center"></p>
+</td>
+<td id="b-524f168332dd4c34a5d40ddd9a46fed4">
+<p id="b-630af9c2463f4493b99ca11f49b7e4fa" style="text-align:center">实时</p>
+</td>
+<td id="b-e224ca353c23488f8c7eef295c44833e">
+<p id="b-f4e370f7628f45c0a9ac328851e6a967" style="text-align:center">买菜商品内容</p>
+</td>
+<td id="b-4b18413a93be41edac1956fad0cd9a31">
+<p id="b-5bf9fcf1697b4ab5a26d1e42ca5fd0c0" style="text-align:center"><a href="../1294713871/README.md" title="学城原文：https://km.sankuai.com/page/1294713871；无权限" id="b-4c08071258b841d8bbcc6d4be3c947db">买菜商品审核标准</a></p>
+</td>
+<td id="b-50edb62845344e178d80b880deec0fc0">
+<p id="b-f3b0663f2b204233a1c34b49b9097429">11311	买菜商品合规-文字</p>
+<p id="b-6123b1c8bb7e4b7fa15c8ae64eadd659">20845	买菜商品合规-图片</p>
+<p id="b-30bf2225315e4eb6abebda89c1e6f0cb">40200	买菜商品合规-视频</p>
+<p id="b-dd38f4c6e5cb4bbda364b30c4949b6bc">20845	买菜商品合规-图片</p>
+</td>
+</tr>
+<tr id="b-1c88bfea30724b40b523313edf22e439">
+<td id="b-0a14fe411b924bfb9532200f34baed8f">
+<p id="b-86243505db4d43e2b68628369bc702cb" style="text-align:center"></p>
+</td>
+<td id="b-e73bf18b651f44d68702c0cdb7e16184">
+<p id="b-2794d516ae2540f297926ffca6175db5" style="text-align:center">实时</p>
+</td>
+<td id="b-fb29683e004f4234994ae6a8e975b811">
+<p id="b-56d57540612241508c81b92b2be346e6" style="text-align:center">团好货内容</p>
+</td>
+<td rowspan="2" id="b-61c7ed640c9e43bdb33a18c4aaeb5154">
+<p id="b-434ed2ad2eef45d8925ba5f0f0d75955" style="text-align:center"><a href="../1297234982/README.md" title="学城原文：https://km.sankuai.com/page/1297234982；无权限" id="b-c7c99ac5e0ea4d9490f345f37c33fb84">团好货审核标准</a></p>
+</td>
+<td id="b-ef7164867f354913b60eb599d28667ce">
+<p id="b-71695099d0d74d3ba840aad8abeb92fb">10593	团好货评价（美团拼购）-文字</p>
+<p id="b-a7017839a8b54864af4106e52c32bae1">20455	团好货评价（美团拼购）-图片</p>
+<p id="b-bb61984da27b4887b34ab7330eefd8a9">10593	团好货评价（美团拼购）-文字</p>
+<p id="b-61c9a037228745c9898da18b2dc448f6">20455	团好货评价（美团拼购）-图片</p>
+<p id="b-662f561c1dfb43e498b3add5e2b083ea">10593	团好货评价（美团拼购）-文字</p>
+<p id="b-c9c47731125b4bba804483df4853f354">20455	团好货评价（美团拼购）-图片</p>
+</td>
+</tr>
+<tr id="b-59bc750a97d94352986156156e8f76fd">
+<td id="b-8c8431cbffc9463885e20150ff331c67">
+<p id="b-ecdcb6748b5f4974b6abb9e8eb97d416" style="text-align:center"></p>
+</td>
+<td id="b-f33d2e74166d422b9201a57c308bc198">
+<p id="b-86d5b8064c2a4cdbbccfd5378a128fa2" style="text-align:center">实时</p>
+</td>
+<td id="b-503cae5f86fc40b2a122a8837a36a47a">
+<p id="b-2827a0a2658e42fca6a1407baa33b54d" style="text-align:center">团好货商品内容</p>
+</td>
+<td id="b-5a7af476124b4cd59881ba2e33fa7426">
+<p id="b-c76c89770ef44154a297e5d58f410224">11209	团好货商品-文字</p>
+<p id="b-c467293a0dc248418b852dbe35e70c04">20797	团好货商品-图片</p>
+<p id="b-9d299e8cae904f178fb5c49a814f137d">40185	团好货商品-视频</p>
+<p id="b-988ec2fda0dc436d88639b00e46563a6">11209	团好货商品-文字</p>
+<p id="b-60e820d887954631858127956b48bae7">20797	团好货商品-图片</p>
+<p id="b-44c2766d5ec540dd9c949b39264b7352">40185	团好货商品-视频</p>
+</td>
+</tr>
+<tr id="b-4b3cdb197b1c47ed89a9299bb6c7295b">
+<td id="b-bcc233219c944029b0c379015a32263f">
+<p id="b-5092f81e6f924c1f9bb07ca62ca6d0a9" style="text-align:center"></p>
+</td>
+<td id="b-7c7a52b29ac440288ae49fd5e2375324">
+<p id="b-4a023d7c220e4e6eb8a865903bd023e7" style="text-align:center">实时</p>
+</td>
+<td id="b-1255610b07804911b4cca83a556d5022">
+<p id="b-6d2afc57ace74b138f4fe3ec7a5b8887" style="text-align:center">优选商品内容</p>
+</td>
+<td rowspan="4" id="b-f2ff227a5a854ebb9587d8e7367db496">
+<p id="b-82a0c4ba159e431c8e893806db0aac0e" style="text-align:center"><a href="../1200534995/README.md" title="学城原文：https://km.sankuai.com/page/1200534995；无权限" id="b-4e831232162b40ae8af9ac56ac33bd91">优选商品审核标准</a></p>
+</td>
+<td id="b-f9cae1689b4f4dc3be790a4fc167a5b4">
+<p id="b-ae6825d5713b4aab8b825145635d0175">10807	优选商品合规-文字</p>
+<p id="b-206ad1ca060541e9a8c9ac3c98510626">20599	优选商品合规-图片</p>
+<p id="b-aa6fb96667d544bab1807ed7c8dbe573">40109	优选商品合规-视频</p>
+<p id="b-8d040bb0358a4121bd6fe8706adacda9">10807	优选商品合规-文字</p>
+<p id="b-7d74338175c5427fb80bdbd7d544fd2b">20599	优选商品合规-图片</p>
+<p id="b-75adae5060ab42cea8cbb182fcfac764">40109	优选商品合规-视频</p>
+<p id="b-9ec79f27593e483fb85893068ef641ad">20599	优选商品合规-图片</p>
+<p id="b-667d835bbac94a23aa8c7ad24d2ebe39">40109	优选商品合规-视频</p>
+</td>
+</tr>
+<tr id="b-11c3b6b105d442c19f4486dd2180613a">
+<td id="b-9e6a587d4d254c39b48d751102ed81a8">
+<p id="b-0c82a39a4c0a4205869648e088834c37" style="text-align:center"></p>
+</td>
+<td id="b-9dfbd88dc8504a739198dbfb392bbae0">
+<p id="b-7e66a863277741eb820a5653b8346005" style="text-align:center">实时</p>
+</td>
+<td id="b-784942c247be43aeb812869f10b1ad25">
+<p id="b-4622002a1a2641ccbd9fa44a581526f8" style="text-align:center">优选商品审核</p>
+</td>
+<td id="b-bac548109b344fa3a46266b3b26f1ade">
+<p id="b-ae7bbeaf6d3b4e11963b27cba69543c7">70000	优选商品接入</p>
+</td>
+</tr>
+<tr id="b-c034787a323f4fc1af20663067b1e233">
+<td id="b-760f1efd03d8433fbef79ed053c5c24c">
+<p id="b-73428128c6c548a9a27f6b54061ddfef" style="text-align:center"></p>
+</td>
+<td id="b-78c3f10a0baf489ab8a6aa7f860df727">
+<p id="b-c7eb273e8bb54dd0a1cee0341abb1857" style="text-align:center">批量</p>
+</td>
+<td id="b-2860684f0027494cac30c190c33fccac">
+<p id="b-81bf682344484981bf108b61e07d207c" style="text-align:center">批量导入-优选商品内容</p>
+</td>
+<td id="b-254a84bf1f934da5861d0a331ca7f586">
+<p id="b-4a78ae21979e499aa33513f8b06a4b20">10807	优选商品合规-文字</p>
+<p id="b-c177e75a7fc44e33a281e4e8b3177a79">20599	优选商品合规-图片</p>
+<p id="b-8905fd9f92904fd9844cdf8eecc626db">40109	优选商品合规-视频</p>
+</td>
+</tr>
+<tr id="b-45999365d9ba45c1b4ef62b8d18cf391">
+<td id="b-56f928034f1b426784c9a46af08d3c78">
+<p id="b-8b16209058ee4cbebec25ce2ab0e1a9a" style="text-align:center"></p>
+</td>
+<td id="b-18493df9e69e426c8f15f7168f3e2a6e">
+<p id="b-6f30f5e6977b48f693e9b13c8b550d93" style="text-align:center">批量</p>
+</td>
+<td id="b-f83f188b422d405692ca56881e0727b3">
+<p id="b-dc0faf2ce74d4a7eb6fb3b18e0b25505" style="text-align:center">批量导入-优选商品审核</p>
+</td>
+<td id="b-deecb070ed544da980a1a73aac175b03">
+<p id="b-6cf5dcf1c1104e52af323a3717d0b458">70000	优选商品接入</p>
+</td>
+</tr>
+<tr id="b-42aa14e61bdd4340a91c9e6323104ca3">
+<td id="b-ec077c7685794e2b962e0c63e8214c45">
+<p id="b-b737d172766f4829821fcf76eca17884" style="text-align:center"></p>
+</td>
+<td rowspan="8" id="b-f2566d40d6014021aebcd39699de2a96">
+<p id="b-75be915b70614eb7911da72f674f79ae" style="text-align:center">实时</p>
+</td>
+<td id="b-0dddc3ae62874057b9f47a5291e00c0c">
+<p id="b-f721c923825e42efac26a6f821160f07" style="text-align:center">到综直播流</p>
+</td>
+<td rowspan="8" id="b-2974cd09551945e7bde6a64d9c753468">
+<p id="b-f4e5c1b165cd4830a868792010943045" style="text-align:center">单模态 - 直播标准</p>
+</td>
+<td rowspan="4" id="b-1d45bb5fe0e240b1bdd434589eb18bc4">
+<p id="b-9e9f5313511d4aeaa7992e865e606628" style="text-align:center"><a href="https://km.sankuai.com/page/1315488840" title="直播流通用审核标准" id="b-1b3c63c67b304a2ea2a4c2084e8f0850">直播流通用审核标准</a></p>
+<p id="b-df11c8ef7f744efe8bd2f92e15d9c0fc" style="text-align:center"><a href="https://km.sankuai.com/page/1315487345" title="开车直播标准沟通" id="b-138c68b6ce824de6b5a6acb18b3737b5">开车直播标准沟通</a></p>
+</td>
+<td id="b-d3d12044c75f433abc3df53bd9c8e5f0">
+<p id="b-2d35aed0a0b5408a884681a9ca9ced1e">50002	到综直播</p>
+</td>
+</tr>
+<tr id="b-adb28536fb1844f0831d81643494b067">
+<td id="b-c40c762d3328405a909256bbda47f072">
+<p id="b-d4d631bff30d4249838601b2d1e0ed3a"></p>
+</td>
+<td id="b-77054a8bd912485f9b92a86a48c2fae0">
+<p id="b-9ed2fab04371432085a6c344029ddec9" style="text-align:center">点评直播流</p>
+</td>
+<td id="b-a02f9ba649024a29bfb2c6a29d2658f0">
+<p id="b-50119d81807044de89bebd2f56439d16">50001	点评直播流</p>
+<p id="b-0d9196a879bb4ddd9afa7d51ca69106b">50005	酒旅住宿直播</p>
+</td>
+</tr>
+<tr id="b-1e6e118f0342467497ed48dda4ab4ee1">
+<td id="b-5921a2278c3b4627a26dedd516020b4d">
+<p id="b-5dd66b2dc4494ee2a6d4ec329280bc87"></p>
+</td>
+<td id="b-e99128d2da58416bb2c1df056fd271ff">
+<p id="b-cbe0fab15ff64ac6907380eac667a26a" style="text-align:center">美团平台通用外卖直播流</p>
+</td>
+<td id="b-4f270b5bd46c4801b3395d82308058d0">
+<p id="b-dda7a73e4e164344a156f6287b858855">50007	外卖业务-视频直播</p>
+</td>
+</tr>
+<tr id="b-54f4ec313ad74ca39a9d161b3460be01">
+<td id="b-f5cec8d3f2fb4c749fe72370e8715366">
+<p id="b-bca8ca7476e94a98a619d12911fb9356"></p>
+</td>
+<td id="b-30cd73d87088465aaf293f111fcec19c">
+<p id="b-33d70e911e5c42fb828314798a6bee5a" style="text-align:center">外卖直播专审</p>
+</td>
+<td id="b-f2f9d811e0444c7897cfe115abd47228">
+<p id="b-34b224e390694b85bd6fac0aa05f9ed8">50002	到综直播</p>
+<p id="b-20c60881770e4ad59db39cfa0b4f260c">50007	外卖业务-视频直播</p>
+</td>
+</tr>
+<tr id="b-e2bd1e15e3204a9b86fb197515140e38">
+<td id="b-fd1c034f41004b7c8803b0e1c7a612fb">
+<p id="b-0bc3382a9ede49869ab0b3b7bd33f5e7" style="text-align:center"></p>
+</td>
+<td id="b-8c0da7ea14b549f3ba67d732e23bc026">
+<p id="b-dc1b7c4c88b247fa8f9f3dfd45528d04" style="text-align:center">到综直播图片流</p>
+</td>
+<td id="b-227631e7c707438fb1202ead538e7d5c">
+<p id="b-aa85ee7abd5e4a989a18224639cd9b70" style="text-align:center"><a href="https://km.sankuai.com/page/1315467869" title="直播图片流标准完整版" id="b-115738c8908840c78936a11b4696e39f">直播图片流标准完整版</a></p>
+<p id="b-b7f44093d39548f996b6ad8d0d37b06f" style="text-align:center"><a href="../1315508186/README.md" title="学城原文：https://km.sankuai.com/page/1315508186；无权限" id="b-b8bc598cdc8f4a6abe10674d11b62d54">到综医美业务标准</a></p>
+</td>
+<td id="b-45d2353e81a34a278f8967f1d10429bf">
+<p id="b-b38bc8440d464cc192850d13ff5a8281">50002	到综直播</p>
+</td>
+</tr>
+<tr id="b-4dfdfbd153324d39bd1b95cc62a73863">
+<td id="b-964399c2c10c4006855b6315ff061fa7">
+<p id="b-753df36eecce405aa93dd3c19d91094b"></p>
+</td>
+<td id="b-65d4e19d7a6a41ccac3da8017451f94a">
+<p id="b-3ff6a7f8d5db446a925bd75ce7dc2b2e" style="text-align:center">点评直播图片流</p>
+</td>
+<td id="b-638721b271b248a4a1a9dd52b589299b">
+<p id="b-51ac51cc034a4d3ea335687795f7c460" style="text-align:center"><a href="https://km.sankuai.com/page/1315467869" title="直播图片流标准完整版" id="b-cfbe6b7a7cfd4f71b98a233346281fff">直播图片流标准完整版</a></p>
+<p id="b-337418b7fed44ce485869a380c283b19" style="text-align:center"><a href="https://km.sankuai.com/page/1315429593" title="二维码处理尺度（点评直播）" id="b-2c55ac52ec5840f1a32f072703635d76">二维码处理尺度（点评直播）</a></p>
+</td>
+<td id="b-5bf9fa03d1694d2bb87d3ac1f5c55d69">
+<p id="b-e0abf20110934f4a9561f161c2e8ef18">50001	点评直播流</p>
+</td>
+</tr>
+<tr id="b-d09f1b88be7b4716afdc569951670361">
+<td id="b-4d3a6df1bf9d427ab906e209026f4c4f">
+<p id="b-15752e2d3ce540c8b17479546e770b65" style="text-align:center"></p>
+</td>
+<td id="b-4e4f187dc0464382a7dcceaca58de2fc">
+<p id="b-c4b66721b3ca41469928633ee1a6cc6b" style="text-align:center">优选直播流</p>
+</td>
+<td id="b-5438a2101808423a9fe2084d6b356a18">
+<p id="b-459ad5812a3745baa55891ed6abe98eb" style="text-align:center"><a href="../1315429710/README.md" title="学城原文：https://km.sankuai.com/page/1315429710；无权限" id="b-602aa2d68ef34755857b4557d802090d">直播标准-美团优选</a></p>
+<p id="b-bffd440ff213438a91106715e2499b38">            <a href="../1315542100/README.md" title="学城原文：https://km.sankuai.com/page/1315542100?from=citadel_collabpage；无权限" id="b-b56248a576874b93b26937055b67e273">https://km.sankuai.com/page/1315542100?from=citadel_collabpage</a></p>
+</td>
+<td id="b-744e439c779f4efe84bbe82b6ed29a6a">
+<p id="b-818ba6b05a50471fb3dd34ba7d86d5fe">50006	优选直播流</p>
+</td>
+</tr>
+<tr id="b-c91900f27d5843a9bf1bbe5062215b27">
+<td id="b-c64dc75a61d7405fbcc41e96604bf8db">
+<p id="b-797232216d2442048a80ad96e7c55918" style="text-align:center"></p>
+</td>
+<td id="b-d07228237888496aad80927b176326bb">
+<p id="b-ee3e27924a5c46a9a22d8431a1d6487c" style="text-align:center">直播标题封面</p>
+</td>
+<td id="b-e873dadf69b04c7c95e115ecb6fff3b5">
+<p id="b-763ffaeb8c9845c2908d287b1d241821" style="text-align:center"><a href="https://km.sankuai.com/page/1315524812" title="直播封面审核标准" id="b-0a5ec59c41114c3f8b737d9adb27b7a8">直播封面审核标准</a></p>
+</td>
+<td id="b-c9d770b6fff94a05b17d293c4458dab5">
+<p id="b-7bcf03140d1e4321b680dd323473daa5">10009	丽人直播文字接入</p>
+<p id="b-15c9bf73dd494807b747941f8dd90ef9">20009	丽人直播图片接入</p>
+<p id="b-ec56658e49184e829a69b57e5ca5e9c7">20514	教育亲子-直播物料审核-图片</p>
+<p id="b-22e5afe34ced42d1a06b90aed68f9d17">20009	丽人直播图片接入</p>
+<p id="b-91ce29d6afdb4b8eaaefe147e2bf85c3">20514	教育亲子-直播物料审核-图片</p>
+<p id="b-7ef096295ca8452bb68cf505ba30912b"></p>
+</td>
+</tr>
+<tr id="b-f6a0801373014fb6b0e19f5289c13d8c">
+<td id="b-6da4383e0366477fbf15282fb27500c7">
+<p id="b-91ddc6144b894656be2ac171dac15b21" style="text-align:center"></p>
+</td>
+<td rowspan="2" id="b-16c98ee8f82e4997a5a0422ce1cf1844">
+<p id="b-03508df3c5514aea80e108b35260dc5f" style="text-align:center">回扫</p>
+</td>
+<td id="b-d5a34a7075dc48c79689be8c075b6ebc">
+<p id="b-a801999eae4d464a88a63f92ce5ab266" style="text-align:center">回扫-多模笔记</p>
+</td>
+<td rowspan="9" id="b-46c6a01c798b47e09d8885eaa12315dc">
+<p id="b-a1dbbf27375343d89523a3de2c8a672c" style="text-align:center">多模态标准</p>
+</td>
+<td rowspan="9" id="b-ed423ef75b084d0ba8034f5ffd00fa31">
+<p id="b-fb934b2d20774f5e88cad3a0cb22b16a" style="text-align:center"><a href="../1293537692/README.md" title="学城原文：https://km.sankuai.com/page/1293537692；无权限" id="b-eab472bdfc9640c3bda7019ed91c0cd8">1）交互类组合审核标准</a></p>
+</td>
+<td id="b-7354d9e2807a48e484f96cc601d386b6">
+<p id="b-96390a8273ce4db59ff70d09f8ccd316">100002	点评笔记</p>
+</td>
+</tr>
+<tr id="b-ea0d90515653467f97fc02921f67783b">
+<td id="b-383806f2a93b47fdb95840a498d2f39c">
+<p id="b-564b385bf77346e79ea59f5e200a5f66" style="text-align:center"></p>
+</td>
+<td id="b-b05a57f815094beb9912ab05806698d9">
+<p id="b-a0a43575c1dd4c6f933bfb633c266810" style="text-align:center">回扫-多模回应</p>
+</td>
+<td id="b-43f0112339704b2fb8c62d95cfcea971">
+<p id="b-268127f017bf498b8258f1f1c5fc3c25">100000	评价回应</p>
+<p id="b-fa0f56d5e01c4dae83ba6019b88ae0af">100001	笔记回应</p>
+</td>
+</tr>
+<tr id="b-188d94546b054d1c944893f078956b47">
+<td id="b-7b5a0ccbbcbd4560a3ce89fe57eb1b82">
+<p id="b-4c7c14d809d1403688cb3d58468d3cdc" style="text-align:center"></p>
+</td>
+<td rowspan="7" id="b-aab181c31d9245e985d52fb230c83468">
+<p id="b-9aebb8b6a11044ba91d34a6aa6e89827" style="text-align:center">实时</p>
+</td>
+<td id="b-7ceda61511b04ba2aea0a9dec8570824">
+<p id="b-94790678b5614b929b86f249e5ac7634" style="text-align:center">24小时美团平台团团视频</p>
+</td>
+<td id="b-e5b78046f8ee488283f4f699b972e295">
+<p id="b-e77daade50ba4339b0c4ba5ad621b7e0">100006	美团短视频多模</p>
+<p id="b-a4f592a56a5a4f0eb10e0e49d2a546c5">100016</p>
+<p id="b-97cb0c6304834518a18b85d996474eef">交易视频</p>
+<p id="b-eaa1a03a5bed47648c64ddce9d1cd996">11747,21100,40290</p>
+</td>
+</tr>
+<tr id="b-06ab47538c9a42f88ca8ed8ad262695f">
+<td id="b-7e73bb686afc46b094d41af7725fae35">
+<p id="b-50efcbc157c54b8fbdd3cd0ad6258885" style="text-align:center"></p>
+</td>
+<td id="b-e3a09f95aa09436c92c3e38bd09a1001">
+<p id="b-a208a892ed284773a1e9898aea6ef89a" style="text-align:center">4小时美团平台团团视频</p>
+</td>
+<td id="b-369c6212d14345ac9afe0dc095735c8e">
+<p id="b-d45a1c751d3f43f59fb0f17107182d70">100006	美团短视频多模审核</p>
+</td>
+</tr>
+<tr id="b-e703f2da81f6461a83be376759c6bcc1">
+<td id="b-85c48668f0474b0a8c858d5e50178458">
+<p id="b-e7129886d6ef442bafc73691e769dc04" style="text-align:center"></p>
+</td>
+<td id="b-f67921dfd7ef4ef897f28537eb166a50">
+<p id="b-ffc12b7edd234dea998b80684e12dde2" style="text-align:center">点评通用24小时多模笔记存量</p>
+</td>
+<td id="b-7e2d2435b08642c4a20414a8a8b852c8">
+<p id="b-76a9b2b412614df78a27a4d0fd36895b">100012	点评导入流程笔记</p>
+</td>
+</tr>
+<tr id="b-84e6b1dffe7a4251b58e5a032c1c08f8">
+<td id="b-0fddf95250894ec09bccede2ecad7b1c">
+<p id="b-1fe4d88c72444329b77ffb73e143f48c" style="text-align:center"></p>
+</td>
+<td id="b-c051a94a4bf64722bc3883e1dfb00320">
+<p id="b-51a3f7a6c1314d889da2e6e8d641e3fa" style="text-align:center">点评通用24小时多模团视频</p>
+</td>
+<td id="b-8f073ec8f9de41a994ac337d5edc71e9">
+<p id="b-5267aac52a5642509b984e65636d7094">100011	点评导入笔记</p>
+</td>
+</tr>
+<tr id="b-9b38e7558db242109c0582ba5561e54a">
+<td id="b-024dfd1bc71c41848c574e2049994f60">
+<p id="b-3cb0ebc5361d4f6dbb26c9ebf9375646" style="text-align:center"></p>
+</td>
+<td id="b-949dc3eed3944e68b5354076099ad5d2">
+<p id="b-805a16a5bf6247ab9aa2ae9c99c63509" style="text-align:center">点评中台通用笔记视频24小时</p>
+</td>
+<td id="b-05a8e9db55dd4b76bfc6ea46e7b27228">
+<p id="b-25f389135f9e4c1ba7f2d78b804c8e05">240	笔记视频</p>
+</td>
+</tr>
+<tr id="b-28cf096967944dde89629724b6d01136">
+<td id="b-2112e6fbe38f4edd8703910c9ea2389d">
+<p id="b-6f30b44682c94b8daf1f414e8eb288f7" style="text-align:center"></p>
+</td>
+<td id="b-6cd185714695436baa6736b4317a7092">
+<p id="b-0227692f0d6e4f19b47ae85112624737" style="text-align:center">多模态-笔记</p>
+</td>
+<td id="b-dcc4f15fa8f9452589babf4b8d61ed81">
+<p id="b-2d8fc69c86774305afcade2f2008fc20">100002	点评笔记</p>
+</td>
+</tr>
+<tr id="b-fdc38a3e8d08431aa653a17f936dac6e">
+<td id="b-080b5f1b57204131917f5efddf9a9c6a">
+<p id="b-2b4b46fbc9244506bd7f134df6f2409f" style="text-align:center"></p>
+</td>
+<td id="b-16ebf585dcf143668f3a4f973dadee00">
+<p id="b-e127cfd3020c4cb2baf1853b8853598b" style="text-align:center">多模态-回应</p>
+</td>
+<td id="b-ba3c1fc445af45ada44b9c7a4fad11a5">
+<p id="b-4b689b9ae82944e29a49631b0196473c">100000	评价回应</p>
+<p id="b-c19859f345194793b5bc700923aef2f1">100001	笔记回应</p>
+</td>
+</tr>
+<tr id="b-220258933a1046e5b53dd7d0023e8693">
+<td id="b-0c9a14b78aea4118a747ec2cef73606e">
+<p id="b-25978d2b3153452c90951480872aee61"></p>
+</td>
+<td id="b-49882e08b5ce41c6a3ba186f0a1a8dfb">
+<p id="b-696f429c49e749e5819f1710436c0aa6" style="text-align:center">批量</p>
+</td>
+<td id="b-9ab76c4327ae41aa855fda5c0c7f0c1d">
+<p id="b-2353a9c23f9e4228974e41a198871aff" style="text-align:center">点评商户头图（非合作）</p>
+</td>
+<td rowspan="4" id="b-53f8b2303efa43c889258a55ab99a2fd">
+<p id="b-b7e56d6e1d264c5db0e98b2cce446f19" style="text-align:center">通用 <span style="color:rgb(77, 81, 86)">➕</span>用户商户审核标准</p>
+</td>
+<td rowspan="3" id="b-52d9d6c1ed3f4f2b94c262e938abd96d">
+<p id="b-b06ecd2a27c14d39b72e06519d6b6e51" style="text-align:center">通用标准</p>
+<p id="b-3f1eb9396a724906a9a8f054a32561ef" style="text-align:center"><a href="../1316020972/README.md" title="学城原文：https://km.sankuai.com/page/1316020972；无权限" id="b-ffc06d4ebd2e40188d8eb0512efd3269">商户审核标准</a></p>
+</td>
+<td id="b-b8fe051bf2f84041b6db9489654bcdd1">
+<p id="b-a196cd9591134b6b9b930d9eb0254f30">20330	点评未合作商户头图</p>
+</td>
+</tr>
+<tr id="b-699602d7623141ea964ed3c89cc64b83">
+<td id="b-5898071870be4cf6be65d645f451a934">
+<p id="b-01baedfed2a84f638d3f47b9432d6a35"></p>
+</td>
+<td id="b-ae63919222884799beff2cb46947ca91">
+<p id="b-c345632add204cab8c8e1b50b87688b2" style="text-align:center">实时</p>
+</td>
+<td id="b-3548d5d15c584840aaf9ee2fab35f088">
+<p id="b-8c3bfeeb812249edbf2bd652e9ca4576" style="text-align:center">足疗按摩商户名</p>
+</td>
+<td id="b-4ff3c9312d1c415ca2a2175f32de0edf">
+<p id="b-17d1361480774652ae59865954ab8695">20348	到综店铺装修-头图</p>
+<p id="b-d4d962c1bb3444fe92e2b8458a4c9d0e">20349	到综店铺装修-相册</p>
+<p id="b-dfdb511d25364b2d8714c0880208d670">20354	到综店铺装修-轮播图</p>
+<p id="b-57cff4e66e8b4302865818398feb187e">40033	到综店铺装修-视频</p>
+</td>
+</tr>
+<tr id="b-5375ab96aa094a20a461ea49607481f3">
+<td id="b-c9a4deb13f344effad8872bf1f46e7bf">
+<p id="b-61289e6c2a16451e86956c3386c4f394"></p>
+</td>
+<td id="b-35419c9cece544f4972650a1f3eaa5fd">
+<p id="b-7b0d1e6b9c8546bebad648aead2dffd5" style="text-align:center">回扫</p>
+</td>
+<td id="b-346fd2947e9e4e5fbe1fac172d7b41b0">
+<p id="b-b82d6ae378ff4370b12a2e8f9fa48af6" style="text-align:center">胎儿性别鉴定周期商户回扫</p>
+</td>
+<td id="b-ce4840708d7341ed8bc6b57520a400fc">
+<p id="b-a8e21d0f512b42a8b3e2f4f812d7230a">暂无</p>
+</td>
+</tr>
+<tr id="b-792ef7a6e5af45a9a7fa46de82346637">
+<td id="b-f8d224e280944ef98a970635c390d1df">
+<p id="b-a73a2f8bd9cf46d48c6a9f1db079a313"></p>
+</td>
+<td id="b-8ab617a2c754404a938a014277ab2034">
+<p id="b-1d6968beed0a404cad9774a9deb6eed3" style="text-align:center">实时</p>
+</td>
+<td id="b-5346c156f5e54f229cae9c997406d4b0">
+<p id="b-e134b991f4ee4b9cbfd127af92f366ae" style="text-align:center">25分钟美团平台实时用户</p>
+</td>
+<td id="b-b07cd61cf79d4ae0bc4499de0a8d662a">
+<p id="b-f89634100e944bb389f7c942d3304785" style="text-align:center">通用标准</p>
+<p id="b-46dace93d20b40e8bd87dc33b381f12c" style="text-align:center"><a href="../1315899461/README.md" title="学城原文：https://km.sankuai.com/page/1315899461；无权限" id="b-dcfd0ed2ecb149d1b22a3acef7e7934f">用户审核标准</a></p>
+<p id="b-3634f21d82214bdcb388363b0346ef57" style="text-align:center"><a href="../1065027299/README.md" title="学城原文：https://km.sankuai.com/page/1065027299；已保存正文" id="b-0de26771a42a409f939d3d88ab6d1c03">用户违规具体标准</a></p>
+<p id="b-dc6e1316e306420f99b947c942d616d4" style="text-align:center"><a href="../1383511721/README.md" title="学城原文：https://km.sankuai.com/collabpage/1383511721；已保存正文" id="b-e2f6a530184546bead40bbc4840c1643">招嫖用户标准</a></p>
+<p id="b-09750dbfce994248ac39a509b69bf25a" style="text-align:center"><a href="../1406727810/README.md" title="学城原文：https://km.sankuai.com/collabpage/1406727810；已保存正文" id="b-5a521af1d20d4459a082143707566080">招嫖用户回扫补充标准</a></p>
+<p id="b-33867d8d93d7468abfd717b03efe5a81" style="text-align:center"><a href="../1214312557/README.md" title="学城原文：https://km.sankuai.com/page/1214312557；已保存正文" id="b-47ab89e7bca9476188cbec0379395d73">用户昵称标准</a></p>
+</td>
+<td id="b-28257594eb6e4ace9099d77d2885ba4d">
+<p id="b-cc1d961073c54bc8a525d6fe4bd68632">10539	美团app-用户账号中心-用户昵称-文字</p>
+<p id="b-5a032c6a0dbb4d9db8c54f734acd1166">11488	用户名-文字</p>
+<p id="b-b9023a3cc9da4755be3bd7782f67d55b">20093	美团-用户头像-图片接入</p>
+</td>
+</tr>
+<tr id="b-9203b2127f154bd691a65a74cc9bad4d">
+<td id="b-072f28d82eb6479aa2fe3dd070bb6c71">
+<p id="b-cbed9ab9d7e44778993df0ee1269a8ef"></p>
+</td>
+<td id="b-af1b7490de994c0b9dbf774f21e87a97">
+<p id="b-35018bf4263c4270abb8e0ee2a21a2f7" style="text-align:center">实时</p>
+</td>
+<td id="b-be7465ed03af4cbb91a077e01f3caa48">
+<p id="b-8bc74cd07b554e08833e04fb9186e72f" style="text-align:center">25分钟点评IM实时</p>
+</td>
+<td rowspan="2" id="b-c1ee710999f24d88b97a80f3a2a8db28">
+<p id="b-2d5603a8f90e4b2e98204de4b04b529a" style="text-align:center">通用 <span style="color:rgb(77, 81, 86)">➕</span>IM审核标准</p>
+</td>
+<td rowspan="2" id="b-6637c7da1ef947139ad21ba934fd492f">
+<p id="b-40ca2f30f2134e9a918f0eb028d5c8c5" style="text-align:center">通用标准</p>
+<p id="b-fd7aec3b9dc8459db4764e40463641d2" style="text-align:center"><a href="../1229198252/README.md" title="学城原文：https://km.sankuai.com/page/1229198252；已保存正文" id="b-bd3a577c970b4526932f7ba6fa927865">IM标准</a></p>
+</td>
+<td id="b-63706279081242b8928839cb1afa6de3">
+<p id="b-0568d7d587c640cf85da3c0691ce79b2">10267	点评私信聊天大象版</p>
+<p id="b-55978f4864f047a7a8deed4bb70c2530">10675	点评老私信-文字</p>
+<p id="b-3470f5faedc140b1826047c7b62b2657">11251	点评系统消息-文字</p>
+</td>
+</tr>
+<tr id="b-05c93c10a9f64521a9f94a4b3e9ddd25">
+<td id="b-89dd637ac87b4fc79c1e3e8dc1f5e75e">
+<p id="b-7bec6bb5655245c6b79f6e8e4c21d63e"></p>
+</td>
+<td id="b-3960be7854d84d508392235577f0176d">
+<p id="b-a01087ea8eae48bab882dc962c3262b4" style="text-align:center">实时</p>
+</td>
+<td id="b-9c28e6ae453d42d2883d5bd691f49034">
+<p id="b-73b26216bac74180841a1f34f334e2a6" style="text-align:center">25分钟美团平台实时IM</p>
+</td>
+<td id="b-400104cc585e4cbe8a1ea33715e6f1db">
+<p id="b-0a32db3322054183a6825c0ee392b3c2">11551	摩西到综知识库 - 文字</p>
+</td>
+</tr>
+</table>
+</div>

@@ -1,0 +1,9577 @@
+# 暴恐极端审核标准
+
+[返回目录](../../README.md) · [学城原文](https://km.sankuai.com/collabpage/1625309615) · 已保存正文 · 2026-11-19
+
+> 正文保留表格和折叠结构。图片和媒体仅保留原始链接，需要学城访问权限。完整源数据见同目录 source 文件。
+
+<div>
+<h1 id="b-da668ea71ac141549c70c13f6722aa9f">暴恐极端审核标准</h1>
+<p id="b-c987bf22a3184511b4065ed5cb478df0">逻辑导图</p>
+<figure src="https://km.sankuai.com/api/file/cdn/1625309615/133512049991?contentType=0&amp;isNewContent=false" width="648" height="324" id="b-a85f28b1f3874f3aa0335dc1343c4f0f"><figcaption>思维导图：思维导图（原始链接，可能需要学城权限）</figcaption><a href="https://km.sankuai.com/api/file/cdn/1625309615/133512049991?contentType=0&amp;isNewContent=false">在原文服务中查看</a></figure>
+<p id="b-2824ae1520b84dcf92a927b412b5dadd">知识库文档：<span style="font-size:15px"><a href="https://km.sankuai.com/page/1308136481" title="国内暴恐事件" id="b-80ce1dbcd58c45d3a391109d359bb313">国内暴恐事件</a></span><span style="font-size:15px">、</span><span style="font-size:15px"><a href="https://km.sankuai.com/page/1308079769" title="国际暴恐事件" id="b-bf945690d1c9471a8332c792a8e5080b">国际暴恐事件</a></span><span style="font-size:15px">、二战甲级战犯</span><a href="https://baike.baidu.com/item/%E7%94%B2%E7%BA%A7%E6%88%98%E7%8A%AF/416619?fr=ge_ala#4-2" title="名单" id="b-570c292a16834200b4a313c6a0256441"><span style="font-size:15px">名单</span></a></p>
+<table id="b-bc50a87c67c14a1e9e2f0abe3191494c">
+<tr id="b-8ba0dbf045a94bda87639a61b3fb6e21">
+<th id="b-9456c4e4d49c40789963d6f99601bcf8">
+<p id="b-03c9629245c14c86b130fb4f18681c4f"><strong>序号</strong></p>
+</th>
+<th colspan="3" id="b-a8fda02169c54c879e6f488944f0f680">
+<p id="b-444accd1053849cdb6d22740d1218520"><span style="font-size:16px"><strong>V3标签体系</strong></span></p>
+</th>
+<th rowspan="2" id="b-381fc49517de485f87bcb77617c000ee" style="vertical-align:middle">
+<p id="b-8e2eb323645746d38fa76c8181453073" style="text-align:center"><strong>具体定义</strong></p>
+</th>
+<th rowspan="2" id="b-9f9ea6b8a419407fa3aca9a0a3a32824" style="vertical-align:middle">
+<p id="b-c2b04f598d614122b4fe39e6e15aad6b" style="text-align:center"><span style="font-size:15px"><strong>打标文字案例</strong></span></p>
+</th>
+<th rowspan="2" id="b-fdff31371dd54f7d9d7fe461615c490b" style="vertical-align:middle">
+<p id="b-c4785326c7e04099a8bd29c79ca15605" style="text-align:center"><span style="font-size:15px"><strong>打标图片案例</strong></span></p>
+</th>
+<th rowspan="2" id="b-6cd7ba78c7bc403680d4941817ae9e48">
+<p id="b-813b7dedf60d4acda4b36bea31d5d756"><strong>豁免案例</strong></p>
+</th>
+</tr>
+<tr id="b-950af6dedb3946f1bb9aa72e2865b53b">
+<td id="b-eb272668aeec4fdaa6270c515656c2d1">
+<p id="b-0eaf29dc37bd44159a1badbbea7e61b9"></p>
+</td>
+<td id="b-f49f621fd9f64b849055b9024bac055d" style="background-color:rgb(244, 245, 247)">
+<p id="b-33823c92f0df43f4ab60f781e8a3284b"><strong>一级标签</strong></p>
+</td>
+<td id="b-228554c860f04f4ba14c93d486ee48f1" style="background-color:rgb(244, 245, 247)">
+<p id="b-d24646d0a1744a76ad83754036940ce8"><strong>二级标签</strong></p>
+</td>
+<td id="b-5a60efc0e39f4e3ea33d611aab9537f1" style="background-color:rgb(244, 245, 247)">
+<h3 id="b-def358909d804bc89ef5592ab8934255"><strong>三级标签</strong></h3>
+</td>
+</tr>
+<tr id="b-4d8593c0e5f44de6a2fdaa1978b7cd60">
+<td id="b-3c4c0fc9e1b343769f7e93d5e3997768">
+<p id="b-e32025413232444eaf3a9a840ed901f0"></p>
+</td>
+<td rowspan="14" id="b-82a620619c9548029bff97ecf91004f0">
+<h1 id="b-b3329b07947842cd957b28accd90e218">暴恐极端</h1>
+</td>
+<td id="b-3c0b5f31f56f44b4922f35db7daf4dd4" style="background-color:rgb(255, 212, 204)">
+<h2 id="b-22bf1d2950e44aff9b86f5d9eb54e765">暴恐事件</h2>
+</td>
+<td id="b-d5565767bcaf405080d830d20f02012d">
+<h3 id="b-5a4a415f5ae74c9cad2b2b2a16b12d5d"></h3>
+</td>
+<td id="b-9984b7937ffd458b8521a821ce968195">
+<p id="b-e4b534afae2648c2baf2fdbbc4441b16"><span style="color:#FF4A47"><span style="font-size:15px"><strong>打标</strong></span></span></p>
+<ol id="b-330ea2990767408b98241fbdfa6d5bbd">
+<li id="b-a59dd6556732436799e39dee4050ea7c">
+<p id="b-24f65ee54cba4e2ca61fe053058e698f"><span style="font-size:15px">涉及国内外</span><span style="font-size:15px"><strong>暴恐事件</strong></span><span style="font-size:15px">本身的；（按照以下案例管控）</span></p>
+<details id="b-882f63bf056a431a96722a048e40f6d3">
+<summary><span style="font-size:15px">国内</span><span style="font-size:15px"><strong>暴恐事件</strong></span><span style="font-size:15px">（不泛化）</span></summary>
+<div>
+<table id="b-8121e57c958f4c62a0e6f11eb03dca2d">
+<tr id="b-97e6e6e5fce54b3d83c99418b0476dfa">
+<th id="b-cdbf40eeed3144b0bba4f4ead992e2c3" style="background-color:rgb(246, 246, 246);vertical-align:middle">
+<p id="b-12139c3716644cf693ddf589513628be" style="text-align:center"><span style="font-size:15px">名称（含别名）</span></p>
+</th>
+<th id="b-4753e6c631834eb5a7a9675907f03070" style="background-color:rgb(246, 246, 246);vertical-align:middle">
+<p id="b-e9d18b1670c044e092e0bfb4766f07f8" style="text-align:center"><span style="font-size:15px">时间</span></p>
+</th>
+<th id="b-f6f4e9581c73424f8ae4da7c8e57fa81" style="background-color:rgb(246, 246, 246);vertical-align:middle">
+<p id="b-a383069aa5b24bf98aad746bdaf02c60" style="text-align:center"><span style="font-size:15px">地点</span></p>
+</th>
+<th id="b-5cae0064e378443d99ef374e0cb2d527" style="background-color:rgb(246, 246, 246);vertical-align:middle">
+<p id="b-aaea90cd348440408a1c50bcc1c1bc8a" style="text-align:center"><span style="font-size:15px">简介</span></p>
+</th>
+<th id="b-cacee7c5f2da4b01bb2908ffd80b0532" style="background-color:rgb(246, 246, 246);vertical-align:middle">
+<p id="b-f0015a483c574ce9abda002c277dc910" style="text-align:center"><span style="font-size:15px">伤亡</span></p>
+</th>
+<th id="b-725f6c677f9d4f93b471657f76668aa1" style="background-color:rgb(246, 246, 246);vertical-align:top">
+<p id="b-ea4890e6ba054fb1892e5dc0d0494a8f"><span style="font-size:15px">恐怖组织及主谋</span></p>
+</th>
+<th id="b-79e31f391cfe46b3a7a93e2cb076b40f" style="background-color:rgb(246, 246, 246);vertical-align:middle">
+<p id="b-ea4142cd2d8e46ff9cfda89b9c5c2752" style="text-align:center"><span style="font-size:15px">恐怖行径（文字）</span></p>
+</th>
+<th id="b-04b57a78aedb4279a2ffe05a5ae78d49" style="background-color:rgb(246, 246, 246);vertical-align:middle">
+<p id="b-780be2bae16c46fd8f6130ff0c3f3bc0" style="text-align:center"><span style="font-size:15px">恐怖行径（图片）</span></p>
+</th>
+</tr>
+<tr id="b-4e50ac6373d743a995fcc5dabc75a23d">
+<td id="b-e12eb63882de47f3ba40480e80cd8e6f" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-0e0aee8c1ddf4d8ab902deb1a082b798" style="text-align:center"><span style="font-size:15px">昭苏县暴乱</span></p>
+</td>
+<td id="b-0f244d79ceda4d208bfb5a30ac76d4fb" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-d5641c822bda4d89a4189eaebd82fe02" style="text-align:center"><span style="color:rgb(0, 0, 0)"><span style="font-size:15px">1950年8月18日</span></span></p>
+</td>
+<td id="b-4243df382bff455693b12cfead0b459b" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-47ad71fe43554cb691481d84de805a51" style="text-align:start"><span style="font-size:15px">新疆维吾尔自治区伊犁哈萨克自治州昭苏县</span></p>
+</td>
+<td id="b-35eedc51f2d84e3fac1378b138a080ab" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-31445b1d3aa64a94a29f92be860cde0d" style="text-align:start"><span style="font-size:15px">1950年阿不都拉大毛拉在伊犁秘密建立大突厥主义伊斯兰党。伊犁组负责人热合曼诺夫，密谋叛乱。</span></p>
+</td>
+<td id="b-6e72c1632c304c4bad0e927d5ce956d1" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-d04b918733c64c8180fd52a0eb8d1833" style="text-align:start"><span style="font-size:15px">不详</span></p>
+</td>
+<td id="b-319e7599ee0245b8be5f59ba6a013a7f" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-01ed55ece51147c68cfe68fee07e0de9" style="text-align:start"><span style="font-size:15px">大突厥主义伊斯兰党</span></p>
+</td>
+<td id="b-140f010b8c1540c4b51e36acdaf1582e" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-eb3126b0994a40ee9036aa44f76b04c4" style="text-align:start"><span style="font-size:15px">不详</span></p>
+</td>
+<td id="b-7639a58c65d64f078b2ed2201a652adb" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-2bf2f057f3424fc8ad0f57392ff4399a" style="text-align:start"></p>
+</td>
+</tr>
+<tr id="b-95368e52f7d2445f9445313dce97c727">
+<td id="b-b323f12c0f4f4346a8fa711641f693aa" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-380db7ba42ee405a9f95617c3b5093e7" style="text-align:center"><span style="color:rgb(0, 0, 0)"><span style="font-size:15px">马力克阿吉暴乱</span></span></p>
+</td>
+<td id="b-f01c2831568149bb982b04230f2770f7" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-aa0ba78fe34c4413b3558e2798d9b598" style="text-align:center"><span style="color:rgb(0, 0, 0)"><span style="font-size:15px">1951年10月28日</span></span></p>
+</td>
+<td id="b-41634db9ca3246378e81cc44b20e2052" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-626952e83af9405fa0c6a5a720fe631f" style="text-align:start"><span style="color: "><span style="font-size:15px">新疆维吾尔自治区伊犁哈萨克自治州</span></span></p>
+</td>
+<td id="b-384f16e1dfa04068a8ab25c020cee309" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-cfc7695954ae43db834b322f2e4a9b79" style="text-align:start"><span style="font-size:15px">1951年10月28日</span><span style="color: "><span style="font-size:15px">，马力克阿吉自任“总指挥”，纠集110人，裹胁200余名群众发动暴乱</span></span></p>
+</td>
+<td id="b-8febb40bc8ed4abea214e14b17d5210e" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-79cbc37f5cda4cbf9d7ecf4273f33523" style="text-align:start"><span style="font-size:15px">不详</span></p>
+</td>
+<td id="b-b064e33c8311495f9c786002030fec79" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-d44125ac53d843a9af6701a0757573f3" style="text-align:start"><span style="font-size:15px">大突厥主义伊斯兰党</span></p>
+</td>
+<td id="b-0a56abbf3474435dbc4e7789cfaee991" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-15efee2c3bac4555af5cf9db0854a84e" style="text-align:start"><span style="color: "><span style="font-size:15px">叛军进攻夏特区驻军，烧毁军区合作社</span></span></p>
+</td>
+<td id="b-97e03829231646b0ab1f5256c69b697a" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-e73d6e47629345ab9d618bd726bd81b7" style="text-align:start"></p>
+</td>
+</tr>
+<tr id="b-88a42e71c0a04c6aa35248a50f754158">
+<td id="b-644497b06022442799a52f9bd8f82e44" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-00940c6976fd4f66af0730f16ae2d08c" style="text-align:center"><a href="https://km.sankuai.com/page/1308391072" title="南疆5次暴乱" id="b-f4fba8b6ebde477d92870ab2834e5a77"><span style="font-size:15px">南疆5次暴乱</span></a></p>
+<p id="b-a8573210bf63407eb6b5272698c4ccaa" style="text-align:center"><span style="font-size:15px">墨玉暴乱</span></p>
+<p id="b-c0c2dabd694948d2897a998680d351aa" style="text-align:center"><span style="font-size:15px">英吉沙县</span><span style="color:rgb(0, 0, 0)"><span style="font-size:15px">暴乱</span></span></p>
+<p id="b-5a2cbaf3aa674a30afbb59b67a83afd7" style="text-align:center"><span style="font-size:15px">莎车暴乱</span></p>
+<p id="b-21fd895d758b4644a17f20fe8dbe940f" style="text-align:center"><span style="font-size:15px">和田暴乱</span></p>
+</td>
+<td id="b-14711bef7c7247b0ab5330acb82496c1" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-ae0a7539d90e486c8b94767fe21f2635" style="text-align:center"><span style="color:rgb(0, 0, 0)"><span style="font-size:15px">1954年12月27日-</span></span><span style="color: "><span style="font-size:15px">1959年</span></span></p>
+</td>
+<td id="b-6303ebd1f3ca432c915fc108c70debc7" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-ed151d85ca114ee4b57ffaab26377123" style="text-align:start"><span style="color: "><span style="font-size:15px">新疆维吾尔自治区墨玉县、</span></span><span style="font-size:15px">英吉沙县、</span><span style="color: "><span style="font-size:15px">莎车县、和田市</span></span></p>
+</td>
+<td id="b-577edc2717e04156b0b95f5482fb1a24" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-074e3d4976fe449a81f1f0ea1f2e3c64" style="text-align:start"><span style="font-size:15px">反叛势力是与东突厥斯坦独立运动相关的组织，他们反对中华人民共和国政府对新疆的统治。1954年至1957年阿不都依米提大毛拉秉承境外穆罕默德·伊敏旨意在</span><a href="https://km.sankuai.com/page/1308391072" title="南疆5次暴乱" id="b-d289bc7d851b4964bdf37a8e16990964"><span style="font-size:15px">南疆5次暴乱</span></a><span style="color:rgb(0, 0, 0)"><span style="font-size:15px">。</span></span></p>
+</td>
+<td id="b-154a42d3e6ce4b558149fe9b99425668" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-5f81d0331ff845fab3d01d0c3021420d" style="text-align:start"><span style="font-size:15px">不详</span></p>
+</td>
+<td id="b-c76e538e3a4448b8bd43e46eef550ebb" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-253da538ae3f43fd8441d4d30b110032" style="text-align:start"><span style="font-size:15px">东突厥斯坦独立运动相关组织</span></p>
+</td>
+<td id="b-8db564d20c034a0c8067a1e6c76556da" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-645bbd012d964b9f86e3f39e473803c7" style="text-align:start"><span style="color: "><span style="font-size:15px">冲击区政府，抢劫粮站和物资仓库，袭击当地公安民警</span></span></p>
+</td>
+<td id="b-ad2eb94d2399462c9cd07cda73e44126" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-a207d4123fd645429097b934bd9fb455" style="text-align:start"></p>
+</td>
+</tr>
+<tr id="b-5f9c441f5a9b420d860c9910ae7773e6">
+<td id="b-56e06afbf53942a6aca58ae1a2996b3c" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-28923239899044c6ab754d7aa1ec96c0" style="text-align:center"><span style="font-size:15px">1959年藏区骚乱</span></p>
+<p id="b-75cad143f9d9498093fef064619fd028" style="text-align:center"><span style="font-size:15px">（1959年西藏武装叛乱）</span></p>
+</td>
+<td id="b-4e2f9000f4294d178e044aa9d07ffc03" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-ce51f0ca83454ed7bdd36b4d75a40f1a" style="text-align:center"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">1959年3月</span></span></p>
+</td>
+<td id="b-9f55cd6428254292a4e892a1a5d83cd1" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-6997b34f300640d68d31de0f54493a41" style="text-align:start"><span style="font-size:15px">西藏自治区拉萨市</span></p>
+</td>
+<td id="b-d63a3528d5e0466784024d82e2d204f8" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-004b20be57954b86b647de847edabe70" style="text-align:start"><span style="color: "><span style="font-size:15px">1959年3月10日，西藏上层反动集团公然撕毁1951年5月签订的《中央人民政府和西藏地方政府关于和平解放西藏办法的协议》（简称“十七条协议”），悍然发动了全面武装叛乱。叛乱分子召开所谓“人民代表大会”，决定同中央分裂，把争取“西藏独立”的活动进行到底。</span></span></p>
+</td>
+<td id="b-c694c32461644462af3c0eda0fdee778" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-cdf21eac99da4dcb8d2caadd396b267a" style="text-align:start"><span style="color: "><span style="font-size:15px">造成大量干部、战士和无辜群众的伤亡</span></span></p>
+</td>
+<td id="b-6d1f9b2928a24c2cb5b080be38619de4" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-77b794fe2d4a4a95b1ee35852d08657b" style="text-align:start"><span style="font-size:15px">西藏流亡政府</span></p>
+</td>
+<td id="b-ad52fa3356f14fc28551408f052e740e" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-66ff78f5ca61416ca2b19af17731932f" style="text-align:start"><span style="color: "><span style="font-size:15px">叛乱分子武装袭击解放军兵站，袭掠道班，伏击车辆，炸毁桥梁，截断公路，甚至围攻党政军机关驻地，烧杀抢掠、残害群众，造成大量干部、战士和无辜群众的伤亡</span></span></p>
+</td>
+<td id="b-9cef9b41d974408688a34a07b12db96a" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-3ae7881c3a9a4a06b169c1fa2031dde0" style="text-align:start"><img src="https://km.sankuai.com/api/file/cdn/1625309615/234768321695?&amp;isNewContent=false&amp;contentType=1" width="153" height="109" id="b-7d3b76e8fb61464b9a2f1f29013b2d96" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1625309615/234766186427?&amp;isNewContent=false&amp;contentType=1" width="162" height="107" id="b-8727a6c1abb04a2b8600f34b6465b1f8" alt="原文图片（需学城权限）"></p>
+</td>
+</tr>
+<tr id="b-be15cb8c60a8496a80faa1b33ca186af">
+<td id="b-d2dafa32933641ea868618d1e5ff0606" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-2b8b993d840749eebef10c98e7882982" style="text-align:center"><span style="font-size:15px">伊塔事件</span></p>
+<p id="b-eeee664eb2a24e40ac3b16ca1a1fefbf" style="text-align:center"><span style="font-size:15px">（5·29反革命暴乱事件）</span></p>
+</td>
+<td id="b-fbb61884ba9945a8b6d8bebb6c2ccccd" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-7771cd9b0877487c962c002b0dc13a62" style="text-align:center"><span style="font-size:15px">1962年5月29日</span></p>
+</td>
+<td id="b-f57872aa4eab42a3b823b174ae560c7d" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-1a6023bb3a1b4230b78cf1746b4a6374" style="text-align:start"><span style="color: "><span style="font-size:15px">中国</span></span><span style="font-size:15px">新疆维吾尔自治区伊犁哈萨克自治州伊宁市</span><span style="color: "><span style="font-size:15px">大街</span></span></p>
+</td>
+<td id="b-2af7eb6e4cb6473c96d9a96b94b2e3c9" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-6226abcbc62d43a5aa953121aa30f514" style="text-align:start"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">1962年5月29日，“</span></span><span style="font-size:15px">维吾尔斯坦</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">”组织领袖</span></span><span style="font-size:15px">阿不都卡迪尔</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">率领群众攻击当地政府机关，</span></span><span style="font-size:15px">伊宁市</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">政府被民众严重破坏。据当时参与暴动者约5万6千人得到</span></span><span style="font-size:15px">苏联</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">驻</span></span><span style="font-size:15px">伊宁</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">使馆庇护下进入俄境中亚</span></span></p>
+</td>
+<td id="b-0d2c9ecd82f64877bc411420aa9a7a8f" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-854e061e34514cb7861d554cb7c6d002" style="text-align:start"><span style="font-size:15px">伊宁市</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">政府被民众严重破坏</span></span></p>
+</td>
+<td id="b-ea26e3d75cf949848bc5aec1320540a1" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-b8afa5dea3b142b08916592a7ce0875a" style="text-align:start"><span style="font-size:15px">维吾尔斯坦</span></p>
+<p id="b-9c591f57bede4321bb75d99cce54901d" style="text-align:start"><span style="font-size:15px">（东突厥斯坦：新疆或维吾尔族分离主义者希望在新疆建立的独立国家）</span></p>
+</td>
+<td id="b-069559b7be6e4e49b5f5d89ef50c9964" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-6a31442344384030af65bbecc7fc0195" style="text-align:start"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">攻击当地政府机关，</span></span><span style="font-size:15px">伊宁市</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">政府被民众严重破坏。据当时参与暴动者约5万6千人</span></span></p>
+</td>
+<td id="b-47175346a932454bac87ffc6c1f3c268" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-25f9b189f3614762b6e649d8720c2fb7" style="text-align:start"><img src="https://km.sankuai.com/api/file/cdn/1625309615/234768082780?&amp;isNewContent=false&amp;contentType=1" width="82" height="61" id="b-b6f4dfd021a44db1b117ed1bd0a460c7" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1625309615/234768756567?&amp;isNewContent=false&amp;contentType=1" width="81" height="52" id="b-ac1e6b9851e540a0aa6e5765eebaf7aa" alt="原文图片（需学城权限）"></p>
+</td>
+</tr>
+<tr id="b-ef639eb9ba3e438d8494e454dbfe42bf">
+<td id="b-49c53f00f325428280e030acb982a867" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-3e676e7c3b7a42c388375ffade1619c9" style="text-align:center"><span style="font-size:15px">喀什武装暴乱</span></p>
+</td>
+<td id="b-11190fc042bd4a8a82acba274d803f5c" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-95b74babbef5491fae4cd29954042f1d" style="text-align:center"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">1969年8月</span></span></p>
+</td>
+<td id="b-66277866d8d14f3ab108d58632c55b04" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-e1297592bed4436fbbc64b4f27bef4f0" style="text-align:start"><span style="color: "><span style="font-size:15px">新疆维吾尔自治区喀什市</span></span></p>
+</td>
+<td id="b-186d8b69dcd746678a04c85a0b4246c6" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-86356f653b3c4dc299a035d5667731b8" style="text-align:start"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">1969年8月，</span></span><span style="font-size:15px">东突党</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">联合</span></span><span style="font-size:15px">天山复仇者</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">、</span></span><span style="font-size:15px">天山乌拉尔</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">等组织企图在</span></span><span style="font-size:15px">喀什市</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">进行武装暴乱在发动前遭公安侦破。该起事件是中共建政以来规模最大、组织最严密的分裂集团武装叛变，涉案人数达五千人</span></span></p>
+</td>
+<td id="b-260fbb088d7642b7a5130632adc06ee8" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-f847fbd983274def9c2743ce8fda0124" style="text-align:start"></p>
+</td>
+<td id="b-182548a708e24231bd68cea142e897b6" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-2f9efd92b00e472c94015f57becea221" style="text-align:start"><span style="font-size:15px">东突党</span></p>
+<p id="b-7dfe17761be54b1e88fbcaa86058dea3" style="text-align:start"><span style="font-size:15px">天山复仇者</span></p>
+<p id="b-7c6247de79ff4db9aa19fc99d2ea0e04" style="text-align:start"><span style="font-size:15px">天山乌拉尔</span></p>
+</td>
+<td id="b-6f4e3bcd711846a78033eff04ac3fc10" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-bcdddef387ef46188bbcc3099afcfd39" style="text-align:start"><span style="font-size:15px">不详</span></p>
+</td>
+<td id="b-07b82447371c4b8dba9b279b1c2bff9a" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-5220921162ff471b8c513abfa0ef0020" style="text-align:start"></p>
+</td>
+</tr>
+<tr id="b-92ae04f81c2a4e95bf02227d4a105ba3">
+<td id="b-d80136b3ea5a4d44b0f31c08fdddd5cf" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-82448367ccaa47dd8d7cdb675df29ffa" style="text-align:center"><span style="font-size:15px">1989年拉萨骚乱</span></p>
+<p id="b-274e5a56e9bb476da105a65c8f8881e6" style="text-align:center"><span style="font-size:15px">（拉萨严重骚乱事件）</span></p>
+</td>
+<td id="b-149096e6ffc342a78eb36bbdcc773ea0" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-a235558ddb1246a1b06ba0706d9d3744" style="text-align:center"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">1987年9月至1989年3月间</span></span></p>
+</td>
+<td id="b-881dc21259fc4eaf85dea062bf529458" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-46fa621e57af42608df045a32276ba40" style="text-align:start"><span style="font-size:15px">西藏自治区拉萨市</span></p>
+</td>
+<td id="b-d4d0830278e7459397eec75ae309dbc8" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-db3ea86aec134d29b367500b6693e085" style="text-align:start"><span style="font-size:15px">1989年拉萨骚乱</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">，</span></span><span style="font-size:15px">又</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">称之为</span></span><span style="font-size:15px">拉萨严重骚乱事件</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">，是指1987年9月至1989年3月间，西藏地区发生一连串暴动</span></span></p>
+</td>
+<td id="b-d3a3f1f639204f16ac667d8b9b566d79" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-a842c23980704a6884c5163480d4f930" style="text-align:start"><span style="color: "><span style="font-size:15px">伤亡上百人</span></span></p>
+</td>
+<td id="b-bbfb9ea0dd1d42f39f422863d74a9abc" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-1a6b482943fb4226be44a0296445f713" style="text-align:start"><span style="font-size:15px">西藏流亡政府</span></p>
+</td>
+<td id="b-8617a29060fa484b96b75411cf1d1c95" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-24ac7d4b72084d04ae3544b81ff7b46a" style="text-align:start"><span style="color: "><span style="font-size:15px">横遭暴徒打、砸、抢、烧的商店、旅馆、饭店达90多家，被砸毁门窗的机关、学校、医院数十家，伤亡上百人，</span></span><span style="font-size:15px">直接经济损失</span><span style="color: "><span style="font-size:15px">在300万元以上</span></span></p>
+</td>
+<td id="b-35d7735029ad49cabee6d31f09f11d33" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-7d74935f18a54e4ebe219390c4cbc498" style="text-align:start"><img src="https://km.sankuai.com/api/file/cdn/1625309615/234767645606?&amp;isNewContent=false&amp;contentType=1" width="300" height="132" id="b-e81b902885ea4f1096bf987baf1d19e4" alt="原文图片（需学城权限）"></p>
+</td>
+</tr>
+<tr id="b-4e00a55f58e8437b9bed30abfa97ac4a">
+<td id="b-8a0b3b63e91f49dbbd34555a74803073" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-ab29a036d38d4fbdaf5832ef5c4918fc" style="text-align:center"><span style="font-size:15px">乌鲁木齐五·一九骚乱</span></p>
+</td>
+<td id="b-91a9fab59f5c4cc1ae10a582c730b03b" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-612ad605be7e4b1a98ba1bc1f3f02c7a" style="text-align:center"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">1989年5月19日</span></span></p>
+</td>
+<td id="b-2e2c67aba94d4fd48716887b4af02051" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-cd3c388ecef849d0a6d67675514cbdbe" style="text-align:start"><span style="font-size:15px">新疆维吾尔自治区乌鲁木齐市</span></p>
+</td>
+<td id="b-59d0722e2158479a93cb3998d1b6b506" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-cbc37be9a8854faa83b0df356152fd23" style="text-align:start"><span style="font-size:15px">乌鲁木齐五·一九骚乱</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">，是1989年5月19日在</span></span><span style="font-size:15px">新疆维吾尔自治区乌鲁木齐市人民广场</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">发生的骚乱事件，由起初</span></span><span style="font-size:15px">穆斯林</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">示威者的游行演变成针对</span></span><span style="font-size:15px">新疆维吾尔自治区</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">党政机关的暴力事件。</span></span></p>
+</td>
+<td id="b-4b1be44a3eba438c8fbe5c39151e9d6c" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-9bf5dee9eaab49bbb038f8a0d0314e10" style="text-align:start"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">150多人受伤</span></span></p>
+</td>
+<td id="b-1b28c23cf178470980cd6981c5a4c1f7" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-0adc9d25cce44d5badb70d3fbc9c2aae" style="text-align:start"><span style="font-size:15px">东突厥斯坦独立运动</span></p>
+</td>
+<td id="b-f9f473beccaa4463acd19063abd4b665" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-c3848cac3ce0486c8bd59005fcf2b306" style="text-align:start"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">事件导致150多人受伤，2000多扇窗户受损，30多辆机动车损毁，154名公安干警、武警官兵、党政机关工作人员被打伤</span></span></p>
+</td>
+<td id="b-6b3211d2ac2649548c3b88560271ab4e" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-3b88cdfaf0b448559a1a63991f3331e0" style="text-align:start"><img src="https://km.sankuai.com/api/file/cdn/1625309615/234765071002?&amp;isNewContent=false&amp;contentType=1" width="188" height="167" id="b-1472bae689534744a40b07ec96c1a281" alt="原文图片（需学城权限）"></p>
+</td>
+</tr>
+<tr id="b-929264543876443c9f1eb9c443ce9a55">
+<td id="b-aa89c9c420d945949dc799589bc90b32" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-9bf501597e6b4601b526f9253bacbe21" style="text-align:center"><span style="font-size:15px">1990年巴仁乡暴乱</span></p>
+<p id="b-cd13f90b9b674ec3a0319ba4e38d5ce6" style="text-align:center"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">又称</span></span><span style="font-size:15px">阿克陶县巴仁乡反革命武装暴乱、巴仁乡事件、巴仁乡起义</span></p>
+</td>
+<td id="b-5b7dde4483814f8db82db4c2495c24dd" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-58158030bda3455ba479c67dddaaadff" style="text-align:center"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">1990年4月5日至6日</span></span></p>
+</td>
+<td id="b-10cc237ec9984787b74b7d05938e76f9" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-891055373e5a4c8d8ba9062787a8ca79" style="text-align:start"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">新疆</span></span><span style="font-size:15px">克孜勒苏柯尔克孜自治州阿克陶县巴仁乡</span></p>
+</td>
+<td id="b-677182319473408a96766a9d9b05c291" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-73655d2a5d24486981a036a47226a3de" style="text-align:start"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">是1990年4月5日至6日发生在新疆</span></span><span style="font-size:15px">克孜勒苏柯尔克孜自治州阿克陶县巴仁乡</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">的分离主义武装冲突，中国政府部门、媒体与部分人指此为“暴乱”，部分海外维吾尔人与国外政要称之为“</span></span><span style="font-size:15px">起义</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">”与“屠杀”</span></span></p>
+</td>
+<td id="b-dc5fae32547d4fd199bc1530e8c6b27c" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-9ebe7c2fc0704f3fa8bd1ef43e8900a1" style="text-align:start"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">8人死亡</span></span></p>
+</td>
+<td id="b-6708f931f5d341f5a925c7e2efc1319e" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-d8940e4d5f104bff91610d5983399577" style="text-align:start"><span style="font-size:15px">东伊运</span></p>
+</td>
+<td id="b-f4839fc375c34105b6f5ac01e19c218b" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-feac600f7bad40808af1380bf230b4de" style="text-align:start"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">2021年4月5日，在巴仁乡事件31周年当天，土耳其首都</span></span><span style="font-size:15px">安卡拉</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">市长兼</span></span><span style="font-size:15px">共和人民党</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">领袖</span></span><span style="font-size:15px">曼苏尔·亚瓦什</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">与</span></span><span style="font-size:15px">好党</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">党魁</span></span><span style="font-size:15px">梅尔·阿克苏纳</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">在</span></span><span style="font-size:15px">推特</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">发文纪念维吾尔族“巴仁乡起义”31周年，并指此次事件是北京当局对维吾尔人的“一场屠杀”。中国驻安卡拉大使</span></span><span style="font-size:15px">刘少宾</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">随后在</span></span><span style="font-size:15px">推特</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">发文回击，引发外交风波。2021年4月6日，土耳其外交部召见中国大使表示不满。中国外交部发言人赵立坚4月7日回应称“土耳其个别人士公然为恐怖分子张目”，驻土使馆的推文“无可指责”。2021年4月6日，近1000名维吾尔人在中国驻伊斯坦布尔总领事馆前举行示威游行，指责中国政府在该事件中“屠杀维吾尔人”</span></span></p>
+</td>
+<td id="b-53b0ef540031405187d9841a4b1b3c73" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-a7e0843a53dc44f2a156c8fccfa0df28" style="text-align:start"><img src="https://km.sankuai.com/api/file/cdn/1625309615/234765550314?&amp;isNewContent=false&amp;contentType=1" width="176" height="99" id="b-a9f176e0f55b43ecb23615a6dc5d4bb8" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1625309615/234766028418?&amp;isNewContent=false&amp;contentType=1" width="172" height="98" id="b-e105ff22c0b5426a86bffbb80fe36370" alt="原文图片（需学城权限）"></p>
+</td>
+</tr>
+<tr id="b-8b97e0c8ba554c5c963bcff35024be6f">
+<td id="b-466e974a1f6444e18e8f3088032d3a26" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-0fbbc87fbd3f469f811c44b15477853f" style="text-align:center"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">1991年</span></span><span style="font-size:15px">库车县“2·28”爆炸案</span></p>
+</td>
+<td id="b-68746a3f90c44fa6b713aec035c8d61d" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-9ec06bab98704d6cb89815982aa72caa" style="text-align:center"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">1991年2月28日</span></span></p>
+</td>
+<td id="b-8ac9e1f92e1e4dcb8da8e789390b0eb2" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-d35c391bd8c24c1795cd15822fc3bef1" style="text-align:start"><span style="font-size:15px">阿克苏地区库车县</span></p>
+</td>
+<td id="b-07b87b23b9194d3bbbac5ae41d64d041" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-854c3ddf31aa40378c0380dfe9dfb557" style="text-align:start"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">1991年2月28日，</span></span><span style="font-size:15px">东突厥伊斯兰改革党</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">在</span></span><span style="font-size:15px">新疆维吾尔自治区阿克苏地区库车县</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">客运站录像厅制造了一起爆炸案。爆炸造成民众1人死亡、13人受伤。同日，东突恐怖组织还在</span></span><a href="https://zh.wikipedia.org/wiki/%E5%BA%93%E8%BD%A6%E5%8E%BF" title="库车县" id="b-40acc166c8964d8aaeb2654f49df14a9"><span style="font-size:15px">库车县</span></a><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">县城的一家个体商店内安置了炸弹，但未能爆炸</span></span></p>
+</td>
+<td id="b-010144ab5cb647e2bd8bf6a4d1b34a03" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-40dc6a13bad4419aa0e2b2ab16e6d785" style="text-align:start"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">1人死亡、13人受伤</span></span></p>
+</td>
+<td id="b-f5e645e3ab6b45b5813b08b0fa4b8fde" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-6e34ad1df7a245f885a5abf583983915" style="text-align:start"><span style="font-size:15px">东伊运</span></p>
+</td>
+<td id="b-f0d3938578ab4fd9ac3c38992c5ffeba" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-b2cbdcf6a42d4392a3d10cfa697d67e2" style="text-align:start"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">此次爆炸成功后，该组织将目标锁定在</span></span><span style="font-size:15px">乌鲁木齐市</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">，进行了1年多的筹备，于1992年实施了“</span></span><span style="font-size:15px">乌鲁木齐二·五爆炸案</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">”，随后又接连在</span></span><span style="font-size:15px">新疆维吾尔自治区</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">境内制造了15起针对无辜民众的爆炸案。</span></span></p>
+</td>
+<td id="b-1368e47c910c4a278d77891721b7849b" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-e90b548a57d445018e4d5122232053b7" style="text-align:start"></p>
+</td>
+</tr>
+<tr id="b-478949a8dd564075924a5b9469e26e3e">
+<td id="b-148ef44487d84f9bae4b161fccb43592" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-2020930842f94dcdbd03cfd8b8aaa90c" style="text-align:center"><span style="font-size:15px">1991年沙雅县“11·13”运钞车抢劫案</span></p>
+<p id="b-80c60785806e41d48b9f6f215c1e151e" style="text-align:center"></p>
+</td>
+<td id="b-6c56fedea64140a4b1e1559601711fd1" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-5ab12f5dfc94498e9ea98027cff228cc" style="text-align:center"><span style="color:rgb(0, 0, 0)"><span style="font-size:15px">1991年11月13日</span></span></p>
+</td>
+<td id="b-4b57809508f443bca9d4e25a4f2ada51" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-e593b8dfdd2a4bb3adb474234fb1f864" style="text-align:start"><span style="color:rgb(0, 0, 0)"><span style="font-size:15px">沙雅县</span></span></p>
+</td>
+<td id="b-57037da454314f1f822aed6573c793fb" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-3e860e54be9c4d638fb55b3681e4da1e" style="text-align:start"><span style="color:rgb(0, 0, 0)"><span style="font-size:15px">1991年11月13日，东突厥伊斯兰改革党在沙雅县制造了一起银行运钞车抢劫案，抢劫中国农业银行棉花款50万元</span></span></p>
+</td>
+<td id="b-78cd74b5ff4a4b628658c30f9abf873b" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-66ec203503e74fad858309a825cbe0c9" style="text-align:start"></p>
+</td>
+<td id="b-de12ee497faf4662bac1341350c9289f" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-9e99c6a1ce4543e6b4666274d5522993" style="text-align:start"><span style="font-size:15px">东伊运</span></p>
+</td>
+<td id="b-ce25157558054f30a4398f03d5dc6357" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-7604eb45d62d49c0945771db5b1655a0" style="text-align:start"><span style="color:rgb(0, 0, 0)"><span style="font-size:15px">抢劫者转移至喀什地区叶城县的一所不引人注目的院落中，在该院落建立了新疆维吾尔自治区境内第一个恐怖训练基地，该基地先后培训了3期共62名恐怖分子</span></span></p>
+</td>
+<td id="b-89e07693da6d42abb69b9c31a610b5bb" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-389cb048441743b6a8d3dbbccd45ad51" style="text-align:start"></p>
+</td>
+</tr>
+<tr id="b-d0fc4da074ed4ea6a5c108d200dd7b11">
+<td id="b-1e646b08701245ad928c4911c660098f" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-9e008d8436914a43b278797a066f8141" style="text-align:center"><span style="color:rgb(0, 0, 0)"><span style="font-size:15px">乌鲁木齐二·五爆炸案</span></span></p>
+</td>
+<td id="b-ae80e15f8e504983995aad73848c8503" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-e1ca7586eeb447b0a477d40d41dab049" style="text-align:center"><span style="color:rgb(0, 0, 0)"><span style="font-size:15px">1992年2月5日</span></span></p>
+</td>
+<td id="b-d8fa12b473154c408328a710d9184462" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-77c09c26e71345c6b8dc9c3a2ac89573" style="text-align:start"><span style="color:rgb(0, 0, 0)"><span style="font-size:15px">新疆维吾尔自治区首府乌鲁木齐市</span></span></p>
+</td>
+<td id="b-93ec5fb2f72141d1b1d66b8770af7f4f" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-3eec5e52466f4247a4c25a903da8a80b" style="text-align:start"><span style="color:rgb(0, 0, 0)"><span style="font-size:15px">四颗定时炸弹被安放在公共汽车、影剧院、住宅楼里。其中52路和30路公共汽车上的两颗发生爆炸，造成这两辆公共汽车被炸毁</span></span></p>
+</td>
+<td id="b-a2358afedc8e4babb83c0dd0a6ad3638" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-96f9041406f04faabb8983dd68af8063" style="text-align:start"><span style="color:rgb(0, 0, 0)"><span style="font-size:15px">3人死亡、23人受伤</span></span></p>
+</td>
+<td id="b-26b06462ac314b80a8f245368e372f6e" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-ce1f696294a74d1495da1d7e60d1d3cd" style="text-align:start"><span style="font-size:15px">东伊运</span></p>
+</td>
+<td id="b-0cddf61958a641fd9998e6054fb6dc8e" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-50feb982ef964c28997f8d1a7ee974ca" style="text-align:start"></p>
+</td>
+<td id="b-44de8ac8bca34791a135acf89a3fdc7a" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-d3ee267731d8417eb32c02402b6d668f" style="text-align:start"><img src="https://km.sankuai.com/api/file/cdn/1625309615/234769102595?&amp;isNewContent=false&amp;contentType=1" width="212" height="117" id="b-5271ec7b06bb4a77ba30410eb96c6747" alt="原文图片（需学城权限）"></p>
+</td>
+</tr>
+<tr id="b-4875a440ce034c0f805566abdc455c60">
+<td id="b-35e8b28e93414def96a2f4aa60bf5440" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-e560147cc934473ea6f5900e87ce1155" style="text-align:center"><span style="font-size:15px">南疆系列爆炸案</span></p>
+</td>
+<td id="b-f5e71fd0c42e45c682e50be3fe02f7ef" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-e71c75d071fe42f48509babec4ce56f9" style="text-align:center"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">1993年6月17日-9月5日</span></span></p>
+</td>
+<td id="b-798ebc061d8843b6bcff4be3f8672f5b" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-2d78e11486d244dd8b749bf137a8b436" style="text-align:start"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">新疆南部地区</span></span></p>
+</td>
+<td id="b-5bd7e9564cb54dd99ccf324467287c88" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-52e6e3936ef94e9bb2fe2ae404654859" style="text-align:start"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">1993年6月17日至9月5日，</span></span><span style="font-size:15px">东突厥斯坦独立运动</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">在</span></span><span style="font-size:15px">新疆</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">南部地区制造的一系列爆炸事件。他们在</span></span><span style="font-size:15px">商场</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">、集贸</span></span><span style="font-size:15px">市场</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">、</span></span><span style="font-size:15px">饭店</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">、</span></span><span style="font-size:15px">文化</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">场所等地制造10起爆炸案，中国官方将此事件定性为“</span></span><span style="font-size:15px">恐怖袭击</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">”</span></span></p>
+</td>
+<td id="b-6b82366fa6434eaa993d6f3625983195" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-81d45d8bbb6f4257aa7d6437fc49ad96" style="text-align:start"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">2人死亡、36人受伤</span></span></p>
+</td>
+<td id="b-d83b4a9c54ea4330882c8b90152f64f6" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-a34de00fc696432ca248822b6ee7342a" style="text-align:start"><span style="font-size:15px">东伊运</span></p>
+</td>
+<td id="b-a52327708a6a43238173c15f18c4d80c" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-cf93a64368e3432db87feb8b824f6e2e" style="text-align:start"><span style="color: "><span style="font-size:15px">新疆警方曾发现过被有意放置在街头的SD卡，外面用人民币包裹，有的还特意挑选醒目位置，利用人们的猎奇心理，诱导捡到的人去看里面的内容。即便制作简陋的宣传画也相当简洁直观，颇具心理和视觉冲击力。有一幅在网络流传的有关“吉里巴甫”服装的宣传画，画着两个女人，一个穿着黑色的吉里巴甫，但与之对应的是一只长着漂亮羽毛的大公鸡，气宇轩昂；还有一个穿着普通时髦衣服的女人，对应的却是一只耷拉着脑袋的脱毛鸡。然后是两条路，一条通往“火狱”，一条通往“天堂”。最后，大公鸡进“天堂”，脱毛鸡下“火狱”。</span></span></p>
+</td>
+<td id="b-a2a71c2f0f49498cb181f8d27a44ab9e" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-4abb5863a75141079623179504344812" style="text-align:start"></p>
+</td>
+</tr>
+<tr id="b-4e78243f4b2e4dfc89da52a9ae73d415">
+<td id="b-84eae2c816a4437aa6c3a54b17fa77fe" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-19283572b58c4efc89041fbab3fa37c9" style="text-align:center"><span style="font-size:15px">江格勒斯乡事件</span></p>
+</td>
+<td id="b-044241077eb24577afa75c2cc34e261e" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-2c0b60aacaf344288e1eb575306b7da5" style="text-align:center"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">1996年8月27日</span></span></p>
+</td>
+<td id="b-276e6c1f09924546994c26a25f246c4f" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-a3de155d733649dcaf254d929f51da5d" style="text-align:start"><span style="font-size:15px">叶城县江格勒斯乡</span></p>
+</td>
+<td id="b-7c70ac96c4924f39b9ff2f47304a7d62" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-64304dc1cb7a4b718fe2fdc7bdbe5051" style="text-align:start"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">6名</span></span><span style="font-size:15px">东突</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">人员身着</span></span><span style="font-size:15px">迷彩服</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">，其中2人戴公安大檐帽，于1996年8月27日凌晨2时许携</span></span><span style="font-size:15px">手枪</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">、</span></span><span style="font-size:15px">匕首</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">、</span></span><span style="font-size:15px">炸药</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">包分乘两辆轿车到</span></span><span style="font-size:15px">新疆维吾尔自治区叶城县江格勒斯乡</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">人民政府（恰其昆管理区）。他们割断</span></span><span style="font-size:15px">电话</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">线，闯入副乡长办公室杀死副乡长吾布力艾合买提和</span></span><span style="font-size:15px">警察</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">买买提阿不都拉；随后又到该乡一村，绑架了1名水管员、3名治安员，劫持到10公里外的戈壁滩上杀害。在此过程中，还杀伤2人</span></span></p>
+</td>
+<td id="b-0711b347f157487e9a6c15881cd84290" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-36df038e4dce4572bd2e16ed190c3827" style="text-align:start"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">6人死亡、2人受伤</span></span></p>
+</td>
+<td id="b-14329ced78354419ad8ba28fd9341788" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-82f2994028ec469396e6360724147a40" style="text-align:start"><span style="font-size:15px">东伊运</span></p>
+</td>
+<td id="b-76636cd4573e4d15be3d879dc48a2bc5" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-9ffcbd0beef74ec5af8c20cd7b0b7b0b" style="text-align:start"></p>
+</td>
+<td id="b-449a629bea9e4c7e96940d4e78084da2" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-b666dd6825e54217b03c90333f07b963" style="text-align:start"></p>
+</td>
+</tr>
+<tr id="b-ca514479d7d64613bcc6b244e9482f25">
+<td id="b-4cef21028aed4a9791a2329026cfdcaf" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-3be27171ed20467ea344097b7967ed0c" style="text-align:center"><span style="color: "><span style="font-size:15px">1997年伊宁2·5骚乱事件</span></span></p>
+<p id="b-e1ebb25860604a80b34ff7a7daab7500" style="text-align:center"><span style="font-size:15px">别名：伊宁二·五事件、伊宁事件、“二·五、二·六事件”</span></p>
+</td>
+<td id="b-02da423c05f24d06a7cf53b6997a4c4f" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-a1f1182fd3574206b74ab03e9a6e3d55" style="text-align:center"><span style="color: "><span style="font-size:15px">1997年2月5日至8日</span></span></p>
+<p id="b-9b9519f82eb64d2886f3e95eadb57b29" style="text-align:center"></p>
+</td>
+<td id="b-22ed3166d41041caa620cc9aa9068bf8" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-d1f4c9f34e6445e78d50f1e24ecef69c" style="text-align:start"><span style="color: "><span style="font-size:15px">中国</span></span><span style="font-size:15px">新疆维吾尔自治区伊犁哈萨克自治州伊宁市</span><span style="color: "><span style="font-size:15px">大街</span></span></p>
+</td>
+<td id="b-8fbe5b88c4b44dcda8a70ccace48df1b" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-ca0e8924f4894544a4eacaa5ea81c1c3" style="text-align:start"><span style="color: "><span style="font-size:15px">1997年伊宁2·5骚乱事件是指1997年2月5日至8日，“东突伊斯兰真主党”恐怖组织策划、制造的伊宁市“2·5”严重打砸抢骚乱事件。</span></span></p>
+</td>
+<td id="b-20cb7e7359c843e0aa3d84a44571172b" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-7f2ce33c78074081ad26c84bb2ef2f07" style="text-align:start"><span style="font-size:15px">死亡7人，重伤64人。</span></p>
+</td>
+<td id="b-b2f3334676604f1bb3c4eb732b2af5c0" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-2191b18663f6454f80b5529f6396b14b" style="text-align:start"><span style="font-size:15px">东伊运</span></p>
+</td>
+<td id="b-d8cb2ed0d7ca4fc58b5aaf887f9f6904" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<details id="b-ec7c1f7c4db84dfbaea455e472a529b6">
+<summary><span style="color:rgb(77, 77, 77)"><span style="font-size:15px">打击案例</span></span></summary>
+<div>
+<p id="b-05db698bb6ce4ff29a7acb9ed4119227" style="text-align:start"><span style="font-size:15px">我们要建立伊斯兰王国 </span></p>
+<p id="b-06cab764a1174610aef4ccd51b3910d9" style="text-align:start"><a href="https://www.rfa.org/english/news/uyghur/ghulja-massacre-02112022175649.html#.YgsBKKl5APg.twitter" title="新疆伊宁大屠杀 25 年后，维吾尔人仍在推动追究责任" id="b-a6b6988fe0dd44eabe56e322c1bc8e2f"><span style="font-size:15px">新疆伊宁大屠杀 25 年后，维吾尔人仍在推动追究责任</span></a></p>
+<p id="b-969ae84472ae4c5da3d4fdc219e6e599" style="text-align:start"><span style="font-size:15px">25年前一个寒冷的冬日，中国西部城市 Ghulja（中文为伊宁市）的年轻维吾尔人举行抗议，要求结束宗教镇压和种族歧视。那天的事件将被称为 1997 年的 Ghulja 大屠杀，维吾尔人现在将这一事件视为对中国主要穆斯林社区的更大程度的迫害和暴力的预兆，自那时以来，该事件已分阶段展开然后。多达 20000 人在大屠杀中丧生——一份报告称可能有数千人死亡——但当时它几乎没有受到国际关注。 </span></p>
+<p id="b-ca61716a35e1465a9a3e3c00461f6337" style="text-align:start"><a href="http://rfa.org/mandarin/yataibaodao/shaoshuminzu/gr-02062015100454.html" title="世维大会在世界各地举办活动纪念伊宁事件十八周年" id="b-a817eee2e3df4311b4cc8075c4a05eee"><span style="font-size:15px">世维大会在世界各地举办活动纪念伊宁事件十八周年</span></a></p>
+<p id="b-d7f0c39387a2400cb19b77d13903ecac" style="text-align:start"><span style="font-size:15px"> 一九九七年二月五号在新疆伊宁发生了二五事件。今年是十八周年，总部设在德国慕尼黑的流亡海外的维吾尔人组织世维大会在世界各地举办了纪念活动。近年来，流亡世界各地的维吾尔族民众越来越多，他们在二零零四年成立了联合统一的组织，世界维吾尔代表大会，总部设在德国南部最大城市慕尼黑。记者获悉，二月五号，该组织在慕尼黑中国领事馆前举行了一次抗议性的纪念活动，纪念一九九七年二月五号发生的伊宁事件十八周年。为此，关于这次活动，六号上午记者采访了世维大会执行主席多里坤先生。关于这次活动，他首先对记者介绍说，“昨天是一九九七年二月五号在伊宁发生的伊宁事件十八周年。十八年前，维族人进行和平的游行，中国使用警察和军队镇压了这次和平游行。根据国际大赦组织的报道说，死了三百多人，逮捕了几千人。但是实际情况到底是什么，虽然已经十八年了，实际上是死了多少人，抓捕了多少人，直到今天还</span></p>
+<p id="b-24b8ede3b15842458ef64ee16e957941" style="text-align:start"><span style="font-size:15px">是不清楚。”</span></p>
+<p id="b-4e66935977c74ce0afd630b581c9b552" style="text-align:start"><a href="https://www.uyghurcongress.org/cn/%e4%bc%8a%e5%ae%81%e4%ba%8b%e4%bb%b620%e5%91%a8%e5%b9%b4-%e5%bd%93%e5%9c%b0%e7%bb%b4%e7%a8%b3%e5%8d%87%e7%ba%a7/" title="伊宁事件20周年 当地维稳升级" id="b-87fe802e80cb4103b4ab2c506822eb07"><span style="font-size:15px">伊宁事件20周年 当地维稳升级</span></a></p>
+</div>
+</details>
+<p id="b-7b20450f23f849f0a014c79bad56343f" style="text-align:start"></p>
+</td>
+<td id="b-9775a76d255d4fbc944316ea033a98d9" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-6e004001776349e59fee10a4c5b4a538" style="text-align:start"><img src="https://km.sankuai.com/api/file/cdn/1625309615/234764753051?&amp;isNewContent=false&amp;contentType=1" width="152" height="113" id="b-3584e42099a540adbd793c53833f2b3d" alt="原文图片（需学城权限）"></p>
+<figure src="https://km.sankuai.com/api/file/cdn/1625309615/234768558868?isNewContent=false&amp;contentType=1" width="510" height="290" id="b-efff4d1f550b4ccbaa7821785c73f0f5"><figcaption>视频：ghulja.mp4（原始链接，可能需要学城权限）</figcaption><a href="https://km.sankuai.com/api/file/cdn/1625309615/234768558868?isNewContent=false&amp;contentType=1">在原文服务中查看</a></figure>
+<p id="b-1685162fe5aa4995859a2f87f1e45f83"></p>
+<p id="b-3a6fd1d3bbaf4b3d8cbf4f9954e02774"></p>
+</td>
+</tr>
+<tr id="b-e18042375f3643f68bc0a88685d5e544">
+<td id="b-da703391435d4ecc9048a272d5c7e3c5" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-49d4e42e7ec04fbdbffb43afc92d0042" style="text-align:center"><span style="font-size:15px">乌鲁木齐“2.25”公共汽车爆炸案</span></p>
+</td>
+<td id="b-105e5dbe4c3d478c9a3fd7c0007f89e2" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-96ef1fc8118749e9b0ef1f11d59c37b5" style="text-align:center"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">1997年2月25日</span></span></p>
+</td>
+<td id="b-62a7cbf7affc4344944fa74db70c87c6" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-ca78475244d247a9a6507172ea628e5b" style="text-align:start"><span style="color:rgb(0, 0, 0)"><span style="font-size:15px">新疆维吾尔自治区首府乌鲁木齐市</span></span></p>
+</td>
+<td id="b-c192c6c76562482383094d5f889dc20c" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-08d5d8689a02435ab9165d895f477368" style="text-align:start"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">1997年2月5日发生</span></span><span style="font-size:15px">伊宁二·五事件</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">，2月19日</span></span><span style="font-size:15px">邓小平</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">逝世，2月25日北京召开追悼会，爆炸正好发生在这一天。当日，乌鲁木齐市2路、10路、44路三辆公交车被投放了定时炸弹并发生爆炸，包括</span></span><span style="font-size:15px">维吾尔族</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">、</span></span><span style="font-size:15px">回族</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">、</span></span><span style="font-size:15px">柯尔克孜族</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">、</span></span><span style="font-size:15px">汉族</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">群众在内的9人丧生、68人受伤</span></span></p>
+</td>
+<td id="b-d36e0274aaa64f2898f4f2635bf12ecf" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-1653a0fdc02e4e03837c57918d408b55" style="text-align:start"><br><span style="font-size:15px">9人死亡、68人受伤</span></p>
+</td>
+<td id="b-b6ce417e1eb04d6c8b9a394663088baf" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-77d2987ee006469a99362bd449adc35b" style="text-align:start"><span style="font-size:15px">东伊运</span></p>
+</td>
+<td id="b-912ee0b8455a4c678820bae780f628e5" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-e9cc9798f6f149ec85e90ffee89967f7" style="text-align:start"><a href="https://www.owlapps.net/owlapps_apps/articles?id=3779547&amp;lang=zh" title="https://www.owlapps.net/owlapps_apps/articles?id=3779547&amp;lang=zh" id="b-44757b1ef73946909af7c997a5ff165f"><span style="font-size:15px">https://www.owlapps.net/owlapps_apps/articles?id=3779547&amp;lang=zh</span></a></p>
+</td>
+<td id="b-54a1746f68704561a7945300ab9759dc" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-f68b87f75f3b441092605657f47961d9" style="text-align:start"></p>
+</td>
+</tr>
+<tr id="b-d1e3c4f44b6d43dc9f13dbcd08b6c6ac">
+<td id="b-0d910fdb174445a8b0ba2dfc4e856329" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-ecdd26a42ed5421b8470d0afc39652e0" style="text-align:center"><span style="font-size:15px">乌鲁木齐“5·23”系列纵火案</span></p>
+</td>
+<td id="b-0a27921c301e4a5583ea5c0cb686960c" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-f7b2898ffabf4313be52c9dc3b957e78" style="text-align:center"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">1998年5月23日</span></span></p>
+</td>
+<td id="b-b1902b2121674097ba5107c582af6f50" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-aac949f2dfda4d1a85de127d40b32a9a" style="text-align:start"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">中国</span></span><span style="font-size:15px">新疆维吾尔自治区</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">首府</span></span><span style="font-size:15px">乌鲁木齐</span></p>
+</td>
+<td id="b-b7fe777f76e64fba83ba0c9c5d8cb2cc" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-ff8f5c8b059b46649aff2deee7b410d6" style="text-align:start"><br><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">1998年5月23日，“东突解放组织”成员在</span></span><span style="font-size:15px">乌鲁木齐市</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">华都商厦、大西门、河滩路布料批发市场、红山木材市场、长征旅社批发市场、乌鲁木齐旅社、商贸城等繁华的公共场所投放40余枚化学自燃纵火装置，制造出15起纵火案，声称“要将乌鲁木齐变成一片火海，要造成几百万、几千万、几亿元的损失”。因为这一系列纵火案均被及时发现并扑灭，所以未造成重大的危害。实施此次案件的“东突解放组织”成员是在中国境外接受培训之后，奉该组织之命潜入中国境内，到乌鲁木齐作案</span></span></p>
+</td>
+<td id="b-1a6e3547e23346b2af274fabe37e3a30" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-609a9ad2c03142dcb2f66acf78b5c144" style="text-align:start"></p>
+</td>
+<td id="b-5ace80d2e83f4019aa864a79b11b2d3e" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-9b39819afcf34316bee08acf80b75674" style="text-align:start"><span style="font-size:15px">东伊运</span></p>
+</td>
+<td id="b-1951c1f8a00e4ac2884c2648ec67e52e" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-bf02bdf149d145b38dacfc7d369cc720" style="text-align:start"></p>
+</td>
+<td id="b-d17f99866a4845a89cc6c090b494f76b" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-e51d446157e74a3ea9074434275d1634" style="text-align:start"></p>
+</td>
+</tr>
+<tr id="b-69f9e5ecc8ed4fac81c3d723ec1f7c42">
+<td id="b-e8b4ed921c6a4162a2003f58d84defdc" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-eddfdcca324c402f8db4b7cd687995e0" style="text-align:center"><span style="font-size:15px">泽普县赛力乡派出所遇袭事件</span></p>
+</td>
+<td id="b-a3d9773003284847b1378c276cf7a572" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-53e2743f29a7409092dcfc20bf92a792" style="text-align:center"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">1999年10月24日</span></span></p>
+</td>
+<td id="b-c31c3f48ce984de6aae1401969e2eb3d" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-7fa3c8f625ec483d8aa7b4cabfb99645" style="text-align:start"><span style="font-size:15px">泽普县赛力乡</span></p>
+</td>
+<td id="b-136c546174cd45c1ab6d8b37b30cafe2" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-b5cd507330464728a499db9e81cd89f4" style="text-align:start"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">东突厥斯坦独立运动支持者携</span></span><span style="font-size:15px">枪支</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">、大</span></span><span style="font-size:15px">刀</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">、</span></span><span style="font-size:15px">爆炸燃烧</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">装置，袭击泽普县赛力乡</span></span><span style="font-size:15px">公安</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">派出所。他们包围派出所后连续投掷燃烧瓶和爆炸装置并向派出所开枪。后闯入派出所枪杀１名</span></span><span style="font-size:15px">联防队</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">员和１名留置审查的</span></span><span style="font-size:15px">犯罪嫌疑人</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">，枪伤１名</span></span><span style="font-size:15px">警察</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">和１名联防队员。烧毁派出所１０间房屋、１辆</span></span><span style="font-size:15px">吉普车</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">和３辆</span></span><span style="font-size:15px">摩托车</span></p>
+</td>
+<td id="b-826292861d52465fb09acb4f05654106" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-6beaba3e61634f16a1f3c76321661618" style="text-align:start"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">2人死亡、2人受伤</span></span></p>
+</td>
+<td id="b-4a30fe4f6cc34cca85bced0adaccf135" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-675a2544f5d84fd49bd13e246c5e172b" style="text-align:start"><span style="font-size:15px">东伊运</span></p>
+</td>
+<td id="b-6aa13e0303ad41c4b2a209a9872cf689" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-e9f38cc288de41e5a6a56bfc2a10e244" style="text-align:start"></p>
+</td>
+<td id="b-15d16d0d61014810b8d052241cb96797" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-3935623d230147c79d95395078e2e131" style="text-align:start"></p>
+</td>
+</tr>
+<tr id="b-e26a52b5e741481ba6cf95eaa690428f">
+<td id="b-4276c84e75304960bcd04333807d485f" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-373cbacc4d344f968965a32191e682a4" style="text-align:center"><span style="font-size:15px">新疆喀什八·四袭警案</span></p>
+</td>
+<td id="b-e403821007344e57850b6064fc59b3a7" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-7e62ec269761453c8a662095fc851ffd" style="text-align:center"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">2008年8月4日</span></span></p>
+</td>
+<td id="b-629276f92067447c9c3d22668c571a6f" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-79378bae84454c519ab3e55e55f45ab3" style="text-align:start"><span style="font-size:15px">喀什市</span></p>
+</td>
+<td id="b-ca222745f5f74eae80da09e890d8435b" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-7ed2c3aab03a43ac842a32f8b7665e4d" style="text-align:start"><span style="font-size:15px">2008年喀什袭击事件是2008年8月4日发生于中国新疆维吾尔自治区喀什市的一次针对武警的恐怖袭击案件，中国官方将此次事件定性为“恐怖袭击”。在案件中，两名男子驾车对正在出操的喀什市边防支队武警发动袭击，共造成武警17人死亡、15人受伤。</span></p>
+</td>
+<td id="b-5e9b3d82d74241dc9d949149b8db85fd" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-659112c59b9c4ca792b896ada4c48f52" style="text-align:start"><span style="font-size:15px">17人死亡、15人受伤</span></p>
+</td>
+<td id="b-48f6093360a5406d9edf0bae33617996" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-87436330a15a4a389f52f44488d538ca" style="text-align:start"><span style="font-size:15px">主谋：</span><br><span style="font-size:15px">阿不都热合曼·阿扎提</span></p>
+<p id="b-5cfbccff125e4120a3af7fc6051b9d49" style="text-align:start"><span style="font-size:15px">库尔班江·依明提</span></p>
+</td>
+<td id="b-79231cba91e7461eb7a1b1658b6784c9" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<details id="b-76b2a34dfbea4c81adee2b52ff791865">
+<summary><span style="color:rgb(77, 77, 77)"><span style="font-size:15px">恐怖袭击事件</span></span></summary>
+<div>
+<p id="b-51146b6f178f4d47a0eb3e2d8f8d5ff4" style="text-align:start"><span style="font-size:15px">2008年2、3月间，二人购买了制造枪支、弹药、爆炸物的材料，非法制造了11枚爆炸装置、2支枪支和多发子弹，并选定中国人民武装警察部队喀什地区边防支队官兵为恐怖袭击目标。同年8月4日8时，当武警官兵出操跑出边防支队大门时，阿不都热合曼·阿扎提即驾车高速从背后向列队的武警官兵疯狂冲撞、碾轧，致15人死亡，13人受伤，货车失控冲向路面后翻车，阿不都热合曼·阿扎提从车中出来，持自制枪向武警射击未果，又引爆一枚自制爆炸装置，致1人死亡，库尔班江·依明提身着武警夏季军服，先朝边防支队大门哨兵投掷一枚自制爆炸装置，又持双刀乱砍被碾轧致伤的武警，致1人死亡、2人受伤。二人被当场抓获。</span></p>
+</div>
+</details>
+</td>
+<td id="b-1c765801cfd041e2853ae17c8cc2bfd0" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-5254690533044c558e2dae8185b7508a" style="text-align:start"><img src="https://km.sankuai.com/api/file/cdn/1625309615/234766664505?&amp;isNewContent=false&amp;contentType=1" width="190" height="93" id="b-d355f2bdeb094111aefb0221609d76d1" alt="原文图片（需学城权限）"></p>
+<p id="b-70745e6b86ed4aa0869a48c18bef5e5c" style="text-align:start"><img src="https://km.sankuai.com/api/file/cdn/1625309615/234769443571?&amp;isNewContent=false&amp;contentType=1" width="112" height="88" id="b-2633e77f0c8d4d54b1d59bb70e68e38c" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1625309615/234765071001?&amp;isNewContent=false&amp;contentType=1" width="128" height="86" id="b-aeaf0559767245b7ba279836e9314158" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1625309615/234768678990?&amp;isNewContent=false&amp;contentType=1" width="122" height="90" id="b-1919cab68e984742b533654ea0cbf4cf" alt="原文图片（需学城权限）"></p>
+</td>
+</tr>
+<tr id="b-6353d50020d44abb87f3bbc37dc27b86">
+<td id="b-2e6d66536f7e44bca80372d63177d3a4" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-f466cef0f98d4497a1570943f8f2145d" style="text-align:center"><span style="font-size:15px">库车爆炸案</span></p>
+</td>
+<td id="b-797cd97a642d4a7da1caa008fb528cea" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-b157c782ba214c429c96a883877740ed" style="text-align:center"><span style="font-size:15px">2008年8月10日</span></p>
+</td>
+<td id="b-391226233ca5406dac23b94738bc1f37" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-8d60b3c7eb5046ccbb5533e2b3d4e2c6" style="text-align:start"><span style="font-size:15px">阿克苏地区库车县</span></p>
+</td>
+<td id="b-2e43818df3af49fba4bd75bf379b6b78" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-8222b539d4a640988ee1abbe68d0ca14" style="text-align:start"><span style="font-size:15px">2008年库车爆炸案是中国新疆维吾尔自治区阿克苏地区库车县于2008年8月10日发生连环自杀式袭击事件，中国官方将此次事件定性为“恐怖袭击”。</span></p>
+</td>
+<td id="b-bffb0b0b49a846998627f3f07f7882da" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-0a4fcf028ed34c37899982c046e8a459" style="text-align:start"><span style="font-size:15px">11人死亡（包括10名犯罪分子）</span></p>
+</td>
+<td id="b-f9b1015881c44c8095d1cb667146e019" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-20cded2131174a37a539cc81a720ae44" style="text-align:start"><span style="font-size:15px">未知</span></p>
+</td>
+<td id="b-acadc52ac71a4e64ae06b616bdd04e6c" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<details id="b-47ba28c4dd1e422b969836f8f2bf72b4">
+<summary><span style="color:rgb(77, 77, 77)"><span style="font-size:15px">恐怖袭击事件</span></span></summary>
+<div>
+<p id="b-3ea9aebff9a64002bc29e2020e2d2e6f" style="text-align:start"><span style="font-size:15px">袭击发生在当地政府办公楼、公安局和武警哨所，一名维吾尔族保安丧生，两名警察和两名平民受伤。警方击毙八名恐怖分子，抓获两人，另有两人自我引爆后身亡，三名恐怖分子逃跑。 由于时值北京奥运期间，及6天前喀什亦发生袭击，事件格外引人关注。</span></p>
+</div>
+</details>
+<p id="b-28a0254bc8654a5b969b55f796b6d8c1" style="text-align:start"></p>
+</td>
+<td id="b-7bfc61a9a63f4d53a9ee66158f07554a" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-2adf8331e8b04a3f973a5050e00593de" style="text-align:start"><img src="https://km.sankuai.com/api/file/cdn/1625309615/234767645586?&amp;isNewContent=false&amp;contentType=1" width="165" height="86" id="b-08e08b84e5fc47a58bd4e6b2fb58a4eb" alt="原文图片（需学城权限）"></p>
+</td>
+</tr>
+<tr id="b-ef2b0616d49f43318fd0aa5ce1811179">
+<td id="b-e227062c59ed47babd5c42bcf8fb4ef2" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-bdf19fe7740e417897c9b0d036ef88dd" style="text-align:center"><span style="font-size:15px">乌鲁木齐七五事件</span></p>
+</td>
+<td id="b-8d99091e5b794f5c89f5c5aaefb344b4" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-3b9ab61d148c42cdbaf009c55ec3b756" style="text-align:center"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">2009年7月5日</span></span></p>
+</td>
+<td id="b-94ea07cff8b24b2890ef04313f0dc51a" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-717c3a53bbbb42bda26404d19ff445ba" style="text-align:start"><span style="font-size:15px">乌鲁木齐市</span></p>
+</td>
+<td id="b-1f1b6d11da9e47dd8745f055f131beb4" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-002aabb1770546cdaa14e8e9068344e1" style="text-align:start"><span style="font-size:15px">2009年7月5日20时左右，新疆乌鲁木齐市发生打砸抢烧严重暴力犯罪事件，造成众多无辜群众和一名武警被杀害，大量群众和武警受伤，多部车辆被烧毁，多家商店被砸被烧。事实表明，这是一起由境外遥控指挥、煽动，境内具体组织实施，有预谋、有组织的暴力犯罪。新疆维吾尔自治区党委、政府高度重视，及时调集警力处置，事态得到有效控制</span></p>
+</td>
+<td id="b-6327ad4f7dc24c4f9e4797e68b859d64" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-0db474f1a41243f3b4788cb51194f181" style="text-align:start"><span style="font-size:15px">造成197人死亡，1700人受伤</span></p>
+</td>
+<td id="b-f5db49b9137d4cbeb105d90e189cdb1a" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-923b781636db41ec9b8e3b6230285107" style="text-align:start"><br><span style="color: "><span style="font-size:15px">热比娅</span></span><br><span style="font-size:15px">世界维吾尔代表大会</span></p>
+</td>
+<td id="b-88a9698394d744da8b94c751ec0e2446" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<details id="b-f8e912241d51403dbfde0d8cf77ddec2">
+<summary><span style="color:rgb(77, 77, 77)"><span style="font-size:15px">恐怖袭击事件</span></span></summary>
+<div>
+<p id="b-1b86bc4d034b4cfc9eedfd36019037c6" style="text-align:start"><span style="font-size:15px">2009年7月5日17时许，两百余人在乌鲁木齐市人民广场聚集，新疆警方按照工作部署和处突预案开展相应处置工作，依法强行带离现场七十余名挑头闹事人员，迅速控制了局面，之后，又有大量人员向解放南路、二道桥、山西巷片区等少数民族聚居的地区聚集，并高喊口号，现场秩序混乱，十九时三十分许，部分人员在山西巷一家医院门前聚集，人数达上千人。十九时四十分许，在人民路、南门一带有三百余人堵路，警方及时将这些人员控制、疏散。二十时十八分许，开始出现打砸行为，暴力犯罪分子推翻道路护栏，砸碎三辆公交汽车玻璃。二十时三十分许，暴力行为升级，暴力犯罪分子开始在解放南路、龙泉街一带焚烧警车，殴打过路行人。约有七八百人冲向人民广场，沿广场向大小西门一带有组织游窜，沿途不断制造打砸抢烧杀事件，二十一时许，约有两百余名青年在人民广场自治区党委附近高呼口号，企图进入党委机关大院未遂后离去。此事件又称为乌鲁木齐“7·5”事件。</span></p>
+</div>
+</details>
+<p id="b-ebb3a580cf95484886bf15aa242302b3" style="text-align:start"></p>
+</td>
+<td id="b-c32a4b6039f94dc2b14ce44601924fe5" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-c5d81f67af274ffaabade7d86ca6f906" style="text-align:start"><img src="https://km.sankuai.com/api/file/cdn/1625309615/234767924507?&amp;isNewContent=false&amp;contentType=1" width="120" height="79" id="b-c914e7a39fc545c68e9323e3ec355a54" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1625309615/234764913369?&amp;isNewContent=false&amp;contentType=1" width="115" height="76" id="b-290ea1f728a44381952e7531fa4659c8" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1625309615/234767528768?&amp;isNewContent=false&amp;contentType=1" width="93" height="73" id="b-a3ee0bf453864b5a94e16db9812d58f1" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1625309615/234766984668?&amp;isNewContent=false&amp;contentType=1" width="250" height="161" id="b-6bd90fae5684470dac0bf367267cdf5c" alt="原文图片（需学城权限）"></p>
+</td>
+</tr>
+<tr id="b-31cc7196369a4911ac1225873428fe25">
+<td id="b-238b812c42844014b2203db08bf0475e" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-4f6135cf945f44e8949ccedc31846cf1" style="text-align:center"><span style="font-size:15px">和田市“7·18”暴力恐怖袭击事件</span></p>
+</td>
+<td id="b-869ed6c848574470b37bc4821e98441f" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-90c8c80fed704f52b193d30656b9c204" style="text-align:center"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">2011年7月18日</span></span></p>
+</td>
+<td id="b-c0870eb8aa9843db94da2e23b4af6c79" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-b12b29f54d92466e90c1aa951712fb96" style="text-align:start"><span style="font-size:15px">和田市</span></p>
+</td>
+<td id="b-6da0d8e044dc481a97302d2aff6ab6c5" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-7fbc4710bc1c4d379365fc1f3026c406" style="text-align:start"><span style="font-size:15px">2011年7月18日 新疆和田市发生暴徒袭击派出所、劫杀人质的恶性事件，至少造成包括2名人质在内的4人死亡，数名行凶暴徒被击毙。这一发生在“中国西部敏感地区”的暴力事件迅速激起西方媒体兴趣，事件被给予两年前乌鲁木齐“7·5”事件一般的密集关注。</span></p>
+</td>
+<td id="b-0efbcb9a9846420ea9f8fad8172ea60e" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-7bd360126d7d4c3aa8536e9062693ca2" style="text-align:start"><span style="font-size:15px">18人死亡（包括14名犯罪分子）</span></p>
+</td>
+<td id="b-fffd068fe98c4221a7b262c0e977d6bc" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-13c3e69209c148e588d4f5ada6134ac2" style="text-align:start"><span style="font-size:15px">未知</span></p>
+</td>
+<td id="b-628878782c3e42aaa8a24b9b46a9c89b" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<details id="b-cd54005fa5d04c3ca6ab209503e407ad">
+<summary><span style="color:rgb(77, 77, 77)"><span style="font-size:15px">恐怖袭击事件</span></span></summary>
+<div>
+<p id="b-b7226d5221ba4b61a76f858a3c9078b8" style="text-align:start"><span style="font-size:15px">依据中国公安部18日下午对外发布的消息，当日中午12时许，新疆和田市一公安派出所遭一伙暴徒袭击。暴徒冲进派出所袭击民警，劫持人质并实施纵火。我公安、武警迅速赶赴现场，当场击毙数名正在行凶和负隅顽抗的暴徒，成功解救6名人质。截至13时30分，事态已得到有效控制。事件中，1名武警、1名联防队员牺牲，2名人质被害，1名联防队员受重伤。</span></p>
+</div>
+</details>
+<p id="b-2967298a11c741958669aca3d80d9c0c" style="text-align:start"></p>
+</td>
+<td id="b-680c5a084dcc4ab4a6a208d1904c018c" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-91669f6ae2ac40dab9a4fc6a174a5cbf" style="text-align:start"><img src="https://km.sankuai.com/api/file/cdn/1625309615/234768162971?&amp;isNewContent=false&amp;contentType=1" width="142" height="93" id="b-1bb85a1deddc47db87744175eef66b59" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1625309615/234765550299?&amp;isNewContent=false&amp;contentType=1" width="143" height="94" id="b-e72ef548cf544c02b965327b0f9424aa" alt="原文图片（需学城权限）"></p>
+</td>
+</tr>
+<tr id="b-f27cdd44495e4114a090b56e514ce372">
+<td id="b-7a7b59ebe8b34c7eba47e0299eb1a1e1" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-b321eff02df340c883935ec0152474f9" style="text-align:center"><span style="font-size:15px">喀什暴力恐怖袭击事件</span></p>
+</td>
+<td id="b-f4cd1f133f9b49a1a1c77a6a6c8695ff" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-70d85a28c9f54ba681393ca710135cd6" style="text-align:center"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">2011年7月30日</span></span></p>
+</td>
+<td id="b-d4e055cd420042b6ad0047406a0b2ebf" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-113d6796b5c443ab9483fafbcfed699e" style="text-align:start"><span style="font-size:15px">喀什市</span></p>
+</td>
+<td id="b-000954a62b464672bddeddd2e8b6c313" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-4dd0a468555145fd9a88ef328e15bd0b" style="text-align:start"><span style="font-size:15px">2011年喀什暴力恐怖袭击事件，是指于2011年7月30日23时45分和7月31日16时，在中国新疆喀什市连续发生两起暴力袭击事件，中国官方将此事件定性为“恐怖袭击”。该事件共造成14名平民死亡，42人受伤（一说18人死亡、43人受伤）。这次事件中，警方共击毙7名疑犯，其中5名犯罪嫌疑人被公安机关当场击毙，潜逃在外的买买提艾力·铁力瓦尔地、吐逊·艾山二人于8月1日下午在喀什市郊抓捕过程中击毙。</span></p>
+</td>
+<td id="b-2a884cc90eb5438e9ea6bfb978ced857" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-33a2103a5cc141d5811daf4af5e8270b" style="text-align:start"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">20名死亡（包括7名犯罪分子）、40人受伤</span></span></p>
+</td>
+<td id="b-c9d9f11e444a4dff864809fb8009be7f" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-181960983d5f44debe6aa8a025c5bf7e" style="text-align:start"><span style="font-size:15px">突厥斯坦伊斯兰党</span></p>
+</td>
+<td id="b-61b2e17e9da74bafb984f420297ae0ae" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<details id="b-3e068145d11f40f59c996a55f9dd7ad0">
+<summary><span style="color:rgb(77, 77, 77)"><span style="font-size:15px">恐怖袭击事件</span></span></summary>
+<div>
+<p id="b-4f7dd2d0a45940ada5cd31a555fe696a" style="text-align:start"><span style="font-size:15px">7月30日23时45分，两名犯罪嫌疑人在新疆喀什市美食街路口劫持了一辆正在等候红绿灯的单排座卡车，持刀杀害司机后驾车冲向人群，并下车砍杀路边群众，现场造成六名无辜群众死亡，28名群众受伤。周围群众奋力抓捕，搏斗中一名犯罪嫌疑人死亡，一名犯罪嫌疑人被抓获。</span></p>
+<p id="b-f15c37b254b74989ae955e5db62a3946" style="text-align:start"><span style="font-size:15px">7月31日16时许，一伙暴力恐怖分子按事先预谋，冲入喀什市香榭街一餐厅（位于步行街），杀害店主和1名服务员，并实施纵火。公安民警、消防官兵赶赴现场救火时，这伙暴徒冲出餐厅，肆意砍杀周围无辜群众，又致使4名群众死亡，12名群众受伤。</span></p>
+</div>
+</details>
+<p id="b-ce3bae31a0664d3c8c3eb5d518e234be" style="text-align:start"></p>
+</td>
+<td id="b-2d02f3318d3b403ba65ec4c55633bc78" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-8c1e8c6d8b544a4cb18f258044b50906" style="text-align:start"><img src="https://km.sankuai.com/api/file/cdn/1625309615/234766028413?&amp;isNewContent=false&amp;contentType=1" width="158" height="100" id="b-46fde1dfbd0b4ba6b9a6f5ea521276c4" alt="原文图片（需学城权限）"></p>
+</td>
+</tr>
+<tr id="b-96c1d8513ba843dbb39e57595e282aa3">
+<td id="b-90857deeb306444d89c5bc745c6184ea" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-ff2c571b15f54121b4ba2e14caaffb75" style="text-align:center"><span style="font-size:15px">皮山县挟持人质事件</span></p>
+</td>
+<td id="b-4aa8b967305a412892601c0b9116a835" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-40c4226da511481a866a10695b42d23b" style="text-align:center"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">2011年12月28日</span></span></p>
+</td>
+<td id="b-8f6b54551e3741f4870f422f5b22c3f1" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-97be4495399e49a4b63f14ac7fde718b" style="text-align:start"><span style="font-size:15px">皮山县</span></p>
+</td>
+<td id="b-fb3a1c5b4f1540ba9d43bcf3a00c6e7c" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-4e6b327942644e5aa9eca8111c0e8b19" style="text-align:start"><span style="font-size:15px">2011年12月28日23时许，在新疆皮山县南部山区，一暴力恐怖团伙劫持两名人质。公安机关根据群众举报，立即出警解救人质。在处置过程中，暴徒拒捕行凶，杀害一名公安干警，致一名干警受伤。公安干警当场击毙暴徒7人，击伤4人，抓捕4人。两名人质获救。</span></p>
+</td>
+<td id="b-57f7f59930cc4e51a5b120203d992334" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-35b5aed464b14cb0b37a1c8bc172f5bf" style="text-align:start"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">8人死亡（包括7名犯罪分子）、5人受伤</span></span></p>
+</td>
+<td id="b-03826b7797974674b9e7dc71bfcc2211" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-14e800e45ea84aefac421d18fc79e699" style="text-align:start"><span style="font-size:15px">未知</span></p>
+</td>
+<td id="b-80179c46228b4bc7a261a448ebfd92bc" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<details id="b-1722f90b299348858ef5cf499f5d00f5">
+<summary><span style="color:rgb(77, 77, 77)"><span style="font-size:15px">恐怖袭击事件</span></span></summary>
+<div>
+<p id="b-7c447c01c5cf4e0f8952735adb0a0964" style="text-align:start"><span style="font-size:15px">一支由15名年轻男子和他们妻子组成的队伍在前往巴基斯坦圣战营地途中于12月28日晚上11点在阔什塔格镇挟持两名牧羊人，并强迫牧羊人当他们的向导。阔什塔格镇农业合作社的几名工人目睹挟持事件。在边境村庄穆卡拉，牧羊人告知当地警方该队伍的意图。五名警察在皮山警察局副局长阿迪尔·阿布杜维利的领导下，试图说服该队伍放弃他们的计划，同时就释放牧羊人一事进行谈判。而该队伍与警方发生争执，当阿布杜维利碰到其中一名男子的妻子时，一名挟持者将阿布杜维利刺死，并打伤另一名警察。据当地居民称，剩下的警察随后开枪，打死7名挟持者，打伤其中4人。两名人质被安然无恙的救出。</span></p>
+</div>
+</details>
+<p id="b-3d211ebebe80457d985dbe015fb84362" style="text-align:start"></p>
+</td>
+<td id="b-23ce5229f380457b9b1978c93f1f4a84" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-91a4545ebe1846d4a7c4c19f75d9cc16" style="text-align:start"></p>
+</td>
+</tr>
+<tr id="b-b8bc8e2591d14366aafe1c2b06fa7d0d">
+<td id="b-e57e4b6946d14fc2add0ef2eea10a2bf" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-4956f9a11751459280e81c9e364d3e6f" style="text-align:center"><span style="font-size:15px">叶城县“2·28”暴力恐怖袭击事件</span></p>
+</td>
+<td id="b-a0bcd12be7884164b508d0bfec40717c" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-d50cba7402e1464586d0e6961dfcbaa9" style="text-align:center"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">2012年2月28日</span></span></p>
+</td>
+<td id="b-352de879f5904a0f9d861acada56cb32" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-54ff190eddd24f1e8f0030b47093dbb9" style="text-align:start"><span style="font-size:15px">叶城县</span></p>
+</td>
+<td id="b-f3f6ca55b8c8466bb9640a39165b5a2b" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-3f24920b05564fc9ba5d89bb4f15e25e" style="text-align:start"><span style="font-size:15px">2012年叶城暴力恐怖袭击事件，即叶城“2·28”暴力恐怖案件，是指2012年2月28日18时许，发生于新疆喀什地区叶城县幸福路步行街农贸市场内的砍杀平民事件，中国官方将此事件定性为“恐怖袭击”。</span></p>
+</td>
+<td id="b-e2625145ed644fbc8264b6fd3cd4b3f4" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-b872520a6354432c8dd9df5ce1eeff6a" style="text-align:start"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">24人死亡（包括8名犯罪分子）、多人受伤</span></span></p>
+</td>
+<td id="b-3b8d1ded7dae49bb8a52b4927ba67a1a" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-fbf44fc36cf647668202c316bdc8ce6e" style="text-align:start"><span style="font-size:15px">阿布都克热木·马木提</span></p>
+</td>
+<td id="b-809a96a5f0a04fbdbe1dfc59624e843b" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<details id="b-16622d3d9f7a46ab9ab5c3bb5ba4ef59">
+<summary><span style="color: "><span style="font-size:15px">恐怖袭击事件</span></span></summary>
+<div>
+<p id="b-8916b10a52654dea92f982798864c9b7" style="text-align:start"><span style="font-size:15px">2月28日上午，阿布都克热木·马木提在家中召集组织成员，进行编组、分工，分发刀、斧等工具，确定实施暴力行动。下午18时许，暴力团伙一行人来到叶城县幸福路步行街，持刀、斧疯狂砍杀平民，当场致13人死亡，16人受伤（其中2人经抢救无效死亡）</span></p>
+</div>
+</details>
+<p id="b-eb87079cb22147b8a367013970b7c4a0" style="text-align:start"></p>
+</td>
+<td id="b-67758ca8a14a4aa2ac1c19d9e5c896ce" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-41df4f0d8fca4c27b195a607d81e4123" style="text-align:start"></p>
+</td>
+</tr>
+<tr id="b-ada63de80400421d9994ce873523d295">
+<td id="b-dc17dd32c7e14b379115180d0bc95e82" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-c1110d1cda3f40b2b5c0f1f3da72f760" style="text-align:center"><span style="font-size:15px">天津航空7554号班机劫机事件</span></p>
+</td>
+<td id="b-6d53ac5aadb2453a8acf7b1bf69271ec" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-0a198ae57562440780d07e3a9d390905" style="text-align:center"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">2012年6月29日</span></span></p>
+</td>
+<td id="b-2e60770e1a1a42df8f0bdd3c9d8a7d2b" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-017de2e9193f42608af14bd3f845588b" style="text-align:start"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">和田飞往乌鲁木齐</span></span></p>
+</td>
+<td id="b-751b89f4957840f29c8bd6ff412df430" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-862011f350764f118ca7470438005795" style="text-align:start"><span style="font-size:15px">2012年6月29日，由新疆和田飞往乌鲁木齐的GS7554航班于12:25分起飞，12:35分飞机上有6名歹徒暴力劫持飞机，随后被机组人员和乘客制服，飞机随即返航和田机场并安全着陆，6名歹徒被公安机关抓获。</span></p>
+</td>
+<td id="b-87040863823849df938d06dcdc9296ba" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-2ba0679c0c5d4b179e5514104cd6c876" style="text-align:start"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">2人死亡（均为犯罪分子）、十余人受伤</span></span></p>
+</td>
+<td id="b-cfc9e4475b8c4b22b4a5a563fa8c9381" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-5ab8331608e94066ad96f17c855b8f8f" style="text-align:start"><span style="font-size:15px">木沙·玉素甫、阿巴拜柯热·伊比拉伊木、艾热西地卡力·依明、买买提艾力·玉素甫、亚森·麦麦提、吾麦尔·依明</span></p>
+</td>
+<td id="b-dc133381b6614e0293fb908bfe3cf9fa" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<details id="b-5b74c44130174230be088b8944d3e7bf">
+<summary><span style="color: "><span style="font-size:15px">恐怖袭击事件</span></span></summary>
+<div>
+<p id="b-984c134e4f874386a2d4c67a3633f57a" style="text-align:start"><span style="font-size:15px">早晨12点25分，从新疆的和田到乌鲁木齐一个航班上，起飞10分钟，有6名歹徒用暴力的方式要砸开驾驶舱的门，企图要进行劫机，被机组人员和乘客共同制服，飞机后来就返回到和田机场，安全着陆了，飞机上的其他乘客就安全返回了，其中6名歹徒被抓住了。</span></p>
+</div>
+</details>
+<p id="b-01b08f4f7bfa4943b1761fea1c09068a" style="text-align:start"></p>
+</td>
+<td id="b-392703cf1c86404fb56d15dfb0d8d30e" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-8a8fd5ea45bf4c8e8f2348534cb0e152" style="text-align:start"><img src="https://km.sankuai.com/api/file/cdn/1625309615/234769326945?&amp;isNewContent=false&amp;contentType=1" width="85" height="101" id="b-4716277e199b480dae5e41044c9cbba2" alt="原文图片（需学城权限）"></p>
+</td>
+</tr>
+<tr id="b-1c02d08f8f6e4bd79430bdd33b8560a1">
+<td id="b-fcc99699bce34c0a9e2f4b6b524cbc59" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-909f3e49001b4d8db9fc136173339eec" style="text-align:center"><span style="font-size:15px">巴楚县“4·23”暴力恐怖袭击事件</span></p>
+</td>
+<td id="b-d5d03ac1c00842b5a6b8ad821d2b58c6" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-9a7c38c7b88e4b03853b5d6fd0d1540f" style="text-align:center"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">2013年4月23日</span></span></p>
+</td>
+<td id="b-dc8424dd3b1c466c9199e6b0935441d0" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-db95aeaea3b740e5829a7720046c0985" style="text-align:start"><span style="font-size:15px">巴楚县</span></p>
+</td>
+<td id="b-118a1ec563594296830fcaed153884ee" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-696ad02e1c3243a0b3162492463e73fd" style="text-align:start"><span style="font-size:15px">2013年巴楚县“4·23”暴力恐怖袭击事件</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">，是指于2013年4月23日在</span></span><span style="font-size:15px">中国新疆维吾尔自治区</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">西南部</span></span><span style="font-size:15px">喀什地区巴楚县</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">西南</span></span><span style="font-size:15px">色力布亚镇</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">发生的一起暴力袭击事件，中国官方将此事件定性为“</span></span><span style="font-size:15px">恐怖袭击</span></p>
+</td>
+<td id="b-54efa5aeb85f4cf0863c2004eddeab94" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-dd61a6647721485cb8bdba437bded248" style="text-align:start"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">21人死亡（包括6名犯罪分子）、2人受伤</span></span></p>
+</td>
+<td id="b-9ed964b3d25242cd8bbcdd8f62ac3ec6" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-791e78316bf04db69325927cf3782908" style="text-align:start"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">木沙·艾山、艾尼瓦尔·阿布都热依木、买买提明·巴拉提、买买提明·马合木提、艾比布拉·巴拉提等人</span></span></p>
+</td>
+<td id="b-34086a29f66442d9b8ec7c285b8bc9d0" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<details id="b-5a23b7400f3c4308a315d2b8e94ad6cd">
+<summary><span style="color:rgb(77, 77, 77)"><span style="font-size:15px">恐怖袭击事件</span></span></summary>
+<div>
+<p id="b-1ee5042efa894d819e0f71212f4875ff" style="text-align:start"><span style="font-size:15px">据中共巴楚县党委宣传部称，4月23日下午13时30分，3名社区工作人员走访镇内民居时，在一所居所内发现可疑刀具与人士，随后通过电话转报上级，其后被隐蔽室内的几名暴徒控制。当地派出所接获警报后，随同社区管理人员前往调查，赶赴现场时遭到居室内外的暴徒的袭杀，室内被控制的3名社区工作人员被杀害。赶来的众人遭到多名暴徒持1.2米长的刀具伏击，唯一携带手枪的派出所所长发射全部6颗子弹后仍然未能够突围，众人被逼进一间房间。暴徒随后堵死房门，灌入汽油，并且纵火将众人烧死。遇害者中包括蒙古族的色力布亚镇副镇长孙超。最后继续施暴的暴徒被警察击毙，合共6人，其余8人被逮捕。事件造成15位社区工作人员和警察殉职（其中维吾尔族10人、汉族3人、蒙古族2人）、2人受伤（均为维吾尔族），共21人死亡。烧毁房屋11间。</span></p>
+<p id="b-70b99c7e59c6429bb9e516f39f421cb9" style="text-align:start"><span style="font-size:15px">4月29日天山网公布的细节称，木沙·艾山、艾尼瓦尔·阿布都热依木、买买提明·巴拉提、买买提明·马合木提、艾比布拉·巴拉提等人自2012年9月以来开始参加喀斯木·买买提组织的地下讲经班，观看宗教极端和暴恐内容的音视频，形成了以喀斯木·买买提为头目的团伙。当年12月初，喀斯木·买买提带领众人及家人集中至巴楚县色力布亚镇分散租住，并与大家在家中进行体能训练，模仿视频练习杀人技巧。2013年3月初，喀斯木·买买提与众人筹备活动经费，制造爆炸装置、头套、遥控器等，3月中旬，制造了8把大刀，先后进行5次试爆活动，并预谋这年夏天在喀什市人员密集的公共场所“干大事”。4月23日上午10时许，喀斯木·买买提命买买提明·马合木提、艾尼瓦尔·阿布都热依木在买买提明·巴拉提家制火药，自己与其他人在附近干活。13时许，买买提明·巴拉提、艾比布拉·巴拉提返回家时遇见社区工作人员和警察入户走访，艾比布拉·买买提借口取钥匙向喀斯木·买买提等人报信。喀斯木·买买提等5人随即乘坐摩托车赶回，将木沙·艾山出租房内的大刀等分发给大家，在买买提明·巴拉提家附近观察情况，当看到制爆物品被发现、制爆人员被控制后，喀斯木·买买提带领团伙成员冲进院内，与院内成员对在场社区干部及民警进行砍杀。镇派出所所长开枪击毙暴徒1名、击伤1名，3名社区女干部被杀害，其余9人被逼至房内，暴徒向屋内泼洒汽油并纵火，致全部遇难。后赶来的乡镇干部及民警相继遭伏击，民警击毙暴徒1名，1名乡镇干部遇害，2名民警重伤不治身亡。此后，4名暴徒冲出巷道打砸烧毁车辆，在冲击镇政府时1人被击毙，另3人劫持一辆三轮摩托车转而冲向派出所，将派出所档案室和民警宿舍点火焚烧，被击毙。[</span></p>
+</div>
+</details>
+<p id="b-3c7d9084ef244f4c99bcce056c7e093b" style="text-align:start"></p>
+</td>
+<td id="b-ace1d1262f04410abd2d9889e22fab46" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-17cdde35266a4a74a3f9e62fa0ff60a5" style="text-align:start"></p>
+</td>
+</tr>
+<tr id="b-434b0a45a2274a5a8135b94ecd6f3dff">
+<td id="b-82a880e5a5294fe8b336b317221cb0e6" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-f8e23cfe24eb4da2b1c5b7c9de3008a2" style="text-align:center"><span style="font-size:15px">鄯善县“6·26”暴力恐怖袭击事件</span></p>
+</td>
+<td id="b-35e1d78de7f842088e2ff49ed80c5b4c" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-622703a5af9a45d296e1abb75bde17cc" style="text-align:center"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">2013年6月26日</span></span></p>
+</td>
+<td id="b-54b3d207ac084509a862c9ed5041f9ee" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-095ed25f00154f5599b508d55411ba52" style="text-align:start"><span style="font-size:15px">鄯善县鲁克沁镇</span></p>
+</td>
+<td id="b-760a9388cefc4240b7f7ac8c84ad5e31" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-f8ab2e0a3f894e00aabce0bd194e4b83" style="text-align:start"><span style="font-size:15px">新疆鄯善恐怖袭击事件</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">，又称</span></span><span style="font-size:15px">新疆鄯善县严重暴力恐怖袭击案</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">，是指2013年6月26日凌晨5时50分许，发生在</span></span><span style="font-size:15px">中华人民共和国新疆吐鲁番地区鄯善县鲁克沁镇</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">的一起暴力袭击事件，中国官方将此事件定性为“</span></span><span style="font-size:15px">恐怖袭击</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">”。 多名暴徒先后袭击鲁克沁镇</span></span><span style="font-size:15px">派出所</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">、特巡警中队、镇政府和民工工地，放火焚烧警车。该案件造成24人遇害，其中有16人为</span></span><span style="font-size:15px">维吾尔族</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">，2人为</span></span><span style="font-size:15px">公安民警</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">；造成21名民警和群众受伤。公安民警当场击毙暴徒11人、击伤并抓获4人。</span></span><sup><a href="https://zh.wikipedia.org/wiki/2013%E5%B9%B4%E9%84%AF%E5%96%84%E5%8E%BF%E2%80%9C6%C2%B726%E2%80%9D%E6%9A%B4%E5%8A%9B%E6%81%90%E6%80%96%E8%A2%AD%E5%87%BB%E4%BA%8B%E4%BB%B6#cite_note-xin1-3" title="[" id="b-3f499d03109c4f6a923b9ca9ed52acb9"><span style="font-size:15px">[</span></a></sup></p>
+</td>
+<td id="b-293c2e4aaff74377bbf3c95f7d5e2f59" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-60750b3d1ff14fca813b8bc6a2d316d9" style="text-align:start"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">24人死亡（包括11名犯罪分子）、23人受伤</span></span></p>
+</td>
+<td id="b-bb7779733f2c407bb3ada56791afb38a" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-653623b22b1346459896083704448478" style="text-align:start"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">合买提尼牙孜·斯迪克</span></span></p>
+</td>
+<td id="b-8a518218275b4fc3a5e6085026dc218e" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<details id="b-a4e48040fa864a13ab7159fff5dff919">
+<summary><span style="color:rgb(77, 77, 77)"><span style="font-size:15px">恐怖袭击事件</span></span></summary>
+<div>
+<p id="b-013ff67ea0f24f6eb96ed03bc40616a5" style="text-align:start"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">根据2013年6月30日，案件告破时警方发布信息，艾合买提尼牙孜·斯迪克自2013年2月以来纠集多人进行宗教极端活动，收听煽动暴力恐怖活动的音频资料，形成了17人的暴力恐怖活动团伙。6月中旬以来，该团伙筹措资金，购买刀具、汽油等作案工具，多次踩点。6月25日，公安机关根据线索抓获该团伙成员1人。艾某因害怕罪行败露，26日晨，伙同15名暴徒，先后袭击鄯善县鲁克沁镇派出所、巡警中队、镇政府、建筑工地、个体商店和美容美发厅，烧毁车辆，持刀疯狂砍杀公安民警和无辜群众，造成24人死亡，其中维吾尔族16人、汉族8人，2名女性，另有21人受伤。处置过程中，当场击毙暴徒11人，击伤并抓获4人，缴获刀具、汽油桶等作案工具若干。经群众举报，最后一名逃犯伊布拉音·艾力于6月30日被抓获</span></span></p>
+</div>
+</details>
+<p id="b-ff4468f49d9d426cb218017d0139ce32" style="text-align:start"></p>
+</td>
+<td id="b-30f9716d7cdc4b10b582e153c10752df" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-a810cd5dc620433eadcc02c969532eb4" style="text-align:start"></p>
+</td>
+</tr>
+<tr id="b-1aec53b3ab7545099c7653616befb01e">
+<td id="b-b21adf55fc1a43ad86427f41fe0a7ee4" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-67ca14f010664669a4e5dfc9366310c6" style="text-align:center"><span style="font-size:15px">巴楚县“11·16”暴力恐怖袭击事件</span></p>
+</td>
+<td id="b-a3fb1877921c41b2847cc734402d449b" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-4badf9bb4c0f4da791efbed0f3c81986" style="text-align:center"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">2013年11月16日</span></span></p>
+</td>
+<td id="b-e514cc5de0c046b19722c435573bdb04" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-2c0d3eeee6984567ad33e4ba9256bcc6" style="text-align:start"><span style="font-size:15px">巴楚县</span></p>
+</td>
+<td id="b-840fb2714f9047e38f0cde901d80928d" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-1ad3dc30f06d416588069518bdd64edb" style="text-align:start"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">阿布拉·艾海提等9名暴徒持刀斧袭击色力布亚镇派出所，致使2名协警牺牲，2名民警受伤。暴徒被当场全部击毙</span></span></p>
+</td>
+<td id="b-f705dfb7899b4f1ba038a0a83cc622de" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-5a73e4ed32cd4f78b9eadd9f9935abcb" style="text-align:start"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">致使2名协警牺牲，2名民警受伤。暴徒被当场全部击毙</span></span></p>
+</td>
+<td id="b-ee50df6e6f214b9d86e95ef3c98c3790" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-926cbb0c84df414e99988e68af9c0cc5" style="text-align:start"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">阿布拉·艾海提</span></span></p>
+</td>
+<td id="b-09f198e4df694f078cc36aef9f13c6fc" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<details id="b-dd8cc5a300c54d87a836487b859c68ed">
+<summary><span style="color:rgb(77, 77, 77)"><span style="font-size:15px">恐怖袭击事件</span></span></summary>
+<div>
+<p id="b-ece1c9fdc7da41d9b7c5a3ddbd08c7d5" style="text-align:start"><span style="font-size:15px">2013年11月16日在中华人民共和国新疆巴楚县发生的一起袭击公安派出所的暴力事件，中国官方将此事件定性为“恐怖袭击”</span><sup><a href="https://zh.wikipedia.org/wiki/2013%E5%B9%B4%E5%B7%B4%E6%A5%9A%E5%8E%BF%E2%80%9C11%C2%B716%E2%80%9D%E6%9A%B4%E5%8A%9B%E6%81%90%E6%80%96%E8%A2%AD%E5%87%BB%E4%BA%8B%E4%BB%B6#cite_note-1" title="[1]" id="b-707d8108fb1f4dcc829f0b199ac1b90c"><span style="font-size:15px">[1]</span></a></sup><span style="font-size:15px">。</span></p>
+<p id="b-35960f6d15bb4a758b7f4ae537fd302d" style="text-align:start"><span style="font-size:15px">该事件发生于巴楚县西南的色力布亚镇，据喀什警方消息，11月16日下午17时30分左右，阿布拉·艾海提等9名暴徒持刀斧袭击色力布亚镇派出所，致使2名协警牺牲，2名民警受伤。暴徒被当场全部击毙。</span></p>
+<p id="b-1db49f20939246cda7ffcc61d5430e04" style="text-align:start"><span style="font-size:15px">死亡协警一个叫玉苏普‧阿卜杜克热木，另一名是汉人。袭击者全为17至23岁左右的维吾尔族青年，无身份证明文件。据说袭击者开车冲进派出所院子，从车上一冲下来就把协警杀了。</span></p>
+</div>
+</details>
+<p id="b-d35f65197a0c45ccacbec306b9607476" style="text-align:start"></p>
+</td>
+<td id="b-dcb6655a69014d5ea7e50320043d609f" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-3429451a4cb542c4b01a47108027ed07" style="text-align:start"></p>
+</td>
+</tr>
+<tr id="b-16ecfbe165f540228cbed88c2d83837f">
+<td id="b-eeb0ffa41fff4694967c7128aa03b463" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-adbaf2f487194b81b0df5e74ad7e6784" style="text-align:center"><span style="font-size:15px">疏附县“12·15”暴力恐怖袭击事件</span></p>
+</td>
+<td id="b-b856893e872c4141a5099a8fc0ac89d4" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-6092b634e8584dd793e7c57db77f6eff" style="text-align:center"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">2013年12月15日</span></span></p>
+</td>
+<td id="b-a550d4244061454a8df57058e7d6d371" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-6b5c2fba16554d3083fc76a60d3a55dc" style="text-align:start"><span style="font-size:15px">疏附县萨依巴格乡</span></p>
+</td>
+<td id="b-02685a5e94da45e5809474bbc56a0335" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-54e5f7ae276e41f6bb298c08b5199dc7" style="text-align:start"><span style="font-size:15px">新疆疏附暴力恐怖袭击事件</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">，中国官方称</span></span><span style="font-size:15px">12·15新疆疏附暴力恐怖袭击案</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">，是指于2013年12月15日发生在</span></span><span style="font-size:15px">新疆喀什疏附县萨依巴格乡</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">的一起袭击事件，袭击对象是正在进行常规入户调查的</span></span><span style="font-size:15px">公安民警</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">，中国官方将此事件定性为“</span></span><span style="font-size:15px">恐怖袭击</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">”</span></span></p>
+</td>
+<td id="b-b25f3ff92df34fac9cb9740bfb87bd11" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-834f11b657e7416a9e60c2a73d7deb81" style="text-align:start"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">16人死亡（包括14名犯罪分子）</span></span></p>
+</td>
+<td id="b-bec2926753ef4f53bba8942259556656" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-bf0cacd654e140d2bcfb9ff9171b2790" style="text-align:start"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">艾山·司马义为</span></span></p>
+</td>
+<td id="b-139dd881ed264cfb946ced72805ee5f5" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<details id="b-f3cedff4a553449d9510ed1cc7161849">
+<summary><span style="color:rgb(77, 77, 77)"><span style="font-size:15px">点击展开内容</span></span></summary>
+<div>
+<p id="b-275648f2a6514628a8e06e92523d52e5" style="text-align:start"><span style="font-size:15px">萨依巴格乡位于疏附县城南郊，乡政府与县城的直线距离3.5公里。15日23时许，疏附县公安局民警在萨依巴格乡展开常规入户调查，当民警进入其中一户村舍时，发现内有大量人员聚集，正当民警对屋内人员进行询问时，有人突然使用砍刀袭击民警，2名民警当场牺牲，他们还从屋内取出自制爆炸物袭击赶来增援的公安联防人员。公安人员警告无效后，果断开枪处置，当场击毙14人，抓获2人。截止17日，警方已抓获嫌疑人6名，缴获一批爆炸装置、自制枪支、刀具等。。</span></p>
+<p id="b-9b6af064ea634c5681d96b26e3f7c5fe" style="text-align:start"><span style="font-size:15px">16日晚，经警方初步查明，“12·15”案件是一起有组织、有预谋的暴力恐怖袭击案件，今年8月开始，该团伙以以艾山·司马义为首，多次聚集，观看暴恐视频，宣扬宗教极端思想，制造爆炸装置、枪支，数次进行试爆，预谋实施暴恐活动。</span></p>
+</div>
+</details>
+<p id="b-2db8856a0953492892b63e5a589e3d15" style="text-align:start"></p>
+</td>
+<td id="b-b6760c73f4474a069291096a44f94834" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-d6e98e19792d4fbc91cc4d9de9139c84" style="text-align:start"></p>
+</td>
+</tr>
+<tr id="b-49c87a76b5df4448b427acd6d80fc649">
+<td id="b-7f21dc0085ff4770a67ba89a69e99a59" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-cee36a71c81a4c60a7c2aba80a74043c" style="text-align:center"><span style="font-size:15px">莎车县“12·30”暴力恐怖袭击事件</span></p>
+</td>
+<td id="b-ce65386d6e394b0a8825a5eab6ac788d" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-51c4ff76c8614dc8b80204663b6d43f1" style="text-align:center"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">2013年12月30日</span></span></p>
+</td>
+<td id="b-329386aefd4f4828b3c39537a314dc8c" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-e23cb7778bbc4a7182590b239b532e82" style="text-align:start"><span style="font-size:15px">莎车县</span></p>
+</td>
+<td id="b-7d0283a6938643d085fd20087f00722b" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-7656bc99007f469cb98f97adbb69a1fd" style="text-align:start"><span style="font-size:15px">莎车县暴力事件是指2013年12月30日上午6时许发生在中国新疆西南部喀什地区莎车县的一起袭击县公安局的暴力事件，中国官方将此事件定性为“恐怖袭击”。</span><sup><a href="https://zh.wikipedia.org/wiki/2013%E5%B9%B4%E8%8E%8E%E8%BD%A6%E5%8E%BF%E2%80%9C12%C2%B730%E2%80%9D%E6%9A%B4%E5%8A%9B%E6%81%90%E6%80%96%E8%A2%AD%E5%87%BB%E4%BA%8B%E4%BB%B6#cite_note-3" id="b-8e099b688e7842509861123acddaf90e"></a></sup></p>
+<p id="b-5ceabf5ef04346f093a2f774a510c3eb" style="text-align:start"><span style="font-size:15px">据新华社报导，当时9名恐怖分子持砍刀袭击，投掷爆炸装置，纵火焚烧警车。警方击毙8人，抓获1人</span></p>
+</td>
+<td id="b-95b58279504147d9a51a6b2a4a067c5f" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-a4abcd9addac41e39c6eca3b82a3a3b7" style="text-align:start"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">8人死亡（均为犯罪分子）</span></span></p>
+</td>
+<td id="b-6cd582d260534d76b71338f7789e500b" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-8bff488d358d4eda9694c69a57e00e38" style="text-align:start"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">吾斯曼·巴拉提、阿布都艾尼·阿布都喀迪尔为首的9名恐怖分子</span></span></p>
+</td>
+<td id="b-ed8e943ebd484fa2bb610b2793946bd4" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<details id="b-16dc259f3a054bcbb070c65b3e88148e">
+<summary><span style="color:rgb(77, 77, 77)"><span style="font-size:15px">点击展开内容</span></span></summary>
+<div>
+<p id="b-082f7c7fde024140be3d63559f09da2c" style="text-align:start"><span style="font-size:15px">车县暴力事件是指2013年12月30日上午6时许发生在中国新疆西南部喀什地区莎车县的一起袭击县公安局的暴力事件，中国官方将此事件定性为“恐怖袭击”。</span><sup><a href="https://zh.wikipedia.org/wiki/2013%E5%B9%B4%E8%8E%8E%E8%BD%A6%E5%8E%BF%E2%80%9C12%C2%B730%E2%80%9D%E6%9A%B4%E5%8A%9B%E6%81%90%E6%80%96%E8%A2%AD%E5%87%BB%E4%BA%8B%E4%BB%B6#cite_note-1" title="[" id="b-59504be9f95749d6b4049f371307c201"><span style="font-size:15px">[</span></a></sup></p>
+<p id="b-dfdce5e4a1404173af030d0741307217" style="text-align:start"><span style="font-size:15px">据新华社报导，当时9名恐怖分子持砍刀袭击，投掷爆炸装置，纵火焚烧警车。警方击毙8人，抓获1人。</span></p>
+<p id="b-87fe35f11346424ba224845271fc7226" style="text-align:start"><span style="font-size:15px">新疆警方30日初步查明，以吾斯曼·巴拉提、阿布都艾尼·阿布都喀迪尔为首的9名恐怖分子自2013年8月起多次观看暴恐视频，宣扬宗教极端思想，结成暴恐团伙。该团伙筹措资金，制造爆炸燃烧装置并进行试爆，预谋实施恐怖袭击。警方在抓捕现场缴获爆炸装置25枚、自制砍刀9把等一批作案工具。处置过程中警方无人员伤亡</span></p>
+</div>
+</details>
+<p id="b-c7441d402d8b422a94f7c013b0cec1b8" style="text-align:start"></p>
+</td>
+<td id="b-e18d3e72fa96427f89eed07258a658c0" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-ae279b5b7b6347d28f579fb4e233e8bc" style="text-align:start"></p>
+</td>
+</tr>
+<tr id="b-984815ee355044d2b78b31224ee2f2dd">
+<td id="b-c9f86a44d44c4678b5b042857c5bcbd6" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-c7b37a8a525447cba73e07547a105520" style="text-align:center"><span style="font-size:15px">乌什县“2·14”暴力恐怖袭警事件</span></p>
+</td>
+<td id="b-0b1e1ad5fbda47c49006a34cefcb485e" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-07b45fad8fe44ad5827ff676db3870ff" style="text-align:center"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">2014年2月14日</span></span></p>
+</td>
+<td id="b-e03b2e5348e04a209a8b8b56f9d34644" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-e7a00ac628de464d826828b194d7d717" style="text-align:start"><span style="font-size:15px">乌什县</span></p>
+</td>
+<td id="b-e94ea863d9d244ec989396720ae98617" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-48cd4c920d0b410b94f03e5123927504" style="text-align:start"><span style="font-size:15px">2014年乌什县袭击事件</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">，是指于2014年2月14日在中国</span></span><span style="font-size:15px">新疆阿克苏地区乌什县</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">发生的一起袭击公安巡逻车辆的暴力事件，中国官方将此事件定性为“</span></span><span style="font-size:15px">恐怖袭击</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">”</span></span></p>
+</td>
+<td id="b-8a2ddadfcd9245909cab53ba7cdf3ada" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-ae05f90ace2e41ee8e233a674ad50512" style="text-align:start"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">11人死亡（均为犯罪分子）、4人受伤</span></span></p>
+</td>
+<td id="b-02bbe6ba4def488e8855d0a0987c8f0b" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-08ac1a0b402547b79f4a6ea5e2e7b04b" style="text-align:start"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">麦合木提江·托合提</span></span></p>
+</td>
+<td id="b-4b0d7dac547541f48772e4f7130e47f8" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<details id="b-7f6cb652154a4db38783bae68c96a99e">
+<summary><span style="color:rgb(77, 77, 77)"><span style="font-size:15px">点击展开内容</span></span></summary>
+<div>
+<p id="b-3f85c5274d674ab78003b0f4f0b988cd" style="text-align:start"><span style="font-size:15px">2014年2月14日16时许，恐怖分子驾驶车辆，携带爆燃装置，手持砍刀，袭击公安巡逻车辆，致2名群众和2名民警受伤，5辆执勤车损毁。公安民警在处置过程中，击毙8人，抓获1人。3名犯罪嫌疑人在实施犯罪时发生自爆死亡</span><sup><a href="https://zh.wikipedia.org/wiki/2014%E5%B9%B4%E4%B9%8C%E4%BB%80%E5%8E%BF%E2%80%9C2%C2%B714%E2%80%9D%E6%9A%B4%E5%8A%9B%E6%81%90%E6%80%96%E8%A2%AD%E8%AD%A6%E4%BA%8B%E4%BB%B6#cite_note-:0-1" title="[1]" id="b-3011d7bb9f204500ae40db3f1135d8c4"><span style="font-size:15px">[1]</span></a></sup><span style="font-size:15px">。</span></p>
+<p id="b-a447b22ec77d40ec80e23fd0b86bb713" style="text-align:start"><span style="font-size:15px">据当地警方侦查，2013年9月起以麦合木提江·托合提为首的13人陆续纠集，收听观看暴恐音视频，进行体能训练，结成暴恐团伙。2014年1月以来，开始购买作案车辆，制造爆燃装置、砍刀，多次试爆，预谋伺机袭击公安巡逻车辆。警方现场缴获数十枚爆燃装置及砍刀、车辆等作案工具</span></p>
+</div>
+</details>
+<p id="b-513967b65c834e42a87c6eb923639ff5" style="text-align:start"></p>
+</td>
+<td id="b-131a1a903aa648c3935a3066a6541eb0" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-1c2e556c465647dd89e062875e599cc0" style="text-align:start"></p>
+</td>
+</tr>
+<tr id="b-08abbf6c756147ecbf24f79d1b07c819">
+<td id="b-abf322f06bcc427db6a00ab089d1db46" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-e54104aa44b44416a350c18ff144d023" style="text-align:center"><span style="font-size:15px">乌鲁木齐火车南站暴力恐怖袭击案件</span></p>
+</td>
+<td id="b-bd03010f6c7c409594051626a11c0607" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-26a15f3b98e84523a667670c44df17fa" style="text-align:center"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">2014年4月30日</span></span></p>
+</td>
+<td id="b-0ce551f042cc495f9c59d6c09986ce2f" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-303b89d545a943dc8983790fd82962db" style="text-align:start"><span style="font-size:15px">乌鲁木齐市</span></p>
+</td>
+<td id="b-dfdd06e9a31b47a2806057f82064345b" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-b6f973f5bc8c4719aaba42c0f900bf09" style="text-align:start"><span style="font-size:15px">2014年乌鲁木齐火车南站暴力恐怖袭击案件</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">，又称为“</span></span><span style="font-size:15px">乌鲁木齐火车南站厮杀案</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">”，是于2014年4月30日19时10分左右在</span></span><span style="font-size:15px">中国新疆维吾尔自治区乌鲁木齐市火车南站</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">出站口接人处发生的一起武装械斗及</span></span><span style="font-size:15px">爆炸</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">事件。</span></span></p>
+</td>
+<td id="b-4a0dadd967b044afaf32f837fb7c2dee" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-9f86662cca54456f8416859b9e1ed4cb" style="text-align:start"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">3人死亡（包括2名犯罪分子）、79人受伤</span></span></p>
+</td>
+<td id="b-1aed5eb90d9848a596c0e31d1eab9f24" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-99d4121a0b394fbdad52a83004b44836" style="text-align:start"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">色地尔丁·沙吾提</span></span></p>
+</td>
+<td id="b-0efa63445b024500b5c2432826a76c3e" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<details id="b-b34a5ec932064df58c9be02b9093ddcb">
+<summary><span style="color:rgb(77, 77, 77)"><span style="font-size:15px">点击展开内容</span></span></summary>
+<div>
+<p id="b-273f6c11dc2f4feb9d9097f2ddc767a0" style="text-align:start"><span style="font-size:15px">2014年乌鲁木齐火车南站暴力恐怖袭击案件</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">，又称为“</span></span><span style="font-size:15px">乌鲁木齐火车南站厮杀案</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">”，是于2014年4月30日19时10分左右在</span></span><span style="font-size:15px">中国新疆维吾尔自治区乌鲁木齐市火车南站</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">出站口接人处发生的一起武装械斗及</span></span><span style="font-size:15px">爆炸</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">事件。 中国官方称这一事件为“</span></span><span style="font-size:15px">乌鲁木齐火车南站‘4·30’暴力恐怖袭击案件</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">”，属“</span></span><span style="font-size:15px">恐怖袭击</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">”。该事件共造成3人死亡，79人受伤，其中4人重伤。3名死者中有1名平民，2名袭击者系引爆身上炸弹身亡。中国警方称此次爆炸案为“</span></span><span style="font-size:15px">东突厥斯坦伊斯兰运动</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">”恐怖组织所为</span></span></p>
+</div>
+</details>
+<p id="b-ab68aa624e464d6a9ff14145fb41fc96" style="text-align:start"></p>
+</td>
+<td id="b-537107aeff954a68ba5924a6ba4873ab" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-ad735c94ddf6467e80f50aa4c521a0ac" style="text-align:start"><img src="https://km.sankuai.com/api/file/cdn/1625309615/234765869615?&amp;isNewContent=false&amp;contentType=1" width="218" height="151" id="b-2d7739bb74574a8199370487a0697b5a" alt="原文图片（需学城权限）"></p>
+</td>
+</tr>
+<tr id="b-03eb63c91e694873b04342dc9cad3d08">
+<td id="b-1ce42eb482e0468090df79d606087af6" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-394bd37ebf87439ab0943f23ccfa0fbd" style="text-align:center"><span style="font-size:15px">乌鲁木齐公园北街早市暴力恐怖袭击案</span></p>
+</td>
+<td id="b-320e646384fe4b96a64993cd7b8974d0" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-d0a3bfa615c94bc1b8d1f4a19a2dabfc" style="text-align:center"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">2014年5月22日</span></span></p>
+</td>
+<td id="b-380e970f940141a9821cc833381ecb4b" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-691a668826c54785b98eba6fd2d25101" style="text-align:start"><span style="font-size:15px">乌鲁木齐市</span></p>
+</td>
+<td id="b-86b2658e796947299440c04e5e157088" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-52e383db9a7c42a983d7ff20d7aa7bce" style="text-align:start"><span style="font-size:15px">014年乌鲁木齐公园北街早市暴力恐怖袭击案</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">（中华人民共和国官方称为“</span></span><span style="font-size:15px">乌鲁木齐市‘5·22’暴力恐怖案</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">”，媒体也称为“</span></span><span style="font-size:15px">乌鲁木齐爆炸案</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">”、“</span></span><span style="font-size:15px">乌鲁木齐暴力恐怖案</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">”）是</span></span><span style="font-size:15px">2014年5月</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">22日7点50分许在</span></span><span style="font-size:15px">中国新疆维吾尔自治区乌鲁木齐市沙依巴克区人民公园</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">西侧的公园北街早市发生的严重暴力案件，中国官方将此事件定性为“</span></span><span style="font-size:15px">恐怖袭击</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">”。</span></span><sup><a href="https://zh.wikipedia.org/wiki/2014%E5%B9%B4%E4%B9%8C%E9%B2%81%E6%9C%A8%E9%BD%90%E5%85%AC%E5%9B%AD%E5%8C%97%E8%A1%97%E6%97%A9%E5%B8%82%E6%9A%B4%E5%8A%9B%E6%81%90%E6%80%96%E8%A2%AD%E5%87%BB%E6%A1%88#cite_note-reuters0522-3" id="b-7d017f0f1da74e13bd3a5a84af9262c1"></a></sup><span style="color:rgb(32, 33, 34)"><span style="font-size:15px"> 该事件造成43人死亡（其中无辜群众39人，袭击者4人），94人受伤，死伤者大多数是买早餐的老年人。</span></span></p>
+</td>
+<td id="b-e97afa3196964d96ab3b1a6563ecbf57" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-4a7d5904a5884968b38c5b587634db3a" style="text-align:start"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">43人死亡（包括4名犯罪分子）、94人受伤</span></span></p>
+</td>
+<td id="b-6eb8926c6d94424ba73e926daae64a6d" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-2453b637599a4acdb5f97aaacc19b0b0" style="text-align:start"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">努尔艾合买提·阿布力皮孜、麦麦提·麦麦提明、热依木江·麦麦提、麦麦提敏·麦合买提、阿卜来提·阿卜杜喀迪尔</span></span></p>
+</td>
+<td id="b-9bdc9c30b3614bbc82b485ddd1e2e397" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<details id="b-f6d9132d14e9492e8dc94cabfead9d65">
+<summary><span style="color:rgb(77, 77, 77)"><span style="font-size:15px">点击展开内容</span></span></summary>
+<div>
+<p id="b-4c598b0116ed492a9dd2c5c5cc4d56a5" style="text-align:start"><span style="font-size:15px">炸发生在乌鲁木齐市中心人民公园附近的北街早市。两辆越野车自北向南开过来，冲破防护隔离铁栏，冲撞碾压早市上的人群，车子停下时，已有十几人受伤躺地。之后车上的人向外掷爆炸物，车辆再猛烈爆炸，一连十多响爆炸声，持续数分钟之久</span><sup><a href="https://zh.wikipedia.org/wiki/2014%E5%B9%B4%E4%B9%8C%E9%B2%81%E6%9C%A8%E9%BD%90%E5%85%AC%E5%9B%AD%E5%8C%97%E8%A1%97%E6%97%A9%E5%B8%82%E6%9A%B4%E5%8A%9B%E6%81%90%E6%80%96%E8%A2%AD%E5%87%BB%E6%A1%88#cite_note-9" id="b-aedbd73ec20b47a3a3c77e50d6f42354"></a></sup><span style="font-size:15px">。有目击者称，车身插有疑似东伊运的“星月旗”。袭击者自爆死亡。</span></p>
+<p id="b-4f2f3b85b0a345c78d0b892ed9ae6716" style="text-align:start"><span style="font-size:15px">爆炸发生地靠近时任乌鲁木齐市市长伊力哈木·沙比尔的家。听到连续爆炸声以后，家住在附近的伊力哈木·沙比尔匆匆跑下楼，组织小区居民及社会车辆救援，将受伤者送往附近的新疆维吾尔自治区中医医院、乌鲁木齐市中医医院接受救治。</span></p>
+<p id="b-f4e748104bce40a29e6b0f68da225b4d" style="text-align:start"><span style="font-size:15px">乌鲁木齐市政法委书记焦亦民表示，事件发生之后，现场民警随即封控现场并组织救援，其他警力及应急救援力量也很快到达，10分钟内完成全部伤者送医救治、中心现场排爆灭火、物证搜集等工作。根据记者了解，事件发生半小时内，大批公安、武警、消防、社区工作人员开展了现场处置；事件发生1小时后，案发地区交通基本恢复。</span></p>
+</div>
+</details>
+<p id="b-3880354fb7a342ff84c91cc218265f82" style="text-align:start"></p>
+</td>
+<td id="b-21e33510ebcb43879ef2bedbcf39e461" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-a49e0a4da90241dfae84b8cb7fae42fc" style="text-align:start"></p>
+</td>
+</tr>
+<tr id="b-18871804c70744d8821866e4e7086b2a">
+<td id="b-fffb343c713441ab90c224eea0d7ef6b" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-eca54c17c63c4b38a5d2a6dce0d90f38" style="text-align:center"><span style="font-size:15px">叶城县公安局袭击事件</span></p>
+</td>
+<td id="b-b83da1cb671d4a478326a67c1b1b9d7d" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-8a143aa2a0bc43f494db12f3cae1d7a3" style="text-align:center"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">2014年6月21日</span></span></p>
+</td>
+<td id="b-a78885cdb71b4f909349d40cb3e2d03a" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-bc27f9e8826f4d8ebe9e9195f13d0d52" style="text-align:start"><span style="font-size:15px">叶城县</span></p>
+</td>
+<td id="b-edb27d755e9c470fa2d1c330b0a9a08a" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-09e7ba7a0a574ae7a62782ff2ec77c4e" style="text-align:start"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">2014年6月21日发生在中国</span></span><span style="font-size:15px">新疆喀什地区叶城县</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">的一起爆炸袭击事件，袭击对象为当地县</span></span><span style="font-size:15px">公安局</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">，中国官方将此事件定性为“</span></span><span style="font-size:15px">恐怖袭击</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">”</span></span></p>
+</td>
+<td id="b-2754c0e718d94baf84d1f24fedfbaf44" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-b20b3ba9f2764f05832d4651502de201" style="text-align:start"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">13人死亡（均为犯罪分子）、3人受伤</span></span></p>
+</td>
+<td id="b-22571b967d684cd7b75929539d0b3ce5" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-28dceddb1c5a4ea49005eca825acf19a" style="text-align:start"><span style="font-size:15px">/</span></p>
+</td>
+<td id="b-39c8f08d416f494bac1abe5f6b7f2280" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-d65f56b6ad704d28be095e2cff649b4e" style="text-align:start"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">2014年6月21日7点左右，一伙暴力分子驾驶车辆冲撞叶城县公安局办公大楼，并引爆爆炸装置。13名袭击者被民警击毙，3名民警受轻伤，无群众伤亡。至少有20多人遭到叶城县国保大队的逮捕</span></span></p>
+</td>
+<td id="b-17ae67adac324d9c9657d935d19afb44" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-7f9a856823c347e1a448923ab42bb5e5" style="text-align:start"></p>
+</td>
+</tr>
+<tr id="b-a2d6504c60f34462ab63cae11456eafc">
+<td id="b-c086284f8a8647bea19444cc17e5519f" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-86c1fe62edcc45dcab3fd9f999aa2e61" style="text-align:center"><span style="font-size:15px">莎车县“7·28”暴力恐怖袭击案</span></p>
+</td>
+<td id="b-46efa6532fc2460585392a6c779bbc0e" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-22ab9969d61b4d10b48f48c91e1fe59f" style="text-align:center"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">2014年7月28日</span></span></p>
+</td>
+<td id="b-df538d07cf4148ffa2b72dce390c2233" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-7ba5d2a73ca6482088c85eade41b9d6f" style="text-align:start"><span style="font-size:15px">莎车县</span></p>
+</td>
+<td id="b-148a7f3a95ca4498aff1eec253dcdebc" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-aaea868c85214daf9df5141c4d16e6e0" style="text-align:start"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">是指于2014年7月28日发生在</span></span><span style="font-size:15px">新疆维吾尔自治区喀什地区莎车县</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">的一起大规模袭击事件，中华人民共和国政府将此事件定性为“</span></span><span style="font-size:15px">恐怖袭击</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">”</span></span></p>
+</td>
+<td id="b-1b37acf34c2d4af0848143d9308a3562" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-8e945583e3e048b7b381a119b1b6b46d" style="text-align:start"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">96人死亡（包括59名犯罪分子）、13人受伤</span></span><sup><a href="https://zh.wikipedia.org/wiki/%E6%96%B0%E7%96%86%E6%81%90%E6%80%96%E6%B4%BB%E5%8B%95%E5%88%97%E8%A1%A8#cite_note-15" title="[" id="b-f888c6f342fa4e7aa6f42970250e2c0b"><span style="font-size:15px">[</span></a></sup></p>
+</td>
+<td id="b-5f27a46746754645926c8b301e22eba9" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-d2de4e05993a47ba95709e061f410afa" style="text-align:start"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">努尔买买提</span></span></p>
+</td>
+<td id="b-e6d1387a43e948cca5a4f0d984a5fa9d" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<details id="b-bd6b109de05344dc8052f94b1903be5b">
+<summary><span style="color:rgb(77, 77, 77)"><span style="font-size:15px">点击展开内容</span></span></summary>
+<div>
+<p id="b-126e067c077242ef84f7b394e5959dda" style="text-align:start"><span style="font-size:15px">28日凌晨，暴徒袭击艾力西湖镇政府、派出所，并有部分暴徒窜至荒地镇，打砸焚烧过往车辆，砍杀无辜群众。官方通讯社新华社报道时仅称事件造成数十名维汉族群众伤亡，31辆车被打砸，其中6辆车被烧，但未提及具体人数。此外，当地互联网和通讯被切断。</span></p>
+<p id="b-69bb329a1abf42c1a76b03293bc4f734" style="text-align:start"><span style="font-size:15px">28日凌晨5时左右，由于喀什商品交易会正在进行，当地安检比较严格，公安提前发现有暴徒携带了易爆物，暴徒随即与警方发生冲突，其间有暴徒逃脱，并在当天上午煽动更多人袭击镇政府、派出所以及下乡工作组的驻地，并拦截大巴，劫持人质。事态升级后，当地政府紧急抽调公安干警和民兵，对暴徒可能出没的地区进行搜查，对当地通信设施实施管制，截至29日晚，调查和抓捕还在进行中。有消息透露，这伙暴徒多达数百人，在莎车县五地点制造恐袭后，向莎车县荒地镇方向逃窜，喀什支队90名官兵分两路前往现场处置，途中遭到30名暴恐分子持刀斧袭击并驾车冲撞</span><sup><a href="https://zh.wikipedia.org/wiki/2014%E5%B9%B4%E8%8E%8E%E8%BD%A6%E5%8E%BF%E6%9A%B4%E6%81%90%E8%A2%AD%E5%87%BB%E6%A1%88#cite_note-9" title="[" id="b-8a3de51c5c404bd5906591edfa7eb975"><span style="font-size:15px">[</span></a></sup><span style="font-size:15px">。</span></p>
+<table id="b-09c82e2759d146559b5f4b118511a146">
+<tr id="b-917346d868014471af5d7218d66cd08e">
+<th colspan="2" id="b-268d764274c44e19b2046f4e4f1d6866" style="background-color:rgb(246, 246, 246);vertical-align:top">
+<p id="b-b8abbb10dc0a48de9df94c4b334fe8da"><span style="color: "><span style="font-size:15px">外部媒体链接</span></span></p>
+</th>
+</tr>
+<tr id="b-562b3518002241a0a4dc1c3f6b36acd5">
+<th colspan="2" id="b-a06673a951a042f39d0e8e027f9a9007" style="background-color:rgb(246, 246, 246);vertical-align:top">
+<p id="b-21025d532aa2460da903359950893476"><span style="font-size:15px">图片</span></p>
+</th>
+</tr>
+<tr id="b-dd19421d063240abab8d631b7ee3de27">
+<td colspan="2" id="b-1203751b6acc4564890d159c45a5cbeb" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-174551fc883849b6803567886cd96aba" style="text-align:start"><span style="font-size:15px"> </span><a href="https://img.i-scmp.com/cdn-cgi/image/fit=contain,width=1098,format=auto/sites/default/files/styles/1200x800/public/2014/08/08/kashgar_truck.jpg" title="被暴恐分子点燃的卡车" id="b-d469af87c038419f9ce332cab24bb746"><span style="font-size:15px">被暴恐分子点燃的卡车</span></a></p>
+</td>
+</tr>
+<tr id="b-0f8030811932421f98b5072a7e7f6b90">
+<td colspan="2" id="b-138d70ea96ff4293b7e63cd019baa2b5" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-5b511428d7874066b4633188fd6564a5" style="text-align:start"><span style="font-size:15px"> </span><a href="http://i2.chinanews.com/simg/hd/2014/08/08/99cc9c76ed454c5a8dbf85e48071f49f.jpg" title="被暴恐分子烧毁掀翻的卡车" id="b-5661b072d0844d208d477b94e6f6db17"><span style="font-size:15px">被暴恐分子烧毁掀翻的卡车</span></a></p>
+</td>
+</tr>
+<tr id="b-14882a9f2a804ffaacc63b110e716825">
+<td colspan="2" id="b-d7debadb553e44818163f4b933ba716c" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-c25237f1098742bb99b76b54c2f48cca" style="text-align:start"><span style="font-size:15px"> </span><a href="https://www.scmp.com/sites/default/files/styles/486w/public/2014/08/08/kashgar_save_kid.jpg" title="卡车司机肉孜·托合提抱着3岁女孩逃离现场" id="b-178314cff705418fbbc88d69fe8e7bae"><span style="font-size:15px">卡车司机肉孜·托合提抱着3岁女孩逃离现场</span></a></p>
+</td>
+</tr>
+<tr id="b-c2847b0c391d4630826da896348f0ee7">
+<td colspan="2" id="b-9a82df0775a54ad0bfd982369f6ed464" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-efb1d8746a0c41919dde37df0b8edfcd" style="text-align:start"><span style="font-size:15px"> </span><a href="http://i2.chinanews.com/simg/hd/2014/08/08/f6b8a73fcf7e477baa008591041005cb.jpg" title="成功获救的3岁女孩" id="b-8de99ab9d6d14d8283a10bc4eb02f86f"><span style="font-size:15px">成功获救的3岁女孩</span></a></p>
+</td>
+</tr>
+<tr id="b-d6939c0d881545098868761ab9bfafcf">
+<td colspan="2" id="b-ee33d5fb1be2448dba96bd2fb4aac993" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-b9a4bc10afab4b4ca5edf15a89d790a4" style="text-align:start"><span style="font-size:15px"> </span><a href="http://i2.chinanews.com/simg/hd/2014/08/08/6ddb0df8bd7246f2adf61361164468c4.jpg" title="遭遇暴徒的当地村民" id="b-c974ac3be56843d38c53c5bb47a03e56"><span style="font-size:15px">遭遇暴徒的当地村民</span></a></p>
+</td>
+</tr>
+<tr id="b-842930bda57447efbde0275a28845d13">
+<td colspan="2" id="b-0716e9234f6b4a0d985b0e7c0bfc1323" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-27d6a17bef924f53be543ffe57a0f089" style="text-align:start"><span style="font-size:15px"> </span><a href="http://photocdn.sohu.com/20140808/Img403260246.jpg" title="被卡车司机救出的孤儿治愈出院" id="b-766ac923eaef4cdb8cf1890ca5bc5673"><span style="font-size:15px">被卡车司机救出的孤儿治愈出院</span></a></p>
+</td>
+</tr>
+<tr id="b-85fe2160558d4fc3b2befcbcafd13af0">
+<th colspan="2" id="b-b7600862127d45fc919acf8a19b849d1" style="background-color:rgb(246, 246, 246);vertical-align:top">
+<p id="b-4ab737d937264b558826bcf0b2078a57"><span style="font-size:15px">视频</span></p>
+</th>
+</tr>
+<tr id="b-ecb00fb2b1b24231a61264bb3a075b5b">
+<td colspan="2" id="b-81598b60d6ac47d6b26c48fdc16fe7a1" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-4d6b649da5194ad092fd58c8a61efebf" style="text-align:start"><span style="font-size:15px"> </span><a href="https://v.163.com/static/3/VA2571CD3.html" title="中央电视台发布的事发现场视频" id="b-1ee0e44d227f43bbaab59e3235aa5237"><span style="font-size:15px">中央电视台发布的事发现场视频</span></a></p>
+</td>
+</tr>
+</table>
+<p id="b-4c07e0d3dc9143d4bcecd42dea583559" style="text-align:start"><span style="font-size:15px">8月8日，《新疆日报》的后续报道采访了巴楚县巴楚镇卡车司机肉孜·托合提，他正驾车途经李永军夫妇被害的莎车县荒地镇诺其巴扎十字路口，“暴徒把我拉下车，手里拿着砍刀，威胁我不跟他们走就杀掉我”。为自保，他先不出声地跟随暴徒，之后瞅准机会钻进玉米地逃跑了，肩膀被暴徒砍伤。事态稍平静后肉孜·托合提绕回卡车，准备开车时听到附近有小孩哭声。在被害人李永军夫妇轿车的后备厢里，他发现了藏在轿车后备厢里的3岁女儿。抱起孩子时，女孩抱着肉孜·托合提的脖子，哭着说：“蒙面的人打妈妈，我害怕。”之后经众人接力，3岁女孩被送往麦盖提县人民医院。经医生检查，女孩枕骨骨折，背部稍有烫伤，“问题不大”</span></p>
+</div>
+</details>
+<p id="b-9e208bf515294a158003a01aea04be38" style="text-align:start"></p>
+</td>
+<td id="b-e8486c3b79e24a0b90d1b5d64f065e84" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-5b8d8893e95c458399843636cd05368a" style="text-align:start"></p>
+</td>
+</tr>
+<tr id="b-fc6ce063dcf249959318a756e1e24984">
+<td id="b-e227d6ff0a7b4e689c64f65469627297" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-0e7e8c9321564e0a8af33eb41fc1636f" style="text-align:center"><span style="font-size:15px">轮台县爆炸案</span></p>
+</td>
+<td id="b-a4b938d25ea0433dbe94a1bb3c5edd28" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-488bfcdd8d624e4b8a74bf7a4666ad68" style="text-align:center"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">2014年9月21日</span></span></p>
+</td>
+<td id="b-597cb1863f724e8484b48c718ced152f" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-41761a7fb53d4a8eb1532cf1f10db64c" style="text-align:start"><span style="font-size:15px">轮台县</span></p>
+</td>
+<td id="b-05150b63184c4ae18173ae12edaf558d" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-bb65634572af4a86a124206656268cf5" style="text-align:start"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">2014年9月21日发生在</span></span><span style="font-size:15px">中国新疆维吾尔自治区轮台县</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">的系列爆炸案，中国官方将此事件定性为“</span></span><span style="font-size:15px">恐怖袭击</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">”</span></span><sup><a href="https://zh.wikipedia.org/wiki/2014%E5%B9%B4%E8%BD%AE%E5%8F%B0%E5%8E%BF%E7%88%86%E7%82%B8%E6%A1%88#cite_note-:2-3" id="b-3fcc1eb845924b62adbe04d7f51ee47f"></a></sup><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">。该事件造成6名平民、2名公安民警和2名协警死亡，另有54名平民受伤，40名袭击者被击毙或自爆身亡、另有2人被捕</span></span><sup><a href="https://zh.wikipedia.org/wiki/2014%E5%B9%B4%E8%BD%AE%E5%8F%B0%E5%8E%BF%E7%88%86%E7%82%B8%E6%A1%88#cite_note-:0-1" title="[" id="b-794873b61cb14f2fac682e96998ca870"><span style="font-size:15px">[</span></a></sup></p>
+</td>
+<td id="b-5af8e1cc35e74786a35e2dcf812cc068" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-1002eb5d902640929113d74c92c6b127" style="text-align:start"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">50人死亡（包括40名犯罪分子）、54人受伤</span></span></p>
+</td>
+<td id="b-581b1c58b2d34a6cbce3c0be529555a1" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-b8b3d993f57c4f1e991ffd003ebaa6e3" style="text-align:start"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">买买提·吐尔逊</span></span></p>
+</td>
+<td id="b-7d98a98b879144ada3b70363270e6e56" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<details id="b-5a650cfc5b7b47259857276b5ba147c9">
+<summary><span style="color:rgb(77, 77, 77)"><span style="font-size:15px">点击展开内容</span></span></summary>
+<div>
+<p id="b-dcd337064fb044aeb9a55c71739f2d9d" style="text-align:start"><span style="font-size:15px">中国官方称，该袭击事件的组织者为买买提·吐尔逊（已被击毙），称其2003年从中专学校毕业后，逐渐产生极端思想，并称他自2008年以来，受宗教激进思想影响，在承包工程中聚集发展成员、形成组织</span><sup><a href="https://zh.wikipedia.org/wiki/2014%E5%B9%B4%E8%BD%AE%E5%8F%B0%E5%8E%BF%E7%88%86%E7%82%B8%E6%A1%88#cite_note-4" id="b-4df041dc298b447083504066ef5a5b0f"></a></sup><span style="font-size:15px">。</span></p>
+<p id="b-c5ca23c95f684781a6c33f1e6088b072" style="text-align:start"><span style="font-size:15px">2014年9月21日17时许，该组织先后在轮台县阳霞镇一少数民族人士居多的农贸市场、阳霞镇派出所、铁热克巴扎乡派出所、轮台县城一商铺门口等处制造爆炸，造成2名警察、2名协警、6名平民死亡，54名平民受伤（维吾尔族32名、汉族22名，其中3名重伤）。有40名袭击者自爆身亡或被警察击毙（买买提·吐尔逊被击毙），另有2名袭击者被抓获。</span></p>
+</div>
+</details>
+<p id="b-bae287655ddc446db33d1127504e0257" style="text-align:start"></p>
+</td>
+<td id="b-40a733bcaee147d8b0883d7a5c8eed6c" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-f6c13538d7044aff9f1707dd678d857e" style="text-align:start"></p>
+</td>
+</tr>
+<tr id="b-fc0c1a5f57774b338339de158a7ddba6">
+<td id="b-92e2d0e064194ef3824539aa37100eae" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-1dd62ba60c0140848bd4432a2baa28bc" style="text-align:center"><span style="font-size:15px">莎车县“11·28”暴恐袭击案</span></p>
+</td>
+<td id="b-577f006e88f647269a56b8bec9d3bec4" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-95fbdcf5e55a462798570116600e68b0" style="text-align:center"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">2014年11月28日</span></span></p>
+</td>
+<td id="b-6ec96bbb3b8f48a387c52b66bf3f6407" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-939064e0328947f39615b80dc522254b" style="text-align:start"><span style="font-size:15px">莎车县</span></p>
+</td>
+<td id="b-c10a80c3030744878a0659c1abb3d7f7" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-a7dcfc5206624001870d3f0c93a49651" style="text-align:start"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">于2014年11月28日发生在</span></span><span style="font-size:15px">中华人民共和国新疆维吾尔自治区莎车县</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">的一起袭击事件，中国官方将此事件定性为“</span></span><span style="font-size:15px">恐怖袭击</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">”。此案造成4个平民死亡，11名袭击者被当场击毙，14人受伤</span></span></p>
+</td>
+<td id="b-efabcc29766244c29ee845f05f82a10d" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-a2c0e82b62764f0a86a31c642e198d40" style="text-align:start"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">15人死亡（包括11名犯罪分子）、14人受伤</span></span></p>
+</td>
+<td id="b-30b2ee9404824156b1a62b95f5e97a46" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-5a524515d39b42dfb39e8def16e66f23" style="text-align:start"><span style="font-size:15px">/</span></p>
+</td>
+<td id="b-6c4fb82b81ce462aabb7c092049a6590" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<details id="b-1f518f6540aa4116865902dc245b4f9f">
+<summary><span style="color:rgb(77, 77, 77)"><span style="font-size:15px">点击展开内容</span></span></summary>
+<div>
+<p id="b-b28fb73dd69244a8bcf914e88ab79fc9" style="text-align:start"><span style="font-size:15px">014年11月28日下午一点半左右，一伙犯罪分子乘车抵达莎车县美食街后，向美食街投掷易燃易爆物品并砍杀周围群众，致使4个市民死亡、14个市民受伤。</span></p>
+<p id="b-b42b1269ece64971bb26e0b11f48a44d" style="text-align:start"><span style="font-size:15px">据中国政府官方报道，正在美食街周围巡逻的当地公安民警发现情况后，立即划分成两组包围事发地，将袭击者困在莎车县美食街中部，同时疏散周围无关群众。在此过程中，当地民警击毙暴徒11人。现场查获一批易燃易爆装置、砍刀、斧头等行凶器具</span><span style="font-size:15px"><sup>。</sup></span></p>
+<p id="b-357343270c2e420c8174e8acefe6d5d3" style="text-align:start"><span style="font-size:15px">袭击案发生后，新疆自治区派出医疗专家抵达救治伤员，伤者已得到有效救治</span></p>
+</div>
+</details>
+<p id="b-f45bdb418d5440a29f6a55c8a05eba6b" style="text-align:start"></p>
+</td>
+<td id="b-927c20adb4384377b9c84494250751eb" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-a8a71c02398c44c0bb519c6f85f3a341" style="text-align:start"></p>
+</td>
+</tr>
+<tr id="b-ea3adfeb76124ad9963a96311b4be07a">
+<td id="b-cda02222f2e0498295ab2f27b85bdaf1" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-230938da51fc4644ac9aeb25e8c4dda5" style="text-align:center"><span style="font-size:15px">墨玉县县委袭击</span></p>
+</td>
+<td id="b-5580ad9f726147db80ea7f04d2c3f8ba" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-c4d6495290104400a23b3d16f981b0ce" style="text-align:center"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">2016年12月28日</span></span></p>
+</td>
+<td id="b-928c82db4d75473abcd3e603ec5f8bb8" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-6a1807ec7d544699846c351e618ccb60" style="text-align:start"><span style="font-size:15px">墨玉县</span></p>
+</td>
+<td id="b-750a84c69971401aba5fb1d8f375bdc4" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-e28be743596c4cdcb4a7e3a188d2881a" style="text-align:start"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">是指于2016年12月28日发生在</span></span><span style="font-size:15px">中华人民共和国新疆墨玉县</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">县委的一场袭击事件，中国官方将此事件定性为“</span></span><span style="font-size:15px">恐怖袭击</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">”</span></span></p>
+</td>
+<td id="b-2478b555b3d24da8adc6298cbd1e097f" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-cdf26931671f4091bebf5986010be635" style="text-align:start"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">5人死亡（包括4名犯罪分子）、3人受伤</span></span></p>
+</td>
+<td id="b-9f8a29b879284a5499fad1f97f89890d" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-c834ad27c79b40d081fb0603dca4f034" style="text-align:start"><span style="font-size:15px">/</span></p>
+</td>
+<td id="b-956eb63d08be4baa92734e8e986580b3" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<details id="b-e41932daa7db4f1cbb4bcd2de049d50b">
+<summary><span style="color:rgb(77, 77, 77)"><span style="font-size:15px">点击展开内容</span></span></summary>
+<div>
+<p id="b-d59aeb6c7aaf49c98b5077a1ebada995" style="text-align:start"><span style="font-size:15px">016年12月28日16时50分许，3名袭击者驾车冲入墨玉县县委大院，持砍刀袭击工作人员，随后引爆炸弹。事件造成一名官员和一位保安死亡，另外有三人受轻伤，袭击者随后被当场击毙。</span></p>
+<p id="b-9b2e67bb2f49491c8ceeba41e324b5e8" style="text-align:start"><span style="font-size:15px">2017年1月5日，中国共产党新疆和田地区地委书记张金标、和田地委委员墨玉县委书记何军涉嫌严重违纪、失职失察，接受组织调查。2月22日，县委办公室副主任艾力·霍加阿卜杜拉、加罕巴格村党支部书记麦麦提尼亚孜·玉苏普、居玛巴扎村党支部书记阿卜杜麦麦提·萨迪尔三人因“失职渎职”，被和田地区检察分院依法逮捕</span><sup><a href="https://zh.wikipedia.org/wiki/12%C2%B728%E5%A2%A8%E7%8E%89%E5%8E%BF%E5%8E%BF%E5%A7%94%E8%A2%AD%E5%87%BB#cite_note-4" title="[" id="b-a24d217b88134898ac162f247c8e56f3"><span style="font-size:15px">[</span></a></sup></p>
+</div>
+</details>
+<p id="b-115e15989e7140dc919ef6c2c361641d" style="text-align:start"></p>
+</td>
+<td id="b-5e64cae1d1d349daa76783450798c259" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-599bc709e0f04d359f031f301a794f21" style="text-align:start"></p>
+</td>
+</tr>
+<tr id="b-735c3d7cb8ec4a0aa82c341cdb3036b8">
+<td id="b-408778ab66a849afa861feda7359b47d" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-5e2f0de1841e4640b36d778b70edc16b" style="text-align:center"><span style="font-size:15px">天安门撞桥事件</span></p>
+</td>
+<td id="b-9cdcc29f07bd4a51a85159653aa52c60" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-02b03a78792d4da28cd990de14503305" style="text-align:center"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">2013年10月28日</span></span></p>
+</td>
+<td id="b-73b4517269fd41ec8ae718fd69b3b5fc" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-c7cef4e6809f4a9881b8f01b67cfd92a" style="text-align:start"><span style="font-size:15px">北京</span></p>
+</td>
+<td id="b-916dcb286b504b87b23452a069dfea94" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-497b155334914037bef82e262d38cf9b" style="text-align:start"><span style="font-size:15px">2013年10月</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">28日发生在</span></span><span style="font-size:15px">中华人民共和国北京市天安门城楼</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">前的</span></span><span style="font-size:15px">汽车袭击</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">事件。事件中共有5人丧生，其中3人在事发吉普车内随汽车的燃烧当场死亡，其他2人分别是来自</span></span><span style="font-size:15px">菲律宾</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">和</span></span><span style="font-size:15px">广东</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">的游客。恐怖组织“</span></span><span style="font-size:15px">突厥斯坦伊斯兰党</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">”称对吉普车冲撞天安门事件负责</span></span></p>
+</td>
+<td id="b-b1d7dc9d01024c51a8e666f263363c59" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-162f638c7acc4e4a943503fd50f4a833" style="text-align:start"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">3人当场死亡38人在事件中受伤</span></span></p>
+</td>
+<td id="b-1d6e7e6051e74de38d85f8649fd2788f" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-c5fbe9d67d9a4e7d80d344ce5f38d29f" style="text-align:start"><span style="font-size:15px">突厥斯坦伊斯兰党</span></p>
+</td>
+<td id="b-8faaf813267145c0823aa2b33f030d6a" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<details id="b-bbcadbbe7a894aa4b4dee8b84bfd3347">
+<summary><span style="color:rgb(77, 77, 77)"><span style="font-size:15px">点击展开内容</span></span></summary>
+<div>
+<p id="b-9ab4db35a43d497b84349aeac6b6bb72" style="text-align:start"><span style="font-size:15px">2013年10月28日中午12点05分左右（北京时间），一辆吉普车在北京天安门广场前由东闯入长安街便道。路透社援引一名目击者的话说，这辆车拖着一个写着黑字的白色标语。在撞倒多名行人之后，又撞上了天安门城楼前金水桥的护栏，随即起火。事发后，警方迅速封锁了天安门广场，并对周边地区进行交通管制。中国官方也立即删除了互联网上有关这件事的非官方信息</span><sup><a href="https://zh.wikipedia.org/wiki/%E5%A4%A9%E5%AE%89%E9%97%A8%E9%87%91%E6%B0%B4%E6%A1%A5%E6%81%90%E6%80%96%E8%A2%AD%E5%87%BB%E6%A1%88#cite_note-BBC_Panic-6" title="[" id="b-692bc8d7f3de4c57b5c12aa4eee14e43"><span style="font-size:15px">[</span></a></sup><span style="font-size:15px">。外流照片上可见在天安门前毛泽东画像的下方，一台吉普车正起火燃烧，同时冒出大量浓烟。</span></p>
+<p id="b-bef744d54e854e64bec8605c00ece8b6" style="text-align:start"><span style="font-size:15px">最初的报道指车内3人当场死亡</span><sup><a href="https://zh.wikipedia.org/wiki/%E5%A4%A9%E5%AE%89%E9%97%A8%E9%87%91%E6%B0%B4%E6%A1%A5%E6%81%90%E6%80%96%E8%A2%AD%E5%87%BB%E6%A1%88#cite_note-BBCOct29-3" title="[" id="b-2cba4bc7c709447d8330f50b6ab1f42a"><span style="font-size:15px">[</span></a></sup><span style="font-size:15px">。另有38人在事件中受伤，其中有11人被送往医院救治，其中两名当时在广场上的游客伤重死亡</span><sup><a href="https://zh.wikipedia.org/wiki/%E5%A4%A9%E5%AE%89%E9%97%A8%E9%87%91%E6%B0%B4%E6%A1%A5%E6%81%90%E6%80%96%E8%A2%AD%E5%87%BB%E6%A1%88#cite_note-xinhua-11" title="[" id="b-16306ee64479454b945500d2d52f1a51"><span style="font-size:15px">[</span></a></sup><span style="font-size:15px">。受伤的38人中包括3名菲律宾游客（2女1男）和1名日本男游客。至当地时间10月30日下午，伤者中有5人已进行了手术，12人在ICU病房治疗，其余21人则转为一般住院或留院观察。至31日14时，送医的42名伤患中（包括已经重伤死亡的两名）累计3人出院，8人在ICU病房，10人已达出院标准。</span></p>
+<p id="b-5e872bce2b9c4949b2fbbec1e7b3e191" style="text-align:start"><span style="font-size:15px">中国大陆警方随后发出通知，要求北京各大酒店搜寻两名来自中国新疆的可疑人物。通知中同时提到了一辆汽车和新疆的车牌</span><sup><a href="https://zh.wikipedia.org/wiki/%E5%A4%A9%E5%AE%89%E9%97%A8%E9%87%91%E6%B0%B4%E6%A1%A5%E6%81%90%E6%80%96%E8%A2%AD%E5%87%BB%E6%A1%88#cite_note-BBCOct29-3" title="[" id="b-f93e92637e554ad1a473d2cf7ce8e45f"><span style="font-size:15px">[</span></a></sup><span style="font-size:15px">。警方还指示酒店要注意可疑的客人。警方还要求酒店报告所有自10月1日登记入住的客人，以及他们所驾驶的车辆。并表示此指示“为了防止犯罪嫌疑人及车辆犯下更多的罪行</span><sup><a href="https://zh.wikipedia.org/wiki/%E5%A4%A9%E5%AE%89%E9%97%A8%E9%87%91%E6%B0%B4%E6%A1%A5%E6%81%90%E6%80%96%E8%A2%AD%E5%87%BB%E6%A1%88#cite_note-TIMEOct-17" id="b-b55e2adf3f664199a1b05beb8588f275"></a></sup><span style="font-size:15px">。犯罪嫌疑人被指有维吾尔族姓名，来自常有暴力事件发生的新疆地区</span><sup><a href="https://zh.wikipedia.org/wiki/%E5%A4%A9%E5%AE%89%E9%97%A8%E9%87%91%E6%B0%B4%E6%A1%A5%E6%81%90%E6%80%96%E8%A2%AD%E5%87%BB%E6%A1%88#cite_note-18" id="b-8d6d3e18264642d18de2ebd9a2795a7e"></a></sup><span style="font-size:15px">。其中一名嫌犯疑来自鄯善县。</span></p>
+<p id="b-12b04dc721f1441597c690c86fea56ef" style="text-align:start"><span style="font-size:15px">11月24日，路透社消息指一个自称是“突厥斯坦伊斯兰党”的恐怖组织团体承认发动了10月28日天安门袭击事件，他们在网络上发表了一份录音：“60年来，你们(中华人民共和国政府)欺骗了东突厥，如今，我们觉醒了。人民明白了谁才是他们真正的敌人，他们接受了教训，回到自己的宗教中。” 并表示这是他们针对北京当局发起的第一波攻击行动，他们会陆续发起针对中国政权的行动，包括袭击人民大会堂。</span></p>
+<p id="b-ccd1e57721844e5d9458714d81ecd451" style="text-align:start"><span style="font-size:15px">金水桥事件发生后，中共新疆维吾尔自治区党委常委，新疆军区司令员、党委副书记彭勇中将被免职，继任者为新疆军区政治委员刘雷</span></p>
+</div>
+</details>
+<p id="b-08f60b99f4394419b841361f8fba2b13" style="text-align:start"></p>
+</td>
+<td id="b-18ddc4b4dd994f8db4099e808ddde754" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-684f194b452d4d3595ff55915ae7851f" style="text-align:start"><img src="https://km.sankuai.com/api/file/cdn/1625309615/234768836152?&amp;isNewContent=false&amp;contentType=1" width="253" height="146" id="b-a3e04e9089604147a5c88e16eb3fb4e0" alt="原文图片（需学城权限）"></p>
+</td>
+</tr>
+<tr id="b-92964433d5b44dc0865a6842b4761d89">
+<td id="b-07538e8b93d94fdaacce720c4a2b59d8" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-5b3d678555e04691828f8ba44159d352" style="text-align:center"><span style="font-size:15px">昆明火车站暴恐袭击案</span></p>
+</td>
+<td id="b-5cced458f6d641fb82eb91b00078c81d" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-af32236a99974b258536c90b2e2cd415" style="text-align:center"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">2014年3月1日</span></span></p>
+</td>
+<td id="b-c34637ec01a84bfd9041da7d0dc1893d" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-f03e3572cd1c4bb6b382c0b0db56bb22" style="text-align:start"><span style="font-size:15px">昆明</span></p>
+</td>
+<td id="b-3003b3c5c05944edbe7300b385043807" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-adb2f1fdc3654b51a762216d7913855e" style="text-align:start"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">2014年3月1日21时许在</span></span><span style="font-size:15px">中华人民共和国云南省昆明市昆明火车站</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">发生的一起由</span></span><span style="font-size:15px">新疆恐怖分子</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">组织策划的砍杀无辜平民的</span></span><span style="font-size:15px">恐怖袭击</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">事件。此案共造成平民31人死亡、141人受伤。3月3日下午，官方宣布破案，作案团伙共8人，5名直接参与袭击者中4人被当场击毙，1人被当场击伤抓获，其余3名策划者早于2月27日在云南省</span></span><span style="font-size:15px">红河州个旧市沙甸镇</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">被拘捕。同年9月12日，此案由云南省昆明市中级人民法院审理完毕并宣判</span></span></p>
+</td>
+<td id="b-c1e1f7d191a94fd5b11dcfd5346ed744" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-d963b85903134b03ae5b03157dff68c6" style="text-align:start"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">31人死亡、141人受伤</span></span></p>
+</td>
+<td id="b-0eecdf65b37c4133982a50461179c946" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-11854a9f66e447a1a0f7c487a1f0985e" style="text-align:start"><span style="font-size:15px">东突势力</span></p>
+</td>
+<td id="b-f4d555c037bc4243a44995b736cbce18" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<details id="b-3a8ea70d2a9c4efcab4b7dc8db9ee8d6">
+<summary></summary>
+<div>
+<p id="b-cd14fb5d98ae403ea8c1986342a3d6ce" style="text-align:start"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">2014年3月1日晚21时20分，5名（事件发生后不久曾被误作十余名、八名统一着黑色服装的</span></span><span style="font-size:15px">东突分裂新疆势力</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">男女持械冲入昆明火车站广场、售票厅，见人就砍，造成多人伤亡。警方赶到现场后，对火车站实施封锁</span></span><sup><a href="https://zh.wikipedia.org/wiki/2014%E5%B9%B4%E6%98%86%E6%98%8E%E7%81%AB%E8%BD%A6%E7%AB%99%E6%9A%B4%E5%8A%9B%E6%81%90%E6%80%96%E8%A2%AD%E5%87%BB%E4%BA%8B%E4%BB%B6#cite_note-7" title="[" id="b-b247809f06da4accaf4e4fc870fdd726"><span style="font-size:15px">[</span></a></sup><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">。在</span></span><span style="font-size:15px">警察</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">使用三次</span></span><span style="font-size:15px">催泪弹</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">无效后，在</span></span><span style="font-size:15px">北京路</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">永平路交叉口当场击毙4名恐怖分子（3男1女）、击伤抓获1人（女）。 被当场抓获的女性凶徒肩部中弹，送往医院救治。现场留下约300米长的血迹，伤者多集中在售票厅，大多为购票乘车的乘客</span></span></p>
+</div>
+</details>
+<p id="b-8e63ea1ef871408eae1fd1de2d8da8a8" style="text-align:start"></p>
+</td>
+<td id="b-b1481da5b6eb47db83f083e948115f7f" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-4ec52e1e301844cbba36fc7e26cb9045"></p>
+</td>
+</tr>
+<tr id="b-7ab3ea8f9151488491b4cd4d4cab4bd9">
+<td id="b-1c3072d2373845218e8956d57c9259bb">
+<p id="b-b65af44bafc8453197370b63ebe6e015">涉拉萨“3.14”事件搜索环节负面生态聚集，刻意关联该事件（不泛化）</p>
+<p id="b-e6e3858c8f084f43a5e0c34f3b0589fd">310事件、瑜洲310定情日、拉萨314打砸抢烧事件、314打砸抢烧事件、去拉萨的主义事项、2008拉萨<img src="https://km.sankuai.com/api/file/cdn/1625309615/234769208722?&amp;isNewContent=false&amp;contentType=1" width="669" height="200" id="b-d565e0ea4780429ca55042b538b1812c" alt="原文图片（需学城权限）"></p>
+</td>
+<td id="b-5cf43bca9b714c12904807a8be29675c">
+<p id="b-17666d942844405f928eb15298dad503"></p>
+</td>
+<td id="b-a85fe857ffd7472ca32ef8b2eabf01fc">
+<p id="b-b61daeace6014cb8924d94c13157da6c"></p>
+</td>
+<td id="b-657148efd8904a6f8bcfb7ce0bad2ca3">
+<p id="b-5c9cad0729c042e581a8d08d753936a1"></p>
+</td>
+<td id="b-9366820cc23a47a4b5363f6219223daf">
+<p id="b-f00c33bba8fb49c19452b95d5ff6eb57"></p>
+</td>
+<td id="b-1baaacb593994e5bab927d3c8519418b">
+<p id="b-ead8c33514cd4da7b8e66b6dda37f563"></p>
+</td>
+<td id="b-497268f2549c4a15b5430450c1966aaf">
+<p id="b-7177569cd4a949d192357fa2779d28b5"></p>
+</td>
+<td id="b-949d68dac1ee4f41bebbde74d077ca93">
+<p id="b-de785366c6e642039a6c7118c1ffd2a8"></p>
+</td>
+</tr>
+<tr id="b-513695a1daff4e4d97adfbaf64204a98">
+<td id="b-b8650678a35e40658b58fbd3323941d5">
+<p id="b-1a32ecaaa30c45f68866cd79e6509fb0"><span style="color: "><span style="font-size:15px">恶意炒作宁夏“西吉”事件</span></span>（不泛化）</p>
+<p id="b-53f075e396a942339be30699c0c3c4ae"><img src="https://km.sankuai.com/api/file/cdn/1625309615/234768479272?&amp;isNewContent=false&amp;contentType=1" width="246" height="216" id="b-e245294354494566bafc24f19993daa0" alt="原文图片（需学城权限）"></p>
+</td>
+<td id="b-e303421b587144bb9a526eb15947e1de">
+<p id="b-9df636fe67dd4816ae2e5eaa7609bbf2"></p>
+</td>
+<td id="b-59acdf4885ae46e3a60a1abdb0424ef2">
+<p id="b-a95115453b614b0d9b21840b2c1f2f3f"></p>
+</td>
+<td id="b-67a3f80b73b14a7ca76ae715edc5af41">
+<p id="b-d42f3be082b440f5a368356aab0724af"></p>
+</td>
+<td id="b-27a7c921365e4756a1d2e76b4f38e128">
+<p id="b-5d202543e8c14bd3bda76b16841960c4"></p>
+</td>
+<td id="b-2a3a9ca57f144ce1abad03c3951d8db2">
+<p id="b-0b0e557836e94068882babd0172a1862"></p>
+</td>
+<td id="b-7347148b930342a1a691b13467a5a52e">
+<p id="b-075a1977498446c8a3725b6a067410fa"></p>
+</td>
+<td id="b-e82ae784f73a45219906768bcbe3e4f2">
+<p id="b-085514077d8742c4b0c6528ecde842e6"></p>
+</td>
+</tr>
+<tr id="b-1309af4ff67d49d29f729ccd48ababfb">
+<td id="b-165c931719af4c58a23870fe9d624b6b">
+<p id="b-128bd2aa388d4042a54a27e59975fb37"><span style="color: "><span style="font-size:15px">恶意炒作河南“中牟”事件</span></span>（不泛化）</p>
+<p id="b-33fed1209a504a95a32dd6303f8c33f5"><img src="https://km.sankuai.com/api/file/cdn/1625309615/234765869613?&amp;isNewContent=false&amp;contentType=1" width="143" height="120" id="b-533dd2d3af754e65b86bb7ed8f585c52" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1625309615/234767144890?&amp;isNewContent=false&amp;contentType=1" width="280" height="119" id="b-988edccacbce48bcad6a1ec46f93869b" alt="原文图片（需学城权限）"></p>
+</td>
+<td id="b-7c2f96aa7c254a91945444ba6f51e22c">
+<p id="b-5567b0e3ef0a48fe965a50b2baa92c2b"></p>
+</td>
+<td id="b-262df2afa3de4c96919e4e9f3a8dcb52">
+<p id="b-2b5661ef54e4446db7d09d96103f1f34"></p>
+</td>
+<td id="b-e23c0fe3fd6c420ebb721dfb65694c84">
+<p id="b-f798aa0014654b8b85e2638a4e5de764"></p>
+</td>
+<td id="b-468d2b90441a4c26aa763a9b661d2566">
+<p id="b-a8de7cd58fc647aaa1b019ad697d236c"></p>
+</td>
+<td id="b-0127549805854fa5a578183d8b31c70e">
+<p id="b-30d3393b5a4a416fb3796bd42dcb2dd9"></p>
+</td>
+<td id="b-20a9fc1b8a0640f7849c04a07a779d2a">
+<p id="b-f3eb48d959664ef6b8f0c8a5e40ad10e"></p>
+</td>
+<td id="b-39c3ed59bbb445e7953ce86dc3186d5b">
+<p id="b-ca7c148b0bdb4c1cb3140dc8a511daf6"></p>
+</td>
+</tr>
+<tr id="b-ee45661f3c154415a973352acfdc78fd">
+<td id="b-d37f66c517d441d1b38a23fdd69180d7">
+<p id="b-7c17823669534a86a995c7e3024e82fa"><span style="color: "><span style="font-size:15px">恶意炒作河北唐山打砸收费站案件</span></span></p>
+</td>
+<td id="b-08af340627054c2ba3a99249457ce524">
+<p id="b-87fc885619f244a2b25ccfc73b0aa958"><span style="color:#FF4A47">2017年9月2日</span></p>
+</td>
+<td id="b-e617f0f664534bd6953d6fd3fc459e41">
+<p id="b-c201ea339b7844669c15a140361f39f5"><span style="color:#FF4A47">河北唐山205国道东出口收费站</span></p>
+</td>
+<td id="b-d7880dc802bb4fcdaf3ebb54e19f1b94">
+<p id="b-ac63568db1884448921405728ee03e03"><span style="color:#FF4A47">起因是河北唐山205国道东出口收费站工作人员与路过的宗教人士（回族阿訇杨振峰）发生言语和肢体冲突。此事随后引发当地部分穆斯林群众的不满，当晚百余名群众前往该收费站围堵“讨说法”。由于收费站负责人未及时出面妥善处理，现场群众情绪激化，演变为打砸破坏收费站设施的骚乱事件</span></p>
+</td>
+<td id="b-a610997219b34b1e87a2c1e34720f3ed">
+<p id="b-678795c2d9194f2c868167d6fa501bcf">仅有数人受轻伤，无人员死亡</p>
+</td>
+<td id="b-defe9aaafd6f48aaa7940dd04eb4b2ad">
+<p id="b-91f54d078b6441dd9fa9466fd3f1ba2d">/</p>
+</td>
+<td id="b-e860993198044d7ca0c3dd50addac31a">
+<p id="b-96e9ab970b904cd09418ce78292b3a38">/</p>
+</td>
+<td id="b-a11c59fe14534b65b93f8eae15d08341">
+<p id="b-01822112549b4a74b5e5088fdadda7d1"><img src="https://km.sankuai.com/api/file/cdn/1625309615/260364788214?contentType=1&amp;isNewContent=false" width="87" height="139" id="b-3ba2624388794c81afe6cb70d0482c7a" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1625309615/260359482660?contentType=1&amp;isNewContent=false" width="72" height="148" id="b-6c9ac92b0723427dbb251634a076f7cb" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1625309615/260365184777?contentType=1&amp;isNewContent=false" width="73" height="159" id="b-cd7fa60f50584de29cb9f060af47e69d" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1625309615/260362317541?contentType=1&amp;isNewContent=false" width="92" height="152" id="b-d173d4919fe344b6a4a194e2dd49eb07" alt="原文图片（需学城权限）"></p>
+</td>
+</tr>
+</table>
+</div>
+</details>
+<details id="b-9e5875ec363248339e22bf9b5081f2d3">
+<summary><span style="font-size:15px">国外</span><span style="font-size:15px"><strong>暴恐事件</strong></span>（不泛化）</summary>
+<div>
+<table id="b-fbc9727703e241e8a152106091fbdab0">
+<tr id="b-75d6664de5724f2aa33a7bbddc162c1d">
+<th id="b-78164443f8bc4681bf2798b4a42f50b8">
+<p id="b-285fb0b6e7bb404ca7ad1848c0dc27a5"><span style="font-size:15px">时间</span></p>
+</th>
+<th id="b-0f537c9d835040778772520a9f2cd9b1">
+<p id="b-099c6e02d92c4fa69a311527d8987ce9"><span style="font-size:15px">地点</span></p>
+</th>
+<th id="b-9bb8b9c7358f40c4be54b17195c0dd74">
+<p id="b-71e21ef71a384498bf9c9a5e9cf20b27"><span style="font-size:15px">简介</span></p>
+</th>
+<th id="b-941d67ae83d24190b71838ba59249e74">
+<p id="b-881816a50fbf4787bb88ca668da92e26"><span style="font-size:15px">伤亡</span></p>
+</th>
+<th id="b-f7ac439feb234f47815ea40787a6c6f9">
+<p id="b-34b4008a17c6486591a4c2d1857b352a"><span style="font-size:15px">涉及中国人伤亡</span></p>
+</th>
+<th id="b-8c59ef003d764fbfbca0f6be2ed6e748">
+<p id="b-2142eb38a3024e3696903bbb922ad2ca"><span style="font-size:15px">恐怖组织及主谋</span></p>
+</th>
+<th id="b-f6108026499b4585877ff08cafa909bf">
+<p id="b-c605d1ad41b044408a30f73d29acfc34"><span style="font-size:15px">恐怖行径(文）</span></p>
+</th>
+<th id="b-a6ab7332c64d479db8e91208aef7dbd0">
+<p id="b-39c55503f8204f54996a7d334a56f6ff"><span style="font-size:15px">恐怖行径（图)</span></p>
+</th>
+</tr>
+<tr id="b-659f7db3bb39468c8e7a26d872f47ebd">
+<td id="b-902277dd48974b3b8ce33ab74a01465b" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-780d8efed0eb4812964d6c2711ce39f6" style="text-align:start"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">2014年4月14日</span></span></p>
+</td>
+<td id="b-5b17a4751d4a4637bf6c1d6db5aef234" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-2d8feec0714845d59ae20a1e94172b63" style="text-align:start"><span style="font-size:15px">尼日利亚</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">首都</span></span><span style="font-size:15px">阿布贾</span></p>
+</td>
+<td id="b-481a9f7c81494516a63a5335b0ea5a90" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-e8537e3161aa49bd9a42b1eaa3180fc3" style="text-align:start"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">2014年4月14日早上发生在</span></span><span style="font-size:15px">尼日利亚</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">首都</span></span><span style="font-size:15px">阿布贾</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">的</span></span><span style="font-size:15px">恐怖攻击</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">事件。当日早上6:45，两枚炸弹在阿布贾市中心西南8千米（5.0英里）拥挤的公交车站爆炸，造成至少75人罹难，124人受伤</span></span></p>
+</td>
+<td id="b-3e892f7db8c846579fc1d45b1ae8c431" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-a48c214227194a34b9400ca96e37ea40" style="text-align:start"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">造成至少75人罹难，124人受伤</span></span></p>
+</td>
+<td id="b-4f103cdff14a48cc995e35926cebb21f" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-40161a6c2d6b43fa81e3b3f7fc7c6e7b" style="text-align:start"><span style="font-size:15px">无</span></p>
+</td>
+<td id="b-7509345391b549d1a365bc6d4d1cf5e5" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-d2033eb29edd4648974b47bbe5664522" style="text-align:start"><span style="font-size:15px">伊斯兰</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">教派极端组织</span></span><span style="font-size:15px">博科圣地</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">该为这次爆炸案负责</span></span></p>
+</td>
+<td id="b-2bae554763864892846d32134297ab7a" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-8ec21bdef7c84ea8b5f8b8f89c2c4cc5" style="text-align:start"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">炸弹</span></span></p>
+</td>
+<td id="b-b95a5aedee04407a8858128579f8c88e" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-2a697d7aca184767a969d8c0254f0f4b" style="text-align:start"><img src="https://km.sankuai.com/api/file/cdn/1625309615/234768401932?&amp;isNewContent=false&amp;contentType=1" width="176" height="146" id="b-0cd54badd0bc4e6a9b530f473f2e4ff8" alt="原文图片（需学城权限）"></p>
+</td>
+</tr>
+<tr id="b-53953bba8b6549eb951a37733dc2d92d">
+<td id="b-f0a8a6d239284a4fb78b7cd03a7070e3" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-8fd98ff11a084587b8be15d9a67c8eb1" style="text-align:start"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">2014年6月10日</span></span></p>
+</td>
+<td id="b-3acc368bbd404198a63e8d8e8a6820c6" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-bc25d01653034702849babd47797d9e0" style="text-align:start"><span style="font-size:15px">伊拉克巴杜什监狱</span></p>
+</td>
+<td id="b-6715820bd3d64bdfa5efdbb20c4774e3" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-dcde76f2bed64d3ab0ce89ad8660e955" style="text-align:start"><span style="font-size:15px">2014年6月10日， 伊拉克和黎凡特伊斯兰国 （ISIS）杀死至少670人 什叶派 囚犯袭击 巴杜什 监狱。伊黎伊斯兰国首先将 逊尼派 囚犯在处决其余囚犯之前。 2017年3月11日， 人民动员力量 宣布他们发现了一个集体坟墓，其中装有ISIS在监狱中处决的500名囚犯的遗骸。</span></p>
+<p id="b-60be5be825f34e7caa51415945e325bb"><span style="font-size:15px">此外，该地区有39名印度建筑工人被处决</span></p>
+</td>
+<td id="b-84f28fef46774783b4a58750a4632bd0" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-c38c6c5bfb014ffc9bfee71dd0456b87" style="text-align:start"><span style="font-size:15px">670人</span></p>
+</td>
+<td id="b-71c55bc5687c4214b39d75f596c2b6e6" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-11b2d542e263483a889cc7543b5e2305" style="text-align:start"><span style="font-size:15px">无</span></p>
+</td>
+<td id="b-bceffa0452034f358a3b6cc25e53f40a" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-8c5f8c22f07048bca00268f9c9496f2a" style="text-align:start"><span style="font-size:15px">伊拉克和黎凡特伊斯兰国 </span></p>
+</td>
+<td id="b-0d26b1f4583c47c09f6e381bffe99006" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-e8a2e052183e4dc7a13b59d4c5f011c8" style="text-align:start"><span style="font-size:15px">屠杀</span></p>
+</td>
+<td id="b-59598603b1d140c285d3c65d6352ca8a" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-7ebe194b8dcf4e8c9ef22f931d2e5a2d" style="text-align:start"><img src="https://km.sankuai.com/api/file/cdn/1625309615/234768003151?&amp;isNewContent=false&amp;contentType=1" width="176" height="116" id="b-2dce4bc0994a4004bd0987d9b05b5cbb" alt="原文图片（需学城权限）"></p>
+</td>
+</tr>
+<tr id="b-d4a78cb594a4491b8c8bb2d1787bf957">
+<td id="b-8bd32cd5245640b38b6a8ad3fb87f8e9" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-148f298175d5466da873e627fa452cc9" style="text-align:start"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">2014年12月15日</span></span></p>
+</td>
+<td id="b-92b6308e5c2b4d838db71413f0f74faf" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-c77cfc1b3c0a415d973a2c461088dc6c" style="text-align:start"><span style="font-size:15px">澳大利亚新南威尔士州悉尼市市中心马丁广场的巧克力品牌瑞士莲所属的咖啡馆</span></p>
+</td>
+<td id="b-55d4e62bddf34faca62cc2ba07eb7136" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-29185786bf084fc19aa63336c7ba63bd" style="text-align:start"><span style="font-size:15px">2014年12月15日澳大利亚东部标准时间9时44分在澳大利亚新南威尔士州悉尼市市中心马丁广场的巧克力品牌瑞士莲所属的咖啡馆所发生的一宗劫持人质事件，一名劫持者劫持咖啡馆内18名人质，经过逾16小时至次日2时许，劫持者将咖啡店经理男人质射杀后，新南威尔士警察部队的战术性行动组强攻进入咖啡馆将疑犯击毙，而一名女顾客人质亦于警察行动期间被警察的流弹击毙。2014年悉尼人质事件经历近17小时以流血告终，共造成3人死亡、4人受伤。</span></p>
+</td>
+<td id="b-f9f4822cdde2484dad8332bd06c482a5" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-975c87342a304787934fbdf496639079" style="text-align:start"><span style="font-size:15px">造成3人死亡、4人受伤。</span></p>
+</td>
+<td id="b-1418bf3e28a04a01b7ad34bf058d2482" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-a97f6167c22d49a5b9f0734606d5473f" style="text-align:start"><span style="font-size:15px">无</span></p>
+</td>
+<td id="b-84be3226347b40cdb426edcf0b3b7e39" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-3b8ad7e2a3c8498f975d320cdbc6d52c" style="text-align:start"><span style="font-size:15px">曼·哈龙·莫尼斯</span></p>
+</td>
+<td id="b-6ec58b54328a4754b3b766be1ce0b835" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-2b228772d2a44664bd4fd6841970b6e3" style="text-align:start"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">什叶派转为逊尼派</span></span></p>
+</td>
+<td id="b-3ba2f95fd4c6442187b51137fdebd19f" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-4338e9adbbe44e26a9e6c42be22e764e" style="text-align:start"><img src="https://km.sankuai.com/api/file/cdn/1625309615/234769208720?&amp;isNewContent=false&amp;contentType=1" width="176" height="115" id="b-ed5f54c6d76946b8bf47995ecda8cbf3" alt="原文图片（需学城权限）"></p>
+</td>
+</tr>
+<tr id="b-282ac9715785494cacfdb1db05eb91bc">
+<td id="b-df96e2a6b65b4e2583651b7132271200" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-4e78db7769fa443f908ca542eebdbd15" style="text-align:start"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">2014年12月16日</span></span></p>
+</td>
+<td id="b-f8478d05e0b746ae81e6c4fb5b8f8c3e" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-40d36f839a1b4b849e93af3816e50fde" style="text-align:start"><span style="font-size:15px">巴基斯坦</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">西北部城市</span></span><span style="font-size:15px">白沙瓦</span></p>
+</td>
+<td id="b-167c5fa776ff484da97064fd2c430008" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-bdadb375f3a04bd5aeff2ef16a395cfd" style="text-align:start"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">指2014年12月16日在</span></span><span style="font-size:15px">巴基斯坦</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">西北部城市</span></span><span style="font-size:15px">白沙瓦</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">一间军人子女就读的学校发生的恐怖袭击事件。七名属于</span></span><span style="font-size:15px">巴基斯坦塔利班运动</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">的持枪恐怖份子进入一个由军方开办的公立学校对学生及教职员乱枪扫射。事件总共造成最少141人死亡，包括132名10岁至18岁之间的学生及9名教职员。</span></span><sup><a href="https://zh.wikipedia.org/wiki/2014%E5%B9%B4%E7%99%BD%E6%B2%99%E7%93%A6%E5%AD%B8%E6%A0%A1%E8%A5%B2%E6%93%8A%E4%BA%8B%E4%BB%B6#cite_note-Samaa_News-11" title="]" id="b-6974be0ba6c24b188cd48c02b51f9302"><span style="font-size:15px">]</span></a></sup><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">最少114人据报受伤并被分别送往Combined Military Hospital及Lady Reading Hospital治理。超过950名师生及职员被赶到的巴国军队拯救。行动在同日傍晚结束，全部七名恐怖份子均伏诛</span></span></p>
+</td>
+<td id="b-b2b8fbd9b2b24d269bb7faa6ad5c83db" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-5e2c97ed54db44e6a4efcd8476a7f787" style="text-align:start"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">最少141人死亡，最少114人受伤</span></span></p>
+</td>
+<td id="b-803361a4beeb4a87bbf24defa4187862" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-bde012274a304e9299fa26ee0bbd3172" style="text-align:start"><span style="font-size:15px">无</span></p>
+</td>
+<td id="b-65adcbb8219c4e5a8e2d2e732c4e6acf" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-010c836565cb49c7a8e7b032c51bbdc7" style="text-align:start"><span style="font-size:15px">巴基斯坦塔利班运动</span></p>
+</td>
+<td id="b-3196c05901c94fb884253b8ca9ac9e5d" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-62b287a9e24a463ab4ab5eec65171c90" style="text-align:start"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">持枪恐怖份子进入一个由军方开办的公立学校对学生及教职员乱枪扫射</span></span></p>
+</td>
+<td id="b-06b22492cf994445aec4c93ffe2afd79" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-01128792daa1470d87155141f8396483" style="text-align:start"><img src="https://km.sankuai.com/api/file/cdn/1625309615/234766344721?&amp;isNewContent=false&amp;contentType=1" width="176" height="138" id="b-b6dad49eb86f42bfaf621ae12960ca8c" alt="原文图片（需学城权限）"></p>
+</td>
+</tr>
+<tr id="b-30fbdb7820d84ada820d958a23dc8875">
+<td id="b-ac34c66f9b7b420f9f68e24fce173345" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-a0e5008d12564a5ca5aaa2e2ef90493f" style="text-align:start"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">2015年1月3日</span></span></p>
+</td>
+<td id="b-e94d094edef648e990e636b074012a20" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-0585a68bc40340c7b0e969d98d0ff533" style="text-align:start"><span style="font-size:15px">博科圣地</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">在</span></span><span style="font-size:15px">尼日利亚巴加镇</span></p>
+</td>
+<td id="b-81dba0982c094b8295baecd336c07fcd" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-02666cc76f784fb88f7f64ccdf17a5c7" style="text-align:start"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">2015年1月3日至1月7日的五天时间内，</span></span><span style="font-size:15px">博科圣地</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">在</span></span><span style="font-size:15px">尼日利亚巴加镇</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">（或译巴嘎、巴格等）发生的</span></span><span style="font-size:15px">大屠杀</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">事件。</span></span><span style="font-size:15px">国际特赦组织</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">1月9日称，博科圣地在攻下该镇后，杀了包括老弱妇孺在内的2000名</span></span><span style="font-size:15px">平民</span></p>
+</td>
+<td id="b-c97b3630696c484f9e674eba54667f8b" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-ad185f4ee1614b76aa1f82ce97cbf90a" style="text-align:start"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">2000名</span></span><span style="font-size:15px">平民</span></p>
+</td>
+<td id="b-bafe5d2df397494e87e1b43eff91a963" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-5abb2fc0c5da4fc8b45f3ce14bc1fa14" style="text-align:start"><span style="font-size:15px">无</span></p>
+</td>
+<td id="b-739b98cfff814c229f57f3ad7af9e353" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-542e512c08ce49b38ccd9db3e71064ff" style="text-align:start"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">博科圣地</span></span></p>
+</td>
+<td id="b-2a2844ae6836490baa844ca542d13bf4" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-f320b855299d425dbb6c38978ed1d405"><span style="font-size:15px">​</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">博科圣地击溃了由</span></span><span style="font-size:15px">乍得</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">、</span></span><span style="font-size:15px">尼日尔</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">、</span></span><span style="font-size:15px">尼日利亚</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">组成的</span></span><span style="font-size:15px">多国联合特遣部队</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">，</span></span><span style="font-size:15px">占领</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">位于巴加镇内的</span></span><span style="font-size:15px">尼日利亚陆军</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">基地后，便开始进行了无差别的大屠杀</span></span></p>
+</td>
+<td id="b-3caa1a037482439690aa618e1627d664" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-868374f574c4444086131512604e82a2" style="text-align:start"><span style="font-size:15px">​</span></p>
+</td>
+</tr>
+<tr id="b-976e7052436e4c2da0d8dc3a403cda4b">
+<td id="b-09d03f5e1f4f40119fb22fec76c35384" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-476c93d0e49841398d123fb144358008" style="text-align:start"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">2015年1月5日</span></span></p>
+</td>
+<td id="b-30e6e3e9f34844518e9820bee3a710f0" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-727d270199fe4b229595b728c6b5e833" style="text-align:start"><span style="font-size:15px">伊斯坦布尔</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">市中心</span></span><span style="font-size:15px">苏丹艾哈迈德</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">地区</span></span></p>
+</td>
+<td id="b-790952468e0a4af28c3e6278e4f265b5" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-6a2d53b88d1647f9aeb7558f29548cf1" style="text-align:start"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">2015年1月6日，来自</span></span><span style="font-size:15px">达吉斯坦</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">的戴安娜·拉玛佐诺娃在</span></span><span style="font-size:15px">伊斯坦布尔</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">市中心</span></span><span style="font-size:15px">苏丹艾哈迈德</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">地区，</span></span><span style="font-size:15px">蓝色清真寺</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">和</span></span><span style="font-size:15px">圣索菲亚大教堂</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">附近的一个警察局引爆了身上的炸弹背心。拉玛佐诺娃在袭击中丧生并造成两名警官受伤，其中一人后来经抢救无效死亡。拉玛佐诺娃是一名寡妇并怀有身孕，她的丈夫是挪威-车臣籍的伊斯兰国战士，2014年12月在叙利亚被杀害。</span></span></p>
+</td>
+<td id="b-cd514d8ba7dd4253a7a9563939af3a18" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-4dbee4bd3ff6441589372f331af73032" style="text-align:start"><span style="font-size:15px">死亡2，受伤1</span></p>
+</td>
+<td id="b-1173374dbaa94deb9e8be4d229b5980b" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-1c72bff682b1444b882d65f06b07136e" style="text-align:start"><span style="font-size:15px">无</span></p>
+</td>
+<td id="b-d1aa9282b3a94cacbc7708aa5f8962e4" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-e2ae8a73a56d46fc8923eb46186c0766" style="text-align:start"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">戴安娜·拉玛佐诺</span></span></p>
+</td>
+<td id="b-209306f3f6df4d53af8823de3c144ca6" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-351ccfe0140645cfbf0a89557e157d82" style="text-align:start"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">引爆了身上的炸弹背心</span></span></p>
+</td>
+<td id="b-64a0e92624024f2d9b7405483b08cd8a" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-67ab6c48b93e4660bccf6122cd520d76" style="text-align:start"></p>
+</td>
+</tr>
+<tr id="b-a14f7c512a2149869afe7f0fd806a215">
+<td id="b-873755f2d433474892489ba9332afb85" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-e08a29c34cef4ad488ffda839ce8c051" style="text-align:start"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">2015年1月7日</span></span></p>
+</td>
+<td id="b-5072574a27ea4434afc83544bdc7c72a" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-7d2e0768221b4e63b251c9da11f3319a" style="text-align:start"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">首都萨那</span></span></p>
+</td>
+<td id="b-a6dec3d009de40299fc84d95172e49a4" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-bff3c781777e46b88e1f0e1737a70b76" style="text-align:start"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">2015年1月7日早上7点，首都萨那发生爆炸袭击事件，至少造成37人</span></span><span style="font-size:15px">死亡</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">，另有超过66人受伤，伤亡者中包含多名未成年人。事件发生在</span></span><span style="font-size:15px">也门</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">首都</span></span><span style="font-size:15px">萨那</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">的一间警察学校正门外，爆炸发生时，校外正有数百名</span></span><span style="font-size:15px">学生</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">办理入学手续，一辆停放在学校门外的</span></span><span style="font-size:15px">汽车</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">突然发生</span></span><span style="font-size:15px">爆炸</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">，导致了重大人员伤亡。另有消息证实，伤亡人数已经超过150人</span></span></p>
+</td>
+<td id="b-f822066d66464333a822d55a28ac2eec" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-ac46a6cfc35f44d69475e41c97b44ed0" style="text-align:start"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">伤亡人数已经超过150人</span></span></p>
+</td>
+<td id="b-52c6574ea64247f499e14cc7dd48067b" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-ee70f71e77c14886bef21165303910aa" style="text-align:start"><span style="font-size:15px">无</span></p>
+</td>
+<td id="b-8194ece19df04ea68ba1ef7fc7cea423" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-e826f7e92181423283cf156233104e05" style="text-align:start"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">“</span></span><span style="font-size:15px">基地</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">”组织类似的恐怖组织实施</span></span></p>
+</td>
+<td id="b-e61b146fe0164178b148e2ab7a7ccb3f" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-6871c9209fab4876bab90fb806233f73" style="text-align:start"><span style="font-size:15px">汽车炸弹</span></p>
+</td>
+<td id="b-995bf17122aa4b268f6ce9e03dcf83a6" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-52c9b3cad0c74c11a7e01b00824a0fb0" style="text-align:start"><span style="font-size:15px">​</span></p>
+</td>
+</tr>
+<tr id="b-988aebdaf7db4d5196b748f5f9c80fae">
+<td id="b-2ecd3d30ccad42128fcf5fe844fd8ec9" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-daccb01996f84ad697b70936c7772ae2" style="text-align:start"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">2015年1月7日</span></span></p>
+</td>
+<td id="b-58080a76c07c46c28901a6b4dcae621f" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-bfa2317206a949d6bea18c0a0be76876" style="text-align:start"><span style="font-size:15px">法国巴黎</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">《</span></span><span style="font-size:15px">查理周刊</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">》总部</span></span></p>
+</td>
+<td id="b-d2fc5a35cdd749db93294e8ea40600ba" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-11573757d22b44a6a2330898c84fd534" style="text-align:start"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">为2015年1月7日发生于</span></span><span style="font-size:15px">法国巴黎</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">《</span></span><span style="font-size:15px">查理周刊</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">》（Charlie Hebdo，</span></span><span style="font-size:15px">法语发音：[ʃaʁli ɛbdo]</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">）总部的恐怖袭击案，导致12死11伤。遇难者包括两名警员和多位周刊工作人员，其中一位是周刊</span></span><span style="font-size:15px">主编</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">。由两名身穿“</span></span><span style="font-size:15px">圣战</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">”服装的蒙面男子发动袭击。这两名凶徒还高喊“Allahu Akbar”（</span></span><span style="font-size:15px">真主至大</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">）向平民百姓和警方射击。该杂志因经常讽刺</span></span><span style="font-size:15px">伊斯兰教</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">创始人</span></span><span style="font-size:15px">穆罕默德</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">，而受到世界注目</span></span></p>
+</td>
+<td id="b-7af12b03e50f4d0cb1bcc77b7be2286a" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-14d44158d02b48df95dd3cb4b679c7e2" style="text-align:start"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">12死11伤</span></span></p>
+</td>
+<td id="b-77e7a632b6d94b39955ad9225f79c168" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-1211355445104aa4bded1b225de23f6e" style="text-align:start"><span style="font-size:15px">无</span></p>
+</td>
+<td id="b-9188c640fdb64811960d2155d8a1b70d" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-843cb98a51ec4c97bb500113aa3b5c4d" style="text-align:start"><span style="font-size:15px">激进派穆斯林</span></p>
+</td>
+<td id="b-76a4c91183414ee78791cba026fb3033" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-b6f3ea17e3b24ff7983561a1e3652a2e" style="text-align:start"><span style="font-size:15px">枪击，恐怖袭击</span></p>
+</td>
+<td id="b-bb8dd4e149674bdc8c38891fb384acc4" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-59d4e7e957f044738515233f7d1ee2d1" style="text-align:start"><span style="font-size:15px">​</span></p>
+</td>
+</tr>
+<tr id="b-b77dd2eff52c48bd8551bee0213af413">
+<td id="b-91825cc9d6104cb1a04a4efdf1f353b3" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-0b220498d2a24dcd87e2ed021e82dada" style="text-align:start"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">2015年1月25日</span></span></p>
+</td>
+<td id="b-ef6a16cd3dcf4771acc69ab448355f92" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-c8b9d0c7c4fc435ebd4d100aaae09e31" style="text-align:start"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">在</span></span><span style="font-size:15px">菲律宾棉兰老穆斯林自治区马京达瑙省马马萨帕诺</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">图坎纳利宝村</span></span></p>
+</td>
+<td id="b-837a8392ae1a499883d91ceea755eb0a" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-1f65823617084342947170ec6bb8d9e7" style="text-align:start"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">2015年1月25日在</span></span><span style="font-size:15px">菲律宾棉兰老穆斯林自治区马京达瑙省马马萨帕诺</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">图坎纳利宝村发生，以一次由</span></span><span style="font-size:15px">菲律宾国家警察特别行动部队</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">392名</span></span><span style="font-size:15px">特种警察人员</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">进行名为“Oplan Exodus”的执法行动为开端，其后与逾千名</span></span><span style="font-size:15px">邦萨摩洛伊斯兰自由战士</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">和</span></span><span style="font-size:15px">摩洛伊斯兰解放阵线</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">成员爆发严重流血冲突，造成14名特种警察人员受伤、44名</span></span><span style="font-size:15px">殉职</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">，为</span></span><span style="font-size:15px">菲律宾历史</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">上官方特种人员殉职人数最高的事件。而后两者则分别被确认有5人和声称有18人死亡，另外由邦萨摩洛伊斯兰自由战士保护下匿藏在</span></span><span style="font-size:15px">棉兰老岛</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">、</span></span><span style="font-size:15px">马来西亚圣战组织</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">怀疑领袖、</span></span><span style="font-size:15px">回教祈祷团</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">核心成员及被</span></span><span style="font-size:15px">美国联邦调查局</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">列为</span></span><span style="font-size:15px">最高级别通缉恐怖分子</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">的</span></span><span style="font-size:15px">Zulkifli Abdhir</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">在警察行动中被击毙。此外，</span></span><span style="font-size:15px">莫洛人</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">发言人声称至少3名平民受伤、7名死亡。</span></span></p>
+</td>
+<td id="b-e0173be21d114d769d069e28c3a28a15" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-75906d9155eb4687bdad80756c8b3378" style="text-align:start"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">名平民受伤、7名死亡。</span></span></p>
+<p id="b-aadfc651712e4c709ddbd0bf5d365c50" style="text-align:start"></p>
+<p id="b-4c019e1159784d61998811d7ebd4db4c" style="text-align:start"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">造成14名特种警察人员受伤、44名</span></span><span style="font-size:15px">殉职</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">，</span></span></p>
+</td>
+<td id="b-e6f03999e5b44f078baf5a4e41dc484c" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-dd59759bf284498eb936333937b0ad45" style="text-align:start"><span style="font-size:15px">无</span></p>
+</td>
+<td id="b-fbe8ab99c4614994bf56167682873ae6" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-14e7eda048e94c8b9988171b5260a975" style="text-align:start"><span style="font-size:15px">邦萨摩洛伊斯兰自由战士</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">和</span></span><span style="font-size:15px">摩洛伊斯兰解放阵线</span></p>
+</td>
+<td id="b-76866749f1144af08f016b6e82de6dbd" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-d252caf16ed341889a7fda06338d1e05" style="text-align:start"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">以一次由</span></span><span style="font-size:15px">菲律宾国家警察特别行动部队</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">392名</span></span><span style="font-size:15px">特种警察人员</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">进行名为“Oplan Exodus”的执法行动为开端，其后与逾千名</span></span><span style="font-size:15px">邦萨摩洛伊斯兰自由战士</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">和</span></span><span style="font-size:15px">摩洛伊斯兰解放阵线</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">成员爆发严重流血冲突</span></span></p>
+</td>
+<td id="b-56d408f956114d6fbebe8a377bbc8c42" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-58154020629a4ed48d619712b580ee18" style="text-align:start"><span style="font-size:15px">​</span></p>
+</td>
+</tr>
+<tr id="b-7b57d51d442d48d4baa5e5754dfee297">
+<td id="b-e673c0da362346f3a2c5b4eccb5d5a53" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-f037502da1ca41889ba0c79add249315" style="text-align:start"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">2015年2月22日</span></span></p>
+</td>
+<td id="b-351169db1b9d4e84bf489ee8fed5ed9b" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-87284f50d6d145a79f3c4717d8a27b85" style="text-align:start"><span style="font-size:15px">哈尔科夫举行的乌克兰亲欧盟示威运动周年纪念游行过程中</span></p>
+</td>
+<td id="b-8dcec35394f842ae96b9aecd1b149bb0" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-815b00266a064dde9d9baeec499d5b0c" style="text-align:start"><span style="font-size:15px">2015年2月22日发生在哈尔科夫举行的乌克兰亲欧盟示威运动周年纪念游行过程中发生的恐怖袭击事件。炸弹在哈尔科夫体育馆附近爆炸，造成2人当场死亡，11人受伤。受伤11人中有2人送往医院后伤重死亡。在哈尔科夫发生的恐怖袭击是源自乌克兰亲欧盟示威运动中出现亲欧派和亲俄派之间的冲突。</span></p>
+<p id="b-86eb4c90ef3c4a8481e8c14b249f5df3" style="text-align:start"><span style="font-size:15px">基于这场爆炸，检方根据乌克兰刑法(恐怖主义行为)第258条发起了刑事诉讼。 这也是哈尔科夫首次在苏联解体后发生了导致人命伤亡的恐怖袭击。</span></p>
+</td>
+<td id="b-c2ec3d2437da46ca9365684d8ad5a7b1" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-7334a962ad7c4524919a1f34a4d79187" style="text-align:start"><span style="font-size:15px">11人受伤。受伤11人中有2人送往医院后伤重死亡。</span></p>
+</td>
+<td id="b-be530e0be91f4e938e68586ee5b20bbf" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-942624ad09a04977be6ce97601239ce7" style="text-align:start"><span style="font-size:15px">无</span></p>
+</td>
+<td id="b-4e45dcb944ab4034bde3d844983179ce" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-8a461dbe023b4b5a95f0cf9552d55e5c" style="text-align:start"><span style="font-size:15px">在哈尔科夫发生的恐怖袭击是源自乌克兰亲欧盟示威运动中出现亲欧派和亲俄派之间的冲突</span></p>
+</td>
+<td id="b-0a349ab93dae4242b28389ebceee0f6f" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-1d68ff0d4c0a421db13cfeaf61848490" style="text-align:start"><span style="font-size:15px">简易爆炸装置</span></p>
+</td>
+<td id="b-ffa4d9077ea243cb814e450b823fd19c" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-77e9a2ca56fe49eaaa2d78cfbc7fed20" style="text-align:start"><img src="https://km.sankuai.com/api/file/cdn/1625309615/234767144886?&amp;isNewContent=false&amp;contentType=1" width="176" height="154" id="b-b7d6b9ad444f4530bd01564c153ea1ec" alt="原文图片（需学城权限）"></p>
+</td>
+</tr>
+<tr id="b-432d779418b147d2a01f480d3f3f8f00">
+<td id="b-e97fd5b7f4fb4a249abd5ebbfdedb4a9" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-69e460ea0bb14940b4bdacde26c3267c" style="text-align:start"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">2015年3月18日</span></span></p>
+</td>
+<td id="b-d329c0fd67844218803cb81e267681bc" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-1e8d328a3f574e1fb2bc52cdf2621929" style="text-align:start"><span style="font-size:15px">突尼斯首都突尼斯市</span></p>
+</td>
+<td id="b-2fbbebee9e8548b0acdf92bd7ed23e3c" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-3888d7f73c9a46dfaab015212007dd9f" style="text-align:start"><span style="font-size:15px">指2015年3月18日，发生于突尼斯首都突尼斯市的枪击事件。当日12时左右，武装份子先后攻击了突尼斯议会，以及紧邻的巴尔多国家博物馆，当地警方以处理恐怖攻击事件应对，击毙两名枪手。警方围捕博物馆内的枪手并进行攻坚成功，事后清点发现至少有19人死亡，已知其中17人是外国观光客。事件是突尼斯历史上死亡人数最多的恐怖袭击，超过2002年炸死21人的格里巴犹太教堂爆炸案，其中大部分亦为欧洲游客，超过30人受伤</span><sup><a href="https://zh.wikipedia.org/wiki/%E5%B7%B4%E7%88%BE%E6%9D%9C%E5%8D%9A%E7%89%A9%E9%A4%A8%E6%A7%8D%E6%93%8A%E6%A1%88#cite_note-latimes-9" title="[" id="b-c3a6be1b4cca400fa433bb5b17f14b8e"><span style="font-size:15px">[</span></a></sup><span style="font-size:15px">。</span></p>
+<p id="b-6322647285f546ad9250f3bf0dc7d419" style="text-align:start"><span style="font-size:15px">伊斯兰国宣称对袭击事件负责，并扬言要发动更多的袭击。两天后，该组织对也门首都萨那两座什叶派清真寺的爆炸案表示负责，事件造成至少137人死亡</span></p>
+</td>
+<td id="b-68477751063d4783b8680e891f1649b8" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-eb3ff5fa498d42e4a43460177603c365" style="text-align:start"><span style="font-size:15px">官方称19人死亡超过30人受伤。</span></p>
+<p id="b-26e6ca62e85b463b80dd74d12370b59e" style="text-align:start"><span style="font-size:15px">事件造成至少137人死亡</span></p>
+</td>
+<td id="b-9d35395219624261973c6d0090c1917f" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-e538a22287b94f6e926e4130aa343267" style="text-align:start"><span style="font-size:15px">无</span></p>
+</td>
+<td id="b-7dc923795f1c435791a7ef8502b6bdf6" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-fa9370956df74dc79c4d6d2fe87ae227" style="text-align:start"><span style="font-size:15px">伊斯兰国</span></p>
+</td>
+<td id="b-0d4e6fa6e44d433b87cd0e16beaa443d" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-debf2cc058204fa5bcdc60f57f6cd919" style="text-align:start"><span style="font-size:15px">屠杀、劫持人质，炸弹</span></p>
+</td>
+<td id="b-9a9996f07cfa49c9967462446fd92c92" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-f8584c17167e4dc18fd941f414d685ad" style="text-align:start"><img src="https://km.sankuai.com/api/file/cdn/1625309615/234768401930?&amp;isNewContent=false&amp;contentType=1" width="176" height="116" id="b-eda7de88bcf848bd94bc252cb86845d4" alt="原文图片（需学城权限）"></p>
+</td>
+</tr>
+<tr id="b-5dd4ca01c1b447d7810f1084c470f76a">
+<td id="b-39b8f87ab3454d06bf65f80826037242" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-4fca2917cb7748d8a6af65f921248316" style="text-align:start"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">2015年3月20日</span></span></p>
+</td>
+<td id="b-21be8922b0c04e289fc0925fec11cd17" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-c7c8db3c04a245a8a9f5208ff7cc7dfb" style="text-align:start"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">在</span></span><span style="font-size:15px">也门萨那省萨那，</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">当地的巴德尔（al-Badr）和阿尔哈斯（al-Hashoosh）两座</span></span><span style="font-size:15px">清真寺</span></p>
+</td>
+<td id="b-fe7ab8ef81454ae3bfd1163c2325dc3f" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-68e6955e429444e9add8b11cde3d554f" style="text-align:start"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">发生于2015年3月20日，在</span></span><span style="font-size:15px">也门萨那省萨那</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">的连环爆炸案。当地的巴德尔（al-Badr）和阿尔哈斯（al-Hashoosh）两座</span></span><span style="font-size:15px">清真寺</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">，于</span></span><span style="font-size:15px">中午</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">的</span></span><span style="font-size:15px">晌礼祈祷</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">时受到</span></span><span style="font-size:15px">自杀炸弹攻击</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">。爆炸总共造成了至少142人死亡，与351人受伤</span></span></p>
+</td>
+<td id="b-e7d44a42f0714342a09659fc238f1b09" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-58759dd21aa14d218b9ae64172e59205" style="text-align:start"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">至少142人死亡，与351人受伤</span></span></p>
+</td>
+<td id="b-d81cd6cc6a794f1c906c0cba7eea7726" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-60bdec294e3d4810bb55c7f94e53eb05" style="text-align:start"><span style="font-size:15px">无</span></p>
+</td>
+<td id="b-7fbd9bb384c448bd82dbf1d218b2b6b0" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-1e887ad19cc74f08be0d06e0eae5e75b" style="text-align:start"><span style="font-size:15px">伊斯兰国</span></p>
+</td>
+<td id="b-474fbe0e610f4840b0d814656c23936c" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-6cfa680dc647414eada9c5adcb1771f9" style="text-align:start"><span style="color:rgb(0, 0, 0)"><span style="font-size:15px">4次</span></span><span style="font-size:15px">自杀炸弹攻击</span></p>
+</td>
+<td id="b-0da159727d694be79017b54bc968f343" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-9aaea147306c4fdca58e6b375de0738a" style="text-align:start"><img src="https://km.sankuai.com/api/file/cdn/1625309615/234768558644?&amp;isNewContent=false&amp;contentType=1" width="176" height="149" id="b-1c27d61adbc042b79c76a040983156fa" alt="原文图片（需学城权限）"></p>
+</td>
+</tr>
+<tr id="b-9e88bd40dc6045cdbf2f7b44b900ef2a">
+<td id="b-5c5c297b8f1b4a44ae97d4655b194558" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-6a51ab2e10d14689a05a0d901ab9ac65" style="text-align:start"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">2015年4月2日</span></span></p>
+</td>
+<td id="b-9eef43d5f2be475899b1053f21b86024" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-6c55803ce3fc470abb22a501e6762d25" style="text-align:start"><span style="font-size:15px">肯尼亚加里萨县</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">加里萨市</span></span></p>
+</td>
+<td id="b-de918d77889f4b0b9e2403332c1b17f3" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-1cc6b9019c894a09afbda21e24dd84fb" style="text-align:start"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">发生于2015年4月2日，于</span></span><span style="font-size:15px">肯尼亚加里萨县</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">加里萨市的一起屠杀案。当地的</span></span><span style="font-size:15px">加里萨大学</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">遭到</span></span><span style="font-size:15px">索马里青年党</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">的武装份子闯入，并劫持了多名学生做为</span></span><span style="font-size:15px">人质</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">（</span></span><span style="font-size:15px">基督徒</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">当场射杀，</span></span><span style="font-size:15px">穆斯林</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">予以释放）。青年党是一个伊斯兰激进组织，攻击加里萨大学是为了报复先前肯尼亚派兵至</span></span><span style="font-size:15px">索马里</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">，青年党的基地位于索马里</span></span></p>
+</td>
+<td id="b-9e756f673bbf44548e3b0b4ba6021b3b" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-b314261b037d4a38a8fe9dfeed1d11fe" style="text-align:start"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">本次事件至少造成148人死亡</span></span></p>
+</td>
+<td id="b-508ae9d9ac944385b540fd0f8324bff4" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-0ce4d8ebf4c64deeb2c0e18ac3fc9091" style="text-align:start"><span style="font-size:15px">无</span></p>
+</td>
+<td id="b-d0812227abee4c5083c44ad52a930ec6" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-392890b022544749ac501e888beae44f" style="text-align:start"><span style="font-size:15px">索马里青年党</span></p>
+</td>
+<td id="b-cfe1770d36374ee499ab1fcd88f61850" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-d6735ff7ed6942549a456c540acafe28" style="text-align:start"><span style="color:rgb(0, 0, 0)"><span style="font-size:15px">劫持</span></span><span style="font-size:15px">人质</span><span style="color:rgb(0, 0, 0)"><span style="font-size:15px">、</span></span><span style="font-size:15px">枪击</span><span style="color:rgb(0, 0, 0)"><span style="font-size:15px">、</span></span><span style="font-size:15px">屠杀</span></p>
+</td>
+<td id="b-104cb66a2edb4cc4a532b5a166db77f7" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-6ffc87483a694b3c91d2dd94ca269432" style="text-align:start"><img src="https://km.sankuai.com/api/file/cdn/1625309615/234768003149?&amp;isNewContent=false&amp;contentType=1" width="176" height="179" id="b-27209fbb8f7848c08e530b74c7adc485" alt="原文图片（需学城权限）"></p>
+</td>
+</tr>
+<tr id="b-0ef5a25cf9b64963810672ff5aabbb0e">
+<td id="b-e2ffcfbaa1154085a068d82d53129e87" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-cc6edd67c37b4f6b922ea159e9c52263" style="text-align:start"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">2015年6月26日</span></span></p>
+</td>
+<td id="b-b1f968aba41642ed8fbb6694809d0a2e" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-9245f81bc6904f53ae322c123dd34102" style="text-align:start"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">于</span></span><span style="font-size:15px">法国</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">、</span></span><span style="font-size:15px">突尼斯</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">、</span></span><span style="font-size:15px">科威特</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">、</span></span><span style="font-size:15px">索马里</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">的四起</span></span><span style="font-size:15px">恐怖攻击</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">事件</span></span></p>
+</td>
+<td id="b-6e0772a76ce14cf89cc4301678179c6b" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-b46a28eefadf4a16a73048535b89e840" style="text-align:start"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">指发生在2015年6月26日的同一天，于</span></span><span style="font-size:15px">法国</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">、</span></span><span style="font-size:15px">突尼斯</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">、</span></span><span style="font-size:15px">科威特</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">、</span></span><span style="font-size:15px">索马里</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">的四起</span></span><span style="font-size:15px">恐怖攻击</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">事件的其中之一。当地时间上午9时30分至10时间，两名驾着</span></span><span style="font-size:15px">面包车</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">，疑似支持</span></span><span style="font-size:15px">伊斯兰主义</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">的武装分子，冲入了邻近</span></span><span style="font-size:15px">里昂</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">，</span></span><span style="font-size:15px">圣康坦-法拉维耶</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">镇工业园区的</span></span><span style="font-size:15px">空气化工</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">公司的一家瓦斯工厂，并撞向</span></span><span style="font-size:15px">瓦斯罐</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">而引发爆炸，造成1死2伤</span></span></p>
+</td>
+<td id="b-9792c82a9c684e30828abb7f85d21a02" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-86d4be09a251479eb49e3538d23f6908" style="text-align:start"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">1死2伤</span></span></p>
+</td>
+<td id="b-b07db0ae0ec946fb85f27227008a57ad" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-ac0f066c50ad4bb780756beb18f56f90" style="text-align:start"><span style="font-size:15px">无</span></p>
+</td>
+<td id="b-2f0d2fc65b06436d9ba016e4b8f13f25" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-31afce898fd54ca2b0080b1c9d3dc086" style="text-align:start"><span style="font-size:15px">未知</span></p>
+</td>
+<td id="b-328b9ce3dc9c4e46a440df1dd5a18a7c" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-fefc854041734905b71733ab9d40d937" style="text-align:start"></p>
+</td>
+<td id="b-d2f8b637dd304b0db417587845fdcdc1" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-e950e42084c14a4dbc0090caebd1ea14" style="text-align:start"><img src="https://km.sankuai.com/api/file/cdn/1625309615/234767528571?&amp;isNewContent=false&amp;contentType=1" width="198" height="131" id="b-b2b626f5969044e992ec947b10707a46" alt="原文图片（需学城权限）"></p>
+</td>
+</tr>
+<tr id="b-84d33ee438934696b83c1c089baba6b1">
+<td id="b-893a4ceed7854ad59fd43be8291d75b7" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-d57f56c49b9d44ae88cb9f31c47e1a79" style="text-align:start"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">2015年6月26日</span></span></p>
+</td>
+<td id="b-1c16804270ae414fb3c5e1a7b1748330" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-0a4002a6ce3f464eb3612e206edd8d43" style="text-align:start"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">于</span></span><span style="font-size:15px">法国</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">、</span></span><span style="font-size:15px">突尼斯</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">、</span></span><span style="font-size:15px">科威特</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">、</span></span><span style="font-size:15px">索马里</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">的四起</span></span><span style="font-size:15px">恐怖攻击</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">事件</span></span></p>
+</td>
+<td id="b-c4799a1bb7ff4ad29b13388b25d7b27b" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-89c8f9ddb6714d89bc36c64b2a5fc954" style="text-align:start"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">发生在2015年6月26日的同一天，于</span></span><span style="font-size:15px">法国</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">、</span></span><span style="font-size:15px">突尼斯</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">、</span></span><span style="font-size:15px">科威特</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">、</span></span><span style="font-size:15px">索马里</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">的四起</span></span><span style="font-size:15px">恐怖攻击</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">事件的其中之一，四起事件中，以本起恐怖攻击的伤亡人数最多。一名恐怖分子，冲入</span></span><span style="font-size:15px">科威特</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">首都</span></span><span style="font-size:15px">科威特</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">市的伊玛目萨迪克（Imam Ja'far as-Sadiq）</span></span><span style="font-size:15px">什叶派清真寺</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">，并引爆身上的</span></span><span style="font-size:15px">炸弹</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">。由于案发时正逢</span></span><span style="font-size:15px">伊斯兰教</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">的</span></span><span style="font-size:15px">斋戒月</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">，寺中挤满了信徒，导致大量伤亡</span></span></p>
+</td>
+<td id="b-9d486970fc7047268b78af29e221ef93" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-634c6471c65a407ca252c82b6a3c8d71" style="text-align:start"><span style="font-size:15px">25死以上</span></p>
+</td>
+<td id="b-5b78c6f1b00f4da48ac17048861cbe66" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-9912d77fa82a49399a91e4770d49f187" style="text-align:start"><span style="font-size:15px">无</span></p>
+</td>
+<td id="b-2151e6738614475dbdc095423f41b246" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-2fe2ac0740ee4c59af24698773e2d721" style="text-align:start"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">案发后，一个名叫“纳季德省”的</span></span><span style="font-size:15px">伊斯兰国</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">附属组织声称犯下本起案件，伊斯兰国向来认为什叶派是</span></span><span style="font-size:15px">异教徒</span></p>
+</td>
+<td id="b-8068d535246d436b84a8d655595ddae4" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-ae9e3bb5f8c5446fae69ff0076f3458d" style="text-align:start"></p>
+</td>
+<td id="b-2e2d6c2791284c77b191edfeb3a7ac5e" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-7e0a416e504b4b47b681818ae9ba42a3" style="text-align:start"><img src="https://km.sankuai.com/api/file/cdn/1625309615/234767724187?&amp;isNewContent=false&amp;contentType=1" width="133" height="167" id="b-3d8e420ba968434bbe6769937faf4688" alt="原文图片（需学城权限）"></p>
+</td>
+</tr>
+<tr id="b-7d61d83bb8d9461fb5bbbdd63e89387c">
+<td id="b-c1e8ee5e536849d0b8f66755865713b7" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-e9fbbaedf32042928c77d70594264058" style="text-align:start"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">2015年6月26日</span></span></p>
+</td>
+<td id="b-03e023bf94524a78bfc142024dc821b5" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-ffc9e1392f2f49dc898682a17f5bb9b6" style="text-align:start"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">于</span></span><span style="font-size:15px">法国</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">、</span></span><span style="font-size:15px">突尼斯</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">、</span></span><span style="font-size:15px">科威特</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">、</span></span><span style="font-size:15px">索马里</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">的四起</span></span><span style="font-size:15px">恐怖攻击</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">事件</span></span></p>
+</td>
+<td id="b-aeb471fe367241b8b0d1df784588b9c7" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-576df9d7aa55464194a954eff8024160" style="text-align:start"><span style="font-size:15px">指发生在2015年6月26日的同一天，于法国、突尼斯、科威特、索马里的四起恐怖攻击事件的其中之一。</span></p>
+<p id="b-5220c24fd6f64d6385e5441a98395aa0" style="text-align:start"><span style="font-size:15px">当地时间正午时分，两名伪装成工作人员的年轻男子，在帝国马哈巴酒店（Hotel Riu Imperial Marhaba）旁的游泳池与海滩边，突然掏出藏在雨伞中的步枪，向周遭的游客扫射，当场造成多名来自多国的游客伤亡</span><sup><a href="https://zh.wikipedia.org/wiki/2015%E5%B9%B4%E8%98%87%E5%A1%9E%E6%81%90%E6%80%96%E6%94%BB%E6%93%8A%E4%BA%8B%E4%BB%B6#cite_note-bbc-zh-4" title="[4]" id="b-143046b22bc3401c83918d7c54cccfae"><span style="font-size:15px">[4]</span></a></sup><span style="font-size:15px">。突尼斯内政部称，此事是一起恐怖攻击，而这名枪手后来被警方击毙。警方称，在他的尸体上还发现绑着一枚炸弹，而另一名共犯在逃中</span></p>
+</td>
+<td id="b-24d8efa2c2e443dd8a9a215ad397367e" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-c36848ef41ac462e9699be5019b87f4b" style="text-align:start"><span style="font-size:15px">39死以上</span></p>
+</td>
+<td id="b-3de94338c5c4430e80a94d97fd6fab0e" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-a612cdc68e7b4fa398f146ce464e60f4" style="text-align:start"><span style="font-size:15px">无</span></p>
+</td>
+<td id="b-332b18259b2c43e18f34dfa2c0780e38" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-0731e2251f974100bb69b5974c1b3c4d" style="text-align:start"></p>
+</td>
+<td id="b-c9a9a4b1bbed41389c515c086dab541e" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-1be4fc5ee1ca4345840575f578603e7a" style="text-align:start"><span style="font-size:15px">步枪、炸弹，攻击西方游客</span></p>
+</td>
+<td id="b-de50e727c4ae4ca5a34d015886b2f7dd" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-5f9e55af63304db19c6b35b9ec06ad16" style="text-align:start"><img src="https://km.sankuai.com/api/file/cdn/1625309615/234768321512?&amp;isNewContent=false&amp;contentType=1" width="198" height="171" id="b-fc560dbb714e438698dc7439fed95f64" alt="原文图片（需学城权限）"></p>
+</td>
+</tr>
+<tr id="b-221998fc120e475cad2944c2c1390d48">
+<td id="b-66806ab141ba4ad29d7a5be536b4efc9" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-4cfbb81b35ee4f06afc77da80bd2f243" style="text-align:start"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">2015年6月26日</span></span></p>
+</td>
+<td id="b-8d4698387bae4df4b28cbbd64227e79c" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-9cf7f10f0be9450c88261fa51ab7a144" style="text-align:start"><span style="font-size:15px">于法国、突尼斯、科威特、索马里的四起恐怖攻击事件</span></p>
+</td>
+<td id="b-7e782cda339f4ba6b51d623bdd091480" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-006d3dc91fe14cb2bb85bc487ad3aed5" style="text-align:start"><span style="font-size:15px">指发生在2015年6月26日的同一天，于法国、突尼斯、科威特、索马里的四起恐怖攻击事件的其中之一。</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">索马里当地的激进组织</span></span><span style="font-size:15px">索马里青年党</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">，于清晨时分驾驶一辆载满</span></span><span style="font-size:15px">炸药</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">的卡车，撞开</span></span><span style="font-size:15px">非洲联盟驻索马里特派团</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">位于</span></span><span style="font-size:15px">利戈</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">的基地大门，接着向基地内的士兵开枪。根据</span></span><span style="font-size:15px">美国之音</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">报导，至少有70名军人死亡，20名军人与40名</span></span><span style="font-size:15px">平民</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">下落不明，当地官员怀疑他们可能被青年党绑架</span></span></p>
+</td>
+<td id="b-b46fd81b837a4307a185920f1a0d0ca4" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-3dd1f0ce9d184797b3902181c0671657" style="text-align:start"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">至少有70名军人死亡，20名军人与40名</span></span><span style="font-size:15px">平民</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">下落不明，当地官员怀疑他们可能被青年党绑架</span></span></p>
+</td>
+<td id="b-381a11ec58b94405beb7b24a6856a354" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-01cfcbd0d3f04b67a4685c4cf808c577" style="text-align:start"><span style="font-size:15px">无</span></p>
+</td>
+<td id="b-39cd460435114947b473f05353794217" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-30fec74c9aec4c69a450d22c9a04ccbc" style="text-align:start"></p>
+</td>
+<td id="b-c91500c817a64eb68cced95342f01de3" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-e1ff2f823b2047d181660d563b826c37" style="text-align:start"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">驾驶一辆载满</span></span><span style="font-size:15px">炸药</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">的卡车，撞开</span></span><span style="font-size:15px">非洲联盟驻索马里特派团</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">位于</span></span><span style="font-size:15px">利戈</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">的基地大门，接着向基地内的士兵开枪</span></span></p>
+</td>
+<td id="b-e16f93d30a8040db95e2bf01eaa46ad9" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-f53f4e99177a42538f9619a735970aaf" style="text-align:start"><img src="https://km.sankuai.com/api/file/cdn/1625309615/234764595621?&amp;isNewContent=false&amp;contentType=1" width="116" height="133" id="b-a26ce48c99724aa8911df63465bc10ea" alt="原文图片（需学城权限）"></p>
+</td>
+</tr>
+<tr id="b-5b8c4f02f8224f1a916f94ef2878812f">
+<td id="b-6ab75505cf11424d909124c876897a4d" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-341c767abb044e86b0f626cefdf41ccd" style="text-align:start"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">2015年7月17日</span></span></p>
+</td>
+<td id="b-8e8eb0b478ef4319a496636a378d8dfc" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-fb92667fcdc143ae928ecf62e7bb2647" style="text-align:start"><span style="font-size:15px">伊拉克迪亚拉省坎巴尼萨德</span></p>
+</td>
+<td id="b-2907a57993264e87b1ca5e02efe951c2" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-3217a0a153a5400f83d3762162041c52" style="text-align:start"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">指发生于2015年7月17日，在</span></span><span style="font-size:15px">伊拉克迪亚拉省坎巴尼萨德</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">的一起</span></span><span style="font-size:15px">汽车炸弹自杀攻击</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">案。本案造成至少120人死，以及至少130人受伤，其中包括了15名</span></span><span style="font-size:15px">孩童</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">，另仍有17至20人</span></span><span style="font-size:15px">失踪</span></p>
+</td>
+<td id="b-a84c68d7943b42769e2935bcb1e6a75f" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-38144f786de64540a44ec6de0fac4d9b" style="text-align:start"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">至少120人死，以及至少130人受伤，其中包括了15名</span></span><span style="font-size:15px">孩童</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">，另仍有17至20人</span></span><span style="font-size:15px">失踪</span></p>
+</td>
+<td id="b-0863dde0900048c288c7d5ca6c95bba6" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-b747670ed8e64e299eb059e2e73dc161" style="text-align:start"><span style="font-size:15px">无</span></p>
+</td>
+<td id="b-d999e47150604b669c89c06d4a976840" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-7da8d56e0aea405d8d825dc2460f51d9" style="text-align:start"><span style="font-size:15px">伊斯兰国，</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">目标是为了杀死</span></span><span style="font-size:15px">什叶派穆斯林汽车炸弹自杀攻击</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">案</span></span></p>
+</td>
+<td id="b-d6be6b6b2942451e953500751ffd027c" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-221571fe5f3f42b5ba3f1caf9fd6dd10" style="text-align:start"></p>
+</td>
+<td id="b-90b57e073d5d44cf8999d73ccd6d707a" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-dfc44801dd1145d7b49bf988b67479c8" style="text-align:start"><img src="https://km.sankuai.com/api/file/cdn/1625309615/234769326755?&amp;isNewContent=false&amp;contentType=1" width="114" height="136" id="b-c8177d0fcf44474495b304142816fe32" alt="原文图片（需学城权限）"></p>
+</td>
+</tr>
+<tr id="b-2a12c1bdd508488d90fabb4a2341d3e9">
+<td id="b-789c9e5939994407a99edf72dc66657a" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-9d4f8031061445ce8748f8bf80c1bb6e" style="text-align:start"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">2015年7月20日</span></span></p>
+</td>
+<td id="b-b5258e9c1c40413bb9f9062441bfd706" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-e4b79332edd04dd5961688a4b8fa78cd" style="text-align:start"><span style="font-size:15px">土耳其苏鲁奇爆炸案</span></p>
+</td>
+<td id="b-42c8108f21df4bb8b3e151ab660dc8c4" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-527555c473c44eb99bccb02094420984" style="text-align:start"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">发生于2015年7月20日，在土耳其</span></span><span style="font-size:15px">尚勒乌尔法省苏鲁奇</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">镇的一起爆炸案。当地时间大约上午12时左右，“阿玛拉文化中心”（Amara Culture Centre）附近发生了爆炸。已知有32人死亡，与104人受伤。</span></span><span style="font-size:15px">土耳其总理艾哈迈德·达武特奥卢</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">在记者会中称，炸弹“最有可能”是由</span></span><span style="font-size:15px">伊斯兰国</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">的一位女性成员引爆的，不过后来相信行凶者是一名与伊斯兰国武装分子有联系的库尔德族男子Seyh Abdurrahman Alagoz；</span></span><span style="font-size:15px">总统雷杰普·塔伊普·埃尔多安</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">谴责此起爆炸案，称此为</span></span><span style="font-size:15px">恐怖攻击</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">的行为</span></span></p>
+</td>
+<td id="b-5e937d4ecd5545c8b29b0bf5b589561d" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-351bc43d5f8047859ddf5040f44a08d0" style="text-align:start"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">已知有32人死亡，与104人受伤</span></span></p>
+</td>
+<td id="b-ba30908a5b4948a0b3e831d71b76d507" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-593141be38884a9084934cf60e940e90" style="text-align:start"><span style="font-size:15px">无</span></p>
+</td>
+<td id="b-06c0f257fe5a4d20898cf6dbba61c388" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-311eb46a3c7e477da37c97917a89f1a2" style="text-align:start"><span style="font-size:15px">伊斯兰国，</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">“最有可能”是由</span></span><span style="font-size:15px">伊斯兰国</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">的一位女性成员引爆的</span></span></p>
+</td>
+<td id="b-95b2d8e85a5748fd882757779f0486d7" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-dcebb673c9fe4dcd87e34f62cd0bbae9" style="text-align:start"></p>
+</td>
+<td id="b-1be5f562635b4144a47986dab828e811" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-a0a208dc39da4eab88c201e96a355f1c" style="text-align:start"><img src="https://km.sankuai.com/api/file/cdn/1625309615/234768082589?&amp;isNewContent=false&amp;contentType=1" width="198" height="130" id="b-d574bb7279a94dc7b7d2e86bc39c2382" alt="原文图片（需学城权限）"></p>
+</td>
+</tr>
+<tr id="b-bab98fc9ec1c462c9a07afb53008af57">
+<td id="b-30df3577f5724deaace9195462961d4a" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-fe78c9d5c2c54e62b79f3870c6dd12c3" style="text-align:start"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">2015年8月6日</span></span></p>
+</td>
+<td id="b-54b01faeb7ee49feb9c639d4d359815d" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-08deb91968d44c7fbe8309a01f758d07" style="text-align:start"><span style="font-size:15px">哈清真寺</span></p>
+</td>
+<td id="b-0a316a796c924ccf9dead3fa8d490f5f" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-14fa6ebb37cb422d82bfe4c626c9e02b" style="text-align:start"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">指2015年一宗由</span></span><span style="font-size:15px">伊斯兰国</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">旗下组织“汉志省”发动、对象为</span></span><span style="font-size:15px">沙特阿拉伯艾卜哈</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">一所</span></span><span style="font-size:15px">清真寺</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">的</span></span><span style="font-size:15px">恐怖主义</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">袭击</span></span></p>
+</td>
+<td id="b-cf10fdd553a6473db059f39586f91a7d" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-63c72d3c7192431e81f933dbe35ad260" style="text-align:start"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">亦有多份报导分别指死亡人数为13或15人；死者的身份亦有争议，有报导认为死者有部队成员和其他工作人员，亦有报导指死者全是部队成员</span></span></p>
+</td>
+<td id="b-616283d7d9164fb899986386ae1b9257" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-a87fca3479f54ec99a1d45b983ed7391" style="text-align:start"><span style="font-size:15px">无</span></p>
+</td>
+<td id="b-8345be90db944368852cc3fcad8074ce" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-a9cc609f5899406fb05e161806ea211c" style="text-align:start"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">由</span></span><span style="font-size:15px">伊斯兰国</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">旗下组织“汉志省”发动、自杀爆炸案</span></span></p>
+</td>
+<td id="b-fae972320cf64e53bf029771138fe66b" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-68886a6204924db9ae8dc09103ce7ebc" style="text-align:start"></p>
+<p id="b-a10058527cc74e4f8fff559607da4c29" style="text-align:start"></p>
+</td>
+<td id="b-bb261c2a933e48d19054f6f7a39a3f33" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-a402b2a56f1e42a298f2d064934f750b" style="text-align:start"></p>
+</td>
+</tr>
+<tr id="b-1ee242f596274aa0b46ab5b0fb128e37">
+<td id="b-527a439ec9034762abe42f2b10b5663a" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-032cdfef398441b9aca20594795fa42e" style="text-align:start"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">2015年8月13日</span></span></p>
+</td>
+<td id="b-119d7caebeeb4365841b65ca18a5584d" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-786a8107564b40d9b6b9dfbae25ea11e" style="text-align:start"><span style="font-size:15px">伊拉克巴格达</span></p>
+</td>
+<td id="b-7fcc4f846d5f47f0a230173a5867b1c8" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-cdae7c19fbc042a99dea974440dc0538" style="text-align:start"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">指2015年一宗由</span></span><span style="font-size:15px">伊斯兰国</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">发动、对象为</span></span><span style="font-size:15px">什叶派</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">武装分子的</span></span><span style="font-size:15px">恐怖主义</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">袭击事件，有</span></span><span style="font-size:15px">汽车炸弹</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">在一所</span></span><span style="font-size:15px">批发市场</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">爆炸，造成76人死亡、212人受伤。</span></span></p>
+</td>
+<td id="b-570ce71fe10f4054acec619f46d089ec" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-325269bd1f334a2baa99e95b12ef765f" style="text-align:start"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">造成76人死亡、212人受伤。</span></span></p>
+</td>
+<td id="b-051107ebecdb4055b4507c237866fd99" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-7edbc617f13c479880223380b13d5916" style="text-align:start"><span style="font-size:15px">无</span></p>
+</td>
+<td id="b-9f568204027147ae837640ed72c1e13b" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-a273606244ea4a1380d099bf1750def4" style="text-align:start"></p>
+</td>
+<td id="b-43edfd802d114672adecf8e4b71be5e3" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-f4bf2ed5b52e4fe28bd3276689635dc2" style="text-align:start"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">有</span></span><span style="font-size:15px">汽车炸弹</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">在一所</span></span><span style="font-size:15px">批发市场</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">爆炸</span></span></p>
+</td>
+<td id="b-01a3f8a366e4493caf76a060e76d2e9c" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-12c07730800b4a279b9c78f68348235b" style="text-align:start"><img src="https://km.sankuai.com/api/file/cdn/1625309615/234765549961?&amp;isNewContent=false&amp;contentType=1" width="198" height="106" id="b-0bdefac59ce445beb733c4e4a211657b" alt="原文图片（需学城权限）"></p>
+</td>
+</tr>
+<tr id="b-abef81f2e91a40f7941af60197ca1b9b">
+<td id="b-bfca22700677468fa2eb312e4695fa57" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-36656a137e084b7081a106b82f8d0848" style="text-align:start"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">2015年9月20日</span></span></p>
+</td>
+<td id="b-c59ddae9bc6746c694c2aaa1404fd866" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-73f570ec2e304b0a834525fd35174932" style="text-align:start"><span style="font-size:15px">尼日利亚博尔诺州</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">城市</span></span><span style="font-size:15px">迈杜古里</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">和</span></span><span style="font-size:15px">蒙古诺</span></p>
+</td>
+<td id="b-e185ee2f25794326bca2bb9a43d8e168" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-15968164cca04eacac7de18fb1de71af" style="text-align:start"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">指2015年9月20日发生在</span></span><span style="font-size:15px">尼日利亚博尔诺州</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">城市</span></span><span style="font-size:15px">迈杜古里</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">和</span></span><span style="font-size:15px">蒙古诺</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">的一连串</span></span><span style="font-size:15px">恐怖主义</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">袭击，怀疑由</span></span><span style="font-size:15px">博科圣地</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">发动。</span></span></p>
+</td>
+<td id="b-b3962a4919ac4282ad51588af9a15894" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-4ca35802b8bc404c9359472d7c776c8b" style="text-align:start"><span style="font-size:15px">死亡至少80人，</span></p>
+<p id="b-f603991d32ae4ff7ba2033c010710798" style="text-align:start"><span style="font-size:15px">受伤至少150人</span></p>
+</td>
+<td id="b-4301ebf2adca476eab44c0429a0298c4" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-0304a48f9c2c4fb2943f154beb8eec94" style="text-align:start"><span style="font-size:15px">无</span></p>
+</td>
+<td id="b-24b825de7be14415acd6d510c4cce2e7" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-350b30db551744a38ef02d21bafc84cc" style="text-align:start"></p>
+</td>
+<td id="b-48a4b25c33054397b52616ac28b93454" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-43cf762f29d548fdb87de176083101aa" style="text-align:start"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">袭击共有两枚炸弹爆炸</span></span></p>
+</td>
+<td id="b-422f8420d9a444fb885f8eae8893759a" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-cd409c1b850c4d72844ef2119a7eb90f" style="text-align:start"><img src="https://km.sankuai.com/api/file/cdn/1625309615/234767303883?&amp;isNewContent=false&amp;contentType=1" width="74" height="53" id="b-192b373211dd42ce86ca1e8cb033750c" alt="原文图片（需学城权限）"></p>
+</td>
+</tr>
+<tr id="b-b760bf3cead747e489dd2a5be6b8f85e">
+<td id="b-b3fd94a1b9a54b799f4b9f1867333930" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-59d0d78a3ef148639e38917383f7eea5" style="text-align:start"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">2015年11月12日</span></span></p>
+</td>
+<td id="b-e5d27b769a364797b0f8a49b57f84f9a" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-dc1fb3d1736f46bc9b80170eba31abbd" style="text-align:start"><span style="font-size:15px">黎巴嫩</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">首都</span></span><span style="font-size:15px">贝鲁特</span></p>
+</td>
+<td id="b-759b48b88450438495a7a24669f27986" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-54a9bd28624244a0876ae43058b5e344" style="text-align:start"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">指发生于2015年11月12日，在</span></span><span style="font-size:15px">黎巴嫩</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">首都</span></span><span style="font-size:15px">贝鲁特</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">的两宗爆炸案，已知爆炸至少造成37-43人死200-240人伤</span></span></p>
+</td>
+<td id="b-e5f2e83e81c946bdb624b6757f9b80c2" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-fbb3ea0e4f074d0895239051dfbeb4a7" style="text-align:start"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">成37-43人死200-240人伤</span></span></p>
+</td>
+<td id="b-1d984f1b45274506b5e4020e0c387d3f" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-d53ca2496b2840e49bb4c9b10075432f" style="text-align:start"><span style="font-size:15px">无</span></p>
+</td>
+<td id="b-9c30decf874b468f8af847bbfe9e0c9e" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-c7753bd9ed7142059ccafafe32750875" style="text-align:start"></p>
+</td>
+<td id="b-3ebbe8bebcae4a1e861c1ff2ffa98217" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-e804c42ad3f442e7869c9ae192deda3b" style="text-align:start"><span style="font-size:15px">自杀炸弹攻击</span></p>
+</td>
+<td id="b-0e39aad3980d41e5838f12de0f256807" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-455ece3b94834f3fb2fda3eb25839ac9" style="text-align:start"></p>
+</td>
+</tr>
+<tr id="b-322d95c22449402ea302000cea6fa1b6">
+<td id="b-8e90357dbe0946a78f2393595b272b4a" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-583a6d4a3165436883704ea930480e60" style="text-align:start"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">2015年11月13日</span></span></p>
+</td>
+<td id="b-df5706cb4b9e43229ff22789ca1efa50" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-9161f59f9a424b42b471639b01de2738" style="text-align:start"><span style="font-size:15px">法国巴黎</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">及其北郊</span></span><span style="font-size:15px">圣但尼</span></p>
+</td>
+<td id="b-321e69806aa347b9bab0860f16b50a44" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-bee8c91e8b4c491a9b201bd61666deaa" style="text-align:start"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">2015年11月13日与14日凌晨发生于</span></span><span style="font-size:15px">法国巴黎</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">及其北郊</span></span><span style="font-size:15px">圣但尼</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">的连续</span></span><span style="font-size:15px">恐怖袭击</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">事件。袭击事件共造成来自26个国家的127人当场遇难，3人到院后不治身亡，80-99人重伤</span></span><sup><a href="https://zh.wikipedia.org/wiki/2015%E5%B9%B411%E6%9C%88%E5%B7%B4%E9%BB%8E%E8%A2%AD%E5%87%BB%E6%A1%88#cite_note-Telegraph-11995246-7" title="[" id="b-453e45797b9140f382f281a3ce5a4a00"><span style="font-size:15px">[</span></a></sup><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">，368人受伤其中</span></span><span style="font-size:15px">巴塔克兰剧院</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">的观众被恐怖分子挟持为人质，造成89人死亡。另外案发当时有7名袭击者拒捕并以炸弹自杀，法国政府随后继续开展追查帮凶的行动</span></span></p>
+</td>
+<td id="b-d1f49b5530374d80a4b26e625de4b6f2" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-2b122a6ca1044360a2d09667034c0646" style="text-align:start"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">3人到院后不治身亡，80-99人重伤，368人受伤</span></span></p>
+</td>
+<td id="b-fd7d8c406145448295b9cb3f89633109" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-adc09b6d8f844cdaab5fd3c9c6a1ea7b" style="text-align:start"><span style="font-size:15px">无</span></p>
+</td>
+<td id="b-d5e23028d2e84200abd2a90e86a9f225" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-62e4a26b95db4b45849967f5ca8c5aae" style="text-align:start"></p>
+</td>
+<td id="b-42dc9028e36f4e38ac13b10fe3796ee2" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-ceccc702765a4c0a9a34299c6d53def7" style="text-align:start"><span style="font-size:15px">AK-47突击步枪、手榴弹、自杀式背心</span></p>
+</td>
+<td id="b-8073ca881b1142c7a03b8b4c3c58f4bf" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-77f7658cc468456c888a915fb6d2e2a5" style="text-align:start"><img src="https://km.sankuai.com/api/file/cdn/1625309615/234768638547?&amp;isNewContent=false&amp;contentType=1" width="81" height="160" id="b-49c37adfa72c4458b656b5819cd279a1" alt="原文图片（需学城权限）"></p>
+</td>
+</tr>
+<tr id="b-af0d907ee9644bdd8cd04623e3b17e8f">
+<td id="b-d9470f96ab6a4c76a58f3d5b3da3ef95" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-f2b3cbd94cb8437591da645b859bf553" style="text-align:start"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">2015年11月18日</span></span></p>
+</td>
+<td id="b-159609155ce24695bfdb2ac680279eca" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-c833545b021b455d96dc2ec3a781ecb1" style="text-align:start"><span style="font-size:15px">波斯尼亚</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">首都</span></span><span style="font-size:15px">萨拉热窝</span></p>
+</td>
+<td id="b-a7b8d4ce18cd4a14b05d0104eec6708c">
+<p id="b-222227171b32400988c3832edb6c2b6c"><span style="font-size:15px">​</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">指2015年11月一宗发生在</span></span><span style="font-size:15px">波斯尼亚</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">首都</span></span><span style="font-size:15px">萨拉热窝</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">、造成多人死伤的</span></span><span style="font-size:15px">恐怖主义枪击</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">事件，由信奉</span></span><span style="font-size:15px">赛莱菲</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">运动的</span></span><span style="font-size:15px">伊斯兰极端主义</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">份子所为。</span></span></p>
+</td>
+<td id="b-d37569b96d54401dbb42a065a4b1a406">
+<p id="b-be0de4891f744182bbdc4c9c3af121b1" style="text-align:start"><span style="font-size:15px">无</span></p>
+</td>
+<td id="b-442cd41d642e4f3a843b367bf0940f84">
+<p id="b-98fe1d11418f46c9a19f7a7fd5ead34e" style="text-align:start"><span style="font-size:15px">无</span></p>
+</td>
+<td id="b-0465f0be380a4c5681e1ab22fca8bbcf" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-0b08856d0a7b42b88a0c75453fc82a92" style="text-align:start"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">埃内斯·奥梅拉吉克在萨拉热窝一座</span></span><span style="font-size:15px">军营</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">附近的</span></span><span style="font-size:15px">彩票销售店</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">以自动火器开枪</span></span></p>
+</td>
+<td id="b-8557219f320947bea46c2f2e01115333" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-2afaf5790ab643e59189d5c5c1415b87" style="text-align:start"></p>
+</td>
+<td id="b-c0291d4396794fe99ab100a8944ead25" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-0c573bc247714e59a373cc03b86fa6dc" style="text-align:start"><img src="https://km.sankuai.com/api/file/cdn/1625309615/234767803479?&amp;isNewContent=false&amp;contentType=1" width="934" height="446" id="b-2ee47f52c52340258a58e80406b0cf53" alt="原文图片（需学城权限）"></p>
+</td>
+</tr>
+<tr id="b-dbf4e93384be4661befe14d2329be70b">
+<td id="b-31280eb2794d4c7493cc734de71ba75e" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-afa4a33dfc6b4b73bb5c8dec7ec9610d" style="text-align:start"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">2015年11月20日</span></span></p>
+</td>
+<td id="b-c32aa2bf87a14c5f9a44cbab40981647" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-d066c6d4fb334cfd9039183c060bf1e6" style="text-align:start"><span style="font-size:15px">里巴马科丽笙酒店</span></p>
+</td>
+<td id="b-48bf66a81696482cbe178906d618c23b" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-59577b7cceae420aa2b41108d94bc232" style="text-align:start"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">2015年11月20日在</span></span><span style="font-size:15px">马里</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">首都及其最大城市</span></span><span style="font-size:15px">巴马科丽笙酒店</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">发生的袭击事件。在</span></span><span style="font-size:15px">特种部队</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">突击进入酒店并释放幸存的人质前，事件共导致19人死亡，大部分是外籍人士。隶属于</span></span><span style="font-size:15px">基地组织</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">的非洲极端团体</span></span><span style="font-size:15px">西非圣战统一运动</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">在其Twitter上宣称，此次袭击是他们所为，但尚未被证实</span></span></p>
+</td>
+<td id="b-5404dc37d5fe4f03be9f4247dae8209c" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-11faffa7da804e9cb54e172756fd93ac" style="text-align:start"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">19人死亡</span></span></p>
+</td>
+<td id="b-8e1b6beca50f47b893acfd01b901ac34" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-ef503db740b54e0ab86f567ac3fa07db" style="text-align:start"><span style="font-size:15px">无</span></p>
+</td>
+<td id="b-ac48def971a24acab1e195a56a416ecb" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-528d6c33b5f7414eadafd618271cd69b" style="text-align:start"><span style="font-size:15px">基地组织</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">的非洲极端团体</span></span><span style="font-size:15px">西非圣战统一运动</span></p>
+<p id="b-c014df466b0d430ebfbd2e5222cc1d76" style="text-align:start"><span style="font-size:15px">使用步枪、手榴弹</span></p>
+</td>
+<td id="b-a489e8854af74500930c7c8c81f832ed" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-a692a74662ef401bbe3b11a0bdd00930" style="text-align:start"></p>
+</td>
+<td id="b-a60ddb9f3c284e59b3c847fa68739e81" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-8202964bd0a1403ea0b718651bc15739" style="text-align:start"><img src="https://km.sankuai.com/api/file/cdn/1625309615/234768162806?&amp;isNewContent=false&amp;contentType=1" width="300" height="287" id="b-a1e2d03a22264c6cb29da776286a9228" alt="原文图片（需学城权限）"></p>
+</td>
+</tr>
+<tr id="b-c36a70ff991241f3a45f963f15173266">
+<td id="b-6e24e738f9a84d0ca57833cf01c8b8b2" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-9f676ccfc5c04aa6a9b15cac4ecf83b1" style="text-align:start"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">2015年12月2日</span></span></p>
+</td>
+<td id="b-1cb8617869a64129bce5d5256ae80edc" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-32dfe8171e784f79b3f8fa83e64d59e1" style="text-align:start"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">美国</span></span><span style="font-size:15px">加利福尼亚州内陆帝国</span></p>
+</td>
+<td id="b-147f4f61c0a046f38c498d414f76a9e0" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-a6ca5d231a11431390d526994cada1e1" style="text-align:start"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">2015年12月2日，美国</span></span><span style="font-size:15px">加利福尼亚州内陆帝国</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">（俗称</span></span><span style="font-size:15px">爱伊</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">）</span></span><span style="font-size:15px">圣贝纳迪诺</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">的内陆区域中心（Inland Regional Center）发生了一起枪击案，造成14人死亡、21人受伤。数小时后在案发地点附近两名枪手与警方驳火，枪战中该两人被击毙，两名警员受伤</span></span></p>
+</td>
+<td id="b-2fa80e2b5cff46a39e5a83e119c28155" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-3c3de4ef03264f1fba294b0307d4b431" style="text-align:start"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">造成14人死亡、21人受伤</span></span></p>
+</td>
+<td id="b-38f70bb03a6349c48dc3dfe920f8febd" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-85afa3d4bb7341c8aea5bb0f6a533f4a" style="text-align:start"><span style="font-size:15px">无</span></p>
+</td>
+<td id="b-9d130eac8d1b449a80fde15d1d2ca461" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-847ef4aea95849bfa042f6dbe09dfb67" style="text-align:start"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">赛义德·法鲁克（Syed Farook）和塔什芬·马利克（Tashfeen Malik）</span></span></p>
+</td>
+<td id="b-943b718b18564195863ffb5afc7779bf" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-9022e07f924a4330b4f0563ebc2f88da" style="text-align:start"></p>
+</td>
+<td id="b-77fa39d0ab3c46b3b40e614da9dfdff9" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-0b176600e813457bb11258084c90e8c1" style="text-align:start"><img src="https://km.sankuai.com/api/file/cdn/1625309615/234769443407?&amp;isNewContent=false&amp;contentType=1" width="116" height="107" id="b-32f3308b7bf74ed5a619eb5cc78aabbd" alt="原文图片（需学城权限）"></p>
+</td>
+</tr>
+<tr id="b-6e78e1e9ab7d4bddbc1b7a03320d3547">
+<td id="b-ef87d6f2c54a4ca4b435289fdfc8646b" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-d6b8493d1afa45c1a9472d33b99357a8" style="text-align:start"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">2016年1月11日</span></span></p>
+</td>
+<td id="b-e133b64336444dfca15ee3cf23074f7c" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-ade1854fa66c48ec95a73e33c7b63dda" style="text-align:start"><span style="font-size:15px">伊拉克巴格达</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">、</span></span><span style="font-size:15px">米格达迪耶</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">及</span></span><span style="font-size:15px">奈赫赖万</span></p>
+</td>
+<td id="b-aa709c89801e4a8bb44fd4ea73c26cec" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-437e19ea4138476182bd076385aac731" style="text-align:start"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">是指2016年1月11日发生在</span></span><span style="font-size:15px">伊拉克巴格达</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">、</span></span><span style="font-size:15px">米格达迪耶</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">及</span></span><span style="font-size:15px">奈赫赖万</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">的一连串</span></span><span style="font-size:15px">恐怖主义</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">袭击事件，由恐怖组织</span></span><span style="font-size:15px">伊斯兰国</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">发动，袭击形式包括</span></span><span style="font-size:15px">枪杀</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">路人、挟持</span></span><span style="font-size:15px">人质</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">、</span></span><span style="font-size:15px">自杀攻击</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">及</span></span><span style="font-size:15px">炸弹</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">袭击。</span></span></p>
+</td>
+<td id="b-0adc8ac5080e44faac267aa74dae88ac" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-849fadefc43f41c18c60c6ae1556f59f" style="text-align:start"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">共造成30人死亡、40人受伤</span></span></p>
+</td>
+<td id="b-4c5f76b8fbd0449091fdc76c4107f472" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-2ff11644ed6644a7a384b92da0480221" style="text-align:start"><span style="font-size:15px">无</span></p>
+</td>
+<td id="b-5861b256656c4930a92b53556af95c54" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-e678e73b01cb4ce8802ebaa5f5a90054" style="text-align:start"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">恐怖组织伊斯兰国为部分袭击承认责任，使用</span></span><span style="font-size:15px">汽车炸弹</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">爆炸，枪杀</span></span></p>
+</td>
+<td id="b-b8aa9e1c1f2b4be5964915ec156d6d7c" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-07b5d6a6dc164035a64a740b2d36de2e" style="text-align:start"></p>
+</td>
+<td id="b-d5dd8180f6c7425287cefa86a755f9ad" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-9a44c867c57749459975563db4481d38" style="text-align:start"><img src="https://km.sankuai.com/api/file/cdn/1625309615/234769025283?&amp;isNewContent=false&amp;contentType=1" width="198" height="109" id="b-a2c688a436084c0a800ad89fb72dbcd0" alt="原文图片（需学城权限）"></p>
+</td>
+</tr>
+<tr id="b-3d1722bf680d48bbb356f7aba5de49e6">
+<td id="b-6106539997d84a27bccd7615651da9c7" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-d0a49962c4424a2492f0535915b1733b" style="text-align:start"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">2016年1月12日</span></span></p>
+</td>
+<td id="b-f4378895c99548ae823b6a3410ee9b6f" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-98ad860194c3441c950dc0d9b902fe24" style="text-align:start"><span style="font-size:15px">苏丹艾哈迈德</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">地区</span></span></p>
+</td>
+<td id="b-f481b59732294ec4a31f82039a79b7c6" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-06ef0cf6dc1545f8bbceb919ad03845f" style="text-align:start"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">土耳其伊斯坦布尔著名的</span></span><span style="font-size:15px">苏丹艾哈迈德</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">地区发生一起自杀式袭击，造成13人死亡，死者全部是外国人，另有14人受伤。袭击发生在当地时间10:20，靠近受游客欢迎的观光地</span></span><span style="font-size:15px">苏丹艾哈迈德清真寺</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">。袭击者名叫纳比尔·法迪（阿拉伯语：نبيل فضلي‎），一名来自</span></span><span style="font-size:15px">叙利亚</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">的</span></span><span style="font-size:15px">伊斯兰国</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">成员</span></span></p>
+</td>
+<td id="b-8059b76f2bc4408c9ad5eaef9e01e2f0" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-cec1a08790a24043adfeea1085743b50" style="text-align:start"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">造成13人死亡</span></span></p>
+<p id="b-6e35a0e0c11c4576890e0eb26d0f4db4" style="text-align:start"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">另有14人受伤</span></span></p>
+</td>
+<td id="b-cfe8fcca1ef64453b54fef47b10bd6fd" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-6e3ea901a46649f6a01b5e9c76ae6a81" style="text-align:start"><span style="font-size:15px">无</span></p>
+</td>
+<td id="b-b99d7de391ec458f87806269289be75a" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-24a8643b8ab64fb4be0e2be6f3074469" style="text-align:start"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">袭击者名叫纳比尔·法迪（阿拉伯语：نبيل فضلي‎），一名来自</span></span><span style="font-size:15px">叙利亚</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">的</span></span><span style="font-size:15px">伊斯兰国</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">成员</span></span></p>
+</td>
+<td id="b-2d63b9652f3744c1aa43db478fc8aa87" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-a8053e385d7e4455a9afe618cd772142" style="text-align:start"></p>
+</td>
+<td id="b-1db4191158aa45b9949d64f341d9831d" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-13b222a9d3324624834c05b65d5b1c7a" style="text-align:start"><img src="https://km.sankuai.com/api/file/cdn/1625309615/234767924325?&amp;isNewContent=false&amp;contentType=1" width="198" height="145" id="b-fc7a213f16984c6a91bc01c973f263b2" alt="原文图片（需学城权限）"></p>
+</td>
+</tr>
+<tr id="b-a7ac442c039b41928867370ef82405ba">
+<td id="b-13f953890f6143038ef007680bdfb7eb" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-5ec00eb652f24a78909f8fa69d4453fb" style="text-align:start"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">2016年1月20日</span></span></p>
+</td>
+<td id="b-c13e2ed5c2ea441b8e6fdef86195dcbf" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-e2ff3d5d56cd4d47bcf902880c511377" style="text-align:start"><span style="font-size:15px">巴基斯坦查尔萨达帕夏汗大学</span></p>
+</td>
+<td id="b-854e659c3bdf439d8ad347c8a15e817e" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-7cda60cfb21b48fba0271ae9e4468d63" style="text-align:start"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">2016年1月20日发生在</span></span><span style="font-size:15px">巴基斯坦查尔萨达帕夏汗大学</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">发生的袭击事件。事件共造成至少22人死亡、超过20人受伤。</span></span><span style="font-size:15px">巴基斯坦塔利班运动</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">称对此袭击负责，但后来其发言人否认负责此次袭击，并予以谴责</span></span></p>
+</td>
+<td id="b-56caa5e4b226494eb6fe1066b139d124" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-6a3abc4a53584465950ec2878de259d5" style="text-align:start"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">至少22人死亡、超过20人受伤</span></span></p>
+</td>
+<td id="b-f77480de7a2c4151962e40e441453fdd" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-762a6b2e0773402fba33460f070f0b2f" style="text-align:start"><span style="font-size:15px">无</span></p>
+</td>
+<td id="b-4068dc5a6b5b411fa066b7e4de654c1f" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-1fa1d5d91e40436eb561889900e52143" style="text-align:start"><span style="font-size:15px">基斯坦塔利班运动</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">称对此袭击负责</span></span></p>
+</td>
+<td id="b-e39d24cefa614bb688531f8947aeed2d" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-717b3c00caa34903b98ff12d02ad481b" style="text-align:start"></p>
+</td>
+<td id="b-d7ad50b822fe47459a4569567a2e6c59" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-0ef15735375e4b069c4a62a113b9d73b" style="text-align:start"><img src="https://km.sankuai.com/api/file/cdn/1625309615/234769326748?&amp;isNewContent=false&amp;contentType=1" width="94" height="91" id="b-8238478b63b34eda83221651f729bed9" alt="原文图片（需学城权限）"></p>
+</td>
+</tr>
+<tr id="b-aefdd96034594030966a6ce38bf09ce6">
+<td id="b-c26850258c9d4a08971a6cb5111d7002" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-cacedf5fcc2a47b396febd372827a855" style="text-align:start"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">2016年2月17日</span></span></p>
+</td>
+<td id="b-82696a0834c54dd298ed2881674c7ecd" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-f3717cef31d04fe1bceab608b7f111cf" style="text-align:start"><span style="font-size:15px">土耳其</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">首都</span></span><span style="font-size:15px">安卡拉</span></p>
+</td>
+<td id="b-fdca14c4536e4739bb3b1fe21a23b1bc" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-393be2a509094be0bfecc2017bee038b" style="text-align:start"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">发生于2016年2月17日，在</span></span><span style="font-size:15px">土耳其</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">首都</span></span><span style="font-size:15px">安卡拉</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">的爆炸案，已知爆炸至少造成28人死（其中包括22名土耳其空军飞行员）61人伤，。土耳其军方称，受攻击的目标是由</span></span><span style="font-size:15px">军车</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">所组成的车队。当地媒体引用政府官员的说法称，军方车队中当时有一辆载有军官的</span></span><span style="font-size:15px">巴士</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">。该巴士正行经</span></span><span style="font-size:15px">克孜拉伊广场</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">附近停等</span></span><span style="font-size:15px">红绿灯</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">，汽车炸弹即被引爆。由于当时为傍晚交通高峰时段，爆炸也波及附近数辆汽车随之起火燃烧。有分析认为这起袭击是俄罗斯对此前</span></span><span style="font-size:15px">土耳其击落俄军机</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">的报复</span></span></p>
+</td>
+<td id="b-cad8de0ac1cf4fb58a61e6daaad0c538" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-284a9c413e7a4ab682f3d09265483e37" style="text-align:start"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">成28人死（其中包括22名土耳其空军飞行员）61人伤</span></span></p>
+</td>
+<td id="b-5040444ff455492e8e56a4fc8b7dced3" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-b70433956bc342669279b32ee1645bf3" style="text-align:start"><span style="font-size:15px">无</span></p>
+</td>
+<td id="b-78845e62d3a147b6b4a8a558cd48cfe3" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-493c6c849c60425494402c373d6980c9" style="text-align:start"><span style="font-size:15px">有可能是俄罗斯  库尔德斯坦工人党 伊斯兰国 </span></p>
+</td>
+<td id="b-f7d5775d96ec40f683c90860c5907bf4" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-ff57fe8fce8c4b64915dd68fef9a2f8b" style="text-align:start"></p>
+</td>
+<td id="b-b6b9bc985afd4d91b7d748d593f25877" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-da1ee1774d8a4e1cbf3e845f919346ec" style="text-align:start"><img src="https://km.sankuai.com/api/file/cdn/1625309615/234767144868?&amp;isNewContent=false&amp;contentType=1" width="198" height="120" id="b-cb4050705d4346059b568880837b5a66" alt="原文图片（需学城权限）"></p>
+</td>
+</tr>
+<tr id="b-ad0b00fd123e457b9464107ceee2fd96">
+<td id="b-7ba5f5ceae8f483e8bbf56fada045f7b" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-fab229f408a846c887071af856fa4b24" style="text-align:start"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">2016年2月21日</span></span></p>
+</td>
+<td id="b-3f86aeb6b34a486593c3f7ffa225cb50" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-483f66de000e43e88dcc9e94814f47a0" style="text-align:start"><span style="font-size:15px">利亚大马士革赛达宰纳卜</span></p>
+</td>
+<td id="b-c5064c6873fe416393edcdb564bab229" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-cb170df3c93a41ec86074f5a4d9d102e" style="text-align:start"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">是指2016年2月发生在</span></span><span style="font-size:15px">叙利亚大马士革赛达宰纳卜</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">的连环</span></span><span style="font-size:15px">恐怖主义</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">袭击事件，共造成83人死亡、59人受伤，由恐怖组织</span></span><span style="font-size:15px">伊斯兰国</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">发动。</span></span></p>
+</td>
+<td id="b-345ddd38e7cb43229e4cf60f8a0c33ea" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-0320321ff52e47a5a906a13124def4ef" style="text-align:start"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">共造成83人死亡、59人受伤</span></span></p>
+</td>
+<td id="b-5dcbe7485bd440cea263c63cd6c5ea6b" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-ed3fc43d2f0942d0a6c78e17b86ed19a" style="text-align:start"><span style="font-size:15px">无</span></p>
+</td>
+<td id="b-c5c5e7a4c4ff454ba463b47b850bb609" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-fecda50b97c3408daf7b8172a13d4174" style="text-align:start"><span style="font-size:15px">伊斯兰国</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">发动</span></span></p>
+</td>
+<td id="b-27e8f0224ff64bb19c7073b115aed821" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-26f7d47b2f534eeea62b1f10b165e323" style="text-align:start"></p>
+</td>
+<td id="b-6325a9649dd24f9a94c6f0a9498dd603" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-dc0e6018fa49493998e4732ee5763a69" style="text-align:start"><img src="https://km.sankuai.com/api/file/cdn/1625309615/234765708241?&amp;isNewContent=false&amp;contentType=1" width="198" height="108" id="b-625753f101d2488199fe51e5aa3e7047" alt="原文图片（需学城权限）"></p>
+</td>
+</tr>
+<tr id="b-4fd67e7403ef40f7be34c363e794d7ff">
+<td id="b-8113bab1f4b64b37a1e922fd0a561b2c" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-00f02e101e7f403fbbca996804a557b3" style="text-align:start"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">2016年3月22日</span></span></p>
+</td>
+<td id="b-99376a9a27f841169a921b884350d8e2" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-4734cdabcc7d43fe93815a35bebfb68e" style="text-align:start"><span style="font-size:15px">比利时</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">首都</span></span><span style="font-size:15px">布鲁塞尔</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">及周边地区</span></span></p>
+</td>
+<td id="b-ab1f9271492d4d6ba201468de2aa23a5" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-954944b6fefc4c8db08db08d28981849" style="text-align:start"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">2016年3月22日在</span></span><span style="font-size:15px">比利时</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">首都</span></span><span style="font-size:15px">布鲁塞尔</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">及周边地区发生的连环爆炸</span></span><span style="font-size:15px">恐怖袭击</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">事件，</span></span><span style="font-size:15px">伊斯兰国</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">在事发后宣布对此事负责。</span></span></p>
+</td>
+<td id="b-a0a1286a95b04fabb287b4bafcedeb36" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-604c6e2439a34b2fa5bb596c4b891398" style="text-align:start"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">共造成32名受害者死亡，此外3名自杀炸弹客亦在爆炸中死亡，至少340人受伤</span></span></p>
+</td>
+<td id="b-498fa0738207426dba64e01f41046ded" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-5b3a7c9aba52472f81d596b78f1aecae" style="text-align:start"><span style="font-size:15px">无</span></p>
+</td>
+<td id="b-24ac86f11f644630b915985745a02981" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-925dd8cbcbae4741a5ba681f942eb562" style="text-align:start"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">这次连环爆炸案是比利时历史上最严重的恐怖袭击。政府随后宣布哀悼三天。警方公布的嫌疑人画面，左一为拉奇拉乌伊，左二为易卜拉欣·埃尔－巴克拉伊，此二人在自杀袭击中身亡；另一位嫌疑人穆罕默德·阿布里尼承认自己是画面右侧戴帽子的男子</span></span></p>
+</td>
+<td id="b-0708bba5e5c54edba4b3d3705e392e28" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-4eb63cc0332c4e54abee68edfa98b9e1" style="text-align:start"></p>
+</td>
+<td id="b-43daa96429004d3ea48959ed73602a66" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-ee7c41c8447541a19269540c0329d6e0" style="text-align:start"><img src="https://km.sankuai.com/api/file/cdn/1625309615/234767724080?&amp;isNewContent=false&amp;contentType=1" width="198" height="131" id="b-88fba989926443629b1d95e051b559d4" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1625309615/234769326658?&amp;isNewContent=false&amp;contentType=1" width="198" height="105" id="b-1a31a27fc33342569a365f135aab643a" alt="原文图片（需学城权限）"></p>
+</td>
+</tr>
+<tr id="b-9bf40cab72714a7c928de04afb18b69a">
+<td id="b-7c60cf8b45fe4e2aa6d60e4787941d2c" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-b2ef122dfd09445fb671e3691cb1082a" style="text-align:start"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">2016年3月25日</span></span></p>
+</td>
+<td id="b-cd25636f5f5a450ab4d8c2da72f0450a" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-f1f585f5e8ec4c8ea5cf991cfa75c3d0" style="text-align:start"><span style="font-size:15px">伊拉克巴比伦省伊斯坎德里耶</span></p>
+</td>
+<td id="b-b53aadf640744a5aab11968d8f50981a" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-7b85ba5c8a3b408ebec5347a4619481c" style="text-align:start"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">2016年3月25日在</span></span><span style="font-size:15px">伊拉克巴比伦省伊斯坎德里耶</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">发生的炸弹袭击事件，事件已造成41人死亡，105人受伤。极端组织</span></span><span style="font-size:15px">伊斯兰国</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">宣称策划并实施了这次袭击，这也是该组织继</span></span><span style="font-size:15px">布鲁塞尔连环爆炸案</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">之后，三天内发动的第二起袭击事件。</span></span></p>
+</td>
+<td id="b-e709a0a5a3f548e8ae77f3c212903054" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-5f640e1988664a3dbde2baca963a70ef" style="text-align:start"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">事件已造成41人死亡，105人受伤</span></span></p>
+</td>
+<td id="b-d39d6474245847189d3944b7dd2fda2f" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-5c8303a4cda54e308732788abacd095c" style="text-align:start"><span style="font-size:15px">无</span></p>
+</td>
+<td id="b-ca1899d5e46a4e4f90ba75b94ba9ffec" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-6dbbb153b3ff4a25b6a8668e3898d8ee" style="text-align:start"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">极端组织</span></span><span style="font-size:15px">伊斯兰国</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">宣称策划并实施了这次袭击</span></span></p>
+</td>
+<td id="b-2f7d5832a88a4686843abf564d0dc56e" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-70504606dd904acd859d859930dfc541" style="text-align:start"></p>
+</td>
+<td id="b-8c3a5c34609e499d979be2679d03c9ca" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-14f0873bcdb245aab4325a7d9b159217" style="text-align:start"><img src="https://km.sankuai.com/api/file/cdn/1625309615/234767924210?&amp;isNewContent=false&amp;contentType=1" width="107" height="136" id="b-4879323c54924627ab3fd256e7e7fdd6" alt="原文图片（需学城权限）"></p>
+</td>
+</tr>
+<tr id="b-cd49c8b9f44d499291a2d5884bc88289">
+<td id="b-2d1a8cb45531425ca082c090e56f4e90" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-1fba9f610cfe42e2bd51cca1ed70b5c0" style="text-align:start"><span style="color: "><span style="font-size:15px">2017年1月1日</span></span></p>
+</td>
+<td id="b-9239215efda949e781d4699a7398c0b5" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-71f3ed3624364179a73558464c616087" style="text-align:start"><span style="color: "><span style="font-size:15px">土耳其伊斯坦布尔市</span></span></p>
+</td>
+<td id="b-9b0e83bb83644a98b977d3a6ed48f97d" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-130ef8276e21407384d0699599acf1ff" style="text-align:start"><span style="font-size:15px">1·1伊斯坦布尔恐怖袭击事件是指当地时间2017年1月1日凌晨1时30分左右，土耳其伊斯坦布尔市一家夜总会遭遇恐怖袭击，2名身着圣诞老人服装的枪手进入夜总会，向人群射击，造成39人死亡，69人受伤。</span></p>
+</td>
+<td id="b-30bc369872954d05ade2a9b4df2d1061" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-ec9379159a8e4315be0e3ccd35e80104" style="text-align:start"><span style="color: "><span style="font-size:15px">39人死亡，69人受伤</span></span></p>
+</td>
+<td id="b-09de1e47151549d0bd91cfb5eb633bf1" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-0537f9ce165e46df834daadfef046282" style="text-align:start"><span style="font-size:15px">否</span></p>
+</td>
+<td id="b-0f8c66dfbf8a42b18831796d6ca2f798" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-4393a2c83bb74491b2ca8743d88b6d16" style="text-align:start"><span style="font-size:15px">独狼行动</span><br><span style="color: "><span style="font-size:15px">阿卜杜勒·卡迪尔·马沙里波夫”（Abdulkadir Masharipov）</span></span></p>
+</td>
+<td id="b-dfee8e02dfd7416699c13e98901e136e" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-c399cdc0f7514111a82ced0c832cbdbd" style="text-align:start"><span style="font-size:15px">当地时间2017年1月1日，土耳其伊斯坦布尔，一家夜总会凌晨发生枪击事件。袭击者手持AK47冲进夜总会扫射。 [3] </span></p>
+<p id="b-4db6767128534b2f9b76d260184d7c4d" style="text-align:start"><span style="font-size:15px">事发时，两名枪手身着圣诞老人服装进入夜总会。事发时有五六百人在这家夜总会里参加迎接新年活动。袭击者手持AK47冲进夜总会扫射，现场安全人士透露，枪手开枪打死安保人员，闯入夜总会并在扫射过程中数次更换弹匣。夜总会位于海峡边，当地媒体报道一些顾客试图为逃离现场而跳入海中.</span></p>
+</td>
+<td id="b-e58d14a38869465fab6fef5e7d0d7b3c" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-b89ca626aef4414e885566e561c6ed55" style="text-align:start"><img src="https://km.sankuai.com/api/file/cdn/1625309615/234768678699?&amp;isNewContent=false&amp;contentType=1" width="218" height="123" id="b-f46370d06c3b4d8fa2b79cc13f834263" alt="原文图片（需学城权限）"></p>
+</td>
+</tr>
+<tr id="b-d48beba995e84acfbd2c45b88a7566c7">
+<td id="b-7f6dd9778bb44b4c89117750999f4e6b" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-d37ed4b3fbaa45ce94d407cd221a989d" style="text-align:start"><span style="color: "><span style="font-size:15px">2017年1月9日</span></span></p>
+</td>
+<td id="b-e7f0dd590b90477b8fa8769286d2be97" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-bace74034d16423fa395ea6fbc00b200" style="text-align:start"><span style="color: "><span style="font-size:15px">巴基斯坦西南部俾路支省首府奎达</span></span></p>
+</td>
+<td id="b-27d9f6a57d1343f3ba01587e8e189a04" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-3a53577fb8494681a15c2b93e45b1cb5" style="text-align:start"><span style="font-size:15px">2017年1月9日，巴基斯坦西南部俾路支省首府奎达发生一起针对警察的炸弹袭击事件，造成包括袭击者在内的至少7人死亡，另有28人受伤</span></p>
+</td>
+<td id="b-cd04c0290668474f85e753e965550617" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-40cf5ee08e8b4246a8e69caa11bac881" style="text-align:start"><br><span style="color: "><span style="font-size:15px">7人死亡（含袭击者），28人受伤</span></span></p>
+</td>
+<td id="b-2ab5b43a910c49aa93594f5885a847cd" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-cef608adde98448a8652d558c4c5b686" style="text-align:start"><span style="font-size:15px">否</span></p>
+</td>
+<td id="b-77f92ebc0280400986d913f0031faed4" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-48e8144705e94687a66a0ab94f526401" style="text-align:start"><span style="font-size:15px">巴基斯坦塔利班</span></p>
+</td>
+<td id="b-f1192008ccc74dacab13229ad857abb6" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-7d4cf234f2a24a889e5a43212ddb5f09" style="text-align:start"><span style="color: "><span style="font-size:15px">2017年1月9日晚，一名袭击者驾驶摩托车冲撞正在议会附近执勤的警车，随后发生爆炸。议会内当时正在召开会议。据分析，袭击者可能原本企图进入议会发动袭击，但由于附近部署的警力较多，袭击者改变了袭击目标。</span></span></p>
+</td>
+<td id="b-d0dc81265ee942e8b0e2715159531dd1" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-452eeec5e5334b7b8f4813a7491bf788" style="text-align:start"></p>
+</td>
+</tr>
+<tr id="b-5cd867f0a59c453d93474d440473bf0b">
+<td id="b-0634c9684ae3414ba3ea7bc165db3570" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-60e5dfd5316b419b88950db8cbb89525" style="text-align:start"><br><span style="color: "><span style="font-size:15px">2017年6月4日</span></span></p>
+</td>
+<td id="b-7dda52ece5184d169de8f7f13fcb3a96" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-d882ed5071724c0a81a1ea0601c2bf3a" style="text-align:start"><br><span style="color: "><span style="font-size:15px">伦敦桥附近</span></span></p>
+</td>
+<td id="b-efeb9aa8ca8e44fa9d684dda27a8ec0d" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-265d7d937a0f42f485ccfbd0df542d39" style="text-align:start"><span style="color: "><span style="font-size:15px">6·4伦敦恐怖袭击事件是2017年6月4日在伦敦桥附近发生的事件。</span></span></p>
+</td>
+<td id="b-553978652ef248a2aaed7d69bcfc3a2d" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-5ec3dad933514365b16caebe4f356bf7" style="text-align:start"><span style="font-size:15px">未知</span></p>
+</td>
+<td id="b-cb1c7a52daf44893a0a9d9c8c181d5af" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-3e2fafed3f724a8897a2c84c934ceba5" style="text-align:start"><span style="font-size:15px">否</span></p>
+</td>
+<td id="b-3d15071c8b3f4673abce54e54d269068" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-73947996a8a04804bca095b157e2b4b1" style="text-align:start"><span style="font-size:15px">伊斯兰国</span></p>
+</td>
+<td id="b-33da477b5f8c440184fd1b0014af24fd" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-d4fc7f9c87e24da69925c92dfb0f0658" style="text-align:start"><span style="color: "><span style="font-size:15px">2017年6月4日，伦敦桥附近再次传出巨大爆炸声，爆炸强度是半小时前传出的三起爆炸声的四五倍。伦敦警方已经证实，近45分钟内发生的一系列爆炸为“受控爆破”。</span></span></p>
+</td>
+<td id="b-7f849581d6a741b4a4dd41ddb17237c6" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-03bfe7de42564f4da33494bc32681141" style="text-align:start"><img src="https://km.sankuai.com/api/file/cdn/1625309615/234765549779?&amp;isNewContent=false&amp;contentType=1" width="218" height="146" id="b-61f5b3289f0f415d86989d36356b0423" alt="原文图片（需学城权限）"></p>
+</td>
+</tr>
+<tr id="b-81b11c3b87454a419fd6c004e4b6945b">
+<td id="b-db1b0ab2b33c43b8b5d7636086c34e46" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-d30a5b838eab4723bd3c9c2fcffef2f7" style="text-align:start"><br><span style="color: "><span style="font-size:15px">2018年1月4日</span></span></p>
+</td>
+<td id="b-22b821bfe4734e888782a9cbb5034fbb" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-69315e1726b74105bd32e87f7593be22" style="text-align:start"><span style="color: "><span style="font-size:15px">阿富汗喀布尔</span></span></p>
+</td>
+<td id="b-81c0b869a5f04ff681f76470c6eae20c" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-dd07f38030e142d19eab18ff605f9725" style="text-align:start"><span style="color: "><span style="font-size:15px">2018年1月4日，阿富汗首都喀布尔发生自杀式爆炸袭击，造成至少11人死亡、25人受伤。还没有组织或个人宣称对这起袭击事件负责。</span></span></p>
+</td>
+<td id="b-360175208a8246a0adb787a9483dd81a" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-a1a44910b0444bbeb171f89cda485d4d" style="text-align:start"><br><span style="color: "><span style="font-size:15px">11人死亡、25人受伤</span></span></p>
+</td>
+<td id="b-5692dccdaf754d80ba4d7205ae56692c" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-fcf9100563ee42759cbacbbc62215278" style="text-align:start"><span style="font-size:15px">否</span></p>
+</td>
+<td id="b-a06a23f7b4614bc1a73c4a28ca86600c" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-876028eb223048faaa9f8c653c23f34a" style="text-align:start"><span style="color: "><span style="font-size:15px">未知</span></span></p>
+</td>
+<td id="b-125d62eb5e1548d4b69f43835587b628" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-02a6d13335f047ce982deadf48b1dc63" style="text-align:start"><span style="color: "><span style="font-size:15px">2018年1月4日，阿富汗首都喀布尔发生自杀式爆炸袭击。爆炸发生在当晚20时45分左右，地点位于喀布尔第九警区。事发当天稍早时，警方查封了一家贩卖大麻及酒精的商店，涉事店家纠集一些人与警方对抗。一名袭击者突然闯入人群并引爆炸弹背心，造成平民和防暴警察死伤。爆炸还造成周边店铺、车辆受损。</span></span></p>
+</td>
+<td id="b-3e6c300243644e7a8407c77f7c75f23f" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-55586a54d9e04a64be07d44baf1121b9" style="text-align:start"><img src="https://km.sankuai.com/api/file/cdn/1625309615/234769208608?&amp;isNewContent=false&amp;contentType=1" width="218" height="159" id="b-9ed90730117d4c6b8a6daa0afe2d8ae3" alt="原文图片（需学城权限）"></p>
+</td>
+</tr>
+<tr id="b-f8204821ce4542d8a07eee08ddfa75e0">
+<td id="b-cd00f8bfd9ab425aac26e27a54dd89f8" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-68882b409e9245a08e63b43617ea6438" style="text-align:start"><br><span style="color: "><span style="font-size:15px">2018年2月3日</span></span></p>
+</td>
+<td id="b-d5733c0f2ff84a44af22d4736b1019e8" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-a65eb8825aca49b083d85ade722c079f" style="text-align:start"><span style="color: "><span style="font-size:15px">巴基斯坦西北部斯瓦特</span></span></p>
+</td>
+<td id="b-f2bf978c616845ba87de7fdf65d2d092" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-434a63aada62433d9753bb43f2969f38" style="text-align:start"><span style="color: "><span style="font-size:15px">2018年2月3日，巴基斯坦西北部斯瓦特地区一处军营当天遭自杀式炸弹袭击。</span></span></p>
+</td>
+<td id="b-6eace664dbe84a7abbe2663e5ef96f16" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-9d2a1de41d734f0c915c73099ba7b2eb" style="text-align:start"><span style="color: "><span style="font-size:15px">11人死亡，13人受伤</span></span></p>
+</td>
+<td id="b-c62ea677aff04854a25ae3d0dece512a" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-7e8f512e5cb2487aa59d8530414bcc5d" style="text-align:start"><span style="font-size:15px">否</span></p>
+</td>
+<td id="b-6e577f5d10974c71a2683c84d3b0e907" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-84fcd539dd1142a1b94f1d4ec33fc930" style="text-align:start"><span style="font-size:15px">巴基斯坦塔利班</span></p>
+</td>
+<td id="b-df3320a0f41a4a5098733e9b92ead2e0" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-46d0ffaf5db044cda07b844db48e6fa1" style="text-align:start"><span style="color: "><span style="font-size:15px">2018年2月3日，巴基斯坦西北部</span></span><a href="https://baike.baidu.com/item/%E6%96%AF%E7%93%A6%E7%89%B9" title="斯瓦特" id="b-75c2242c5a2c43fba9c159439f18c278"><span style="font-size:15px">斯瓦特</span></a><span style="color: "><span style="font-size:15px">地区一处军营当天遭自杀式炸弹袭击，造成11名军人死亡，另有13人受伤。由于部分伤者伤势严重，死亡人数有可能进一步上升。</span></span></p>
+</td>
+<td id="b-e68974638e084ee697bd568829764cf2" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-ba2477b2f9a64cb89cff0b81516a5151" style="text-align:start"><img src="https://km.sankuai.com/api/file/cdn/1625309615/234768638432?&amp;isNewContent=false&amp;contentType=1" width="218" height="146" id="b-311c2e512eef4eae8770c864748c068a" alt="原文图片（需学城权限）"></p>
+</td>
+</tr>
+<tr id="b-478da58e1fae4ed0bd270c2ccdd9f34f">
+<td id="b-9f9aa6fd2b2c4bf987dcee694d734142" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-6f4e260093f24484a4811e6a4bda297a" style="text-align:start"><br><span style="color: "><span style="font-size:15px">2018年3月23日上午</span></span></p>
+</td>
+<td id="b-5349355d2c42488d9015ca146171e89d" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-f13ad39a91314988849fc33f331b86ed" style="text-align:start"><span style="color: "><span style="font-size:15px">法国卡尔卡松市和特雷布镇</span></span></p>
+</td>
+<td id="b-253e1edca9024fd2a7e1b6daab630396" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-94a203129e7846efabc68a371dd3ce60" style="text-align:start"><span style="color: "><span style="font-size:15px">2018年3月23日上午，一名持有武器的恐怖分子在法国南部奥德省的卡尔卡松市和特雷布镇制造恐怖袭击，导致3人丧生，16人受伤。两名与袭击者亲近的人当日被逮捕。</span></span><span style="font-size:15px"><sup> </sup></span><span style="color: "><span style="font-size:15px">极端组织“伊斯兰国”宣称制造了这起袭击。</span></span></p>
+</td>
+<td id="b-699788162818464790a0b16b6d3f26c6" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-144941e0f6ba487daea590bc2e50af6c" style="text-align:start"><span style="color: "><span style="font-size:15px">4人丧生，16人受伤</span></span></p>
+</td>
+<td id="b-542c08a4217a4d26bdd5abf813db2147" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-12e3f1c4d150448595c4a511064119b6" style="text-align:start"><span style="font-size:15px">否</span></p>
+</td>
+<td id="b-8d88255f67fd40768b38df23cbc7fbe3" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-dc30f71c0946484fae12da10b3be6b00" style="text-align:start"><span style="font-size:15px">伊斯兰国</span><img src="https://km.sankuai.com/api/file/cdn/1625309615/234767528475?&amp;isNewContent=false&amp;contentType=1" width="143" height="108" id="b-3925b7423c2844eea495db8c4e313514" alt="原文图片（需学城权限）"></p>
+</td>
+<td id="b-fd57eae3abab4c44a80c26460f83953e" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-97015adaac3e4a7aab85e91304b29713" style="text-align:start"><span style="color: "><span style="font-size:15px">2018年3月23日上午，一名持械男子先在奥德省的卡尔卡松市抢劫一辆汽车，并开枪射杀车内一名乘客、重伤驾车司机，随后驾车驶往卡尔卡松附近的特雷布镇，途中向4名警察射击，打伤一名警察。此后他逃进特雷布一家超市试图劫持人质，并在超市内杀死两人</span></span><span style="font-size:15px"><sup> </sup></span><span style="color: "><span style="font-size:15px">，又劫持数人、躲在超市内。在警方交涉下，袭击者留下一名女性、释放其他人质。44岁的警官阿诺·贝尔特拉姆提出，与那名女性人质互换。互换后，贝尔特拉姆设法保持手机通话状态，让外面的同事听到超市内情况。听到枪声后，警方进入超市，击毙袭击者。贝尔特拉姆受重伤，被送去医院抢救。</span></span></p>
+</td>
+<td id="b-b766439e8e454882a3faaa83e46da42d" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-4970e3d4c5904cd1b56ad77aad8f47a4" style="text-align:start"><img src="https://km.sankuai.com/api/file/cdn/1625309615/234767144681?&amp;isNewContent=false&amp;contentType=1" width="218" height="145" id="b-d80792b156e5490a9c97944a4db0fcff" alt="原文图片（需学城权限）"></p>
+</td>
+</tr>
+<tr id="b-3f51d8e2e03d45359299cd2001854cdf">
+<td id="b-bf064b4fefdc4473b3f5ec8c7b1cb9fc" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-e96ec9531c71416287c429409ffc0f6d" style="text-align:start"><span style="font-size:15px">2019年8月7日</span></p>
+</td>
+<td id="b-1dfe4bdc81f946dc888d6a3e6c3fa3b3" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-e59885db177d440c94371d7ef3018399" style="text-align:start"><span style="font-size:15px">阿富汗首都喀布尔</span></p>
+</td>
+<td id="b-0e22c6e4e168424eb05a212ccf89efe5" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-7752d746b8ae4e879305b91c44a3c291" style="text-align:start"><span style="font-size:15px">2019年8月7日上午，在阿富汗首都喀布尔发生一起爆炸事件。</span></p>
+<p id="b-1dd52e7e3eb44dbcaca14468caff13ea" style="text-align:start"><span style="font-size:15px">截至2019年8月7日，该事件已造成95人受伤。 8月18日，该事件至少63人死亡，182人受伤。</span></p>
+</td>
+<td id="b-d3aab396343643868ca28f25fa0755a6" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-2b082f8c69b44ee495e7aa88a6fc475c" style="text-align:start"><span style="font-size:15px">该事件已造成95人受伤。 8月18日，该事件至少63人死亡，182人受伤</span></p>
+</td>
+<td id="b-7c49d0b8234a401b895778558308ec73" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-50635ac2faf944d1a2d41254d6680e47" style="text-align:start"><span style="font-size:15px">否</span></p>
+</td>
+<td id="b-0865e1f47ef146e3ad1357a578026740" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-e8be75ea8e69452d8cb331b993047491" style="text-align:start"><span style="color: "><span style="font-size:15px">端组织“伊斯兰国”（IS）宣布负责</span></span></p>
+<p id="b-85d3435561844020a113f89ce682ba0a" style="text-align:start"><span style="color: "><span style="font-size:15px">自杀式炸弹袭击</span></span></p>
+</td>
+<td id="b-434c3aad74a142478e87790c5249fe57" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-07d36d24647746f4b9cafa740fdbb093" style="text-align:start"></p>
+</td>
+<td id="b-c7ba0bc434974ec5b61ae5d9c5ed9063" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-3dc1c12a9bcc4fbc96d48ade932a3bd0" style="text-align:start"><img src="https://km.sankuai.com/api/file/cdn/1625309615/234764752565?&amp;isNewContent=false&amp;contentType=1" width="88" height="151" id="b-66e0f8b8b33f49368b0fcb439e211043" alt="原文图片（需学城权限）"></p>
+</td>
+</tr>
+<tr id="b-975928fb522a4593860cc6c83ff785c8">
+<td id="b-b82812f775294842846e13c5779c00ca" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-16154ca3e615462dbabcc827e786653c" style="text-align:start"><span style="color: "><span style="font-size:15px">2019年10月3日</span></span></p>
+</td>
+<td id="b-4f38f31e44314fad95f99a3826f02c7e" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-65c0c3c943d64a6680d42951f29b4524" style="text-align:start"><span style="font-size:15px">巴黎警察局总部</span></p>
+</td>
+<td id="b-f33e4bea60ea4bce8210153b3b3e61dc" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-c46a2cf7114648a2993a6130271dbd63" style="text-align:start"><span style="color: "><span style="font-size:15px">2019年10月3日，巴黎警察局总部发生持刀袭击案，一名持刀男子在警局内袭击多名警员后被击毙。</span></span></p>
+</td>
+<td id="b-44261e552a03405793d2919cb51b6056" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-7365e3c601b340b2b809204ba91cd822" style="text-align:start"><span style="color: "><span style="font-size:15px">至少4名警局工作人员遭袭死亡，5人受伤。</span></span></p>
+</td>
+<td id="b-573e87f704df4b8e8b3f4b15527caa66" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-5a66ad97d3d3414092d3b9444ca61d86" style="text-align:start"><span style="font-size:15px">否</span></p>
+</td>
+<td id="b-dbd10530f1904b4f91ec92221e8ffb11" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-b1a15dd106fb4b79b1a03b0164bafab1" style="text-align:start"><span style="color: "><span style="font-size:15px">袭击者是一名45岁男子，于2003年进入巴黎警察局总部工作</span></span></p>
+</td>
+<td id="b-e372daf866c34339829f0d8685ef8b83" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-b1475208c2134eb19bd2e4c7191d0361" style="text-align:start"></p>
+</td>
+<td id="b-8d83fbf540474135a433775c3736084c" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-6c3d8137ae44465bb1cb5a7c82414e71" style="text-align:start"><img src="https://km.sankuai.com/api/file/cdn/1625309615/234766664001?&amp;isNewContent=false&amp;contentType=1" width="286" height="196" id="b-4cf434f052674aa190adf819897c8836" alt="原文图片（需学城权限）"></p>
+</td>
+</tr>
+<tr id="b-5da3f9c3c2124bc3b0af2414fd242ca2">
+<td id="b-df9ffe4e56ad4415b2fd1abc215ab8d1" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-d5005a07b91442878a98a7b084afafc2" style="text-align:start"><span style="font-size:15px">2019年11月10日</span></p>
+</td>
+<td id="b-c262f8b25530426f8ca57428943c6e10" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-a5629d7682fa45a28734fd41d329aaec" style="text-align:start"><span style="font-size:15px">叙利亚北部靠近土耳其的边境地区</span></p>
+</td>
+<td id="b-e13a06dbd9984215870d9f1be19cedcd" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-e92c630d578847f485c6e58e1d0efcd0" style="text-align:start"><span style="font-size:15px">2019年11月10日，叙利亚北部靠近土耳其的边境地区发生一起汽车爆炸袭击事件。</span></p>
+<p id="b-2eb5e786a1384396a205c3186d33ef57" style="text-align:start"><span style="font-size:15px">截至2019年11月10日，该爆炸袭击造成5人死亡、17人受伤</span></p>
+</td>
+<td id="b-3d9b63ebd3dc4751a0e4e5b311d7b4c4" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-89a8e43f6d234fdb9e2f5c2e87e2585f" style="text-align:start"><span style="font-size:15px">5人死亡、17人受伤</span></p>
+</td>
+<td id="b-35970463c48f4f8c8c4137dafa732ee1" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-9fd9595e29a64c6aac2fd46d401fe721" style="text-align:start"><span style="font-size:15px">否</span></p>
+</td>
+<td id="b-a0c16701ca8d4f98b007f6fca22b3b36" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-6b73b1b3be9246b2bed4ea269a5022a3" style="text-align:start"><span style="color: "><span style="font-size:15px">一辆装有大量炸药的汽车在苏鲁克村的主街上被引爆。</span></span></p>
+</td>
+<td id="b-f55183db671b4faaa09d8052bd5c4fe8" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-5a28899f75aa4a54b5148473eb1e041b" style="text-align:start"></p>
+</td>
+<td id="b-4ecad45206254d489aacb483e4458b42" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-00de11377a4f435fb6dc3e72949b44f0" style="text-align:start"><img src="https://km.sankuai.com/api/file/cdn/1625309615/234764912863?&amp;isNewContent=false&amp;contentType=1" width="292" height="287" id="b-71ef1085e860491d8e5318143b3c3b3a" alt="原文图片（需学城权限）"></p>
+</td>
+</tr>
+<tr id="b-fe653edbb464475d8f696efb5ceac6a5">
+<td id="b-d6a0c9b1f1f444f9ba4f9fdc8d4f9a8e" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-a5ae705e5349484b9f1c0848321c325e" style="text-align:start"><span style="font-size:15px">2020年8月8日</span></p>
+</td>
+<td id="b-e1e5eb48d2b342c3b7a66069041b80dd" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-c2b7ace8e4844558a868873c49420bb7" style="text-align:start"><span style="font-size:15px">索马里首都</span></p>
+</td>
+<td id="b-a629f2f5df1e43ee8422e2fef3d51556" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-05bb1ae369b5412a9d6bf16a51300a0b" style="text-align:start"><span style="font-size:15px">索马里当地时间2020年8月8日，一名自杀式炸弹袭击者驾车来到索马里首都的一处军事基地，在该基地门口引爆了炸弹。</span></p>
+<p id="b-7dadf833768a442bbf9f48e95fb6ac6b" style="text-align:start"><span style="font-size:15px">截至2020年8月8日，该事件造成至少8人死亡，14人受伤。</span></p>
+</td>
+<td id="b-5be64906c6b1420b8388e813f5f5070b" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-3fd2082e58ef46abb2a6cf2ac28e29eb" style="text-align:start"><span style="font-size:15px">少8人死亡，14人受伤</span></p>
+</td>
+<td id="b-b0774da8d68549bba2e1318e1f1f1b47" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-f7e8ba8443a74280bf27135a5e667e37" style="text-align:start"><span style="font-size:15px">否</span></p>
+</td>
+<td id="b-38d07dd9fdb74b7399d1135902b325dd" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-baec04c4e69c45dbb5b392b035b9a094" style="text-align:start"><span style="font-size:15px">索马里青年党</span><span style="color: "><span style="font-size:15px">宣称对该次事件负责，一名自杀式炸弹袭击者驾车来到索马里首都的一处军事基地</span></span></p>
+</td>
+<td id="b-7399917d4fc949e08b3f7a7a25dda0c5" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-e6a80c8049214c74a59673cde6ab472f" style="text-align:start"></p>
+</td>
+<td id="b-8b1013135c124cfe9d3f0e1eec104a3c" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-e261aa4b0f564e768f933cff5271f9f8" style="text-align:start"><img src="https://km.sankuai.com/api/file/cdn/1625309615/234769102080?&amp;isNewContent=false&amp;contentType=1" width="284" height="239" id="b-bb670f69f4a948839df8d2ecba1e8722" alt="原文图片（需学城权限）"></p>
+</td>
+</tr>
+<tr id="b-ab4bdde7b0fe49cd9f3fb16721aee5a9">
+<td id="b-a4456ff99836460e83e8efba83255ce4" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-79d64cc51ee24f2c93a49a2d62b845ed" style="text-align:start"><span style="color: "><span style="font-size:15px">2020年8月24日1</span></span></p>
+</td>
+<td id="b-0db97042bbdc47b789ec23ca8c09264d" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-535a91581f9c4ca28c5ff9f8f1ddc930" style="text-align:start"><span style="color: "><span style="font-size:15px">在</span></span><span style="font-size:15px">菲律宾</span><span style="color: "><span style="font-size:15px">南部苏禄省霍洛市霍洛镇</span></span></p>
+</td>
+<td id="b-62dc8efd08074094844bed51f3802941" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-7146b434dc0a4f56a4b8cecaa0ba3404" style="text-align:start"><span style="color: "><span style="font-size:15px">菲律宾当地时间2020年8月24日11时53分左右和2020年8月24日13时，在</span></span><span style="font-size:15px">菲律宾</span><span style="color: "><span style="font-size:15px">南部苏禄省霍洛市霍洛镇（ Jolo）发生两起连环爆炸事件。</span></span></p>
+</td>
+<td id="b-b075f9bd0da1496fbeefa91d83ad5f94" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-24a72127188048da871ae7d45855ea81" style="text-align:start"><span style="color: "><span style="font-size:15px">15人死亡、75人受伤</span></span></p>
+</td>
+<td id="b-d50fbb6acc29469f8d79b6cdba6f3e52" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-8532558ce1c14c5093858313cadac488" style="text-align:start"><span style="font-size:15px">否</span></p>
+</td>
+<td id="b-9bb50d488efe4a71b25b58273a9e82e6" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-e2238a3532e442b4802e9845c4b01d18" style="text-align:start"><span style="color: "><span style="font-size:15px">军方高度怀疑该次爆炸的策划者是一名叫作蒙迪·萨瓦德加安（Mundi Sawadjaan）的恐怖分子</span></span></p>
+</td>
+<td id="b-c4f46b40e4d24bd0bc5bdacb31bbde53" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-5717f641050c4e83b75bf88a538e177c" style="text-align:start"></p>
+</td>
+<td id="b-701da29f8d4d4f9ebb5fbfdc3b26dbe2" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-849b065a5a5c4c65aaa56f476690e58c" style="text-align:start"><img src="https://km.sankuai.com/api/file/cdn/1625309615/234765070485?&amp;isNewContent=false&amp;contentType=1" width="240" height="130" id="b-148977f8d9374f34b76a933ac6c9bc73" alt="原文图片（需学城权限）"></p>
+</td>
+</tr>
+<tr id="b-4fcb215a13dd4e62a9c4847e2a033cc9">
+<td id="b-9b6b9f24c8964f5385b7968e82b2b540" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-06bd8fee76474986b11412dd602a5b3a" style="text-align:start"><span style="color: "><span style="font-size:15px">2020年11月21日</span></span></p>
+</td>
+<td id="b-cb6da52c1f8045c58bdef26336c65443" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-0c2bb71368aa439c9faeb1bdc061aad9" style="text-align:start"><span style="color: "><span style="font-size:15px">喀布尔爆炸袭击事件</span></span></p>
+</td>
+<td id="b-28e778745c16433cbf2e48e01578c094" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-194ca5b14f8743778ef9d1b4ff1f5c38" style="text-align:start"><span style="color: "><span style="font-size:15px">2020年11月21日上午，阿富汗首都喀布尔发生多起爆炸袭击，已造成9人死亡、34人受伤。</span></span></p>
+</td>
+<td id="b-9dd5bbf3a3f64b45a798f02692180bfa" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-808d57638a3b4c2798f490db03325ff1" style="text-align:start"><span style="color: "><span style="font-size:15px">造成9人死亡、34人受伤。</span></span></p>
+</td>
+<td id="b-a64c6eb53aab44238e4330c8921e7b37" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-2f6e9f5d389f4e9880ee6755a98a6d13" style="text-align:start"><span style="font-size:15px">否</span></p>
+</td>
+<td id="b-4b179dd52c194a48b5f902e183361ba2" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-8714f5f2eb8549688d17f9a7335fed72" style="text-align:start"><span style="color: "><span style="font-size:15px">伊斯兰国”在社交媒体上宣布发动了火箭弹袭击</span></span></p>
+</td>
+<td id="b-5664692f74564d64ae338248ff852da8" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-a8c909c9cb0a46b3bd4cf4498460dc6e" style="text-align:start"></p>
+</td>
+<td id="b-da87eabfd6fd4e13b5f42272681c4aea" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-c68ee5ea27b946d1b6d8f10dcccca493" style="text-align:start"></p>
+</td>
+</tr>
+<tr id="b-80411acbd82f41b6bc5c7632897c5906">
+<td id="b-03079b63dae74261b078d80064f95d85" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-c2e21acd16054f7591985701bc8ca3cd" style="text-align:start"><span style="color: "><span style="font-size:15px">2021年1月21日</span></span></p>
+</td>
+<td id="b-9e7b4d7bc0404d35bdb19b9e24b58171" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-7a3549cabbb34590b09b3d824b7b5d05" style="text-align:start"><span style="color: "><span style="font-size:15px">伊拉克巴格达</span></span></p>
+</td>
+<td id="b-c0822b992c7649b29b85644ba7617e11" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-9fdca3873dde4ce8bd3d2f30f4c6e03a" style="text-align:start"><span style="color: "><span style="font-size:15px">伊拉克当地时间2021年1月21日上午，</span></span><span style="font-size:15px">伊拉克</span><span style="color: "><span style="font-size:15px">首都</span></span><span style="font-size:15px">巴格达</span><span style="color: "><span style="font-size:15px">的航空广场附近发生自杀式爆炸袭击</span></span></p>
+</td>
+<td id="b-25d5b88faa9b454192cbed1e61323914" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-dd0666d33e924292ad7dddbeef7a53aa" style="text-align:start"><span style="color: "><span style="font-size:15px">造成32人死亡、110人受伤</span></span></p>
+</td>
+<td id="b-02a0fda07396420bbbb90a42e9d1bafc" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-fb7f49d6aba045a98e316bc04888bbd6" style="text-align:start"><span style="font-size:15px">无</span></p>
+</td>
+<td id="b-4cf17520435444cc80e62c2f0eb1b355" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-dad92dcbf8374a969132ba79b3d07bd0" style="text-align:start"><span style="font-size:15px">伊斯兰国</span></p>
+</td>
+<td id="b-4aa68ac1a1334d8a992c8feb4981cc16" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-a531a77c28a34db7b842a3ad45a46a93" style="text-align:start"><span style="font-size:15px">自杀式爆炸袭击</span></p>
+</td>
+<td id="b-bf0e725110fa4c26b58ff19a5b5deee1" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-395169f89ddb4fdbbb6defd098b8a838" style="text-align:start"><img src="https://km.sankuai.com/api/file/cdn/1625309615/234767803358?&amp;isNewContent=false&amp;contentType=1" width="144" height="124" id="b-79707e281eda413aae5a41061be600b6" alt="原文图片（需学城权限）"></p>
+</td>
+</tr>
+<tr id="b-f73ad7a10b584cbab0fa635961f00c3c">
+<td id="b-5f4a60c39a4a48c8a9618598a2e61faf" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-580cbb1db583401291ffe5788e514994" style="text-align:start"><span style="color: "><span style="font-size:15px">2021年4月16日</span></span></p>
+</td>
+<td id="b-093193e1a0ab417aa16d9f8fbc0b84eb" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-0fa5beabcda74191bd4a1e4e267b39f2" style="text-align:start"><span style="color: "><span style="font-size:15px">阿富汗赫拉特省一检查站</span></span></p>
+</td>
+<td id="b-705ce973827e448d8df5866c1d7d878d" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-42d4a73b91d5483dba854f41ad8c50cf" style="text-align:start"><span style="color: "><span style="font-size:15px">021年4月16日，阿富汗赫拉特省一检查站遭塔利班武装汽车炸弹袭击</span></span></p>
+</td>
+<td id="b-8402a286c01d46cd88818896a7c31cad" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-4c8dbf63db0c46688dd7c2a684fa3f49" style="text-align:start"><span style="font-size:15px">造成</span><span style="color: "><span style="font-size:15px">3名警察死亡</span></span></p>
+</td>
+<td id="b-636a2d08b2014410ab939094005d46a5" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-bc4d2e3c18e5494aa58fc6df6fde5107" style="text-align:start"><span style="font-size:15px">无</span></p>
+</td>
+<td id="b-065227236a89452daefc9160892d419d" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-bb7669038ade49a38ed555400bc69d9e" style="text-align:start"><span style="font-size:15px">塔利班</span></p>
+</td>
+<td id="b-d79b2fcefd9044e380c20b8fbb6642fe" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-9294d13b67744e45a13fce5e0fb90d54" style="text-align:start"><span style="font-size:15px">汽车炸弹</span></p>
+</td>
+<td id="b-73867766f1b14e6ab92ca7549b72570f" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-514a4d1cfa2249a1884302bdc59b5f83" style="text-align:start"><img src="https://km.sankuai.com/api/file/cdn/1625309615/234769208607?&amp;isNewContent=false&amp;contentType=1" width="142" height="110" id="b-c3530d4934b74a689eb00a9fc5a53528" alt="原文图片（需学城权限）"></p>
+</td>
+</tr>
+<tr id="b-024ebe3600ce462685cf09d28cd27255">
+<td id="b-ff360728f58142d7937b1ad390cb8cca" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-81ba07dae2314c2b8ef1405d8fa7725a" style="text-align:start"><span style="color: "><span style="font-size:15px">2021年4月23日</span></span></p>
+</td>
+<td id="b-f403f09eb71b4c1a8ede8ded40fcff57" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-438722e899214563a796320ce4fe283a" style="text-align:start"><span style="color: "><span style="font-size:15px">法国巴黎西南的</span></span><span style="font-size:15px">朗布依埃</span></p>
+<p id="b-8a19af844f014e1193a3081778e974d0"><span style="font-size:15px">​</span></p>
+<p id="b-7d7acf1bed4e4449a1c21c134d48dd49"><span style="font-size:15px">​</span></p>
+</td>
+<td id="b-cb819a8227b445a4a7580269d90c619d" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-e6c02ee3ac174d85980a06b0926481b2" style="text-align:start"><span style="color: "><span style="font-size:15px">法国当地时间2021年4月23日下午，法国巴黎西南的</span></span><span style="font-size:15px">朗布依埃</span><span style="color: "><span style="font-size:15px">发生一起持刀袭警事件</span></span></p>
+</td>
+<td id="b-3b542ab263c04de0a3c9f5f492c6ee2b" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-1e9a7a13fb7f4521a7b9b7d82a43d16d" style="text-align:start"><span style="color: "><span style="font-size:15px">造成2人死亡</span></span></p>
+</td>
+<td id="b-82b8b81b6ea14957af0349ccf8a10556" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-4ed602097df84a1b8635844aaba89568" style="text-align:start"><span style="font-size:15px">无</span></p>
+</td>
+<td id="b-0cf0cc8e0c034ab1b161add60496fb7f" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-b3179970f131458f8cc557bebd357285" style="text-align:start"><span style="font-size:15px">独狼行动</span></p>
+</td>
+<td id="b-b772760eabc44deeba7e66dc3980a88a" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-0b0336f3b45a458a984d73a1571102db" style="text-align:start"><span style="color: "><span style="font-size:15px">持刀袭警</span></span></p>
+</td>
+<td id="b-cd6f6a5cfdc5478ca799b922168dba9d" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-af29d6180d0c45368173b88746fc4ea0" style="text-align:start"></p>
+</td>
+</tr>
+<tr id="b-9f7ef818df8f4dd58d748e55e00a5a13">
+<td id="b-92f61c13bb3f4fcfbaf259166ee03fb5" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-3cbe8a9385074c05b0055ed668bf6719" style="text-align:start"><span style="font-size:15px">2021年</span><span style="color: "><span style="font-size:15px">8月20日</span></span></p>
+</td>
+<td id="b-cd0e1aacec6245758ab163667c23a407" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-2853c86162274311aee69652cadbe7b3" style="text-align:start"><span style="color: "><span style="font-size:15px">俾路支省瓜达尔地区</span></span></p>
+</td>
+<td id="b-c1ab462ca4d644f5bd9039ad8a471485" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-03ef533326944949b6ad1ecff6b76ba8" style="text-align:start"><span style="color: "><span style="font-size:15px">8月20日，据巴基斯坦当地媒体报道，至少有2名当地儿童在俾路支省瓜达尔地区针对载有中国公民的车队的“自杀式袭击”中丧生</span></span></p>
+</td>
+<td id="b-6dbee336ceaa459d80560be579d0f9d3" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-d5c8889e375a4e1eaf9ea7a285b31b7b" style="text-align:start"><span style="font-size:15px">造成2人死亡、一人受伤</span></p>
+</td>
+<td id="b-0b5d288877ad4eb39f4839079b62defb" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-9630fdf27b694351a9cf9eaa5182cb7e" style="text-align:start"><span style="font-size:15px">有，一名中国公民受伤</span></p>
+</td>
+<td id="b-e79fdc2622c14d029d46b4ed7c4a51cb" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-2fa0984184524cdb801798a24b89d5ab" style="text-align:start"><span style="color: "><span style="font-size:15px">俾路支解放军</span></span></p>
+</td>
+<td id="b-dc7cc14115b9425696ebbce18a440f36" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-86065b3fc63444f5b4aa032c728ea1c2" style="text-align:start"><span style="color: "><span style="font-size:15px">自杀式炸弹袭击</span></span></p>
+</td>
+<td id="b-9af40e72df044fdf9a28c6db9e142122" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-678f3d88c3704b34bc017c00634a4f09" style="text-align:start"><img src="https://km.sankuai.com/api/file/cdn/1625309615/234766027946?&amp;isNewContent=false&amp;contentType=1" width="117" height="80" id="b-c98ae69608a54eff94d982aa57afa7e9" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1625309615/234769102079?&amp;isNewContent=false&amp;contentType=1" width="64" height="79" id="b-5e2de6f5bc2a46378b12113ac0ae55f5" alt="原文图片（需学城权限）"></p>
+</td>
+</tr>
+<tr id="b-6a70ccb605f542a894043ac42a1e3d39">
+<td id="b-7959aefa5a3e4501bd20a84551aa2d58" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-1e6f19a5ef004c499dc7a351ccf62819" style="text-align:start"><span style="color: "><span style="font-size:15px">2021年10月14日</span></span></p>
+</td>
+<td id="b-d86642bed5144bbfb56c525010d1164f" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-c2b4dd3df2224ef0881596b4264f9d28" style="text-align:start"><span style="color: "><span style="font-size:15px">阿富汗东部库纳尔省首府阿萨达巴德</span></span></p>
+</td>
+<td id="b-8ada6236d5924523a238381602711d7d" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-0dd07f2436264ef2af4ddc0b526297b8" style="text-align:start"><span style="color: "><span style="font-size:15px">塔利班人员的一辆汽车在阿萨达巴德市一座桥附近遭爆炸袭击</span></span></p>
+</td>
+<td id="b-34388f4022854b988c406bfd8c8793c0" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-9dd97069e94f4abf916fbc29ae68a970" style="text-align:start"><span style="color: "><span style="font-size:15px">造成1人死亡、11人受伤</span></span></p>
+</td>
+<td id="b-631e57add20e41a7aa50adcd44c5bd5a">
+<p id="b-b2c096fd523d48f0b728d545658df09b"><span style="font-size:15px">​无</span></p>
+</td>
+<td id="b-29d8cedec4f54e15b4be3221979f9267" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-a1d47fda49804cccb3ef6cc407bc1c42" style="text-align:start"><span style="font-size:15px">伊斯兰国呼罗珊分支</span></p>
+</td>
+<td id="b-b111c8e9a1754ab8b49c5bdbf39e6218">
+<p id="b-cbf3d4c000264c8ea71ef72c52dc29bb" style="text-align:start"><span style="font-size:15px">自制炸弹</span></p>
+</td>
+<td id="b-171a1066ae9a41fb88db945d77143563" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-5111012a1c91432e8ccc32ac1516f536" style="text-align:start"><img src="https://km.sankuai.com/api/file/cdn/1625309615/234768241202?&amp;isNewContent=false&amp;contentType=1" width="88" height="68" id="b-2572069f64a84c758953b13d7d00fdec" alt="原文图片（需学城权限）"></p>
+</td>
+</tr>
+<tr id="b-fc97ae0771ce429c8950b58c170476a9">
+<td id="b-efe16392ec214730ba696cea51aaf79f" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-abfb2f7329b54a26b1f73cfafe87581e" style="text-align:start"><span style="color: "><span style="font-size:15px">2022年4月14日</span></span></p>
+</td>
+<td id="b-75aa372c33eb496686ff26ebc879557b" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-33b4c03a2b454218bd2bd4b5a97291e2" style="text-align:start"><span style="font-size:15px">巴基斯坦</span><span style="color: "><span style="font-size:15px">西北部北瓦济里斯坦地区</span></span></p>
+</td>
+<td id="b-77077be165f546018347654f4587b0fb" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-c26d9cdc9ab045babba346e77d26023f" style="text-align:start"><span style="color: "><span style="font-size:15px">事发地点靠近巴基斯坦和阿富汗边境。恐怖分子对车队发动袭击后，巴军士兵立即予以回击</span></span></p>
+</td>
+<td id="b-6b3f7c60b97748cbac9c1e65c3063178" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-ec825849806c4cb7a0828a681daafc69" style="text-align:start"><span style="font-size:15px">造成7人死亡</span></p>
+</td>
+<td id="b-0d4e0ba7aa2d45b8856d81276205b110" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-18a4dd3405fe471c86cbd4baeef5773e" style="text-align:start"><span style="font-size:15px">无</span></p>
+</td>
+<td id="b-9ab41ab914454ec0bbf3b7a791c99715" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-40722ea7f00e428a9a34992a46b1ca3e" style="text-align:start"><span style="font-size:15px">恐怖分子</span></p>
+</td>
+<td id="b-2c8a9d534b3b4e329ec96fb9c644e422" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-596ad1b9b6034feb9c60a0c89555b310" style="text-align:start"><span style="font-size:15px">对军队车队发动袭击</span></p>
+</td>
+<td id="b-43c61a9db1ee47ddb0fa1ed0418cff7b" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-fa5b3c4df23045ce8358ed0cbf7387fc" style="text-align:start"></p>
+</td>
+</tr>
+<tr id="b-a683ebd90a374422ae7dd08f2c1377f0">
+<td id="b-e022752042594dd99c74cd42c1a7f680" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-6f54255f726648d7977999905504cf60" style="text-align:start"><span style="font-size:15px">2022年4月15日</span></p>
+</td>
+<td id="b-3250005e000d4abeb43465893d9278cc" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-d47e415d2114416e9e707e4cf40a1677" style="text-align:start"><span style="font-size:15px">巴基斯坦</span><span style="color:rgb(77, 81, 86)"><span style="font-size:15px">西北部北瓦济里斯坦地区</span></span></p>
+</td>
+<td id="b-9afb3ce720b34370b987ad40082f4d89" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-244a98d3f3df4d67997392e999251c29" style="text-align:start"><span style="color: "><span style="font-size:15px">巴基斯坦军方2022年4月15日说，一军方车队14日在该国西北部北瓦济里斯坦地区遭恐怖分子袭击，造成7名士兵死亡。事发地点靠近巴基斯坦和阿富汗边境。恐怖分子对车队发动袭击后，巴军士兵立即予以回击，打死4名恐怖分子。在激烈交火中，7名士兵死亡。</span></span></p>
+</td>
+<td id="b-8e66f921896e47049bef7b82613d9a4e" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-067d177112824e5d8363c881d5d403c4" style="text-align:start"><span style="color:rgb(77, 81, 86)"><span style="font-size:15px">7名士兵死亡</span></span></p>
+</td>
+<td id="b-89dd318c18be43809488da884dcf1e37" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-507e5b5a003044669524a9fa1e0cb089" style="text-align:start"><span style="font-size:15px">否</span></p>
+</td>
+<td id="b-16918844bbda4782967585dad70ce576" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-61c69859dd2d41898a4e243b9bb1814f" style="text-align:start"></p>
+</td>
+<td id="b-766a3c261b4c45879f9062102d6e2fc1" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-2a426249bd1d40ffb3a202b6b8ed8e65" style="text-align:start"></p>
+</td>
+<td id="b-337439af2d7245a3905bca8b47cc9158" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-405af515a8534613b96472d2507f03de" style="text-align:start"></p>
+</td>
+</tr>
+<tr id="b-00c2208a073245c4b87562b59b6a82b0">
+<td id="b-9d363612fbf4465bbd5c7f9a691350c5" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-ac974e08b6a646249762473ad92c9460" style="text-align:start"><span style="color: "><span style="font-size:15px">2022年4月26日</span></span></p>
+</td>
+<td id="b-d10dcb39512143d396b76ab165c8bf10" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-dfcc6857113240b8a4aae14d114d3377" style="text-align:start"><span style="font-size:15px">巴基斯坦卡拉奇大学内</span></p>
+</td>
+<td id="b-d57333ca30a14133a21cf984daa5c820" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-c7f9cd8e5930470f919fa81ebdcaccd5" style="text-align:start"><span style="font-size:15px">4月26日14时30分，一位穿着波卡的女人站在卡拉奇大学孔子学院的入口。在一辆载着教职工的白色厢型车接近学校门口后，该女子引爆了身上的炸弹。据信德省警方的消息，共有4人在袭击中遇难。卡拉奇大学的发言人称，3名遇难者为中国公民，包括孔子学院院长黄桂平，巴基斯坦籍遇难者为面包车司机。</span></p>
+</td>
+<td id="b-2932610bf65e4a6183a599f14b14ac3e" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-6bd1a75628994515958d6ea37702ab54" style="text-align:start"><span style="font-size:15px">造成4人死亡</span></p>
+</td>
+<td id="b-a406eec635f84ca7a3c525234d960937" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-bc8c2c69d50d4637834f401c2818f5f6" style="text-align:start"><span style="font-size:15px">涉及3名中</span></p>
+<p id="b-52fd23e363e24233be9200e9f6445c00"><span style="font-size:15px">国人死亡</span></p>
+</td>
+<td id="b-520887040bd3450ea0710ff0d7733a43" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-67987089f4884d3c8342856dfffc0398" style="text-align:start"><span style="font-size:15px">俾路支解放军</span></p>
+</td>
+<td id="b-84e876376cec4b20be225d45a95eadf4" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-44808485ba2f4f41925765d40cccd937" style="text-align:start"><span style="font-size:15px">自杀式炸弹袭击</span></p>
+</td>
+<td id="b-300ee81b5e7b4f6f82c8375d9966e771" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<figure src="https://km.sankuai.com/api/file/cdn/1625309615/234768756569?isNewContent=false&amp;contentType=1" width="0" height="0" id="b-30aeb238067b4987a36ee26673529d3f"><figcaption>视频：巴基斯坦卡拉奇爆炸案彈所為‼️爆炸中3遇难者均为卡拉奇大学孔子学院中方工作人员。根据现视频，一名女子充当了「人体炸弹」俾路支解放军马吉德旅宣布对此事负责。充当人弹的女性名叫Shari Baloch‼️ [lSkTn8ssPOA].mp4（原始链接，可能需要学城权限）</figcaption><a href="https://km.sankuai.com/api/file/cdn/1625309615/234768756569?isNewContent=false&amp;contentType=1">在原文服务中查看</a></figure>
+<p id="b-e6e8801ebd3e49b487cbf86f2e25e189"></p>
+<p id="b-c9a2ad8fb4814c6c9600b2f0bcb503cc"></p>
+<p id="b-609013edaef444068cc5cfc93ce7e4fa"></p>
+<p id="b-1aa79693ffa44cf2bc07096445a6eb7e"></p>
+</td>
+</tr>
+<tr id="b-ae615a325be246e699c071622e32619e">
+<td id="b-078782534a12480798c9911d131d10db" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-d0838d02190a4882be172b4c7912557d" style="text-align:start"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">2001年9月11日</span></span></p>
+</td>
+<td id="b-12d51c77397f47bd927d7b89a86c19ec" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-a27581a8a4974963af429a445525f968" style="text-align:start"><span style="color: "><span style="font-size:15px">美国纽约世界贸易中心、</span></span><span style="font-size:15px">五角大楼、911事件</span></p>
+</td>
+<td id="b-b7188382e2c94872967f96f318fe09cf" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-3b1c83fc8172411b80335e078f248c15" style="text-align:start"><span style="color: "><span style="font-size:15px">是2001年9月11日发生在美国纽约世界贸易中心的一起系列</span></span><span style="font-size:15px">恐怖袭击</span><span style="color: "><span style="font-size:15px">事件</span></span></p>
+</td>
+<td id="b-21940419b7d943b683dd34d6b3dc04d9" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-f8077b4d43644590855996d6db92adf4" style="text-align:start"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">造成3000多人死亡或</span></span><span style="font-size:15px">失踪</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">，超过6000人受伤</span></span></p>
+</td>
+<td id="b-a00b7612c5e647bca54dfaeb96be3da3" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-5258842799c440ca8ac1bc0bb70e1162" style="text-align:start"><span style="font-size:15px">有、两人</span></p>
+<p id="b-2c7888bd99154c94ad8d3518f80fe835" style="text-align:start"><a href="https://www.bbc.com/zhongwen/simp/chinese_analysis/2011/09/110906_911_zengmama" title="https://www.bbc.com/zhongwen/simp/chinese_analysis/2011/09/110906_911_zengmama" id="b-a9a20bf6285c4aee80d88135452d4432"><span style="font-size:15px">https://www.bbc.com/zhongwen/simp/chinese_analysis/2011/09/110906_911_zengmama</span></a></p>
+</td>
+<td id="b-1d0c19099a214cd59a83e6b1a8a76e4d" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-7058e060d8c34c7fa1ea672b38d5385c" style="text-align:start"><span style="font-size:15px">基地组织</span></p>
+</td>
+<td id="b-4cd45c52a4764581a3fae29f97cbb589" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-67cc8e6624b3494da8d58dba079185cd" style="text-align:start"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">19名基地组织</span></span><span style="font-size:15px">恐怖分子劫持</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">4架</span></span><span style="font-size:15px">民航客机</span><span style="color: "><span style="font-size:15px">，</span></span><span style="font-size:15px">自杀式袭击</span></p>
+</td>
+<td id="b-fc9d9b34031e4955b321bf6d1ec26c9c" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-a41162857b834db9b71fafd97a8a02a8" style="text-align:start"><img src="https://km.sankuai.com/api/file/cdn/1625309615/234766505272?&amp;isNewContent=false&amp;contentType=1" width="156" height="265" id="b-fbf65041053c41c3939f6e86d40c45b6" alt="原文图片（需学城权限）"></p>
+</td>
+</tr>
+</table>
+</div>
+</details>
+</li>
+</ol>
+</td>
+<td id="b-599e3c7ce672401fb7ffbb8f34e1040c">
+<p id="b-ddd978f9466340608650f1d5adb03a6d"></p>
+</td>
+<td id="b-d8822295dc734c74a8ffe64c5f765967">
+<p id="b-dda5587ddcca42d4b087aab3a185e42b"></p>
+</td>
+<td id="b-4ce3d0365a7a4989b1f43b19c062a935">
+<p id="b-9035ba7e194742209fcc5dd87199f3b6"></p>
+</td>
+</tr>
+<tr id="b-c888586bf77a4f219dc76d941f876138">
+<td id="b-fd7c392dbc254018b556883714e96774">
+<p id="b-b97f33681b0448d4b61abaa8633666dd"></p>
+</td>
+<td rowspan="6" id="b-e55e883dfbef4373a7c8102ae3270c23" style="background-color:rgb(255, 219, 199)">
+<h2 id="b-86cc0f17fa354061b69ba3d247a8ee1b">恐怖主义识别及美化</h2>
+</td>
+<td id="b-4c61f08ff1dd4d3b9df10f8dd2bf6a95">
+<h3 id="b-9355787a4e8f4a78a26962814ba1caf8">洗白暴恐分子组织</h3>
+</td>
+<td id="b-c9265577a9c046c3b0b9c263cdeaf40e">
+<p id="b-83169cbbe43645118103837a19c5036a"><span style="color:#FF4A47"><span style="font-size:15px"><strong>打标</strong></span></span></p>
+<ol id="b-1220ed5fe1de4989871847762eddb9e6">
+<li id="b-16bbf3fddf984ba8b0137cdf6c7cf36f"><span style="font-size:15px">涉及中国认定的</span><span style="font-size:15px"><strong>恐怖组织</strong></span><span style="font-size:15px">、</span><span style="font-size:15px"><strong>恐怖分子</strong></span><span style="font-size:15px">的；（按照以下案例管控）</span></li>
+<li id="b-808c8df3f4094822a132281b878af4be"><span style="font-size:15px">涉及国际认定的</span><span style="font-size:15px"><strong>恐怖组织</strong></span><span style="font-size:15px">、</span><span style="font-size:15px"><strong>恐怖分子</strong></span><span style="font-size:15px">的；（按照以下案例管控）</span></li>
+<li id="b-25293f0844fa4ae6ba12bdf479290862"><span style="font-size:15px">引诱、强迫胁迫我国公民参与</span><span style="font-size:15px"><strong>恐怖组织</strong></span><span style="font-size:15px">的；</span></li>
+</ol>
+<details id="b-a0ca0a06046245e6a9ec3b740069ac4e">
+<summary><span style="font-size:15px">中国认定的</span><span style="font-size:15px"><strong>恐怖分子</strong></span><span style="font-size:15px">（不泛化）（适用于定义1）</span></summary>
+<div>
+<p id="b-10ce4d078035439895ddbf7a4abe5acc"><span style="font-size:15px"><span>艾山·买合苏木</span></span><span style="font-size:15px"> 、</span><span style="font-size:15px"><span>买买提明·艾孜来提</span></span><span style="font-size:15px"> 、</span><span style="font-size:15px"><span>多里坤·艾沙</span></span><span style="font-size:15px"> 、阿不都吉力力·卡拉卡西 、阿不都卡德尔·亚甫泉 、阿不都米吉提·买买提克里木 、阿不都拉·卡日阿吉 、阿不力米提·吐尔逊 、胡达拜尔地·阿西尔白克 、亚生·买买提 、阿塔汗·阿不都艾尼、</span><span style="font-size:15px"><span>买买提明·买买提</span></span><span style="font-size:15px"> 、</span><span style="font-size:15px"><span>艾买提·亚库甫</span></span><span style="font-size:15px"> 、</span><span style="font-size:15px"><span>买买提吐尔逊·依明</span></span><span style="font-size:15px"> 、</span><span style="font-size:15px"><span>买买提吐尔逊·阿布杜哈力克</span></span><span style="font-size:15px"> 、</span><span style="font-size:15px"><span>夏米斯丁艾合麦提·阿布都米吉提</span></span><span style="font-size:15px"> 、</span><span style="font-size:15px"><span>艾可米来·吾买尔江</span></span><span style="font-size:15px"> 、</span><span style="font-size:15px"><span>牙库甫·麦麦提</span></span><span style="font-size:15px"> 、</span><span style="font-size:15px"><span>吐尔孙·托合提、努尔麦麦提·麦麦提敏</span></span><span style="font-size:15px"> 、</span><span style="font-size:15px"><span>阿布都克尤木·库尔班</span></span><span style="font-size:15px"> 、</span><span style="font-size:15px"><span>帕如哈·吐尔逊</span></span><span style="font-size:15px">、</span><span style="font-size:15px"><span>吐送江·艾比布拉</span></span><span style="font-size:15px"> 、</span><span style="font-size:15px"><span>努尔麦麦提·热西提</span></span><span style="font-size:15px"> 、</span><span style="font-size:15px"><span>麦麦提依明·努尔麦麦提</span></span></p>
+</div>
+</details>
+<details id="b-d39af25e7e6c401fbd18157b34b4fddd">
+<summary><span style="font-size:15px">中国认定的</span><span style="font-size:15px"><strong>恐怖组织</strong></span>（不泛化）（适用于定义1、3）</summary>
+<div>
+<p id="b-911bc71a789c427ba459419fd5945afa"><span style="font-size:15px">东突厥斯坦伊斯兰运动、东伊运、东突厥斯坦解放组织、东突解放组织、世界维吾尔青年代表大会、国际维吾尔青年联盟、世界维吾尔青年联盟、世界东突青年代表大会、东突厥斯坦新闻信息中心、东土耳其斯坦信息中心、东突信息联络中心、东突信息中心、伊扎布特</span></p>
+</div>
+</details>
+<details id="b-7c6124e307ae4370b1e2f894fa6134a0">
+<summary><span style="font-size:15px">国际认定的</span><span style="font-size:15px"><strong>恐怖分子</strong></span>（不泛化）（适用于定义2）</summary>
+<div>
+<p id="b-c3bb6d7dbf1244deabdd1d587d5521c1"><span style="font-size:15px">奥萨马·本·拉登、艾曼·扎瓦希里、赛义夫·阿德尔、谢赫·马克布勒·奥拉克赛、阿扎姆·塔里克、伊克拉穆拉·穆罕默德、穆罕默德·阿弗里迪、穆罕默德·苏莱曼、西拉杰丁·艾哈迈德、阿布·巴希尔、艾哈迈德·马尔瓦特、阿卜杜勒·拉希德·拉什卡里</span></p>
+</div>
+</details>
+<details id="b-63413dee2d9e4e248e31e34043f7dbde">
+<summary><span style="font-size:15px">国际认定的</span><span style="font-size:15px"><strong>恐怖组织</strong></span>（不泛化）（适用于定义2、3）</summary>
+<div>
+<p id="b-6b323ff1b5e7497d95cf999c4d9287aa"><span style="font-size:15px">“基地”组织（卡伊达组织、阿尔盖达组织、盖达组织）、巴基斯坦塔利班运动、巴基斯坦塔利班、巴塔、胡塞武装、神权游击队、俾路支解放军、博科圣地</span><span style="color:#FF4A47"><span style="font-size:15px">、青年圣战者组织、征服沙姆阵线、乌兹别克伊斯兰运动、伊斯兰国（ISIS）、伊斯兰圣战联盟、印度圣战者、阿布沙耶夫</span></span></p>
+</div>
+</details>
+<p id="b-3ebf60af005d4e98af4d4f6cb0430d3f"><span style="color:#00BA73"><span style="font-size:15px"><strong>豁免</strong></span></span></p>
+<ol id="b-c8bccb1017fd44459ba063e8cdb56948">
+<li id="b-1392fb83504d44bf9179a3a2c1360d6b"><span style="font-size:15px">纯搞笑模仿</span><span style="font-size:15px"><strong>恐怖组织</strong></span><span style="font-size:15px">、</span><span style="font-size:15px"><strong>恐怖分子</strong></span><span style="font-size:15px">表情包的；</span></li>
+<li id="b-aeb521d6427841ee99bb235f745ad302"><span style="font-size:15px">有关</span><span style="font-size:15px"><strong>恐怖组织</strong></span><span style="font-size:15px">或</span><span style="font-size:15px"><strong>恐怖分子</strong></span><span style="font-size:15px">的合法正规出版物； </span></li>
+<li id="b-94d5fe3f3c614fcbab356bad6a352d75"><span style="font-size:15px">明确非暴恐组织内容；</span></li>
+<li id="b-69f28ee2e63c4c93a7055609f77da424"><span style="font-size:15px">涉对国际认定的恐怖组织、恐怖分子持否定批判态度，或观点为阐述恐怖组织、恐怖分子对社会造成伤害的内容；</span></li>
+</ol>
+</td>
+<td id="b-e21a7c4c0ced45af9118ceafa16ef786">
+<p id="b-eea177d1256a4891afcc217fc6402c9b"></p>
+</td>
+<td id="b-cbd31a514ec94ad191c9f3a5f64e154f">
+<ol id="b-b0d97bced45d46b48970eef083595ffd">
+<li id="b-517c7e884aba46888f3fcd7774df4abc">
+<p id="b-0c5e510edef34b55a6c87b7f621950c6">本<span style="font-size:15px"><span>·</span></span>拉登</p>
+<ul id="b-797fe86983ea41908ff460ec8e9c026c">
+<li id="b-f92cd95edec64103bd8541da280299f5"><img src="https://km.sankuai.com/api/file/cdn/1625309615/234766984199?&amp;isNewContent=false&amp;contentType=1" width="118" height="138" id="b-8bc22b00e48e492c8d008eef413a63c9" alt="原文图片（需学城权限）"></li>
+</ul>
+</li>
+</ol>
+</td>
+<td id="b-45bcb5e8474f40d3918833c0330f8ca0">
+<ol id="b-5258e41cc2cd414d962a25d3d055e719">
+<li id="b-23569c61ded142f3b842fde54784858c">
+<p id="b-638a858d2aed424f9d2a3c96bb40fd06">《本<span style="font-size:15px"><span>·</span></span>拉登传》合格正规出版物</p>
+<ul id="b-aa3f8479056e4c74ba8de9c0b312d828">
+<li id="b-f24b70bfeb4047e0944177233a23bb62"><img src="https://km.sankuai.com/api/file/cdn/1625309615/234769443317?&amp;isNewContent=false&amp;contentType=1" width="86" height="118" id="b-d125accea68d477093d3238f49d9e3d5" alt="原文图片（需学城权限）"></li>
+</ul>
+</li>
+<li id="b-e6a4762deeeb485cae1275bfad5ccac0">
+<p id="b-5ee73a318dbd47609e983b83e51a87f2">纯搞笑恐怖分子表情包</p>
+<ul id="b-09091b6a95294aa29fd4588ee4e872a5">
+<li id="b-061367a499924226836af333acca2fa0"><img src="https://km.sankuai.com/api/file/cdn/1625309615/234768401812?&amp;isNewContent=false&amp;contentType=1" width="90" height="104" id="b-3215af37cac04a72a65eece4e5e81849" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1625309615/234765549777?&amp;isNewContent=false&amp;contentType=1" width="113" height="105" id="b-079a4c837b8241dc9886aefd9b92ca4f" alt="原文图片（需学城权限）"></li>
+</ul>
+</li>
+</ol>
+</td>
+</tr>
+<tr id="b-5da54cc9eefc45d9a666a01b81b2308a">
+<td id="b-d37a15e04f734cbdb513ca3b19202cf4">
+<p id="b-41bf92d4bddd4102bd73c0382ad96800"></p>
+</td>
+<td id="b-4d97d8efb0dd431a80ab444c9ae2f287">
+<h3 id="b-6a8f7848d1744a85b552d1f9a8173973">洗白暴恐事件</h3>
+</td>
+<td id="b-8e73326cf1b5423c90941901e7e29805">
+<p id="b-971ba364866d4d7aa357a9fd225db924"><span style="color:#FF4A47"><span style="font-size:15px"><strong>打标</strong></span></span></p>
+<ol id="b-0a8872c03b0548c1b55445a405933bdd">
+<li id="b-8462bc0058ad4c3f96f87cbf72589290">
+<p id="b-ab7930d5835a4eeeabf16d356dfb84b4"><span style="font-size:15px">涉及洗白、赞扬</span><span style="font-size:15px"><strong>国内暴恐事件</strong></span><span style="font-size:15px">与</span><span style="font-size:15px"><strong>国外暴恐事件</strong></span><span style="font-size:15px">本身的；（按照以下案例管控）</span></p>
+<details id="b-8b0f341e5ade4319b566efe1146bf3c4">
+<summary><span style="font-size:15px"><strong>国内暴恐事件</strong></span><span style="font-size:15px">（不泛化）</span></summary>
+<div>
+<table id="b-ecde434643b742e7b96476a80a4ec9da">
+<tr id="b-db4135984cbe41e28c80b669766395cb">
+<th id="b-96a16b77aa36460994edde26ea0731fe" style="background-color:rgb(246, 246, 246);vertical-align:middle">
+<p id="b-058a63641dcb44f2bf90f71cb9d1893e" style="text-align:center"><span style="font-size:15px">名称（含别名）</span></p>
+</th>
+<th id="b-7653271cb6344e27b78546e0cfde5f70" style="background-color:rgb(246, 246, 246);vertical-align:middle">
+<p id="b-3ff723d8b8fd4be68b7824c971ddaf86" style="text-align:center"><span style="font-size:15px">时间</span></p>
+</th>
+<th id="b-36bf815e6af04d1b970cbc8fca2ce578" style="background-color:rgb(246, 246, 246);vertical-align:middle">
+<p id="b-7643ce431760468e975242b089bcef13" style="text-align:center"><span style="font-size:15px">地点</span></p>
+</th>
+<th id="b-abdaa184b28142fbbcc612b310a19b05" style="background-color:rgb(246, 246, 246);vertical-align:middle">
+<p id="b-ce9066367b244a1687197dea9106f022" style="text-align:center"><span style="font-size:15px">简介</span></p>
+</th>
+<th id="b-150a235f8b27476280a6704ded7be080" style="background-color:rgb(246, 246, 246);vertical-align:middle">
+<p id="b-ab7dd78f774349088619cabff6217272" style="text-align:center"><span style="font-size:15px">伤亡</span></p>
+</th>
+<th id="b-1d42d9772c494da19298a26a98a8bae0" style="background-color:rgb(246, 246, 246);vertical-align:top">
+<p id="b-59d90097586146828b722cb1cdc07f7a"><span style="font-size:15px">恐怖组织及主谋</span></p>
+</th>
+<th id="b-e760c7ff05b446f08bba8e60dcd1d8af" style="background-color:rgb(246, 246, 246);vertical-align:middle">
+<p id="b-0c25e7deb14f44eaad63c21f47ecf7c2" style="text-align:center"><span style="font-size:15px">恐怖行径（文字）</span></p>
+</th>
+<th id="b-c61e1b0ed0d94984be5d8219e434f2a4" style="background-color:rgb(246, 246, 246);vertical-align:middle">
+<p id="b-56890e691cb447abb196fb26accb1a47" style="text-align:center"><span style="font-size:15px">恐怖行径（图片）</span></p>
+</th>
+</tr>
+<tr id="b-2b894080aa414a6a93cf1e0bfcb00058">
+<td id="b-bf15e1f3ec1d416292f82ab7527c8585" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-61204136107a495f9ddd0620530a4163" style="text-align:center"><span style="font-size:15px">昭苏县暴乱</span></p>
+</td>
+<td id="b-1e00e52a0c604d52906d512a0b4f92e0" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-b87c0ea684c145d4a226727179db3151" style="text-align:center"><span style="color:rgb(0, 0, 0)"><span style="font-size:15px">1950年8月18日</span></span></p>
+</td>
+<td id="b-41420a6c04b647c5b3a080ae342d2c5e" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-34557508bcfb44cfbf0bcd31b34c3a76" style="text-align:start"><span style="font-size:15px">新疆维吾尔自治区伊犁哈萨克自治州昭苏县</span></p>
+</td>
+<td id="b-0dac9d5b1d58400d9ce1c7de05bed7ec" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-557ffabc21da4b4489424b46d6109658" style="text-align:start"><span style="font-size:15px">1950年阿不都拉大毛拉在伊犁秘密建立大突厥主义伊斯兰党。伊犁组负责人热合曼诺夫，密谋叛乱。</span></p>
+</td>
+<td id="b-f8ec4beed07049c295bca87c30a63847" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-6bbadfc78c154c98aca4dca5b1ac812e" style="text-align:start"><span style="font-size:15px">不详</span></p>
+</td>
+<td id="b-6585cbfa62684dfe9c70230102b78e0d" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-bda87b570d8e4be6becf5eb93315b3df" style="text-align:start"><span style="font-size:15px">大突厥主义伊斯兰党</span></p>
+</td>
+<td id="b-8c876fbc6e3749d6bea85af3ac58e46c" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-7dd95415c3b649078d4dfea49723fce7" style="text-align:start"><span style="font-size:15px">不详</span></p>
+</td>
+<td id="b-47627b86a9584c18bbb7d10e53529a41" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-1cad4c5c39a54d2790004732473d8b5c" style="text-align:start"></p>
+</td>
+</tr>
+<tr id="b-d719ea8a02484548b4b7902dc789be97">
+<td id="b-71d158045dab43a7b25d3f17e6291a5a" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-cdb91635dcd941b38fe8f4a342bb3823" style="text-align:center"><span style="color:rgb(0, 0, 0)"><span style="font-size:15px">马力克阿吉暴乱</span></span></p>
+</td>
+<td id="b-1861cb3059994ff38add99edd837fa5b" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-12407e478281400e83499ceac30c3f3f" style="text-align:center"><span style="color:rgb(0, 0, 0)"><span style="font-size:15px">1951年10月28日</span></span></p>
+</td>
+<td id="b-202df26738a042eca7904d3f553385f9" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-a9d95bf913694e68a5ff103bf74a696b" style="text-align:start"><span style="color: "><span style="font-size:15px">新疆维吾尔自治区伊犁哈萨克自治州</span></span></p>
+</td>
+<td id="b-f1cda65abd5640998fa14ebf23ed6f78" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-4a9d9be86e0147359d82f1e625d8d685" style="text-align:start"><span style="font-size:15px">1951年10月28日</span><span style="color: "><span style="font-size:15px">，马力克阿吉自任“总指挥”，纠集110人，裹胁200余名群众发动暴乱</span></span></p>
+</td>
+<td id="b-75acc2390fa14623beb724b7fa79d3a4" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-03df559c7e0c40a38488771ed342db8d" style="text-align:start"><span style="font-size:15px">不详</span></p>
+</td>
+<td id="b-ba3ab36842f94da297948d58828eb8c7" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-f42836aeb6074e1c9adab9ac5f55eb52" style="text-align:start"><span style="font-size:15px">大突厥主义伊斯兰党</span></p>
+</td>
+<td id="b-e8fb15938e4d44d69bc154fb2e0f55f8" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-afd52bfc79f347a993a01ddbd41071bc" style="text-align:start"><span style="color: "><span style="font-size:15px">叛军进攻夏特区驻军，烧毁军区合作社</span></span></p>
+</td>
+<td id="b-61e39f943c7841f6b93d2cba7947b858" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-75c51c4c55e14aacb55ab7b8e9cab340" style="text-align:start"></p>
+</td>
+</tr>
+<tr id="b-35b8e1e8e18d4461a1e936a794c86c93">
+<td id="b-e6bbaa0976ad4d2884a7d8bb9ae718fe" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-44ce496796794719a24ff7b99c67d655" style="text-align:center"><a href="https://km.sankuai.com/page/1308391072" title="南疆5次暴乱" id="b-bfa7bed3881541d193b6b791421aeb8d"><span style="font-size:15px">南疆5次暴乱</span></a></p>
+<p id="b-6dc1ee4d37054c24b639efe6ca5082f1" style="text-align:center"><span style="font-size:15px">墨玉暴乱</span></p>
+<p id="b-88b8e604182045a9bfaf15c481cacf35" style="text-align:center"><span style="font-size:15px">英吉沙县</span><span style="color:rgb(0, 0, 0)"><span style="font-size:15px">暴乱</span></span></p>
+<p id="b-0c705bfedd7642f794bd3dd4bd934a9e" style="text-align:center"><span style="font-size:15px">莎车暴乱</span></p>
+<p id="b-574b4b6305de4377b6120ecb0190352f" style="text-align:center"><span style="font-size:15px">和田暴乱</span></p>
+</td>
+<td id="b-5a9d20121e48405d92239618ae4322e4" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-82d730617a01471685ee80b24200b7a7" style="text-align:center"><span style="color:rgb(0, 0, 0)"><span style="font-size:15px">1954年12月27日-</span></span><span style="color: "><span style="font-size:15px">1959年</span></span></p>
+</td>
+<td id="b-df85c7d8560b444fa80b9001f293c063" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-477a1cee693e4ebbb1887cf9ba310e02" style="text-align:start"><span style="color: "><span style="font-size:15px">新疆维吾尔自治区墨玉县、</span></span><span style="font-size:15px">英吉沙县、</span><span style="color: "><span style="font-size:15px">莎车县、和田市</span></span></p>
+</td>
+<td id="b-e9d77f17e96f4bdea83812de2e5dda5f" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-6e53a1e9792b46198b8e72c462136d4c" style="text-align:start"><span style="font-size:15px">反叛势力是与东突厥斯坦独立运动相关的组织，他们反对中华人民共和国政府对新疆的统治。1954年至1957年阿不都依米提大毛拉秉承境外穆罕默德·伊敏旨意在</span><a href="https://km.sankuai.com/page/1308391072" title="南疆5次暴乱" id="b-adf81ddab640417e995ade5f39478c5a"><span style="font-size:15px">南疆5次暴乱</span></a><span style="color:rgb(0, 0, 0)"><span style="font-size:15px">。</span></span></p>
+</td>
+<td id="b-18cc19b2eb364a8697f14bb032e2a995" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-ad59fcf4c0b04da5baf0441ba5765c5e" style="text-align:start"><span style="font-size:15px">不详</span></p>
+</td>
+<td id="b-75e7c59e03d64025b99ed363edc39772" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-6abffd3ef2a04a998879efea54e66999" style="text-align:start"><span style="font-size:15px">东突厥斯坦独立运动相关组织</span></p>
+</td>
+<td id="b-7c1908cc17db45d3afd5718d1d784f02" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-038a1e2fa2d64db1bcee943652d0073b" style="text-align:start"><span style="color: "><span style="font-size:15px">冲击区政府，抢劫粮站和物资仓库，袭击当地公安民警</span></span></p>
+</td>
+<td id="b-1ba379406542425a939ffb174cfc6561" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-c12d2d88b376441298d7b546dfc59541" style="text-align:start"></p>
+</td>
+</tr>
+<tr id="b-b4a028162b69450baa33f22e925122e8">
+<td id="b-f55b8e9fb5914ee49920e33b52d23ee6" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-4d2f6ad8e5d44a95bc172d5dad9d50cd" style="text-align:center"><span style="font-size:15px">1959年藏区骚乱</span></p>
+<p id="b-bd797fb953a3483c8bf6e88ef7a652f1" style="text-align:center"><span style="font-size:15px">（1959年西藏武装叛乱）</span></p>
+</td>
+<td id="b-f6710b7ff12d4c97b249655cde3d0935" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-a9f7b02c20f742b7a091c616f4b029e3" style="text-align:center"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">1959年3月</span></span></p>
+</td>
+<td id="b-296573a9e2cc4fb19a2c738e8d5840e4" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-4cda8a51d6584d699af45eceb7a03a4e" style="text-align:start"><span style="font-size:15px">西藏自治区拉萨市</span></p>
+</td>
+<td id="b-324fe3d4711445b79cee07153ac2db51" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-00ef66bd395e4e1c91b44c92a00dc483" style="text-align:start"><span style="color: "><span style="font-size:15px">1959年3月10日，西藏上层反动集团公然撕毁1951年5月签订的《中央人民政府和西藏地方政府关于和平解放西藏办法的协议》（简称“十七条协议”），悍然发动了全面武装叛乱。叛乱分子召开所谓“人民代表大会”，决定同中央分裂，把争取“西藏独立”的活动进行到底。</span></span></p>
+</td>
+<td id="b-c877a06609d640c88b8b8051e38dbd96" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-83d9321af380498c9c04f91718a0668d" style="text-align:start"><span style="color: "><span style="font-size:15px">造成大量干部、战士和无辜群众的伤亡</span></span></p>
+</td>
+<td id="b-c42842d622754e20ba24845019fbaebd" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-157724fb7a5a4b7790113e406ad5e373" style="text-align:start"><span style="font-size:15px">西藏流亡政府</span></p>
+</td>
+<td id="b-4b96bf03ac79453dbb4509d079a023ab" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-ecc44b39f7894d5686388c89d8d840c4" style="text-align:start"><span style="color: "><span style="font-size:15px">叛乱分子武装袭击解放军兵站，袭掠道班，伏击车辆，炸毁桥梁，截断公路，甚至围攻党政军机关驻地，烧杀抢掠、残害群众，造成大量干部、战士和无辜群众的伤亡</span></span></p>
+</td>
+<td id="b-e4d77e6be83046b1bc47b71689cbb27a" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-7b36eecb9056483a99d79222eba167c2" style="text-align:start"><img src="https://km.sankuai.com/api/file/cdn/1625309615/234768321394?&amp;isNewContent=false&amp;contentType=1" width="153" height="109" id="b-1a898586486e45819263548cd7ac6c63" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1625309615/234765389431?&amp;isNewContent=false&amp;contentType=1" width="162" height="107" id="b-57bf492916274371ad4317e32d76b1f7" alt="原文图片（需学城权限）"></p>
+</td>
+</tr>
+<tr id="b-54830e5d9ec24bc18d32037e33a0239f">
+<td id="b-5e50cd15475f4346a880f44c00d2763a" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-5673ebf1a5a5490886b80bfce9f64340" style="text-align:center"><span style="font-size:15px">伊塔事件</span></p>
+<p id="b-77e7afe675a44611b9fc0f74a8dcbb5d" style="text-align:center"><span style="font-size:15px">（5·29反革命暴乱事件）</span></p>
+</td>
+<td id="b-30721f135a984b14bf48f2f622189a79" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-91f460f972ce4560a5f8dcae283f0593" style="text-align:center"><span style="font-size:15px">1962年5月29日</span></p>
+</td>
+<td id="b-9224e332c6264cf3afdb8ee96af794d5" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-e1b79d9d18534f728fdf3707eabc8135" style="text-align:start"><span style="color: "><span style="font-size:15px">中国</span></span><span style="font-size:15px">新疆维吾尔自治区伊犁哈萨克自治州伊宁市</span><span style="color: "><span style="font-size:15px">大街</span></span></p>
+</td>
+<td id="b-9443c6e19b714c64a9689f0fa6e01b33" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-3be172a83deb47638141050356be8773" style="text-align:start"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">1962年5月29日，“</span></span><span style="font-size:15px">维吾尔斯坦</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">”组织领袖</span></span><span style="font-size:15px">阿不都卡迪尔</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">率领群众攻击当地政府机关，</span></span><span style="font-size:15px">伊宁市</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">政府被民众严重破坏。据当时参与暴动者约5万6千人得到</span></span><span style="font-size:15px">苏联</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">驻</span></span><span style="font-size:15px">伊宁</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">使馆庇护下进入俄境中亚</span></span></p>
+</td>
+<td id="b-435ca392ad5d4f9cafa9f4b5419d98ed" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-3b49fb441db645f7a230411849242f47" style="text-align:start"><span style="font-size:15px">伊宁市</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">政府被民众严重破坏</span></span></p>
+</td>
+<td id="b-d37463585ced4603b3e948b3f6c213e3" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-ed75413c2ff54616a855346d891d8829" style="text-align:start"><span style="font-size:15px">维吾尔斯坦</span></p>
+<p id="b-5618d103d69147698a75d1f1158bd86d" style="text-align:start"><span style="font-size:15px">（东突厥斯坦：新疆或维吾尔族分离主义者希望在新疆建立的独立国家）</span></p>
+</td>
+<td id="b-f80ef22ad61242ca838ce1fc0fa52917" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-8ca38c30fa05429a9fcbd9e268f839b8" style="text-align:start"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">攻击当地政府机关，</span></span><span style="font-size:15px">伊宁市</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">政府被民众严重破坏。据当时参与暴动者约5万6千人</span></span></p>
+</td>
+<td id="b-9093d30c57ea486fbcb3982d2d1d4d28" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-296581ccac36438f823e1c8b15afced9" style="text-align:start"><img src="https://km.sankuai.com/api/file/cdn/1625309615/234768241200?&amp;isNewContent=false&amp;contentType=1" width="82" height="61" id="b-eee8716dcdc24c7c83443b385dee1b6b" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1625309615/234764752563?&amp;isNewContent=false&amp;contentType=1" width="81" height="52" id="b-a81819110e064937a420d304c499fd54" alt="原文图片（需学城权限）"></p>
+</td>
+</tr>
+<tr id="b-d57ffde73de947e88e1ca24d1fc322b5">
+<td id="b-a801afa654904da58875b60c912f9f4c" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-249a05902ba44dab8c9b1db8a72105bc" style="text-align:center"><span style="font-size:15px">喀什武装暴乱</span></p>
+</td>
+<td id="b-74c7fa8a8b36411fb3f469b10e8c7c4f" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-9645646389834c189cd0aa05a48cc5ac" style="text-align:center"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">1969年8月</span></span></p>
+</td>
+<td id="b-23ca7f8bd86e4e399873510daac3762f" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-9086ef4f3dad497c8906a5b0ffada3d4" style="text-align:start"><span style="color: "><span style="font-size:15px">新疆维吾尔自治区喀什市</span></span></p>
+</td>
+<td id="b-c9d4ef2f5e1944a48eb99d4129ef826b" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-d95c2bf2f2f04c0a92514c9e98b3ffbf" style="text-align:start"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">1969年8月，</span></span><span style="font-size:15px">东突党</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">联合</span></span><span style="font-size:15px">天山复仇者</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">、</span></span><span style="font-size:15px">天山乌拉尔</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">等组织企图在</span></span><span style="font-size:15px">喀什市</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">进行武装暴乱在发动前遭公安侦破。该起事件是中共建政以来规模最大、组织最严密的分裂集团武装叛变，涉案人数达五千人</span></span></p>
+</td>
+<td id="b-851cd86aef66436689062c8405ac6388" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-7b8b0086c7144f9d86bc277a7254f2bb" style="text-align:start"></p>
+</td>
+<td id="b-71be2ec844ea4f7b922d0477e4dd85f0" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-1c7d8ccbac3b48309627805c9f9a66f4" style="text-align:start"><span style="font-size:15px">东突党</span></p>
+<p id="b-c9dcb10f7e4b4ef59c23ef92202580be" style="text-align:start"><span style="font-size:15px">天山复仇者</span></p>
+<p id="b-a1ee662972c945b596646276bc3e2155" style="text-align:start"><span style="font-size:15px">天山乌拉尔</span></p>
+</td>
+<td id="b-149a7f9b88c7406c9ec6aa3b5ddc2636" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-a1bdafd16fd84ee88016ac0ee3d4dc46" style="text-align:start"><span style="font-size:15px">不详</span></p>
+</td>
+<td id="b-b62aae95532643adbdcdc88944b48030" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-daafe2a17f8e430983d7b257f61a0bcb" style="text-align:start"></p>
+</td>
+</tr>
+<tr id="b-c81f73351f0a4a2a9247fcdbe610d44b">
+<td id="b-042232fde1274af29f2455cb91043db5" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-25e5cd0103e34d4d9d243c139c1bf570" style="text-align:center"><span style="font-size:15px">1989年拉萨骚乱</span></p>
+<p id="b-8b97164ae58a481893685dde3bec6c1e" style="text-align:center"><span style="font-size:15px">（拉萨严重骚乱事件）</span></p>
+</td>
+<td id="b-1ddadc78be0e4be2b3a76ced1df1e4ea" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-35a8237802eb445ea14aac1b56b0f260" style="text-align:center"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">1987年9月至1989年3月间</span></span></p>
+</td>
+<td id="b-517743c048dc47c8a86f46851f1bf7fa" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-83bbd36711e14c3ca495d9580a917130" style="text-align:start"><span style="font-size:15px">西藏自治区拉萨市</span></p>
+</td>
+<td id="b-9ed7fc44daf54fddbb8585a578ddb6cb" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-eae191f211f3454fa4ca5db96ce55245" style="text-align:start"><span style="font-size:15px">1989年拉萨骚乱</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">，</span></span><span style="font-size:15px">又</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">称之为</span></span><span style="font-size:15px">拉萨严重骚乱事件</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">，是指1987年9月至1989年3月间，西藏地区发生一连串暴动</span></span></p>
+</td>
+<td id="b-27db603b27ca47fca60aea407d0d07b6" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-91725c5c659d441ebb6039b248047be9" style="text-align:start"><span style="color: "><span style="font-size:15px">伤亡上百人</span></span></p>
+</td>
+<td id="b-9ef2e96a376c4755b645a2a01c494e46" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-42715a2cdc8949e9b865b6561d10927f" style="text-align:start"><span style="font-size:15px">西藏流亡政府</span></p>
+</td>
+<td id="b-0e7287f013f341ee88c088efedb3b9fa" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-ef945f1aae624d5b8e90bd500b9d55e1" style="text-align:start"><span style="color: "><span style="font-size:15px">横遭暴徒打、砸、抢、烧的商店、旅馆、饭店达90多家，被砸毁门窗的机关、学校、医院数十家，伤亡上百人，</span></span><span style="font-size:15px">直接经济损失</span><span style="color: "><span style="font-size:15px">在300万元以上</span></span></p>
+</td>
+<td id="b-4b4229bc0d764d30bdb0f8c341735a21" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-e0178ef6b1184a64bb30909d98303483" style="text-align:start"><img src="https://km.sankuai.com/api/file/cdn/1625309615/234764595419?&amp;isNewContent=false&amp;contentType=1" width="300" height="132" id="b-dc9c8792c14143758601084f31290d42" alt="原文图片（需学城权限）"></p>
+</td>
+</tr>
+<tr id="b-7b04a879ec1b44dd94a43f8f57351e87">
+<td id="b-f2d2b1fd32fc47d0bbab27f0b0d0a070" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-7ece8080a56448d59ef2c1ff373f09b8" style="text-align:center"><span style="font-size:15px">乌鲁木齐五·一九骚乱</span></p>
+</td>
+<td id="b-b33d7234bd454a8884997d827b54c815" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-3a4f4d66f5514fcb92c2a13e43648ffc" style="text-align:center"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">1989年5月19日</span></span></p>
+</td>
+<td id="b-3a5a049dd9d643e791454a178be6cb04" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-8bc9d8849a7a423f98ef54a400a2bc81" style="text-align:start"><span style="font-size:15px">新疆维吾尔自治区乌鲁木齐市</span></p>
+</td>
+<td id="b-f0524890733f49b18ac5e3d1c619c8f9" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-b53eee3fed7247d7966cf77308a70e30" style="text-align:start"><span style="font-size:15px">乌鲁木齐五·一九骚乱</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">，是1989年5月19日在</span></span><span style="font-size:15px">新疆维吾尔自治区乌鲁木齐市人民广场</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">发生的骚乱事件，由起初</span></span><span style="font-size:15px">穆斯林</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">示威者的游行演变成针对</span></span><span style="font-size:15px">新疆维吾尔自治区</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">党政机关的暴力事件。</span></span></p>
+</td>
+<td id="b-26dbb7b97e6c4f7288d56a1492174d04" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-e0de69b6585f459485e92f2032c96f1b" style="text-align:start"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">150多人受伤</span></span></p>
+</td>
+<td id="b-d572585f9b664f168a3c45c518927a69" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-af337803dd6540d6aff3dadcf9d1a562" style="text-align:start"><span style="font-size:15px">东突厥斯坦独立运动</span></p>
+</td>
+<td id="b-0af371aec5444ecf9c87d88dda7ef86c" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-cf2a0c282ce647b3b70467c4bc43479b" style="text-align:start"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">事件导致150多人受伤，2000多扇窗户受损，30多辆机动车损毁，154名公安干警、武警官兵、党政机关工作人员被打伤</span></span></p>
+</td>
+<td id="b-6388176291bb446cb568932dec244633" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-d1a0c325df434a48889249d049c3bfd2" style="text-align:start"><img src="https://km.sankuai.com/api/file/cdn/1625309615/234767645192?&amp;isNewContent=false&amp;contentType=1" width="188" height="167" id="b-c59872e8dda3407aa9c9f142366db0b0" alt="原文图片（需学城权限）"></p>
+</td>
+</tr>
+<tr id="b-2dfda4c7e82647c5831072d7d83fe295">
+<td id="b-2af17b7912d34fb09afa46296ef6b2f8" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-f58e08253ced4193ae9f2fb5419aa657" style="text-align:center"><span style="font-size:15px">1990年巴仁乡暴乱</span></p>
+<p id="b-1ea05c4d2555494eb6923f97022819e3" style="text-align:center"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">又称</span></span><span style="font-size:15px">阿克陶县巴仁乡反革命武装暴乱、巴仁乡事件、巴仁乡起义</span></p>
+</td>
+<td id="b-22c9882c30f2426da472609f98fe99a8" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-90df90ccd98a46f4847be5c5d6eecdc8" style="text-align:center"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">1990年4月5日至6日</span></span></p>
+</td>
+<td id="b-4acb997e7f324a2eaeac68871e48703c" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-d8856c10a7cb4be4862a6c2a9f14f977" style="text-align:start"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">新疆</span></span><span style="font-size:15px">克孜勒苏柯尔克孜自治州阿克陶县巴仁乡</span></p>
+</td>
+<td id="b-b7c953e442034ebda9749ffb59675c03" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-89a7b22765a34fa597fff55f89e1e611" style="text-align:start"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">是1990年4月5日至6日发生在新疆</span></span><span style="font-size:15px">克孜勒苏柯尔克孜自治州阿克陶县巴仁乡</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">的分离主义武装冲突，中国政府部门、媒体与部分人指此为“暴乱”，部分海外维吾尔人与国外政要称之为“</span></span><span style="font-size:15px">起义</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">”与“屠杀”</span></span></p>
+</td>
+<td id="b-fda7f653404d4841ac5f81e04d9bd173" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-453f4934efe04805b8c9813fe42fb092" style="text-align:start"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">8人死亡</span></span></p>
+</td>
+<td id="b-43b92b93e6c54dcb8192e36b9e36abe6" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-89b1e3a53d2a41ae934e7a2167d573be" style="text-align:start"><span style="font-size:15px">东伊运</span></p>
+</td>
+<td id="b-5476565b50fe4f0198b0aa49c79e7ed5" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-f521853062c949c3939a2c4bec530e0c" style="text-align:start"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">2021年4月5日，在巴仁乡事件31周年当天，土耳其首都</span></span><span style="font-size:15px">安卡拉</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">市长兼</span></span><span style="font-size:15px">共和人民党</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">领袖</span></span><span style="font-size:15px">曼苏尔·亚瓦什</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">与</span></span><span style="font-size:15px">好党</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">党魁</span></span><span style="font-size:15px">梅尔·阿克苏纳</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">在</span></span><span style="font-size:15px">推特</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">发文纪念维吾尔族“巴仁乡起义”31周年，并指此次事件是北京当局对维吾尔人的“一场屠杀”。中国驻安卡拉大使</span></span><span style="font-size:15px">刘少宾</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">随后在</span></span><span style="font-size:15px">推特</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">发文回击，引发外交风波。2021年4月6日，土耳其外交部召见中国大使表示不满。中国外交部发言人赵立坚4月7日回应称“土耳其个别人士公然为恐怖分子张目”，驻土使馆的推文“无可指责”。2021年4月6日，近1000名维吾尔人在中国驻伊斯坦布尔总领事馆前举行示威游行，指责中国政府在该事件中“屠杀维吾尔人”</span></span></p>
+</td>
+<td id="b-43c4309d3944453fa0361b30228de378" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-4a934f97cfe140389f972bf765cb71c9" style="text-align:start"><img src="https://km.sankuai.com/api/file/cdn/1625309615/234768914849?&amp;isNewContent=false&amp;contentType=1" width="176" height="99" id="b-4f204a49c62a4075810ac54c5c139cd5" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1625309615/234765549661?&amp;isNewContent=false&amp;contentType=1" width="172" height="98" id="b-aea37086333d43ddb850e5d554f2acea" alt="原文图片（需学城权限）"></p>
+</td>
+</tr>
+<tr id="b-c5843ee245c84b0ea0fd14477ba40412">
+<td id="b-493357376e5d4012aa6b2f84238f1a7e" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-dd82504907e34bb684be6ea9b95c2d91" style="text-align:center"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">1991年</span></span><span style="font-size:15px">库车县“2·28”爆炸案</span></p>
+</td>
+<td id="b-6a0771d80391401fb9486d8ac102aaa8" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-06ba496efa6545fbb03157fa7ebebd2b" style="text-align:center"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">1991年2月28日</span></span></p>
+</td>
+<td id="b-46dd763fc0c34be1baa44d88c04fd0d0" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-7b768d836ff64616910068590e7960bc" style="text-align:start"><span style="font-size:15px">阿克苏地区库车县</span></p>
+</td>
+<td id="b-97566981764c408da7cba86922a99c0a" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-45e58a119ac34d91ae6f4bffe1c41a19" style="text-align:start"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">1991年2月28日，</span></span><span style="font-size:15px">东突厥伊斯兰改革党</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">在</span></span><span style="font-size:15px">新疆维吾尔自治区阿克苏地区库车县</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">客运站录像厅制造了一起爆炸案。爆炸造成民众1人死亡、13人受伤。同日，东突恐怖组织还在</span></span><a href="https://zh.wikipedia.org/wiki/%E5%BA%93%E8%BD%A6%E5%8E%BF" title="库车县" id="b-3ffdd8a6327d4f47bbcbb0f6407c8280"><span style="font-size:15px">库车县</span></a><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">县城的一家个体商店内安置了炸弹，但未能爆炸</span></span></p>
+</td>
+<td id="b-0c723c69457741e998234ead670de9de" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-08648154ce1846f48279d7bbcda0c4a2" style="text-align:start"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">1人死亡、13人受伤</span></span></p>
+</td>
+<td id="b-b93fd2d292864304988efe93d2d827f6" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-d8c4679e74104bd89c4c368edaaeef37" style="text-align:start"><span style="font-size:15px">东伊运</span></p>
+</td>
+<td id="b-4ba587c437db4d1ead26274d6bad4f3d" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-a9265add344d4db3ad5c6f64aee01b06" style="text-align:start"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">此次爆炸成功后，该组织将目标锁定在</span></span><span style="font-size:15px">乌鲁木齐市</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">，进行了1年多的筹备，于1992年实施了“</span></span><span style="font-size:15px">乌鲁木齐二·五爆炸案</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">”，随后又接连在</span></span><span style="font-size:15px">新疆维吾尔自治区</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">境内制造了15起针对无辜民众的爆炸案。</span></span></p>
+</td>
+<td id="b-0d082461f84b4610ad5f12e4fa97183d" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-e1fe4753f40f4a10986ccac457695f31" style="text-align:start"></p>
+</td>
+</tr>
+<tr id="b-336a2f35b487423d9b04b558db682451">
+<td id="b-562c824d70654ed1a535ce719f6c68d3" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-ccf44c6663ca4669828ede31a70a1d2d" style="text-align:center"><span style="font-size:15px">1991年沙雅县“11·13”运钞车抢劫案</span></p>
+<p id="b-5c596f8aaa194d218116464268ba6bf6" style="text-align:center"></p>
+</td>
+<td id="b-e2186e9912604c08bc1e8c0ec8e314b9" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-1e592eee4dfd4edcb43c2a464a277209" style="text-align:center"><span style="color:rgb(0, 0, 0)"><span style="font-size:15px">1991年11月13日</span></span></p>
+</td>
+<td id="b-72ea7e8fd71c4160ba1bbd4a958f4875" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-e9588075a190448593c3786803ff1780" style="text-align:start"><span style="color:rgb(0, 0, 0)"><span style="font-size:15px">沙雅县</span></span></p>
+</td>
+<td id="b-58d8fc8f8570470eae76755c73888da7" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-d92ca88e46854ce4aaec778ee44b281d" style="text-align:start"><span style="color:rgb(0, 0, 0)"><span style="font-size:15px">1991年11月13日，东突厥伊斯兰改革党在沙雅县制造了一起银行运钞车抢劫案，抢劫中国农业银行棉花款50万元</span></span></p>
+</td>
+<td id="b-554702a925af4ed49303c4515597d4df" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-e4129553c5a847e583047e35276a36ac" style="text-align:start"></p>
+</td>
+<td id="b-d4dbbd8e6dba4f21a091c52f41edf9c7" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-9ac584989dea4891892a3a0c7856775a" style="text-align:start"><span style="font-size:15px">东伊运</span></p>
+</td>
+<td id="b-000d956269a54102b7f3fce3c9284b08" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-bffa3fb0dd454b65a0d81a29f85a9b5e" style="text-align:start"><span style="color:rgb(0, 0, 0)"><span style="font-size:15px">抢劫者转移至喀什地区叶城县的一所不引人注目的院落中，在该院落建立了新疆维吾尔自治区境内第一个恐怖训练基地，该基地先后培训了3期共62名恐怖分子</span></span></p>
+</td>
+<td id="b-bb9fec5e07204f3a8392c797206f6495" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-1f72eabb33de40b7a7cab0242e121b0b" style="text-align:start"></p>
+</td>
+</tr>
+<tr id="b-d66e215300164715b03bd411658dfa93">
+<td id="b-3449d813e6c04464980930a158302e3d" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-72611e283dcd4a48b35297e89568c3b9" style="text-align:center"><span style="color:rgb(0, 0, 0)"><span style="font-size:15px">乌鲁木齐二·五爆炸案</span></span></p>
+</td>
+<td id="b-0074077b2577431eb60db03b37754115" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-a8f7b87e1092417dbaee940c8bc47909" style="text-align:center"><span style="color:rgb(0, 0, 0)"><span style="font-size:15px">1992年2月5日</span></span></p>
+</td>
+<td id="b-a408980c2c594ff69cea21b7a1879fdc" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-0634ed8820d542d9969d6952fce956bc" style="text-align:start"><span style="color:rgb(0, 0, 0)"><span style="font-size:15px">新疆维吾尔自治区首府乌鲁木齐市</span></span></p>
+</td>
+<td id="b-0401ce2b312a4158bd51a8033e9c328e" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-8f114eac76c244ddb8a9059a1818d692" style="text-align:start"><span style="color:rgb(0, 0, 0)"><span style="font-size:15px">四颗定时炸弹被安放在公共汽车、影剧院、住宅楼里。其中52路和30路公共汽车上的两颗发生爆炸，造成这两辆公共汽车被炸毁</span></span></p>
+</td>
+<td id="b-8bf5e71de7a447da8eee15f2c3af1964" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-6ef151814ecc41fb9662ddc4aef6be2d" style="text-align:start"><span style="color:rgb(0, 0, 0)"><span style="font-size:15px">3人死亡、23人受伤</span></span></p>
+</td>
+<td id="b-66d6e7dab10642738548b85e725e2c38" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-4cffc1a5618d4fee9165341dba2786e6" style="text-align:start"><span style="font-size:15px">东伊运</span></p>
+</td>
+<td id="b-4c1491f19a864f738e6173d5e7143f51" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-0915f89332614fa0b1f5f2a7d2d36eca" style="text-align:start"></p>
+</td>
+<td id="b-a4bff3659dc0434f923cd0353c69623c" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-8488bf4ec0fe497b802e1fb6b9298fc0" style="text-align:start"><img src="https://km.sankuai.com/api/file/cdn/1625309615/234765229342?&amp;isNewContent=false&amp;contentType=1" width="212" height="117" id="b-aa87f08bddfb4868951080eae2257323" alt="原文图片（需学城权限）"></p>
+</td>
+</tr>
+<tr id="b-01afc74733e04a489e3ecf3050d42e77">
+<td id="b-7c867b62d8214bd4a777ff79523386ff" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-e734165cd32b48e38ed8a85035df40dc" style="text-align:center"><span style="font-size:15px">南疆系列爆炸案</span></p>
+</td>
+<td id="b-b7e36e5851c84b9fa0a2961a3aebd0fd" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-f2986a83c24a43cdbb24a136901429c1" style="text-align:center"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">1993年6月17日-9月5日</span></span></p>
+</td>
+<td id="b-9986a7d4355149bba8ba580ab2f89935" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-8def1e36b97944d587ff8b18a5710e18" style="text-align:start"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">新疆南部地区</span></span></p>
+</td>
+<td id="b-5044e3771b6b43979713266eb3e0a1f8" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-b22ea26de6e34b8d90bc296e68727f49" style="text-align:start"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">1993年6月17日至9月5日，</span></span><span style="font-size:15px">东突厥斯坦独立运动</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">在</span></span><span style="font-size:15px">新疆</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">南部地区制造的一系列爆炸事件。他们在</span></span><span style="font-size:15px">商场</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">、集贸</span></span><span style="font-size:15px">市场</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">、</span></span><span style="font-size:15px">饭店</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">、</span></span><span style="font-size:15px">文化</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">场所等地制造10起爆炸案，中国官方将此事件定性为“</span></span><span style="font-size:15px">恐怖袭击</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">”</span></span></p>
+</td>
+<td id="b-81363260d3d04d9cba0aafe0e7901f84" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-dd9f6ebdb55d4fb58c45c85490ff9bd1" style="text-align:start"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">2人死亡、36人受伤</span></span></p>
+</td>
+<td id="b-77fdc955e92d4fbf8b8f16b94a0e205d" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-8023bb550747421e9c6544f9166d1910" style="text-align:start"><span style="font-size:15px">东伊运</span></p>
+</td>
+<td id="b-956aeee648f949e9b5d050cb46e6f0b8" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-385b38d8412248258aee48e518afdd09" style="text-align:start"><span style="color: "><span style="font-size:15px">新疆警方曾发现过被有意放置在街头的SD卡，外面用人民币包裹，有的还特意挑选醒目位置，利用人们的猎奇心理，诱导捡到的人去看里面的内容。即便制作简陋的宣传画也相当简洁直观，颇具心理和视觉冲击力。有一幅在网络流传的有关“吉里巴甫”服装的宣传画，画着两个女人，一个穿着黑色的吉里巴甫，但与之对应的是一只长着漂亮羽毛的大公鸡，气宇轩昂；还有一个穿着普通时髦衣服的女人，对应的却是一只耷拉着脑袋的脱毛鸡。然后是两条路，一条通往“火狱”，一条通往“天堂”。最后，大公鸡进“天堂”，脱毛鸡下“火狱”。</span></span></p>
+</td>
+<td id="b-8d15c627134b446987eae06d44ac8e13" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-310edf86b853412ba525fccddebdfe69" style="text-align:start"></p>
+</td>
+</tr>
+<tr id="b-fd28bb3b440e496186990a70f496dd8b">
+<td id="b-8829916cda324eac8a9d62c09bd0752e" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-76b5ffe576eb4920b3168b79a54d9871" style="text-align:center"><span style="font-size:15px">江格勒斯乡事件</span></p>
+</td>
+<td id="b-e88e69ebb27c42b1b053a9afcd01889f" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-786cb6677581495388502835e0218623" style="text-align:center"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">1996年8月27日</span></span></p>
+</td>
+<td id="b-a6f02c28643b4df598fa04d6eefb506c" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-fa48187c2de14566a8719d1e91d2def2" style="text-align:start"><span style="font-size:15px">叶城县江格勒斯乡</span></p>
+</td>
+<td id="b-6153fd1e38b044a0abe6647b6412a1a6" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-539a7581e5484b71824b03cc66d5662c" style="text-align:start"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">6名</span></span><span style="font-size:15px">东突</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">人员身着</span></span><span style="font-size:15px">迷彩服</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">，其中2人戴公安大檐帽，于1996年8月27日凌晨2时许携</span></span><span style="font-size:15px">手枪</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">、</span></span><span style="font-size:15px">匕首</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">、</span></span><span style="font-size:15px">炸药</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">包分乘两辆轿车到</span></span><span style="font-size:15px">新疆维吾尔自治区叶城县江格勒斯乡</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">人民政府（恰其昆管理区）。他们割断</span></span><span style="font-size:15px">电话</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">线，闯入副乡长办公室杀死副乡长吾布力艾合买提和</span></span><span style="font-size:15px">警察</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">买买提阿不都拉；随后又到该乡一村，绑架了1名水管员、3名治安员，劫持到10公里外的戈壁滩上杀害。在此过程中，还杀伤2人</span></span></p>
+</td>
+<td id="b-568c4a23c8d54a9d961185cfd6d8b413" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-0c2bb1495f9c4fda8381dd837e266750" style="text-align:start"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">6人死亡、2人受伤</span></span></p>
+</td>
+<td id="b-755e0cd81b5a4f6785b365bd6db0ead9" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-54f7821a970c4f8da3368f9b870d5bea" style="text-align:start"><span style="font-size:15px">东伊运</span></p>
+</td>
+<td id="b-54574a9b2a2f4625bb465d4a35b00b3b" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-eb90f5423c4049ad8875193d6b58c3f2" style="text-align:start"></p>
+</td>
+<td id="b-79a01085c8ea4d46b3befbcc256de465" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-d6bc759b937343569f1406f2e7029e42" style="text-align:start"></p>
+</td>
+</tr>
+<tr id="b-8248b24106c0427ea695eb0f3656f638">
+<td id="b-c630b57f1e49426491d9b24aadd7aa8e" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-710d05bd1a944605ada283f830160003" style="text-align:center"><span style="color: "><span style="font-size:15px">1997年伊宁2·5骚乱事件</span></span></p>
+<p id="b-fbe0f2872b4340f5ae4d81d3c1f9743d" style="text-align:center"><span style="font-size:15px">别名：伊宁二·五事件、伊宁事件、“二·五、二·六事件”</span></p>
+</td>
+<td id="b-e5bd1730eabe4c47ace90fccb2805cb5" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-88de4ecc5b0f4644831ec850d50a8652" style="text-align:center"><span style="color: "><span style="font-size:15px">1997年2月5日至8日</span></span></p>
+<p id="b-21302951a0754285ac43414ce8c75644" style="text-align:center"></p>
+</td>
+<td id="b-35f7948480a84df9a3c01bb855b47382" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-4a276b77263e4877afdf1c44c75c2b6d" style="text-align:start"><span style="color: "><span style="font-size:15px">中国</span></span><span style="font-size:15px">新疆维吾尔自治区伊犁哈萨克自治州伊宁市</span><span style="color: "><span style="font-size:15px">大街</span></span></p>
+</td>
+<td id="b-d6bd4ceec4494c4795ac50b9729d9d0e" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-d31b615691324408b78d698b89d0cc2c" style="text-align:start"><span style="color: "><span style="font-size:15px">1997年伊宁2·5骚乱事件是指1997年2月5日至8日，“东突伊斯兰真主党”恐怖组织策划、制造的伊宁市“2·5”严重打砸抢骚乱事件。</span></span></p>
+</td>
+<td id="b-c8592dad2d514dea9a22b620d4e3ace3" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-23f174f6f38b48b18bcf0fb15d2402d2" style="text-align:start"><span style="font-size:15px">死亡7人，重伤64人。</span></p>
+</td>
+<td id="b-6ee26490aadb4d43bbd5f2644651ed14" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-c41eb20cb9674276add068b49c2bf3b7" style="text-align:start"><span style="font-size:15px">东伊运</span></p>
+</td>
+<td id="b-ab8e8b16bdaa47e69205db65fc01f8dc" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<details id="b-92814ae4488c4f769120e4d2f86d7e1f">
+<summary><span style="color:rgb(77, 77, 77)"><span style="font-size:15px">打击案例</span></span></summary>
+<div>
+<p id="b-f9f598c913924d949783c2c0cbc743d3" style="text-align:start"><span style="font-size:15px">我们要建立伊斯兰王国 </span></p>
+<p id="b-10231979a858426aa057b6e718df5f2b" style="text-align:start"><a href="https://www.rfa.org/english/news/uyghur/ghulja-massacre-02112022175649.html#.YgsBKKl5APg.twitter" title="新疆伊宁大屠杀 25 年后，维吾尔人仍在推动追究责任" id="b-163a1bedb9c640d2b75bd8445478a22a"><span style="font-size:15px">新疆伊宁大屠杀 25 年后，维吾尔人仍在推动追究责任</span></a></p>
+<p id="b-7f60e8f826b749c98fbd236f7273846c" style="text-align:start"><span style="font-size:15px">25年前一个寒冷的冬日，中国西部城市 Ghulja（中文为伊宁市）的年轻维吾尔人举行抗议，要求结束宗教镇压和种族歧视。那天的事件将被称为 1997 年的 Ghulja 大屠杀，维吾尔人现在将这一事件视为对中国主要穆斯林社区的更大程度的迫害和暴力的预兆，自那时以来，该事件已分阶段展开然后。多达 20000 人在大屠杀中丧生——一份报告称可能有数千人死亡——但当时它几乎没有受到国际关注。 </span></p>
+<p id="b-6b4ad87bc27147e09f677b0453244ed7" style="text-align:start"><a href="http://rfa.org/mandarin/yataibaodao/shaoshuminzu/gr-02062015100454.html" title="世维大会在世界各地举办活动纪念伊宁事件十八周年" id="b-49728239c59541dd9f5b6ef4eb1eae0b"><span style="font-size:15px">世维大会在世界各地举办活动纪念伊宁事件十八周年</span></a></p>
+<p id="b-e91b4d298c2b431d89acf6d7b1c0d354" style="text-align:start"><span style="font-size:15px"> 一九九七年二月五号在新疆伊宁发生了二五事件。今年是十八周年，总部设在德国慕尼黑的流亡海外的维吾尔人组织世维大会在世界各地举办了纪念活动。近年来，流亡世界各地的维吾尔族民众越来越多，他们在二零零四年成立了联合统一的组织，世界维吾尔代表大会，总部设在德国南部最大城市慕尼黑。记者获悉，二月五号，该组织在慕尼黑中国领事馆前举行了一次抗议性的纪念活动，纪念一九九七年二月五号发生的伊宁事件十八周年。为此，关于这次活动，六号上午记者采访了世维大会执行主席多里坤先生。关于这次活动，他首先对记者介绍说，“昨天是一九九七年二月五号在伊宁发生的伊宁事件十八周年。十八年前，维族人进行和平的游行，中国使用警察和军队镇压了这次和平游行。根据国际大赦组织的报道说，死了三百多人，逮捕了几千人。但是实际情况到底是什么，虽然已经十八年了，实际上是死了多少人，抓捕了多少人，直到今天还</span></p>
+<p id="b-2e125cf5a7fb442c93f80c3db161a284" style="text-align:start"><span style="font-size:15px">是不清楚。”</span></p>
+<p id="b-5f1ffd89172741e4a090f5be9dc86064" style="text-align:start"><a href="https://www.uyghurcongress.org/cn/%e4%bc%8a%e5%ae%81%e4%ba%8b%e4%bb%b620%e5%91%a8%e5%b9%b4-%e5%bd%93%e5%9c%b0%e7%bb%b4%e7%a8%b3%e5%8d%87%e7%ba%a7/" title="伊宁事件20周年 当地维稳升级" id="b-5bf20c65be2343cf85a53e751029525a"><span style="font-size:15px">伊宁事件20周年 当地维稳升级</span></a></p>
+</div>
+</details>
+<p id="b-7c1e55dfe3dd48cc9379117f0fc05f4d" style="text-align:start"></p>
+</td>
+<td id="b-82e4ef224f8345b9a9a1747b478ba519" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-1ed7a44ea992431b9029408951fc0637" style="text-align:start"><img src="https://km.sankuai.com/api/file/cdn/1625309615/234768914847?&amp;isNewContent=false&amp;contentType=1" width="152" height="113" id="b-f515e48fc2df42f2ac10b6c43e18a7be" alt="原文图片（需学城权限）"></p>
+<figure src="https://km.sankuai.com/api/file/cdn/1625309615/234768558866?isNewContent=false&amp;contentType=1" width="510" height="290" id="b-42b7c054f09249629451e36341b94eeb"><figcaption>视频：ghulja.mp4（原始链接，可能需要学城权限）</figcaption><a href="https://km.sankuai.com/api/file/cdn/1625309615/234768558866?isNewContent=false&amp;contentType=1">在原文服务中查看</a></figure>
+<p id="b-d413932aef1a44d18456d60f7a3e454a"></p>
+<p id="b-1415736b0835411f8b58453b061658ca"></p>
+</td>
+</tr>
+<tr id="b-4829d44343d24d818b8f84cd0bbe7c34">
+<td id="b-609c25c0328f4d78bf1a1292ee26fc98" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-d95d5e6b0237435498c4c69e65703235" style="text-align:center"><span style="font-size:15px">乌鲁木齐“2.25”公共汽车爆炸案</span></p>
+</td>
+<td id="b-9d2b0ff4a85e44fbaf4b6d0d8c4340fc" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-5ff6f9ba239d45cfa4bb8089acb4f515" style="text-align:center"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">1997年2月25日</span></span></p>
+</td>
+<td id="b-c6796efe8845430789875fa1fdf2f624" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-d728c720ced94b7687bf7dcaa2bb1c77" style="text-align:start"><span style="color:rgb(0, 0, 0)"><span style="font-size:15px">新疆维吾尔自治区首府乌鲁木齐市</span></span></p>
+</td>
+<td id="b-f9e6d5594db042608cd5180d6bc5922a" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-5b137a9f45c743e2abd9c2657b48b3a1" style="text-align:start"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">1997年2月5日发生</span></span><span style="font-size:15px">伊宁二·五事件</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">，2月19日</span></span><span style="font-size:15px">邓小平</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">逝世，2月25日北京召开追悼会，爆炸正好发生在这一天。当日，乌鲁木齐市2路、10路、44路三辆公交车被投放了定时炸弹并发生爆炸，包括</span></span><span style="font-size:15px">维吾尔族</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">、</span></span><span style="font-size:15px">回族</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">、</span></span><span style="font-size:15px">柯尔克孜族</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">、</span></span><span style="font-size:15px">汉族</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">群众在内的9人丧生、68人受伤</span></span></p>
+</td>
+<td id="b-ba94ab0804094ed4ae2af738a0f8d979" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-d8614908c20447d9b13f65e22faf2e19" style="text-align:start"><br><span style="font-size:15px">9人死亡、68人受伤</span></p>
+</td>
+<td id="b-66a00ddbb23a4369850c83bb12e7ecee" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-823b44d9bfdc4a25824212c655392711" style="text-align:start"><span style="font-size:15px">东伊运</span></p>
+</td>
+<td id="b-99c910e0acb34393add0b0f42ef814bd" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-d1c522330ddb4d558e49131b6d13cb4d" style="text-align:start"><a href="https://www.owlapps.net/owlapps_apps/articles?id=3779547&amp;lang=zh" title="https://www.owlapps.net/owlapps_apps/articles?id=3779547&amp;lang=zh" id="b-7da9956963654c6b8bae9f05eb89345f"><span style="font-size:15px">https://www.owlapps.net/owlapps_apps/articles?id=3779547&amp;lang=zh</span></a></p>
+</td>
+<td id="b-cf2758471ac845f6bc0cd8d8ae672d45" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-7a4265a146df4ba39c5ddd7b15c0425a" style="text-align:start"></p>
+</td>
+</tr>
+<tr id="b-efb895d6effe442f8163099f38d20d51">
+<td id="b-4ea54c4f11e94809a8c797c7022c710e" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-39c9ef389f664d8eb7faaede0c99c8c6" style="text-align:center"><span style="font-size:15px">乌鲁木齐“5·23”系列纵火案</span></p>
+</td>
+<td id="b-cff03c5c073943af8cfa7b29ccc334e5" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-e8e6166a42ae44e3807743151ecd908c" style="text-align:center"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">1998年5月23日</span></span></p>
+</td>
+<td id="b-cfff541a06c34938813f71a7cedb7c49" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-f0cf6d6eef9047fc8bad78d22886a633" style="text-align:start"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">中国</span></span><span style="font-size:15px">新疆维吾尔自治区</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">首府</span></span><span style="font-size:15px">乌鲁木齐</span></p>
+</td>
+<td id="b-2e5ec786f05a40da98a18373a55e5c7c" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-4f54260562cf46bd8666e2921555d560" style="text-align:start"><br><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">1998年5月23日，“东突解放组织”成员在</span></span><span style="font-size:15px">乌鲁木齐市</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">华都商厦、大西门、河滩路布料批发市场、红山木材市场、长征旅社批发市场、乌鲁木齐旅社、商贸城等繁华的公共场所投放40余枚化学自燃纵火装置，制造出15起纵火案，声称“要将乌鲁木齐变成一片火海，要造成几百万、几千万、几亿元的损失”。因为这一系列纵火案均被及时发现并扑灭，所以未造成重大的危害。实施此次案件的“东突解放组织”成员是在中国境外接受培训之后，奉该组织之命潜入中国境内，到乌鲁木齐作案</span></span></p>
+</td>
+<td id="b-23a37d8e6f4c48a880319b15b7f92f1f" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-f9b1ae244ea74083a3baaa46b8fd58b3" style="text-align:start"></p>
+</td>
+<td id="b-0d7fcc1e4645403f93384f98e34db4ff" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-b715a25a04f14d05930c33432bb519b6" style="text-align:start"><span style="font-size:15px">东伊运</span></p>
+</td>
+<td id="b-d348ce2f508f4b57b6cb0fccf394c5aa" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-85c1072881fd458d9e7a397a225fb085" style="text-align:start"></p>
+</td>
+<td id="b-dd2b1502b3ea472b8ffeb649b26d4a9c" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-ee6c9c2e39f14d24a86307569aff655b" style="text-align:start"></p>
+</td>
+</tr>
+<tr id="b-08e2769d69cb46f1ad116e68b2e7c2ad">
+<td id="b-e83b736adbc74a0091104f9495bf1be0" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-cf33020ae1c74407a18fab57145d8eb2" style="text-align:center"><span style="font-size:15px">泽普县赛力乡派出所遇袭事件</span></p>
+</td>
+<td id="b-bfb6cd9372dc41aaaf04483e2bf942f9" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-e815bf7c39b04fe6a54c8e3a6f76c21f" style="text-align:center"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">1999年10月24日</span></span></p>
+</td>
+<td id="b-8d68e213dbcf49c59cf257c1290064b6" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-a3a34e144bcd4d16bfb23fd87647d0fa" style="text-align:start"><span style="font-size:15px">泽普县赛力乡</span></p>
+</td>
+<td id="b-eec0a618b57e446088be4440744cb2cb" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-7985125cd27248489172649a2458d32b" style="text-align:start"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">东突厥斯坦独立运动支持者携</span></span><span style="font-size:15px">枪支</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">、大</span></span><span style="font-size:15px">刀</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">、</span></span><span style="font-size:15px">爆炸燃烧</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">装置，袭击泽普县赛力乡</span></span><span style="font-size:15px">公安</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">派出所。他们包围派出所后连续投掷燃烧瓶和爆炸装置并向派出所开枪。后闯入派出所枪杀１名</span></span><span style="font-size:15px">联防队</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">员和１名留置审查的</span></span><span style="font-size:15px">犯罪嫌疑人</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">，枪伤１名</span></span><span style="font-size:15px">警察</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">和１名联防队员。烧毁派出所１０间房屋、１辆</span></span><span style="font-size:15px">吉普车</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">和３辆</span></span><span style="font-size:15px">摩托车</span></p>
+</td>
+<td id="b-46105d76daa248beb0ecc5b39e20da64" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-e60ae87f0bb243809005b2272c7014aa" style="text-align:start"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">2人死亡、2人受伤</span></span></p>
+</td>
+<td id="b-1478cdcfc49e4221865a040fc837bae4" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-c624b0b179c44598b5f6d8bcf58206fd" style="text-align:start"><span style="font-size:15px">东伊运</span></p>
+</td>
+<td id="b-4952121883984af8b9a6d44ebb0e5798" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-bdb8e140d39a4f54acba14d1b2b329cf" style="text-align:start"></p>
+</td>
+<td id="b-ba6c7c1b408949b39b82652b4c894d57" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-5e705d955c2848a4ba3240a435e60d37" style="text-align:start"></p>
+</td>
+</tr>
+<tr id="b-f98abae0ab8048f488ac14d1dbbacab0">
+<td id="b-fcaad92da39c480db6fdb27c8ea3a496" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-65d119ba78874ac88a3d6f326cc03ab8" style="text-align:center"><span style="font-size:15px">新疆喀什八·四袭警案</span></p>
+</td>
+<td id="b-a122d47865014f769201079eb915a691" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-e791ea20ce8d487e8c900ec980829f1e" style="text-align:center"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">2008年8月4日</span></span></p>
+</td>
+<td id="b-d65a501e239f4552b11e2f95926b190e" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-77a172e7b27141d58245361373a9d0c9" style="text-align:start"><span style="font-size:15px">喀什市</span></p>
+</td>
+<td id="b-e84500038f44452597b89b5e61d72938" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-cb9515702b8e42d3a2efec3890e92e2f" style="text-align:start"><span style="font-size:15px">2008年喀什袭击事件是2008年8月4日发生于中国新疆维吾尔自治区喀什市的一次针对武警的恐怖袭击案件，中国官方将此次事件定性为“恐怖袭击”。在案件中，两名男子驾车对正在出操的喀什市边防支队武警发动袭击，共造成武警17人死亡、15人受伤。</span></p>
+</td>
+<td id="b-4f5b436d13124e6798bc6909b703b0d9" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-a53ce6e60ae3402db5628db71090694f" style="text-align:start"><span style="font-size:15px">17人死亡、15人受伤</span></p>
+</td>
+<td id="b-e961dddd02d245a0b12576264a44e825" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-1f98705aa63a43e2b6381310ee9d9f94" style="text-align:start"><span style="font-size:15px">主谋：</span><br><span style="font-size:15px">阿不都热合曼·阿扎提</span></p>
+<p id="b-61b31e607e034e03ad226f31f1c75ee3" style="text-align:start"><span style="font-size:15px">库尔班江·依明提</span></p>
+</td>
+<td id="b-f8602c7004fe4eaf841cade731da23f6" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<details id="b-5f4ba1fc7252492e942f9f7df8141e7e">
+<summary><span style="color:rgb(77, 77, 77)"><span style="font-size:15px">恐怖袭击事件</span></span></summary>
+<div>
+<p id="b-cf2caca157e540b4a4d3b53e8cb1d2f4" style="text-align:start"><span style="font-size:15px">2008年2、3月间，二人购买了制造枪支、弹药、爆炸物的材料，非法制造了11枚爆炸装置、2支枪支和多发子弹，并选定中国人民武装警察部队喀什地区边防支队官兵为恐怖袭击目标。同年8月4日8时，当武警官兵出操跑出边防支队大门时，阿不都热合曼·阿扎提即驾车高速从背后向列队的武警官兵疯狂冲撞、碾轧，致15人死亡，13人受伤，货车失控冲向路面后翻车，阿不都热合曼·阿扎提从车中出来，持自制枪向武警射击未果，又引爆一枚自制爆炸装置，致1人死亡，库尔班江·依明提身着武警夏季军服，先朝边防支队大门哨兵投掷一枚自制爆炸装置，又持双刀乱砍被碾轧致伤的武警，致1人死亡、2人受伤。二人被当场抓获。</span></p>
+</div>
+</details>
+</td>
+<td id="b-275b9791634847279a1f46eb5610609e" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-1fa08078d93947ffb2d9275700888dfb" style="text-align:start"><img src="https://km.sankuai.com/api/file/cdn/1625309615/234766185798?&amp;isNewContent=false&amp;contentType=1" width="190" height="93" id="b-e5a9282188e94500b53f3c36b2816206" alt="原文图片（需学城权限）"></p>
+<p id="b-4f8a18fda7204d2bb4f35e5780ef78d3" style="text-align:start"><img src="https://km.sankuai.com/api/file/cdn/1625309615/234768479080?&amp;isNewContent=false&amp;contentType=1" width="112" height="88" id="b-5948e6883c7d4f7aa006b42933ee8fba" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1625309615/234765229334?&amp;isNewContent=false&amp;contentType=1" width="128" height="86" id="b-6517f5cb18974be1955c68157693c718" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1625309615/234766823906?&amp;isNewContent=false&amp;contentType=1" width="122" height="90" id="b-0e1a9fcc87a74d6ea05ddb2bd4832a8f" alt="原文图片（需学城权限）"></p>
+</td>
+</tr>
+<tr id="b-f1eccbaa178b49fe88136b848ab2237e">
+<td id="b-089d8d643d5c4ce591fd18f543d4ba48" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-c60a052ac1424a23860b5fe4d810985b" style="text-align:center"><span style="font-size:15px">库车爆炸案</span></p>
+</td>
+<td id="b-d0e928c31e02462e941a07814fc1cf19" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-c0229d4107cb4ec699e330e87ce7bc2d" style="text-align:center"><span style="font-size:15px">2008年8月10日</span></p>
+</td>
+<td id="b-c5d723881c454387b7f1f403059186fa" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-c82cd89fcf024211a22b035e761ab9f5" style="text-align:start"><span style="font-size:15px">阿克苏地区库车县</span></p>
+</td>
+<td id="b-b4fc4b9fd9a54ddd94c13331ed036f99" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-a137dbfaa2fd4c7c987a54db945d3fcf" style="text-align:start"><span style="font-size:15px">2008年库车爆炸案是中国新疆维吾尔自治区阿克苏地区库车县于2008年8月10日发生连环自杀式袭击事件，中国官方将此次事件定性为“恐怖袭击”。</span></p>
+</td>
+<td id="b-eff30f7f752649678f2c787440687f77" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-8d3bb9cecf7740538601c9358a4684f7" style="text-align:start"><span style="font-size:15px">11人死亡（包括10名犯罪分子）</span></p>
+</td>
+<td id="b-88bcce652897404596778b803196a8ad" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-98a1c998979d4ad2a1a91f3e67b19b67" style="text-align:start"><span style="font-size:15px">未知</span></p>
+</td>
+<td id="b-0924db50165445bbb1c480855116d00c" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<details id="b-ae5e6e3c791e418b94728c53c4b304d5">
+<summary><span style="color:rgb(77, 77, 77)"><span style="font-size:15px">恐怖袭击事件</span></span></summary>
+<div>
+<p id="b-3464cef7de054458855cdb68c4e668a9" style="text-align:start"><span style="font-size:15px">袭击发生在当地政府办公楼、公安局和武警哨所，一名维吾尔族保安丧生，两名警察和两名平民受伤。警方击毙八名恐怖分子，抓获两人，另有两人自我引爆后身亡，三名恐怖分子逃跑。 由于时值北京奥运期间，及6天前喀什亦发生袭击，事件格外引人关注。</span></p>
+</div>
+</details>
+<p id="b-9dd7ba219e374ec6acbeae3570838b3a" style="text-align:start"></p>
+</td>
+<td id="b-628d98c7240f4dd1a62236bdb1c8cd43" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-9256674ac2144b4b8b516cdb7aecae29" style="text-align:start"><img src="https://km.sankuai.com/api/file/cdn/1625309615/234765708091?&amp;isNewContent=false&amp;contentType=1" width="165" height="86" id="b-5bf62484966a4171b2485d58a0d95953" alt="原文图片（需学城权限）"></p>
+</td>
+</tr>
+<tr id="b-ef246f894f284efdadb23f08928ae11c">
+<td id="b-59664a324a3d44c4850dfc23aba6e1c5" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-10fc6c6c7eeb42cab924fb80a9f2db84" style="text-align:center"><span style="font-size:15px">乌鲁木齐七五事件</span></p>
+</td>
+<td id="b-8ec7b79bfb11473fac641dd6cc8f8d1b" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-057b9ee6484142f5b6836882eec35ff3" style="text-align:center"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">2009年7月5日</span></span></p>
+</td>
+<td id="b-c4723feab2804723832e96b3422e6c03" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-8e7bcf5430b54d41baee6d501b97ff1e" style="text-align:start"><span style="font-size:15px">乌鲁木齐市</span></p>
+</td>
+<td id="b-4f847faa0ec2406e9a524353a71515a3" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-0d89431605594977b2550ddc37563b49" style="text-align:start"><span style="font-size:15px">2009年7月5日20时左右，新疆乌鲁木齐市发生打砸抢烧严重暴力犯罪事件，造成众多无辜群众和一名武警被杀害，大量群众和武警受伤，多部车辆被烧毁，多家商店被砸被烧。事实表明，这是一起由境外遥控指挥、煽动，境内具体组织实施，有预谋、有组织的暴力犯罪。新疆维吾尔自治区党委、政府高度重视，及时调集警力处置，事态得到有效控制</span></p>
+</td>
+<td id="b-74ac27182dad4b0281284ad423def9fc" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-ebfaa4ef084f4176bff90d358839846e" style="text-align:start"><span style="font-size:15px">造成197人死亡，1700人受伤</span></p>
+</td>
+<td id="b-56aabdf574284e82951f7cc01eb7d194" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-e92523d6862a4d9193936ff7c1f0fdf0" style="text-align:start"><br><span style="color: "><span style="font-size:15px">热比娅</span></span><br><span style="font-size:15px">世界维吾尔代表大会</span></p>
+</td>
+<td id="b-6ea9d5497ce54076a86bbb3697912a67" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<details id="b-29e265e4f8f2471b8077a43607106ebd">
+<summary><span style="color:rgb(77, 77, 77)"><span style="font-size:15px">恐怖袭击事件</span></span></summary>
+<div>
+<p id="b-c7548cf1f9494f22a73eef994143aff9" style="text-align:start"><span style="font-size:15px">2009年7月5日17时许，两百余人在乌鲁木齐市人民广场聚集，新疆警方按照工作部署和处突预案开展相应处置工作，依法强行带离现场七十余名挑头闹事人员，迅速控制了局面，之后，又有大量人员向解放南路、二道桥、山西巷片区等少数民族聚居的地区聚集，并高喊口号，现场秩序混乱，十九时三十分许，部分人员在山西巷一家医院门前聚集，人数达上千人。十九时四十分许，在人民路、南门一带有三百余人堵路，警方及时将这些人员控制、疏散。二十时十八分许，开始出现打砸行为，暴力犯罪分子推翻道路护栏，砸碎三辆公交汽车玻璃。二十时三十分许，暴力行为升级，暴力犯罪分子开始在解放南路、龙泉街一带焚烧警车，殴打过路行人。约有七八百人冲向人民广场，沿广场向大小西门一带有组织游窜，沿途不断制造打砸抢烧杀事件，二十一时许，约有两百余名青年在人民广场自治区党委附近高呼口号，企图进入党委机关大院未遂后离去。此事件又称为乌鲁木齐“7·5”事件。</span></p>
+</div>
+</details>
+<p id="b-993119ee250d4d94b4b7e11e91db6f88" style="text-align:start"></p>
+</td>
+<td id="b-ec2d0a40175a49c29b86351ee2560988" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-39fddfc5724d4146ba87aeacce7e601f" style="text-align:start"><img src="https://km.sankuai.com/api/file/cdn/1625309615/234767803262?&amp;isNewContent=false&amp;contentType=1" width="120" height="79" id="b-92bae9770fd041a7ac5b4b6b2bdec90e" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1625309615/234769443226?&amp;isNewContent=false&amp;contentType=1" width="115" height="76" id="b-31b52ed9c54843b4a14ec5d31c9cfc02" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1625309615/234767528368?&amp;isNewContent=false&amp;contentType=1" width="93" height="73" id="b-a92b3c2e43f14e299df9a248f7bad00f" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1625309615/234766823907?&amp;isNewContent=false&amp;contentType=1" width="250" height="161" id="b-ed347e13b8b14f49ae198f541b8676e5" alt="原文图片（需学城权限）"></p>
+</td>
+</tr>
+<tr id="b-0ee7a6bd20d142aa836251aae336b6d7">
+<td id="b-cb297df432c74293bc8764f7e30cb312" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-20020bd1315342de864911d500299d7a" style="text-align:center"><span style="font-size:15px">和田市“7·18”暴力恐怖袭击事件</span></p>
+</td>
+<td id="b-b79b567a226444e987399680ba281311" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-554c511e2a7f4c828fadd3c23e08d48e" style="text-align:center"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">2011年7月18日</span></span></p>
+</td>
+<td id="b-314be1ebe6e845a382f70407c67c29a1" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-93983c5db7694851aa8bd747ca07b3da" style="text-align:start"><span style="font-size:15px">和田市</span></p>
+</td>
+<td id="b-bdd0b81641da4b8788a8d9583d56eb98" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-90f62f12bb3b49baaf28446ec0079808" style="text-align:start"><span style="font-size:15px">2011年7月18日 新疆和田市发生暴徒袭击派出所、劫杀人质的恶性事件，至少造成包括2名人质在内的4人死亡，数名行凶暴徒被击毙。这一发生在“中国西部敏感地区”的暴力事件迅速激起西方媒体兴趣，事件被给予两年前乌鲁木齐“7·5”事件一般的密集关注。</span></p>
+</td>
+<td id="b-071e328d359744ffb288998dd2e029ad" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-88bdd0ab806c4cdaa43384728f0f4691" style="text-align:start"><span style="font-size:15px">18人死亡（包括14名犯罪分子）</span></p>
+</td>
+<td id="b-a9864453f0f4435e8ae82e31573d4ffe" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-c4acb704d5e646409336fa4c86daa35b" style="text-align:start"><span style="font-size:15px">未知</span></p>
+</td>
+<td id="b-d708733d74aa4202bd40ba99b3d4c7e5" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<details id="b-a702a006d7a14aa9a2469257fb0af0b1">
+<summary><span style="color:rgb(77, 77, 77)"><span style="font-size:15px">恐怖袭击事件</span></span></summary>
+<div>
+<p id="b-e36727193ec24cfca37d2671eb04d331" style="text-align:start"><span style="font-size:15px">依据中国公安部18日下午对外发布的消息，当日中午12时许，新疆和田市一公安派出所遭一伙暴徒袭击。暴徒冲进派出所袭击民警，劫持人质并实施纵火。我公安、武警迅速赶赴现场，当场击毙数名正在行凶和负隅顽抗的暴徒，成功解救6名人质。截至13时30分，事态已得到有效控制。事件中，1名武警、1名联防队员牺牲，2名人质被害，1名联防队员受重伤。</span></p>
+</div>
+</details>
+<p id="b-7a76c85a2d4b4e6fbf5d02ea7fc116f0" style="text-align:start"></p>
+</td>
+<td id="b-4681785d9ee74dcd933604a06d441cf4" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-5d42c06b44744edd9e5a1ce0f12ba9c1" style="text-align:start"><img src="https://km.sankuai.com/api/file/cdn/1625309615/234769208512?&amp;isNewContent=false&amp;contentType=1" width="142" height="93" id="b-563e9ca4272148758773b25a50fbc9ae" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1625309615/234768401706?&amp;isNewContent=false&amp;contentType=1" width="143" height="94" id="b-bdee77803d9b4b008ea73f570b086c87" alt="原文图片（需学城权限）"></p>
+</td>
+</tr>
+<tr id="b-9b3a60b41cdd485e8d8660b8573dd7c4">
+<td id="b-17ffe48ff07840edb0524f8fdcddf940" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-d0c773f74bd74fd9907bf397992817d3" style="text-align:center"><span style="font-size:15px">喀什暴力恐怖袭击事件</span></p>
+</td>
+<td id="b-5a46f7b4efa2407ca53f2a441ee32cf8" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-962a6d97e21743fd85817008f085da45" style="text-align:center"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">2011年7月30日</span></span></p>
+</td>
+<td id="b-73ccc99cd1d24f51a2efeab9fe19cfde" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-847b3b41178a4343b6b2c39277bb10ad" style="text-align:start"><span style="font-size:15px">喀什市</span></p>
+</td>
+<td id="b-da0602fae8224b638c731e3baec7bbc0" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-afe5d74bb71047129ca00620db16ee53" style="text-align:start"><span style="font-size:15px">2011年喀什暴力恐怖袭击事件，是指于2011年7月30日23时45分和7月31日16时，在中国新疆喀什市连续发生两起暴力袭击事件，中国官方将此事件定性为“恐怖袭击”。该事件共造成14名平民死亡，42人受伤（一说18人死亡、43人受伤）。这次事件中，警方共击毙7名疑犯，其中5名犯罪嫌疑人被公安机关当场击毙，潜逃在外的买买提艾力·铁力瓦尔地、吐逊·艾山二人于8月1日下午在喀什市郊抓捕过程中击毙。</span></p>
+</td>
+<td id="b-2d76cff442084be09ee329f563620005" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-f866d50fd2434649a4fc843de0e6f078" style="text-align:start"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">20名死亡（包括7名犯罪分子）、40人受伤</span></span></p>
+</td>
+<td id="b-5cb2c1bfb0a44f2185f5e294eb4b4e08" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-dd27efc363884b8f8d63ad2c719b802b" style="text-align:start"><span style="font-size:15px">突厥斯坦伊斯兰党</span></p>
+</td>
+<td id="b-1f1547646cf84a32859c74d31c5fddd8" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<details id="b-00b58641103642c290a6aafa9faa39ef">
+<summary><span style="color:rgb(77, 77, 77)"><span style="font-size:15px">恐怖袭击事件</span></span></summary>
+<div>
+<p id="b-e7fb530e84fd46cfa79256e5e4605aab" style="text-align:start"><span style="font-size:15px">7月30日23时45分，两名犯罪嫌疑人在新疆喀什市美食街路口劫持了一辆正在等候红绿灯的单排座卡车，持刀杀害司机后驾车冲向人群，并下车砍杀路边群众，现场造成六名无辜群众死亡，28名群众受伤。周围群众奋力抓捕，搏斗中一名犯罪嫌疑人死亡，一名犯罪嫌疑人被抓获。</span></p>
+<p id="b-0cea30ebb4134489bc000912a900e616" style="text-align:start"><span style="font-size:15px">7月31日16时许，一伙暴力恐怖分子按事先预谋，冲入喀什市香榭街一餐厅（位于步行街），杀害店主和1名服务员，并实施纵火。公安民警、消防官兵赶赴现场救火时，这伙暴徒冲出餐厅，肆意砍杀周围无辜群众，又致使4名群众死亡，12名群众受伤。</span></p>
+</div>
+</details>
+<p id="b-5be4a2e5c02f4c81a579e58e00449d89" style="text-align:start"></p>
+</td>
+<td id="b-98cdbe9bde334a05964ab88482651b94" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-e4e27982c2bd461e9bab544e5f9377eb" style="text-align:start"><img src="https://km.sankuai.com/api/file/cdn/1625309615/234768002944?&amp;isNewContent=false&amp;contentType=1" width="158" height="100" id="b-698e0b719a1046a58c8bfd2f9168e2b0" alt="原文图片（需学城权限）"></p>
+</td>
+</tr>
+<tr id="b-2bfb9210f62442ae8d84e0878f3b6859">
+<td id="b-2af9973368ec47dfb92e6528763f84f5" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-83b12cae3b9842cead6cabf041e2e9a1" style="text-align:center"><span style="font-size:15px">皮山县挟持人质事件</span></p>
+</td>
+<td id="b-0a5e757366a04e3288e228c7d2be7ebd" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-34f391e2cd724a789991a30aae193c4c" style="text-align:center"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">2011年12月28日</span></span></p>
+</td>
+<td id="b-8e739ec78e21404caa0edaf6612dd4c0" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-85e84d573cb441fab36da5492770077d" style="text-align:start"><span style="font-size:15px">皮山县</span></p>
+</td>
+<td id="b-8eba5c403289455fa1343ffaad638bae" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-8f46edfa45b44c229a2ba91cdc84fe4c" style="text-align:start"><span style="font-size:15px">2011年12月28日23时许，在新疆皮山县南部山区，一暴力恐怖团伙劫持两名人质。公安机关根据群众举报，立即出警解救人质。在处置过程中，暴徒拒捕行凶，杀害一名公安干警，致一名干警受伤。公安干警当场击毙暴徒7人，击伤4人，抓捕4人。两名人质获救。</span></p>
+</td>
+<td id="b-341d16fec7b1468995c700e0d2842917" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-382c3996d9184c3ea3603a05511d7863" style="text-align:start"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">8人死亡（包括7名犯罪分子）、5人受伤</span></span></p>
+</td>
+<td id="b-e79bd4a076c34bf0a23a54f85efc222b" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-33bb87e98a0545798585ccd7e612d740" style="text-align:start"><span style="font-size:15px">未知</span></p>
+</td>
+<td id="b-fdb676a9a9104cbfaa7c63dc8301720a" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<details id="b-1fa4bccb66ad408cac470503d70023da">
+<summary><span style="color:rgb(77, 77, 77)"><span style="font-size:15px">恐怖袭击事件</span></span></summary>
+<div>
+<p id="b-63210425199f4c7b8908568f1f0c70fc" style="text-align:start"><span style="font-size:15px">一支由15名年轻男子和他们妻子组成的队伍在前往巴基斯坦圣战营地途中于12月28日晚上11点在阔什塔格镇挟持两名牧羊人，并强迫牧羊人当他们的向导。阔什塔格镇农业合作社的几名工人目睹挟持事件。在边境村庄穆卡拉，牧羊人告知当地警方该队伍的意图。五名警察在皮山警察局副局长阿迪尔·阿布杜维利的领导下，试图说服该队伍放弃他们的计划，同时就释放牧羊人一事进行谈判。而该队伍与警方发生争执，当阿布杜维利碰到其中一名男子的妻子时，一名挟持者将阿布杜维利刺死，并打伤另一名警察。据当地居民称，剩下的警察随后开枪，打死7名挟持者，打伤其中4人。两名人质被安然无恙的救出。</span></p>
+</div>
+</details>
+<p id="b-d00d38c686fe48bd9409cedb615ac8c6" style="text-align:start"></p>
+</td>
+<td id="b-a382a9017f5242a38bb0b110cc9b125f" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-35ecfa1a98974fdcbb82b7b1a6db3115" style="text-align:start"></p>
+</td>
+</tr>
+<tr id="b-59d31a4e655d4c8e931181c896364a92">
+<td id="b-049dd8a009fb49158fb81eb44e39cf72" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-065a88c364e54c40ad88e7e07cd64c96" style="text-align:center"><span style="font-size:15px">叶城县“2·28”暴力恐怖袭击事件</span></p>
+</td>
+<td id="b-f3bbc5534d404868822660fa6a221de5" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-eee85c291fe2476fb4581e13f5a2885c" style="text-align:center"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">2012年2月28日</span></span></p>
+</td>
+<td id="b-dec6b3b70c3e42018a93cdf8d9d0522c" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-6671e04653d24c109948d59227fbdd39" style="text-align:start"><span style="font-size:15px">叶城县</span></p>
+</td>
+<td id="b-ae976ef1ffe14f928a4015df3763ce3f" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-d7d3d6e82754425ab3130f63a89511d8" style="text-align:start"><span style="font-size:15px">2012年叶城暴力恐怖袭击事件，即叶城“2·28”暴力恐怖案件，是指2012年2月28日18时许，发生于新疆喀什地区叶城县幸福路步行街农贸市场内的砍杀平民事件，中国官方将此事件定性为“恐怖袭击”。</span></p>
+</td>
+<td id="b-2f6429fdf38946bda5cc0047488d27bd" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-c2e48e14e9a84ce98beb5852c81e37cb" style="text-align:start"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">24人死亡（包括8名犯罪分子）、多人受伤</span></span></p>
+</td>
+<td id="b-5b226fec44d147bca15db08087c7d64c" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-ec42031b94a34dd29aefb814b8e9f3e0" style="text-align:start"><span style="font-size:15px">阿布都克热木·马木提</span></p>
+</td>
+<td id="b-08588cac20354ae5ad6f120c482b25e5" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<details id="b-cab492fc538746e3a38cffe6a4592ccd">
+<summary><span style="color: "><span style="font-size:15px">恐怖袭击事件</span></span></summary>
+<div>
+<p id="b-7cedf26d18714a4da6b372c42d06e187" style="text-align:start"><span style="font-size:15px">2月28日上午，阿布都克热木·马木提在家中召集组织成员，进行编组、分工，分发刀、斧等工具，确定实施暴力行动。下午18时许，暴力团伙一行人来到叶城县幸福路步行街，持刀、斧疯狂砍杀平民，当场致13人死亡，16人受伤（其中2人经抢救无效死亡）</span></p>
+</div>
+</details>
+<p id="b-56eef43858294997a5c2cea931c8f5a5" style="text-align:start"></p>
+</td>
+<td id="b-91eee5664a014f03975523bd0c9f9b57" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-2b8caf55c44f4d90a4a2937119b420b4" style="text-align:start"></p>
+</td>
+</tr>
+<tr id="b-5704a6ced2804abea913b7132303e4cd">
+<td id="b-9df7afe63292484e8cadd9203edbb192" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-d7b5896e76724367bb917251827c3d1e" style="text-align:center"><span style="font-size:15px">天津航空7554号班机劫机事件</span></p>
+</td>
+<td id="b-ef9c318283d64b2abde086182c071ea1" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-822b456147824d279dcd4ebc1d1977ab" style="text-align:center"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">2012年6月29日</span></span></p>
+</td>
+<td id="b-ee6d08d899924630a0e696b9b486563a" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-c5adc53bdeb74a26a51812459a6b5d30" style="text-align:start"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">和田飞往乌鲁木齐</span></span></p>
+</td>
+<td id="b-93c41ff6b4544c0582936bdb61141545" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-7d9bf51a250a4ff9b1a450f18deddca3" style="text-align:start"><span style="font-size:15px">2012年6月29日，由新疆和田飞往乌鲁木齐的GS7554航班于12:25分起飞，12:35分飞机上有6名歹徒暴力劫持飞机，随后被机组人员和乘客制服，飞机随即返航和田机场并安全着陆，6名歹徒被公安机关抓获。</span></p>
+</td>
+<td id="b-8739b546ed434c09af6a46f754f8860b" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-ebb9a376f6c947098ab137119b6ca8ad" style="text-align:start"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">2人死亡（均为犯罪分子）、十余人受伤</span></span></p>
+</td>
+<td id="b-0a4477259832402a8953ffd423a94886" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-ab652dbb3b7a44a1b5b08c9ba7e254cd" style="text-align:start"><span style="font-size:15px">木沙·玉素甫、阿巴拜柯热·伊比拉伊木、艾热西地卡力·依明、买买提艾力·玉素甫、亚森·麦麦提、吾麦尔·依明</span></p>
+</td>
+<td id="b-564fc92ba6314f07a691685c34da7c9d" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<details id="b-daa107fded1a4387837c403c0e9e9944">
+<summary><span style="color: "><span style="font-size:15px">恐怖袭击事件</span></span></summary>
+<div>
+<p id="b-27ee93f268a541eeacc9a21d15321e11" style="text-align:start"><span style="font-size:15px">早晨12点25分，从新疆的和田到乌鲁木齐一个航班上，起飞10分钟，有6名歹徒用暴力的方式要砸开驾驶舱的门，企图要进行劫机，被机组人员和乘客共同制服，飞机后来就返回到和田机场，安全着陆了，飞机上的其他乘客就安全返回了，其中6名歹徒被抓住了。</span></p>
+</div>
+</details>
+<p id="b-1ffb465acb4c489ca9422b69eec83bb8" style="text-align:start"></p>
+</td>
+<td id="b-f0df1ff5712e4e7484f3214fe0cc5ccc" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-bf69c906fdf44b589e4c27dbda50c295" style="text-align:start"><img src="https://km.sankuai.com/api/file/cdn/1625309615/234767924095?&amp;isNewContent=false&amp;contentType=1" width="85" height="101" id="b-69b9d35e79074cc3a1e723946de372e3" alt="原文图片（需学城权限）"></p>
+</td>
+</tr>
+<tr id="b-d1d87981abe94cc7b60418db6181efe4">
+<td id="b-2195d532a3be4336a941c19d552834ca" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-d5154474daef478e89fe87c6ffda54f3" style="text-align:center"><span style="font-size:15px">巴楚县“4·23”暴力恐怖袭击事件</span></p>
+</td>
+<td id="b-adf37a1bac6e443c91f03edc21851c84" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-7c0e0332132b4eefaa6b58deecbdc8fa" style="text-align:center"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">2013年4月23日</span></span></p>
+</td>
+<td id="b-1efc742c1a11465fb11fe5681612f3aa" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-63882141690544cbb698853a0192e210" style="text-align:start"><span style="font-size:15px">巴楚县</span></p>
+</td>
+<td id="b-42fa9b57130441fe80f11895696a23d5" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-d5238718886d48ecae422e2845900c50" style="text-align:start"><span style="font-size:15px">2013年巴楚县“4·23”暴力恐怖袭击事件</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">，是指于2013年4月23日在</span></span><span style="font-size:15px">中国新疆维吾尔自治区</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">西南部</span></span><span style="font-size:15px">喀什地区巴楚县</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">西南</span></span><span style="font-size:15px">色力布亚镇</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">发生的一起暴力袭击事件，中国官方将此事件定性为“</span></span><span style="font-size:15px">恐怖袭击</span></p>
+</td>
+<td id="b-ac8adb71952848e08ea6d4bc60abe62e" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-622fb86f02b5409f899a8155d5fbb404" style="text-align:start"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">21人死亡（包括6名犯罪分子）、2人受伤</span></span></p>
+</td>
+<td id="b-db67ed24fd434a04851f87176d7dd106" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-e6daeac2d9ed40088b7701cee033d870" style="text-align:start"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">木沙·艾山、艾尼瓦尔·阿布都热依木、买买提明·巴拉提、买买提明·马合木提、艾比布拉·巴拉提等人</span></span></p>
+</td>
+<td id="b-36ee9cf71df8410f91cc0fbc14d57c4f" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<details id="b-9fa1ffcf5daa486999fe1ea16a670973">
+<summary><span style="color:rgb(77, 77, 77)"><span style="font-size:15px">恐怖袭击事件</span></span></summary>
+<div>
+<p id="b-3f6429ca862f48a99dbd2ffe87f64e37" style="text-align:start"><span style="font-size:15px">据中共巴楚县党委宣传部称，4月23日下午13时30分，3名社区工作人员走访镇内民居时，在一所居所内发现可疑刀具与人士，随后通过电话转报上级，其后被隐蔽室内的几名暴徒控制。当地派出所接获警报后，随同社区管理人员前往调查，赶赴现场时遭到居室内外的暴徒的袭杀，室内被控制的3名社区工作人员被杀害。赶来的众人遭到多名暴徒持1.2米长的刀具伏击，唯一携带手枪的派出所所长发射全部6颗子弹后仍然未能够突围，众人被逼进一间房间。暴徒随后堵死房门，灌入汽油，并且纵火将众人烧死。遇害者中包括蒙古族的色力布亚镇副镇长孙超。最后继续施暴的暴徒被警察击毙，合共6人，其余8人被逮捕。事件造成15位社区工作人员和警察殉职（其中维吾尔族10人、汉族3人、蒙古族2人）、2人受伤（均为维吾尔族），共21人死亡。烧毁房屋11间。</span></p>
+<p id="b-10e3dc5c0b984c73b62fc08821289ec4" style="text-align:start"><span style="font-size:15px">4月29日天山网公布的细节称，木沙·艾山、艾尼瓦尔·阿布都热依木、买买提明·巴拉提、买买提明·马合木提、艾比布拉·巴拉提等人自2012年9月以来开始参加喀斯木·买买提组织的地下讲经班，观看宗教极端和暴恐内容的音视频，形成了以喀斯木·买买提为头目的团伙。当年12月初，喀斯木·买买提带领众人及家人集中至巴楚县色力布亚镇分散租住，并与大家在家中进行体能训练，模仿视频练习杀人技巧。2013年3月初，喀斯木·买买提与众人筹备活动经费，制造爆炸装置、头套、遥控器等，3月中旬，制造了8把大刀，先后进行5次试爆活动，并预谋这年夏天在喀什市人员密集的公共场所“干大事”。4月23日上午10时许，喀斯木·买买提命买买提明·马合木提、艾尼瓦尔·阿布都热依木在买买提明·巴拉提家制火药，自己与其他人在附近干活。13时许，买买提明·巴拉提、艾比布拉·巴拉提返回家时遇见社区工作人员和警察入户走访，艾比布拉·买买提借口取钥匙向喀斯木·买买提等人报信。喀斯木·买买提等5人随即乘坐摩托车赶回，将木沙·艾山出租房内的大刀等分发给大家，在买买提明·巴拉提家附近观察情况，当看到制爆物品被发现、制爆人员被控制后，喀斯木·买买提带领团伙成员冲进院内，与院内成员对在场社区干部及民警进行砍杀。镇派出所所长开枪击毙暴徒1名、击伤1名，3名社区女干部被杀害，其余9人被逼至房内，暴徒向屋内泼洒汽油并纵火，致全部遇难。后赶来的乡镇干部及民警相继遭伏击，民警击毙暴徒1名，1名乡镇干部遇害，2名民警重伤不治身亡。此后，4名暴徒冲出巷道打砸烧毁车辆，在冲击镇政府时1人被击毙，另3人劫持一辆三轮摩托车转而冲向派出所，将派出所档案室和民警宿舍点火焚烧，被击毙。[</span></p>
+</div>
+</details>
+<p id="b-ef8cb19a8d3b4a5d9dd87c53451eaa39" style="text-align:start"></p>
+</td>
+<td id="b-fb4e5a3fa31a4e07b17ec148284aa774" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-b6525f21ddee4b01a8200ddf877b70f8" style="text-align:start"></p>
+</td>
+</tr>
+<tr id="b-3405ac1029ee4953a5b3f0cf336719dd">
+<td id="b-9885d5b6c753432d9d167dca5a8a4f04" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-e586dc13cb5a45c0ac9bbad9ff381cc3" style="text-align:center"><span style="font-size:15px">鄯善县“6·26”暴力恐怖袭击事件</span></p>
+</td>
+<td id="b-6c950a4bfeb441038fa9cdb1f4fb9784" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-3ae4223387614c1f88b36fe797a09129" style="text-align:center"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">2013年6月26日</span></span></p>
+</td>
+<td id="b-ff30c23bcedb4f2aa8a3b9a7b52f0b9a" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-cba4f904cc464a929c56fdc8a6d578b5" style="text-align:start"><span style="font-size:15px">鄯善县鲁克沁镇</span></p>
+</td>
+<td id="b-8f862820853d480098b8b6700c187d69" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-d43332738052432dba325edf263ea5fa" style="text-align:start"><span style="font-size:15px">新疆鄯善恐怖袭击事件</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">，又称</span></span><span style="font-size:15px">新疆鄯善县严重暴力恐怖袭击案</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">，是指2013年6月26日凌晨5时50分许，发生在</span></span><span style="font-size:15px">中华人民共和国新疆吐鲁番地区鄯善县鲁克沁镇</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">的一起暴力袭击事件，中国官方将此事件定性为“</span></span><span style="font-size:15px">恐怖袭击</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">”。 多名暴徒先后袭击鲁克沁镇</span></span><span style="font-size:15px">派出所</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">、特巡警中队、镇政府和民工工地，放火焚烧警车。该案件造成24人遇害，其中有16人为</span></span><span style="font-size:15px">维吾尔族</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">，2人为</span></span><span style="font-size:15px">公安民警</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">；造成21名民警和群众受伤。公安民警当场击毙暴徒11人、击伤并抓获4人。</span></span><sup><a href="https://zh.wikipedia.org/wiki/2013%E5%B9%B4%E9%84%AF%E5%96%84%E5%8E%BF%E2%80%9C6%C2%B726%E2%80%9D%E6%9A%B4%E5%8A%9B%E6%81%90%E6%80%96%E8%A2%AD%E5%87%BB%E4%BA%8B%E4%BB%B6#cite_note-xin1-3" title="[" id="b-53ed53cae7de4e0d80b0a60f08dfcf16"><span style="font-size:15px">[</span></a></sup></p>
+</td>
+<td id="b-4aa01cf675b04bd38e68da270e93c409" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-6395fe8196194ddbbe15f987eb627901" style="text-align:start"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">24人死亡（包括11名犯罪分子）、23人受伤</span></span></p>
+</td>
+<td id="b-a6bdc30a1cbb4a7b9c49a3d15e1a55bc" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-47e1860907bc4493ba8bd2f801e3b2aa" style="text-align:start"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">合买提尼牙孜·斯迪克</span></span></p>
+</td>
+<td id="b-53cd141dc66442c38300862d1d9c4e07" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<details id="b-c12dbec8872c4a7da526bb1f8607971b">
+<summary><span style="color:rgb(77, 77, 77)"><span style="font-size:15px">恐怖袭击事件</span></span></summary>
+<div>
+<p id="b-f250e290bd0c45b3aee6b351a3aaf176" style="text-align:start"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">根据2013年6月30日，案件告破时警方发布信息，艾合买提尼牙孜·斯迪克自2013年2月以来纠集多人进行宗教极端活动，收听煽动暴力恐怖活动的音频资料，形成了17人的暴力恐怖活动团伙。6月中旬以来，该团伙筹措资金，购买刀具、汽油等作案工具，多次踩点。6月25日，公安机关根据线索抓获该团伙成员1人。艾某因害怕罪行败露，26日晨，伙同15名暴徒，先后袭击鄯善县鲁克沁镇派出所、巡警中队、镇政府、建筑工地、个体商店和美容美发厅，烧毁车辆，持刀疯狂砍杀公安民警和无辜群众，造成24人死亡，其中维吾尔族16人、汉族8人，2名女性，另有21人受伤。处置过程中，当场击毙暴徒11人，击伤并抓获4人，缴获刀具、汽油桶等作案工具若干。经群众举报，最后一名逃犯伊布拉音·艾力于6月30日被抓获</span></span></p>
+</div>
+</details>
+<p id="b-a5290181ae434e3ca68c53412559d764" style="text-align:start"></p>
+</td>
+<td id="b-30acbbb3594045dfb8391d6178ae34dd" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-bdfc4725f01c4a90bb6364968444242a" style="text-align:start"></p>
+</td>
+</tr>
+<tr id="b-22194338f15945919dd2d3838662a7a9">
+<td id="b-cb2efed4aaaa491d9d4aea9043ec55e1" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-8ae010677b254195825c28a053f84f85" style="text-align:center"><span style="font-size:15px">巴楚县“11·16”暴力恐怖袭击事件</span></p>
+</td>
+<td id="b-53cc0198a94c473793000cca68e0c289" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-886951eb10954cb5933eaf390392c19e" style="text-align:center"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">2013年11月16日</span></span></p>
+</td>
+<td id="b-b5a813bfd8854c0193349fc29b6fbef7" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-2cafbde0a67e4af69e3343801965d88d" style="text-align:start"><span style="font-size:15px">巴楚县</span></p>
+</td>
+<td id="b-3ba8f876dfe1425a909a41140d28356f" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-2bd6ee531c3b4403b0a87f1c44430232" style="text-align:start"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">阿布拉·艾海提等9名暴徒持刀斧袭击色力布亚镇派出所，致使2名协警牺牲，2名民警受伤。暴徒被当场全部击毙</span></span></p>
+</td>
+<td id="b-d31de82b35ef4fa293b6a9221f948d98" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-8bc2a59ef2fd40d1a7e2bddeea789fe9" style="text-align:start"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">致使2名协警牺牲，2名民警受伤。暴徒被当场全部击毙</span></span></p>
+</td>
+<td id="b-419d0700f3c94942a6f4e8beba80051a" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-44dc083a7ead4979bd5d5902dcb306fb" style="text-align:start"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">阿布拉·艾海提</span></span></p>
+</td>
+<td id="b-f7880f7afc0442f88fc10d4a39c4f92a" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<details id="b-d6af1fd546d34d51a644dd5090b1d056">
+<summary><span style="color:rgb(77, 77, 77)"><span style="font-size:15px">恐怖袭击事件</span></span></summary>
+<div>
+<p id="b-9a4d419c745e46a590c39f3a62e3e6ca" style="text-align:start"><span style="font-size:15px">2013年11月16日在中华人民共和国新疆巴楚县发生的一起袭击公安派出所的暴力事件，中国官方将此事件定性为“恐怖袭击”</span><sup><a href="https://zh.wikipedia.org/wiki/2013%E5%B9%B4%E5%B7%B4%E6%A5%9A%E5%8E%BF%E2%80%9C11%C2%B716%E2%80%9D%E6%9A%B4%E5%8A%9B%E6%81%90%E6%80%96%E8%A2%AD%E5%87%BB%E4%BA%8B%E4%BB%B6#cite_note-1" title="[1]" id="b-b5acdf4c5092494e892320f03351350a"><span style="font-size:15px">[1]</span></a></sup><span style="font-size:15px">。</span></p>
+<p id="b-82b050341ad44e43b571176371e9fb3e" style="text-align:start"><span style="font-size:15px">该事件发生于巴楚县西南的色力布亚镇，据喀什警方消息，11月16日下午17时30分左右，阿布拉·艾海提等9名暴徒持刀斧袭击色力布亚镇派出所，致使2名协警牺牲，2名民警受伤。暴徒被当场全部击毙。</span></p>
+<p id="b-f995fbccb409453caaee81ed0966d597" style="text-align:start"><span style="font-size:15px">死亡协警一个叫玉苏普‧阿卜杜克热木，另一名是汉人。袭击者全为17至23岁左右的维吾尔族青年，无身份证明文件。据说袭击者开车冲进派出所院子，从车上一冲下来就把协警杀了。</span></p>
+</div>
+</details>
+<p id="b-a9d517908edb4e59a4e01e9323d484a7" style="text-align:start"></p>
+</td>
+<td id="b-1bbb6830e19e4451ae2b2e3ab2d2fdb2" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-5c342979674d48bdb8040a9479a4007b" style="text-align:start"></p>
+</td>
+</tr>
+<tr id="b-ae966ff957b542bab3534cfc39fa0114">
+<td id="b-48040dcd5990435289f83d27006e15e7" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-bbc7350eec374a30acc7b38222ffdf6a" style="text-align:center"><span style="font-size:15px">疏附县“12·15”暴力恐怖袭击事件</span></p>
+</td>
+<td id="b-8330a5979851496db87c3178a0169d85" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-2cbf22e294404ce585cc63ccc3190445" style="text-align:center"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">2013年12月15日</span></span></p>
+</td>
+<td id="b-45f865e9f8c2465baa8b64efe33c8baa" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-3a0757cd40404828bfbce19ee1d401d1" style="text-align:start"><span style="font-size:15px">疏附县萨依巴格乡</span></p>
+</td>
+<td id="b-3c4a695b2e2d4e6e8dd145c5de5a7f4f" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-61bcdca4c1144a0fb213ee0d5ad2437b" style="text-align:start"><span style="font-size:15px">新疆疏附暴力恐怖袭击事件</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">，中国官方称</span></span><span style="font-size:15px">12·15新疆疏附暴力恐怖袭击案</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">，是指于2013年12月15日发生在</span></span><span style="font-size:15px">新疆喀什疏附县萨依巴格乡</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">的一起袭击事件，袭击对象是正在进行常规入户调查的</span></span><span style="font-size:15px">公安民警</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">，中国官方将此事件定性为“</span></span><span style="font-size:15px">恐怖袭击</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">”</span></span></p>
+</td>
+<td id="b-76d0b45b808f4dd49dc55cd1acd1be10" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-f450521602e14f398702d1f9056a2d72" style="text-align:start"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">16人死亡（包括14名犯罪分子）</span></span></p>
+</td>
+<td id="b-c051ca12b5e5429584d7190efce5d9e7" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-a402eb6bab2b4878aac906eba5d0199f" style="text-align:start"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">艾山·司马义为</span></span></p>
+</td>
+<td id="b-9ddc0398b76148b983aca7de84198dbc" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<details id="b-85a5e75e58d74cab876ca4155f0a6da2">
+<summary><span style="color:rgb(77, 77, 77)"><span style="font-size:15px">点击展开内容</span></span></summary>
+<div>
+<p id="b-4b7731fbcf8b4c2699c67c0d3937d5e2" style="text-align:start"><span style="font-size:15px">萨依巴格乡位于疏附县城南郊，乡政府与县城的直线距离3.5公里。15日23时许，疏附县公安局民警在萨依巴格乡展开常规入户调查，当民警进入其中一户村舍时，发现内有大量人员聚集，正当民警对屋内人员进行询问时，有人突然使用砍刀袭击民警，2名民警当场牺牲，他们还从屋内取出自制爆炸物袭击赶来增援的公安联防人员。公安人员警告无效后，果断开枪处置，当场击毙14人，抓获2人。截止17日，警方已抓获嫌疑人6名，缴获一批爆炸装置、自制枪支、刀具等。。</span></p>
+<p id="b-bbcbb898d30c4f99a009a72eb25a7f75" style="text-align:start"><span style="font-size:15px">16日晚，经警方初步查明，“12·15”案件是一起有组织、有预谋的暴力恐怖袭击案件，今年8月开始，该团伙以以艾山·司马义为首，多次聚集，观看暴恐视频，宣扬宗教极端思想，制造爆炸装置、枪支，数次进行试爆，预谋实施暴恐活动。</span></p>
+</div>
+</details>
+<p id="b-0a5ce3c85ca948d9a91c6158d7ea7c86" style="text-align:start"></p>
+</td>
+<td id="b-1e8fc190792647ee992bc8d7ba0fdaf6" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-d5e92f67f60c41a18817d2aa1850135f" style="text-align:start"></p>
+</td>
+</tr>
+<tr id="b-ee34b5e21c104e3eba1dc160794bb7e2">
+<td id="b-f8419ec71ca84ffd9917c43f5061e3fe" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-4c37e308f3db414c81d03d140558d2ad" style="text-align:center"><span style="font-size:15px">莎车县“12·30”暴力恐怖袭击事件</span></p>
+</td>
+<td id="b-c2d59214e70041ebaa5833d06f20651b" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-55fc0851ec2c43419e2926b67190a193" style="text-align:center"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">2013年12月30日</span></span></p>
+</td>
+<td id="b-e1099a6949c349ca9d320a5b16fc366f" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-b0f4367e5c9e480783dae26500dc75b7" style="text-align:start"><span style="font-size:15px">莎车县</span></p>
+</td>
+<td id="b-81022757b45c4eeab408e7d8c219cc17" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-eda47d87b0f747ddb3c680dc92b40291" style="text-align:start"><span style="font-size:15px">莎车县暴力事件是指2013年12月30日上午6时许发生在中国新疆西南部喀什地区莎车县的一起袭击县公安局的暴力事件，中国官方将此事件定性为“恐怖袭击”。</span><sup><a href="https://zh.wikipedia.org/wiki/2013%E5%B9%B4%E8%8E%8E%E8%BD%A6%E5%8E%BF%E2%80%9C12%C2%B730%E2%80%9D%E6%9A%B4%E5%8A%9B%E6%81%90%E6%80%96%E8%A2%AD%E5%87%BB%E4%BA%8B%E4%BB%B6#cite_note-3" id="b-b8c371b2f5734c179aade5e9fba34163"></a></sup></p>
+<p id="b-facd245f42ef42538d4e9890153a06e1" style="text-align:start"><span style="font-size:15px">据新华社报导，当时9名恐怖分子持砍刀袭击，投掷爆炸装置，纵火焚烧警车。警方击毙8人，抓获1人</span></p>
+</td>
+<td id="b-33b53590520f472ab6f55deb65806d4f" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-f7c4a365beb04422b5a167998f54bdb7" style="text-align:start"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">8人死亡（均为犯罪分子）</span></span></p>
+</td>
+<td id="b-98f14c2002d7481b9b0c5a09eaeedee5" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-99cb083c96864c1e94bae674096c2e1c" style="text-align:start"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">吾斯曼·巴拉提、阿布都艾尼·阿布都喀迪尔为首的9名恐怖分子</span></span></p>
+</td>
+<td id="b-6733072d6cd7489dba7af5fc73dd3662" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<details id="b-995afd03e4b343a08968e07923bd3439">
+<summary><span style="color:rgb(77, 77, 77)"><span style="font-size:15px">点击展开内容</span></span></summary>
+<div>
+<p id="b-f46aa6b557734cf3a60c1bd7d0ae3ed7" style="text-align:start"><span style="font-size:15px">车县暴力事件是指2013年12月30日上午6时许发生在中国新疆西南部喀什地区莎车县的一起袭击县公安局的暴力事件，中国官方将此事件定性为“恐怖袭击”。</span><sup><a href="https://zh.wikipedia.org/wiki/2013%E5%B9%B4%E8%8E%8E%E8%BD%A6%E5%8E%BF%E2%80%9C12%C2%B730%E2%80%9D%E6%9A%B4%E5%8A%9B%E6%81%90%E6%80%96%E8%A2%AD%E5%87%BB%E4%BA%8B%E4%BB%B6#cite_note-1" title="[" id="b-ac5fede799f646b3977e45411b8b4901"><span style="font-size:15px">[</span></a></sup></p>
+<p id="b-d8ab52c18424451a8b49ee53a4316a79" style="text-align:start"><span style="font-size:15px">据新华社报导，当时9名恐怖分子持砍刀袭击，投掷爆炸装置，纵火焚烧警车。警方击毙8人，抓获1人。</span></p>
+<p id="b-69227adb16134030ae8fae5c5c4e867e" style="text-align:start"><span style="font-size:15px">新疆警方30日初步查明，以吾斯曼·巴拉提、阿布都艾尼·阿布都喀迪尔为首的9名恐怖分子自2013年8月起多次观看暴恐视频，宣扬宗教极端思想，结成暴恐团伙。该团伙筹措资金，制造爆炸燃烧装置并进行试爆，预谋实施恐怖袭击。警方在抓捕现场缴获爆炸装置25枚、自制砍刀9把等一批作案工具。处置过程中警方无人员伤亡</span></p>
+</div>
+</details>
+<p id="b-af4bd0d733004bb3a2b6fcb92afb96c5" style="text-align:start"></p>
+</td>
+<td id="b-2415a8133f2b410296677fcc76894025" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-d247e89094f046aea622b7ecf471002b" style="text-align:start"></p>
+</td>
+</tr>
+<tr id="b-dc279a41d0274eba9bb56af79ba45084">
+<td id="b-9bd92dfb1587415e973e5eae8311a872" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-e7db352a35d74e94b363486b0c7d8033" style="text-align:center"><span style="font-size:15px">乌什县“2·14”暴力恐怖袭警事件</span></p>
+</td>
+<td id="b-c17aa6c823274fb99cd99cf70363f081" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-f5ca0837d8b9464a90cf2c39d7c13b05" style="text-align:center"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">2014年2月14日</span></span></p>
+</td>
+<td id="b-7f43873d0fea4e70857437b684b69670" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-36b71ffcf6ea4f9fbc29a634de6c825b" style="text-align:start"><span style="font-size:15px">乌什县</span></p>
+</td>
+<td id="b-5f9d6b022b1e46568f39500a28657fc6" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-6e34c45e981045308638d6b508f53342" style="text-align:start"><span style="font-size:15px">2014年乌什县袭击事件</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">，是指于2014年2月14日在中国</span></span><span style="font-size:15px">新疆阿克苏地区乌什县</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">发生的一起袭击公安巡逻车辆的暴力事件，中国官方将此事件定性为“</span></span><span style="font-size:15px">恐怖袭击</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">”</span></span></p>
+</td>
+<td id="b-331fd6ea02a1497ba7e97e0dc140c401" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-a851f09fea8440bcb7c14f84622c129e" style="text-align:start"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">11人死亡（均为犯罪分子）、4人受伤</span></span></p>
+</td>
+<td id="b-74b041d75cf543db88071748b3275ef9" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-df38bb6216e04557a0035fb6607abd5d" style="text-align:start"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">麦合木提江·托合提</span></span></p>
+</td>
+<td id="b-52ced3864d744322aacbad7e9956b53e" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<details id="b-16fd545d37f54a4d9a29542fe4bd80ab">
+<summary><span style="color:rgb(77, 77, 77)"><span style="font-size:15px">点击展开内容</span></span></summary>
+<div>
+<p id="b-4db56b04515d496cad9634675f633941" style="text-align:start"><span style="font-size:15px">2014年2月14日16时许，恐怖分子驾驶车辆，携带爆燃装置，手持砍刀，袭击公安巡逻车辆，致2名群众和2名民警受伤，5辆执勤车损毁。公安民警在处置过程中，击毙8人，抓获1人。3名犯罪嫌疑人在实施犯罪时发生自爆死亡</span><sup><a href="https://zh.wikipedia.org/wiki/2014%E5%B9%B4%E4%B9%8C%E4%BB%80%E5%8E%BF%E2%80%9C2%C2%B714%E2%80%9D%E6%9A%B4%E5%8A%9B%E6%81%90%E6%80%96%E8%A2%AD%E8%AD%A6%E4%BA%8B%E4%BB%B6#cite_note-:0-1" title="[1]" id="b-6fe9e6e0862a407e8ee57351ace40bfe"><span style="font-size:15px">[1]</span></a></sup><span style="font-size:15px">。</span></p>
+<p id="b-cc8d939b9980401bb338bf049402ad82" style="text-align:start"><span style="font-size:15px">据当地警方侦查，2013年9月起以麦合木提江·托合提为首的13人陆续纠集，收听观看暴恐音视频，进行体能训练，结成暴恐团伙。2014年1月以来，开始购买作案车辆，制造爆燃装置、砍刀，多次试爆，预谋伺机袭击公安巡逻车辆。警方现场缴获数十枚爆燃装置及砍刀、车辆等作案工具</span></p>
+</div>
+</details>
+<p id="b-251b95716cfd41279f7d2045200ea825" style="text-align:start"></p>
+</td>
+<td id="b-e8274863c5094631aec931ec7e56d8b0" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-cd91038a207f4cb6b895ef5c608762ad" style="text-align:start"></p>
+</td>
+</tr>
+<tr id="b-5b0a0c49fcb64cffa5b585c4561bdff3">
+<td id="b-35ba171b727147dfa20850ab865f5d3e" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-7d9a56f75149475cb923054babef45ce" style="text-align:center"><span style="font-size:15px">乌鲁木齐火车南站暴力恐怖袭击案件</span></p>
+</td>
+<td id="b-3a44cd4041284db29ca679ad5e921df9" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-fb5480a5529b47fa81703a9e270a5f0e" style="text-align:center"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">2014年4月30日</span></span></p>
+</td>
+<td id="b-4ae9be83f118468493bbe6f71e7d57e1" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-98c43b8c58064917b00976493087e74f" style="text-align:start"><span style="font-size:15px">乌鲁木齐市</span></p>
+</td>
+<td id="b-609f2adf1d134862bec919f3aacc0ae9" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-c822e275e6d24137a68022fc5a9f0b39" style="text-align:start"><span style="font-size:15px">2014年乌鲁木齐火车南站暴力恐怖袭击案件</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">，又称为“</span></span><span style="font-size:15px">乌鲁木齐火车南站厮杀案</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">”，是于2014年4月30日19时10分左右在</span></span><span style="font-size:15px">中国新疆维吾尔自治区乌鲁木齐市火车南站</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">出站口接人处发生的一起武装械斗及</span></span><span style="font-size:15px">爆炸</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">事件。</span></span></p>
+</td>
+<td id="b-7f6d224670e746e1a0e27f93df9b5c03" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-84360bbf3b8b4e58b8663146678ecbf8" style="text-align:start"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">3人死亡（包括2名犯罪分子）、79人受伤</span></span></p>
+</td>
+<td id="b-9df2ce1b92d44b8db1bae8f01e962c28" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-ceda0c300dd94cfba72465257edb585d" style="text-align:start"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">色地尔丁·沙吾提</span></span></p>
+</td>
+<td id="b-f79b09ebe70340f8919204216c8732ff" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<details id="b-bbe0a80f06ce4d7ba4c96162e613fe8c">
+<summary><span style="color:rgb(77, 77, 77)"><span style="font-size:15px">点击展开内容</span></span></summary>
+<div>
+<p id="b-fc6744922afe4427b45fcff8bf569dae" style="text-align:start"><span style="font-size:15px">2014年乌鲁木齐火车南站暴力恐怖袭击案件</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">，又称为“</span></span><span style="font-size:15px">乌鲁木齐火车南站厮杀案</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">”，是于2014年4月30日19时10分左右在</span></span><span style="font-size:15px">中国新疆维吾尔自治区乌鲁木齐市火车南站</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">出站口接人处发生的一起武装械斗及</span></span><span style="font-size:15px">爆炸</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">事件。 中国官方称这一事件为“</span></span><span style="font-size:15px">乌鲁木齐火车南站‘4·30’暴力恐怖袭击案件</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">”，属“</span></span><span style="font-size:15px">恐怖袭击</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">”。该事件共造成3人死亡，79人受伤，其中4人重伤。3名死者中有1名平民，2名袭击者系引爆身上炸弹身亡。中国警方称此次爆炸案为“</span></span><span style="font-size:15px">东突厥斯坦伊斯兰运动</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">”恐怖组织所为</span></span><sup><a href="https://zh.wikipedia.org/wiki/2014%E5%B9%B4%E4%B9%8C%E9%B2%81%E6%9C%A8%E9%BD%90%E7%81%AB%E8%BD%A6%E5%8D%97%E7%AB%99%E6%9A%B4%E5%8A%9B%E6%81%90%E6%80%96%E8%A2%AD%E5%87%BB%E6%A1%88%E4%BB%B6#cite_note-nanzao3-6" id="b-0be65f54e6d943cf9aab527cafb50592"></a></sup><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">。</span></span></p>
+</div>
+</details>
+<p id="b-66fd675b95ee420e8894ec2954749d23" style="text-align:start"></p>
+</td>
+<td id="b-344d2e2620604dd9a692f3480dd535b5" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-aeae1b0cf77d41198b7127af011887ed" style="text-align:start"><img src="https://km.sankuai.com/api/file/cdn/1625309615/234768558429?&amp;isNewContent=false&amp;contentType=1" width="218" height="151" id="b-7c73ef6f0c5046009e48a77da6e00f53" alt="原文图片（需学城权限）"></p>
+</td>
+</tr>
+<tr id="b-b27107898abd4928984fab8c6040c29f">
+<td id="b-35c6b20b2b9e48e98a3f11c59a0e7cfe" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-de3f1bb95ebe439fb2ded97f6fd76962" style="text-align:center"><span style="font-size:15px">乌鲁木齐公园北街早市暴力恐怖袭击案</span></p>
+</td>
+<td id="b-5989f4f6f63347958c6648b638b7cf38" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-c7b92d1171c642acade4e0696c42aa47" style="text-align:center"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">2014年5月22日</span></span></p>
+</td>
+<td id="b-db2d1a377d4043b98b551dd0d13a4da9" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-a19cd6cc8d094b38bdebf2822e18fa31" style="text-align:start"><span style="font-size:15px">乌鲁木齐市</span></p>
+</td>
+<td id="b-cc4f72ca3f064bb1a12edf4d1a7d3a8c" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-0626192eb8dc4185a3b5c259ceb944fd" style="text-align:start"><span style="font-size:15px">014年乌鲁木齐公园北街早市暴力恐怖袭击案</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">（中华人民共和国官方称为“</span></span><span style="font-size:15px">乌鲁木齐市‘5·22’暴力恐怖案</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">”，媒体也称为“</span></span><span style="font-size:15px">乌鲁木齐爆炸案</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">”、“</span></span><span style="font-size:15px">乌鲁木齐暴力恐怖案</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">”）是</span></span><span style="font-size:15px">2014年5月</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">22日7点50分许在</span></span><span style="font-size:15px">中国新疆维吾尔自治区乌鲁木齐市沙依巴克区人民公园</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">西侧的公园北街早市发生的严重暴力案件，中国官方将此事件定性为“</span></span><span style="font-size:15px">恐怖袭击</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">”。</span></span><sup><a href="https://zh.wikipedia.org/wiki/2014%E5%B9%B4%E4%B9%8C%E9%B2%81%E6%9C%A8%E9%BD%90%E5%85%AC%E5%9B%AD%E5%8C%97%E8%A1%97%E6%97%A9%E5%B8%82%E6%9A%B4%E5%8A%9B%E6%81%90%E6%80%96%E8%A2%AD%E5%87%BB%E6%A1%88#cite_note-reuters0522-3" id="b-c666ca3974624d6fb3476363824f2f2f"></a></sup><span style="color:rgb(32, 33, 34)"><span style="font-size:15px"> 该事件造成43人死亡（其中无辜群众39人，袭击者4人），94人受伤，死伤者大多数是买早餐的老年人。</span></span></p>
+</td>
+<td id="b-ab6e1b281a2a4dafb894c61b594332b9" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-68faed6399dd4003bb271f54c42cb59f" style="text-align:start"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">43人死亡（包括4名犯罪分子）、94人受伤</span></span></p>
+</td>
+<td id="b-706ecdd2ce3746bda79a775d11d5bd7d" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-55fcac7d08b64b61a6a06fa9ec9c9d9a" style="text-align:start"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">努尔艾合买提·阿布力皮孜、麦麦提·麦麦提明、热依木江·麦麦提、麦麦提敏·麦合买提、阿卜来提·阿卜杜喀迪尔</span></span></p>
+</td>
+<td id="b-e01b831b683140b892504d513bb5957a" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<details id="b-ba9b077d7ace497ba00c51bc59bae2f2">
+<summary><span style="color:rgb(77, 77, 77)"><span style="font-size:15px">点击展开内容</span></span></summary>
+<div>
+<p id="b-1fde0d3ee8ed4f168ca487f39a277282" style="text-align:start"><span style="font-size:15px">炸发生在乌鲁木齐市中心人民公园附近的北街早市。两辆越野车自北向南开过来，冲破防护隔离铁栏，冲撞碾压早市上的人群，车子停下时，已有十几人受伤躺地。之后车上的人向外掷爆炸物，车辆再猛烈爆炸，一连十多响爆炸声，持续数分钟之久</span><sup><a href="https://zh.wikipedia.org/wiki/2014%E5%B9%B4%E4%B9%8C%E9%B2%81%E6%9C%A8%E9%BD%90%E5%85%AC%E5%9B%AD%E5%8C%97%E8%A1%97%E6%97%A9%E5%B8%82%E6%9A%B4%E5%8A%9B%E6%81%90%E6%80%96%E8%A2%AD%E5%87%BB%E6%A1%88#cite_note-9" id="b-88a752ac0f314caf81f0600c75e6f645"></a></sup><span style="font-size:15px">。有目击者称，车身插有疑似东伊运的“星月旗”。袭击者自爆死亡。</span></p>
+<p id="b-edff71e5ee18480aa09c4075e34ae84a" style="text-align:start"><span style="font-size:15px">爆炸发生地靠近时任乌鲁木齐市市长伊力哈木·沙比尔的家。听到连续爆炸声以后，家住在附近的伊力哈木·沙比尔匆匆跑下楼，组织小区居民及社会车辆救援，将受伤者送往附近的新疆维吾尔自治区中医医院、乌鲁木齐市中医医院接受救治。</span></p>
+<p id="b-78e40efecf664b5b938b6a841285c9b0" style="text-align:start"><span style="font-size:15px">乌鲁木齐市政法委书记焦亦民表示，事件发生之后，现场民警随即封控现场并组织救援，其他警力及应急救援力量也很快到达，10分钟内完成全部伤者送医救治、中心现场排爆灭火、物证搜集等工作。根据记者了解，事件发生半小时内，大批公安、武警、消防、社区工作人员开展了现场处置；事件发生1小时后，案发地区交通基本恢复。</span></p>
+</div>
+</details>
+<p id="b-748d17efac22437aaad037c1889a2020" style="text-align:start"></p>
+</td>
+<td id="b-e941bc98388047fa99648025a7f23d25" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-050abbe7453046868f7ba8f5943870ec" style="text-align:start"></p>
+</td>
+</tr>
+<tr id="b-640149b65b094cdd964314116388eb67">
+<td id="b-b08cd1a822f04e92a417ebded1332342" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-46dc0ee58561464d8da3461b1a471b2f" style="text-align:center"><span style="font-size:15px">叶城县公安局袭击事件</span></p>
+</td>
+<td id="b-f353e854250c4e7a8b79ab1e200d8181" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-74866f845c75475790f841460d3c1e6a" style="text-align:center"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">2014年6月21日</span></span></p>
+</td>
+<td id="b-164973c8ab4749e8a99e1bf35ed05e7a" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-69442894ab4447db852a446e10a4282d" style="text-align:start"><span style="font-size:15px">叶城县</span></p>
+</td>
+<td id="b-ea8519e30e734d31a2b15ada6b74f8fc" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-3c44b0018d864c9f9b535a87a541f08c" style="text-align:start"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">2014年6月21日发生在中国</span></span><span style="font-size:15px">新疆喀什地区叶城县</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">的一起爆炸袭击事件，袭击对象为当地县</span></span><span style="font-size:15px">公安局</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">，中国官方将此事件定性为“</span></span><span style="font-size:15px">恐怖袭击</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">”</span></span></p>
+</td>
+<td id="b-ceeb0829ef954e9bb8be553207e0b7c2" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-bd3535675c1340a3a6c01ea818b0d643" style="text-align:start"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">13人死亡（均为犯罪分子）、3人受伤</span></span></p>
+</td>
+<td id="b-d9178e77368f43c1a428a987d7f52aa5" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-f64586a55b074c8795e2651f259b259b" style="text-align:start"><span style="font-size:15px">/</span></p>
+</td>
+<td id="b-3a1321bbe4604ec9a3c79134d2f3e9aa" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-d8434cbcbc0a48c5b2e8c99368b24ae8" style="text-align:start"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">2014年6月21日7点左右，一伙暴力分子驾驶车辆冲撞叶城县公安局办公大楼，并引爆爆炸装置。13名袭击者被民警击毙，3名民警受轻伤，无群众伤亡。至少有20多人遭到叶城县国保大队的逮捕</span></span></p>
+</td>
+<td id="b-34870099b3be4e3c831b45b6c7a0eeba" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-85105d7dec5d49ebabc124a720228373" style="text-align:start"></p>
+</td>
+</tr>
+<tr id="b-7d2c7828599b4603b3d4ae14a183eaa8">
+<td id="b-d01fd195612c43a3aceaa28d1390c2b6" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-941a623d485f4bd09c6481dc459edd43" style="text-align:center"><span style="font-size:15px">莎车县“7·28”暴力恐怖袭击案</span></p>
+</td>
+<td id="b-94da505d5994461e874c3c9668942662" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-323a9da8b6524065a3cda993919ad5e2" style="text-align:center"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">2014年7月28日</span></span></p>
+</td>
+<td id="b-32062f3c62414296b0b8122eb75e24c0" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-915a57f1d8494c7ab530bbb6506bee39" style="text-align:start"><span style="font-size:15px">莎车县</span></p>
+</td>
+<td id="b-ae2f39f128414d85b8b66b66d658dea9" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-def39051595646d6ab5c7da80f2c01e0" style="text-align:start"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">是指于2014年7月28日发生在</span></span><span style="font-size:15px">新疆维吾尔自治区喀什地区莎车县</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">的一起大规模袭击事件，中华人民共和国政府将此事件定性为“</span></span><span style="font-size:15px">恐怖袭击</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">”</span></span></p>
+</td>
+<td id="b-54f5065d46fb4acb9a404373c5089ab0" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-6712e1d47cd34b20bacd5ab88f1e6b55" style="text-align:start"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">96人死亡（包括59名犯罪分子）、13人受伤</span></span><sup><a href="https://zh.wikipedia.org/wiki/%E6%96%B0%E7%96%86%E6%81%90%E6%80%96%E6%B4%BB%E5%8B%95%E5%88%97%E8%A1%A8#cite_note-15" title="[" id="b-8d3644334d844b0381aaf710700a6731"><span style="font-size:15px">[</span></a></sup></p>
+</td>
+<td id="b-cd629197b1644d7ba80481bf4c296e6c" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-9a8c3254c68943479537f5f2f7bb06b2" style="text-align:start"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">努尔买买提</span></span></p>
+</td>
+<td id="b-d5439e3f954c4887b43ef2ecb7c5ba5c" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<details id="b-8e87c9a354ad428b8ae46c5671107e62">
+<summary><span style="color:rgb(77, 77, 77)"><span style="font-size:15px">点击展开内容</span></span></summary>
+<div>
+<p id="b-596fe045aaf64a1287a8503bf52d9f62" style="text-align:start"><span style="font-size:15px">28日凌晨，暴徒袭击艾力西湖镇政府、派出所，并有部分暴徒窜至荒地镇，打砸焚烧过往车辆，砍杀无辜群众。官方通讯社新华社报道时仅称事件造成数十名维汉族群众伤亡，31辆车被打砸，其中6辆车被烧，但未提及具体人数。此外，当地互联网和通讯被切断。</span></p>
+<p id="b-65dfc87885c44b98a1a4f1297aae2bd6" style="text-align:start"><span style="font-size:15px">28日凌晨5时左右，由于喀什商品交易会正在进行，当地安检比较严格，公安提前发现有暴徒携带了易爆物，暴徒随即与警方发生冲突，其间有暴徒逃脱，并在当天上午煽动更多人袭击镇政府、派出所以及下乡工作组的驻地，并拦截大巴，劫持人质。事态升级后，当地政府紧急抽调公安干警和民兵，对暴徒可能出没的地区进行搜查，对当地通信设施实施管制，截至29日晚，调查和抓捕还在进行中。有消息透露，这伙暴徒多达数百人，在莎车县五地点制造恐袭后，向莎车县荒地镇方向逃窜，喀什支队90名官兵分两路前往现场处置，途中遭到30名暴恐分子持刀斧袭击并驾车冲撞</span><sup><a href="https://zh.wikipedia.org/wiki/2014%E5%B9%B4%E8%8E%8E%E8%BD%A6%E5%8E%BF%E6%9A%B4%E6%81%90%E8%A2%AD%E5%87%BB%E6%A1%88#cite_note-9" title="[" id="b-3eb444e112d24891861c88f895a29406"><span style="font-size:15px">[</span></a></sup><span style="font-size:15px">。</span></p>
+<table id="b-ea315ea7a8a34b9cb054bff04921c333">
+<tr id="b-c9b2bfbc85574f23badc762dc54c383a">
+<th colspan="2" id="b-26aae261d0854ed49569fd6d0e7dfe66" style="background-color:rgb(246, 246, 246);vertical-align:top">
+<p id="b-34ab716676904ba59582274d086dfe83"><span style="color: "><span style="font-size:15px">外部媒体链接</span></span></p>
+</th>
+</tr>
+<tr id="b-1803b5bd9cd0401db3e838aefe7ac0bc">
+<th colspan="2" id="b-47b574e6941e4de1be31fbe3f4bab839" style="background-color:rgb(246, 246, 246);vertical-align:top">
+<p id="b-bcb49118d21f4620bad837112a80dcef"><span style="font-size:15px">图片</span></p>
+</th>
+</tr>
+<tr id="b-8877463188ee4b34a8ba7e87108a5fde">
+<td colspan="2" id="b-1f9bf8c81b7740e19d496489188614d5" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-b30a9c3a0ac54cc08ecb710a5ef1d472" style="text-align:start"><span style="font-size:15px"> </span><a href="https://img.i-scmp.com/cdn-cgi/image/fit=contain,width=1098,format=auto/sites/default/files/styles/1200x800/public/2014/08/08/kashgar_truck.jpg" title="被暴恐分子点燃的卡车" id="b-f091b1d4826a453a858fd18390c26383"><span style="font-size:15px">被暴恐分子点燃的卡车</span></a></p>
+</td>
+</tr>
+<tr id="b-cc23f14497ee42718a811fa2c8400b96">
+<td colspan="2" id="b-ee78fff2ed134602b74edf590c9e4af8" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-6497ff7acf9248f8833589e87be8ba4e" style="text-align:start"><span style="font-size:15px"> </span><a href="http://i2.chinanews.com/simg/hd/2014/08/08/99cc9c76ed454c5a8dbf85e48071f49f.jpg" title="被暴恐分子烧毁掀翻的卡车" id="b-01765949349d440bac1574f25451b0a0"><span style="font-size:15px">被暴恐分子烧毁掀翻的卡车</span></a></p>
+</td>
+</tr>
+<tr id="b-56d799867c2e48b9abeb3b4031cb8de4">
+<td colspan="2" id="b-5a8f04467a9848bca38f172e7d3b1396" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-aaebdfcff4d54b22856d835ca27ee911" style="text-align:start"><span style="font-size:15px"> </span><a href="https://www.scmp.com/sites/default/files/styles/486w/public/2014/08/08/kashgar_save_kid.jpg" title="卡车司机肉孜·托合提抱着3岁女孩逃离现场" id="b-5244dcc335fb42e995558d0bdc0cab90"><span style="font-size:15px">卡车司机肉孜·托合提抱着3岁女孩逃离现场</span></a></p>
+</td>
+</tr>
+<tr id="b-fac3ef44ed424eb78ed36c53172e66aa">
+<td colspan="2" id="b-b6288e55ab164caba862e378c145edf5" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-df6eb20e6e5343df8881a420f30f77f5" style="text-align:start"><span style="font-size:15px"> </span><a href="http://i2.chinanews.com/simg/hd/2014/08/08/f6b8a73fcf7e477baa008591041005cb.jpg" title="成功获救的3岁女孩" id="b-3073f70991d7425f8ed8bd5a55e9effe"><span style="font-size:15px">成功获救的3岁女孩</span></a></p>
+</td>
+</tr>
+<tr id="b-54d96865199148cf99ecd088f55b8036">
+<td colspan="2" id="b-4db912e2530e45ab98a684069abd8615" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-ee9b9b324d2641d3a3504263335014ee" style="text-align:start"><span style="font-size:15px"> </span><a href="http://i2.chinanews.com/simg/hd/2014/08/08/6ddb0df8bd7246f2adf61361164468c4.jpg" title="遭遇暴徒的当地村民" id="b-c5cde13147ef46dda0b71de121a30798"><span style="font-size:15px">遭遇暴徒的当地村民</span></a></p>
+</td>
+</tr>
+<tr id="b-6576d1efe00f49d4aa795d325161acce">
+<td colspan="2" id="b-4573200480f94569913f2c2d8f9876af" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-f421e69467c7417da590afc8f9a6a29b" style="text-align:start"><span style="font-size:15px"> </span><a href="http://photocdn.sohu.com/20140808/Img403260246.jpg" title="被卡车司机救出的孤儿治愈出院" id="b-2fe044440cd942f797ea1940c0b0e365"><span style="font-size:15px">被卡车司机救出的孤儿治愈出院</span></a></p>
+</td>
+</tr>
+<tr id="b-4d9ef672e0b64f3d9465e1c8fc2fb923">
+<th colspan="2" id="b-2fe429158af04c9986ec65c39e2590a0" style="background-color:rgb(246, 246, 246);vertical-align:top">
+<p id="b-1b1a1021bbc448bcbae47c575bc84f6d"><span style="font-size:15px">视频</span></p>
+</th>
+</tr>
+<tr id="b-4c98d045a41c43a68dd4f2339fe021fd">
+<td colspan="2" id="b-6e6c2060aaa64c7e9163eb7eda206766" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-61ec9882ee8a453cb986d663af2833e5" style="text-align:start"><span style="font-size:15px"> </span><a href="https://v.163.com/static/3/VA2571CD3.html" title="中央电视台发布的事发现场视频" id="b-272cb582535748fb9c0e56a44613f175"><span style="font-size:15px">中央电视台发布的事发现场视频</span></a></p>
+</td>
+</tr>
+</table>
+<p id="b-d39bcbdbb02c435bb3fa6888e9498504" style="text-align:start"><span style="font-size:15px">8月8日，《新疆日报》的后续报道采访了巴楚县巴楚镇卡车司机肉孜·托合提，他正驾车途经李永军夫妇被害的莎车县荒地镇诺其巴扎十字路口，“暴徒把我拉下车，手里拿着砍刀，威胁我不跟他们走就杀掉我”。为自保，他先不出声地跟随暴徒，之后瞅准机会钻进玉米地逃跑了，肩膀被暴徒砍伤。事态稍平静后肉孜·托合提绕回卡车，准备开车时听到附近有小孩哭声。在被害人李永军夫妇轿车的后备厢里，他发现了藏在轿车后备厢里的3岁女儿。抱起孩子时，女孩抱着肉孜·托合提的脖子，哭着说：“蒙面的人打妈妈，我害怕。”之后经众人接力，3岁女孩被送往麦盖提县人民医院。经医生检查，女孩枕骨骨折，背部稍有烫伤，“问题不大”</span></p>
+</div>
+</details>
+<p id="b-25d015c6f9e14acca7223335b1316ddd" style="text-align:start"></p>
+</td>
+<td id="b-86ebe65aa92241d8a053c452468d4aa4" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-88d247b90ef543e2902e225d3fcb16d6" style="text-align:start"></p>
+</td>
+</tr>
+<tr id="b-cbd9f7bba33349f6aff45c2ca2a6475d">
+<td id="b-e220f2a1bc83418ab7804113b59ae33c" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-2063954feeee43e1b2a0f1f66fcf6b61" style="text-align:center"><span style="font-size:15px">轮台县爆炸案</span></p>
+</td>
+<td id="b-ab0554b99b9045a9bfbc65fa59c09677" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-1a8eb2d068b04933a3be3e51f478931c" style="text-align:center"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">2014年9月21日</span></span></p>
+</td>
+<td id="b-5abc6dfbc7f94cf39225da344ea27722" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-6630ad46f8b34ad983201ce3298ec4ef" style="text-align:start"><span style="font-size:15px">轮台县</span></p>
+</td>
+<td id="b-4a95386e7b6845b7bceb3f43fa29d476" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-151039bf5c294352b5bb94345270401a" style="text-align:start"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">2014年9月21日发生在</span></span><span style="font-size:15px">中国新疆维吾尔自治区轮台县</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">的系列爆炸案，中国官方将此事件定性为“</span></span><span style="font-size:15px">恐怖袭击</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">”</span></span><sup><a href="https://zh.wikipedia.org/wiki/2014%E5%B9%B4%E8%BD%AE%E5%8F%B0%E5%8E%BF%E7%88%86%E7%82%B8%E6%A1%88#cite_note-:2-3" id="b-f731b2a3134f4f5286422f707262471a"></a></sup><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">。该事件造成6名平民、2名公安民警和2名协警死亡，另有54名平民受伤，40名袭击者被击毙或自爆身亡、另有2人被捕</span></span><sup><a href="https://zh.wikipedia.org/wiki/2014%E5%B9%B4%E8%BD%AE%E5%8F%B0%E5%8E%BF%E7%88%86%E7%82%B8%E6%A1%88#cite_note-:0-1" title="[" id="b-62f47c235aa3465fbd61e3c06c4b8e63"><span style="font-size:15px">[</span></a></sup></p>
+</td>
+<td id="b-0d8c852358204a459893976862efa7f4" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-2da897a554dd4b67b7fa262c1837ce34" style="text-align:start"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">50人死亡（包括40名犯罪分子）、54人受伤</span></span></p>
+</td>
+<td id="b-2407e7416c1840cfa348f311048d431f" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-e16a8d9653b54b95b7bf43137b08e663" style="text-align:start"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">买买提·吐尔逊</span></span></p>
+</td>
+<td id="b-48b611e61889467394165ed483564526" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<details id="b-7ce921d18b674546a9aa1ad5e30cd2eb">
+<summary><span style="color:rgb(77, 77, 77)"><span style="font-size:15px">点击展开内容</span></span></summary>
+<div>
+<p id="b-210827ebded04d918afa3915334faf59" style="text-align:start"><span style="font-size:15px">中国官方称，该袭击事件的组织者为买买提·吐尔逊（已被击毙），称其2003年从中专学校毕业后，逐渐产生极端思想，并称他自2008年以来，受宗教激进思想影响，在承包工程中聚集发展成员、形成组织</span><sup><a href="https://zh.wikipedia.org/wiki/2014%E5%B9%B4%E8%BD%AE%E5%8F%B0%E5%8E%BF%E7%88%86%E7%82%B8%E6%A1%88#cite_note-4" id="b-436b2cc2cda440ea840a2ba112411127"></a></sup><span style="font-size:15px">。</span></p>
+<p id="b-45c8a721f39e4d93a3d1a34b80d2e9e0" style="text-align:start"><span style="font-size:15px">2014年9月21日17时许，该组织先后在轮台县阳霞镇一少数民族人士居多的农贸市场、阳霞镇派出所、铁热克巴扎乡派出所、轮台县城一商铺门口等处制造爆炸，造成2名警察、2名协警、6名平民死亡，54名平民受伤（维吾尔族32名、汉族22名，其中3名重伤）。有40名袭击者自爆身亡或被警察击毙（买买提·吐尔逊被击毙），另有2名袭击者被抓获。</span></p>
+</div>
+</details>
+<p id="b-86825e94d3d848f99e5c7574c14e2108" style="text-align:start"></p>
+</td>
+<td id="b-18a96f72d4ea4a4f9fa12f1bd3499f4d" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-1fa1591d86af4d069c557f30dd91c302" style="text-align:start"></p>
+</td>
+</tr>
+<tr id="b-9057dfcefe5d487d85d355e170e7c419">
+<td id="b-3cb99365d09249f18fa989ad6a42a2c4" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-84eb8719addf4104b187906673b5aaf4" style="text-align:center"><span style="font-size:15px">莎车县“11·28”暴恐袭击案</span></p>
+</td>
+<td id="b-96b0380a6b5c464eb05fd7b7f999bbc5" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-8b5521dfd2a242d8bd4a85f3b98c2a3d" style="text-align:center"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">2014年11月28日</span></span></p>
+</td>
+<td id="b-079952ed15884ad4afcb72feb6536cca" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-ac7b0f343ec343898576cf860732d855" style="text-align:start"><span style="font-size:15px">莎车县</span></p>
+</td>
+<td id="b-c866c9fa75b944098a4dcd0d0f6eab55" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-15ac5c4d7e154d0687ca9d3e6188bac7" style="text-align:start"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">于2014年11月28日发生在</span></span><span style="font-size:15px">中华人民共和国新疆维吾尔自治区莎车县</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">的一起袭击事件，中国官方将此事件定性为“</span></span><span style="font-size:15px">恐怖袭击</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">”。此案造成4个平民死亡，11名袭击者被当场击毙，14人受伤</span></span></p>
+</td>
+<td id="b-24f56a0f7d9e46a7ac7fa62c1ff25225" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-75056b126b3d451388ec9c74585474ec" style="text-align:start"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">15人死亡（包括11名犯罪分子）、14人受伤</span></span></p>
+</td>
+<td id="b-5a9e4d14bdf249f8b29beb92c7c53fc8" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-c3db2ced6c0c4d298469308059293bd2" style="text-align:start"><span style="font-size:15px">/</span></p>
+</td>
+<td id="b-51489d860c764f0a81b386c98b2474eb" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<details id="b-1d0cd35a44864743a787185f1387f1f0">
+<summary><span style="color:rgb(77, 77, 77)"><span style="font-size:15px">点击展开内容</span></span></summary>
+<div>
+<p id="b-6294fc77d1c34748b877f7c99cd7ed0d" style="text-align:start"><span style="font-size:15px">014年11月28日下午一点半左右，一伙犯罪分子乘车抵达莎车县美食街后，向美食街投掷易燃易爆物品并砍杀周围群众，致使4个市民死亡、14个市民受伤。</span></p>
+<p id="b-a022b66bc250422b933c1adfc3645d52" style="text-align:start"><span style="font-size:15px">据中国政府官方报道，正在美食街周围巡逻的当地公安民警发现情况后，立即划分成两组包围事发地，将袭击者困在莎车县美食街中部，同时疏散周围无关群众。在此过程中，当地民警击毙暴徒11人。现场查获一批易燃易爆装置、砍刀、斧头等行凶器具</span><span style="font-size:15px"><sup>。</sup></span></p>
+<p id="b-8900aaf433f7452ebb9ab062500a00ad" style="text-align:start"><span style="font-size:15px">袭击案发生后，新疆自治区派出医疗专家抵达救治伤员，伤者已得到有效救治</span></p>
+</div>
+</details>
+<p id="b-ef3f67a17b374773ae92c0ae6d0feb32" style="text-align:start"></p>
+</td>
+<td id="b-a42216bf7d374db385a50c759b48a3c1" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-6c5a888360e04b5bb9a33467e60becd6" style="text-align:start"></p>
+</td>
+</tr>
+<tr id="b-862a86e746b24c12b96caff564ac69ac">
+<td id="b-0cd99b251f7845488bfbc188d736cf90" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-44eafc505d3847ebbf12bec384b758db" style="text-align:center"><span style="font-size:15px">墨玉县县委袭击</span></p>
+</td>
+<td id="b-ff237465bb95411c9de3383f1270b329" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-68f5561d409c4a0fbb4d67ff70248f5a" style="text-align:center"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">2016年12月28日</span></span></p>
+</td>
+<td id="b-199a043952a646ae88c88d06d7ea46fb" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-9a7906b2e1c14efeb81d3ce08aa2729d" style="text-align:start"><span style="font-size:15px">墨玉县</span></p>
+</td>
+<td id="b-ee532a2b2a1944b88758061c921d8efc" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-49f1063142e74412be40429a4b3a6911" style="text-align:start"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">是指于2016年12月28日发生在</span></span><span style="font-size:15px">中华人民共和国新疆墨玉县</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">县委的一场袭击事件，中国官方将此事件定性为“</span></span><span style="font-size:15px">恐怖袭击</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">”</span></span></p>
+</td>
+<td id="b-885fed69bb0e4c83ada40a0a79d751c7" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-3663a9db640f4d49b9f9d9a1d8a2baad" style="text-align:start"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">5人死亡（包括4名犯罪分子）、3人受伤</span></span></p>
+</td>
+<td id="b-c3e35a5cd0be4590a7773c7f811860a5" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-e2c5c39230654e6a9f9004b13626a84b" style="text-align:start"><span style="font-size:15px">/</span></p>
+</td>
+<td id="b-d672e536ccf644b5976130238b00e542" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<details id="b-cb1a77f3009040099df576f6fd4c8d77">
+<summary><span style="color:rgb(77, 77, 77)"><span style="font-size:15px">点击展开内容</span></span></summary>
+<div>
+<p id="b-8795293e9ecd4f129d14db22475d88c1" style="text-align:start"><span style="font-size:15px">016年12月28日16时50分许，3名袭击者驾车冲入墨玉县县委大院，持砍刀袭击工作人员，随后引爆炸弹。事件造成一名官员和一位保安死亡，另外有三人受轻伤，袭击者随后被当场击毙。</span></p>
+<p id="b-d781e0d3285b4b19b15979c84c5dfc1a" style="text-align:start"><span style="font-size:15px">2017年1月5日，中国共产党新疆和田地区地委书记张金标、和田地委委员墨玉县委书记何军涉嫌严重违纪、失职失察，接受组织调查。2月22日，县委办公室副主任艾力·霍加阿卜杜拉、加罕巴格村党支部书记麦麦提尼亚孜·玉苏普、居玛巴扎村党支部书记阿卜杜麦麦提·萨迪尔三人因“失职渎职”，被和田地区检察分院依法逮捕</span><sup><a href="https://zh.wikipedia.org/wiki/12%C2%B728%E5%A2%A8%E7%8E%89%E5%8E%BF%E5%8E%BF%E5%A7%94%E8%A2%AD%E5%87%BB#cite_note-4" title="[" id="b-d489b5e76209486d9bc2c0a82a764384"><span style="font-size:15px">[</span></a></sup></p>
+</div>
+</details>
+<p id="b-492cbe2b40144c42bb3c186d0fe5b05b" style="text-align:start"></p>
+</td>
+<td id="b-cfe0887e0a1d43fdb4cd8fed686372b6" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-b1e0afd14af54bf9a05ec22a42ebab7c" style="text-align:start"></p>
+</td>
+</tr>
+<tr id="b-67b2504eeee745d59b3f0b149d4e26b1">
+<td id="b-c570ed82274f4286bb4102ae65736c2d" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-98e2a295b83445c6b36843a28193d205" style="text-align:center"><span style="font-size:15px">天安门撞桥事件</span></p>
+</td>
+<td id="b-e61afad7572f40378474f3c7f011ba59" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-c67d29d14ff645c6bf8c13c194c5f117" style="text-align:center"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">2013年10月28日</span></span></p>
+</td>
+<td id="b-9414707b016a4cf2acf6219420fd165e" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-5c6d6f79a3e24bfe80187fb7b69f7f7e" style="text-align:start"><span style="font-size:15px">北京</span></p>
+</td>
+<td id="b-4c6ca98326f34435b77ad3378f53d6de" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-16f5ca8bd84a4e32a8b950ee804a4842" style="text-align:start"><span style="font-size:15px">2013年10月</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">28日发生在</span></span><span style="font-size:15px">中华人民共和国北京市天安门城楼</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">前的</span></span><span style="font-size:15px">汽车袭击</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">事件。事件中共有5人丧生，其中3人在事发吉普车内随汽车的燃烧当场死亡，其他2人分别是来自</span></span><span style="font-size:15px">菲律宾</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">和</span></span><span style="font-size:15px">广东</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">的游客。恐怖组织“</span></span><span style="font-size:15px">突厥斯坦伊斯兰党</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">”称对吉普车冲撞天安门事件负责</span></span></p>
+</td>
+<td id="b-80f09972ac7742d6a56747c237c22778" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-9121e358aad64ba283630dabe3306a06" style="text-align:start"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">3人当场死亡38人在事件中受伤</span></span></p>
+</td>
+<td id="b-7e6251b08db94f5bb0891a20d4226447" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-6f55c0c46e2f4d2d876c51fe54863c19" style="text-align:start"><span style="font-size:15px">突厥斯坦伊斯兰党</span></p>
+</td>
+<td id="b-97639d7da2994a549fbc45f9d5596fd7" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<details id="b-68f79e5a6933417faf52e4f09e01f599">
+<summary><span style="color:rgb(77, 77, 77)"><span style="font-size:15px">点击展开内容</span></span></summary>
+<div>
+<p id="b-1ffb858a1c3c4d2fb5e94922b0cbcf58" style="text-align:start"><span style="font-size:15px">2013年10月28日中午12点05分左右（北京时间），一辆吉普车在北京天安门广场前由东闯入长安街便道。路透社援引一名目击者的话说，这辆车拖着一个写着黑字的白色标语。在撞倒多名行人之后，又撞上了天安门城楼前金水桥的护栏，随即起火。事发后，警方迅速封锁了天安门广场，并对周边地区进行交通管制。中国官方也立即删除了互联网上有关这件事的非官方信息</span><sup><a href="https://zh.wikipedia.org/wiki/%E5%A4%A9%E5%AE%89%E9%97%A8%E9%87%91%E6%B0%B4%E6%A1%A5%E6%81%90%E6%80%96%E8%A2%AD%E5%87%BB%E6%A1%88#cite_note-BBC_Panic-6" title="[" id="b-516becc6ca6941caabd4992877c034d5"><span style="font-size:15px">[</span></a></sup><span style="font-size:15px">。外流照片上可见在天安门前毛泽东画像的下方，一台吉普车正起火燃烧，同时冒出大量浓烟。</span></p>
+<p id="b-b65995c8857b4afb84841f5a399db1b0" style="text-align:start"><span style="font-size:15px">最初的报道指车内3人当场死亡</span><sup><a href="https://zh.wikipedia.org/wiki/%E5%A4%A9%E5%AE%89%E9%97%A8%E9%87%91%E6%B0%B4%E6%A1%A5%E6%81%90%E6%80%96%E8%A2%AD%E5%87%BB%E6%A1%88#cite_note-BBCOct29-3" title="[" id="b-2c00713c4b28476d87e9f3a968da8182"><span style="font-size:15px">[</span></a></sup><span style="font-size:15px">。另有38人在事件中受伤，其中有11人被送往医院救治，其中两名当时在广场上的游客伤重死亡</span><sup><a href="https://zh.wikipedia.org/wiki/%E5%A4%A9%E5%AE%89%E9%97%A8%E9%87%91%E6%B0%B4%E6%A1%A5%E6%81%90%E6%80%96%E8%A2%AD%E5%87%BB%E6%A1%88#cite_note-xinhua-11" title="[" id="b-fb306102420746c7b947e92a9bb6d0f7"><span style="font-size:15px">[</span></a></sup><span style="font-size:15px">。受伤的38人中包括3名菲律宾游客（2女1男）和1名日本男游客。至当地时间10月30日下午，伤者中有5人已进行了手术，12人在ICU病房治疗，其余21人则转为一般住院或留院观察。至31日14时，送医的42名伤患中（包括已经重伤死亡的两名）累计3人出院，8人在ICU病房，10人已达出院标准。</span></p>
+<p id="b-50972517ab374f04a9954dc364c59003" style="text-align:start"><span style="font-size:15px">中国大陆警方随后发出通知，要求北京各大酒店搜寻两名来自中国新疆的可疑人物。通知中同时提到了一辆汽车和新疆的车牌</span><sup><a href="https://zh.wikipedia.org/wiki/%E5%A4%A9%E5%AE%89%E9%97%A8%E9%87%91%E6%B0%B4%E6%A1%A5%E6%81%90%E6%80%96%E8%A2%AD%E5%87%BB%E6%A1%88#cite_note-BBCOct29-3" title="[" id="b-53d046d578f24415ae442469f516d12c"><span style="font-size:15px">[</span></a></sup><span style="font-size:15px">。警方还指示酒店要注意可疑的客人。警方还要求酒店报告所有自10月1日登记入住的客人，以及他们所驾驶的车辆。并表示此指示“为了防止犯罪嫌疑人及车辆犯下更多的罪行</span><sup><a href="https://zh.wikipedia.org/wiki/%E5%A4%A9%E5%AE%89%E9%97%A8%E9%87%91%E6%B0%B4%E6%A1%A5%E6%81%90%E6%80%96%E8%A2%AD%E5%87%BB%E6%A1%88#cite_note-TIMEOct-17" id="b-6b1ae64094614e8686b670f3924b9c8f"></a></sup><span style="font-size:15px">。犯罪嫌疑人被指有维吾尔族姓名，来自常有暴力事件发生的新疆地区</span><sup><a href="https://zh.wikipedia.org/wiki/%E5%A4%A9%E5%AE%89%E9%97%A8%E9%87%91%E6%B0%B4%E6%A1%A5%E6%81%90%E6%80%96%E8%A2%AD%E5%87%BB%E6%A1%88#cite_note-18" id="b-ec6dccd5b9c94c32a82a076f819b4ca4"></a></sup><span style="font-size:15px">。其中一名嫌犯疑来自鄯善县。</span></p>
+<p id="b-0ee6fa395b7b4660adbea6a2366c860e" style="text-align:start"><span style="font-size:15px">11月24日，路透社消息指一个自称是“突厥斯坦伊斯兰党”的恐怖组织团体承认发动了10月28日天安门袭击事件，他们在网络上发表了一份录音：“60年来，你们(中华人民共和国政府)欺骗了东突厥，如今，我们觉醒了。人民明白了谁才是他们真正的敌人，他们接受了教训，回到自己的宗教中。” 并表示这是他们针对北京当局发起的第一波攻击行动，他们会陆续发起针对中国政权的行动，包括袭击人民大会堂。</span></p>
+<p id="b-6e9964d2dbca4712a9d4a1772f3adb10" style="text-align:start"><span style="font-size:15px">金水桥事件发生后，中共新疆维吾尔自治区党委常委，新疆军区司令员、党委副书记彭勇中将被免职，继任者为新疆军区政治委员刘雷</span></p>
+</div>
+</details>
+<p id="b-ae129ba005954876a81d10dfb8312829" style="text-align:start"></p>
+</td>
+<td id="b-c0311f00e97d4f02aac4aa42f1fb3305" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-b879cb9d306c49e08f3107640331b750" style="text-align:start"><img src="https://km.sankuai.com/api/file/cdn/1625309615/234767803252?&amp;isNewContent=false&amp;contentType=1" width="253" height="146" id="b-0e4e5c64cb26471195fc306d8cb2040d" alt="原文图片（需学城权限）"></p>
+</td>
+</tr>
+<tr id="b-df9afbca8d2a452ead19002d4da93b76">
+<td id="b-83247a2b42214a86b22aa91d5c88eb18" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-3e25b6bcf1e24470a82893581773716e" style="text-align:center"><span style="font-size:15px">昆明火车站暴恐袭击案</span></p>
+</td>
+<td id="b-58b577c628654d5fb57922c8466ac74c" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-054d124a36e343c391b3285a09acafa6" style="text-align:center"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">2014年3月1日</span></span></p>
+</td>
+<td id="b-62ede9b534404349a0dd182d06947619" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-92a8e16be3e04161b182e6ebd6e5730f" style="text-align:start"><span style="font-size:15px">昆明</span></p>
+</td>
+<td id="b-1d3e9e4d478a4b6c9d567822ea976680" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-eae38c79635040a596cea20b815a027e" style="text-align:start"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">2014年3月1日21时许在</span></span><span style="font-size:15px">中华人民共和国云南省昆明市昆明火车站</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">发生的一起由</span></span><span style="font-size:15px">新疆恐怖分子</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">组织策划的砍杀无辜平民的</span></span><span style="font-size:15px">恐怖袭击</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">事件。此案共造成平民31人死亡、141人受伤。3月3日下午，官方宣布破案，作案团伙共8人，5名直接参与袭击者中4人被当场击毙，1人被当场击伤抓获，其余3名策划者早于2月27日在云南省</span></span><span style="font-size:15px">红河州个旧市沙甸镇</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">被拘捕。同年9月12日，此案由云南省昆明市中级人民法院审理完毕并宣判</span></span></p>
+</td>
+<td id="b-ced0ec128ee64b629ecf76154cdcb40f" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-96dac4c3ae3c4ec98411573348cee705" style="text-align:start"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">31人死亡、141人受伤</span></span></p>
+</td>
+<td id="b-ec84444ba5da4f1baffb81a0f2ec9b06" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-8c6cf7e5b2004ce2a860ad7dd3fcd589" style="text-align:start"><span style="font-size:15px">东突势力</span></p>
+</td>
+<td id="b-48286516ceeb4f099c251a1e59634ffb" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<details id="b-f48c2d7c8bd2498d95bab64c5469cd8f">
+<summary></summary>
+<div>
+<p id="b-57e6480e32254e02b07a1b2099912b29" style="text-align:start"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">2014年3月1日晚21时20分，5名（事件发生后不久曾被误作十余名、八名统一着黑色服装的</span></span><span style="font-size:15px">东突分裂新疆势力</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">男女持械冲入昆明火车站广场、售票厅，见人就砍，造成多人伤亡。警方赶到现场后，对火车站实施封锁</span></span><sup><a href="https://zh.wikipedia.org/wiki/2014%E5%B9%B4%E6%98%86%E6%98%8E%E7%81%AB%E8%BD%A6%E7%AB%99%E6%9A%B4%E5%8A%9B%E6%81%90%E6%80%96%E8%A2%AD%E5%87%BB%E4%BA%8B%E4%BB%B6#cite_note-7" title="[" id="b-aed0ad87c4bc44d3b58f11b7cc26fece"><span style="font-size:15px">[</span></a></sup><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">。在</span></span><span style="font-size:15px">警察</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">使用三次</span></span><span style="font-size:15px">催泪弹</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">无效后，在</span></span><span style="font-size:15px">北京路</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">永平路交叉口当场击毙4名恐怖分子（3男1女）、击伤抓获1人（女）。 被当场抓获的女性凶徒肩部中弹，送往医院救治。现场留下约300米长的血迹，伤者多集中在售票厅，大多为购票乘车的乘客</span></span></p>
+</div>
+</details>
+<p id="b-3fda02b057974aa9b1c0d2ee34110783" style="text-align:start"></p>
+</td>
+<td id="b-3f470f8f4f6c4c4d8ae49b74ea8066ec" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-4d37825f93764c08878dfcbc9687823e"></p>
+</td>
+</tr>
+<tr id="b-315e7f1f269b42079741482ec8acedb9">
+<td id="b-efa4b57a853a41b0b4d8e4de62614bf2">
+<p id="b-cc419ba7031c470592aaedf84c9a6ba2">涉拉萨“3.14”事件搜索环节负面生态聚集，刻意关联该事件（不泛化）</p>
+<p id="b-9048558248de43e1b4d4fdc9d7e5f1c9">310事件、瑜洲310定情日、拉萨314打砸抢烧事件、314打砸抢烧事件、去拉萨的主义事项、2008拉萨<img src="https://km.sankuai.com/api/file/cdn/1625309615/234768241105?&amp;isNewContent=false&amp;contentType=1" width="669" height="200" id="b-801ca06cf3c64102ba6f583873f1952e" alt="原文图片（需学城权限）"></p>
+</td>
+<td id="b-a483a0cae0864c3981e919b0cc0db078">
+<p id="b-9889bca5b0914fc38772facb17ccf3bb"></p>
+</td>
+<td id="b-4bb448ff5b5a4bccb1a2e0f64a2d465e">
+<p id="b-c366473f2bd04f189674329f4a540022"></p>
+</td>
+<td id="b-b4a6abd7d3354f33931d6782e56efb37">
+<p id="b-ab281fc2ee9d41268a30929abe94fe65"></p>
+</td>
+<td id="b-a5fec70c73e8443b9d0c59ae3a4084ab">
+<p id="b-050820c7e13b49619afcecaba2c74bc4"></p>
+</td>
+<td id="b-cecca9b294cd4ef4a217d7cc7e6fc5c5">
+<p id="b-213a9b04c425421e84f616a6d5ca07bb"></p>
+</td>
+<td id="b-c2e509356f4644b3921a9c687e2be9f2">
+<p id="b-f259b53843fa443dbc6ae6373571c211"></p>
+</td>
+<td id="b-bca9da9a4c4148ea8e037c3179f95811">
+<p id="b-b0f3cdfacf8349a0ae178c2d12d20ad2"></p>
+</td>
+</tr>
+<tr id="b-43412c5c451a4146bcd32de4615898bb">
+<td id="b-d5685f4c69a344f8b0a8805bcd1f2812">
+<p id="b-c85b8168bab84ae2bad4b9bff224bfb2"><span style="color: "><span style="font-size:15px">恶意炒作宁夏“西吉”事件</span></span>（不泛化）</p>
+<p id="b-9eb677b6022249bcb946c12d24cd1575"><img src="https://km.sankuai.com/api/file/cdn/1625309615/234765070346?&amp;isNewContent=false&amp;contentType=1" width="246" height="216" id="b-51a20b3a38004b429f4e7cb768fd6694" alt="原文图片（需学城权限）"></p>
+</td>
+<td id="b-a946e11fa56042dfbd55a28d8391a9cd">
+<p id="b-66ea88be3ecb493ab6a1c8b4b470f97e"></p>
+</td>
+<td id="b-e04c8790087b4f19833f104c5cdc9d73">
+<p id="b-a52b0e7d6dca4995aa752599c88b59a1"></p>
+</td>
+<td id="b-6cf6833952794a74a044d824f75abe23">
+<p id="b-f2e3525fa89747e3be70a68108017c59"></p>
+</td>
+<td id="b-853ebbd908c24ce7ae7bc95c24cc798a">
+<p id="b-75ede8dee822466192900bc9612ccd0f"></p>
+</td>
+<td id="b-c62d3df8b5024355ba864fc145bc9d46">
+<p id="b-2af88eb239314fbeb6c468aea5f3d790"></p>
+</td>
+<td id="b-8ed6e92639be4413b1fc65fadca3f9d2">
+<p id="b-8829fd43465c4bfa80168563c4bc5453"></p>
+</td>
+<td id="b-1d3c3c968b55479db4f4abd96b0622be">
+<p id="b-f1f2480de7ad4c9182e21eed14d2f85a"></p>
+</td>
+</tr>
+<tr id="b-3fb5a497e9b541ffbd3c014d8bda6f18">
+<td id="b-617fe5ac93074242993920161b6e4713">
+<p id="b-5bc0f3bb368547a2bb013bdf88661a05"><span style="color: "><span style="font-size:15px">恶意炒作河南“中牟”事件</span></span>（不泛化）</p>
+<p id="b-030d798c51b741598c08e2421c27133e"><img src="https://km.sankuai.com/api/file/cdn/1625309615/234768241101?&amp;isNewContent=false&amp;contentType=1" width="143" height="120" id="b-e093a48a62d14928a84fe200d12b1abb" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1625309615/234768835923?&amp;isNewContent=false&amp;contentType=1" width="280" height="119" id="b-4932c0b916c04ba59f89c640e23ae5a4" alt="原文图片（需学城权限）"></p>
+</td>
+<td id="b-90107669ac7b48b299719ddc2e7e36e0">
+<p id="b-e1e1b9c1e5414a9da0ab4ba96d382d2c"></p>
+</td>
+<td id="b-a18e4fd95fbc48a2a78aac201fe26bd0">
+<p id="b-ddd0964dce344f399ac41ad4084299f5"></p>
+</td>
+<td id="b-d25a38dabfba4f05a51a0c18cd9bd80e">
+<p id="b-3feeeb0d6093411e818897f31c259390"></p>
+</td>
+<td id="b-5759472983104ae6881a6d7331f369c5">
+<p id="b-0f873c6fb60c494e833c2d3392f56a42"></p>
+</td>
+<td id="b-79c1645cdf0a4651a6b2bc4552f55828">
+<p id="b-d3fb0b1dfe4043be820ec12d4ec54e3f"></p>
+</td>
+<td id="b-3e5a10b98783404ebd55591fa883f233">
+<p id="b-159b2fef54c44576a09d2bbd4f9eeedd"></p>
+</td>
+<td id="b-98c69a70fae842a5a3d11737108e11ff">
+<p id="b-b439d151e768433abd6cdc5ffa19e2da"></p>
+</td>
+</tr>
+<tr id="b-a4d8571d492e48e592d2f67d9ad8cdf5">
+<td id="b-ac32d470785741629804f3266feb58d3">
+<p id="b-8728827dba8d462492d0ed80a86f261b"><span style="color: "><span style="font-size:15px">恶意炒作河北唐山打砸收费站案件</span></span></p>
+</td>
+<td id="b-0856bd69f29d4e75945979ab2d526984">
+<p id="b-e88c5d01b5b04aa688b94f62922e7754"><span style="color:#FF4A47">2017年9月2日</span></p>
+</td>
+<td id="b-a0fe2304084b4c4d830f7e877be6adcf">
+<p id="b-89edd690c3a548a0bfa5862761424fe3"><span style="color:#FF4A47">河北唐山205国道东出口收费站</span></p>
+</td>
+<td id="b-037dda035389415e9712a2e47f797147">
+<p id="b-43fb08a5adf54cd693517fdc0e9a2503"><span style="color:#FF4A47">起因是河北唐山205国道东出口收费站工作人员与路过的宗教人士（回族阿訇杨振峰）发生言语和肢体冲突。此事随后引发当地部分穆斯林群众的不满，当晚百余名群众前往该收费站围堵“讨说法”。由于收费站负责人未及时出面妥善处理，现场群众情绪激化，演变为打砸破坏收费站设施的骚乱事件</span></p>
+</td>
+<td id="b-7f9ab477e9fb4e0da5aa967eb18618ba">
+<p id="b-e4e0567f15574a88a2e1fcd1fa70cb59">仅有数人受轻伤，无人员死亡</p>
+</td>
+<td id="b-c88a50c1a0c94a2eada143151a0c309d">
+<p id="b-eeff1f931afa484f90403c8372d17915">/</p>
+</td>
+<td id="b-ff84633d8c794fffa01ba09a9d225929">
+<p id="b-34707a5da8ee444181ae4d2c3d7f7040">/</p>
+</td>
+<td id="b-031b1f1548d9474b8292afe14a98f113">
+<p id="b-62e1a614b06142208d866f93b4829b08"><img src="https://km.sankuai.com/api/file/cdn/1625309615/260362480926?contentType=1&amp;isNewContent=false" width="87" height="139" id="b-1bc8597b5a18459f805529513f5b8f76" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1625309615/260359645107?contentType=1&amp;isNewContent=false" width="72" height="148" id="b-2759f5e5e532428b8dca70053fa48ea1" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1625309615/260362798543?contentType=1&amp;isNewContent=false" width="73" height="159" id="b-4b61c722f5ab4261bdca2ab04a60f842" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1625309615/260365742240?contentType=1&amp;isNewContent=false" width="92" height="152" id="b-7d52737b9ead4d37aed74d35bceb0b09" alt="原文图片（需学城权限）"></p>
+</td>
+</tr>
+</table>
+</div>
+</details>
+<details id="b-0c3029625bb942e3bd65bb5656f8699e">
+<summary><span style="font-size:15px"><strong>国外暴恐事件</strong></span>（不泛化）</summary>
+<div>
+<table id="b-31e58e88ee994d768db2d47aaacfcf74">
+<tr id="b-90a6ed6dcf184078808d7a729be08405">
+<th id="b-9ac71f99c86e4bab98e9b06353706d46">
+<p id="b-1ff1ba0aeead4e00a1cae05a2e57815b"><span style="font-size:15px">时间</span></p>
+</th>
+<th id="b-29e06127fa4c4477961eee23f8a9c479">
+<p id="b-939b1f313d05454eb8ff11ad30241fbc"><span style="font-size:15px">地点</span></p>
+</th>
+<th id="b-e43f6baf51cb49699509930050542bee">
+<p id="b-6b2d191e8b6e491eb9025d5b7b665ebf"><span style="font-size:15px">简介</span></p>
+</th>
+<th id="b-0ae9e5009d384b65b4321b387dcb6a26">
+<p id="b-856284e4f78841b69ec3f31d4159a55e"><span style="font-size:15px">伤亡</span></p>
+</th>
+<th id="b-21e7005d8dd349abbf9e761b74340b97">
+<p id="b-bff288a0e62c45619f9d10e52fdf0afc"><span style="font-size:15px">涉及中国人伤亡</span></p>
+</th>
+<th id="b-877c3792994746bdabef5fc1b97e39a6">
+<p id="b-7bd9901ce3fb466cb084ecdcb4a6a80d"><span style="font-size:15px">恐怖组织及主谋</span></p>
+</th>
+<th id="b-9c0018ce6571447ca352c0a33d77f859">
+<p id="b-3d92e2ef2a6d4789b764b072d8e72e1d"><span style="font-size:15px">恐怖行径(文）</span></p>
+</th>
+<th id="b-c1ff12d0fedb478ebe61197f9eb255a7">
+<p id="b-5ee5225176874a15968370774ac81d49"><span style="font-size:15px">恐怖行径（图)</span></p>
+</th>
+</tr>
+<tr id="b-9cfc22b92f6c46ea8cc72983a1966cfb">
+<td id="b-0589d9486d2744b08c3536a87bd84782" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-038be91fda3e4bd3ba8ce457bdddade6" style="text-align:start"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">2014年4月14日</span></span></p>
+</td>
+<td id="b-a46336cb4fcc4e9c9bd1424b35c97068" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-0ad50285d3764c499924513cf480079b" style="text-align:start"><span style="font-size:15px">尼日利亚</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">首都</span></span><span style="font-size:15px">阿布贾</span></p>
+</td>
+<td id="b-686c660171274c1391661f85be92b82b" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-c2a3cbbf4c134799b8ea847323f09274" style="text-align:start"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">2014年4月14日早上发生在</span></span><span style="font-size:15px">尼日利亚</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">首都</span></span><span style="font-size:15px">阿布贾</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">的</span></span><span style="font-size:15px">恐怖攻击</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">事件。当日早上6:45，两枚炸弹在阿布贾市中心西南8千米（5.0英里）拥挤的公交车站爆炸，造成至少75人罹难，124人受伤</span></span></p>
+</td>
+<td id="b-501e1fad03c94c7db9a0d17f901e6225" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-d913f1ba3eb74d39a6c52b9e3cee6ad4" style="text-align:start"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">造成至少75人罹难，124人受伤</span></span></p>
+</td>
+<td id="b-edc8e09b292241e897a7f3a50fe22575" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-80b6f6a77ae44e7d9713b4c22c39eb15" style="text-align:start"><span style="font-size:15px">无</span></p>
+</td>
+<td id="b-513879cc56cc497ead0308a10a5b4952" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-50677ca2173840279e43ddc9cd37e52b" style="text-align:start"><span style="font-size:15px">伊斯兰</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">教派极端组织</span></span><span style="font-size:15px">博科圣地</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">该为这次爆炸案负责</span></span></p>
+</td>
+<td id="b-455ed252c4344ed7aaf9ec07ba08eac6" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-aa8ed143d50243edb59fbf1a75c0b7d2" style="text-align:start"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">炸弹</span></span></p>
+</td>
+<td id="b-53534a657a9d4bdf8af6f916a6f1204e" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-1a59183483a942ffbbe7c717d87f57cb" style="text-align:start"><img src="https://km.sankuai.com/api/file/cdn/1625309615/234767924086?&amp;isNewContent=false&amp;contentType=1" width="176" height="146" id="b-0e2b36c4eecf4b7ea35a803e7634984b" alt="原文图片（需学城权限）"></p>
+</td>
+</tr>
+<tr id="b-fdd4f7b4eaf54561a20b74ceeddb7261">
+<td id="b-333894c59021425b9c9de51d81ba6fac" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-0836b3e547414a48823f448154370d9e" style="text-align:start"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">2014年6月10日</span></span></p>
+</td>
+<td id="b-25779dd1332f4995be4ae8e7daca4e95" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-a64db50cb3cd4bdb9dca3d30218b694f" style="text-align:start"><span style="font-size:15px">伊拉克巴杜什监狱</span></p>
+</td>
+<td id="b-3f989338c45f4996a5b8a3bc95165b4a" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-ff55741a065943b4b2d2fe7592f7315e" style="text-align:start"><span style="font-size:15px">2014年6月10日， 伊拉克和黎凡特伊斯兰国 （ISIS）杀死至少670人 什叶派 囚犯袭击 巴杜什 监狱。伊黎伊斯兰国首先将 逊尼派 囚犯在处决其余囚犯之前。 2017年3月11日， 人民动员力量 宣布他们发现了一个集体坟墓，其中装有ISIS在监狱中处决的500名囚犯的遗骸。</span></p>
+<p id="b-a3376cfe25ac47968904124662a10931"><span style="font-size:15px">此外，该地区有39名印度建筑工人被处决</span></p>
+</td>
+<td id="b-8ec251b88c824700a356bd12877273a6" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-82a7bcce5cf040ca809125168b826675" style="text-align:start"><span style="font-size:15px">670人</span></p>
+</td>
+<td id="b-de6fd52c59d44cee92ebd4d5f8b8e833" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-d8cdef7b2d8a447ea5117d4f7af402be" style="text-align:start"><span style="font-size:15px">无</span></p>
+</td>
+<td id="b-807c80a8352f4cddba1976ebab5f61df" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-2038dba9390f4eebb2d5eaaccb445f4a" style="text-align:start"><span style="font-size:15px">伊拉克和黎凡特伊斯兰国 </span></p>
+</td>
+<td id="b-cc8bfdb34b734274b998d57154d40da6" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-257428b66e2240208d245cefd9337d0d" style="text-align:start"><span style="font-size:15px">屠杀</span></p>
+</td>
+<td id="b-5a37ce845394499a8a4a6d8768c07057" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-9d49559b14dc40cc8c0fc51d376ff73b" style="text-align:start"><img src="https://km.sankuai.com/api/file/cdn/1625309615/234765389279?&amp;isNewContent=false&amp;contentType=1" width="176" height="116" id="b-2fa17bf17590446e81e309375fb4ee88" alt="原文图片（需学城权限）"></p>
+</td>
+</tr>
+<tr id="b-3a08e759846b480f98c8a9f3cc240516">
+<td id="b-dcf5f3f304e348b69c318bd97220bdf7" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-1bffc0d463c14b4d908da5b3dfe84ec9" style="text-align:start"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">2014年12月15日</span></span></p>
+</td>
+<td id="b-5e3271d01a1d49ab9e9d024e5f39f0b1" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-b72387b53eae4b1b8360b367d3920d21" style="text-align:start"><span style="font-size:15px">澳大利亚新南威尔士州悉尼市市中心马丁广场的巧克力品牌瑞士莲所属的咖啡馆</span></p>
+</td>
+<td id="b-000f1ca80596400db37b3500482f0fe7" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-b573849a37574ed98376e4304b8f8c46" style="text-align:start"><span style="font-size:15px">2014年12月15日澳大利亚东部标准时间9时44分在澳大利亚新南威尔士州悉尼市市中心马丁广场的巧克力品牌瑞士莲所属的咖啡馆所发生的一宗劫持人质事件，一名劫持者劫持咖啡馆内18名人质，经过逾16小时至次日2时许，劫持者将咖啡店经理男人质射杀后，新南威尔士警察部队的战术性行动组强攻进入咖啡馆将疑犯击毙，而一名女顾客人质亦于警察行动期间被警察的流弹击毙。2014年悉尼人质事件经历近17小时以流血告终，共造成3人死亡、4人受伤。</span></p>
+</td>
+<td id="b-f3c779f4b3da4b8480099760bbf914cc" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-62c40b8402734464bd40ba1cd2a4e502" style="text-align:start"><span style="font-size:15px">造成3人死亡、4人受伤。</span></p>
+</td>
+<td id="b-dc9fa2b1e9e7448fbc85fb3009e63e5b" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-ec3006c0bb2a41a1ba8a3a7bd1c21f68" style="text-align:start"><span style="font-size:15px">无</span></p>
+</td>
+<td id="b-489a5bb36cef414bb86e31bca9924a6a" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-451b59fd44c948afb3b68eb973ee01c5" style="text-align:start"><span style="font-size:15px">曼·哈龙·莫尼斯</span></p>
+</td>
+<td id="b-49f9ac58ca83497c87e52a6dad9d67da" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-ad0000ea8943424598732e7eecd01bb7" style="text-align:start"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">什叶派转为逊尼派</span></span></p>
+</td>
+<td id="b-0e266d174f92430eb4e4a03af10f26b9" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-62d6c61610b4438db81122ac5d38f2c8" style="text-align:start"><img src="https://km.sankuai.com/api/file/cdn/1625309615/234768678582?&amp;isNewContent=false&amp;contentType=1" width="176" height="115" id="b-61c05990a74b4008b22ae8d641f9c556" alt="原文图片（需学城权限）"></p>
+</td>
+</tr>
+<tr id="b-50aaa6b6eb4748dfa2dd7afd1619260f">
+<td id="b-3c0026bc94744f4298767b22e31deaf9" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-53b114c162024faaa8b20671a468060b" style="text-align:start"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">2014年12月16日</span></span></p>
+</td>
+<td id="b-95621c20e0af403a80e327f873c8d64f" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-315beed1706c4a3f95530c420ab13c41" style="text-align:start"><span style="font-size:15px">巴基斯坦</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">西北部城市</span></span><span style="font-size:15px">白沙瓦</span></p>
+</td>
+<td id="b-48df39d1a65e484d9674afe54c78e098" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-3239d114be154f6db1b5944f3be5c10a" style="text-align:start"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">指2014年12月16日在</span></span><span style="font-size:15px">巴基斯坦</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">西北部城市</span></span><span style="font-size:15px">白沙瓦</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">一间军人子女就读的学校发生的恐怖袭击事件。七名属于</span></span><span style="font-size:15px">巴基斯坦塔利班运动</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">的持枪恐怖份子进入一个由军方开办的公立学校对学生及教职员乱枪扫射。事件总共造成最少141人死亡，包括132名10岁至18岁之间的学生及9名教职员。</span></span><sup><a href="https://zh.wikipedia.org/wiki/2014%E5%B9%B4%E7%99%BD%E6%B2%99%E7%93%A6%E5%AD%B8%E6%A0%A1%E8%A5%B2%E6%93%8A%E4%BA%8B%E4%BB%B6#cite_note-Samaa_News-11" title="]" id="b-25edaf8bf16842f2b212662cdcf55527"><span style="font-size:15px">]</span></a></sup><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">最少114人据报受伤并被分别送往Combined Military Hospital及Lady Reading Hospital治理。超过950名师生及职员被赶到的巴国军队拯救。行动在同日傍晚结束，全部七名恐怖份子均伏诛</span></span></p>
+</td>
+<td id="b-f03d38800a30485ba95268f8b67bfa0f" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-1d080f5015a743758bdd8752184ffde4" style="text-align:start"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">最少141人死亡，最少114人受伤</span></span></p>
+</td>
+<td id="b-91d2fad7874042efab57d901ceafe726" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-4b8a40f82cff43998baf9e727b0e0b7b" style="text-align:start"><span style="font-size:15px">无</span></p>
+</td>
+<td id="b-ea6304850216403b85e6132528d9e8ba" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-ac94dbc8fdf94d8b82f1267fa692e7d4" style="text-align:start"><span style="font-size:15px">巴基斯坦塔利班运动</span></p>
+</td>
+<td id="b-6aa158a460e24b898074fe76caf25035" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-cdd49877978441c08fde94de67fdc500" style="text-align:start"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">持枪恐怖份子进入一个由军方开办的公立学校对学生及教职员乱枪扫射</span></span></p>
+</td>
+<td id="b-56de51fb99ff464e8d89298b807ddd77" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-2532d52c86ac41f9ac636a2cb46b135b" style="text-align:start"><img src="https://km.sankuai.com/api/file/cdn/1625309615/234769326554?&amp;isNewContent=false&amp;contentType=1" width="176" height="138" id="b-110bb56cfd6c4fcfa97e05c114dbdfc4" alt="原文图片（需学城权限）"></p>
+</td>
+</tr>
+<tr id="b-21c4989fe0ae425db24de4ea47537d8c">
+<td id="b-55a7c145cd1c4e7bb3ad36ce0a542a2a" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-c3ec930ef61145e8870ee3267fd1be2a" style="text-align:start"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">2015年1月3日</span></span></p>
+</td>
+<td id="b-01286e028a82474f97420c69b878ea1e" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-6f2fa07a9b314b43ba463d2943e2a191" style="text-align:start"><span style="font-size:15px">博科圣地</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">在</span></span><span style="font-size:15px">尼日利亚巴加镇</span></p>
+</td>
+<td id="b-9db306473b3f49e8b679f2498c5e77e3" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-76f0c112823041e3b74816221e6bad0a" style="text-align:start"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">2015年1月3日至1月7日的五天时间内，</span></span><span style="font-size:15px">博科圣地</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">在</span></span><span style="font-size:15px">尼日利亚巴加镇</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">（或译巴嘎、巴格等）发生的</span></span><span style="font-size:15px">大屠杀</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">事件。</span></span><span style="font-size:15px">国际特赦组织</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">1月9日称，博科圣地在攻下该镇后，杀了包括老弱妇孺在内的2000名</span></span><span style="font-size:15px">平民</span></p>
+</td>
+<td id="b-c0e046f5d5ba4a6ea346e04ad6adddc2" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-fa2e6794360a469694a11edec75ce1cd" style="text-align:start"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">2000名</span></span><span style="font-size:15px">平民</span></p>
+</td>
+<td id="b-ea2fe581cf884344aee6d033cf17bbad" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-441479547e53477aa02a28a3713950d8" style="text-align:start"><span style="font-size:15px">无</span></p>
+</td>
+<td id="b-a50741ac447e4ca2ab35f7478765b0fe" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-b0010efb6daa4053b3c979b128590a9c" style="text-align:start"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">博科圣地</span></span></p>
+</td>
+<td id="b-bc18cf91dc314c0287c09e4752ba5f02" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-9606202b72ae477b81fdffd55e9d5d00"><span style="font-size:15px">​</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">博科圣地击溃了由</span></span><span style="font-size:15px">乍得</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">、</span></span><span style="font-size:15px">尼日尔</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">、</span></span><span style="font-size:15px">尼日利亚</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">组成的</span></span><span style="font-size:15px">多国联合特遣部队</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">，</span></span><span style="font-size:15px">占领</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">位于巴加镇内的</span></span><span style="font-size:15px">尼日利亚陆军</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">基地后，便开始进行了无差别的大屠杀</span></span></p>
+</td>
+<td id="b-95850df97c844cf988607ddb527a3644" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-3f0d58cb31b44ef1be5313213f506c52" style="text-align:start"><span style="font-size:15px">​</span></p>
+</td>
+</tr>
+<tr id="b-f22ae7c06f1b4bb38369a80260d3105e">
+<td id="b-036f25fb7ea84334b6e7ea80710cf667" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-452534ac30fb4043af52acf38713d7fe" style="text-align:start"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">2015年1月5日</span></span></p>
+</td>
+<td id="b-91ddda39f2aa48289217057d458004c0" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-ace09ca558484f4588e65b9086a1d998" style="text-align:start"><span style="font-size:15px">伊斯坦布尔</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">市中心</span></span><span style="font-size:15px">苏丹艾哈迈德</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">地区</span></span></p>
+</td>
+<td id="b-ce494730862a4f509252cfbcc9e58d08" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-72ff364bd5974b18b8a94145009e0234" style="text-align:start"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">2015年1月6日，来自</span></span><span style="font-size:15px">达吉斯坦</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">的戴安娜·拉玛佐诺娃在</span></span><span style="font-size:15px">伊斯坦布尔</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">市中心</span></span><span style="font-size:15px">苏丹艾哈迈德</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">地区，</span></span><span style="font-size:15px">蓝色清真寺</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">和</span></span><span style="font-size:15px">圣索菲亚大教堂</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">附近的一个警察局引爆了身上的炸弹背心。拉玛佐诺娃在袭击中丧生并造成两名警官受伤，其中一人后来经抢救无效死亡。拉玛佐诺娃是一名寡妇并怀有身孕，她的丈夫是挪威-车臣籍的伊斯兰国战士，2014年12月在叙利亚被杀害。</span></span></p>
+</td>
+<td id="b-30adaed8632c4486bc9c4aee9114d4a0" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-f4015343535b4d588c818c484e5006b1" style="text-align:start"><span style="font-size:15px">死亡2，受伤1</span></p>
+</td>
+<td id="b-364cf24ec4834f85b5085a3b0e4e2953" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-7fe1064025694fba86bf7c0cbb68e0da" style="text-align:start"><span style="font-size:15px">无</span></p>
+</td>
+<td id="b-ded2e5841db249d6adf4c27f6aef8da4" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-e4f7271093384f8eae9ea173f1955f7b" style="text-align:start"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">戴安娜·拉玛佐诺</span></span></p>
+</td>
+<td id="b-ef8393266f7143d39c2d49b19868fdcc" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-5955aaf3df0246f79efd044887dd8777" style="text-align:start"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">引爆了身上的炸弹背心</span></span></p>
+</td>
+<td id="b-ba8c7dd1ba7849e4b8135844b5fdc868" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-636722ffec5c4eb98bb32e79535065f2" style="text-align:start"></p>
+</td>
+</tr>
+<tr id="b-59c5797da82742d4b378ee7bf7cebfbb">
+<td id="b-bc3b2db3624842f98ec59418d8112196" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-9df716295da343e299d91bf6716170de" style="text-align:start"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">2015年1月7日</span></span></p>
+</td>
+<td id="b-673f28f0bb284b53b272e0b1d52c09c6" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-df62302ac9204624892cc728ec4c5b91" style="text-align:start"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">首都萨那</span></span></p>
+</td>
+<td id="b-e3b3fdfa1dad404d88a6f24f46d22d5c" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-20e3e786d7444f619bc80e26b18db3b7" style="text-align:start"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">2015年1月7日早上7点，首都萨那发生爆炸袭击事件，至少造成37人</span></span><span style="font-size:15px">死亡</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">，另有超过66人受伤，伤亡者中包含多名未成年人。事件发生在</span></span><span style="font-size:15px">也门</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">首都</span></span><span style="font-size:15px">萨那</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">的一间警察学校正门外，爆炸发生时，校外正有数百名</span></span><span style="font-size:15px">学生</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">办理入学手续，一辆停放在学校门外的</span></span><span style="font-size:15px">汽车</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">突然发生</span></span><span style="font-size:15px">爆炸</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">，导致了重大人员伤亡。另有消息证实，伤亡人数已经超过150人</span></span></p>
+</td>
+<td id="b-bad6e10fba9642eb846d4be9e5014b62" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-23dc2e4be50a45a783295e2df6dfee93" style="text-align:start"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">伤亡人数已经超过150人</span></span></p>
+</td>
+<td id="b-a64bdf3311f7483c9e13dd76b34f6057" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-6b1a2656eeda459cb13cf2675591d26b" style="text-align:start"><span style="font-size:15px">无</span></p>
+</td>
+<td id="b-61254648798e447bb2a744109ae79be9" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-1a5e2213b66245abb5415f7d5d41481c" style="text-align:start"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">“</span></span><span style="font-size:15px">基地</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">”组织类似的恐怖组织实施</span></span></p>
+</td>
+<td id="b-e54c71e95a374293b8d074b87f439d38" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-20df7821d68f4315a331e95489e7b514" style="text-align:start"><span style="font-size:15px">汽车炸弹</span></p>
+</td>
+<td id="b-04f21067369e4185809ad704129cae69" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-14ec244fcfdd42d3b61df08c95fd6894" style="text-align:start"><span style="font-size:15px">​</span></p>
+</td>
+</tr>
+<tr id="b-450cc52834a149bc904069ea5b17b964">
+<td id="b-79dbfa44457b44c98872f2e42cb6413f" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-7ad5941a85ec4e39a1f507b3b8b90b39" style="text-align:start"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">2015年1月7日</span></span></p>
+</td>
+<td id="b-0ccafec80ff749448869b84cb8f08673" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-cd4d8805dfcd43458114fabb364f56df" style="text-align:start"><span style="font-size:15px">法国巴黎</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">《</span></span><span style="font-size:15px">查理周刊</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">》总部</span></span></p>
+</td>
+<td id="b-dbe0983d7fe94637ae6d7515f0eeef8f" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-a790db839aa8469c9491f29e30df3e9c" style="text-align:start"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">为2015年1月7日发生于</span></span><span style="font-size:15px">法国巴黎</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">《</span></span><span style="font-size:15px">查理周刊</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">》（Charlie Hebdo，</span></span><span style="font-size:15px">法语发音：[ʃaʁli ɛbdo]</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">）总部的恐怖袭击案，导致12死11伤。遇难者包括两名警员和多位周刊工作人员，其中一位是周刊</span></span><span style="font-size:15px">主编</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">。由两名身穿“</span></span><span style="font-size:15px">圣战</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">”服装的蒙面男子发动袭击。这两名凶徒还高喊“Allahu Akbar”（</span></span><span style="font-size:15px">真主至大</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">）向平民百姓和警方射击。该杂志因经常讽刺</span></span><span style="font-size:15px">伊斯兰教</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">创始人</span></span><span style="font-size:15px">穆罕默德</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">，而受到世界注目</span></span></p>
+</td>
+<td id="b-f9a44b7ee9374f0c801b2288c2714ca5" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-ac91af7669e24b1cb5eec11e5a0e9a25" style="text-align:start"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">12死11伤</span></span></p>
+</td>
+<td id="b-e82a9803563c4528823fff388d052b53" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-c21edbd7634d485baf2b65a8dd259bd2" style="text-align:start"><span style="font-size:15px">无</span></p>
+</td>
+<td id="b-f7b390ecd2824052b042581f79512959" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-2968bb66f5db43a5a1bbf8d534cfa601" style="text-align:start"><span style="font-size:15px">激进派穆斯林</span></p>
+</td>
+<td id="b-5088a04c64124841a1d281e9b79bdfcf" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-889a98d616ab4da5b7c83800fb8f5a23" style="text-align:start"><span style="font-size:15px">枪击，恐怖袭击</span></p>
+</td>
+<td id="b-93f780c172df46f6b374b30e908a90e7" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-ac1823dc218443319205036e905cff55" style="text-align:start"><span style="font-size:15px">​</span></p>
+</td>
+</tr>
+<tr id="b-0b4d349ca990425dbbf8c797621de612">
+<td id="b-41714bd183ca4072996508539d372cb3" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-ae9ef5a6372a4d649b1953d1d80e737e" style="text-align:start"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">2015年1月25日</span></span></p>
+</td>
+<td id="b-d151d3c5e7a14b0da14259e8ce143e49" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-155bb9d7e25c45b196d82f43646e35d2" style="text-align:start"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">在</span></span><span style="font-size:15px">菲律宾棉兰老穆斯林自治区马京达瑙省马马萨帕诺</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">图坎纳利宝村</span></span></p>
+</td>
+<td id="b-3157a83e102541919e400055ef5add34" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-6ac60883770946f8b8c392187b3acb8a" style="text-align:start"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">2015年1月25日在</span></span><span style="font-size:15px">菲律宾棉兰老穆斯林自治区马京达瑙省马马萨帕诺</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">图坎纳利宝村发生，以一次由</span></span><span style="font-size:15px">菲律宾国家警察特别行动部队</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">392名</span></span><span style="font-size:15px">特种警察人员</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">进行名为“Oplan Exodus”的执法行动为开端，其后与逾千名</span></span><span style="font-size:15px">邦萨摩洛伊斯兰自由战士</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">和</span></span><span style="font-size:15px">摩洛伊斯兰解放阵线</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">成员爆发严重流血冲突，造成14名特种警察人员受伤、44名</span></span><span style="font-size:15px">殉职</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">，为</span></span><span style="font-size:15px">菲律宾历史</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">上官方特种人员殉职人数最高的事件。而后两者则分别被确认有5人和声称有18人死亡，另外由邦萨摩洛伊斯兰自由战士保护下匿藏在</span></span><span style="font-size:15px">棉兰老岛</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">、</span></span><span style="font-size:15px">马来西亚圣战组织</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">怀疑领袖、</span></span><span style="font-size:15px">回教祈祷团</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">核心成员及被</span></span><span style="font-size:15px">美国联邦调查局</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">列为</span></span><span style="font-size:15px">最高级别通缉恐怖分子</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">的</span></span><span style="font-size:15px">Zulkifli Abdhir</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">在警察行动中被击毙。此外，</span></span><span style="font-size:15px">莫洛人</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">发言人声称至少3名平民受伤、7名死亡。</span></span></p>
+</td>
+<td id="b-d5e74812ec3d4cd699ee37f671e0eebf" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-cd746453342e449f851ab43cc0ee30c9" style="text-align:start"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">名平民受伤、7名死亡。</span></span></p>
+<p id="b-7f65f05ee6f842ffb9da381bafa9b140" style="text-align:start"></p>
+<p id="b-12ad81a772744a7e927102f44e70307c" style="text-align:start"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">造成14名特种警察人员受伤、44名</span></span><span style="font-size:15px">殉职</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">，</span></span></p>
+</td>
+<td id="b-dfbb86414caa4c98be1474df2a10a7f1" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-9149e7dc4929426aaa8276f7a48eca9c" style="text-align:start"><span style="font-size:15px">无</span></p>
+</td>
+<td id="b-600dc9426ca5432da6012065d40500c4" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-e560c729d76746f4b06547f719a84e28" style="text-align:start"><span style="font-size:15px">邦萨摩洛伊斯兰自由战士</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">和</span></span><span style="font-size:15px">摩洛伊斯兰解放阵线</span></p>
+</td>
+<td id="b-8ab0089a12f243a589a708b353428ecf" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-b36f419dee97434f9e96b1b9dbd0ad4c" style="text-align:start"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">以一次由</span></span><span style="font-size:15px">菲律宾国家警察特别行动部队</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">392名</span></span><span style="font-size:15px">特种警察人员</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">进行名为“Oplan Exodus”的执法行动为开端，其后与逾千名</span></span><span style="font-size:15px">邦萨摩洛伊斯兰自由战士</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">和</span></span><span style="font-size:15px">摩洛伊斯兰解放阵线</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">成员爆发严重流血冲突</span></span></p>
+</td>
+<td id="b-81eb5256bf6d4d129a7fd79ec6abf10a" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-e4c79b1bb94247a7af73320e70dfc226" style="text-align:start"><span style="font-size:15px">​</span></p>
+</td>
+</tr>
+<tr id="b-20bb72ff58144293bb8dd7ffc2ae2ceb">
+<td id="b-845f1f6a4faf45a1b4bf3e2632cf2679" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-948f1ce42b97442d9109c0d9e186b795" style="text-align:start"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">2015年2月22日</span></span></p>
+</td>
+<td id="b-09617a8c10c748e3a1e74bf4c3be2901" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-c2b3e2385b284dd8a3a536a882dcaece" style="text-align:start"><span style="font-size:15px">哈尔科夫举行的乌克兰亲欧盟示威运动周年纪念游行过程中</span></p>
+</td>
+<td id="b-dfe35421e70b40c395ac09e87fce24fd" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-f0508b6eca6c4f36b852d3478bbbc829" style="text-align:start"><span style="font-size:15px">2015年2月22日发生在哈尔科夫举行的乌克兰亲欧盟示威运动周年纪念游行过程中发生的恐怖袭击事件。炸弹在哈尔科夫体育馆附近爆炸，造成2人当场死亡，11人受伤。受伤11人中有2人送往医院后伤重死亡。在哈尔科夫发生的恐怖袭击是源自乌克兰亲欧盟示威运动中出现亲欧派和亲俄派之间的冲突。</span></p>
+<p id="b-7fc113da1f3e4b7495e94e3bfcde39b4" style="text-align:start"><span style="font-size:15px">基于这场爆炸，检方根据乌克兰刑法(恐怖主义行为)第258条发起了刑事诉讼。 这也是哈尔科夫首次在苏联解体后发生了导致人命伤亡的恐怖袭击。</span></p>
+</td>
+<td id="b-7611dd04e9e2499ab80e157928e3541d" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-897d1564f3174de68cc42624d728abf7" style="text-align:start"><span style="font-size:15px">11人受伤。受伤11人中有2人送往医院后伤重死亡。</span></p>
+</td>
+<td id="b-bc71a10513174b1f9770f0ce299af754" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-7d625058bf33489493e3c51d36f24fb4" style="text-align:start"><span style="font-size:15px">无</span></p>
+</td>
+<td id="b-137621315f5e4d748e360684a2e5b496" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-044f7bc3616d470ca2bb576d8928c0f2" style="text-align:start"><span style="font-size:15px">在哈尔科夫发生的恐怖袭击是源自乌克兰亲欧盟示威运动中出现亲欧派和亲俄派之间的冲突</span></p>
+</td>
+<td id="b-f73de8234abe43588ec66043c59367a4" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-ea005bf3b2fc4b3b8383380522188d13" style="text-align:start"><span style="font-size:15px">简易爆炸装置</span></p>
+</td>
+<td id="b-2a1d12de549e4eb880ca6a3a7015f72b" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-513e0055dbdb4948af227fd6bb849f3f" style="text-align:start"><img src="https://km.sankuai.com/api/file/cdn/1625309615/234766185789?&amp;isNewContent=false&amp;contentType=1" width="176" height="154" id="b-45cd4a3eaf6e47e0ba54b50ab7768e29" alt="原文图片（需学城权限）"></p>
+</td>
+</tr>
+<tr id="b-d77286feb1e0452b8a43c069162f3702">
+<td id="b-a1d6ce8ebb7247aabdeba3e4d688c768" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-6312a0fba3354662929ba7915ed6acb8" style="text-align:start"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">2015年3月18日</span></span></p>
+</td>
+<td id="b-7aa484f04c8344f1a1376bfd6e2f673c" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-182c3f0e373a42598b49bf65dc0334ae" style="text-align:start"><span style="font-size:15px">突尼斯首都突尼斯市</span></p>
+</td>
+<td id="b-2067cb1f0123437984c987b9940cdf54" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-4ffa9c7777c14375849bb538fbad3b64" style="text-align:start"><span style="font-size:15px">指2015年3月18日，发生于突尼斯首都突尼斯市的枪击事件。当日12时左右，武装份子先后攻击了突尼斯议会，以及紧邻的巴尔多国家博物馆，当地警方以处理恐怖攻击事件应对，击毙两名枪手。警方围捕博物馆内的枪手并进行攻坚成功，事后清点发现至少有19人死亡，已知其中17人是外国观光客。事件是突尼斯历史上死亡人数最多的恐怖袭击，超过2002年炸死21人的格里巴犹太教堂爆炸案，其中大部分亦为欧洲游客，超过30人受伤</span><sup><a href="https://zh.wikipedia.org/wiki/%E5%B7%B4%E7%88%BE%E6%9D%9C%E5%8D%9A%E7%89%A9%E9%A4%A8%E6%A7%8D%E6%93%8A%E6%A1%88#cite_note-latimes-9" title="[" id="b-cb11cb225f3144ccb7170b190514d821"><span style="font-size:15px">[</span></a></sup><span style="font-size:15px">。</span></p>
+<p id="b-b794dd6367794645bf2e0f0abcea385d" style="text-align:start"><span style="font-size:15px">伊斯兰国宣称对袭击事件负责，并扬言要发动更多的袭击。两天后，该组织对也门首都萨那两座什叶派清真寺的爆炸案表示负责，事件造成至少137人死亡</span></p>
+</td>
+<td id="b-44439a8f393840d5a6fac6ca6e70a1a6" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-9811e7ed38984da68a2539c735681162" style="text-align:start"><span style="font-size:15px">官方称19人死亡超过30人受伤。</span></p>
+<p id="b-009b19521ea24b9f94dd1751f9ce6941" style="text-align:start"><span style="font-size:15px">事件造成至少137人死亡</span></p>
+</td>
+<td id="b-4ed9b191af2049fe8d3c690dc30d72bf" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-f5c3038ef8bc42f1a50d2aabff515a91" style="text-align:start"><span style="font-size:15px">无</span></p>
+</td>
+<td id="b-f8dad2b706744de381bf7b7647ddde4a" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-7a0d25b9f8504bc5b2342da4c6fb45f7" style="text-align:start"><span style="font-size:15px">伊斯兰国</span></p>
+</td>
+<td id="b-377e96150725428590bf37052bcc5014" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-46f7ab0721b8428d91ceb00e75e88ec8" style="text-align:start"><span style="font-size:15px">屠杀、劫持人质，炸弹</span></p>
+</td>
+<td id="b-ab3df9ec39404e04889c23b6eb52dfa3" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-af3947e7f3354150a44d9e3f5e54fa33" style="text-align:start"><img src="https://km.sankuai.com/api/file/cdn/1625309615/234766823904?&amp;isNewContent=false&amp;contentType=1" width="176" height="116" id="b-16d414d52996446296b507a783c3a232" alt="原文图片（需学城权限）"></p>
+</td>
+</tr>
+<tr id="b-2417a32a2e4a436c83ba366832d18008">
+<td id="b-9a167fffa14d46b9bb502c6448086b4d" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-42f07c2de77a4a5a96a3114b1307052e" style="text-align:start"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">2015年3月20日</span></span></p>
+</td>
+<td id="b-70dd738271304afba768570848c635b9" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-b87ce615eb9c440ca8e364cf60a40eea" style="text-align:start"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">在</span></span><span style="font-size:15px">也门萨那省萨那，</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">当地的巴德尔（al-Badr）和阿尔哈斯（al-Hashoosh）两座</span></span><span style="font-size:15px">清真寺</span></p>
+</td>
+<td id="b-0c46527c409e48a7bafc8d338f1a82a2" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-5b05df7dc32e4b2ea8a618e03585c391" style="text-align:start"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">发生于2015年3月20日，在</span></span><span style="font-size:15px">也门萨那省萨那</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">的连环爆炸案。当地的巴德尔（al-Badr）和阿尔哈斯（al-Hashoosh）两座</span></span><span style="font-size:15px">清真寺</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">，于</span></span><span style="font-size:15px">中午</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">的</span></span><span style="font-size:15px">晌礼祈祷</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">时受到</span></span><span style="font-size:15px">自杀炸弹攻击</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">。爆炸总共造成了至少142人死亡，与351人受伤</span></span></p>
+</td>
+<td id="b-188175a5cd3842bba4bf7f8ab91c0df7" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-e82f41c83996477184a814c047ced5c9" style="text-align:start"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">至少142人死亡，与351人受伤</span></span></p>
+</td>
+<td id="b-a38c824484dc49f7b86e9d12e1ac427a" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-1fc44640b79344d6852a0aeff8e8dcad" style="text-align:start"><span style="font-size:15px">无</span></p>
+</td>
+<td id="b-de1070a9d21946e29a38c292bd154384" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-7f1a6da4df624d7cb5236126acda8ab8" style="text-align:start"><span style="font-size:15px">伊斯兰国</span></p>
+</td>
+<td id="b-c6c2a195c4f443608ecf6bc799436ddd" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-ecb15f5b6490480e82997a97d09c3c06" style="text-align:start"><span style="color:rgb(0, 0, 0)"><span style="font-size:15px">4次</span></span><span style="font-size:15px">自杀炸弹攻击</span></p>
+</td>
+<td id="b-80f4b5be9fba4cacbacdca04aabbf759" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-7185618ebdbe4b1299afbf304739e5e0" style="text-align:start"><img src="https://km.sankuai.com/api/file/cdn/1625309615/234767144424?&amp;isNewContent=false&amp;contentType=1" width="176" height="149" id="b-1c73b0808bbc4f6b9f57ab2542feb7be" alt="原文图片（需学城权限）"></p>
+</td>
+</tr>
+<tr id="b-e30a943bad014e3b85c2d474eb65766f">
+<td id="b-0c40767acf40484b9ae6a4ca7a80f67f" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-4cf85d0af3aa479ebafd7748aef83ffa" style="text-align:start"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">2015年4月2日</span></span></p>
+</td>
+<td id="b-488a4d34771c4b4eb2d0cfb023b01eb0" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-e4f0800513964ad2991238150f406062" style="text-align:start"><span style="font-size:15px">肯尼亚加里萨县</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">加里萨市</span></span></p>
+</td>
+<td id="b-f9ba8f0a0a7e42369a9777196210aea9" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-8134b63eab3941d1b150368b8c4568ef" style="text-align:start"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">发生于2015年4月2日，于</span></span><span style="font-size:15px">肯尼亚加里萨县</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">加里萨市的一起屠杀案。当地的</span></span><span style="font-size:15px">加里萨大学</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">遭到</span></span><span style="font-size:15px">索马里青年党</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">的武装份子闯入，并劫持了多名学生做为</span></span><span style="font-size:15px">人质</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">（</span></span><span style="font-size:15px">基督徒</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">当场射杀，</span></span><span style="font-size:15px">穆斯林</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">予以释放）。青年党是一个伊斯兰激进组织，攻击加里萨大学是为了报复先前肯尼亚派兵至</span></span><span style="font-size:15px">索马里</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">，青年党的基地位于索马里</span></span></p>
+</td>
+<td id="b-fda84fb63d0141118ff870995c240ad8" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-75004d009e704ed88b322ff85c24f696" style="text-align:start"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">本次事件至少造成148人死亡</span></span></p>
+</td>
+<td id="b-49b474374afe43ac8a69d15028fff3e4" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-56280e876155481e84d3a70848f27efa" style="text-align:start"><span style="font-size:15px">无</span></p>
+</td>
+<td id="b-ac3f887891a24ca8835db9f321e89e77" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-642d546d43964f438bd6c048d61ce94a" style="text-align:start"><span style="font-size:15px">索马里青年党</span></p>
+</td>
+<td id="b-326fc78fca6648819ce6bf053b53b635" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-bd19f5f6eef14fceaff5dcee2f4bafc1" style="text-align:start"><span style="color:rgb(0, 0, 0)"><span style="font-size:15px">劫持</span></span><span style="font-size:15px">人质</span><span style="color:rgb(0, 0, 0)"><span style="font-size:15px">、</span></span><span style="font-size:15px">枪击</span><span style="color:rgb(0, 0, 0)"><span style="font-size:15px">、</span></span><span style="font-size:15px">屠杀</span></p>
+</td>
+<td id="b-e2e70213f1104cd99e87a567bc4fc313" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-657f94a3c8ff4175aa5cf358644ec626" style="text-align:start"><img src="https://km.sankuai.com/api/file/cdn/1625309615/234765389177?&amp;isNewContent=false&amp;contentType=1" width="176" height="179" id="b-5c10f63cdcd5450c9fa795892fd1419d" alt="原文图片（需学城权限）"></p>
+</td>
+</tr>
+<tr id="b-0387dedbb45f4f54b74b2ee1eb7863e8">
+<td id="b-0663f1b25ede4890a4e50edafc279a5c" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-aca425a7ed7f42ab999dc20e15953134" style="text-align:start"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">2015年6月26日</span></span></p>
+</td>
+<td id="b-2b17c1947773480080c30a13d2718866" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-a45f80c81ba742c6a914ff2521fa418a" style="text-align:start"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">于</span></span><span style="font-size:15px">法国</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">、</span></span><span style="font-size:15px">突尼斯</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">、</span></span><span style="font-size:15px">科威特</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">、</span></span><span style="font-size:15px">索马里</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">的四起</span></span><span style="font-size:15px">恐怖攻击</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">事件</span></span></p>
+</td>
+<td id="b-893fc4039e4c4c20a529b3dbaead41b2" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-bf24caa6344448b6969c873ef2810361" style="text-align:start"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">指发生在2015年6月26日的同一天，于</span></span><span style="font-size:15px">法国</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">、</span></span><span style="font-size:15px">突尼斯</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">、</span></span><span style="font-size:15px">科威特</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">、</span></span><span style="font-size:15px">索马里</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">的四起</span></span><span style="font-size:15px">恐怖攻击</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">事件的其中之一。当地时间上午9时30分至10时间，两名驾着</span></span><span style="font-size:15px">面包车</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">，疑似支持</span></span><span style="font-size:15px">伊斯兰主义</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">的武装分子，冲入了邻近</span></span><span style="font-size:15px">里昂</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">，</span></span><span style="font-size:15px">圣康坦-法拉维耶</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">镇工业园区的</span></span><span style="font-size:15px">空气化工</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">公司的一家瓦斯工厂，并撞向</span></span><span style="font-size:15px">瓦斯罐</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">而引发爆炸，造成1死2伤</span></span></p>
+</td>
+<td id="b-902a53bfb88f4761a835602b1f456002" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-79f585bb300a41128ea7496c0e4396fc" style="text-align:start"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">1死2伤</span></span></p>
+</td>
+<td id="b-b85560f78e004c69aa57b7277a7fd5dd" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-960585a4949d471393b2aa2828374b03" style="text-align:start"><span style="font-size:15px">无</span></p>
+</td>
+<td id="b-ad949d91d0014f929707eee1885dc4a2" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-94a8d56f57b14dd39989815a74ad4d10" style="text-align:start"><span style="font-size:15px">未知</span></p>
+</td>
+<td id="b-559db9f74088495bb479c73718eb6581" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-6dcaa98030274862ae24ddb3c5c480e1" style="text-align:start"></p>
+</td>
+<td id="b-5dba4af789374969aff6aa5ea701e531" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-0e1d91e0dcdc4094aa2a5482261fb17b" style="text-align:start"><img src="https://km.sankuai.com/api/file/cdn/1625309615/234767723823?&amp;isNewContent=false&amp;contentType=1" width="198" height="131" id="b-16b2d46d29784455a40d9fbb1e5ba5ac" alt="原文图片（需学城权限）"></p>
+</td>
+</tr>
+<tr id="b-207905da0cc3472693c314a173ac3e7d">
+<td id="b-6a57eb67bd1d4df487a9adb98790e49d" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-fbc25fce68ef43ca9f8aca81ab604302" style="text-align:start"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">2015年6月26日</span></span></p>
+</td>
+<td id="b-5882076178924a5c871892a23b707d32" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-02d8eb3e9ec945868f2c8c078e06c798" style="text-align:start"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">于</span></span><span style="font-size:15px">法国</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">、</span></span><span style="font-size:15px">突尼斯</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">、</span></span><span style="font-size:15px">科威特</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">、</span></span><span style="font-size:15px">索马里</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">的四起</span></span><span style="font-size:15px">恐怖攻击</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">事件</span></span></p>
+</td>
+<td id="b-53fbcbd89c264c64802659839fd68cf4" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-a8471d792da44d2fb78219200859e412" style="text-align:start"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">发生在2015年6月26日的同一天，于</span></span><span style="font-size:15px">法国</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">、</span></span><span style="font-size:15px">突尼斯</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">、</span></span><span style="font-size:15px">科威特</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">、</span></span><span style="font-size:15px">索马里</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">的四起</span></span><span style="font-size:15px">恐怖攻击</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">事件的其中之一，四起事件中，以本起恐怖攻击的伤亡人数最多。一名恐怖分子，冲入</span></span><span style="font-size:15px">科威特</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">首都</span></span><span style="font-size:15px">科威特</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">市的伊玛目萨迪克（Imam Ja'far as-Sadiq）</span></span><span style="font-size:15px">什叶派清真寺</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">，并引爆身上的</span></span><span style="font-size:15px">炸弹</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">。由于案发时正逢</span></span><span style="font-size:15px">伊斯兰教</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">的</span></span><span style="font-size:15px">斋戒月</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">，寺中挤满了信徒，导致大量伤亡</span></span></p>
+</td>
+<td id="b-fd75a9a068ac43c781795839425f8b60" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-7ab1128a56a54460ba3a1cfb0e1736e7" style="text-align:start"><span style="font-size:15px">25死以上</span></p>
+</td>
+<td id="b-54ad1df01a9246af9a76fde5cc5358ec" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-81ca8429e7b54b6c90c8bcec8c4240e1" style="text-align:start"><span style="font-size:15px">无</span></p>
+</td>
+<td id="b-a3a8eeb387e541fb983e4e4801206bec" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-af34c15f024141a696ef965d6910f4f7" style="text-align:start"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">案发后，一个名叫“纳季德省”的</span></span><span style="font-size:15px">伊斯兰国</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">附属组织声称犯下本起案件，伊斯兰国向来认为什叶派是</span></span><span style="font-size:15px">异教徒</span></p>
+</td>
+<td id="b-3a502ee305994ce187ab649a8b80a786" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-676d56e90f964f99b35063bf313ec884" style="text-align:start"></p>
+</td>
+<td id="b-9fce12e38dac44408bb0b9e8ac2cb6fc" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-1dc86828b12b4e858afe58cbdca1eb3e" style="text-align:start"><img src="https://km.sankuai.com/api/file/cdn/1625309615/234768240984?&amp;isNewContent=false&amp;contentType=1" width="133" height="167" id="b-f45e7f73a0af4128a323ed733e1c29c5" alt="原文图片（需学城权限）"></p>
+</td>
+</tr>
+<tr id="b-810aab4963d648de88228fc77e7b0c16">
+<td id="b-1d65aa65d5224e0ca3e44e10d00a0c3d" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-c815982d8a7c490c991beba0fbdb11e3" style="text-align:start"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">2015年6月26日</span></span></p>
+</td>
+<td id="b-b593991ac6564f39b6151fd01d6154b7" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-b40dabe40b1043939c14ece0af223e7b" style="text-align:start"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">于</span></span><span style="font-size:15px">法国</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">、</span></span><span style="font-size:15px">突尼斯</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">、</span></span><span style="font-size:15px">科威特</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">、</span></span><span style="font-size:15px">索马里</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">的四起</span></span><span style="font-size:15px">恐怖攻击</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">事件</span></span></p>
+</td>
+<td id="b-4117197bc71e434fa91d582237483d86" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-56abddfe22664848888598fbcb58f0ee" style="text-align:start"><span style="font-size:15px">指发生在2015年6月26日的同一天，于法国、突尼斯、科威特、索马里的四起恐怖攻击事件的其中之一。</span></p>
+<p id="b-cfc8e6dfca27446295d298eed3a34d9e" style="text-align:start"><span style="font-size:15px">当地时间正午时分，两名伪装成工作人员的年轻男子，在帝国马哈巴酒店（Hotel Riu Imperial Marhaba）旁的游泳池与海滩边，突然掏出藏在雨伞中的步枪，向周遭的游客扫射，当场造成多名来自多国的游客伤亡</span><sup><a href="https://zh.wikipedia.org/wiki/2015%E5%B9%B4%E8%98%87%E5%A1%9E%E6%81%90%E6%80%96%E6%94%BB%E6%93%8A%E4%BA%8B%E4%BB%B6#cite_note-bbc-zh-4" title="[4]" id="b-098e0d63122444ee861f2d6e60ac1924"><span style="font-size:15px">[4]</span></a></sup><span style="font-size:15px">。突尼斯内政部称，此事是一起恐怖攻击，而这名枪手后来被警方击毙。警方称，在他的尸体上还发现绑着一枚炸弹，而另一名共犯在逃中</span></p>
+</td>
+<td id="b-7e3cb0fdc2fd4108bbdf0038d984925e" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-22f0d2c043a44fd4b999f0640281e748" style="text-align:start"><span style="font-size:15px">39死以上</span></p>
+</td>
+<td id="b-d1e14a928bfe490da615360c17351578" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-b1e931eb4a104ef5aa439584fbeaddd3" style="text-align:start"><span style="font-size:15px">无</span></p>
+</td>
+<td id="b-78da339c9e2f4c6b8313d173e23dd82d" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-8fdb1624b8104ad89c682161b8d10341" style="text-align:start"></p>
+</td>
+<td id="b-ad8a2f1515734db9a0b6f33e8cd95b15" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-755e8ccea5844708930063c220c175d8" style="text-align:start"><span style="font-size:15px">步枪、炸弹，攻击西方游客</span></p>
+</td>
+<td id="b-738775300dd9459c8507a9ac529c8b97" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-3772739bcdcb4310952ef7bf310f5fe1" style="text-align:start"><img src="https://km.sankuai.com/api/file/cdn/1625309615/234767303487?&amp;isNewContent=false&amp;contentType=1" width="198" height="171" id="b-3a2874b8d5034cc88d8eaeff4f0de3e7" alt="原文图片（需学城权限）"></p>
+</td>
+</tr>
+<tr id="b-9c1407b5a8c543698614ad1375bb8936">
+<td id="b-454e32866a4241b3946e962c1475744f" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-597d21a51ced4549b37ab7cf1e8fa6dd" style="text-align:start"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">2015年6月26日</span></span></p>
+</td>
+<td id="b-b6b885f623404ee59f8009231b00ef8f" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-c0229e37e5204e3793c42290cf47be46" style="text-align:start"><span style="font-size:15px">于法国、突尼斯、科威特、索马里的四起恐怖攻击事件</span></p>
+</td>
+<td id="b-b9de0fdb66114af4b7c7d448bb3a1463" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-61040a3d8ebc4e2b95d8488f90dbdc0d" style="text-align:start"><span style="font-size:15px">指发生在2015年6月26日的同一天，于法国、突尼斯、科威特、索马里的四起恐怖攻击事件的其中之一。</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">索马里当地的激进组织</span></span><span style="font-size:15px">索马里青年党</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">，于清晨时分驾驶一辆载满</span></span><span style="font-size:15px">炸药</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">的卡车，撞开</span></span><span style="font-size:15px">非洲联盟驻索马里特派团</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">位于</span></span><span style="font-size:15px">利戈</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">的基地大门，接着向基地内的士兵开枪。根据</span></span><span style="font-size:15px">美国之音</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">报导，至少有70名军人死亡，20名军人与40名</span></span><span style="font-size:15px">平民</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">下落不明，当地官员怀疑他们可能被青年党绑架</span></span></p>
+</td>
+<td id="b-9b4e0873530e4e79b3fc6f9194a37988" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-7dc17ce360b5407c89d7f214000c953b" style="text-align:start"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">至少有70名军人死亡，20名军人与40名</span></span><span style="font-size:15px">平民</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">下落不明，当地官员怀疑他们可能被青年党绑架</span></span></p>
+</td>
+<td id="b-30fba92428bf4445a6a5ecfb1cf4ec39" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-9e50e647142c48c8a3622c4d0c8e42d3" style="text-align:start"><span style="font-size:15px">无</span></p>
+</td>
+<td id="b-2260ec76b5ac4d068a7e606f05d59b01" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-96797b9fecb9492ba8a633f88cf90ef3" style="text-align:start"></p>
+</td>
+<td id="b-4cab3a258dc046ef8b9e9bbf3697e1e5" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-44446c43571a4f018be8ee7e5972bba2" style="text-align:start"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">驾驶一辆载满</span></span><span style="font-size:15px">炸药</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">的卡车，撞开</span></span><span style="font-size:15px">非洲联盟驻索马里特派团</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">位于</span></span><span style="font-size:15px">利戈</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">的基地大门，接着向基地内的士兵开枪</span></span></p>
+</td>
+<td id="b-1cf2fcd0736f4a5fa9da4aa700362472" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-7d71b64b66e84230b5522376aeacb8e7" style="text-align:start"><img src="https://km.sankuai.com/api/file/cdn/1625309615/234764595166?&amp;isNewContent=false&amp;contentType=1" width="116" height="133" id="b-85b6c3ecad8c4568ace74c3e8afacfb9" alt="原文图片（需学城权限）"></p>
+</td>
+</tr>
+<tr id="b-1b1d84c738db43879cf14959b067e5e8">
+<td id="b-dd674b75a199427e8c534894bef4afd3" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-e2186164695f4cf69a6ea1594f76189f" style="text-align:start"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">2015年7月17日</span></span></p>
+</td>
+<td id="b-091420ba35104459bcacf2b2969173ff" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-af74d7773af0438b867d7b2e25c764d5" style="text-align:start"><span style="font-size:15px">伊拉克迪亚拉省坎巴尼萨德</span></p>
+</td>
+<td id="b-9066d6580f744c95823417ea1bf1ba9a" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-341402cbe8214eb7b95952a857ec4db8" style="text-align:start"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">指发生于2015年7月17日，在</span></span><span style="font-size:15px">伊拉克迪亚拉省坎巴尼萨德</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">的一起</span></span><span style="font-size:15px">汽车炸弹自杀攻击</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">案。本案造成至少120人死，以及至少130人受伤，其中包括了15名</span></span><span style="font-size:15px">孩童</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">，另仍有17至20人</span></span><span style="font-size:15px">失踪</span></p>
+</td>
+<td id="b-c733c492f6694ba7803baf1eb1ffbfe7" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-8a361da9711146eeb8ecd6b0bd73bdd2" style="text-align:start"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">至少120人死，以及至少130人受伤，其中包括了15名</span></span><span style="font-size:15px">孩童</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">，另仍有17至20人</span></span><span style="font-size:15px">失踪</span></p>
+</td>
+<td id="b-a9e936a3bf8048c99d5abbefec3d6eaf" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-3c31857f16514e4fbce081f13a90ac6a" style="text-align:start"><span style="font-size:15px">无</span></p>
+</td>
+<td id="b-6f6fc56f24544054b16070407cbfeebc" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-a04f17162967475698089d93a20c75f7" style="text-align:start"><span style="font-size:15px">伊斯兰国，</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">目标是为了杀死</span></span><span style="font-size:15px">什叶派穆斯林汽车炸弹自杀攻击</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">案</span></span></p>
+</td>
+<td id="b-27e7b50515fe4d8dbe36c38469f58530" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-ce145e19c2f146978bd58ac462cf21fa" style="text-align:start"></p>
+</td>
+<td id="b-df059c16beed4e0fb96ea0f4e57aa471" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-d41302ce01e34feaaec1139cf10893cd" style="text-align:start"><img src="https://km.sankuai.com/api/file/cdn/1625309615/234764912598?&amp;isNewContent=false&amp;contentType=1" width="114" height="136" id="b-00bcd2dd232e4d528ff2abe3d88ef738" alt="原文图片（需学城权限）"></p>
+</td>
+</tr>
+<tr id="b-c30a92b85688424e827acb0693919425">
+<td id="b-4ea49e9d29964a6d81b0ee3fc24cac8d" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-751b8a080fc74c7fb118badbaed859a2" style="text-align:start"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">2015年7月20日</span></span></p>
+</td>
+<td id="b-e9f473b483574a289d00f6c16fe3d174" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-549a4f13158d4b39b6b553f8bf8c4510" style="text-align:start"><span style="font-size:15px">土耳其苏鲁奇爆炸案</span></p>
+</td>
+<td id="b-bb510feca912429cb21af2a8356ee7ef" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-ce324dfa6d8a437f8668616439a6f95a" style="text-align:start"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">发生于2015年7月20日，在土耳其</span></span><span style="font-size:15px">尚勒乌尔法省苏鲁奇</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">镇的一起爆炸案。当地时间大约上午12时左右，“阿玛拉文化中心”（Amara Culture Centre）附近发生了爆炸。已知有32人死亡，与104人受伤。</span></span><span style="font-size:15px">土耳其总理艾哈迈德·达武特奥卢</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">在记者会中称，炸弹“最有可能”是由</span></span><span style="font-size:15px">伊斯兰国</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">的一位女性成员引爆的，不过后来相信行凶者是一名与伊斯兰国武装分子有联系的库尔德族男子Seyh Abdurrahman Alagoz；</span></span><span style="font-size:15px">总统雷杰普·塔伊普·埃尔多安</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">谴责此起爆炸案，称此为</span></span><span style="font-size:15px">恐怖攻击</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">的行为</span></span></p>
+</td>
+<td id="b-990a9e9fad4145e98284eb4532bcde48" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-cdf7cefe22324280ac1839812dd6826d" style="text-align:start"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">已知有32人死亡，与104人受伤</span></span></p>
+</td>
+<td id="b-fb1567e6ff564e4993ec3cdaebb6f57e" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-9daa28c031f44b88bbdf0096ebcf2a96" style="text-align:start"><span style="font-size:15px">无</span></p>
+</td>
+<td id="b-bc7dcc044b104bae855a3b92245a30ae" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-fe3a484b408c47698dbe7cb87084ad76" style="text-align:start"><span style="font-size:15px">伊斯兰国，</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">“最有可能”是由</span></span><span style="font-size:15px">伊斯兰国</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">的一位女性成员引爆的</span></span></p>
+</td>
+<td id="b-c8765352677a43b2b08c63ce9d871950" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-4589f5dba4a54a94bb4c66217658739b" style="text-align:start"></p>
+</td>
+<td id="b-9aa89d5b85e84d63bbdab63c91b9538a" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-e447fe7eb4fe49a1a629660538d1f15a" style="text-align:start"><img src="https://km.sankuai.com/api/file/cdn/1625309615/234767723820?&amp;isNewContent=false&amp;contentType=1" width="198" height="130" id="b-7a8875af2aa14166ac4821f9976a3a74" alt="原文图片（需学城权限）"></p>
+</td>
+</tr>
+<tr id="b-7f925b8a8a76440686206fdaa65cd1a7">
+<td id="b-b103cf93aa9d49d39bcb5145f3387684" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-7f0c378cec1e411e98ab01c699fd2481" style="text-align:start"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">2015年8月6日</span></span></p>
+</td>
+<td id="b-bcc01976650f451b98a6210b28d22d60" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-542ec7cfaa294e2eb327e77b1d12f551" style="text-align:start"><span style="font-size:15px">哈清真寺</span></p>
+</td>
+<td id="b-ddbc0df0f2b74514bef90c5af8b2883b" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-5eb5bb1646ac4f488ad1e1c6bc77c11a" style="text-align:start"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">指2015年一宗由</span></span><span style="font-size:15px">伊斯兰国</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">旗下组织“汉志省”发动、对象为</span></span><span style="font-size:15px">沙特阿拉伯艾卜哈</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">一所</span></span><span style="font-size:15px">清真寺</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">的</span></span><span style="font-size:15px">恐怖主义</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">袭击</span></span></p>
+</td>
+<td id="b-ac08b0497950428a96b6028ba9628f7b" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-696b16bd1f4d459b8c7e1f204f6bc2f6" style="text-align:start"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">亦有多份报导分别指死亡人数为13或15人；死者的身份亦有争议，有报导认为死者有部队成员和其他工作人员，亦有报导指死者全是部队成员</span></span></p>
+</td>
+<td id="b-c5167ab6f3f848ecbe3167a56bf4f5f0" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-ccd43977d76946cfa40316d89c2618e9" style="text-align:start"><span style="font-size:15px">无</span></p>
+</td>
+<td id="b-287e1680befe4315bbc35b1c41d221ff" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-667a51de9d8f45bc88e3df5e5cc8b96f" style="text-align:start"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">由</span></span><span style="font-size:15px">伊斯兰国</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">旗下组织“汉志省”发动、自杀爆炸案</span></span></p>
+</td>
+<td id="b-5b71fb21950d45d9bf717cbf4b2dcb99" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-373ec7d3abd04e7797c0361a95efc540" style="text-align:start"></p>
+<p id="b-7d1d4a2b023f4e53bd84653718322495" style="text-align:start"></p>
+</td>
+<td id="b-0c39a30e8546485f8ed1215a2c966c17" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-697e515f0e3146ed9c00e012d7da7cd7" style="text-align:start"></p>
+</td>
+</tr>
+<tr id="b-e1c4c2e3393a4fe49c99220b34287f7b">
+<td id="b-18db2030adab4302b9f0b3af0c976a11" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-541fa68619c04ba6a4104257972a24f9" style="text-align:start"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">2015年8月13日</span></span></p>
+</td>
+<td id="b-79b994a582434dc78f9698ce1453ca75" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-0e06427631ea44158d216fe41c4e5ab7" style="text-align:start"><span style="font-size:15px">伊拉克巴格达</span></p>
+</td>
+<td id="b-dc8f30fb4a1045ce8fd3b1a4aef87693" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-cca3e1f1e14341f18cab53fd0ab729aa" style="text-align:start"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">指2015年一宗由</span></span><span style="font-size:15px">伊斯兰国</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">发动、对象为</span></span><span style="font-size:15px">什叶派</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">武装分子的</span></span><span style="font-size:15px">恐怖主义</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">袭击事件，有</span></span><span style="font-size:15px">汽车炸弹</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">在一所</span></span><span style="font-size:15px">批发市场</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">爆炸，造成76人死亡、212人受伤。</span></span></p>
+</td>
+<td id="b-79b569ac372f4eab9aa5a8e89d9a7266" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-9d39f349ee334cc09d344c04ecadb4b5" style="text-align:start"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">造成76人死亡、212人受伤。</span></span></p>
+</td>
+<td id="b-231cf92c558c4aa8beb6be9fc22e1fdb" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-ea560df5cbb0412fa7337989bfa34a37" style="text-align:start"><span style="font-size:15px">无</span></p>
+</td>
+<td id="b-999577fdf593499d9833043af6cbe62d" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-828b04a56ef04bccae2c054896b849b4" style="text-align:start"></p>
+</td>
+<td id="b-ff9e07e23bd64b5994abbea4d89a9359" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-c009d6ee2352490bab79d93be847419e" style="text-align:start"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">有</span></span><span style="font-size:15px">汽车炸弹</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">在一所</span></span><span style="font-size:15px">批发市场</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">爆炸</span></span></p>
+</td>
+<td id="b-74b64fe0c6da42cea627660b30834348" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-0c57325b5c7c44c3bfebc350bd6c8dde" style="text-align:start"><img src="https://km.sankuai.com/api/file/cdn/1625309615/234767923976?&amp;isNewContent=false&amp;contentType=1" width="198" height="106" id="b-80270a0ac61d421ab1aa2ed17d8e6de2" alt="原文图片（需学城权限）"></p>
+</td>
+</tr>
+<tr id="b-2ab7581bc9a14e4d93bd1bb76a744cab">
+<td id="b-9a195194f8ba4fab809e7c2ac787f67c" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-4b6292f862234ef8b1990dc0367f7c72" style="text-align:start"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">2015年9月20日</span></span></p>
+</td>
+<td id="b-3f6d9d4b17e64cd29e9a79b3a01eb3a3" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-ebbbb62cd57a420681d298f0d36a15ba" style="text-align:start"><span style="font-size:15px">尼日利亚博尔诺州</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">城市</span></span><span style="font-size:15px">迈杜古里</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">和</span></span><span style="font-size:15px">蒙古诺</span></p>
+</td>
+<td id="b-65ebf2b80eb145e980510a64c22cb1ac" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-c714e1b02eb6468a9c691057ecee7bb6" style="text-align:start"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">指2015年9月20日发生在</span></span><span style="font-size:15px">尼日利亚博尔诺州</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">城市</span></span><span style="font-size:15px">迈杜古里</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">和</span></span><span style="font-size:15px">蒙古诺</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">的一连串</span></span><span style="font-size:15px">恐怖主义</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">袭击，怀疑由</span></span><span style="font-size:15px">博科圣地</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">发动。</span></span></p>
+</td>
+<td id="b-41c8e15c33be4a17948d5879d9da61b7" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-2f35aad5454f469f8d79680f268e52d8" style="text-align:start"><span style="font-size:15px">死亡至少80人，</span></p>
+<p id="b-d317e45a55b44e4cb4de7e103b41a049" style="text-align:start"><span style="font-size:15px">受伤至少150人</span></p>
+</td>
+<td id="b-4e271e3acb354395a9c8fc6478badb0f" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-c3a25ff6398b41b8b37a5e49020ad5b5" style="text-align:start"><span style="font-size:15px">无</span></p>
+</td>
+<td id="b-d18f78001b684062bb529c9fd35a8383" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-c64a0f2744cf43f7a6c8a9c76354d10c" style="text-align:start"></p>
+</td>
+<td id="b-c92ff4787ddc45c08daaff285d57eb5b" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-c00cb410dcc74c5780c1842fbb967a8f" style="text-align:start"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">袭击共有两枚炸弹爆炸</span></span></p>
+</td>
+<td id="b-c348398e7b99421f9890834b4bd0ee1d" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-7addf5cf3b974ee68bcfc6b6c904b243" style="text-align:start"><img src="https://km.sankuai.com/api/file/cdn/1625309615/234764912596?&amp;isNewContent=false&amp;contentType=1" width="74" height="53" id="b-07fc439d58be486b80f64ee1efad84ad" alt="原文图片（需学城权限）"></p>
+</td>
+</tr>
+<tr id="b-86a3d2c92ad6459196b31b2d029fe725">
+<td id="b-76159beb2dec4f09a276faf97573a5e3" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-060baa81eb2e4b5791bd99685e1ad364" style="text-align:start"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">2015年11月12日</span></span></p>
+</td>
+<td id="b-20d4cd2ec67a44c19ae027c4a1e8b815" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-62fe92acb6bf4dadbadce22c7ab55007" style="text-align:start"><span style="font-size:15px">黎巴嫩</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">首都</span></span><span style="font-size:15px">贝鲁特</span></p>
+</td>
+<td id="b-7c6ff976437741e0a60aafab95528fdf" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-3271ed79b9184942bef7cf256e2e5925" style="text-align:start"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">指发生于2015年11月12日，在</span></span><span style="font-size:15px">黎巴嫩</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">首都</span></span><span style="font-size:15px">贝鲁特</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">的两宗爆炸案，已知爆炸至少造成37-43人死200-240人伤</span></span></p>
+</td>
+<td id="b-23771d29d47d4363b1a919af4eef2382" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-c525dd4e709d4c8f83135e647e23f340" style="text-align:start"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">成37-43人死200-240人伤</span></span></p>
+</td>
+<td id="b-da1d949bc0344181b13957c8d5b031d8" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-5e7c8970d2304b5ab382f7668ee09798" style="text-align:start"><span style="font-size:15px">无</span></p>
+</td>
+<td id="b-d373a5adc66343f789d6299e3226bb35" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-4aabdb2692944378819a487601455e04" style="text-align:start"></p>
+</td>
+<td id="b-76529fc5e4dd4b90abb843e9ba89b99a" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-551caa39109c479fa9811c9478d78e69" style="text-align:start"><span style="font-size:15px">自杀炸弹攻击</span></p>
+</td>
+<td id="b-2be8897a3cd6427b88a42d4249f8d971" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-185bf127b5954fa3a4088be0b87561bf" style="text-align:start"></p>
+</td>
+</tr>
+<tr id="b-81adf116e3d1463ba887fe7d1cb8351c">
+<td id="b-47ea918114264555912bdc5560c32dca" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-9e35305bbb3a426c80b9486c62a3c2a7" style="text-align:start"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">2015年11月13日</span></span></p>
+</td>
+<td id="b-33f76c4c8ab64f63849ff9c3b6a0d441" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-98df1b9e106a400ba45a96ec04a1d48d" style="text-align:start"><span style="font-size:15px">法国巴黎</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">及其北郊</span></span><span style="font-size:15px">圣但尼</span></p>
+</td>
+<td id="b-134b0047d8b04e838785c3e806c50fab" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-7812e55e7e5043b4a16dcde15fe7fb02" style="text-align:start"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">2015年11月13日与14日凌晨发生于</span></span><span style="font-size:15px">法国巴黎</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">及其北郊</span></span><span style="font-size:15px">圣但尼</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">的连续</span></span><span style="font-size:15px">恐怖袭击</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">事件。袭击事件共造成来自26个国家的127人当场遇难，3人到院后不治身亡，80-99人重伤</span></span><sup><a href="https://zh.wikipedia.org/wiki/2015%E5%B9%B411%E6%9C%88%E5%B7%B4%E9%BB%8E%E8%A2%AD%E5%87%BB%E6%A1%88#cite_note-Telegraph-11995246-7" title="[" id="b-b757e6b3cd8445758baec7cba6cdeba2"><span style="font-size:15px">[</span></a></sup><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">，368人受伤其中</span></span><span style="font-size:15px">巴塔克兰剧院</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">的观众被恐怖分子挟持为人质，造成89人死亡。另外案发当时有7名袭击者拒捕并以炸弹自杀，法国政府随后继续开展追查帮凶的行动</span></span></p>
+</td>
+<td id="b-6cb52bdd85a346cea69bfd1f189f6e12" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-43d860acd41641e4a2c529ceadb8e0ad" style="text-align:start"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">3人到院后不治身亡，80-99人重伤，368人受伤</span></span></p>
+</td>
+<td id="b-094e806d930c4298a66b8b3170f39461" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-f056360219a9454985db8503ee595253" style="text-align:start"><span style="font-size:15px">无</span></p>
+</td>
+<td id="b-0a72936b7e8d474991ba8cd3cd466435" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-c47cf88a66424a4eb0b5d8ecd490711f" style="text-align:start"></p>
+</td>
+<td id="b-8be042d8d30448a2ac87f558a2e0a5bb" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-c8db40cc0fc44c20b86724054f4be74c" style="text-align:start"><span style="font-size:15px">AK-47突击步枪、手榴弹、自杀式背心</span></p>
+</td>
+<td id="b-88f8b75bbca54b7d95514d499bd605e4" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-b0af131dae3d4220b5eb6db486c67c39" style="text-align:start"><img src="https://km.sankuai.com/api/file/cdn/1625309615/234767723819?&amp;isNewContent=false&amp;contentType=1" width="81" height="160" id="b-cedff128bf0749be87124938827256f6" alt="原文图片（需学城权限）"></p>
+</td>
+</tr>
+<tr id="b-0a63ce33434744f18c8fce094632fbe8">
+<td id="b-f38a5f3ac33641449282afd2292b2f58" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-18ad34d035594b4a92b7af9ff0c21bce" style="text-align:start"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">2015年11月18日</span></span></p>
+</td>
+<td id="b-457fabc41762484187202b6e85ec4b6d" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-0e408936872944f8bcd2b58f7a791071" style="text-align:start"><span style="font-size:15px">波斯尼亚</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">首都</span></span><span style="font-size:15px">萨拉热窝</span></p>
+</td>
+<td id="b-19c4468acc074fa681839c18ee397835">
+<p id="b-e836a3dd2369478a97be45f342498a62"><span style="font-size:15px">​</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">指2015年11月一宗发生在</span></span><span style="font-size:15px">波斯尼亚</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">首都</span></span><span style="font-size:15px">萨拉热窝</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">、造成多人死伤的</span></span><span style="font-size:15px">恐怖主义枪击</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">事件，由信奉</span></span><span style="font-size:15px">赛莱菲</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">运动的</span></span><span style="font-size:15px">伊斯兰极端主义</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">份子所为。</span></span></p>
+</td>
+<td id="b-a0e905d31caa4e8e8a97313bf1067a30">
+<p id="b-817c58d974f64eba8f2a6cb17a6981ae" style="text-align:start"><span style="font-size:15px">无</span></p>
+</td>
+<td id="b-e10c477bc2704b3096729c6566ed961f">
+<p id="b-10ac4ddc77b74de39f1a1ad7d85d019e" style="text-align:start"><span style="font-size:15px">无</span></p>
+</td>
+<td id="b-99cc518318264614b0901ece7b8fad9f" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-83e225d143bc401f969cf60974b20d2d" style="text-align:start"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">埃内斯·奥梅拉吉克在萨拉热窝一座</span></span><span style="font-size:15px">军营</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">附近的</span></span><span style="font-size:15px">彩票销售店</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">以自动火器开枪</span></span></p>
+</td>
+<td id="b-bf62e87fed1e4d0481cdc4d01fc426fa" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-a7bddb572aa44cc5b4da0f5c61656544" style="text-align:start"></p>
+</td>
+<td id="b-de7b9949396e4d7c8dc652e604cebac7" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-fdeb6f5c819f43e2886da29c903cdc29" style="text-align:start"><img src="https://km.sankuai.com/api/file/cdn/1625309615/234765707998?&amp;isNewContent=false&amp;contentType=1" width="934" height="446" id="b-93b8d1f193df430d963e9fc30fdf7534" alt="原文图片（需学城权限）"></p>
+</td>
+</tr>
+<tr id="b-18dd5e646115465ab72b3073941d5717">
+<td id="b-e6186af841cc46afb4795992ee5bc710" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-63b0091d91ec4aef935f6e1c8e2583e4" style="text-align:start"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">2015年11月20日</span></span></p>
+</td>
+<td id="b-9cbc95bd81314430ad714449abecb353" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-ac5ee97cd5684ec58223d8484fd9fb2f" style="text-align:start"><span style="font-size:15px">里巴马科丽笙酒店</span></p>
+</td>
+<td id="b-2e1de74290784beaa3916fd13a044e71" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-f03649ecbc2e47ce94263338709af1e0" style="text-align:start"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">2015年11月20日在</span></span><span style="font-size:15px">马里</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">首都及其最大城市</span></span><span style="font-size:15px">巴马科丽笙酒店</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">发生的袭击事件。在</span></span><span style="font-size:15px">特种部队</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">突击进入酒店并释放幸存的人质前，事件共导致19人死亡，大部分是外籍人士。隶属于</span></span><span style="font-size:15px">基地组织</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">的非洲极端团体</span></span><span style="font-size:15px">西非圣战统一运动</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">在其Twitter上宣称，此次袭击是他们所为，但尚未被证实</span></span></p>
+</td>
+<td id="b-62e4f37950d84c018519d2fd2a784ddb" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-0dd4cb0bdcc04cb0b91dd038b1cfe989" style="text-align:start"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">19人死亡</span></span></p>
+</td>
+<td id="b-285477a54f984a17a384c6666ad51c06" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-391519124cde4463b15677bb7af40b95" style="text-align:start"><span style="font-size:15px">无</span></p>
+</td>
+<td id="b-61675b1d96ef40149efa7806b69bdd04" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-d2f4be12fc054c659446fd5f8ef5cfe9" style="text-align:start"><span style="font-size:15px">基地组织</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">的非洲极端团体</span></span><span style="font-size:15px">西非圣战统一运动</span></p>
+<p id="b-4eed821cdd8a4b31b887330067291418" style="text-align:start"><span style="font-size:15px">使用步枪、手榴弹</span></p>
+</td>
+<td id="b-066fed57a6e34d3f9075e7b65bf3433f" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-fe7dac02a9d04f849a56d389889ee2d4" style="text-align:start"></p>
+</td>
+<td id="b-b96c8ee0f14a44aaa3a14d4680175250" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-4203324f6a3b4778abfcbd0f756a2fda" style="text-align:start"><img src="https://km.sankuai.com/api/file/cdn/1625309615/234767923974?&amp;isNewContent=false&amp;contentType=1" width="300" height="287" id="b-b03a2ec6dcb941e29cd713e503cdb992" alt="原文图片（需学城权限）"></p>
+</td>
+</tr>
+<tr id="b-91fe3b8778454b54aff64a46199d6cda">
+<td id="b-1e49c53813624f578151856c71bb7334" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-3e6384103aa648e3a76574568d8d23da" style="text-align:start"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">2015年12月2日</span></span></p>
+</td>
+<td id="b-2bb6ca43bbd74955be4701cebfd43213" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-11d81089b059493b954ee25c700d2492" style="text-align:start"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">美国</span></span><span style="font-size:15px">加利福尼亚州内陆帝国</span></p>
+</td>
+<td id="b-f1fbba63e90843d996452275d5d0ac31" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-576ce979e42b4a998a4c0037ab921e9d" style="text-align:start"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">2015年12月2日，美国</span></span><span style="font-size:15px">加利福尼亚州内陆帝国</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">（俗称</span></span><span style="font-size:15px">爱伊</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">）</span></span><span style="font-size:15px">圣贝纳迪诺</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">的内陆区域中心（Inland Regional Center）发生了一起枪击案，造成14人死亡、21人受伤。数小时后在案发地点附近两名枪手与警方驳火，枪战中该两人被击毙，两名警员受伤</span></span></p>
+</td>
+<td id="b-e8be56f43dbb4c32bf540286c4acbed9" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-efb47660be774694ab7309433241ece4" style="text-align:start"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">造成14人死亡、21人受伤</span></span></p>
+</td>
+<td id="b-9a9eb9a7776a49268a6c4006dcaf754d" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-102a085308db41b2a1acaf7d15c49d5c" style="text-align:start"><span style="font-size:15px">无</span></p>
+</td>
+<td id="b-eb0aa93be9ef4c3bb8dd0cd6b6a87641" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-2ea7e6215be7482888313ec8df8299d5" style="text-align:start"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">赛义德·法鲁克（Syed Farook）和塔什芬·马利克（Tashfeen Malik）</span></span></p>
+</td>
+<td id="b-90a1de13f77c4ca8bcc7746a82040d69" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-49cf30e4f4104191b634d61cb049e9be" style="text-align:start"></p>
+</td>
+<td id="b-06cf461da35149359981bb638f94b877" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-308c22dffa964977af4bc5e84632b3ee" style="text-align:start"><img src="https://km.sankuai.com/api/file/cdn/1625309615/234768558298?&amp;isNewContent=false&amp;contentType=1" width="116" height="107" id="b-878c3fe3ccce4af2a75700c22aa3c071" alt="原文图片（需学城权限）"></p>
+</td>
+</tr>
+<tr id="b-9bbc39c87fb34948b24121dabddfa8c4">
+<td id="b-8820a2913e934fdb99fbbb83abc12043" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-4c6895841548450c929c1c76bb330d80" style="text-align:start"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">2016年1月11日</span></span></p>
+</td>
+<td id="b-d8895418b89f439c95d767bdba21f2e3" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-b23635c3d87c41018289f5b37d17ad90" style="text-align:start"><span style="font-size:15px">伊拉克巴格达</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">、</span></span><span style="font-size:15px">米格达迪耶</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">及</span></span><span style="font-size:15px">奈赫赖万</span></p>
+</td>
+<td id="b-e74d8cba37144cd7a40763835137575a" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-63322e30b321408aa78f95ec64a252f3" style="text-align:start"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">是指2016年1月11日发生在</span></span><span style="font-size:15px">伊拉克巴格达</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">、</span></span><span style="font-size:15px">米格达迪耶</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">及</span></span><span style="font-size:15px">奈赫赖万</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">的一连串</span></span><span style="font-size:15px">恐怖主义</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">袭击事件，由恐怖组织</span></span><span style="font-size:15px">伊斯兰国</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">发动，袭击形式包括</span></span><span style="font-size:15px">枪杀</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">路人、挟持</span></span><span style="font-size:15px">人质</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">、</span></span><span style="font-size:15px">自杀攻击</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">及</span></span><span style="font-size:15px">炸弹</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">袭击。</span></span></p>
+</td>
+<td id="b-37e70b8bac274e2fa4fe667e2a09ac12" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-66489641e2694b95a0aff892de2d2c6b" style="text-align:start"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">共造成30人死亡、40人受伤</span></span></p>
+</td>
+<td id="b-674db8dc1b574eb2a78d0a57dabd511f" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-1f9297dd208e4a3eb1b6d16a7c298067" style="text-align:start"><span style="font-size:15px">无</span></p>
+</td>
+<td id="b-de9dfdc4ae544ac3b145f2455828eac1" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-7893fccea0354afba9b9843f64605a7d" style="text-align:start"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">恐怖组织伊斯兰国为部分袭击承认责任，使用</span></span><span style="font-size:15px">汽车炸弹</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">爆炸，枪杀</span></span></p>
+</td>
+<td id="b-0ec43477567940b79a333edc8c3c5155" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-cc56d3d43b50469295140ca7606f5376" style="text-align:start"></p>
+</td>
+<td id="b-0a59ec0b564d4a9a992956503dbc99c6" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-b7ebb0b4278a40c0bf47febdf1594419" style="text-align:start"><img src="https://km.sankuai.com/api/file/cdn/1625309615/234769024844?&amp;isNewContent=false&amp;contentType=1" width="198" height="109" id="b-6d03e1ed31354457a0fca765b26dd207" alt="原文图片（需学城权限）"></p>
+</td>
+</tr>
+<tr id="b-970d61a593dd4382af49abf4e26b28b0">
+<td id="b-1330617565474def9f823dbb068f14f2" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-3028811c77844df084e7129c3cf08e75" style="text-align:start"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">2016年1月12日</span></span></p>
+</td>
+<td id="b-340284b4da5143d8918d25e093334ab1" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-811e1499b9a7440bae8fe0af34f13b4f" style="text-align:start"><span style="font-size:15px">苏丹艾哈迈德</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">地区</span></span></p>
+</td>
+<td id="b-a61ae6b476dd4e46a42dd87ef63bf682" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-a9ce7dde36234d14afc8e3534b0dd97d" style="text-align:start"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">土耳其伊斯坦布尔著名的</span></span><span style="font-size:15px">苏丹艾哈迈德</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">地区发生一起自杀式袭击，造成13人死亡，死者全部是外国人，另有14人受伤。袭击发生在当地时间10:20，靠近受游客欢迎的观光地</span></span><span style="font-size:15px">苏丹艾哈迈德清真寺</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">。袭击者名叫纳比尔·法迪（阿拉伯语：نبيل فضلي‎），一名来自</span></span><span style="font-size:15px">叙利亚</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">的</span></span><span style="font-size:15px">伊斯兰国</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">成员</span></span></p>
+</td>
+<td id="b-0cf951a4aec14aefa7962c1a0ceddbbe" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-ad92ce7396364e81bd2a2f61d00dcf31" style="text-align:start"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">造成13人死亡</span></span></p>
+<p id="b-2ebce1791d814600826adee910cae1ea" style="text-align:start"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">另有14人受伤</span></span></p>
+</td>
+<td id="b-902ebbed40434df7a55c13a03a9ebd7d" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-c0e5821953a84d129cb90f92582b3ed4" style="text-align:start"><span style="font-size:15px">无</span></p>
+</td>
+<td id="b-1645019b5f9e494b948406a497a4753d" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-a4f62f4e939f44dbb2057ca26f44e14d" style="text-align:start"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">袭击者名叫纳比尔·法迪（阿拉伯语：نبيل فضلي‎），一名来自</span></span><span style="font-size:15px">叙利亚</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">的</span></span><span style="font-size:15px">伊斯兰国</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">成员</span></span></p>
+</td>
+<td id="b-c427c9e3660b4054881351bb7a747504" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-5a95459ddd1b4f5faf1c1fc66124ae71" style="text-align:start"></p>
+</td>
+<td id="b-888e145954d246b4a6242f77e80bf2b1" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-544e2060e5f64354817280fa7a872303" style="text-align:start"><img src="https://km.sankuai.com/api/file/cdn/1625309615/234768401591?&amp;isNewContent=false&amp;contentType=1" width="198" height="145" id="b-424c7dd1f9e5450d85ef847bd00d19a0" alt="原文图片（需学城权限）"></p>
+</td>
+</tr>
+<tr id="b-6c441f8f08b140879e7d1a8a932b87ac">
+<td id="b-949868baac8640feb59c63aed4944507" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-85a90d91f7e143318e32671a09c890b1" style="text-align:start"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">2016年1月20日</span></span></p>
+</td>
+<td id="b-4fef6157a4964584bef750061a560032" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-d9f2e7d9ad9f4c37a202ee36dae6b302" style="text-align:start"><span style="font-size:15px">巴基斯坦查尔萨达帕夏汗大学</span></p>
+</td>
+<td id="b-6e787db7098940078b324c6f08e6d3b4" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-54f91b36290b44a28b75c7075da3da30" style="text-align:start"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">2016年1月20日发生在</span></span><span style="font-size:15px">巴基斯坦查尔萨达帕夏汗大学</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">发生的袭击事件。事件共造成至少22人死亡、超过20人受伤。</span></span><span style="font-size:15px">巴基斯坦塔利班运动</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">称对此袭击负责，但后来其发言人否认负责此次袭击，并予以谴责</span></span></p>
+</td>
+<td id="b-d2efe15b83384829a1193d2b2a395d15" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-31c403508b824bafa9ce0bb4194fbda4" style="text-align:start"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">至少22人死亡、超过20人受伤</span></span></p>
+</td>
+<td id="b-07606f2f0eef429c97a8d6cb68be97a7" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-ef5eb96850384e9db0e891c1a7eeddd4" style="text-align:start"><span style="font-size:15px">无</span></p>
+</td>
+<td id="b-2ccdc5ac70b94805a50bc07c879a23d7" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-e920bc73368940e0a8cd09c344d65b03" style="text-align:start"><span style="font-size:15px">基斯坦塔利班运动</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">称对此袭击负责</span></span></p>
+</td>
+<td id="b-715157b8eac6401facbe4a638efdfd84" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-8839c4b0c6d24f558d81fd388e2b7e3e" style="text-align:start"></p>
+</td>
+<td id="b-2f9ec6c00af04b89b501d640924c7a31" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-3b5d07d5be854013b9187becf872703c" style="text-align:start"><img src="https://km.sankuai.com/api/file/cdn/1625309615/234768240981?&amp;isNewContent=false&amp;contentType=1" width="94" height="91" id="b-4a8489fe66314cd3a0d4deca4f7602c0" alt="原文图片（需学城权限）"></p>
+</td>
+</tr>
+<tr id="b-c5dd8fe3b6fe472a907bcdb572777769">
+<td id="b-d12d31e3e5ba4cb680fd45f6f73af0e3" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-0ceb0eafa8b1469c8277bf400a186d88" style="text-align:start"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">2016年2月17日</span></span></p>
+</td>
+<td id="b-4fafd2e4323f4c48bfd6dd34164c4dca" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-36c885f725a74949b14d4d9079aa8c44" style="text-align:start"><span style="font-size:15px">土耳其</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">首都</span></span><span style="font-size:15px">安卡拉</span></p>
+</td>
+<td id="b-5935eaddf7b643efae3a3444ad81dfd3" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-9626c54f4163492d98fcab0aca20333c" style="text-align:start"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">发生于2016年2月17日，在</span></span><span style="font-size:15px">土耳其</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">首都</span></span><span style="font-size:15px">安卡拉</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">的爆炸案，已知爆炸至少造成28人死（其中包括22名土耳其空军飞行员）61人伤，。土耳其军方称，受攻击的目标是由</span></span><span style="font-size:15px">军车</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">所组成的车队。当地媒体引用政府官员的说法称，军方车队中当时有一辆载有军官的</span></span><span style="font-size:15px">巴士</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">。该巴士正行经</span></span><span style="font-size:15px">克孜拉伊广场</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">附近停等</span></span><span style="font-size:15px">红绿灯</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">，汽车炸弹即被引爆。由于当时为傍晚交通高峰时段，爆炸也波及附近数辆汽车随之起火燃烧。有分析认为这起袭击是俄罗斯对此前</span></span><span style="font-size:15px">土耳其击落俄军机</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">的报复</span></span></p>
+</td>
+<td id="b-479851f30edc44ed8858de329a48cc3b" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-04fa8b37d5604b38979ba0eb86596cf3" style="text-align:start"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">成28人死（其中包括22名土耳其空军飞行员）61人伤</span></span></p>
+</td>
+<td id="b-80da53d122094460833e1b663380508f" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-263cc2eac0cb476db1d88e6fd4b7b2a1" style="text-align:start"><span style="font-size:15px">无</span></p>
+</td>
+<td id="b-a01691350fdf40beabfd9a84bf0ade99" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-e4032066c93c4a80899e055357d3df46" style="text-align:start"><span style="font-size:15px">有可能是俄罗斯  库尔德斯坦工人党 伊斯兰国 </span></p>
+</td>
+<td id="b-b279def1f9b24c0cb81333ae904efb7f" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-2661e759e333449cb7d209841fb9c6f0" style="text-align:start"></p>
+</td>
+<td id="b-73aea6e817584807855439e4fdf26560" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-16acc94425e94c03ad839d4f09cb7726" style="text-align:start"><img src="https://km.sankuai.com/api/file/cdn/1625309615/234766983956?&amp;isNewContent=false&amp;contentType=1" width="198" height="120" id="b-6f1b6357528d4e2f87d7f2714e030a31" alt="原文图片（需学城权限）"></p>
+</td>
+</tr>
+<tr id="b-a235de43ccaa44348a9b6c7b0995cbf7">
+<td id="b-f64f3814b8184b91a11ab2e57f9aef72" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-2cb63c89d23f4a90ba56c98f6e7ee356" style="text-align:start"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">2016年2月21日</span></span></p>
+</td>
+<td id="b-5cc4bf23e46d4bfab87de3277bb329b5" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-266996e2f011401799692c6499ef0f5f" style="text-align:start"><span style="font-size:15px">利亚大马士革赛达宰纳卜</span></p>
+</td>
+<td id="b-50997e682e4b4913849393870ecb244a" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-d0370cba0b97483daa0dfb43b17cf19d" style="text-align:start"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">是指2016年2月发生在</span></span><span style="font-size:15px">叙利亚大马士革赛达宰纳卜</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">的连环</span></span><span style="font-size:15px">恐怖主义</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">袭击事件，共造成83人死亡、59人受伤，由恐怖组织</span></span><span style="font-size:15px">伊斯兰国</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">发动。</span></span></p>
+</td>
+<td id="b-37836eb1a59648dcb3c3dd59f8f578c8" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-37de8c4494514b03bd44015597049063" style="text-align:start"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">共造成83人死亡、59人受伤</span></span></p>
+</td>
+<td id="b-e95ea27dc4624af798e7e133d3a2bd60" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-f601308ae08649e294a0988ed368bd24" style="text-align:start"><span style="font-size:15px">无</span></p>
+</td>
+<td id="b-55d9471e858e45b4b57b5dc7e23fe6ae" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-cffb687564c64cb7a43294cfef43e6bc" style="text-align:start"><span style="font-size:15px">伊斯兰国</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">发动</span></span></p>
+</td>
+<td id="b-f5fea0233e884f7cb29c2100f11c5f82" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-f0884cd401724cf29645c92d2a06f7d6" style="text-align:start"></p>
+</td>
+<td id="b-84463f55d921430296b7e97a566cbcfb" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-29aa2e39e95f4a828bfabfae53e4ee6b" style="text-align:start"><img src="https://km.sankuai.com/api/file/cdn/1625309615/234766185688?&amp;isNewContent=false&amp;contentType=1" width="198" height="108" id="b-4de745c2da0546f7afa83e0aa4430ac5" alt="原文图片（需学城权限）"></p>
+</td>
+</tr>
+<tr id="b-bdf22c53da644bd9863e89f8b0496ed8">
+<td id="b-09ef4f94ded44047a1ed9a2ec70786e9" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-972c0ac8f8a747308e20c8c48dc9ecb2" style="text-align:start"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">2016年3月22日</span></span></p>
+</td>
+<td id="b-8b8bb4bea33046ddb6e1e2ecf7796a34" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-b24696671ab54eb3803d6666824b0ed1" style="text-align:start"><span style="font-size:15px">比利时</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">首都</span></span><span style="font-size:15px">布鲁塞尔</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">及周边地区</span></span></p>
+</td>
+<td id="b-8f48f8a6bd554424a5a169d5ae6ade3f" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-72cc8f86e9fc4d5981bc20014cb36995" style="text-align:start"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">2016年3月22日在</span></span><span style="font-size:15px">比利时</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">首都</span></span><span style="font-size:15px">布鲁塞尔</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">及周边地区发生的连环爆炸</span></span><span style="font-size:15px">恐怖袭击</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">事件，</span></span><span style="font-size:15px">伊斯兰国</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">在事发后宣布对此事负责。</span></span></p>
+</td>
+<td id="b-3609b227d5cf4e8fb7ec146da4741d21" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-6bcc45f32d6c4ac787299d4c139638d3" style="text-align:start"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">共造成32名受害者死亡，此外3名自杀炸弹客亦在爆炸中死亡，至少340人受伤</span></span></p>
+</td>
+<td id="b-be6540dfd0024ef687c841529c12ac53" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-387747e2fea643be80ff2ddb1abab98f" style="text-align:start"><span style="font-size:15px">无</span></p>
+</td>
+<td id="b-624b2bf3b1d347ac8443ed6a3ed64fb8" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-e09ba56fb410448197c128cd4ec9001f" style="text-align:start"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">这次连环爆炸案是比利时历史上最严重的恐怖袭击。政府随后宣布哀悼三天。警方公布的嫌疑人画面，左一为拉奇拉乌伊，左二为易卜拉欣·埃尔－巴克拉伊，此二人在自杀袭击中身亡；另一位嫌疑人穆罕默德·阿布里尼承认自己是画面右侧戴帽子的男子</span></span></p>
+</td>
+<td id="b-855137099d62451cbe84e951e107c84e" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-54c54dd1ed70404a8be921d606cc6ab8" style="text-align:start"></p>
+</td>
+<td id="b-81050b06b7694c6aa91750d24e6a9d02" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-d27b956b31fe416aad6cefd6f8a1b6e6" style="text-align:start"><img src="https://km.sankuai.com/api/file/cdn/1625309615/234767723817?&amp;isNewContent=false&amp;contentType=1" width="198" height="131" id="b-95dd31cb88ec4979978b719d75555faf" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1625309615/234768638202?&amp;isNewContent=false&amp;contentType=1" width="198" height="105" id="b-8572306bc6ed4613ace27422b4d61d2d" alt="原文图片（需学城权限）"></p>
+</td>
+</tr>
+<tr id="b-ae3720a106ee494a9ca0f99c4eed29ad">
+<td id="b-fd7e08cca95e48959160c20d58440e35" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-7b81c9a4c8db40ef966c865d9e6a574e" style="text-align:start"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">2016年3月25日</span></span></p>
+</td>
+<td id="b-206fbf8a5649411a86950df104ae82c5" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-add4a0ba16044fb6a2e3c7908066d52b" style="text-align:start"><span style="font-size:15px">伊拉克巴比伦省伊斯坎德里耶</span></p>
+</td>
+<td id="b-b1538cc6db9548b8a49a5fd5c3174ffb" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-09e269e79e484ddabe6e7d271b30a998" style="text-align:start"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">2016年3月25日在</span></span><span style="font-size:15px">伊拉克巴比伦省伊斯坎德里耶</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">发生的炸弹袭击事件，事件已造成41人死亡，105人受伤。极端组织</span></span><span style="font-size:15px">伊斯兰国</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">宣称策划并实施了这次袭击，这也是该组织继</span></span><span style="font-size:15px">布鲁塞尔连环爆炸案</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">之后，三天内发动的第二起袭击事件。</span></span></p>
+</td>
+<td id="b-47e7db442a5743c890ecc24f303d8eea" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-3a74a778ffce4d45836c244089088b01" style="text-align:start"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">事件已造成41人死亡，105人受伤</span></span></p>
+</td>
+<td id="b-235dce8121a84a62b89d649c2e42141e" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-123dbc2c8394425597aae34e7fda04fd" style="text-align:start"><span style="font-size:15px">无</span></p>
+</td>
+<td id="b-5f7cb93318a54ea789cd1882e81f6d4d" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-03d76cc2853d40f797dbf22723744844" style="text-align:start"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">极端组织</span></span><span style="font-size:15px">伊斯兰国</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">宣称策划并实施了这次袭击</span></span></p>
+</td>
+<td id="b-3c30fcb2eed0488a95f79aedb9d4c049" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-53749afc421349babc2e02f4961740cb" style="text-align:start"></p>
+</td>
+<td id="b-f033ec711ae845689d4383456f7b733a" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-0ffa41d2a39e42d38b80ec8f4bd30d69" style="text-align:start"><img src="https://km.sankuai.com/api/file/cdn/1625309615/234768914706?&amp;isNewContent=false&amp;contentType=1" width="107" height="136" id="b-ed568ed8eefd46deb12a22f140c71138" alt="原文图片（需学城权限）"></p>
+</td>
+</tr>
+<tr id="b-a82886d8bf6d4de28b7d7a96e8c669f1">
+<td id="b-4047559e6a774ee6a1fd0cb1af08da85" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-71633e7b61e641f2b329d6595b89a41c" style="text-align:start"><span style="color: "><span style="font-size:15px">2017年1月1日</span></span></p>
+</td>
+<td id="b-b9c34a99f77f4193b72c520b47b2fec7" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-31273e66abcd4ac8b60d138fa899c3f8" style="text-align:start"><span style="color: "><span style="font-size:15px">土耳其伊斯坦布尔市</span></span></p>
+</td>
+<td id="b-c1d0c8c70bac4ea799902b217bb23242" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-064afed53f2c4eb5a7372dfe00feeb39" style="text-align:start"><span style="font-size:15px">1·1伊斯坦布尔恐怖袭击事件是指当地时间2017年1月1日凌晨1时30分左右，土耳其伊斯坦布尔市一家夜总会遭遇恐怖袭击，2名身着圣诞老人服装的枪手进入夜总会，向人群射击，造成39人死亡，69人受伤。</span></p>
+</td>
+<td id="b-8ae2b1dbb46b4eccbc7d60bd69fdcf14" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-ba3fc6a78e33495a882b92ceb42814a0" style="text-align:start"><span style="color: "><span style="font-size:15px">39人死亡，69人受伤</span></span></p>
+</td>
+<td id="b-4d90a0e7f0034590a6f5eb94ea4dc9be" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-a37a65a492194b4983e4d93ea7c3a174" style="text-align:start"><span style="font-size:15px">否</span></p>
+</td>
+<td id="b-5d7681feb3084e49aef7279956aceadd" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-3b46453b0c85431c819cb0074f2228ea" style="text-align:start"><span style="font-size:15px">独狼行动</span><br><span style="color: "><span style="font-size:15px">阿卜杜勒·卡迪尔·马沙里波夫”（Abdulkadir Masharipov）</span></span></p>
+</td>
+<td id="b-55258f51d1bd409985089a78d1b8bd63" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-b17f034f22b24c5899c70555c1451a06" style="text-align:start"><span style="font-size:15px">当地时间2017年1月1日，土耳其伊斯坦布尔，一家夜总会凌晨发生枪击事件。袭击者手持AK47冲进夜总会扫射。 [3] </span></p>
+<p id="b-abb02a1cea72469e83ad56a003933469" style="text-align:start"><span style="font-size:15px">事发时，两名枪手身着圣诞老人服装进入夜总会。事发时有五六百人在这家夜总会里参加迎接新年活动。袭击者手持AK47冲进夜总会扫射，现场安全人士透露，枪手开枪打死安保人员，闯入夜总会并在扫射过程中数次更换弹匣。夜总会位于海峡边，当地媒体报道一些顾客试图为逃离现场而跳入海中.</span></p>
+</td>
+<td id="b-61af9551a72146c3898a77be6562aa59" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-636afbca9c1c4025a4b93e5c17afbda0" style="text-align:start"><img src="https://km.sankuai.com/api/file/cdn/1625309615/234767723816?&amp;isNewContent=false&amp;contentType=1" width="218" height="123" id="b-7442a22a705a42bfb5e26f4e5d1e28dc" alt="原文图片（需学城权限）"></p>
+</td>
+</tr>
+<tr id="b-cea70e51f825415ca5a3c20fe9a8afb3">
+<td id="b-78bd3f70bce94fa5a329a8312da9a399" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-1f1378cccd1a452da7284130d67773af" style="text-align:start"><span style="color: "><span style="font-size:15px">2017年1月9日</span></span></p>
+</td>
+<td id="b-1c8936b59aab4f6fb03cac1479effba7" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-3aa0c75ce99b4d0db417a19c9db36fb5" style="text-align:start"><span style="color: "><span style="font-size:15px">巴基斯坦西南部俾路支省首府奎达</span></span></p>
+</td>
+<td id="b-e64ec9e1736041e3a132b8ade4880eef" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-210d95a4fe274fee86f09fe5092bab0d" style="text-align:start"><span style="font-size:15px">2017年1月9日，巴基斯坦西南部俾路支省首府奎达发生一起针对警察的炸弹袭击事件，造成包括袭击者在内的至少7人死亡，另有28人受伤</span></p>
+</td>
+<td id="b-35ad7cc9de3e47bab3842576b9a50e98" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-ce3a13cf605e41a387aa546eef59ce49" style="text-align:start"><br><span style="color: "><span style="font-size:15px">7人死亡（含袭击者），28人受伤</span></span></p>
+</td>
+<td id="b-3bb9b473cfb1444aae1fc2bc98d58746" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-4acff8d60b074db388984140001c930f" style="text-align:start"><span style="font-size:15px">否</span></p>
+</td>
+<td id="b-fa58e3aac0e743d0b1bbc7091e20f7e6" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-5664db1864f14a10b25a7b9b3eb2ba5c" style="text-align:start"><span style="font-size:15px">巴基斯坦塔利班</span></p>
+</td>
+<td id="b-30fb0d32adda4d429c5e8bdd4ceb88a0" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-aa9904b0ad004871858bbb2230aa304e" style="text-align:start"><span style="color: "><span style="font-size:15px">2017年1月9日晚，一名袭击者驾驶摩托车冲撞正在议会附近执勤的警车，随后发生爆炸。议会内当时正在召开会议。据分析，袭击者可能原本企图进入议会发动袭击，但由于附近部署的警力较多，袭击者改变了袭击目标。</span></span></p>
+</td>
+<td id="b-b360ef0e5e814fae98b65b9c74e639c4" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-b54ce99e86e648f3a4f407ed237e5f18" style="text-align:start"></p>
+</td>
+</tr>
+<tr id="b-85ef758f271f4369abf51e7485d96108">
+<td id="b-209b6881002a4038bbd25a3b31e2f7fc" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-f1eaaecbc0b34bcca862e9ae88d2f701" style="text-align:start"><br><span style="color: "><span style="font-size:15px">2017年6月4日</span></span></p>
+</td>
+<td id="b-9049d2cf92e346cb8dfcffc99085708f" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-574816a2cc964e3f9751d31d0a2943f4" style="text-align:start"><br><span style="color: "><span style="font-size:15px">伦敦桥附近</span></span></p>
+</td>
+<td id="b-57e96b9b3d014b529c6cb9978e1b54b9" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-b9b326ad9c1e43c680553acfedb9e453" style="text-align:start"><span style="color: "><span style="font-size:15px">6·4伦敦恐怖袭击事件是2017年6月4日在伦敦桥附近发生的事件。</span></span></p>
+</td>
+<td id="b-a6c150e384024a13ac3159f9bdec7288" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-388a3727441b4d51b90a93e1f99aac69" style="text-align:start"><span style="font-size:15px">未知</span></p>
+</td>
+<td id="b-39c121fe17764e9ab534b458d5760ef1" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-05dbc70d0b6d4d0dbb12ec44baf7d891" style="text-align:start"><span style="font-size:15px">否</span></p>
+</td>
+<td id="b-9477826f4e6f491ba7026595e1e53ad0" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-38618bce1c324af0a89465e757eb777a" style="text-align:start"><span style="font-size:15px">伊斯兰国</span></p>
+</td>
+<td id="b-37ac0d49838143269d1b3f2a2070b2ea" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-80a0fd7cd475430c9b55f926f836606f" style="text-align:start"><span style="color: "><span style="font-size:15px">2017年6月4日，伦敦桥附近再次传出巨大爆炸声，爆炸强度是半小时前传出的三起爆炸声的四五倍。伦敦警方已经证实，近45分钟内发生的一系列爆炸为“受控爆破”。</span></span></p>
+</td>
+<td id="b-be38024f47b342b1b4b2058b4abf361a" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-f3620e073c97428585fe7ac56ff7e694" style="text-align:start"><img src="https://km.sankuai.com/api/file/cdn/1625309615/234768678460?&amp;isNewContent=false&amp;contentType=1" width="218" height="146" id="b-c2767e9e67e048e9a86f85cd9dfe347b" alt="原文图片（需学城权限）"></p>
+</td>
+</tr>
+<tr id="b-8ccd9afc40f44843a0fb6837b3e964bd">
+<td id="b-5ea9c206cdcc41d39c6387c48b244ed5" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-b12cc6d9e3bc4533a631b360f8ddacf6" style="text-align:start"><br><span style="color: "><span style="font-size:15px">2018年1月4日</span></span></p>
+</td>
+<td id="b-f4a13177462b480d9c7b0af5ffd20fc6" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-2aac669e40fa44de8097a7a298a653b4" style="text-align:start"><span style="color: "><span style="font-size:15px">阿富汗喀布尔</span></span></p>
+</td>
+<td id="b-7a85f415aa0c4b2abfec74951d712ff1" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-f8aca4abfaf5444dbe431cb8ff5c949f" style="text-align:start"><span style="color: "><span style="font-size:15px">2018年1月4日，阿富汗首都喀布尔发生自杀式爆炸袭击，造成至少11人死亡、25人受伤。还没有组织或个人宣称对这起袭击事件负责。</span></span></p>
+</td>
+<td id="b-0bd5b5c4516d450c9673e91d239012da" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-68bb39ff88304689a5ac2b402a764b74" style="text-align:start"><br><span style="color: "><span style="font-size:15px">11人死亡、25人受伤</span></span></p>
+</td>
+<td id="b-ad52f962741344e6a2782aeef0e04f58" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-5a9395750255487e8e29860b8ce30834" style="text-align:start"><span style="font-size:15px">否</span></p>
+</td>
+<td id="b-83eb5ffab7ed473fa7e670ae742db617" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-f4513cff01914a8da534808b4ea727b1" style="text-align:start"><span style="color: "><span style="font-size:15px">未知</span></span></p>
+</td>
+<td id="b-5c9d3389eef442eeafed41c4b1838d4c" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-29a37239b0a64c81b3b7921441c401c8" style="text-align:start"><span style="color: "><span style="font-size:15px">2018年1月4日，阿富汗首都喀布尔发生自杀式爆炸袭击。爆炸发生在当晚20时45分左右，地点位于喀布尔第九警区。事发当天稍早时，警方查封了一家贩卖大麻及酒精的商店，涉事店家纠集一些人与警方对抗。一名袭击者突然闯入人群并引爆炸弹背心，造成平民和防暴警察死伤。爆炸还造成周边店铺、车辆受损。</span></span></p>
+</td>
+<td id="b-7e1227ed022347769b2cf9f78a78af55" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-b0e1a45fa82b4af692c7b510b86967af" style="text-align:start"><img src="https://km.sankuai.com/api/file/cdn/1625309615/234769101825?&amp;isNewContent=false&amp;contentType=1" width="218" height="159" id="b-700baebb55a34bbf959b7d9c6c5b3a36" alt="原文图片（需学城权限）"></p>
+</td>
+</tr>
+<tr id="b-6122dbf668aa4bcebf18d0c03430a8ac">
+<td id="b-e3b7af09e5194e2792d528d258f8ad90" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-5016442c218b41df9c00f6295ee20d4c" style="text-align:start"><br><span style="color: "><span style="font-size:15px">2018年2月3日</span></span></p>
+</td>
+<td id="b-fa6d8d395c9545d1957cc8baf255a353" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-b4c2c16b76fb4bd1834e6e24aa75bfec" style="text-align:start"><span style="color: "><span style="font-size:15px">巴基斯坦西北部斯瓦特</span></span></p>
+</td>
+<td id="b-d047d26485d64a0eb7114b78f22e332a" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-0fc2f9226c024032ad7e0778ee794144" style="text-align:start"><span style="color: "><span style="font-size:15px">2018年2月3日，巴基斯坦西北部斯瓦特地区一处军营当天遭自杀式炸弹袭击。</span></span></p>
+</td>
+<td id="b-d9aa438eaf9145b59a752deacaaff0ff" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-a5ce5a0c9fa24bc4ad0b19fbd09b52db" style="text-align:start"><span style="color: "><span style="font-size:15px">11人死亡，13人受伤</span></span></p>
+</td>
+<td id="b-5a909947a0c346299b1bc277787c74e5" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-9deeeee124474baab06d4b2bad910ce7" style="text-align:start"><span style="font-size:15px">否</span></p>
+</td>
+<td id="b-2c4cc250ad204524923b070019bf6eb4" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-c1bb3a99ef5645f9951ff2efa1f7791c" style="text-align:start"><span style="font-size:15px">巴基斯坦塔利班</span></p>
+</td>
+<td id="b-fb6b127ef4c84cb7a7f157cd59eb4ba6" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-cd2661c3cfe14835818a1174d2e32b97" style="text-align:start"><span style="color: "><span style="font-size:15px">2018年2月3日，巴基斯坦西北部</span></span><a href="https://baike.baidu.com/item/%E6%96%AF%E7%93%A6%E7%89%B9" title="斯瓦特" id="b-847a96028f094cb8af71582a2cb98e87"><span style="font-size:15px">斯瓦特</span></a><span style="color: "><span style="font-size:15px">地区一处军营当天遭自杀式炸弹袭击，造成11名军人死亡，另有13人受伤。由于部分伤者伤势严重，死亡人数有可能进一步上升。</span></span></p>
+</td>
+<td id="b-5b13c510f16d46f4b5dcce1ce783cc47" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-5d26bab130874942bb41a4e4e0ec96ce" style="text-align:start"><img src="https://km.sankuai.com/api/file/cdn/1625309615/234768914705?&amp;isNewContent=false&amp;contentType=1" width="218" height="146" id="b-097ef85c92314143aab1bbf68a9abe70" alt="原文图片（需学城权限）"></p>
+</td>
+</tr>
+<tr id="b-ef21a83fddac49e58441482ae13d61c3">
+<td id="b-b8225914857240a5930f91fc1cdca5ef" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-308d0f35e694434bbb3b31a1b0ee1a1a" style="text-align:start"><br><span style="color: "><span style="font-size:15px">2018年3月23日上午</span></span></p>
+</td>
+<td id="b-02378a2610d24e3abdef77ff11d330b9" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-48cc416c0f0142049c37e7d07e6121a5" style="text-align:start"><span style="color: "><span style="font-size:15px">法国卡尔卡松市和特雷布镇</span></span></p>
+</td>
+<td id="b-9d63bd251fa94c0cbd678e2d67398ace" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-6a79afb5d4ed4089a5fadfd8f871d7ef" style="text-align:start"><span style="color: "><span style="font-size:15px">2018年3月23日上午，一名持有武器的恐怖分子在法国南部奥德省的卡尔卡松市和特雷布镇制造恐怖袭击，导致3人丧生，16人受伤。两名与袭击者亲近的人当日被逮捕。</span></span><span style="font-size:15px"><sup> </sup></span><span style="color: "><span style="font-size:15px">极端组织“伊斯兰国”宣称制造了这起袭击。</span></span></p>
+</td>
+<td id="b-7e9176ccee4a4dc2bab00b502f532581" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-9f15a734b6724a21afe8324a8a75bd9e" style="text-align:start"><span style="color: "><span style="font-size:15px">4人丧生，16人受伤</span></span></p>
+</td>
+<td id="b-4ddfc530a455475ebb4c70458cd46f2f" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-c8a6cb25e4bf45938d2431c15af1c9ff" style="text-align:start"><span style="font-size:15px">否</span></p>
+</td>
+<td id="b-1595299a39734bbbb4ad39651f47c12b" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-285b71b610a94b00947c2582bf9cc967" style="text-align:start"><span style="font-size:15px">伊斯兰国</span><img src="https://km.sankuai.com/api/file/cdn/1625309615/234769208378?&amp;isNewContent=false&amp;contentType=1" width="143" height="108" id="b-31a98ed1320848e58779b684fa8aed10" alt="原文图片（需学城权限）"></p>
+</td>
+<td id="b-cb6ae1aa52704e51b0e1506bec3eafa1" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-b7c3c6efd4b34c0599e41e21377c9eb4" style="text-align:start"><span style="color: "><span style="font-size:15px">2018年3月23日上午，一名持械男子先在奥德省的卡尔卡松市抢劫一辆汽车，并开枪射杀车内一名乘客、重伤驾车司机，随后驾车驶往卡尔卡松附近的特雷布镇，途中向4名警察射击，打伤一名警察。此后他逃进特雷布一家超市试图劫持人质，并在超市内杀死两人</span></span><span style="font-size:15px"><sup> </sup></span><span style="color: "><span style="font-size:15px">，又劫持数人、躲在超市内。在警方交涉下，袭击者留下一名女性、释放其他人质。44岁的警官阿诺·贝尔特拉姆提出，与那名女性人质互换。互换后，贝尔特拉姆设法保持手机通话状态，让外面的同事听到超市内情况。听到枪声后，警方进入超市，击毙袭击者。贝尔特拉姆受重伤，被送去医院抢救。</span></span></p>
+</td>
+<td id="b-383801910666440191651dc9ff29ad4f" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-d1196a1a0b6e4ab99950f0a932eedee0" style="text-align:start"><img src="https://km.sankuai.com/api/file/cdn/1625309615/234769326421?&amp;isNewContent=false&amp;contentType=1" width="218" height="145" id="b-0e5f8e5cc2da40f2af544798da3549b1" alt="原文图片（需学城权限）"></p>
+</td>
+</tr>
+<tr id="b-614c85eee86c4fb08818a755198fbdd1">
+<td id="b-d081e6dd122b4cc787c6bac341f08b42" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-dcbe5a1ef8974698b85cd75eca0c5616" style="text-align:start"><span style="font-size:15px">2019年8月7日</span></p>
+</td>
+<td id="b-e494b68f90fa41a381856e818e0412df" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-49599da2cde94f37965a964658ce5570" style="text-align:start"><span style="font-size:15px">阿富汗首都喀布尔</span></p>
+</td>
+<td id="b-859a9bdef7e842a0b54f4d972896b178" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-cba9dda93f6845c5b10caa8c2285eaf0" style="text-align:start"><span style="font-size:15px">2019年8月7日上午，在阿富汗首都喀布尔发生一起爆炸事件。</span></p>
+<p id="b-7c7af42c53ab4c23837af3e50a063d49" style="text-align:start"><span style="font-size:15px">截至2019年8月7日，该事件已造成95人受伤。 8月18日，该事件至少63人死亡，182人受伤。</span></p>
+</td>
+<td id="b-7a8dba022cee4d16acb1db7e4912f9de" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-ca214fe887ce420b8d1baab43894f0f2" style="text-align:start"><span style="font-size:15px">该事件已造成95人受伤。 8月18日，该事件至少63人死亡，182人受伤</span></p>
+</td>
+<td id="b-c1b6187e6b4744e39ad8f874fc65731e" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-c95555f09aaa4d0e986d427ae97f5e03" style="text-align:start"><span style="font-size:15px">否</span></p>
+</td>
+<td id="b-f73f7c8633eb405e909655d708975e48" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-cd1cfff815214d3b9ba09da0e1fe7cef" style="text-align:start"><span style="color: "><span style="font-size:15px">端组织“伊斯兰国”（IS）宣布负责</span></span></p>
+<p id="b-8d1f7197755641c5aaaf19b06cda1d4e" style="text-align:start"><span style="color: "><span style="font-size:15px">自杀式炸弹袭击</span></span></p>
+</td>
+<td id="b-ca1a0abd1f2245d4936ded6439c87c65" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-49dffbf316a544fd87564af74d559230" style="text-align:start"></p>
+</td>
+<td id="b-e458cca0f1a946c3b1fdd7df32512d66" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-a7d96c9d318b465eabb41f60f341223d" style="text-align:start"><img src="https://km.sankuai.com/api/file/cdn/1625309615/234766185685?&amp;isNewContent=false&amp;contentType=1" width="88" height="151" id="b-360bbb30ccec41519c4ca1e0a167d02e" alt="原文图片（需学城权限）"></p>
+</td>
+</tr>
+<tr id="b-de8f3ad9678a4f9490a438b7d7f74002">
+<td id="b-39081c656beb43bea133f13f531e0280" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-3051b20605b14e0fa2f56b2bdbe42e18" style="text-align:start"><span style="color: "><span style="font-size:15px">2019年10月3日</span></span></p>
+</td>
+<td id="b-620e04119ab245dd9d6d98aeb3f725c4" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-8d3c2d441975422096c3f1184466a45f" style="text-align:start"><span style="font-size:15px">巴黎警察局总部</span></p>
+</td>
+<td id="b-5f69abaee99f4c97acf70c6abdf54751" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-5dd7a30ca725461f95ab7a59087dbaa4" style="text-align:start"><span style="color: "><span style="font-size:15px">2019年10月3日，巴黎警察局总部发生持刀袭击案，一名持刀男子在警局内袭击多名警员后被击毙。</span></span></p>
+</td>
+<td id="b-24d04d6364b04bbd8e19533d9d76a6c1" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-73963440900d46c784f588f60a3252e8" style="text-align:start"><span style="color: "><span style="font-size:15px">至少4名警局工作人员遭袭死亡，5人受伤。</span></span></p>
+</td>
+<td id="b-3ae417b83ef54f708cd728d44f8a29fc" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-0ba9af33685c48a9bc6cad714651e19d" style="text-align:start"><span style="font-size:15px">否</span></p>
+</td>
+<td id="b-529f8d82ef004294ad03f21c185c6bdd" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-c17bb271974243e1b75317f59c448666" style="text-align:start"><span style="color: "><span style="font-size:15px">袭击者是一名45岁男子，于2003年进入巴黎警察局总部工作</span></span></p>
+</td>
+<td id="b-de1b9e97675d46849125b7a4842ae1b2" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-d2f09c0edd17492e8d8070ce6f4beb92" style="text-align:start"></p>
+</td>
+<td id="b-e0faed133b9642a6b2efbf38d8680873" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-0f8387cd45c543979e5f4a834b6dcef8" style="text-align:start"><img src="https://km.sankuai.com/api/file/cdn/1625309615/234765229210?&amp;isNewContent=false&amp;contentType=1" width="286" height="196" id="b-09f7835774704478afd3f0206e458fa5" alt="原文图片（需学城权限）"></p>
+</td>
+</tr>
+<tr id="b-55a65b0dd2074ec799fbcb7b004435a1">
+<td id="b-92b51f807aad4d5e995f0b1fc0d1937e" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-50687e117b5b4dc398ea459da76c5b42" style="text-align:start"><span style="font-size:15px">2019年11月10日</span></p>
+</td>
+<td id="b-ba2a8022d8244ee1b705ae5329e5943e" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-f840caf89ca74b5c9a281ad4f28ffb5b" style="text-align:start"><span style="font-size:15px">叙利亚北部靠近土耳其的边境地区</span></p>
+</td>
+<td id="b-b42837f9acf2454abb9ac3004e2951d3" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-dae1d944d9da4ddf96cb1d73e2f550c8" style="text-align:start"><span style="font-size:15px">2019年11月10日，叙利亚北部靠近土耳其的边境地区发生一起汽车爆炸袭击事件。</span></p>
+<p id="b-7176684d9cdf404e8a41a4c7ae87e7de" style="text-align:start"><span style="font-size:15px">截至2019年11月10日，该爆炸袭击造成5人死亡、17人受伤</span></p>
+</td>
+<td id="b-9fa8f8dfc82d49b4b471a7b505bd0e8c" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-0fd086f2478844a5b966c48e7ecf3279" style="text-align:start"><span style="font-size:15px">5人死亡、17人受伤</span></p>
+</td>
+<td id="b-857aca80b9fa470b96abcd69a271d974" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-9412418418a6434ea7f26d6e974455a2" style="text-align:start"><span style="font-size:15px">否</span></p>
+</td>
+<td id="b-a1f3f9c2baff4bb9994abdba53ab4169" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-0c2a9e1b84d749a098408893a2929558" style="text-align:start"><span style="color: "><span style="font-size:15px">一辆装有大量炸药的汽车在苏鲁克村的主街上被引爆。</span></span></p>
+</td>
+<td id="b-d5369eea59bb4f68bf67bac424de3c94" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-b99b2ade91a84bdd87c10f1d8af260dc" style="text-align:start"></p>
+</td>
+<td id="b-a4592ac8246e4132aa6658bddf51d5d0" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-15fcb57e7a8e440483c6bcc12434cccf" style="text-align:start"><img src="https://km.sankuai.com/api/file/cdn/1625309615/234768755866?&amp;isNewContent=false&amp;contentType=1" width="292" height="287" id="b-ac84f7d4f5974b6d85dd861123f626f7" alt="原文图片（需学城权限）"></p>
+</td>
+</tr>
+<tr id="b-77cb7107b1b14eaabb142cd1e0eeef3d">
+<td id="b-785b49e6abe74d99b29a532261252fe9" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-9a7cfd6c30294a7983c914297797b28b" style="text-align:start"><span style="font-size:15px">2020年8月8日</span></p>
+</td>
+<td id="b-6928a181d75c4f28b44c0cbd75d7910d" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-136131b1ca17411783c9e9b669f2e844" style="text-align:start"><span style="font-size:15px">索马里首都</span></p>
+</td>
+<td id="b-b0f9d766ed2943b28254fddb9ea4f35c" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-341651fedda04f808fa0baf425e5b2b8" style="text-align:start"><span style="font-size:15px">索马里当地时间2020年8月8日，一名自杀式炸弹袭击者驾车来到索马里首都的一处军事基地，在该基地门口引爆了炸弹。</span></p>
+<p id="b-65c79b12e40846a9b3ca29556624958d" style="text-align:start"><span style="font-size:15px">截至2020年8月8日，该事件造成至少8人死亡，14人受伤。</span></p>
+</td>
+<td id="b-8f8069b7522e496e99fd0b58768b33c4" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-59929e974b14441abb14eb02bdabd77e" style="text-align:start"><span style="font-size:15px">少8人死亡，14人受伤</span></p>
+</td>
+<td id="b-318d0af9f9644a1c80071b9d7be090f6" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-6acd44f96f2445059a1588c9b94c6ba5" style="text-align:start"><span style="font-size:15px">否</span></p>
+</td>
+<td id="b-d3153538e5a44c349f819c1a31c4d5e6" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-96b10cfca3014dfa8c088bc6fa0783bb" style="text-align:start"><span style="font-size:15px">索马里青年党</span><span style="color: "><span style="font-size:15px">宣称对该次事件负责，一名自杀式炸弹袭击者驾车来到索马里首都的一处军事基地</span></span></p>
+</td>
+<td id="b-76780882a1a043ccb9596bf824df0119" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-7fb92c98e7774279b4001e2a37de1225" style="text-align:start"></p>
+</td>
+<td id="b-aae43069627845da9e2a1a14df85818d" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-6659740b9a004598a077baad1c594a19" style="text-align:start"><img src="https://km.sankuai.com/api/file/cdn/1625309615/234766823606?&amp;isNewContent=false&amp;contentType=1" width="284" height="239" id="b-96d07e5ed99b4fcbb00b1f89ba7ca5c4" alt="原文图片（需学城权限）"></p>
+</td>
+</tr>
+<tr id="b-01f61d3f0dee4ac8ac9ad24fd0549e8c">
+<td id="b-6ce19e44896240109c7b3b588c639849" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-02e1aba5bf2c4f3cbadecd6a87dd2940" style="text-align:start"><span style="color: "><span style="font-size:15px">2020年8月24日1</span></span></p>
+</td>
+<td id="b-041a30db89b84cf1a0a7d6b818c6e5c7" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-282c1092886b401383bdfddc05d75b8f" style="text-align:start"><span style="color: "><span style="font-size:15px">在</span></span><span style="font-size:15px">菲律宾</span><span style="color: "><span style="font-size:15px">南部苏禄省霍洛市霍洛镇</span></span></p>
+</td>
+<td id="b-208c965026454be18bab527dcae91d3e" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-9bde4c6fca29465f9fbf36ae56e08033" style="text-align:start"><span style="color: "><span style="font-size:15px">菲律宾当地时间2020年8月24日11时53分左右和2020年8月24日13时，在</span></span><span style="font-size:15px">菲律宾</span><span style="color: "><span style="font-size:15px">南部苏禄省霍洛市霍洛镇（ Jolo）发生两起连环爆炸事件。</span></span></p>
+</td>
+<td id="b-cba4435589ba4d4ca7536910b6e6c278" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-359df36413034313bd7aba91c5a5fec1" style="text-align:start"><span style="color: "><span style="font-size:15px">15人死亡、75人受伤</span></span></p>
+</td>
+<td id="b-69fe9ec57a794d099bfcb6852e91d99d" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-6d506c90c91049e59aa262b06871513a" style="text-align:start"><span style="font-size:15px">否</span></p>
+</td>
+<td id="b-713d532eb62f4c3ba086910e649e3ddf" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-342e1764c12947f38e59ad7efa631d67" style="text-align:start"><span style="color: "><span style="font-size:15px">军方高度怀疑该次爆炸的策划者是一名叫作蒙迪·萨瓦德加安（Mundi Sawadjaan）的恐怖分子</span></span></p>
+</td>
+<td id="b-8a180dc6b55447c5b7aaaac5f3f860b4" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-01184aeecf934b05ae7e5eaf45d3f528" style="text-align:start"></p>
+</td>
+<td id="b-8d8379ccf73e4a228e348d149312b105" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-b7630a8b7cde46a08f7fa55d1277149d" style="text-align:start"><img src="https://km.sankuai.com/api/file/cdn/1625309615/234768082120?&amp;isNewContent=false&amp;contentType=1" width="240" height="130" id="b-6c83a805b7554418a15c70f2ad6f3e57" alt="原文图片（需学城权限）"></p>
+</td>
+</tr>
+<tr id="b-4c77bb56804740b18f27a4d51419f8a0">
+<td id="b-4979253f604f4ce0bab224baba62d05d" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-833744bd9f7a475a8d0cc26607a37879" style="text-align:start"><span style="color: "><span style="font-size:15px">2020年11月21日</span></span></p>
+</td>
+<td id="b-b0b2791b712d47b6942b746527db556c" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-9edce68780af4425b2c208f65e3774c5" style="text-align:start"><span style="color: "><span style="font-size:15px">喀布尔爆炸袭击事件</span></span></p>
+</td>
+<td id="b-fda0bebdca114d5f98d551680d34139b" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-22c5ab48ee274e02a513c33269ad9738" style="text-align:start"><span style="color: "><span style="font-size:15px">2020年11月21日上午，阿富汗首都喀布尔发生多起爆炸袭击，已造成9人死亡、34人受伤。</span></span></p>
+</td>
+<td id="b-4c06bda5a23c410b812b25fafefa6b26" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-b62d9212cf0245d3a52583ccbaf8ad94" style="text-align:start"><span style="color: "><span style="font-size:15px">造成9人死亡、34人受伤。</span></span></p>
+</td>
+<td id="b-ddb7d95d946642e7b0ae8dc74df59e7f" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-e11a8ee7f47d400bb94bb9518345d2f8" style="text-align:start"><span style="font-size:15px">否</span></p>
+</td>
+<td id="b-c907aeba7d1a4e5a96af8568114d1cbd" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-cc061176bb81406a8e8d9b6750c75f6d" style="text-align:start"><span style="color: "><span style="font-size:15px">伊斯兰国”在社交媒体上宣布发动了火箭弹袭击</span></span></p>
+</td>
+<td id="b-3aa9173186094c6e92f7f552041fc06c" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-ec6a15339da34a869a590615c2d9eb25" style="text-align:start"></p>
+</td>
+<td id="b-bf32c7fac39e441faf8b161cd2db4142" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-12b2e3157b1c457abf3c873cb239bfcd" style="text-align:start"></p>
+</td>
+</tr>
+<tr id="b-60e93cb7b3fd47a5910aacbede352033">
+<td id="b-e66dc12a0b164a4a833ba912b8c2b1ee" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-f7dd0b5b35fd4dbea82ed55b4cdcc952" style="text-align:start"><span style="color: "><span style="font-size:15px">2021年1月21日</span></span></p>
+</td>
+<td id="b-d5e80930943e4758a02e20ee3b4ded46" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-8640488569484a4a87e49ae507e3e306" style="text-align:start"><span style="color: "><span style="font-size:15px">伊拉克巴格达</span></span></p>
+</td>
+<td id="b-a00bbadc619347dba3826213900fcba9" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-4141df6e787540c5a43e8068bbb019e1" style="text-align:start"><span style="color: "><span style="font-size:15px">伊拉克当地时间2021年1月21日上午，</span></span><span style="font-size:15px">伊拉克</span><span style="color: "><span style="font-size:15px">首都</span></span><span style="font-size:15px">巴格达</span><span style="color: "><span style="font-size:15px">的航空广场附近发生自杀式爆炸袭击</span></span></p>
+</td>
+<td id="b-30291b9df6264d559c1dd3a3a7475cf5" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-10406f234ea042b88ca4e902ed5da58d" style="text-align:start"><span style="color: "><span style="font-size:15px">造成32人死亡、110人受伤</span></span></p>
+</td>
+<td id="b-ce2ee1a0b93f405fa297a36ea960125f" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-6c25c83c775a451b9731f7e450a5a959" style="text-align:start"><span style="font-size:15px">无</span></p>
+</td>
+<td id="b-346ab9e970c84c4591512eb0b42df319" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-8de316bf88fb473d8804698c3fb72f54" style="text-align:start"><span style="font-size:15px">伊斯兰国</span></p>
+</td>
+<td id="b-ce4a07c7c8d94da9a40a806cc1860c1e" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-c0d5283c3c46494d95d2e1aa9e67207f" style="text-align:start"><span style="font-size:15px">自杀式爆炸袭击</span></p>
+</td>
+<td id="b-076c41b27e9640c49f5df8f619c70b47" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-be98250030d34304b78f91ac1a843ed1" style="text-align:start"><img src="https://km.sankuai.com/api/file/cdn/1625309615/234766504820?&amp;isNewContent=false&amp;contentType=1" width="144" height="124" id="b-9738657bb1464372b5bcf6dd8965fa43" alt="原文图片（需学城权限）"></p>
+</td>
+</tr>
+<tr id="b-d95ce235acb049f0a2213b753ed55602">
+<td id="b-1b2c8de190114001ad22fce49788d1af" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-05a2b1bcc1e948d9adea4cefa2dc192d" style="text-align:start"><span style="color: "><span style="font-size:15px">2021年4月16日</span></span></p>
+</td>
+<td id="b-2203f80f77a54452a564e73432b614b8" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-0bb0cbf929ff41489c05dadd72271b29" style="text-align:start"><span style="color: "><span style="font-size:15px">阿富汗赫拉特省一检查站</span></span></p>
+</td>
+<td id="b-db6a39769fc44665814fc3b045d2d5d2" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-a8d8f8b340fc4ce3a9d15008e0f314cc" style="text-align:start"><span style="color: "><span style="font-size:15px">021年4月16日，阿富汗赫拉特省一检查站遭塔利班武装汽车炸弹袭击</span></span></p>
+</td>
+<td id="b-b6fa9369d8064f1b99669ade75f4c1a0" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-a72a92b321da43c686f95b3f9a0fc72d" style="text-align:start"><span style="font-size:15px">造成</span><span style="color: "><span style="font-size:15px">3名警察死亡</span></span></p>
+</td>
+<td id="b-035a72edda444bbca6315d588d5507ee" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-3eb0b56b11cc4e42b3e7f35416072332" style="text-align:start"><span style="font-size:15px">无</span></p>
+</td>
+<td id="b-775dd7a9ab9f4a9fb93c5bc12dd7df66" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-ebbf41a21d7b464b863d5ea2e8dc69e3" style="text-align:start"><span style="font-size:15px">塔利班</span></p>
+</td>
+<td id="b-fdd26a3fba024acd9df7ac37ab321724" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-a29596942b07445eba32b2f35945814d" style="text-align:start"><span style="font-size:15px">汽车炸弹</span></p>
+</td>
+<td id="b-bf796c004bad4cfa83a6aed6cf0615e9" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-d8e54aaac42c4c089613cb458b6f3ad2" style="text-align:start"><img src="https://km.sankuai.com/api/file/cdn/1625309615/234768082119?&amp;isNewContent=false&amp;contentType=1" width="142" height="110" id="b-2ccdf6ce0ce54967a560e00a62357bde" alt="原文图片（需学城权限）"></p>
+</td>
+</tr>
+<tr id="b-839e16d09f944cd6bfc4b95080fc21e7">
+<td id="b-cf08e2be96ea4a558949ae872036ce43" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-c618e469d3bb490a9792ec8f842848c6" style="text-align:start"><span style="color: "><span style="font-size:15px">2021年4月23日</span></span></p>
+</td>
+<td id="b-be640b2ef71e4273862df6050123d838" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-65dad813335f492d9bbcbc3929a6b7c7" style="text-align:start"><span style="color: "><span style="font-size:15px">法国巴黎西南的</span></span><span style="font-size:15px">朗布依埃</span></p>
+<p id="b-4d825e8409fe4e61973a0e9b36510836"><span style="font-size:15px">​</span></p>
+<p id="b-4ad423c5316b4f6a8fa22eb92918c9db"><span style="font-size:15px">​</span></p>
+</td>
+<td id="b-895cc1d4b2cb4a40b040dd7df2d5e9e5" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-8326d766f29747e3bb5cf758ed7c1a7b" style="text-align:start"><span style="color: "><span style="font-size:15px">法国当地时间2021年4月23日下午，法国巴黎西南的</span></span><span style="font-size:15px">朗布依埃</span><span style="color: "><span style="font-size:15px">发生一起持刀袭警事件</span></span></p>
+</td>
+<td id="b-a9e11b8c38304f7e95070412811b7890" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-b3c293dd2937424ba77f2d8dae8425de" style="text-align:start"><span style="color: "><span style="font-size:15px">造成2人死亡</span></span></p>
+</td>
+<td id="b-cad56198ebf34e03b71c67889b2ad003" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-e6a6b84152654c09b690f2225712a14f" style="text-align:start"><span style="font-size:15px">无</span></p>
+</td>
+<td id="b-3ac4a4fcb3b74d899b6fa83232256698" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-fdab5f9af57d495e91f13c53d6a376eb" style="text-align:start"><span style="font-size:15px">独狼行动</span></p>
+</td>
+<td id="b-1fcc8a4578674de594c496a729b4a94c" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-d8813fa289bc4f9e82ad8f275dd1280b" style="text-align:start"><span style="color: "><span style="font-size:15px">持刀袭警</span></span></p>
+</td>
+<td id="b-57938fb481cb40dc99bd59ad2707a5fa" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-3f5fbf95dff0497aa8109f28bf87cbb6" style="text-align:start"></p>
+</td>
+</tr>
+<tr id="b-4cf0e5596e0f47ca911c767877808a62">
+<td id="b-e85e08ee05a74aefaaa13b9908a4a318" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-e70bcc3dd7b84b229856bdc642f4e330" style="text-align:start"><span style="font-size:15px">2021年</span><span style="color: "><span style="font-size:15px">8月20日</span></span></p>
+</td>
+<td id="b-908dcf301b154f8194775b0ad8f4cbce" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-1d78e16a09c74dc4846dc77051dfcba7" style="text-align:start"><span style="color: "><span style="font-size:15px">俾路支省瓜达尔地区</span></span></p>
+</td>
+<td id="b-087146a141ba48569fa60fd600221b8d" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-2ce179544c01427ab65a3cb1418196c2" style="text-align:start"><span style="color: "><span style="font-size:15px">8月20日，据巴基斯坦当地媒体报道，至少有2名当地儿童在俾路支省瓜达尔地区针对载有中国公民的车队的“自杀式袭击”中丧生</span></span></p>
+</td>
+<td id="b-56ef47bda46546c38c5e04967c93f5f6" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-c0565ae6705c4451b2377d65fa03cb07" style="text-align:start"><span style="font-size:15px">造成2人死亡、一人受伤</span></p>
+</td>
+<td id="b-463f294584624d8c9f6d652ec1aeeb71" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-f84090e2bdcf4ff7bb1e1fe3577c1ed1" style="text-align:start"><span style="font-size:15px">有，一名中国公民受伤</span></p>
+</td>
+<td id="b-7735f258e9b94cb197be800863242931" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-76151cc762334e6aa01ece3da6bb59cf" style="text-align:start"><span style="color: "><span style="font-size:15px">俾路支解放军</span></span></p>
+</td>
+<td id="b-5c7dd0ed0f4a4dbcaedef97d52117c0d" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-d3b44a93e11c40b3b0d470c6277aa4b8" style="text-align:start"><span style="color: "><span style="font-size:15px">自杀式炸弹袭击</span></span></p>
+</td>
+<td id="b-3c22b73ef45349cbba55e63680083739" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-1a9127b1015a455aa6f1c4f1623b8d3f" style="text-align:start"><img src="https://km.sankuai.com/api/file/cdn/1625309615/234769101510?&amp;isNewContent=false&amp;contentType=1" width="117" height="80" id="b-43ce84995188406bb41a9f2b8a962b09" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1625309615/234766027486?&amp;isNewContent=false&amp;contentType=1" width="64" height="79" id="b-5b87816089014d2293cfc88cd97dbeec" alt="原文图片（需学城权限）"></p>
+</td>
+</tr>
+<tr id="b-214d9cb9ef63497590c0cac242c61992">
+<td id="b-90ffde3440af4440a27bc7e04f7255e9" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-4c7525f28dbc4f57bf2a65f7d76722d7" style="text-align:start"><span style="color: "><span style="font-size:15px">2021年10月14日</span></span></p>
+</td>
+<td id="b-b6b98408380442aea73bac38f5e68ccc" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-723e3f70a0f746c5b172e8e1ce068d55" style="text-align:start"><span style="color: "><span style="font-size:15px">阿富汗东部库纳尔省首府阿萨达巴德</span></span></p>
+</td>
+<td id="b-6c220dbfe41a44218a0660a3c7a27346" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-578499e6f18042868275b255e35ba4df" style="text-align:start"><span style="color: "><span style="font-size:15px">塔利班人员的一辆汽车在阿萨达巴德市一座桥附近遭爆炸袭击</span></span></p>
+</td>
+<td id="b-76782a176b144a5a87dbd82f667fb360" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-decbc788a7e34ccfbae9ae8cacbc4ce1" style="text-align:start"><span style="color: "><span style="font-size:15px">造成1人死亡、11人受伤</span></span></p>
+</td>
+<td id="b-96174c2eb21645b7af12533db01f6286">
+<p id="b-59ef903131a94f03993cf12838f654a2"><span style="font-size:15px">​无</span></p>
+</td>
+<td id="b-d1e73a119597442d80bc6652d157b9d8" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-83114893eafe4f20aa16dc299499e023" style="text-align:start"><span style="font-size:15px">伊斯兰国呼罗珊分支</span></p>
+</td>
+<td id="b-98bb5c440bd248ba93ea8e7ae7559155">
+<p id="b-173c837eb15b40ef9ebce1b41cf9a145" style="text-align:start"><span style="font-size:15px">自制炸弹</span></p>
+</td>
+<td id="b-9cc8a0a1840a44dabb390be6df3e9e29" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-73168af0307b48f6959cee014d98620f" style="text-align:start"><img src="https://km.sankuai.com/api/file/cdn/1625309615/234767303274?&amp;isNewContent=false&amp;contentType=1" width="88" height="68" id="b-bcc5541160834483bb38d6e1224ddb48" alt="原文图片（需学城权限）"></p>
+</td>
+</tr>
+<tr id="b-f990e4cb85f24b4fa50fb2b50ad29061">
+<td id="b-c3a3d2eeb2454a6aa528770ef663c186" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-2db8880462c64bb998dd06c48db5c0ed" style="text-align:start"><span style="color: "><span style="font-size:15px">2022年4月14日</span></span></p>
+</td>
+<td id="b-4dbdc4a7b90e49639fa8d3dcb37d2d8a" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-56b2f26cc9dc4a5ca98f4d75d8aeda3c" style="text-align:start"><span style="font-size:15px">巴基斯坦</span><span style="color: "><span style="font-size:15px">西北部北瓦济里斯坦地区</span></span></p>
+</td>
+<td id="b-82019d1e0d664be192bc19a78aad1731" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-d322af9be27f41e1acfba3ccb3ac4e93" style="text-align:start"><span style="color: "><span style="font-size:15px">事发地点靠近巴基斯坦和阿富汗边境。恐怖分子对车队发动袭击后，巴军士兵立即予以回击</span></span></p>
+</td>
+<td id="b-0aff1b39cf444001a0f63ac26ffea495" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-7f8a265e91814f89861dd9480df758a4" style="text-align:start"><span style="font-size:15px">造成7人死亡</span></p>
+</td>
+<td id="b-f8adcaa71423431ba8ea47307d3eb822" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-a3dee01705d24febb2b6556d4adb985b" style="text-align:start"><span style="font-size:15px">无</span></p>
+</td>
+<td id="b-1da0555be29040dcac008e6ae02872f9" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-5bf9a7d0dd3f45d38c572bddd48f0fe6" style="text-align:start"><span style="font-size:15px">恐怖分子</span></p>
+</td>
+<td id="b-295f9090a1b7499784a0940fdf03384b" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-8f7694c5d36b46ecacad735c68e6cda1" style="text-align:start"><span style="font-size:15px">对军队车队发动袭击</span></p>
+</td>
+<td id="b-1c4de3741765467ca0af6c8534cb40e8" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-8e063e3668ff46feaae6c1cdf2bdda15" style="text-align:start"></p>
+</td>
+</tr>
+<tr id="b-4cba5b4ca1294ebd8eb46f04bab8010a">
+<td id="b-a7818b8bfc084f5392f1cd19de3ebf4f" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-3863349b962140d4baff8683776e8c3c" style="text-align:start"><span style="font-size:15px">2022年4月15日</span></p>
+</td>
+<td id="b-2fd10e8d91104416b2e9f67143767040" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-eddab044d2594ed0b6892ba28ec549f3" style="text-align:start"><span style="font-size:15px">巴基斯坦</span><span style="color:rgb(77, 81, 86)"><span style="font-size:15px">西北部北瓦济里斯坦地区</span></span></p>
+</td>
+<td id="b-943019c42cf34dec8b223e5aca1fa2a7" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-4ccc6f1e39634cdab6c2f8fa2fc90e66" style="text-align:start"><span style="color: "><span style="font-size:15px">巴基斯坦军方2022年4月15日说，一军方车队14日在该国西北部北瓦济里斯坦地区遭恐怖分子袭击，造成7名士兵死亡。事发地点靠近巴基斯坦和阿富汗边境。恐怖分子对车队发动袭击后，巴军士兵立即予以回击，打死4名恐怖分子。在激烈交火中，7名士兵死亡。</span></span></p>
+</td>
+<td id="b-bcc5595dadf64e83a4f3dee2da31103a" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-964e1728103f49818e2ac8f10c828124" style="text-align:start"><span style="color:rgb(77, 81, 86)"><span style="font-size:15px">7名士兵死亡</span></span></p>
+</td>
+<td id="b-5c4b5c4aab2c4614aae1685c8b3a003f" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-928631ea14d24be990e0f6cba0f2d3d3" style="text-align:start"><span style="font-size:15px">否</span></p>
+</td>
+<td id="b-29c2419751564eeba4a10a1de07668de" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-ae15db40586b40d8a20f739eb536dc55" style="text-align:start"></p>
+</td>
+<td id="b-53f379fd1abd4a2aa4478d678a68e271" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-611e2c8fd3704ec582769a759f316a44" style="text-align:start"></p>
+</td>
+<td id="b-5f151141d8b34542a8be51b01da0a4d7" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-003a816a57834bf38691e740d35a9cb6" style="text-align:start"></p>
+</td>
+</tr>
+<tr id="b-176408f540b24e58a5609ee26d05bcf0">
+<td id="b-84f1f442d2f44e2ab6ab8deb42a520d2" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-6c175ca03b7a4d7093a1863acedb710a" style="text-align:start"><span style="color: "><span style="font-size:15px">2022年4月26日</span></span></p>
+</td>
+<td id="b-248cde8f26a04c50a986d46767f5b76d" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-d8603b03b22a46c2bdfe2739322b6e4a" style="text-align:start"><span style="font-size:15px">巴基斯坦卡拉奇大学内</span></p>
+</td>
+<td id="b-ff18cad3c0314040abedd8f9ac20d8b9" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-4321ecce3135416e801dd824285718d6" style="text-align:start"><span style="font-size:15px">4月26日14时30分，一位穿着波卡的女人站在卡拉奇大学孔子学院的入口。在一辆载着教职工的白色厢型车接近学校门口后，该女子引爆了身上的炸弹。据信德省警方的消息，共有4人在袭击中遇难。卡拉奇大学的发言人称，3名遇难者为中国公民，包括孔子学院院长黄桂平，巴基斯坦籍遇难者为面包车司机。</span></p>
+</td>
+<td id="b-079942731ba34bf9a1025ab91ccadec3" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-928194f5045249de8ca664dba1ee1037" style="text-align:start"><span style="font-size:15px">造成4人死亡</span></p>
+</td>
+<td id="b-15fd7959ce7a4e6da01735d414eeee16" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-a218627475544b4aa8328bc7d36ef9ba" style="text-align:start"><span style="font-size:15px">涉及3名中</span></p>
+<p id="b-90273c9972734aa5b0fe76174dce1d6a"><span style="font-size:15px">国人死亡</span></p>
+</td>
+<td id="b-5b43ed01001242ff9578bfc88f01d60d" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-b6fb1e8cea3b45c4851d5f0d6c618845" style="text-align:start"><span style="font-size:15px">俾路支解放军</span></p>
+</td>
+<td id="b-e92c3a797ae64553bdacfbf9b65bced0" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-1d0ff63739684219a8917378cf9d87d7" style="text-align:start"><span style="font-size:15px">自杀式炸弹袭击</span></p>
+</td>
+<td id="b-f404c340fd114687a4f06aadd18e0e3a" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<figure src="https://km.sankuai.com/api/file/cdn/1625309615/234767724385?isNewContent=false&amp;contentType=1" width="0" height="0" id="b-617623e87f6043d392361f768c6c2d71"><figcaption>视频：巴基斯坦卡拉奇爆炸案彈所為‼️爆炸中3遇难者均为卡拉奇大学孔子学院中方工作人员。根据现视频，一名女子充当了「人体炸弹」俾路支解放军马吉德旅宣布对此事负责。充当人弹的女性名叫Shari Baloch‼️ [lSkTn8ssPOA].mp4（原始链接，可能需要学城权限）</figcaption><a href="https://km.sankuai.com/api/file/cdn/1625309615/234767724385?isNewContent=false&amp;contentType=1">在原文服务中查看</a></figure>
+<p id="b-8bae3c9279e749d7ac424eb12e709b22"></p>
+<p id="b-f424eb7c7d674ddf869e32053c222da5"></p>
+<p id="b-e3bfc212d622451eae1711214d30a0e0"></p>
+<p id="b-39d899b71b384c77ae590d995f9d6bd5"></p>
+</td>
+</tr>
+<tr id="b-5c09053f209c461ab54f08f64e523c36">
+<td id="b-bf82fe466f8d4caa9467d543265cbec4" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-bcdaa224ae104eb78d77a8916c948a1f" style="text-align:start"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">2001年9月11日</span></span></p>
+</td>
+<td id="b-2a2ef2421852408f9b0b9683888cb8cc" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-87592acb0164492d8ab73e9a7d64dd2c" style="text-align:start"><span style="color: "><span style="font-size:15px">美国纽约世界贸易中心、</span></span><span style="font-size:15px">五角大楼、911事件</span></p>
+</td>
+<td id="b-7225f2fda79041cd8c4e0c3d152cacc1" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-9145f927ba8c449cb087204b1236fe55" style="text-align:start"><span style="color: "><span style="font-size:15px">是2001年9月11日发生在美国纽约世界贸易中心的一起系列</span></span><span style="font-size:15px">恐怖袭击</span><span style="color: "><span style="font-size:15px">事件</span></span></p>
+</td>
+<td id="b-89d6537b6dc04ae6b66d6f597b4444c1" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-7272b4575a9346878f4c819317cf53be" style="text-align:start"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">造成3000多人死亡或</span></span><span style="font-size:15px">失踪</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">，超过6000人受伤</span></span></p>
+</td>
+<td id="b-0d3ffbb328ed4c499be8f9c271595fda" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-1cf27f0bd8274276b1158425b33ba7b8" style="text-align:start"><span style="font-size:15px">有、两人</span></p>
+<p id="b-3af7183abd7f4f66b10a95470c9f212e" style="text-align:start"><a href="https://www.bbc.com/zhongwen/simp/chinese_analysis/2011/09/110906_911_zengmama" title="https://www.bbc.com/zhongwen/simp/chinese_analysis/2011/09/110906_911_zengmama" id="b-11798803a4d5449f97788cac97ee3748"><span style="font-size:15px">https://www.bbc.com/zhongwen/simp/chinese_analysis/2011/09/110906_911_zengmama</span></a></p>
+</td>
+<td id="b-b274516d3e654d66bb7ffa109bf4bbff" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-803089c5623e42c0ac39aeaef1052546" style="text-align:start"><span style="font-size:15px">基地组织</span></p>
+</td>
+<td id="b-816db25add0348b2983b9abb8ccc1b00" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-343ea9f38be24bc39cc211dee4dc7bc9" style="text-align:start"><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">19名基地组织</span></span><span style="font-size:15px">恐怖分子劫持</span><span style="color:rgb(32, 33, 34)"><span style="font-size:15px">4架</span></span><span style="font-size:15px">民航客机</span><span style="color: "><span style="font-size:15px">，</span></span><span style="font-size:15px">自杀式袭击</span></p>
+</td>
+<td id="b-18187ec4eabc46f380a9d6d4ad1db295" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-3467fcbdba69499f883265a465795f0e" style="text-align:start"><img src="https://km.sankuai.com/api/file/cdn/1625309615/234769442938?&amp;isNewContent=false&amp;contentType=1" width="156" height="265" id="b-d893dae43b724d4b9ec97ff8a66141f9" alt="原文图片（需学城权限）"></p>
+</td>
+</tr>
+</table>
+</div>
+</details>
+</li>
+<li id="b-750337f1754e4f55918e6a08fe3ba2ca"><span style="font-size:15px">涉及爆炸、枪击、生物投毒案件，伤亡人数大于三人，犯罪主体为群体的事件；</span></li>
+</ol>
+<p id="b-0aaf4fb040de49898f48531d3228b766"></p>
+<p id="b-d20811837f134f03a43887e1fccc6df3"><span style="color:#00BA73"><span style="font-size:15px"><strong>豁免</strong></span></span></p>
+<ol id="b-e5f6b9bde6004fceb950d4929a74b541">
+<li id="b-4c206ec85b9a4f38bf35a6d85475eb7e"><span style="color:rgb(0, 0, 0)"><span style="font-size:15px">批判恐怖事件的；</span></span></li>
+</ol>
+</td>
+<td id="b-31c5925b76b14082afcaaa4bcd29caae">
+<p id="b-8097c76983c740dc8764ef7f398464b9"></p>
+</td>
+<td id="b-1047d3afd8204ad4855b55434d767a3b">
+<p id="b-2d7014cf84ef4ebda0b155685991c903"></p>
+</td>
+<td id="b-72784699d6ed4c17b7c56caa7d6cb875">
+<p id="b-c4c8ff20b5014e848925385604394a82"></p>
+</td>
+</tr>
+<tr id="b-e2eca689f88d4029a92944eef9c6f6d8">
+<td id="b-c9e259fa75ad4a9fb80a967bbdc1d2d7">
+<p id="b-81abe6e2169a46eba85b7b37565181a2"></p>
+</td>
+<td id="b-18c38979cb0e405a97f8e6ed2a8b2a9e">
+<h3 id="b-5b597c432c52446ba5d6beef9474cdf8">暴恐标识</h3>
+</td>
+<td id="b-6b734cc0b520447cb6a3a38e2856d246">
+<p id="b-49f2e8b800e745378b35685f2118e727"><span style="color:#FF4A47"><span style="font-size:15px"><strong>打标</strong></span></span></p>
+<ol id="b-a9e5af4c04d34ffca0386fbdc82b44ce">
+<li id="b-c339110772554283ad06e3f8aca14ed9">
+<p id="b-efad7562d2c7467b944fee53b4a1c81e"><span style="font-size:15px">涉及中国认定、国际认定、其他</span><span style="font-size:15px"><strong>暴恐组织的标志</strong></span><span style="font-size:15px">（含旗帜）（按照以下案例管控）</span></p>
+<details id="b-f2890019c9424e1597e9e0d042ed284b">
+<summary><strong>暴恐组织标志</strong>（不泛化）</summary>
+<div>
+<p id="b-7cecd81c7b2d4704ad98e06182b4264e">东突厥斯坦伊斯兰运动               </p>
+<p id="b-28192eb5e95b4ef09227ee74966cd894"><img src="https://km.sankuai.com/api/file/cdn/1625309615/234768835637?&amp;isNewContent=false&amp;contentType=1" width="116" height="66" id="b-5c65dce676f94e3ca75b190e654f696e" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1625309615/234765707809?&amp;isNewContent=false&amp;contentType=1" width="89" height="67" id="b-13c82157eaee428d924dc2d96c86ac33" alt="原文图片（需学城权限）"></p>
+<p id="b-79055eaee5384111b092059c214fa7f3">东突厥斯坦解放组织</p>
+<p id="b-851d2b424ebf47d181318a41f08f1b00"><img src="https://km.sankuai.com/api/file/cdn/1625309615/234768321005?&amp;isNewContent=false&amp;contentType=1" width="82" height="70" id="b-c7b1c037212849349fa8fef33fb1598e" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1625309615/234767303273?&amp;isNewContent=false&amp;contentType=1" width="78" height="69" id="b-6bdb3fecbd934e619fc91d1628762b62" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1625309615/234769101504?&amp;isNewContent=false&amp;contentType=1" width="70" height="69" id="b-98e34c6718df49d6b5ff973f478c95be" alt="原文图片（需学城权限）"></p>
+<p id="b-0586416f86314921ae5ae878475443b8">世界维吾尔青年代表大会</p>
+<p id="b-1bbb9d94e6194691862d26586c8e3f74"><img src="https://km.sankuai.com/api/file/cdn/1625309615/234768401427?&amp;isNewContent=false&amp;contentType=1" width="72" height="62" id="b-3236a22c2d9d41f7a6333108b6e68d31" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1625309615/234766344104?&amp;isNewContent=false&amp;contentType=1" width="188" height="64" id="b-a51b95e34fb949d0b32aff9308ff46db" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1625309615/234768678288?&amp;isNewContent=false&amp;contentType=1" width="116" height="66" id="b-a40e7a2ad3ab4243bf6884c32520268a" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1625309615/234768401421?&amp;isNewContent=false&amp;contentType=1" width="75" height="64" id="b-ebc20795787449b6ad24331862e7480e" alt="原文图片（需学城权限）"></p>
+<p id="b-1de8385360a24900866da941cacc5911">东突厥斯坦新闻信息中心                                                             </p>
+<p id="b-40efd349d1434fcf8b8262cd4af3c0a4"><img src="https://km.sankuai.com/api/file/cdn/1625309615/234768162329?&amp;isNewContent=false&amp;contentType=1" width="106" height="67" id="b-9d34b59dd6d74c7ba33ed454a4c562c4" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1625309615/234765707803?&amp;isNewContent=false&amp;contentType=1" width="58" height="58" id="b-69d2fc78b7ae4b09a61ec9dbd3eeba0c" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1625309615/234765707805?&amp;isNewContent=false&amp;contentType=1" width="95" height="62" id="b-8abbc0f823c14c7e920c9ed7e2a29d07" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1625309615/234768002691?&amp;isNewContent=false&amp;contentType=1" width="144" height="54" id="b-0a2edaf50bef494ca447ce79e4199453" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1625309615/234768755854?&amp;isNewContent=false&amp;contentType=1" width="56" height="53" id="b-bc8b169864a8486ba64d56b7831f5e54" alt="原文图片（需学城权限）"></p>
+<p id="b-bc7e444965ff4572bb962e47b1fcb7ac">伊扎布特（伊斯兰解放党）         </p>
+<p id="b-e076f8c31f774b648e4efe45614ca579"><img src="https://km.sankuai.com/api/file/cdn/1625309615/234768002689?&amp;isNewContent=false&amp;contentType=1" width="109" height="57" id="b-b3927c31e38a4358b785c4ed594827a5" alt="原文图片（需学城权限）">                        </p>
+<p id="b-f602e262f8a2432f8fb397ac1740c6f3">青年圣战者组织</p>
+<p id="b-98f5daa9408a4a16b37d6048a6e832ff"><img src="https://km.sankuai.com/api/file/cdn/1625309615/234768240824?&amp;isNewContent=false&amp;contentType=1" width="56" height="51" id="b-932b1f6324de444b8b75c54896a128c5" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1625309615/234764594962?&amp;isNewContent=false&amp;contentType=1" width="89" height="60" id="b-6c154c4e3faa466a9e66ac04ba3769ee" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1625309615/234769442926?&amp;isNewContent=false&amp;contentType=1" width="86" height="61" id="b-fd904fd4f1894c1096e1a7bf9a5b752b" alt="原文图片（需学城权限）"></p>
+<p id="b-d0f43cf3150a4bfa836085bf6b6d4f3d">征服沙姆阵线                               </p>
+<p id="b-a40367ef45444e95bb1cff76d7c9edb9"><img src="https://km.sankuai.com/api/file/cdn/1625309615/234768320998?&amp;isNewContent=false&amp;contentType=1" width="96" height="52" id="b-0e6930358333481db5c5e843c28d0d2c" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1625309615/234766663519?&amp;isNewContent=false&amp;contentType=1" width="83" height="50" id="b-f60e49b28ab8431da05a96b58ea59f92" alt="原文图片（需学城权限）">   </p>
+<p id="b-aadec019434e4715bb0ec60db3ae7c60">卡伊达、阿尔盖达、盖达组织</p>
+<p id="b-5d0c2cadc0d94bdc9bb984c3c1996e83"><img src="https://km.sankuai.com/api/file/cdn/1625309615/234765229008?&amp;isNewContent=false&amp;contentType=1" width="107" height="48" id="b-0cd481ad7d85491d8647d8acbd911cd4" alt="原文图片（需学城权限）">                       </p>
+<p id="b-57237b111e1e4ce3831d9c7f8c4314c1">巴基斯坦塔利班运动</p>
+<p id="b-76e99897559045f6a0db25d74db7448f"> <img src="https://km.sankuai.com/api/file/cdn/1625309615/234767644812?&amp;isNewContent=false&amp;contentType=1" width="78" height="63" id="b-7548366be9b34cf986f25ec13840b7c8" alt="原文图片（需学城权限）"></p>
+</div>
+</details>
+</li>
+<li id="b-58df0e16703f4b199c4b702264d31f03">
+<p id="b-5e90045f5ae24f4586edc4ca02709062"><span style="font-size:15px">旗帜含有以下内容之一，且出现的阿拉伯文一致或形似，旗帜结构为三段/四段</span></p>
+<ul id="b-d28b0060043a4200aa945ad95311322f">
+<li id="b-d8264a07cff64afdaae1068ed15c1764"><span style="font-size:15px">لَا إِلٰهَ إِلَّا الل</span></li>
+<li id="b-0ea965c4941746c3bc503606170d6c58"><span style="font-size:15px">万物非主，唯有真主</span></li>
+<li id="b-f184711fd0c441a9813809e2522836e0"><span style="font-size:15px">الله رسول محمد</span></li>
+<li id="b-4a8bb3d612cd422bb6486f28bd41f6a3"><span style="font-size:15px">安拉的使者，穆罕默德</span></li>
+</ul>
+</li>
+</ol>
+<p id="b-716dee1116a4457281058742d8a97297"></p>
+<p id="b-f333395b6cbf4abc95c026f852582007"><span style="color:#00BA73"><span style="font-size:15px"><strong>豁免</strong></span></span></p>
+<ol id="b-b4259220e3a349688a2b254ba9692240">
+<li id="b-183bf9fcbc30458ba26a55ce4728ef14"><span style="font-size:15px">伊朗国旗、沙特国旗、伊拉克国旗、索马里兰国旗；</span></li>
+</ol>
+</td>
+<td id="b-90090380d3894436b12b546dd2eae8b0">
+<p id="b-eac4080c3e2547af916ac0fa618c73e6"></p>
+</td>
+<td id="b-a91422f0408948b49f0dba9304e093ea">
+<p id="b-74176526962341fbb1a3854ff0f8cbb8"></p>
+</td>
+<td id="b-d58e88ad1462443ea0e216219d8fba49">
+<ol id="b-28236300611f4fb3b23ab41390638f6c">
+<li id="b-824d27d1c01f48219a420041a0d09da2">
+<p id="b-f2a38e4e04bc412e905195e43a2b18bf"><span style="font-size:15px">伊朗国旗</span></p>
+<ul id="b-832e11d60e7048c7b23ccb2771b5a70b">
+<li id="b-da33263d4b814396bc58725b8a6d2066"><img src="https://km.sankuai.com/api/file/cdn/1625309615/234767923722?&amp;isNewContent=false&amp;contentType=1" width="82" height="47" id="b-cda127cf77664a81badf84b4996075e1" alt="原文图片（需学城权限）"></li>
+</ul>
+</li>
+<li id="b-409a3a43ddfe426ca3b2f1ec7594c0fe">
+<p id="b-4ead501526894ca0a410e82de61dd484"><span style="font-size:15px">沙特国旗</span></p>
+<ul id="b-09805aea0b6e47a993a1d417a3934aac">
+<li id="b-a1a3c601bd0a4953b3d33571790a48df"><img src="https://km.sankuai.com/api/file/cdn/1625309615/234764594830?&amp;isNewContent=false&amp;contentType=1" width="83" height="55" id="b-8cd1bd647ead4de99ce05395e1432bbf" alt="原文图片（需学城权限）"></li>
+</ul>
+</li>
+<li id="b-950896a0c60c40edba21d6b1ce315d53">
+<p id="b-cd701818add34e5680a587075dda0f66"><span style="font-size:15px">伊拉克国旗</span></p>
+<ul id="b-73b52065c510429c940f24657d252f5d">
+<li id="b-986e79efb5b64feb8c16479df5b495e0"><img src="https://km.sankuai.com/api/file/cdn/1625309615/234768678181?&amp;isNewContent=false&amp;contentType=1" width="82" height="53" id="b-801688c219014c6c85641634a6311de0" alt="原文图片（需学城权限）"></li>
+</ul>
+</li>
+<li id="b-af0cfc9834a144f0bad4ccedef66ec46">
+<p id="b-64c7f11df59d41308f022be1e6dcb1e6"><span style="font-size:15px">索马里兰国旗</span></p>
+<ul id="b-bea43c12c38646548dd36d5d90c4e7d4">
+<li id="b-043fc3ca7a484cb59aba9ee000219319"><img src="https://km.sankuai.com/api/file/cdn/1625309615/234767144048?&amp;isNewContent=false&amp;contentType=1" width="79" height="39" id="b-f1d9e29cf4c844c4810744b85478502d" alt="原文图片（需学城权限）"></li>
+</ul>
+</li>
+</ol>
+</td>
+</tr>
+<tr id="b-a4251464216845f5b5ed1e61b6f68dea">
+<td id="b-7fa2c7e7352b4c2e9e0b2d0bf157760d">
+<p id="b-ff9eaaa9cec5480ea3a2e85d5e290a2f"></p>
+</td>
+<td id="b-571bc94397854042aa4b4c520c98d591">
+<h3 id="b-5d48f700251d49079342663485bb7ef8">暴恐设备</h3>
+</td>
+<td id="b-6aac100abf1d444a8e69e2ca352e9fc4">
+<p id="b-11b5c04c2be84e35aedbe1f42fe8fce3"><span style="color:#FF4A47"><span style="font-size:15px"><strong>打标</strong></span></span></p>
+<ol id="b-48879e161eac4d11af27bc4fdb8222f9">
+<li id="b-95d062a7197f46caa544d5ab73337646">
+<p id="b-38e7a6a4a12340c5832f2b469390b5e4"><span style="font-size:15px">涉及典型恐怖分子特征的服饰，出现以下其中一种元素需管控：</span></p>
+<ul id="b-1ff9500e4e084da0bb751b3ccb803e8a">
+<li id="b-5d8eabe7b20e40acb5cff0eb8fb2dd97"><span style="font-size:15px">真人上半身着黑色长袍/迷彩服且穿戴蒙面头套/头巾(不区分颜色)的</span></li>
+<li id="b-f88c3ce5a39f455d9cb1932347c23fd0"><span style="font-size:15px">真人蓄长胡须且穿着迷彩服的</span></li>
+<li id="b-f52205ae20f4429a9567738b74d4ef32"><span style="font-size:15px">真人穿戴蒙面头套或面罩且手持枪支</span></li>
+</ul>
+</li>
+<li id="b-c6f898133c32429ebf1dc8512ab31b0a"><span style="font-size:15px">战乱场景下展示真人持枪械对准人体的；</span></li>
+</ol>
+<p id="b-4a3ea777cf7e4797b69fd18380e6f745"></p>
+<p id="b-70c5f2264fcc46e08c281b998cc529ff"><span style="color:#00BA73"><span style="font-size:15px"><strong>豁免</strong></span></span></p>
+<ol id="b-03b33109c8aa41f0b912b33b726c2fee">
+<li id="b-176a17de34114b8797bd6cb6eae5a6b7"><span style="font-size:15px">可识别为真人cs、电视剧、电影场景的，无法识别需从严管控</span></li>
+<li id="b-aa1813b5ec7643d3a15a38e7558f9ced"><span style="font-size:15px">结合图片场景信息（</span><span style="font-size:15px"><blockquote>如配文、人</blockquote></span><span style="font-size:15px">物周边环境等）可明确非恐怖分子身份，无法识别需从严管控；</span></li>
+</ol>
+</td>
+<td id="b-bc903299a3fd4326ad209087c562cb75">
+<p id="b-5697d99ba032411a8cbb20118184352d"></p>
+</td>
+<td id="b-61aa773e84744b508fe522ff62495e89">
+<ol id="b-8417b8c499e44f8a88f39e9ff50a3403">
+<li id="b-3f2d8ea8da9e4b0b84b1fc297c5b8fd9">
+<p id="b-f957464c9d7c4c7682aeca43203f950c"><span style="font-size:15px">恐怖分子特征服饰</span></p>
+<ul id="b-2611b2eb5034415bbb0c327c8d8dc14c">
+<li id="b-781633b5b4d84233afb2a17b03bc8c23"><img src="https://km.sankuai.com/api/file/cdn/1625309615/234765868862?&amp;isNewContent=false&amp;contentType=1" width="103" height="128" id="b-da02dc0b5ecb4ce9a4dfda0e8ee7ce27" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1625309615/234768637824?&amp;isNewContent=false&amp;contentType=1" width="111" height="133" id="b-d7a28e8d396f47378814a420ca453f60" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1625309615/234768835528?&amp;isNewContent=false&amp;contentType=1" width="91" height="134" id="b-9e62ae546a9b47e6b6687dc5661e3257" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1625309615/234768835530?&amp;isNewContent=false&amp;contentType=1" width="105" height="104" id="b-1e49b317cd37458d80376523bf3456ef" alt="原文图片（需学城权限）"><br><img src="https://km.sankuai.com/api/file/cdn/1625309615/234767144047?&amp;isNewContent=false&amp;contentType=1" width="107" height="115" id="b-2e101fe44c5d4495960bd3c015ff6abd" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1625309615/234766185273?&amp;isNewContent=false&amp;contentType=1" width="96" height="113" id="b-1d175eb5fee54b198e35eeaee129e127" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1625309615/234768835527?&amp;isNewContent=false&amp;contentType=1" width="117" height="117" id="b-95d52cdd460f410dabfe4b82f988dec3" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1625309615/234765707689?&amp;isNewContent=false&amp;contentType=1" width="120" height="120" id="b-820ea63e104a448785354192701df6a5" alt="原文图片（需学城权限）"></li>
+<li id="b-581472caa8614a738dc8e14f2f2fc85a"><img src="https://km.sankuai.com/api/file/cdn/1625309615/234769208140?&amp;isNewContent=false&amp;contentType=1" width="87" height="84" id="b-2c4eb227406c488b878980bc47119544" alt="原文图片（需学城权限）"></li>
+</ul>
+</li>
+<li id="b-f1efe88415494747a580ff410b9f4e7b">
+<p id="b-1973775f5ce54e4783ac58a86737eed9"><span style="font-size:15px">战乱场景下展示真人持枪械对准人体</span></p>
+<ul id="b-5f5fe0339ec547749d04acf727b641e7">
+<li id="b-ec7a98b38d9542858675ba677a3f243a"><img src="https://km.sankuai.com/api/file/cdn/1625309615/234766823495?&amp;isNewContent=false&amp;contentType=1" width="155" height="85" id="b-0c68224b13344eb2bba83f729f6b9412" alt="原文图片（需学城权限）"></li>
+</ul>
+</li>
+</ol>
+</td>
+<td id="b-32a28c9a8a9949f4a39304e68038724b">
+<ol id="b-1c9f122ecb5548459ea5ef922be3df20">
+<li id="b-72cb5bbfa2fc451e916bad7312697b66">
+<p id="b-4567e40794ab4256bd84f56a493b500d">真人CS场景</p>
+<ul id="b-988920bef36d41fdbba3df2a63dd3cbf">
+<li id="b-aaee97f4a701453d9431a038a0046445"><img src="https://km.sankuai.com/api/file/cdn/1625309615/234768755755?&amp;isNewContent=false&amp;contentType=1" width="114" height="106" id="b-5cc960e8d60c4b3bab4bdb9c8f848ed4" alt="原文图片（需学城权限）"></li>
+</ul>
+</li>
+<li id="b-ed5e80e6f8874cdfb5480436a5e94875">
+<p id="b-906b304f675f43659a5809abf5d77a86">非暴恐服饰</p>
+<ul id="b-4436bc5759864990825c3fe1bf800944">
+<li id="b-5168cd4047774c1ba3311a08cb69e8ed"><img src="https://km.sankuai.com/api/file/cdn/1625309615/234765868860?&amp;isNewContent=false&amp;contentType=1" width="95" height="112" id="b-8b992cc103ec4868920a4ae94461fa23" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1625309615/234766823493?&amp;isNewContent=false&amp;contentType=1" width="112" height="102" id="b-c01d9fdd239a406989b7234a5b153f27" alt="原文图片（需学城权限）"></li>
+</ul>
+</li>
+<li id="b-03c76f93387841f285f95dbca86ee33a">
+<p id="b-cd5add19c1d34ee8a5bca19de1592440">结合图片文字信息可判断非暴恐分子身份</p>
+<ul id="b-219c9c522a82445a9c1619c0c9c6469b">
+<li id="b-23a2ecbb61594f9ea04676afae78a98e"><img src="https://km.sankuai.com/api/file/cdn/1625309615/234768678179?&amp;isNewContent=false&amp;contentType=1" width="115" height="164" id="b-5b337ce2ce934dea9bd0fe7bfd57d212" alt="原文图片（需学城权限）"></li>
+</ul>
+</li>
+</ol>
+</td>
+</tr>
+<tr id="b-157c427fe9be42b8b5e4a883a1851ade">
+<td id="b-dc51f50b340a45b79cde684d46d311e1">
+<p id="b-40ad11a76320482d9ca00530324cad9d"></p>
+</td>
+<td rowspan="2" id="b-76cc1940a8ff4632b9a009f17218edca">
+<h3 id="b-5ff516cd6bdf409d8921c34f145b3566">暴恐言论</h3>
+</td>
+<td id="b-07d5cc9e75234a67b4a2b53339b7e17c">
+<p id="b-12f6866cb36e4c0b8b81c98d8f706209"><span style="color:rgb(255, 74, 71)"><span style="font-size:15px"><strong>打标</strong></span></span></p>
+<ol id="b-a22331b828564e95b008c8c027ed6ae4">
+<li id="b-82c9b8e2d7f64770a2b95345295b2257"><span style="color: "><span style="font-size:15px">对比</span></span><span style="font-size:15px">国内/国际</span><span style="color: "><span style="font-size:15px">暴恐事件的处置力度和应对举措，否定、</span></span><span style="color:rgba(0, 0, 0, 0.87)"><span style="font-size:15px">质疑、调侃</span></span><span style="color: "><span style="font-size:15px">我国应对和处置人员及措施的内容；</span></span></li>
+<li id="b-458cbe9295924baf8432ac967ee2457c"><span style="font-size:15px">发布非名单内暴恐事件，编造暴恐事件谣言</span><span style="color: "><span style="font-size:15px">造</span></span><span style="color:rgba(0, 0, 0, 0.87)"><span style="font-size:15px">成公众恐慌、社会不稳的内容；</span></span></li>
+<li id="b-1c7a05ecc77844d2a64579872ca9df29"><span style="color:rgba(0, 0, 0, 0.87)"><span style="font-size:15px">嘲讽、恶搞</span></span><span style="font-size:15px">国内/国际</span><span style="color:rgba(0, 0, 0, 0.87)"><span style="font-size:15px">暴恐事件及遇难者、幸存者、亲属及其他涉事方的内容；</span></span></li>
+<li id="b-a8b5a10db30b406e832090436bbff419"><span style="color: "><span style="font-size:15px">借</span></span><span style="font-size:15px">国内/国际</span><span style="color: "><span style="font-size:15px">暴恐事件关联到品牌名称；</span></span></li>
+</ol>
+</td>
+<td id="b-898488e651b8481d8ebbbc2009bd7cbe">
+<p id="b-8085dd43a2eb4ad3a7de0ca025c74284"></p>
+</td>
+<td id="b-0b3b42a3238744bdb0c293dab0a83610">
+<p id="b-196a26745e7e4b1faccb995e15396cb8"></p>
+</td>
+<td id="b-fd8bdfb7e7ed43e9b5db364564679c4a">
+<p id="b-4c77e46de7854559ad291c0a84673c3e"></p>
+</td>
+</tr>
+<tr id="b-4fc284504fc346f6baef6e8fdfa040d3">
+<td id="b-2bbefbd8fcdd471a89192085554007e8">
+<p id="b-e55aa8ade1e94ac2901c031d792aa5e6"></p>
+</td>
+<td id="b-2bca2f904e0a4678921657821d0e500a">
+<p id="b-1630bf84f1904744bac48d0bb406592f"><span style="color:rgb(255, 74, 71)"><span style="font-size:15px"><strong>打标</strong></span></span></p>
+<ol id="b-48f28c4d8fde4d84a0fe3d583dde237e">
+<li id="b-47aec29f9c36463196b22b800460ffbd">
+<p id="b-d20a310bc6e345288d71dca02bf441d3"><span style="font-size:15px">借由各类暴恐事件，散布相关谣言，包含以下特征的：</span></p>
+<ul id="b-b442a9f1d41a4337af02b6832e3d0d53">
+<li id="b-fb49305f38a143749fba8695066d6eaa"><span style="font-size:15px">发布与官方报道的受害者人数不一致的</span></li>
+<li id="b-613e204ce3f046209dcd8e0c9cfa825c"><span style="font-size:15px">无端指责政府隐瞒暴恐事件</span></li>
+<li id="b-111fa4799675429d9eefe90fbf27183d"><span style="font-size:15px">夸大暴恐事件范围，制造社会恐慌的</span></li>
+</ul>
+</li>
+<li id="b-2bfb6239b7bc480c8ab7b32bc8f58b1b"><span style="font-size:15px">将一般生产事故、交通事故造谣成暴恐事件的；</span></li>
+<li id="b-c299293acfdc42349444d5c8a2b480db"><span style="font-size:15px">教唆</span><span style="color:rgba(0, 0, 0, 0.84)"><span style="font-size:15px">、组织开展威胁社会公共安全的暴恐活动；</span></span></li>
+</ol>
+</td>
+<td id="b-3ca9192da7074396b7a2b1f21e946b1e">
+<ol id="b-55cc60430d57477c8bb67869708391c0">
+<li id="b-0b88f90715cb475e82039a9391e14364">
+<p id="b-e74d9bd991c548b19d7b573cf47a2290">借暴恐事件<span style="font-size:15px">散布</span>谣言：</p>
+<ul id="b-7c7e414e364d4ba0a03bc1a3234a180e">
+<li id="b-8da4244624f442a68e5dca12d152c2e3"><span style="font-size:15px">新闻说是死了20人，其实超过100个人，候车大厅地面全是血，天一热苍蝇就过来了。</span></li>
+<li id="b-d3a8816a028d4903aad97546ae7de25b"><span style="font-size:15px">6月上半个月别去喀什，那边会有恐怖袭击！</span></li>
+<li id="b-c258e3c9a3344cce8b7b3230eb6dca81"><span style="font-size:15px">新疆人有组织地在共享单车车座和网吧座椅里面放占有艾滋病病毒的针头</span></li>
+<li id="b-ff343d8853f247658af0653cd2d5e1f2"><span style="font-size:15px">超市的饮料里有毒最近都不要买了</span></li>
+<li id="b-f9353b278e474d62938e88f7f29a8b27"><span style="font-size:15px">不光是火车站，飞机场和长途客运站、市中心商场都放了炸弹，赶紧逃吧！</span></li>
+</ul>
+</li>
+<li id="b-c1e080e1cb844ebb913ffa57aaa915db">
+<p id="b-ffadd0ec09a24abebd496aeedbffae40">一般事故夸大：</p>
+<ul id="b-b72c6c017211430cb67828ba3f678a1d">
+<li id="b-997cc337813344cc9ad798fc028017e8"><span style="font-size:15px">天津港的爆炸那么严重，只可能是恐怖袭击造成的，说成生产事故，只是安抚民心罢了。</span></li>
+</ul>
+</li>
+<li id="b-cdf44318ca2a4da8bc51cfe3cf008540">
+<p id="b-78e00d869c6545b98e320f827b0849cc">教唆组织开展暴恐活动：</p>
+<ul id="b-4c5601ad311e4b2daba5a53d0c006aca">
+<li id="b-c8c84441bc5f4db5a6b5ed06fc4bdc00"><span style="color:rgb(25, 25, 25)"><span style="font-size:15px">平邑天宝化工一车炸药到北京天安门广场，运费要3个W，特殊要求10.1号早8点前送到，别耽误点火</span></span></li>
+<li id="b-c700f795d18a4b8989b46b28feec8e3d"><span style="color: "><span style="font-size:15px">谁和我一起开着车去春熙路撞一圈，国庆节人多，如果开车撞，能撞死几千人</span></span></li>
+<li id="b-390c2b696f974e4d92f699d1d2cb385e"><span style="color:rgb(15, 20, 25)"><span style="font-size:15px">在外面能有个鸟用！来天安门嘛！一群吃饱撑的到处制造麻烦的臭虫！</span></span></li>
+</ul>
+</li>
+</ol>
+</td>
+<td id="b-8e24a9b61fac4f3e97ddbd5bd7748c41">
+<ol id="b-e1ab1d60d67f430eae26666523dfa4ed">
+<li id="b-ab592962eb354264abc0a068024ebdab">
+<p id="b-566e6366fef548169c1a8448ff0e840e">借暴恐事件<span style="font-size:15px">散布</span>谣言：</p>
+<ul id="b-af32eea89ae1414f8129fed9f8cc575f">
+<li id="b-55e893974b664c0483cf3992e56bbae2"><img src="https://km.sankuai.com/api/file/cdn/1625309615/234767303120?&amp;isNewContent=false&amp;contentType=1" width="149" height="92" id="b-a893afef00924fc4956dbe3a3d00b3ee" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1625309615/234765868857?&amp;isNewContent=false&amp;contentType=1" width="187" height="126" id="b-761743d6aa44421e820c2a0708644ed8" alt="原文图片（需学城权限）"><br><img src="https://km.sankuai.com/api/file/cdn/1625309615/234765868856?&amp;isNewContent=false&amp;contentType=1" width="187" height="110" id="b-f8dbad8fbf914dddb945fe6b0a6201c9" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1625309615/234766663378?&amp;isNewContent=false&amp;contentType=1" width="93" height="138" id="b-a0089106e69545c8adb27efd3fb2ffba" alt="原文图片（需学城权限）"></li>
+</ul>
+</li>
+<li id="b-34aa889f18ee4c3d953822acb40c2205">
+<p id="b-f95ac6aa76474329835c407ec218848a">教唆组织开展暴恐活动：</p>
+<ul id="b-2138112264cf452b843cee2f2e935fc6">
+<li id="b-69d714da53e549ee9f809fbd69c23802"><img src="https://km.sankuai.com/api/file/cdn/1625309615/234768081991?&amp;isNewContent=false&amp;contentType=1" width="65" height="121" id="b-5ea0842ef5984aa89cea6fade57444eb" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1625309615/234767144034?&amp;isNewContent=false&amp;contentType=1" width="132" height="132" id="b-776210d4e0c14c03a4ebeb051123abd8" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1625309615/234764912243?&amp;isNewContent=false&amp;contentType=1" width="123" height="151" id="b-f108497675784655a67aa6a46890d9b8" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1625309615/234769442833?&amp;isNewContent=false&amp;contentType=1" width="91" height="152" id="b-69424bb571a34e5484e0815476bca800" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1625309615/234766823485?&amp;isNewContent=false&amp;contentType=1" width="145" height="104" id="b-f5a261211f39494482facb76443ca4cc" alt="原文图片（需学城权限）"></li>
+</ul>
+</li>
+</ol>
+</td>
+<td id="b-b5055efc830a448791536eea60d22efb">
+<p id="b-ea472bfd777842d68be17f1be7b715dd"></p>
+</td>
+</tr>
+<tr id="b-3c920906180a476da460e2f5bb0850aa">
+<td id="b-991da1151a1d4443aae991d8855c0eca">
+<p id="b-6729425157bb4e30ba5c5bb7ef263de9"></p>
+</td>
+<td id="b-7967891f8b164057b468fba0353d5623" style="background-color:rgb(255, 231, 184)">
+<h2 id="b-17c1784688bb4751a024fdce4b849d79">纳粹标志</h2>
+</td>
+<td id="b-cf1f1c04e13d4f178fab7b57f77baf60">
+<h3 id="b-86c6887850fd414084568309cd189500">/</h3>
+</td>
+<td id="b-992328eb56da44da8b6dab6e849a0996">
+<p id="b-98caedb4190542c195bea49d93d81a71"><span style="color:rgb(255, 74, 71)"><span style="font-size:15px"><strong>打标</strong></span></span></p>
+<ol id="b-d3be82237ee145909871c94a4c7a3d74">
+<li id="b-fca1ffc41f5b49e4bcb17d057a3f2769"><span style="font-size:15px">纳粹标志（逆时针旋转45°的“卐”字）</span></li>
+<li id="b-653ac14f46014108b934b7d139ca8dae"><span style="font-size:15px">纳粹标志因遮挡、裁剪导致展示不全，但仍可识别为纳粹标志；</span></li>
+<li id="b-66d36bfb6c9344d0903ad9c630245a7a">
+<p id="b-54dde090022d415a9a490f75e18807d6"><span style="font-size:15px"><strong>含有纳粹元素的游戏；</strong></span></p>
+<details id="b-4bd670e0ed99419792a47cb3a62930a2">
+<summary><strong>含有纳粹元素的游戏</strong><span style="font-size:15px">名单（不泛化）</span></summary>
+<div>
+<table id="b-ef0240100a394670bcaadb70358ad5f3">
+<tr id="b-3711ea9ba83248d3ac9eb4a26a831dc9">
+<th id="b-c7243fd5e0cf40119a7fefae3ad4d6f6">
+<p id="b-d02edf9cac134058b68246d4291bda4d"><span style="font-size:15px">名称</span></p>
+</th>
+<th id="b-16355f082eff41559f8e43a6ff809d5b">
+<p id="b-ea72cbade83d465cbe70d7149a0982bc"><span style="font-size:15px">案例</span></p>
+</th>
+</tr>
+<tr id="b-1dc1578c692746609e0d7ce80ec3cda1">
+<td id="b-0de97155fa694bf3bb2259a6fb61358e">
+<p id="b-63863381cdec471bbb9de30a228615f8"><span style="font-size:15px">揭秘希特勒</span></p>
+<p id="b-e356c8ab48d240ac8db394b4e0f1da2e"><span style="font-size:15px">Secret Hitler</span></p>
+</td>
+<td id="b-789645fd2e824a448875aabea63a0cbd">
+<p id="b-3a3d99c496cf48debc414d3e5baf424d"><img src="https://km.sankuai.com/api/file/cdn/1625309615/234766663373?&amp;isNewContent=false&amp;contentType=1" width="29" height="59" id="b-7dc51e9d02a04624b86eb0ca18818e65" alt="原文图片（需学城权限）"></p>
+</td>
+</tr>
+<tr id="b-f0f95efed5344df1ada22302077c9137">
+<td id="b-f89c38aff8af46f1b4d0d0afde88cc1a">
+<p id="b-8e2691a743b44441a9c2d4dfc38ba432"><span style="font-size:15px">战役：蓝色方案</span></p>
+</td>
+<td id="b-5b831f359be0427d9807d5beff49d7e3">
+<p id="b-d46668b6873b4feb9baad95825ff727b"><img src="https://km.sankuai.com/api/file/cdn/1625309615/234768637810?&amp;isNewContent=false&amp;contentType=1" width="28" height="67" id="b-4b60a63d9a184e37bfe7ad7ad67e5bd4" alt="原文图片（需学城权限）"></p>
+</td>
+</tr>
+<tr id="b-f1d9184f60dd49ef90b5edffe941961b">
+<td id="b-39e6a9bcdd924defbaa290ecd54d7189">
+<p id="b-d7ade7c33e1f41aea8aff07b5b60b63a"><span style="font-size:15px">二战WARDS</span></p>
+<p id="b-694fd77a610c40b4a5971e45aae9f9f6"><span style="font-size:15px">二战杀</span></p>
+</td>
+<td id="b-46c1fee1704346709ac3177a8cba0635">
+<p id="b-5e46a68c37dc4bdeb5e33cdfbbed8680"><img src="https://km.sankuai.com/api/file/cdn/1625309615/234769101170?&amp;isNewContent=false&amp;contentType=1" width="26" height="52" id="b-257d52ce221c48ccb8581f37bbbd1171" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1625309615/234768678040?&amp;isNewContent=false&amp;contentType=1" width="26" height="53" id="b-853bed6d84b74869a48f27b665073aa8" alt="原文图片（需学城权限）"></p>
+</td>
+</tr>
+</table>
+</div>
+</details>
+</li>
+</ol>
+</td>
+<td id="b-465be2899c674fa494499c61810bc946">
+<p id="b-55d4788c35f64b1db43761deeb10011b"></p>
+</td>
+<td id="b-f213ad98a9cb4e9aa79ee79144368dd8">
+<ol id="b-b6b1b6e00bdb499bb318e10f880f30a2">
+<li id="b-c54ff6ec68c943bbaa96fc7baeeb2e06">
+<p id="b-fc0eeadca70d4dcdb8e9205875733268">纳粹标志</p>
+<ul id="b-0b8fa3db052e4378802405016ed09de8">
+<li id="b-143a8c5dec6e48589a58d69b749335d8"><img src="https://km.sankuai.com/api/file/cdn/1625309615/234767527809?&amp;isNewContent=false&amp;contentType=1" width="76" height="58" id="b-63974cc1005648acbc5112f535aa4cdf" alt="原文图片（需学城权限）"></li>
+</ul>
+</li>
+<li id="b-65488a7853374ae8953c5bf07528d752">
+<p id="b-cdf8236247174303a1760484811bd5e2">遮挡但仍然可识别</p>
+<ul id="b-a3a8fd63a57d4ca78a212ed299c237cc">
+<li id="b-cd68c28340dc4a54aec753eadd138c61"><img src="https://km.sankuai.com/api/file/cdn/1625309615/234769024311?&amp;isNewContent=false&amp;contentType=1" width="59" height="61" id="b-36261b8c8db0416b9cdc4c2e6c5926ec" alt="原文图片（需学城权限）"></li>
+</ul>
+</li>
+<li id="b-4eb0d4badd0c433382384b01ce646373">
+<p id="b-35f92f8419264e5985d724801fcccee8">裁剪导致展示不全但仍可识别</p>
+<ul id="b-d8a1d0eeb57f4a3ba9a442775716be76">
+<li id="b-23d4e26c21444014a0bb0d1197fbcc8b"><img src="https://km.sankuai.com/api/file/cdn/1625309615/234768557937?&amp;isNewContent=false&amp;contentType=1" width="36" height="65" id="b-574efd3b96f844a3bfa3dbba317a8814" alt="原文图片（需学城权限）"></li>
+</ul>
+</li>
+</ol>
+</td>
+<td id="b-7b8594cf655e49779c870fad0868262e">
+<ol id="b-469e0806f7004a649c28f9108b076bb4">
+<li id="b-3d31ff842c7543e2ac6d1c03f2329a91">
+<p id="b-41f5be72fd8a4ef0b7f2ca7d1aad9c50">非纳粹标志</p>
+<ul id="b-8239db9b9ab94a1f8ae3de3b6f15464e">
+<li id="b-d8555986329c47cfa3293e34523df157"><img src="https://km.sankuai.com/api/file/cdn/1625309615/234769024306?&amp;isNewContent=false&amp;contentType=1" width="82" height="83" id="b-02a7d6913b2049faa99c0cfb639f5110" alt="原文图片（需学城权限）"></li>
+</ul>
+</li>
+</ol>
+</td>
+</tr>
+<tr id="b-416182a071644695bcc8ba02c2e29de7">
+<td id="b-a9e7450d8d0349d6b89e71fad61737cc">
+<p id="b-8347873ca8c24f8290f51f669c649ae0"></p>
+</td>
+<td rowspan="3" id="b-9beb308d754d464fba3e190c8b1063ed" style="background-color:rgb(255, 243, 191)">
+<h2 id="b-4cb0e780c8654eebae41a0390f88afad">极端主义</h2>
+</td>
+<td id="b-cc2219cd90c345dc9c118a47a118f511">
+<h3 id="b-b56c69158c054a95b93f4391c1b953c8">极端民族主义</h3>
+</td>
+<td id="b-2191907169b7442295a78de9bfce454b">
+<p id="b-c7ac4a271dad42e8b4e1721318a275fb"><span style="color:rgb(255, 74, 71)"><span style="font-size:15px"><strong>打标</strong></span></span></p>
+<ol id="b-3125e99f827c4ca2a75214553fa309c8">
+<li id="b-0c74cb75ef1f4444908405ed46792f18"><span style="font-size:15px">涉及“法西斯”标志；（注意看打标案例）</span></li>
+<li id="b-1fddb9f7c0ff480daeef576e3dc78069"><span style="font-size:15px">宣扬法西斯极端主义思想；</span></li>
+<li id="b-8bc7d6d54eb04853aa86182e53ec56bf">
+<p id="b-3c7b6331de36426e82db454c1671d0a1"><span style="font-size:15px">洗白/赞扬法西斯相关人物、法西斯极端主义组织或相关事件内容；</span></p>
+<details id="b-667c50b7603841aebaa20712f44e84da">
+<summary><strong>法西斯主义人物（适用于定义3）</strong>（样本不泛化，变体可泛化）</summary>
+<div>
+<table id="b-799e5740aa6e48ba8f01ac4a7921d7ba">
+<tr id="b-9975ab59d9f74907b900a6c0faa0ea61">
+<td id="b-8c60566b9523414a90bf8e989b42c179" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-c90212ddf44a46f7a4704430fc0a1451"><span style="font-size:15px"><strong>法西斯主义</strong></span></p>
+</td>
+<td id="b-c99394a25cc4470a80e03e3ffa70ffa8" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-be5399b0e9f74150bac37a26f04ea056" style="text-align:center"><span style="font-size:19px"><strong>头目、成员（文字、图片）</strong></span></p>
+</td>
+</tr>
+<tr id="b-7ddc550fe2c94bfc94d39f48cdef271e">
+<td id="b-8621e93cf8ab486bab62c6a5e22541eb" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-07ea52a9a19f4ec39e2a30f88a0955f6" style="text-align:start"><span style="font-size:14px">纳粹德国</span></p>
+</td>
+<td id="b-fa610bfc0cc744aea819528b68984139" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<table id="b-b78845352aa1499db651e2430dacd696">
+<tr id="b-5fac3b7af0174ab28e6643a879f8e0af">
+<td id="b-ed5b875c2e864b28acc0ac4b888ab224" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-904de4fafe3b4f5fbd21331ce7825caa" style="text-align:start"><span style="font-size:14px"><strong>头目</strong></span></p>
+</td>
+<td id="b-d4a8710c9dbd42b3ac2360adf2660c53" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-a703d285c8cf46aaabd1b68979b4280f" style="text-align:start"><span style="font-size:14px">保罗·冯·兴登堡</span></p>
+</td>
+<td id="b-bcea81f134094559ad8485a2a2f44c4f" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-da5b37c8aa79468ea8791c1242679911" style="text-align:start"><span style="font-size:14px">阿道夫·希特勒</span></p>
+</td>
+<td id="b-55ee20f61e144bf9bede8d8bf5379d36" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-493baef553394ae1a86da1a5f26587e4" style="text-align:start"><span style="font-size:14px">卡尔·邓尼茨</span></p>
+</td>
+</tr>
+<tr id="b-c3d7667f8b484220986e80c4932a1159">
+<td id="b-d1a9229c412d403789fe652e57c1c1ad" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-5ef2ad295a724adc8ce7886b399ab554" style="text-align:start"><span style="font-size:14px"><strong>职务</strong></span></p>
+</td>
+<td id="b-053c1f83655d4071ad83ca82614cf3a0" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-2e101ce4628b413da70d96862c1850b1" style="text-align:start"><span style="font-size:14px">联邦大总统</span></p>
+</td>
+<td id="b-f9e9f215b3b745999b4dbfdfd3a74b08" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-87c9b59a3c224a3d85abf9f6510be9fe" style="text-align:start"><span style="font-size:14px">总理</span></p>
+</td>
+<td id="b-4dfe0a12b61946aa844a2084ae97888c" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-77d207e67c0646a0a52af6553f42e2f1" style="text-align:start"><span style="font-size:14px">联邦大总统</span></p>
+</td>
+</tr>
+<tr id="b-066a20ee8b24497b8b2a3cb12fad14f8">
+<td id="b-042c3a4182c546b19f920b98a70efabd" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-c5a8074776074d24858fb5a7f75b45ab" style="text-align:start"><span style="font-size:14px"><strong>图片</strong></span></p>
+</td>
+<td id="b-87702f2c53394edeb9b4ce7ade712765" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-1f9aa0e345584d9db4ef425057e8ef7c" style="text-align:start"><img src="https://km.sankuai.com/api/file/cdn/1625309615/260364793083?&amp;contentType=1&amp;isNewContent=false" width="330" height="436" id="b-be61b9888ffd40a69d7c165ae4bb80f5" alt="原文图片（需学城权限）"></p>
+</td>
+<td id="b-89278b1abf664814a013fe829d0e71d0" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-b4c1590d41ea43c2a7a383fdf9eaf141" style="text-align:start"><img src="https://km.sankuai.com/api/file/cdn/1625309615/260359808512?&amp;contentType=1&amp;isNewContent=false" width="79" height="119" id="b-992d06527f4a417ab2b4694606230e9f" alt="原文图片（需学城权限）"></p>
+</td>
+<td id="b-c98213777f5b4e81969b777fb2496041" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-23e9c95fc9ef4bce8bdc0af110cb6938" style="text-align:start"><img src="https://km.sankuai.com/api/file/cdn/1625309615/260365821072?&amp;contentType=1&amp;isNewContent=false" width="72" height="119" id="b-110a858ee06a434ab4ba1f657009bf5f" alt="原文图片（需学城权限）"></p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<p id="b-a6143dd481ee47a68ead4decab64e589"></p>
+</div>
+</details>
+<details id="b-34d221f6cee24f438436f8b17be9dc47">
+<summary><strong>法西斯主义极端组织（适用于定义3）</strong>（不泛化）</summary>
+<div>
+<ol id="b-be17a275892141fbb4f52b7eb0c29c2f">
+<li id="b-f4302865e8b54b6aace0b2512a784db9"><strong>德意志民族社会主义者同盟（BDS）</strong>‍：成立于1968年的德国新法西斯组织。</li>
+<li id="b-52a40af4dd5a48ba9efeca9f91e1e9c4"><strong>大德意志民族社会主义战斗集团（NSKG）</strong>‍：成立于1972年的德国新法西斯组织。</li>
+<li id="b-b2e9e061f4d14809be0f59f34f2e1a7e"><strong>德意志一民族共同体（DVG）</strong>‍：成立于1973年的德国新法西斯组织。</li>
+<li id="b-c3bbff7efb264aa89d3d3094fe11ae3b"><strong>霍夫曼国防体育集团</strong>：成立于1974年的德国新法西斯组织。</li>
+<li id="b-79970d307dff4470b0b0f97203312a16"><strong>意大利民族主义协会（ANI）</strong>‍：意大利的新法西斯组织，宣扬极端民族主义。</li>
+<li id="b-037068b4ba114738b955516af741bb62"><strong>意大利“黑秩序”与“光头党”</strong>‍：意大利的极右组织，常以暴力手段进行活动</li>
+<li id="b-58006674a8de4580b0bea6334f7d8e7b"><strong>民族阵线（National Front）</strong>‍：英国极端民族主义组织，曾在20世纪70-80年代极为活跃。</li>
+<li id="b-9fa3661d6c0e4ca586e26dbc6169811f"><strong>大英国民党（British Union of Fascists, BUF）</strong>‍：英国历史上的法西斯组织，曾在二战前活跃。</li>
+<li id="b-7ca2c078192a4b0b99941fa3a429700f"><strong>英国运动（British Movement）</strong>‍：英国的极右组织，宣扬种族主义和纳粹主义。</li>
+<li id="b-68542af4ccc945dcbd1623e21803f4cb"><strong>欧洲新秩序（European New Order）</strong>‍：一个国际性的极右组织网络，协调各国新法西斯组织的活动</li>
+<li id="b-34eacc6ca1314a77a553826ea29b668f"><strong>乌斯塔沙（Ustaše）</strong>‍：克罗地亚极端民族主义组织，二战期间与纳粹德国结盟，进行种族灭绝行为。</li>
+<li id="b-6c6b9f5a358246e0b011aa83392bbee9"><strong>罗马尼亚民族主义组织</strong>：如Codreanu的组织，曾宣扬极端的民族主义和排外思想</li>
+<li id="b-2c5aa50e8d0e42f9ab2ff49b1ebf49eb"><strong>德国民族社会主义工人党（NSDAP）</strong>‍：虽然这是纳粹德国的正式执政党，但在二战后其地下组织仍持续存在。</li>
+<li id="b-e86e143f4781461ebb4aeb93d9a53596"><strong>西班牙自治右翼联盟（CEDA）</strong>‍：西班牙的极右组织，宣扬民族沙文主义</li>
+</ol>
+</div>
+</details>
+<details id="b-67e3b06ccce84e1ca433d27cf5e5ba41">
+<summary><strong>法西斯相关事件（适用于定义3）</strong>（不泛化）</summary>
+<div>
+<ol id="b-dc041a54c43845e99e7ca284b83ce629">
+<li id="b-c9551f7af1844501bfd29e3b55332064"><strong>进军罗马 (1922年)</strong>：墨索里尼率领“黑衫军”向罗马进军，迫使意大利国王授权其组阁。这是人类历史上第一个法西斯政权的建立</li>
+<li id="b-3386aac3b9614cb293e0f46cd11ce07e"><strong>啤酒馆暴动 (1923年)</strong>：又称<span><a href="https://baike.baidu.com/item/%E5%95%A4%E9%85%92%E9%A6%86%E6%94%BF%E5%8F%98/1904032?fromModule=lemma_inlink" title="啤酒馆政变" id="b-9ed9e24e13b14c0cb447e4969c645c68">啤酒馆政变</a></span>、希特勒暴动。希特勒在慕尼黑企图通过武力夺权失败。这次事件虽然让他入狱，但却通过法庭辩论扩大了纳粹党的知名度。</li>
+<li id="b-5d4458301e6246508a377cd52d8af50d"><strong>国会纵火案 (1933年)</strong>：纳粹党借此事件诬陷政敌，迫使总统签署法令剥夺公民基本权利，随后通过《授权法》，德国正式进入一党专政。</li>
+<li id="b-158b57e3a6074d759198a497386afb29"><strong>长刀之夜 (1934年)</strong>：希特勒对纳粹党内激进派系（冲锋队）进行血腥清洗，确立了党卫队（SS）的地位，保障了军队的效忠。</li>
+<li id="b-24d7c8a9262041fcbe8052b442fff6e2"><strong>纽伦堡法案颁布 (1935年)</strong>：这一系列法案剥夺了犹太人的公民权，禁止其与“德意志血统”的人结婚，标志着种族主义从口号变为国家法律。</li>
+<li id="b-d645bced27c1435b942c3805af2db56c"><strong>水晶之夜 (1938年)</strong>：由纳粹政权组织的针对犹太人的全国性暴力袭击，标志着迫害从法律歧视升级为公开的暴力灭绝。</li>
+<li id="b-d38249bdb3bb4aadbb67440842f5718d"><strong>西班牙内战 (1936-1939年)</strong>：德、意法西斯支持佛朗哥叛军，将其作为新式武器（如俯冲轰炸机）的试验场。</li>
+<li id="b-b38b9959f4f94b4f830c939bd28098fd"><strong>慕尼黑协定 (1938年)</strong>：英法推行“绥靖政策”，牺牲捷克斯洛伐克以换取虚假的和平，这极大鼓舞了法西斯的扩张野心。</li>
+<li id="b-f06d727d54974d1fa3b6b95e1cc51a14">
+<ul id="b-9fa8323011674b4a9e668ce86cc2cad7">
+<li id="b-3e031c0b20ef4e808cbc62347d5c574e"><strong>入侵波兰 (1939年9月1日)</strong>：德国发动闪电战，标志着第二次世界大战在欧洲全面爆发。</li>
+</ul>
+</li>
+<li id="b-b82fc81f64004f24b03977f7b866f5f9"><strong>珍珠港事件 (1941年)</strong>：日本为了获取资源支持其在亚洲的法西斯扩张，偷袭美国，促成全球反法西斯同盟的最终形成。</li>
+<li id="b-7a1719cff09d46b1b98fd1487cd54f9b"><strong>萨罗共和国的终结 (1945年)</strong>：墨索里尼被意大利游击队处决，标志着法西斯主义在其发源地的彻底失败。</li>
+<li id="b-5366a7376c69445781902c036f3b3966"><strong>柏林战役 (1945年)</strong>：苏联红军攻克柏林，希特勒在掩体中自杀，纳粹德国无条件投降。</li>
+<li id="b-fb9a72ddbfd5437fafbf9bb5f0b0fd5e"><strong>纽伦堡审判 (1945-1946年)</strong>：国际军事法庭首次提出了“反人类罪”的概念，对纳粹高层进行了正义的审判，确立了“上级命令不能免责”的法律原则。</li>
+<li id="b-443aece2338b4961822f4d08621c371a"><strong>东京审判 (1946-1948年)</strong>：远东国际军事法庭对日本甲级战犯进行审判，清算了日本军国主义的战争罪行。</li>
+</ol>
+</div>
+</details>
+</li>
+<li id="b-bd40e0dc7aa049d59b9cbde94c2a1729"><span style="color: "><span style="font-size:15px">教唆/强迫/组织</span></span><span style="font-size:15px">我公民参与法西斯主义极端组织的；</span></li>
+<li id="b-9d1f30b9588c4117a5c201b3d136dcb0">
+<p id="b-f73ae636b0e84a17a404b5b73ee2f642"><span style="font-size:15px">对</span><span style="font-size:15px"><strong>二战甲级战犯</strong></span><span style="font-size:15px">发表支持性言论；（按照以下名单管控）</span></p>
+<details id="b-b6dfb914bb4944c29cd685a08f77558f">
+<summary><strong>二战甲级战犯</strong>（不泛化）</summary>
+<div>
+<ul id="b-4012e1b53c794e7fb8f5a05464c4b1e2">
+<li id="b-cdbb3482b66e44f1b7479a65b03b63b2"><span style="font-size:15px">绞刑：板垣征四郎、木村兵太郎、土肥原贤二、东条英机、广田弘毅、松井石根、武藤章</span></li>
+<li id="b-ad8c3a0b34bf45c4b696bbad005d0a05"><span style="font-size:15px">终身监禁：荒木贞夫、梅津美治郎、大岛浩、冈敬纯、贺屋兴宣、木户幸一、小矶国昭、佐藤贤了、岛田繁太郎、白鸟敏夫、铃木贞一、南次郎、桥本欣五郎、畑俊六、平沼骐一郎、星野直树</span></li>
+</ul>
+</div>
+</details>
+</li>
+<li id="b-b28e4bf5d0ac44bfac46baf1a1a38423">
+<p id="b-8b40b811b55d46f4b5b32d6fc33f7024"><span style="font-size:15px">涉日“</span><span style="font-size:15px"><strong>军国主义毒动漫、歌曲</strong></span><span style="font-size:15px">”等作品的内容；</span></p>
+<details id="b-b3446805e378410aaf44d6a46b4145fd">
+<summary><strong>军国主义毒动漫、歌曲等作品</strong><span style="font-size:15px"><strong>（不泛化）</strong></span></summary>
+<div>
+<ul id="b-73020c33a77c45148af896dd9f72090f">
+<li id="b-d3bbce1fa5b04ba0b42ffb7733bfc088"><span style="font-size:15px"><strong>按照下列名单管控（仅管控作品，作者列仅辅助判断）</strong></span></li>
+</ul>
+<table id="b-583d0ff987ca4433ac0cd6a1c0c785d4">
+<tr id="b-f06d5feeae3744ed84e53b94ac80b86e">
+<th id="b-cf955623a8b548a7a6f878e7a18c1ab6" style="vertical-align:middle">
+<p id="b-82c39ebedead48f8bc31584f10746eee" style="text-align:center"><span style="font-size:15px"><strong>名称</strong></span></p>
+</th>
+<th id="b-86b9d34c10eb41e49d496240761cc8ec" style="vertical-align:middle">
+<p id="b-87948175691f4908a62e17798affac9f" style="text-align:center"><span style="font-size:15px"><strong>作者/出品单位</strong></span></p>
+</th>
+<th id="b-e14cb9d729814cae842a1ce0ead6d433" style="vertical-align:middle">
+<p id="b-ef428fa055cf44c28d664c32f5ccc848" style="text-align:center"><span style="font-size:15px"><strong>画面截图</strong></span></p>
+</th>
+</tr>
+<tr id="b-0c0041e71c1f4ebfa83fdf411755f887">
+<td id="b-828ec00fdb9e49f4be6a05848129acb2">
+<p id="b-938810ffa120424d99096599cc8814b1"><span style="color:#000">画册集作品</span></p>
+<p id="b-bf5f2511a09d49f8a9b90ebbbac5067e"><span style="color:#000">《肖像——黑钢之城》（肖像 ―黒鋼之城―）</span></p>
+</td>
+<td id="b-cdcdc361b99a4809ad27200e90388589">
+<p id="b-6f65a7f4bcb0400b92a6f683ba4c7015"><span style="color:#000">菅野泰纪</span></p>
+</td>
+<td id="b-a666944b028843c0af96e0fbc5924f3f">
+<ol id="b-7b13f0c7ab224fa7b2b836d4566df6ca">
+<li id="b-b92379e0944c44d9bb3361f964e241a7"><img src="https://km.sankuai.com/api/file/cdn/1625309615/258358724849?contentType=1&amp;isNewContent=false" width="800" height="600" id="b-2e0cca2d843f44cfbb9c7396198affb9" alt="原文图片（需学城权限）"></li>
+</ol>
+</td>
+</tr>
+<tr id="b-ecc18eb10f1248058dc8e2ba0d71460f">
+<td id="b-879cf21107144affb8729a18582647b8">
+<p id="b-60fff01bf5984f8f9e45d14ce22853ed"><span style="font-size:15px">《舰队collection》</span></p>
+</td>
+<td id="b-c108c9d308474addb27f82b95e4295d7">
+<p id="b-e0c862d6a8ab403c94f7fd8c1cc62939">角川游戏</p>
+</td>
+<td id="b-3234e1387efc4f5e91b6a67f0a6250e6">
+<p id="b-d6e5782d150a4632ada30c8a8dc0962f"><img src="https://km.sankuai.com/api/file/cdn/1625309615/258357220057?contentType=1&amp;isNewContent=false" width="276" height="408" id="b-fbf94bacbbbb482191cb84f7c8001887" alt="原文图片（需学城权限）">​</p>
+</td>
+</tr>
+<tr id="b-909b3ec662e641a88a41860ae4952a78">
+<td id="b-156fc55e086e4a9b94eca10c88fcf936">
+<p id="b-8103929458a343b3b6843ba787039299"><span style="font-size:15px">《少女与战车》</span></p>
+</td>
+<td id="b-aff3e275e8a8439b8e66eee2b4a8ad47">
+<p id="b-dd792a99f157492d8f13385b2150d84a"><span style="color:#000">动画：水岛努</span></p>
+<p id="b-c46b2c7c925343bf8dd590167a2b4c71"><span style="color:#000">漫画：才谷屋龙一</span></p>
+</td>
+<td id="b-5914ae6da18647c7a23448c28d5bf558">
+<p id="b-f45f96a3f2114596903c5aceb8a99aec"><img src="https://km.sankuai.com/api/file/cdn/1625309615/258359998925?contentType=1&amp;isNewContent=false" width="388" height="551" id="b-203d95a4873445feb60d5e44cc98e269" alt="原文图片（需学城权限）">​</p>
+</td>
+</tr>
+<tr id="b-d5055b3a4343405b947e0f04312acc6b">
+<td id="b-4be7fd51687845c390746f0cd5f49554">
+<p id="b-78c690666af9488b8b797389a2b0236c"><span style="font-size:15px">《起风了》</span></p>
+</td>
+<td id="b-ea775d7e5eca4744bcbd43f1c1975277">
+<p id="b-089d691cdc4847de8054c4921fd22673"><span style="color:#000">宫崎骏</span></p>
+</td>
+<td id="b-3afb3bca99074b78b977be68d92dfa9e">
+<p id="b-d4ce0d62614240f5820575bfaee4568c"><img src="https://km.sankuai.com/api/file/cdn/1625309615/258357060409?contentType=1&amp;isNewContent=false" width="421" height="600" id="b-026b36f8596549e1ab7a61a9462617be" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1625309615/258354917618?contentType=1&amp;isNewContent=false" width="596" height="300" id="b-651c172b7c744a65b14ffd720efbc424" alt="原文图片（需学城权限）"></p>
+</td>
+</tr>
+<tr id="b-c2badd129683449d8b0e07bf2dedfb77">
+<td id="b-6d716f666e284377bb8b5b406a26a9e8">
+<p id="b-43ac6ddf433c47c1a4e2b51ef68b5b46"><span style="font-size:15px">军火女王</span></p>
+</td>
+<td id="b-25880df412a84de99a2f561f0b89e6cc">
+<p id="b-f51b375f9b504263babd2f6ee3149227"><span style="color:#000">漫画：高桥庆太郎</span></p>
+<p id="b-c88f30a2d7224492affbbd343ac64210"><span style="color:#000">动画导演：元永庆太郎</span></p>
+</td>
+<td id="b-40cecab9bb774db3b5287adc28b70045">
+<p id="b-03269cc15fe24ba096fc538a480c5624"><img src="https://km.sankuai.com/api/file/cdn/1625309615/258357140541?contentType=1&amp;isNewContent=false" width="246" height="352" id="b-71088e5faef543fd9a06691e2cdd2789" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1625309615/258354597611?contentType=1&amp;isNewContent=false" width="578" height="334" id="b-018cb31c8cf94bf8a69c75f7ced4e785" alt="原文图片（需学城权限）"></p>
+</td>
+</tr>
+<tr id="b-358913a010f54710855dbd0ce4adc376">
+<td id="b-dff130079fa241069f91950c06878041">
+<p id="b-ceb0ae4fc33f4bed84e151e70f064fbb"><span style="font-size:15px">月光旅程</span></p>
+</td>
+<td id="b-ed907703038d43698afb951a50402a96">
+<p id="b-a644fbaafda84019b87fa48d0a0d85ff"><span style="color:#000">太田垣康男</span></p>
+</td>
+<td id="b-72893af05b0e45c0bcfd719690f22171">
+<p id="b-d81cab1ffbde4cb0a6d4058578f104fe">​<img src="https://km.sankuai.com/api/file/cdn/1625309615/258359203253?contentType=1&amp;isNewContent=false" width="594" height="331" id="b-91d18be3b9354a41932f8531bd5f4f0f" alt="原文图片（需学城权限）"></p>
+</td>
+</tr>
+<tr id="b-80673311c0264b049f6fe3059031db29">
+<td id="b-d19d75d16b144371b3749ea50885c7bb">
+<p id="b-1c42b59698934e28b8e9516dd2409cb1"><span style="font-size:15px">全金属狂潮</span></p>
+</td>
+<td id="b-722825cb0e874c5097a439bdc8b37b12">
+<p id="b-dbf8387656434de1aef06ed469f86560"><span style="color:#000">贺东招二</span></p>
+</td>
+<td id="b-53985d581c154ddba19cb73c62441029">
+<p id="b-59e4b0d70d8147bc979fd87f24da70ca"><img src="https://km.sankuai.com/api/file/cdn/1625309615/258359203252?contentType=1&amp;isNewContent=false" width="250" height="355" id="b-dd2b35eda2b64cdc8da2d9c5c1ad8c00" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1625309615/258358333153?contentType=1&amp;isNewContent=false" width="765" height="251" id="b-9aac5a29fa36466f811be8736a365add" alt="原文图片（需学城权限）"></p>
+</td>
+</tr>
+<tr id="b-4f78b0e987b94d97812c3916d4766208">
+<td id="b-2f8c4199310a44b1996d39648514bc9c">
+<p id="b-00fa03518afd4fb2b0e622d895edb63d"><span style="font-size:15px">《（德国/德意志）装甲兵（车）进行曲》（Panzerlied、《坦克之歌》、パツァー·リート）</span></p>
+</td>
+<td id="b-a111269005034d0e8c449a639a6434e2">
+<p id="b-ae137dbbafbd4e7fb9872ff4517f151b"><span style="font-size:15px">库尔特·威勒</span></p>
+</td>
+<td id="b-857f08c5fe0241aa84398a3de4378036">
+<p id="b-4e7fec681d6e414096573dbcf8e66913"><span style="font-size:15px">歌曲</span></p>
+</td>
+</tr>
+<tr id="b-7eea3e7a63ef4a988a45938ec9b46ffd">
+<td id="b-7612d7e14ec7409b90d9d82b69dee2d9">
+<p id="b-75ed0e947d0344399c0d67dbe3e97f50"><span style="font-size:15px">Tenno Heika （Banzai）、神风敢死队进行曲</span></p>
+</td>
+<td id="b-2a9c83fb33914d819f8c9dba9cec390e">
+<p id="b-ef0860afdad24124b10617f9011664d5"></p>
+</td>
+<td id="b-87a437ded8884e2eb255efb23d6f6dc9">
+<p id="b-99091effc08543e38181cbc81a635aa0"><span style="font-size:15px">歌曲</span></p>
+</td>
+</tr>
+<tr id="b-7f01e5cb2343451d9bb89e4c4cd76762">
+<td id="b-c4868fe7f7914546bc87bbc2e7832e3f">
+<p id="b-ac65cc95f58042c3be76cd12759ff021"><span style="font-size:15px">soldier love</span></p>
+</td>
+<td id="b-78d7cdedadc64ea389f93093cff4d06f">
+<p id="b-12826e1a6b084ee2a6d1358b2a91d438"><span style="font-size:15px">THE RAMPAGE</span></p>
+</td>
+<td id="b-145dc7deea8445ac869c03796f337605">
+<p id="b-4c6bce2dc9ca41098ee5527284830997"><span style="font-size:15px">歌曲</span></p>
+</td>
+</tr>
+<tr id="b-c63b3f9e0aac421ba085fdfeb1687ca5">
+<td id="b-22efabae19d744738dea60dc8732f029">
+<p id="b-29ad708f44f44750bf5c3e9b71fc4689"><span style="font-size:15px">《Battotai Techno March》（拔刀队进行曲techno版）</span></p>
+</td>
+<td id="b-4a7905c135044749a6515bee9b868316">
+<p id="b-9d50d8a9f22045ea86f2266fbb6e066a"><span style="font-size:15px">Knurft</span></p>
+</td>
+<td id="b-ba661734073a447ca3f79b2b4a757c8e">
+<p id="b-aaef3f7bc82443f8bac2a1534f42cdd2"><span style="font-size:15px">歌曲</span></p>
+</td>
+</tr>
+<tr id="b-7cc6dffadfeb43589962a289e328e082">
+<td id="b-d48899e75f794240be3b08120ac31f9d">
+<p id="b-48fbc485356f4411a172b669b1f364bc"><span style="font-size:15px">《拔刀队》（1877）、Battotai march、官军进行曲、军舰进行曲</span></p>
+</td>
+<td id="b-a6fb1f2bed97493b89e428d00cc58d4f">
+<p id="b-851f590ac742444a8af763a298ee3e4a"><span style="font-size:15px">夏尔·勒鲁(曲）、外山正一（词）</span></p>
+</td>
+<td id="b-140593fe780248f68c396d92b179b4df">
+<p id="b-ea1971fef1f04a079f3bc6ad284c8994"><span style="font-size:15px">歌曲</span></p>
+</td>
+</tr>
+<tr id="b-0d772dcf381f4c4684d63d36238e3502">
+<td id="b-805e2cdaf5824daa86117703e3a93e36">
+<p id="b-84244debc83242d7844679e1d2b988f9"><span style="font-size:15px">硫磺岛防备歌</span></p>
+</td>
+<td id="b-25a06e735f1546abaa96c7dbbb3e3389">
+<p id="b-dc24cacae9dc45cb993f14f4429e30e5"></p>
+</td>
+<td id="b-fa28fe9b7d254689a88d7cae29d77d01">
+<p id="b-195172987c9d4ea9b6ab89183793fc56"><span style="font-size:15px">歌曲</span></p>
+</td>
+</tr>
+<tr id="b-615c139127e94d55872dc69c30680503">
+<td id="b-fa50304da78c49d7b8bd1cdfdedcb544">
+<p id="b-2534504684f04e13902cbaf825c997a4"><span style="font-size:15px">扶桑歌、扶桑の歌</span></p>
+</td>
+<td id="b-18f79c1c24c44e6d8473d91ff8522b5a">
+<p id="b-34c4a0d7987840d4a0da2fc94ea2c8cf"></p>
+</td>
+<td id="b-e970c629bab64bcdbd21eccf2a5eb017">
+<p id="b-b41349ee011a4ba8a66fed0bd063150d"><span style="font-size:15px">歌曲</span></p>
+</td>
+</tr>
+<tr id="b-46d6d08c86eb4b1cacd4f6f81a1a12f3">
+<td id="b-165e315821354b148b04496d9d55be7c">
+<p id="b-990787ba4f45406d97d93a67cd4288e7"><span style="font-size:15px">昭和进行曲</span></p>
+</td>
+<td id="b-523c36d0342341adab67646101af64cd">
+<p id="b-70ced358840d4442880f1ff56ede8faa"></p>
+</td>
+<td id="b-f81e73b90921438c967ca55f2d241ce2">
+<p id="b-73f076064c65425a947b8d77618ec687"><span style="font-size:15px">歌曲</span></p>
+</td>
+</tr>
+<tr id="b-80b39f2a01544936836cf298d3534a4b">
+<td id="b-20ff511a0ba7452f8d96ced57ffc60f8">
+<p id="b-a5ca09e497fc4079978a3e6363bd5e7b"><span style="font-size:15px">brutal</span></p>
+</td>
+<td id="b-6aab1e5327134bb18f9f849e13a3637a">
+<p id="b-248251dd44814cdf971f61c5f9f139b8"></p>
+</td>
+<td id="b-e2c4ef32cd534f338b13b11995c893b5">
+<p id="b-c4b592bbc2f9464ead6be457178619e2"><span style="font-size:15px">歌曲</span></p>
+</td>
+</tr>
+<tr id="b-f406beddfbe14b37afb15b7aa3b3a669">
+<td id="b-425cfa2fc399427d805a2a0dcb5096b7">
+<p id="b-ef2a0798d37b42e3bbe50321c704b4dd"><span style="font-size:15px">Kogun Taisho No Uta</span></p>
+</td>
+<td id="b-7d3b49df93d14f2c95e383f209c5c191">
+<p id="b-d49480894ca242e4a7e595a52957ddaa"></p>
+</td>
+<td id="b-54b5f94f2fd74cc7aafa7db3bce2fc1e">
+<p id="b-fe0686ee8be24b28ba6018e5383eff71"><span style="font-size:15px">歌曲</span></p>
+</td>
+</tr>
+<tr id="b-c083fbe5057f4aa3b5780ac545dfcf9a">
+<td id="b-7e03338d361c407db521e056b0551a9d">
+<p id="b-6057a58c761c46109b90e2bfb5086ca2"><span style="font-size:15px">玉碎（の）小曲、Kardsの小曲、日快（の）小曲、神风（の）小曲、天闹黑卡，板载</span></p>
+</td>
+<td id="b-f563f4c7f54247bbb43f053e7f71df85">
+<p id="b-c2e5133bc9f940589b7d7029028d246e"></p>
+</td>
+<td id="b-72398d4a26dc4745b74ea36e88e130b8">
+<p id="b-2f8d6ea89bb24c49b7d086a41c1e5685"><span style="font-size:15px">歌曲</span></p>
+</td>
+</tr>
+</table>
+<p id="b-0ce4b76d16fb454ebb5d2773aaa1d7df"></p>
+</div>
+</details>
+</li>
+<li id="b-a91898c097a647b68ed8262bd9df93e1">
+<p id="b-0b47080408574c9bbec75b1ccefd641d">涉及军国主义有害动漫严控名单的作品、或相关周边产品的内容；</p>
+<ol id="b-fd3cf8b48ca54807bb50057dd18b592b">
+<li id="b-64cc8e5f238c423bb89ec675d85ad05b">周边：使用名单中作品人物形象制作的手办、徽章、玩偶、抱枕、cos用服装假发等</li>
+<li id="b-bd084076febd430891ab3b684c89f941">
+<details id="b-6b0e32fd463144f1838dc49def0de425">
+<summary>军国主义有害动漫严控名单</summary>
+<div>
+<table id="b-e04a73a935054549bb53dcc40f370531">
+<tr id="b-d73f78cc8af346d9aec12b6a31b7aea8">
+<th id="b-2f39c439f7de4841a7591e150c67a1f7">
+<p id="b-b1569af29ed3436aae2fa7fee2a05721"></p>
+</th>
+<th id="b-c4869db161a2427e980e5dc81534b0c4">
+<p id="b-2ee1e37742ce488c8620b7dbd0969b49">作品</p>
+</th>
+<th id="b-1c1297087e1c4a869c8907bc8eb1b3d2">
+<p id="b-b37f914a63d3490ba0ce58fe84426565">作者</p>
+</th>
+<th id="b-b6665df16356450c9686299a370ce568">
+<p id="b-a481385265a94040b4a55ec3ad7ced7d">海报</p>
+</th>
+<th id="b-d192f621f41a4988aa04fd09088a97c4">
+<p id="b-83373de36a2248b599c43a32ce922ae7">主要角色及形象</p>
+</th>
+</tr>
+<tr id="b-00d33b95fc4043a89a6250bef2caa49b">
+<td id="b-f92add4efd574bceb20bb18406ccc0a3">
+<p id="b-1590f437eb4648e597e2ea3fa7ca59e5"></p>
+</td>
+<td id="b-da158ed0e6334a8a9cf91784a1d2e6df">
+<p id="b-c5bde5150a7c49549399432d242984b2"><span style="color:#FF4A47">《东京食尸鬼》（《东京喰种》）</span></p>
+</td>
+<td id="b-9aa4daec9b4c47d0b459223245f1270b">
+<p id="b-c90b6130b3d646f3bc083d925da2e713"><span style="color:#FF4A47">石田翠</span></p>
+</td>
+<td id="b-0a2b7805e9034ce4ba7634be13be719c">
+<p id="b-03c9f91e35364861aa83de258b1ef303"><img src="https://km.sankuai.com/api/file/cdn/1625309615/260365114009?contentType=1&amp;isNewContent=false" width="300" height="418" id="b-1e0b36cc0fa04b06ba1993171ca7810e" alt="原文图片（需学城权限）"></p>
+</td>
+<td id="b-5b23f4fc3c3644e286cdd059be746ede">
+<ol id="b-6f14404773b74def9a05a73f5b15f7a0">
+<li id="b-c6a80bb1fcd9404fa08810eb831f1f7b"><span style="color:#FF4A47">金木研（佐佐木琲世，主角）</span><img src="https://km.sankuai.com/api/file/cdn/1625309615/260359813264?contentType=1&amp;isNewContent=false" width="375" height="500" id="b-33dfa411a36743eaaa1f35099f46a562" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1625309615/260360130830?contentType=1&amp;isNewContent=false" width="225" height="225" id="b-136c439df43a498cb856bfeeaa905020" alt="原文图片（需学城权限）"></li>
+<li id="b-9ac22382248245899b6f7456d00832de"><span style="color:#FF4A47">雾岛董香（女主角）</span><img src="https://km.sankuai.com/api/file/cdn/1625309615/260365193464?contentType=1&amp;isNewContent=false" width="447" height="447" id="b-d327b0e64a8443ad98cac5379800c532" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1625309615/260363124860?contentType=1&amp;isNewContent=false" width="447" height="447" id="b-d279771dabb24f48b4c87ba572788e18" alt="原文图片（需学城权限）"></li>
+<li id="b-6999d44586b54ba8b30010a27ddfe34c">
+<p id="b-e55f2124fbd34775af7536c509cb6124"><span style="color:#FF4A47">四方莲示</span></p>
+<p id="b-3a6a90e5ea7b419985c3d983e6ac52fb"><img src="https://km.sankuai.com/api/file/cdn/1625309615/260362329061?contentType=1&amp;isNewContent=false" width="419" height="477" id="b-b7548cdc3bd24021a4715670703f6e01" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1625309615/260362489348?contentType=1&amp;isNewContent=false" width="567" height="352" id="b-65661371532f4860999a79ecf1800533" alt="原文图片（需学城权限）"></p>
+</li>
+<li id="b-eb5a2efca31b4e81b4f064345902fd0b">
+<p id="b-3ee437463797457c9e6d0db2ce6d883f"><span style="color:#FF4A47">神代利世</span><img src="https://km.sankuai.com/api/file/cdn/1625309615/260365749178?contentType=1&amp;isNewContent=false" width="400" height="400" id="b-b3e09b7b82314523bc9eef41cfd28cbb" alt="原文图片（需学城权限）"></p>
+<p id="b-70575482107544278f211c187dc8c8c7"><img src="https://km.sankuai.com/api/file/cdn/1625309615/260365749176?contentType=1&amp;isNewContent=false" width="225" height="225" id="b-204c297842774557bf2ba3ddcef9c45e" alt="原文图片（需学城权限）"></p>
+</li>
+<li id="b-035178e0c233466eb4b33532d3b2fd54">
+<p id="b-53d9eb4db1684039b2ffddabae9ff001"><span style="color:#FF4A47">月山习</span></p>
+<p id="b-e5710a1a09f248ef96c98dd8b96f8d8a"><img src="https://km.sankuai.com/api/file/cdn/1625309615/260365352415?contentType=1&amp;isNewContent=false" width="400" height="400" id="b-e3766e26174542739870b798da2309e8" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1625309615/260355718182?contentType=1&amp;isNewContent=false" width="400" height="500" id="b-f3b176f62d66430b9bc7479759cdc964" alt="原文图片（需学城权限）"></p>
+</li>
+</ol>
+</td>
+</tr>
+<tr id="b-bc91ff8cf9a5402d8f799f1489471788">
+<td id="b-caac2345d1524af88c619acf115a4b86">
+<p id="b-7709aabcb24c403d84b3f57f694497e7"></p>
+</td>
+<td id="b-dcebba9e30094a58892adfe2beae411e">
+<p id="b-3809cd5e3bc343b6b211fa92f63892e8"><span style="font-size:15px">《萤火虫之墓》</span></p>
+</td>
+<td id="b-569700e8e5454e208e944d56ac232322">
+<p id="b-8871d5cb63e44af4b830b20e2dce2b50"><span style="font-size:15px">吉卜力工作室、高畑勋</span></p>
+</td>
+<td id="b-5487be22138041d1a48132bf8f0d2ee0">
+<p id="b-c8f554359cad43889619a93626d81f63"><img src="https://km.sankuai.com/api/file/cdn/1625309615/258354277951?&amp;contentType=1&amp;isNewContent=false" width="792" height="555" id="b-3c7fe9413988426c891add60b06cb519" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1625309615/258359839663?&amp;contentType=1&amp;isNewContent=false" width="792" height="555" id="b-6e0fb53344cd401d9c3891ab2f625ad8" alt="原文图片（需学城权限）"></p>
+</td>
+<td id="b-34a82d0967824f85831bffce2111fc41">
+<ol id="b-7d44936290a7437c86e916577c8eea5e">
+<li id="b-6d7bba2775bc46299df2e27a7e992816">清太（哥哥）</li>
+<li id="b-b798841a526c428aa573c5e4ad435f97">节子（妹妹）</li>
+</ol>
+</td>
+</tr>
+<tr id="b-999a8718d7934ffd99f8d80d9474f1d0">
+<td id="b-56405ac9b5054306a2119bad7d50c11d">
+<p id="b-1dd78101ad1a496a93c8a4d76f64b8f4"></p>
+</td>
+<td id="b-46c0474720fb44fcba8a771c2c83670d">
+<p id="b-7e9f3fdf1b224de4b63de39a52338378"><span style="font-size:15px">《GATE奇幻自卫队》（</span>GATE 自卫队于彼地战斗<span style="font-size:15px">）</span></p>
+</td>
+<td id="b-e2dda0f40f7a4b26bae110d424e8b461">
+<p id="b-ecf648ed31c8462f9120e2ac7ed01e63" style="text-align:start"><span style="font-size:15px">柳内巧</span></p>
+</td>
+<td id="b-c4668a8d9141433ea81dbf347d35a111">
+<p id="b-10bd53ce00de42a99614e9c5897e5035"><img src="https://km.sankuai.com/api/file/cdn/1625309615/258357776512?&amp;contentType=1&amp;isNewContent=false" width="74" height="100" id="b-6e0c0116a9e74724a383474b9c5c2c4c" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1625309615/258359362401?&amp;contentType=1&amp;isNewContent=false" width="71" height="101" id="b-fa9e604c428a4ceda4cf6d9d8f97f080" alt="原文图片（需学城权限）"></p>
+</td>
+<td id="b-76f816bbffd6452a8060954b976e0f4a">
+<ol id="b-79f1beb064d741a287c5e4a0a25ed673">
+<li id="b-22bbdb61b1dc476fa10ce3594360c577">
+<p id="b-fdeef361152b4685a91174f2a93ea0b8">萝莉·麦丘利</p>
+<p id="b-a5003e664879421593a540a346e14d8d"><img src="https://km.sankuai.com/api/file/cdn/1625309615/258358492757?contentType=1&amp;isNewContent=false" width="242" height="152" id="b-888f4d346dcb4ffbbdb85a741d8b3e41" alt="原文图片（需学城权限）"></p>
+</li>
+<li id="b-fecde0680c8e4883a7f797660c1c4b73">
+<p id="b-1263ef495e7c446f8598de4b249539d7">蕾莱·拉·勒蕾娜</p>
+<p id="b-cc5bfc0e48c24e28b66f140dad63350b"><img src="https://km.sankuai.com/api/file/cdn/1625309615/258353636224?contentType=1&amp;isNewContent=false" width="536" height="469" id="b-a4c6e314d3ae43c885891a302f3124b2" alt="原文图片（需学城权限）"></p>
+</li>
+<li id="b-71de367e98cd4c1d81800a9749f4594f">德莉拉</li>
+<li id="b-4fdc614453034578be1ecc2c360bb5e0">伊丹耀司</li>
+</ol>
+<p id="b-e41d0b3655c44830bda30bbbc98d3de0"><img src="https://km.sankuai.com/api/file/cdn/1625309615/258357219924?contentType=1&amp;isNewContent=false" width="820" height="550" id="b-51c130fc0d904f0885003b1950a7b576" alt="原文图片（需学城权限）"></p>
+<ol id="b-bafcebb26c3d4c81b9c5170345853542">
+<li id="b-81002647c6a44bfebb7f7d761f7a869a">
+<p id="b-c244bf37fa834a7c98d0ab95184ba4bf">杜嘉·露娜·马尔席</p>
+<p id="b-0d1ab40157fb4628bfe3de471ddb43e2"><img src="https://km.sankuai.com/api/file/cdn/1625309615/258357537946?contentType=1&amp;isNewContent=false" width="685" height="600" id="b-6130cf36582d44fba56690f8c8852a31" alt="原文图片（需学城权限）"></p>
+</li>
+<li id="b-1b1ecf4bbb264d2187b2294e93698c46">
+<p id="b-d43f5cafcba44a978d87667bee9966e4">栗林志乃</p>
+<p id="b-016e8a10b7df4cbdab9806123900de67"><img src="https://km.sankuai.com/api/file/cdn/1625309615/258357617320?contentType=1&amp;isNewContent=false" width="446" height="448" id="b-54893743902246ba87a04c04e236a5e1" alt="原文图片（需学城权限）"></p>
+</li>
+<li id="b-bc93df00abab46eaad63823a5b5439b0">
+<p id="b-67a0c11bad234cd6a65a98c87a746aa0">黑川茉莉</p>
+<p id="b-9133e9e5ae9146dd80c1bda9ce3f1a30"><img src="https://km.sankuai.com/api/file/cdn/1625309615/258354277735?contentType=1&amp;isNewContent=false" width="500" height="437" id="b-83626fdc162a4ff987228c8f489288cb" alt="原文图片（需学城权限）"></p>
+</li>
+</ol>
+</td>
+</tr>
+<tr id="b-c62431d71f464407b305097bc7135950">
+<td id="b-a1f75192246945c580d0b7f0fa8f25f9">
+<p id="b-4eb698a8a4244e23b516c8665f113b70"></p>
+</td>
+<td id="b-6c8a828aed664146ae91fe72456ea0c6">
+<p id="b-d6dcf812a03d437b96fede93498360d5"><span style="font-size:15px">《谭雅战记》（《幼女战记》）</span></p>
+</td>
+<td id="b-0976e395322d449a8b052d2bc35e736c">
+<p id="b-6206cf3cb5864cb88b3a45bfcb9804bc"><span style="font-size:15px">Carlo Zen</span></p>
+</td>
+<td id="b-bf231a999da74bcda5d22a110a91a7df">
+<p id="b-126ce59088174a96871140d4427e7001"><img src="https://km.sankuai.com/api/file/cdn/1625309615/258357935302?&amp;contentType=1&amp;isNewContent=false" width="454" height="600" id="b-0c3c7581d02246f480432b8d8a992383" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1625309615/258358094998?&amp;contentType=1&amp;isNewContent=false" width="423" height="600" id="b-2900eeaad0c04a238bc66d2d11170302" alt="原文图片（需学城权限）"></p>
+</td>
+<td id="b-84a06f92d48b454fbd804de493638bb4">
+<ol id="b-268274b76b09489d9abb03fe8b5cf11d">
+<li id="b-4a883483ac7646d69b754ec35a9391b7">
+<p id="b-336ac547ef3e4df0b754f8ea23b60716">谭雅·冯·提古雷查夫</p>
+<p id="b-32cfd30ee7da47378043212d4808042b"><img src="https://km.sankuai.com/api/file/cdn/1625309615/258358253011?contentType=1&amp;isNewContent=false" width="48" height="83" id="b-3bceee233c5047f395e7fc340ae2d61c" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1625309615/258357219923?contentType=1&amp;isNewContent=false" width="46" height="64" id="b-35620d7b65c74ef1b7bbd1e9df6cc01c" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1625309615/258359839294?contentType=1&amp;isNewContent=false" width="576" height="324" id="b-d3c275b4941e422098d94cd35ffdebf8" alt="原文图片（需学城权限）"></p>
+</li>
+<li id="b-b61d9b3755a649c884bd0ff19193c6da">
+<p id="b-cade621a4ece490ca14c3febd30fbe5c">汉斯·冯·泽图尔</p>
+<p id="b-35692488fd934abf8a4eb9c9b2c4f5b5"><img src="https://km.sankuai.com/api/file/cdn/1625309615/258354917369?contentType=1&amp;isNewContent=false" width="213" height="284" id="b-3253c69493c049078862ce0d8b1408f0" alt="原文图片（需学城权限）"></p>
+</li>
+<li id="b-c67d4ad9206842408185a48f4d7326c6">
+<p id="b-4709bbeba799443b8c04c5a767f73b58">维多利亚·伊娃诺娃·谢列布里亚科夫</p>
+<p id="b-8ef6d57a3fe44526a3ca05baee9dc93b"><img src="https://km.sankuai.com/api/file/cdn/1625309615/258357140393?contentType=1&amp;isNewContent=false" width="213" height="284" id="b-71c8f1dc09a34ee0933b72a3ea634406" alt="原文图片（需学城权限）"></p>
+</li>
+<li id="b-ca1fabeb642a4d669aa35676e965f4ed">埃里希·冯·勒尔根<img src="https://km.sankuai.com/api/file/cdn/1625309615/258354597348?contentType=1&amp;isNewContent=false" width="213" height="284" id="b-819ab047d969426ea1925ca25a99e03a" alt="原文图片（需学城权限）"></li>
+<li id="b-96e50169eb09403390053e107260067b">
+<p id="b-c7b8b75182a940ab95dca82fcbe6bf8a">库尔特·冯·鲁德斯道夫</p>
+<p id="b-0f5d9bc1c3eb4861bebeed2c5f010358"><img src="https://km.sankuai.com/api/file/cdn/1625309615/258353317757?contentType=1&amp;isNewContent=false" width="405" height="600" id="b-d6663459b1c94cefb1fb6bced33e9f54" alt="原文图片（需学城权限）"></p>
+</li>
+<li id="b-c2238ea5d3e04378b50bfe95e4051489">
+<p id="b-8d0b5348125d4379b62853df5fce96eb">玛丽·苏</p>
+<p id="b-e188af6dd2834f14a17ac61c9bf031a6"><img src="https://km.sankuai.com/api/file/cdn/1625309615/258357140392?contentType=1&amp;isNewContent=false" width="617" height="310" id="b-6aa68a068bad463ea44504fe0bded46a" alt="原文图片（需学城权限）"></p>
+</li>
+</ol>
+</td>
+</tr>
+<tr id="b-29814dd0729b4c279c5279fdbf5759c2">
+<td id="b-1c93568eb5044f64ba445d6c875c0585">
+<p id="b-ff569b96a94e4e08b0bea98e1c99e40f"></p>
+</td>
+<td id="b-f6093ed85d7d411f82a3837eada9480b">
+<p id="b-a2201cf221aa42579a719306a9de205f"><span style="font-size:15px">《刀剑乱舞》</span></p>
+</td>
+<td id="b-b780a12345ba442c83530c3c9aeeeaf4">
+<p id="b-8e16931393cf4132a8605c70c27a9b5f"><span style="font-size:15px">株式会社Nitro+、CLARITY STUDIO</span></p>
+</td>
+<td id="b-cd16b8603e1443d5a8733a7c437b15fe">
+<p id="b-9e15b1c582eb438a89ec7cdcd546f3da"><img src="https://km.sankuai.com/api/file/cdn/1625309615/258358411844?&amp;contentType=1&amp;isNewContent=false" width="574" height="600" id="b-4d2d9f7e2e4540d388cff3776c030a6c" alt="原文图片（需学城权限）"></p>
+</td>
+<td id="b-650e432d9f12496f97ba4e6a48641a29">
+<ol id="b-a4ff8595c92243b6b64a44f49c92289b">
+<li id="b-73f9e3d9698d4434a65e45144682bd9d">
+<p id="b-0b7a5fd6aed840fbb8bbcdcefa030022">三日月宗近</p>
+<p id="b-ec11c997e34142c7a6f0219ceec652c3"><img src="https://km.sankuai.com/api/file/cdn/1625309615/258353317754?contentType=1&amp;isNewContent=false" width="352" height="600" id="b-1936c7bfb7eb4641b05742884929a74f" alt="原文图片（需学城权限）"></p>
+</li>
+<li id="b-26afbd615e054b2992dd44aafd875acb">
+<p id="b-91667765425b4bd4959f4cbab6be0725">鹤丸国永</p>
+<p id="b-2b15bb5b457949e2bdaa46294195659b"><img src="https://km.sankuai.com/api/file/cdn/1625309615/258358333030?contentType=1&amp;isNewContent=false" width="275" height="600" id="b-23ed46ad15ac473ea4f0d08289c3457c" alt="原文图片（需学城权限）"></p>
+</li>
+<li id="b-7e6326a01d664823bed39cd62e5a6017">
+<p id="b-4a929db5a69441f2ae1284254bacf432">山姥切国广</p>
+<p id="b-147f85111ca543e18618ef68ab282735"><img src="https://km.sankuai.com/api/file/cdn/1625309615/258357696699?contentType=1&amp;isNewContent=false" width="101" height="149" id="b-fac7639d7edd4c7099c8b0f4a5c17934" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1625309615/258358253010?contentType=1&amp;isNewContent=false" width="342" height="584" id="b-822338ef78c54324ab2591d4a4fa6836" alt="原文图片（需学城权限）"></p>
+</li>
+<li id="b-588f02623ca1424eaccb3fb5fa81dfde">
+<p id="b-b910079aeb1848ab8affa9d92d6f63e6">加州清光</p>
+<p id="b-6fe6a5962c46485eb3d7548e41508e00"><img src="https://km.sankuai.com/api/file/cdn/1625309615/258359043326?contentType=1&amp;isNewContent=false" width="376" height="531" id="b-3aefc31776594a99a4325a251dda4313" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1625309615/258357140390?contentType=1&amp;isNewContent=false" width="250" height="244" id="b-05b2a8645d1c42b2813e7f6185025746" alt="原文图片（需学城权限）"></p>
+</li>
+<li id="b-e80380111c924b4084dfb46ea308ab14">大和守安定<img src="https://km.sankuai.com/api/file/cdn/1625309615/258358883513?contentType=1&amp;isNewContent=false" width="147" height="299" id="b-9a4c642886054bc29cb78f68acf117b0" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1625309615/258359520210?contentType=1&amp;isNewContent=false" width="200" height="280" id="b-eafa391c073a42f49e282dbaed3e8a86" alt="原文图片（需学城权限）"></li>
+<li id="b-79641f62539b43c1960388c0a35314cc">
+<p id="b-5eae4e7e973946a0a7bb5cf7302e96db">烛台切光忠</p>
+<p id="b-b2b425a279d64b1c9ac528e9ab71c688"><img src="https://km.sankuai.com/api/file/cdn/1625309615/258359839296?contentType=1&amp;isNewContent=false" width="354" height="564" id="b-25a325e0b1224a48b0d372a6b46f2ff2" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1625309615/258358411843?contentType=1&amp;isNewContent=false" width="199" height="278" id="b-2b40c116f4dc486d80eb10e92a766687" alt="原文图片（需学城权限）"></p>
+</li>
+<li id="b-d5d12bbcb852408e86ac52ba7b68aac4">
+<p id="b-2aa272dcfcbf4136890560576c276a32">大俱利伽罗</p>
+<p id="b-2a7d7af7882346efb6a26ee2b74bf12a"><img src="https://km.sankuai.com/api/file/cdn/1625309615/258357060302?contentType=1&amp;isNewContent=false" width="200" height="280" id="b-7e6280273017459aa80119a7ae6939fa" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1625309615/258359043329?contentType=1&amp;isNewContent=false" width="335" height="597" id="b-4f5b6228a3f346eb8e69cbf858740e38" alt="原文图片（需学城权限）"></p>
+</li>
+<li id="b-b539fc5519524bdcb999a3d5ef29046c">
+<p id="b-c4c70fee6c264c928fcb8878acc9a0f0">太鼓钟贞宗</p>
+<p id="b-e0d78e935b484ea4ae73eb6abedb6cd2"><img src="https://km.sankuai.com/api/file/cdn/1625309615/258352999037?contentType=1&amp;isNewContent=false" width="200" height="278" id="b-67c821ec100e4a9894242fb64db969d3" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1625309615/258358174774?contentType=1&amp;isNewContent=false" width="217" height="299" id="b-b5a3fc3895cf4d758205aa181fc628db" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1625309615/258355235018?contentType=1&amp;isNewContent=false" width="162" height="311" id="b-a673788e40c64a7eaca11e97b86aff3d" alt="原文图片（需学城权限）"></p>
+</li>
+<li id="b-d9bc0e22c6d24933b19d3caf23da3bc0">
+<p id="b-0022ae251d104c3585c020432f1ff129">髭切</p>
+<p id="b-2914ce0d3fa940139299ace8fe08ba19"><img src="https://km.sankuai.com/api/file/cdn/1625309615/258354917096?contentType=1&amp;isNewContent=false" width="200" height="280" id="b-18820ee66efd487aa09c38b8e167c9d4" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1625309615/258358252898?contentType=1&amp;isNewContent=false" width="132" height="300" id="b-073305750108463281822a62aed547c0" alt="原文图片（需学城权限）"></p>
+</li>
+<li id="b-832a43090e6947b4bc6fc7cbba524520">
+<p id="b-2af3171a011641f79fe4fec7354da8a4">膝丸</p>
+<p id="b-ff2e30a9a046430cbec4817f88e66f01"><img src="https://km.sankuai.com/api/file/cdn/1625309615/258358564794?contentType=1&amp;isNewContent=false" width="375" height="533" id="b-f2820db29c5d460787f43a1b7c5ccc17" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1625309615/258353958441?contentType=1&amp;isNewContent=false" width="181" height="279" id="b-74212b08d5c84218864e9acf846f2570" alt="原文图片（需学城权限）"></p>
+</li>
+<li id="b-d44cc2b3427443b0a771cc0a06df84a4">
+<p id="b-3a0538e186274b35b4bdbcd67f6f32e1">药研藤四郎</p>
+<p id="b-546411cd568242a18721e67bdf49e0d6"><img src="https://km.sankuai.com/api/file/cdn/1625309615/258353317495?contentType=1&amp;isNewContent=false" width="400" height="600" id="b-a5856ff5a5664c0086f3449bc91658cd" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1625309615/258354277447?contentType=1&amp;isNewContent=false" width="200" height="280" id="b-afee2ebb77464999bc9803fbcecb0863" alt="原文图片（需学城权限）"></p>
+</li>
+<li id="b-c24fbff0747d4c32aca93684be009aa0">
+<p id="b-f62ec10dc9cf4da68058a1bdcc77c078">压切长谷部</p>
+<p id="b-55e3865b6fbf4d8882e64cf7c09b121b"><img src="https://km.sankuai.com/api/file/cdn/1625309615/258359998391?contentType=1&amp;isNewContent=false" width="200" height="280" id="b-4845148cdfbe493e86a0daa0f89ddda6" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1625309615/258357140290?contentType=1&amp;isNewContent=false" width="446" height="600" id="b-bd77c40b907648e4ba44d219e9701b02" alt="原文图片（需学城权限）"></p>
+</li>
+<li id="b-78d08e9548c4434e98cff98b3b34ab37">
+<p id="b-45179010f2a946738d6e34805a625800">山姥切长义</p>
+<p id="b-251cc0e92e744fca8c3b3cfbeca3f3af"><img src="https://km.sankuai.com/api/file/cdn/1625309615/258358411730?contentType=1&amp;isNewContent=false" width="200" height="284" id="b-b498d0dd6a4248a3bfaf80bad71618ea" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1625309615/258359361873?contentType=1&amp;isNewContent=false" width="169" height="298" id="b-23f42a3117574fecb7bf180f4c1aca8f" alt="原文图片（需学城权限）"></p>
+</li>
+</ol>
+</td>
+</tr>
+<tr id="b-1d8e65eb463348ebab5fe76cd812b92a">
+<td id="b-9ca999aee54c438384aebdcccf110933">
+<p id="b-ed7c3faa64ce4fd7a5b4688f8bc5287e"></p>
+</td>
+<td id="b-d594606b8f24422580dd089c6ee4d415">
+<p id="b-0a6752e1261245289efd9d788371e39a"><span style="font-size:15px">《我的英雄学院》</span></p>
+</td>
+<td id="b-90c973b6f4b74213934a14a3afb47185">
+<p id="b-eadf4bba65834b9b80069500329576b5" style="text-align:start"><span style="font-size:15px">堀越耕平</span></p>
+</td>
+<td id="b-ed41fb976c464755956d0de8d7db6234">
+<p id="b-68e403f68de44cc0b306835b01e629ae"><img src="https://km.sankuai.com/api/file/cdn/1625309615/258357935208?&amp;contentType=1&amp;isNewContent=false" width="800" height="533" id="b-099677b143354a34b17940395e80c457" alt="原文图片（需学城权限）"></p>
+</td>
+<td id="b-dc02f34d425b43edb66576161a252134">
+<ol id="b-36c8dc6cb8124e68911bfd1c2fe56e36">
+<li id="b-f19c3ed7b04b4441a3b1d8b89b6cc426">
+<p id="b-8ade11ff64d74ea8b4edde7fa422b57f">爆豪胜己</p>
+<p id="b-1d17918ba9284d399403a91c8cc416f4"><img src="https://km.sankuai.com/api/file/cdn/1625309615/258353317493?contentType=1&amp;isNewContent=false" width="359" height="557" id="b-d73ea243abff45e287086d96637bd0a5" alt="原文图片（需学城权限）"></p>
+<p id="b-382003a2b0ac4f6da62aa56312dee5b6"><img src="https://km.sankuai.com/api/file/cdn/1625309615/258358411729?contentType=1&amp;isNewContent=false" width="551" height="362" id="b-2eb51de95b4542868d82ea8e25f36e1c" alt="原文图片（需学城权限）"></p>
+</li>
+<li id="b-7fa44be93c304b30bb6204c6f9c02eda">
+<p id="b-4344986a903a4e8a83655c6fdf341b12">绿谷出久</p>
+<p id="b-630c3a8d72f34f219f7e4b3f93b533f2"><img src="https://km.sankuai.com/api/file/cdn/1625309615/258359678793?contentType=1&amp;isNewContent=false" width="300" height="600" id="b-5556374569c543ad8cda7385ca6a3b5e" alt="原文图片（需学城权限）"></p>
+<p id="b-956634ad0a78477cbaa552e6afd5f81e"><img src="https://km.sankuai.com/api/file/cdn/1625309615/258357935205?contentType=1&amp;isNewContent=false" width="398" height="502" id="b-5cb5242600b64a20a18ce8583351e4e0" alt="原文图片（需学城权限）"></p>
+</li>
+<li id="b-938034dfea344f0aba390cab061bd7a0">
+<p id="b-f06b40c3f56049ed9642f346796f7458">轰焦冻</p>
+<p id="b-48c2a6911007409bb17d7a4e4fa1a738"><img src="https://km.sankuai.com/api/file/cdn/1625309615/258359839030?contentType=1&amp;isNewContent=false" width="716" height="600" id="b-ab3ad6948200440384c99792f7e7624a" alt="原文图片（需学城权限）"></p>
+<p id="b-1bcbf9fc872146359ed90040147c427c"><img src="https://km.sankuai.com/api/file/cdn/1625309615/258357457999?contentType=1&amp;isNewContent=false" width="447" height="447" id="b-a46015c4e9674496b66e2746641137f7" alt="原文图片（需学城权限）"></p>
+</li>
+<li id="b-57b47321c4f74cf1ab73c2e127d1ed61">
+<p id="b-1ef40ecdaa984e88b029626899742153">相泽消太</p>
+<p id="b-f55bb84ee1ae4ee7928ad48fef5cdaac"><img src="https://km.sankuai.com/api/file/cdn/1625309615/258357299485?contentType=1&amp;isNewContent=false" width="522" height="600" id="b-ad5396e2275a4b7ca3ce174ff6e35013" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1625309615/258359361869?contentType=1&amp;isNewContent=false" width="219" height="230" id="b-c515fdd0fddc4705bdee85c606759e5e" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1625309615/258357696620?contentType=1&amp;isNewContent=false" width="447" height="447" id="b-b1f1f4ade6ce4d18b5cd8735123e32b9" alt="原文图片（需学城权限）"></p>
+</li>
+<li id="b-aff57745d9d6486ea9676afebbe5f4c9">
+<p id="b-f3c96c21730246f6824a51cea242f05c">切岛锐儿郎</p>
+<p id="b-fa9e800ebd534fe0ac16b858b4648d21"><img src="https://km.sankuai.com/api/file/cdn/1625309615/258357856107?contentType=1&amp;isNewContent=false" width="180" height="280" id="b-6b5935e8b46c41b4a8727c8693ead336" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1625309615/258354597092?contentType=1&amp;isNewContent=false" width="539" height="356" id="b-bbbea5a0ff914fb89b60353904a2d7db" alt="原文图片（需学城权限）"></p>
+</li>
+<li id="b-b8778d423a174c07bc7f7ecf23bdd399">
+<p id="b-8974cae038794ad59d186589f3f246dc">轰炎司（安德瓦 / 奋进人）</p>
+<p id="b-f863336017c24f6baab3ec938277f96a"><img src="https://km.sankuai.com/api/file/cdn/1625309615/258354277445?contentType=1&amp;isNewContent=false" width="535" height="594" id="b-10a284a911c7488f9e099fd2831581c4" alt="原文图片（需学城权限）"></p>
+</li>
+<li id="b-b36806783d944c5791ebd6b2b2910fd1">
+<p id="b-ac88318034a54996a76d4931dee86bb4">鹰见启悟（霍克斯）</p>
+<p id="b-c3799b2a57964640aee7f791673b62ac"><img src="https://km.sankuai.com/api/file/cdn/1625309615/258357299484?contentType=1&amp;isNewContent=false" width="406" height="284" id="b-7bcb198952cc444d80b8058ae4b27af2" alt="原文图片（需学城权限）"></p>
+<p id="b-acf6d57a120346b5bf9ded1c7225d2b1"><img src="https://km.sankuai.com/api/file/cdn/1625309615/258359678789?contentType=1&amp;isNewContent=false" width="350" height="284" id="b-378c72e8ab08430cb4160724e4d0132a" alt="原文图片（需学城权限）"></p>
+</li>
+<li id="b-4e020966be5a42cca503ccff144877a0">
+<p id="b-91974268f9c14d4192a1ad787b7b5b47">轰灯矢（荼昆）</p>
+<p id="b-58ad2fb252364a56940b4286dc803667"><img src="https://km.sankuai.com/api/file/cdn/1625309615/258355235017?contentType=1&amp;isNewContent=false" width="400" height="600" id="b-0b738ea8448b4b8b975e879e1785e602" alt="原文图片（需学城权限）"></p>
+</li>
+<li id="b-0d5a7fb2b7d84dcab50481e450d89f4f">
+<p id="b-a921ad09feab401db3cd981244d9afd1">死柄木吊</p>
+<p id="b-2c639f125b194922a91777cebfe2f18a"><img src="https://km.sankuai.com/api/file/cdn/1625309615/258358332945?contentType=1&amp;isNewContent=false" width="252" height="594" id="b-3e6f1f9afe7942c3b0e3bfece983e5f6" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1625309615/258354917091?contentType=1&amp;isNewContent=false" width="324" height="324" id="b-8f2167e5f3ea4d09bf679be1ff5cba04" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1625309615/258359998387?contentType=1&amp;isNewContent=false" width="473" height="422" id="b-81997a62e59640b9b1e5892c2c971f97" alt="原文图片（需学城权限）"></p>
+</li>
+<li id="b-99f18bb722ab4a6b8ab3da96ff626cad">
+<p id="b-1a8b4be5ef5f4edaa5ecf0e3a152f46f">物间宁人</p>
+<p id="b-83e082923dbe4120aee823fbe4d439b0"><img src="https://km.sankuai.com/api/file/cdn/1625309615/258353958252?contentType=1&amp;isNewContent=false" width="280" height="374" id="b-d560b4588701481f8e61f2af7fb6d8b0" alt="原文图片（需学城权限）"></p>
+</li>
+</ol>
+</td>
+</tr>
+<tr id="b-580e370000544fe8bef7d5456b767701">
+<td id="b-bdbe1601de364a53a20543be79b49acc">
+<p id="b-9b0dc599896e4839b0f2f598db6abac5"></p>
+</td>
+<td id="b-29352bfc2c7948e2b8908eb71573125a">
+<p id="b-c9548f05cf544b4dbe6343319e7c0961"><span style="font-size:15px">《在异世界开拓第二人生》（</span>异世界的二周目人生<span style="font-size:15px">）</span></p>
+</td>
+<td id="b-db8ddda2d4134c3ea63bae4734131c7c">
+<p id="b-47bf7af2c4224966a900754ee689ff4c"><span style="font-size:15px">まいん（Main）</span></p>
+</td>
+<td id="b-61487256791c4be1a72d1279b09ca4ee">
+<p id="b-4cfc771804264ba7970c44770669a749"><img src="https://km.sankuai.com/api/file/cdn/1625309615/258354277195?&amp;contentType=1&amp;isNewContent=false" width="393" height="591" id="b-5b9dd739452d434789279a93c3148cd6" alt="原文图片（需学城权限）"></p>
+</td>
+<td id="b-458c20fcd2934c92a526770a87390988">
+<ol id="b-110c9d7b076641b4a2d15dc48fe8f6a5">
+<li id="b-6af1baa8a6f447f0a95dd189b0fa9631">
+<p id="b-be738f550a17414ebcb5a7455528d24a">功刀莲弥</p>
+<p id="b-6bbee28954d84c81b71b5858533b60dd"><img src="https://km.sankuai.com/api/file/cdn/1625309615/258353317292?contentType=1&amp;isNewContent=false" width="180" height="280" id="b-8574c2b3089242648d3f058fca0b5de8" alt="原文图片（需学城权限）"></p>
+</li>
+<li id="b-98ff099e1d75454789578fd67ffc12ba">
+<p id="b-3852633a52b4414b93c2d3279f9ad627">紫苑·芳·法妲尔</p>
+<p id="b-1a4fd1f213314fb0a771a26a898e64c4"></p>
+</li>
+<li id="b-2f00ed8025ac4f0a99571d671949b2f6">
+<p id="b-4336c40b268d4e5ca02c04b5d9b0c924">罗娜·薛瓦利耶</p>
+<p id="b-e55f65dcccaf4622b7391e70e9437a46"></p>
+</li>
+<li id="b-10f21b4ad623409e88f23dc4cf6ac2c8">
+<p id="b-868e6d9c89864da9ab941b9f897f2136">吉莉艾璐</p>
+<p id="b-81646f6fa94e4386802cc52873da815a"></p>
+</li>
+</ol>
+</td>
+</tr>
+<tr id="b-abcefb7dac3245628de6459d1ffb4d4f">
+<td id="b-1e62249ad6ec42dbbe56ab167c95aece">
+<p id="b-0340330831184d1fb98f6e210bc76292"></p>
+</td>
+<td id="b-3d3d5b6b05ab47479021dd8b4df50cd0">
+<p id="b-a06c7057184d4cb5ad650839ae795931"><span style="font-size:15px">《魔法科高中的劣等生》</span></p>
+</td>
+<td id="b-7bd040ad424d4007aef89284f185a1d4">
+<p id="b-8bdd544e03f54095916d688a0b349d9f" style="text-align:start"><span style="font-size:15px">佐岛勤</span></p>
+</td>
+<td id="b-5c15f3b63de04e4981742c29519ed848">
+<p id="b-186319f701604e42ac830f4a558b132f"><img src="https://km.sankuai.com/api/file/cdn/1625309615/258359202469?&amp;contentType=1&amp;isNewContent=false" width="274" height="402" id="b-66126ff4eb8e4799af4bbd23178aa044" alt="原文图片（需学城权限）"></p>
+</td>
+<td id="b-97d678621a7b4b2e862bffc33ea7c27c">
+<ol id="b-9913a5452e2c4897a940f50eb2a32a10">
+<li id="b-80b56933325a4b03a1528a96a8fd6871">
+<p id="b-23a27d6acbce4c8495585a07c6fc3cda">司波达也</p>
+<p id="b-e02cc72508a04be9be17a7417435bd60"><img src="https://km.sankuai.com/api/file/cdn/1625309615/258358724084?contentType=1&amp;isNewContent=false" width="38" height="57" id="b-68d12f2009804d2c80ed6a620efc1d4a" alt="原文图片（需学城权限）"></p>
+</li>
+<li id="b-c1ec57314abe4d1dae4079519122d833">司波深雪<img src="https://km.sankuai.com/api/file/cdn/1625309615/258359361651?contentType=1&amp;isNewContent=false" width="43" height="61" id="b-0d7138b59ebb4a1eb071a4bb9cf41773" alt="原文图片（需学城权限）"></li>
+<li id="b-8b48de6e7c8a4f4fafd9813832a40fd4">七草真由美<img src="https://km.sankuai.com/api/file/cdn/1625309615/258357537726?contentType=1&amp;isNewContent=false" width="30" height="43" id="b-a2ceeebec9fd486db04964ae87a13258" alt="原文图片（需学城权限）"></li>
+<li id="b-348dbc6310b64526bbf05dc94bf9b1d3">
+<p id="b-d4e0cfa1b00546d290ab2aa4523541e8">北山雫</p>
+<p id="b-141f50a668324eddab5590c24895a80d"><img src="https://km.sankuai.com/api/file/cdn/1625309615/258359678581?contentType=1&amp;isNewContent=false" width="36" height="54" id="b-11184e02521c4c91a8652b85165e4517" alt="原文图片（需学城权限）"></p>
+</li>
+<li id="b-a7e7c4f44c434f9291f0ba82e2fad336">光井穗香<img src="https://km.sankuai.com/api/file/cdn/1625309615/258357617091?contentType=1&amp;isNewContent=false" width="45" height="65" id="b-297812635b9647cd9da36f0a37a173fe" alt="原文图片（需学城权限）"></li>
+<li id="b-9e2d5c2d2aa546eb982f28e1889c3a86">千葉艾莉卡<img src="https://km.sankuai.com/api/file/cdn/1625309615/258357059993?contentType=1&amp;isNewContent=false" width="56" height="78" id="b-bb5f48a1fd804cfd8719fadbc6fb5517" alt="原文图片（需学城权限）"></li>
+<li id="b-82ed618302e94385b2f25ec4316563f0">
+<p id="b-defa1703b8334218adc6dbd811f201c2">一条将辉</p>
+<p id="b-296255d484c0483cbe6c29d8aa22f586"><img src="https://km.sankuai.com/api/file/cdn/1625309615/258358724094?contentType=1&amp;compress=@111w_1l&amp;isNewContent=false" width="44" height="44" id="b-9a48277ff1674a68ad7307b1df78d127" alt="原文图片（需学城权限）"></p>
+</li>
+<li id="b-c5e5012db55441a3aadae75192383d69">
+<p id="b-03f457cd095942aaabf449351535472b">渡边摩利</p>
+<p id="b-c6eab958e5d246d4a87be9ac33fb1e38"><img src="https://km.sankuai.com/api/file/cdn/1625309615/258357457876?contentType=1&amp;compress=@117w_1l&amp;isNewContent=false" width="47" height="47" id="b-51cbf3a6d8c140ce820b130b4bdf811f" alt="原文图片（需学城权限）"></p>
+</li>
+</ol>
+</td>
+</tr>
+<tr id="b-c156155082084228ba0948bbb65260d3">
+<td id="b-579273b397e442cf845974c023fd9b6d">
+<p id="b-34579f6f6f3f45018505a9b728301c18"></p>
+</td>
+<td id="b-5aab995a6320495694416dca4128a5f6">
+<p id="b-7617020d68dc4595b9d68e22d385d226"><span style="font-size:15px">《不存在的站区》（86—不存在的战区—、86—不存在的地域—）</span></p>
+</td>
+<td id="b-c9ecda6f80d346b38819eaad8d27970f">
+<p id="b-a81bf35c5ce54dcd9025cbbe8c9baa7e"><span style="font-size:15px">安里朝都</span></p>
+</td>
+<td id="b-790c5f0124544216bfaddb55d2c707a6">
+<p id="b-464cdcd2fe5a4df5af0078f59a1783a6"><img src="https://km.sankuai.com/api/file/cdn/1625309615/258358564557?&amp;contentType=1&amp;isNewContent=false" width="437" height="600" id="b-6243ea47e22a42d99adddd20ad4d3157" alt="原文图片（需学城权限）"></p>
+</td>
+<td id="b-2c182827824e4ba8b04df6c15679d6ce">
+<ol id="b-73f1c645e4c44b24adcd4c489639433a">
+<li id="b-7815170fc1d048bab006c4146a737d67">辛艾·诺赞<img src="https://km.sankuai.com/api/file/cdn/1625309615/258359998180?contentType=1&amp;isNewContent=false" width="49" height="124" id="b-f213bce5d9bd4225a93b298457bb64ef" alt="原文图片（需学城权限）"></li>
+<li id="b-d0064e9679f041259fa5dc4d593b7602">
+<p id="b-2582a9ec6d8841f7882510a0ecf1c995">芙拉迪蕾娜·米利泽</p>
+<p id="b-9ddde7af924b418f868f603a5a30ecb0"><img src="https://km.sankuai.com/api/file/cdn/1625309615/258359998178?contentType=1&amp;isNewContent=false" width="52" height="131" id="b-67ba98750d69427387cf1af94ecfe7c5" alt="原文图片（需学城权限）"></p>
+</li>
+<li id="b-249e0e8ee08c4bb9b2fa88812a987642">莱顿·修贾<img src="https://km.sankuai.com/api/file/cdn/1625309615/258357855987?contentType=1&amp;isNewContent=false" width="56" height="118" id="b-43e4634796374f8b9160a1cd582447bb" alt="原文图片（需学城权限）"></li>
+<li id="b-11ff2d84eda34fde9a56872d0480fed8">
+<p id="b-4f0b6f6566b64eaaab2a89feb051dead">菲多</p>
+<p id="b-45c4cf7eea8e40d69ff89076ae9ad845"><img src="https://km.sankuai.com/api/file/cdn/1625309615/258358724078?contentType=1&amp;isNewContent=false" width="100" height="100" id="b-52188a406432475b81c444ef334c9861" alt="原文图片（需学城权限）"></p>
+</li>
+<li id="b-f62759ded7d14b77bdd010196e53307f">安琪·艾玛<img src="https://km.sankuai.com/api/file/cdn/1625309615/258357140169?contentType=1&amp;isNewContent=false" width="100" height="100" id="b-20b7bf7e36b84a77a0db6536c88b2ed1" alt="原文图片（需学城权限）"></li>
+</ol>
+</td>
+</tr>
+<tr id="b-67cc010913e54ba3b6271554d833ab90">
+<td id="b-ff5090767878492a96eb788f9e3243b8">
+<p id="b-3220a178b9494e8789cd62ee2f36678f"></p>
+</td>
+<td id="b-fb1b93f8f9dd4377a3bf3494beebae70">
+<p id="b-dba64fdd56f94a459489a81588613543"><span style="font-size:15px">《你想活出怎样的人生》</span></p>
+</td>
+<td id="b-11bf9c4c540c4e868cc56c068f922e81">
+<p id="b-d198b7d469de48c3bbe6e3d03ed5d47c"><span style="font-size:15px">吉卜力工作室、宫崎骏</span></p>
+</td>
+<td id="b-de2f25595b4345d5be9076a3a99c1c61">
+<p id="b-6745ec16c42d4baab66a336af184007c"><img src="https://km.sankuai.com/api/file/cdn/1625309615/258357219717?&amp;contentType=1&amp;isNewContent=false" width="532" height="600" id="b-5c81473e8af444c197a074af649ac5cb" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1625309615/258358332805?&amp;contentType=1&amp;isNewContent=false" width="414" height="600" id="b-7e46cb7a496045dd85483407f4bee51d" alt="原文图片（需学城权限）"></p>
+</td>
+<td id="b-40392ed94df5475c9e564182bf8e8682">
+<ol id="b-3f6c4f655c6d4752b322ba7c939f8813">
+<li id="b-b2c948a731854c82b43ab6b0c676a79a">
+<p id="b-c780a646df4e417a9e40ec57eee6fba5">苍鹭 / 苍鹭男</p>
+<p id="b-bcc560e99d8a480e8fa7564eb0fd8733"><img src="https://km.sankuai.com/api/file/cdn/1625309615/258358492405?contentType=1&amp;isNewContent=false" width="100" height="100" id="b-0d90cce271fd4481b95608d7370145ea" alt="原文图片（需学城权限）"></p>
+</li>
+<li id="b-ecb74656595f42fe94378942b8ee1642">
+<p id="b-f940e3dd17634acd9796a82834c7c582">火美</p>
+<p id="b-8392e5e5557643db95cc2d3745c8ffb6"><img src="https://km.sankuai.com/api/file/cdn/1625309615/258359678582?contentType=1&amp;isNewContent=false" width="100" height="100" id="b-de739bfcc7ed475b8b3f5dd813db3aa0" alt="原文图片（需学城权限）"></p>
+</li>
+<li id="b-701d9010d13448f1b2464d3579cc3911">
+<p id="b-47306df6a9c84347bb6603420edea8b4">牧真人</p>
+<p id="b-2b1ccede273046009493cad62a5f91c2"><img src="https://km.sankuai.com/api/file/cdn/1625309615/258359042872?contentType=1&amp;isNewContent=false" width="100" height="100" id="b-3eea781883cc4e44a0ff08a1793e8388" alt="原文图片（需学城权限）"></p>
+</li>
+<li id="b-2421d71bf8234a428e33e8bb0e86754b">
+<p id="b-64cae67ac00c483fb5d62ae047bc265a">雾子</p>
+<p id="b-9d6cd8c42615409ead987c6f4e7fdb1c"><img src="https://km.sankuai.com/api/file/cdn/1625309615/258354916846?contentType=1&amp;isNewContent=false" width="100" height="100" id="b-1cd4643b01e746ecb3978ae0607b42d0" alt="原文图片（需学城权限）"></p>
+</li>
+</ol>
+</td>
+</tr>
+<tr id="b-b8e7271b4b364150afaede97bb6e10b6">
+<td id="b-5ba13f3bfa294333b73486cda465f871">
+<p id="b-c73a2a8bd00d4075b8f476e0d6672a69"></p>
+</td>
+<td id="b-ed1936218ec34d0780663b791bbce852">
+<p id="b-2273b293062b46c7b79a57c9db5b1285"><span style="font-size:15px">《进击的巨人》</span></p>
+</td>
+<td id="b-5147babfcafc49049b9e760c4eddd3f9">
+<p id="b-60151432775b4a2987f37ac390ec28e9">漫画：谏山创</p>
+<p id="b-82d38f4532c54077a3e2d798dde007ec">动画：荒木哲郎</p>
+</td>
+<td id="b-99934c7737504fca83874813cf41c392">
+<p id="b-fc952a741d4b4d8582e92787836d3bc7"><img src="https://km.sankuai.com/api/file/cdn/1625309615/258357219714?contentType=1&amp;isNewContent=false" width="255" height="381" id="b-33bb13580969455fba9b9c34591bec6a" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1625309615/258353635748?contentType=1&amp;isNewContent=false" width="759" height="378" id="b-35b6d6c0df2a4a18bb7a13bc5b599376" alt="原文图片（需学城权限）"></p>
+</td>
+<td id="b-f55d089527494e66aa5a3c4ec871b4a2">
+<ol id="b-a6001cb8b56f4871b56364c4b1674463">
+<li id="b-d91c59b166e44556a7b799d390f9e78e">
+<p id="b-9036f29c0f2044dda3e263ee885c98be">艾伦·耶格尔</p>
+<p id="b-5ffc8c75812b466bbaa6f246ae4ebf1f"><img src="https://km.sankuai.com/api/file/cdn/1625309615/258357696494?contentType=1&amp;isNewContent=false" width="280" height="400" id="b-4936c137e3074faaba48a2bdd2c785ea" alt="原文图片（需学城权限）"></p>
+</li>
+<li id="b-b7d1f224d1024466bcc9f6c5fb8583a6">
+<p id="b-3684ef4fa0604067a76cb4d0b42b5923">三笠·阿克曼</p>
+<p id="b-3624b15329124274a4afbbfefa1d3f73"><img src="https://km.sankuai.com/api/file/cdn/1625309615/258358014322?contentType=1&amp;isNewContent=false" width="61" height="152" id="b-e9abfee5506e41dbbe13f2e433d7396f" alt="原文图片（需学城权限）"></p>
+</li>
+<li id="b-4449bfd81d7541309e379b4bfbbc0ef2">
+<p id="b-5300e6bc646040b698ecef07d557fbef">埃尔文·史密斯</p>
+<p id="b-e64217004cde448a81108c9bcdf64d4b"><img src="https://km.sankuai.com/api/file/cdn/1625309615/258359361634?contentType=1&amp;isNewContent=false" width="447" height="447" id="b-b277ce38f82245ba8dfe5438d8025efd" alt="原文图片（需学城权限）"></p>
+</li>
+<li id="b-6fec59e56c0949939b4befc98b9ddb6b">
+<p id="b-516878ecc6124812918f0803cd0a3a2d">利威尔·阿克曼</p>
+<p id="b-f31f593e61b44292bd672c3cba16d6ca"><img src="https://km.sankuai.com/api/file/cdn/1625309615/258359838782?contentType=1&amp;isNewContent=false" width="393" height="508" id="b-3625e9cb94584985838a632516fcb3da" alt="原文图片（需学城权限）"></p>
+</li>
+</ol>
+</td>
+</tr>
+</table>
+</div>
+</details>
+</li>
+</ol>
+</li>
+</ol>
+<p id="b-2f6e23a5bc1143079d5ed317ab5c9c9c"></p>
+<p id="b-c952a924edf243d1b79a5593bd5f2c41"><span style="color:rgb(0, 186, 115)"><span style="font-size:15px"><strong>豁免</strong></span></span></p>
+<ol id="b-d60a2afd580b4e0ca624e277cdb00888">
+<li id="b-15011ec496e740e2bf899438a4cce049"><span style="font-size:15px">批判法西斯/军国主义/纳粹的内容；</span></li>
+<li id="b-c72a8a92bc8a4fea98053c5f5512053a">《起风了》非明确指向毒动漫作品时；</li>
+</ol>
+</td>
+<td id="b-c86a068c5c4044bfb2a231bd47190fb1">
+<ol id="b-dca1f8141fc94e89bb774892da1f4c71">
+<li id="b-d60b5858be0743ab89f1c8e2d24f4880"><span style="color:rgb(15, 20, 25)"><span style="font-size:15px">“乌克兰“雅利安人”与纳粹党徽和“新纳粹分子”愉快地合影，一切都很美好......</span></span></li>
+<li id="b-6f0815b27d13470cafb135ff82ddfc8f">
+<p id="b-606d01dd34404f568017b65fbccf086f" style="text-align:start"><span style="font-size:15px">只有美国人的血脉是至高无上的，黑人尽管说跟上了科技的发展，但是智力不如白人。</span></p>
+</li>
+</ol>
+</td>
+<td id="b-c8f75b7f2b8d4676841b895d568d30f8">
+<ol id="b-89df9e41cdda4f32827048d58a5dce0e">
+<li id="b-25f9335c6d064ea2bee5e7ec3f2dfe14">
+<p id="b-40ca235ef1ad40ed920d67f792c87608">法西斯标志</p>
+<ul id="b-2af3fdd9664442e09e586ce6627a5616">
+<li id="b-10ed453e7279498ab0f3de40f360785e"><img src="https://km.sankuai.com/api/file/cdn/1625309615/234766663170?&amp;isNewContent=false&amp;contentType=1" width="130" height="87" id="b-5f6b166139f5406a9c79c452afbd5024" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1625309615/234764594613?&amp;isNewContent=false&amp;contentType=1" width="89" height="86" id="b-83b4e900d7d542ff9bbbc90ea5b5c274" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1625309615/234766823272?&amp;isNewContent=false&amp;contentType=1" width="149" height="83" id="b-b1fe83bf28bd4c3aae86b0d99870e097" alt="原文图片（需学城权限）"></li>
+</ul>
+<p id="b-c5df28cbfcf54f14b66844e6f23b3cda"></p>
+</li>
+</ol>
+<p id="b-43b8539cb81640a0963f2829c7c3e834"></p>
+</td>
+<td id="b-a3c386dbbb3f45cfa2447c54604fa284">
+<p id="b-d79a59b00d584f3ea223dbd50103c147"></p>
+</td>
+</tr>
+<tr id="b-07958fa54b7d4ef7ae29282cbc2656ac">
+<td id="b-7ca033e1555c435ea20403188b7f4229">
+<p id="b-5b5c009114e9489fb4456c353de413ac"></p>
+</td>
+<td rowspan="2" id="b-7468c0c262534b21a672e11031362d25">
+<h3 id="b-35627c54d1184494b2284ff1d86e8862">其余法西斯相关</h3>
+</td>
+<td id="b-3662b980c45449d0af9c888f945cc8a6">
+<p id="b-27b0ff882eca450cb7f481bf767e8bf2"><span style="color:rgb(255, 74, 71)"><span style="font-size:15px"><strong>打标：</strong></span></span></p>
+<ol id="b-ad4335958be849edb37ec9f88c04c263">
+<li id="b-dfc4eeca68894221ae7aefedbb202074">
+<p id="b-908ff83a36ba40ffbf2adc1f0bf5b2aa"><span style="font-size:15px">涉旭日旗或相似图案</span><sup id="b-ea976343747745ba962c28b6dbae53c6">相似图案：包含圆心（类圆心）以及由圆心发散的条状形图案</sup><span style="font-size:15px">与下列任一元素关联的：</span></p>
+<ul id="b-5d674f882e204e73b8002ed8cb7ad0b1">
+<li id="b-cda32e0025684fc4a2817c4030093037"><span style="color:rgb(0, 0, 0)"><span style="font-size:15px">有旭日：旭日和光芒为红颜色且相邻光芒之间的间隔区域为纯白色</span></span><span style="font-size:15px">或因</span>客观因素<sup id="b-65675e5f79f341dcbd171a3fdce9c32a">客观因素：因贴纸做旧或灯光等影响-呈淡黄色</sup>呈现为淡黄色<span style="font-size:15px"><strong>（三者都需要满足）</strong></span></li>
+<li id="b-fcd51b20fd5e43b38a32e85c0ec3132d"><span style="font-size:15px">无旭日或旭日被遮挡：光芒为红颜色且相邻光芒之间的间隔区域为纯白色或因</span>客观因素<sup id="b-023a7e392dc942f48d200f9f7f9f1310">客观因素：因贴纸做旧或灯光等影响-呈淡黄色</sup>呈现为淡黄色<span style="font-size:15px">与日本元素（日语、浮世绘画风景色、和服，可泛化）关联的。</span></li>
+</ul>
+</li>
+<li id="b-69ec19d975614a8fbf6e6150bb36e10d"><span style="font-size:15px">图案为黑白色场景，根据图片场景信息（如时间、位置地点、人物角色等）可明确为旭日旗旗帜，可从严管控；</span></li>
+</ol>
+<p id="b-25a8834d4a304d798695c549f5469d1a"></p>
+<p id="b-ba8376e424eb4e5b91c3b8662fb59eeb"><span style="color:rgb(0, 186, 115)"><span style="font-size:15px"><strong>豁免：</strong></span></span></p>
+<ol id="b-4b31667ae4884b7fbb584ea5ff74a899">
+<li id="b-626ada7f3932402ab59959d0a6ed1f8e"><span style="font-size:15px">北马其顿共和国国旗；</span></li>
+<li id="b-1b07a4d511094b2d9c1d24e6ef008c5c">
+<p id="b-9b5af8f1ea764704acf7f3794b9e67a8"><span style="font-size:15px">可识别为</span><span style="font-size:15px"><strong>影视剧、剧照</strong></span><span style="font-size:15px">、剧本杀场景中，展示旭日旗；</span></p>
+<details id="b-fa40fcaf3e23480c9cefd3509adfa89b">
+<summary><span style="font-size:15px"><strong>"影视剧、剧照"</strong></span><span style="font-size:15px">判断依据(非穷举)</span></summary>
+<div>
+<p id="b-162a0f8d9385480c98e047e95c0c5c0f"><span style="color:#000"><span style="font-size:15px">不打标:</span></span><span style="font-size:15px">出现台标、视频app标志、剧名、主演信息、宣传语等可明确识别为影视剧/纪录片的元素时</span></p>
+</div>
+</details>
+</li>
+<li id="b-e76859ae0d854212bc14d14d52ed1282"><span style="font-size:15px">旭日关联我国旧时代画报风格图案的；（若关联日本元素则从严管控）</span></li>
+<li id="b-69b86a9002fd42669a09bdf2862de0fd"><span style="font-size:15px">为说明侵华史实，在封面或内页使用旭日旗的历史照片或示意图或绘画作品，揭露军国主义罪行的出版物</span><sup id="b-bc2ec1bdcc7f4c4b9853a238e0c72c6b">出版物：此处出版物仅包含报纸、杂志、图书。</sup><span style="font-size:15px">时；</span></li>
+</ol>
+</td>
+<td id="b-7b8ceedf1cee4eac848e106899b6e78f">
+<p id="b-7eb2b323aae24ff9967af1a8cfa8f94f"></p>
+</td>
+<td id="b-5caafef4e53b4b98b1adb03c27223965">
+<ol id="b-819411739d324c7b88315ead8c50a52e">
+<li id="b-56fc8acc5f7b4922a82c327898aa8cfc">
+<p id="b-a0bb18ee3fbd4a2eb0b965ecd545bd66">旭日旗（日本军旗）           </p>
+<ul id="b-8293c4f58b29470ca5b2cd8c439a09f5">
+<li id="b-201e13098844494fa083974adbbe741d"><img src="https://km.sankuai.com/api/file/cdn/1625309615/234768240600?&amp;isNewContent=false&amp;contentType=1" width="136" height="91" id="b-27866c6d25c841d09b744dd23244b2b7" alt="原文图片（需学城权限）">         </li>
+</ul>
+</li>
+<li id="b-251ef3aaadfa4c06af514dd9782da191">
+<p id="b-d35150aa94ac45a5a9856e87a0063229">红白光芒</p>
+<ul id="b-6c905f384bff4f4f944a54fffc5bc483">
+<li id="b-141ff275e2e14b71b15cdea4ffcdef12"><img src="https://km.sankuai.com/api/file/cdn/1625309615/234766027169?&amp;isNewContent=false&amp;contentType=1" width="49" height="97" id="b-5550440813d246269bf51518cfb796b0" alt="原文图片（需学城权限）"></li>
+</ul>
+</li>
+<li id="b-7e0de451e3bb46c198bba2ae2b9efc44">
+<p id="b-78a677d283884ac4be58ce3165b1e2e9">浮世绘画风/红底旭日          </p>
+<ul id="b-f83a119113384161b96cc71117ed5752">
+<li id="b-1c871100059444b99d72aabdc8645789"><img src="https://km.sankuai.com/api/file/cdn/1625309615/234765707466?&amp;isNewContent=false&amp;contentType=1" width="166" height="122" id="b-dee1ad55d2094094aad7c7e37459d24f" alt="原文图片（需学城权限）">    </li>
+</ul>
+</li>
+<li id="b-c8d96294079b42ea828ad0ccad2ca892">
+<p id="b-d56096e737984abbafe534de0b4af169">旭日相似图案&amp;和服/浮世绘画风</p>
+<ul id="b-c37631462a464b03a32b4d3f7f55af61">
+<li id="b-d97012f9447e48dabdf9d6444ac0a3e7"><img src="https://km.sankuai.com/api/file/cdn/1625309615/234769101162?&amp;isNewContent=false&amp;contentType=1" width="118" height="118" id="b-a9c15619669b42379538104bbfa5d928" alt="原文图片（需学城权限）"></li>
+</ul>
+</li>
+<li id="b-58d5ed8a4f2c4944a8a20cef87676650">
+<p id="b-6b187a6b343349f38cd37b6342967cbb">黑白色场景，旭日旗旗帜</p>
+<ul id="b-9607490fe38f4379a9589f1192756916">
+<li id="b-9aef7fdd83344876b746d2542133b824"><img src="https://km.sankuai.com/api/file/cdn/1625309615/234768320748?&amp;isNewContent=false&amp;contentType=1" width="164" height="93" id="b-2999d8eca5de4367bd54fad1f720234b" alt="原文图片（需学城权限）"></li>
+</ul>
+</li>
+<li id="b-3ff64d62c9454676974deae19c4d804c">
+<p id="b-9d7c99e22334446ca1b23264e9cb0e04">光芒为红+淡黄色（客观原因-实际为旭日图）</p>
+<ul id="b-cb62dfffefe64ad09cd70e1ee26cd2db">
+<li id="b-54676c78063643eb9edf4669f454e516"><img src="https://km.sankuai.com/api/file/cdn/1625309615/262829386207?contentType=1&amp;isNewContent=false" width="139" height="187" id="b-08863375c8f7435c82b54601198d2b03" alt="原文图片（需学城权限）"></li>
+</ul>
+</li>
+</ol>
+<p id="b-dae46d55070348479665acfd60b9aabb"></p>
+</td>
+<td id="b-802de7a1184d4ae99d810dec4ab5ac1f">
+<ol id="b-dce32b79aa0e4db19e90baf94d59af25">
+<li id="b-7d94c0f24f8f4755a07efcce73317f5c">
+<p id="b-297e3d139d4b413d94343cb247d81d63"><span style="color:#000">北马其顿共和国国旗</span></p>
+<ul id="b-2e6604aaca134763bb6a8326e6656055">
+<li id="b-a1183a03c0784d5592e6cb7b77038b7c"><img src="https://km.sankuai.com/api/file/cdn/1625309615/234765548742?&amp;isNewContent=false&amp;contentType=1" width="101" height="50" id="b-34a71938dc9c4103ab0195573935207e" alt="原文图片（需学城权限）"></li>
+</ul>
+</li>
+<li id="b-6407edb593324447b953c91f3e24881e">
+<p id="b-5c870a4673d54d0e846d8c8b5b0e7b10"><span style="color:#000">旧时代画报风餐具</span></p>
+<ul id="b-fe794d36f80b43a2acbaa3ab174a6bc4">
+<li id="b-52aac61ec4fc4ca694504f078361b21c"><img src="https://km.sankuai.com/api/file/cdn/1625309615/234765228443?&amp;isNewContent=false&amp;contentType=1" width="91" height="69" id="b-4f12f5d6c5bf41cfaa4253609b5a8d27" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1625309615/234768400761?&amp;isNewContent=false&amp;contentType=1" width="93" height="73" id="b-224ae611785b4285b15abb86a1226782" alt="原文图片（需学城权限）"></li>
+</ul>
+</li>
+<li id="b-1d2a82520bee42a185813c0eb0d24ce3">
+<p id="b-f63c05f66b4b49de9c1adf60e652afd6"><span style="color:#000">不命中标准对旭日旗</span><span style="font-size:15px">相似图案定义的</span></p>
+<ul id="b-6737d09f78644ec0a23f41d59e074ff5">
+<li id="b-79fee28bc3094126b547b7fb1715d404">
+<details id="b-dc3e6eb692384f0e8d397a960769932a">
+<summary>案例</summary>
+<div>
+<table id="b-7ed03c8611a54a53b25a56928ffa76e1">
+<tr id="b-4176d4219c3540fb84dcdb7a5be69487">
+<td id="b-719e45700df84cb9bb51519684d887ea">
+<p id="b-ff8f836406a74960bd13a4e55baa8d16"><span style="color:#000">旭日光芒均非红色</span></p>
+</td>
+<td id="b-9434482b72234e89b15dd76591a9c14d">
+<p id="b-c64f7af85f714b56966ed2a3dd52966e"><span style="color:#000">无日式元素</span></p>
+</td>
+<td id="b-7a56ad56113f486eb7ec1a2458f207aa">
+<p id="b-8bd44bc3dafd4e63877b92b3fad9b971"><span style="color:#000">底色为红色，无旭日或无日本元素</span></p>
+</td>
+<td id="b-5f2316a94dba49678ee81ec97878c724">
+<p id="b-c0b39d5c34754306aee3044cb78a68ec"><span style="color:#000">有日语元素但图案底色不为红​</span></p>
+</td>
+</tr>
+<tr id="b-d8707b42a3ec42ab9a17aaf9d838ceaf">
+<td id="b-0f9e96e07c94413b8928d24c6dc71b11">
+<p id="b-d769e5a22c064131ac4cbb4708c35a15"><img src="https://km.sankuai.com/api/file/cdn/1625309615/234765548741?&amp;isNewContent=false&amp;contentType=1" width="61" height="72" id="b-2b0aaf2eef0849ac92698fbc68fdcd1c" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1625309615/234768477974?&amp;isNewContent=false&amp;contentType=1" width="189" height="142" id="b-b1281d945d264de0989ca14d64569cca" alt="原文图片（需学城权限）"></p>
+</td>
+<td id="b-58db96ade3b643d083af65e0bad9fb86">
+<p id="b-b1f2817a1ef346ae8b6ce9ab06defb05"><img src="https://km.sankuai.com/api/file/cdn/1625309615/234765228441?&amp;isNewContent=false&amp;contentType=1" width="53" height="73" id="b-ec35c67f67b74f4d938d9f562568b362" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1625309615/234766504180?&amp;isNewContent=false&amp;contentType=1" width="188" height="149" id="b-3048da1c80ae409880ab02f537d25b27" alt="原文图片（需学城权限）"></p>
+</td>
+<td id="b-30ad56b7372e46df8d5c48689899e403">
+<p id="b-03e87ef41ab04828ae98ab36631eff4c"><img src="https://km.sankuai.com/api/file/cdn/1625309615/234767143571?&amp;isNewContent=false&amp;contentType=1" width="51" height="71" id="b-f723c73764e748a2a4057afae85c0810" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1625309615/234764594346?&amp;isNewContent=false&amp;contentType=1" width="144" height="65" id="b-843da8e507a149e184acfd8e0f4fbc03" alt="原文图片（需学城权限）"></p>
+</td>
+<td id="b-cd6ff5094da04a2c8a6d0ceb6e5d21af">
+<p id="b-6bca2152a53341e3bb65434f12944e39"><img src="https://km.sankuai.com/api/file/cdn/1625309615/234764751495?&amp;isNewContent=false&amp;contentType=1" width="69" height="69" id="b-341bfaa6f9ec4a7886109a1f7fb352e3" alt="原文图片（需学城权限）"></p>
+</td>
+</tr>
+</table>
+</div>
+</details>
+</li>
+</ul>
+</li>
+<li id="b-7a989c732a134220a700010145b6017a">
+<p id="b-357b5770032d481c9508a66771e4f99a"><span style="color:#000">揭露罪行阐述史实出版物</span></p>
+<ul id="b-b7542c2ed6964b49b2b0c5d7991a4fc8">
+<li id="b-e51d74d7d16d4a06a344d6eff382a8db"><img src="https://km.sankuai.com/api/file/cdn/1625309615/234764911780?&amp;isNewContent=false&amp;contentType=1" width="235" height="237" id="b-e71e23bd6b204a95bf203708c4b995ff" alt="原文图片（需学城权限）"></li>
+</ul>
+</li>
+<li id="b-753f62cddc014c078323b2f01f70127e">
+<p id="b-014ce195c7c74488b99a979ff78e0018"><span style="color:#000">特殊案例-东极岛电影截图，展示旭日旗不打标</span></p>
+<ul id="b-1ed52ffac5a14f269b6d0613726fd8a9">
+<li id="b-2b5fe31928e34200b7d0c94de665e36d"><img src="https://km.sankuai.com/api/file/cdn/1625309615/234765069393?&amp;isNewContent=false&amp;contentType=1" width="163" height="90" id="b-bd9764c2e5d1459ba6d01fd1a8371f24" alt="原文图片（需学城权限）"></li>
+</ul>
+</li>
+<li id="b-79c394e7f8a84df4834c25a8519a0257">
+<p id="b-ff095b9414564e29ba66a5fae58cdff6"><span style="color:#000">特殊案例-南京照相馆电影截图，展示旭日旗不打标</span></p>
+<ul id="b-2092222a963a4c299d06fbfbe618d9ca">
+<li id="b-f96a443f65474052bf5e3b33d731ea21"><img src="https://km.sankuai.com/api/file/cdn/1625309615/234768240245?&amp;isNewContent=false&amp;contentType=1" width="122" height="91" id="b-f25c18f9af8f48e88081871af9d4b727" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1625309615/234768834976?&amp;isNewContent=false&amp;contentType=1" width="130" height="98" id="b-226da2bf545a41749734d0c610f1ecb7" alt="原文图片（需学城权限）"></li>
+</ul>
+</li>
+</ol>
+</td>
+</tr>
+<tr id="b-fd4009ae3092400aa1f98be17bf35e8b">
+<td id="b-385f57e7911b421bb387c616a053956f">
+<p id="b-24477d2744624bfdb06192e2140e7c7d"></p>
+</td>
+<td id="b-6a9c52be01404bf5b0fbb2335e8bd332">
+<p id="b-6131d7af7a294331b665870bda3f0936"><span style="color:#FF4A47"><span style="font-size:15px"><strong>打标</strong></span></span></p>
+<ol id="b-770e84ea7b3e45ccbb307c93c4240aa8">
+<li id="b-a9ef87affdba47f0bcec07689199ba7f">
+<p id="b-f5fd3c483d784752bb89bb37f3e5abaa"><span style="color:#000"><span style="font-size:15px">涉及军国主义倾向的神社/神宫（见名单）；（注意新仓浅间公园内的“忠灵塔”和“五重塔”）</span></span></p>
+<details id="b-4ca96b4d278941d4bbe81f15b2542b18">
+<summary><span style="color:#000"><span style="font-size:15px">神社名单（神社或神宫称谓均管控，有新增，适用于定义1）</span></span></summary>
+<div>
+<table id="b-73314e99dcd146cab22959047f8c1288">
+<tr id="b-e3b3d0af29d84dac882fc1fb53de00e4">
+<th id="b-f63445c6fc3742479404b3d1d592333c">
+<p id="b-765eef068ecc4071aff847bf7d012940"></p>
+</th>
+<th id="b-ed956db75b904ebd8ae45f93910e1dff">
+<p id="b-6a05cf18522e4b9d847a04cd72218237"><span style="color:#000"><span style="font-size:15px">词条</span></span></p>
+</th>
+</tr>
+<tr id="b-730acefc1dab4162993b67d1c5427f4c">
+<td id="b-42b059cefd7142a3bc848d9781cd9f73">
+<p id="b-ebdf6b78912647aa9ca1c61c7d2e5b73"></p>
+</td>
+<td id="b-adbeda077a53488a8d52c6e45ae2c455">
+<p id="b-e176da7a939d4130b9e7a1395096c2cf"><span style="color:#000"><span style="font-size:15px">兴亚观音院</span></span></p>
+</td>
+</tr>
+<tr id="b-c8a569cf834348ca9138b5067727815a">
+<td id="b-0750128dfec541ba9192bcbb3d004520">
+<p id="b-ad4998ffb8aa4273931341c34d40a43c"></p>
+</td>
+<td id="b-3d5a6c31084545a7b6dde82804cdb061">
+<p id="b-cffd20fe45d5474096a3422b1a49aa09"><span style="color:#000"><span style="font-size:15px">京都灵山护国禅寺</span></span></p>
+</td>
+</tr>
+<tr id="b-ff4af7c6227c4da9afc1a4b365a1ecb4">
+<td id="b-c0f5075fea0a4c818a572ffdd7061715">
+<p id="b-f9fe1d62f7b545359a1934de90fccc20"></p>
+</td>
+<td id="b-4cb7896e781b4091adfea1e27e8368a6">
+<p id="b-cddecb3865d6468ea90511b315409331"><span style="color:#000"><span style="font-size:15px">儿玉神社</span></span></p>
+</td>
+</tr>
+<tr id="b-205c27b37d8f421ead2925aa2ad8435b">
+<td id="b-05c8e0c66cc142f5b6dede4c82c5b1c0">
+<p id="b-36d21114917e41a9995b837e5be87a3d"></p>
+</td>
+<td id="b-5f99984503764eceabca7886f92a4a0c">
+<p id="b-14689ac2d0144fbc9afd24b5bcefd5a5"><span style="color:#000"><span style="font-size:15px">靖国社</span></span></p>
+</td>
+</tr>
+<tr id="b-c5e752414e2f4bddb3d28dc1acf6af52">
+<td id="b-d8cea415eaa34ea7a5096a017ad954d3">
+<p id="b-22853101165041c8a773f40fe92db808"></p>
+</td>
+<td id="b-34c000a663694190a9e5a5034bc42c2d">
+<p id="b-c62c215cd9b8412796b265d2e08b5e01"><span style="color:#000"><span style="font-size:15px">新仓富士浅间</span></span></p>
+</td>
+</tr>
+<tr id="b-e9c29fbc317f4a219f7773922ff447fb">
+<td id="b-15dfb057951b4e7faac73bea47688de5">
+<p id="b-ff108109f0784511a7d2e127c4f7d409"></p>
+</td>
+<td id="b-9ba5b17aff0e4202b2a63fad8ced24b8">
+<p id="b-bea10d05b9004b63870f845789b92d3f"><span style="color:#000"><span style="font-size:15px">靖国神</span></span></p>
+</td>
+</tr>
+<tr id="b-227bd25438894a2ca42250d85e404c13">
+<td id="b-132b90950c2f4c9585cb66cb3d3522cd">
+<p id="b-cd30c3a5385c4c569fe2bf13a5b78627"></p>
+</td>
+<td id="b-3ca6dd39e2924290a07092269f058e34">
+<p id="b-b968b8a8c233405ba455557f940ba9db"><span style="color:#000"><span style="font-size:15px">巨衫神社</span></span></p>
+</td>
+</tr>
+<tr id="b-3fffe1e0fa574dd1a91c38028af5bd74">
+<td id="b-f764517b8acc4d2bbf513279e3180158">
+<p id="b-da8e63fd2040411bbc32b6b1ed727ec0"></p>
+</td>
+<td id="b-88f86f4925eb4d8b97fa014a492069c7">
+<p id="b-671065e54c37468382ae1a7e74003f78"><span style="color:#000"><span style="font-size:15px">新仓浅间神社</span></span></p>
+</td>
+</tr>
+<tr id="b-d05d9d57a6eb4e0db06a23b9b8e39fe8">
+<td id="b-1538a7fb29494e119d6a8586177c1ee6">
+<p id="b-0e92293086a647f3a72268b0667d8e3b"></p>
+</td>
+<td id="b-81a63a1c3f4340c59ae31640f97af1ad">
+<p id="b-92bcbef2ac884799b258a8e52b84543e"><span style="color:#000"><span style="font-size:15px">熊本县神社</span></span></p>
+</td>
+</tr>
+<tr id="b-8cd900952d034a0abcc7b0046fb1f4d1">
+<td id="b-72ef88acfac04da8874f3e93f139b03f">
+<p id="b-8b4ac26d284d41fead2b79f32141a2f2"></p>
+</td>
+<td id="b-020fd25ef7d044749cd6ebe080176700">
+<p id="b-92b5af91d9594472a899fda385e31513"><span style="color:#000"><span style="font-size:15px">南洲神社</span></span></p>
+</td>
+</tr>
+<tr id="b-70e7e079d2614f199d9dda08a1a28081">
+<td id="b-f985b47c20964bbca7c29741cb80f2f4">
+<p id="b-5731fff2f31b499b83c1628eab2d265b"></p>
+</td>
+<td id="b-16d5e55f5a054b3b84fe296c2fd48c0d">
+<p id="b-1fd5059510e440e0b36970fc562a13a5"><span style="color:#000"><span style="font-size:15px">京都灵山神社</span></span></p>
+</td>
+</tr>
+<tr id="b-c043f4ec89ff403b8874d7c28f889f83">
+<td id="b-9a077cfab04a448ebd7992b73415af12">
+<p id="b-29071915651242c9ad0a9b090bdceb66"></p>
+</td>
+<td id="b-27884ac115044ee2a1c57978c4f9375f">
+<p id="b-17cd45ee54a24d86b64ade93ab4d746d"><span style="color:#000"><span style="font-size:15px">东乡神社</span></span></p>
+</td>
+</tr>
+<tr id="b-a1f661a72d504cee99a410911c9f07a9">
+<td id="b-1eccb8976bcc476684975f4448659b85">
+<p id="b-1bf991beb66e43088209760252f59060"></p>
+</td>
+<td id="b-214d07dd60864a189c16b6cc1f24566d">
+<p id="b-bb6961dca3354315ba74024f6e278146"><span style="color:#000"><span style="font-size:15px">熊本县护国神社</span></span></p>
+</td>
+</tr>
+<tr id="b-d1194611b00248c9987265e341789003">
+<td id="b-384ffb7faf924ab59391431d63f3fa35">
+<p id="b-8285130c1c2e41c7877708d061942d79"></p>
+</td>
+<td id="b-efb98f7d9fd54f8e937f5211f22ee1df">
+<p id="b-90025dc3cd9d410998b283112419f953"><span style="color:#000"><span style="font-size:15px">护国神社</span></span></p>
+</td>
+</tr>
+<tr id="b-2272577bb6614f31a9698757b0272150">
+<td id="b-1de24dd4f47f408fac7c7544bde47725">
+<p id="b-c4e89ec5f992465db654b1aa457fb419"></p>
+</td>
+<td id="b-29d2f6f4ade349c891ff9b99d547f5ed">
+<p id="b-62f1556edc2841278a0374174f97e557"><span style="color:#000"><span style="font-size:15px">大村神社</span></span></p>
+</td>
+</tr>
+<tr id="b-8dc911218c8e4e88aa338a182acda1ea">
+<td id="b-fe45b2db07e141688a8bc220f7e0aebd">
+<p id="b-2e69fa9bcac44740b3a4a4f362ab415a"></p>
+</td>
+<td id="b-9d9b1a7c083d4a8e887b90a9625ff0d5">
+<p id="b-39c23241be9b49c0a736551b55e9a029"><span style="color:#000"><span style="font-size:15px">橘神社</span></span></p>
+</td>
+</tr>
+<tr id="b-a240844041d14bbb9cf18cb0360e730f">
+<td id="b-d9a7644ccc184a1ca14a2458e403d7e0">
+<p id="b-918bc07a30f7424ea96c5b4792235c0f"></p>
+</td>
+<td id="b-478144a41b1740f6b59976fcd41b2f17">
+<p id="b-65e48d6e70404ee2aa948edea4db9d06"><span style="color:#000"><span style="font-size:15px">熊本県护国神社</span></span></p>
+</td>
+</tr>
+<tr id="b-7aab1401ed694974a64943bf3755aacc">
+<td id="b-0fb4d1c570914760af708f36501f7d80">
+<p id="b-aa78a94d68af4970961b9f1762c0e7aa"></p>
+</td>
+<td id="b-3b53dc79637749059d22086d4b7dd47c">
+<p id="b-afe18b94699042d1a25cfca1c1a99784"><span style="color:#000"><span style="font-size:15px">新仓富士</span></span></p>
+</td>
+</tr>
+<tr id="b-2b57aaeef1bf46869c908ebdb06de05a">
+<td id="b-d23a595788244288a5c50d264aa74168">
+<p id="b-b898223addfa43bba64f3860f479fd65"></p>
+</td>
+<td id="b-a991344b55704b32ac3ab356c19d90ac">
+<p id="b-8aba9b111a644f80aa8e84cf7efb8da3"><span style="color:#000"><span style="font-size:15px">浅间神社</span></span></p>
+</td>
+</tr>
+<tr id="b-a46a911e556046b9af38097d8457298e">
+<td id="b-1b09703e58f0413885459cf6a3e7b513">
+<p id="b-9ba02f8d12da41cea81d23024267b983"></p>
+</td>
+<td id="b-6b1b6221dcd142fd9ba3e815a8029224">
+<p id="b-658558814e5d45628614f46bb7b76ee0"><span style="color:#000"><span style="font-size:15px">广瀬大社</span></span></p>
+</td>
+</tr>
+<tr id="b-a6d220e55b7d48f79a4c93d83c67edb2">
+<td id="b-028a629eb5824cc68e9fa143a82b6dcb">
+<p id="b-96a1f06d97514269be10b4c4bb7180b7"></p>
+</td>
+<td id="b-31907bd8700c4f36bb9706230af742b3">
+<p id="b-5be27dd33ea64dc29d05dd5555253fd5"><span style="color:#000"><span style="font-size:15px">浅间公园</span></span></p>
+</td>
+</tr>
+<tr id="b-8e129c1b38b94fa08e0402c4f5fe49cf">
+<td id="b-e0c1fb0d336f4e4b92823855043618c6">
+<p id="b-1113d3d96372447f841bf74c464ddf33"></p>
+</td>
+<td id="b-30bb75a60c1e42599808ca66af928431">
+<p id="b-42c94a2f2f8d466ca8c89b256acebb04"><span style="color:#000"><span style="font-size:15px">忠灵塔</span></span></p>
+</td>
+</tr>
+<tr id="b-fa30f35c2b824735894c956efac29d45">
+<td id="b-4e205450793a4b0589ed59597347506d">
+<p id="b-c7b52d7627ae4530ba11a1b6c0a319bd"></p>
+</td>
+<td id="b-af5caa73b916447ab5e84d193878986b">
+<p id="b-2b8d680df1c148c8bba3cc63c60e590a"><span style="color:#000"><span style="font-size:15px">富士浅间公园</span></span></p>
+</td>
+</tr>
+<tr id="b-a32893443873431cba0c45903d8938ba">
+<td id="b-8fe9285d809c47d0a82acc06ea169b25">
+<p id="b-c732b02a9a4d4d029f955fd5794a1472"></p>
+</td>
+<td id="b-b4065dd31c3945d2bf47b3fe5e7f3de9">
+<p id="b-2d0e3e7081f946e8b0af08889b044df1"><span style="color:#000"><span style="font-size:15px">浅间山公园</span></span></p>
+</td>
+</tr>
+<tr id="b-484f840393b04efaa3ad85128b0b58da">
+<td id="b-21a55c1ad29243ad848cd497148d9463">
+<p id="b-84145d44d71949999c25e94bab98ebe3"></p>
+</td>
+<td id="b-3923d8846cee458a9181066c76cd5e8f">
+<p id="b-3a3f4079801646859285d3fa0efaa39f"><span style="color:#000"><span style="font-size:15px">新仓山</span></span></p>
+</td>
+</tr>
+<tr id="b-c188988a40ad48e09758564839ef7926">
+<td id="b-31535509961d4c42aa417bada706a07a">
+<p id="b-d77e46fe6af742ccb05d3c5058e76e26"></p>
+</td>
+<td id="b-22654597cec0478a89356063e39e3f74">
+<p id="b-6aebf0c55b3b42f88494471015f069ba"><span style="color:#000"><span style="font-size:15px">新仓山浅间</span></span></p>
+</td>
+</tr>
+<tr id="b-fc58e4f71e5d4b3caf9fb649765b9b6f">
+<td id="b-f0fbd5947e4e4b59bc8d9594941b3976">
+<p id="b-e2994188def34be4bc2f16b860db4eb7"></p>
+</td>
+<td id="b-3cb02c5ff21c41128b9096b1ab2380e6">
+<p id="b-a43f6955cdb24e1f897ded93e65f49cb"><span style="color:#000"><span style="font-size:15px">新仓浅间公园</span></span></p>
+</td>
+</tr>
+<tr id="b-9d3ea1c13b594a08881fef680c753fae">
+<td id="b-9489cf50b7fa4f7d8c45dcafab116987">
+<p id="b-c935442567e64ad8957468cd00d19045"></p>
+</td>
+<td id="b-5cf3cf4abab146258400c0acd12c20a9">
+<p id="b-319d682b293e4daf818dd073773bffdd"><span style="color:#000"><span style="font-size:15px">新仓公园</span></span></p>
+</td>
+</tr>
+<tr id="b-f40c40cc67cd46f38e14cc6ba49fce54">
+<td id="b-f1b6ac00b972491585df2a7e65d6a5b5">
+<p id="b-1a9fa119909148acb74ad10fe5288837"></p>
+</td>
+<td id="b-0d6c98cb62e542e48a53f51a4826ba8d">
+<p id="b-c6398d4067fc4dbcb1590c69227b650b"><span style="color:#000"><span style="font-size:15px">殉国七士庙</span></span></p>
+</td>
+</tr>
+<tr id="b-75d95b62fe9f43ada3990cb19ed03e93">
+<td id="b-eeeed4cfccd742b5911ab14711ae0bf5">
+<p id="b-09ef667fa57d4768b9d0d29ff39d0422"></p>
+</td>
+<td id="b-ef20efe792c34d01a4e7dfeb53c796a1">
+<p id="b-ff4d67aad83c43ff9ee0686ab7a28a55"><span style="color:#000"><span style="font-size:15px">亚兴观音院</span></span></p>
+</td>
+</tr>
+<tr id="b-38ec44f989a64f15a0dc06cf62f5ed22">
+<td id="b-9508b084f2044569b95ca82d14d2045f">
+<p id="b-d29ddf60ae374538b42fc82a0d003dc9"></p>
+</td>
+<td id="b-7370fb60f7064aee870260d268e53f0d">
+<p id="b-1a5ffccfad9a4ac1a1f7270cd1eec9bc"><span style="color:#000"><span style="font-size:15px">永山神社</span></span></p>
+</td>
+</tr>
+<tr id="b-9bd1577a143a4801bc28bbb5f5e369ce">
+<td id="b-15618deb835647b9a87a34446eca6a60">
+<p id="b-40924214e89d4fd589f194369993349b"></p>
+</td>
+<td id="b-34cdcb7f0fdc4671b89b73a9dd3fd2fa">
+<p id="b-5560cd470f024fa38a675d86a9244fad"><span style="color:#000"><span style="font-size:15px">广濑神社</span></span></p>
+</td>
+</tr>
+<tr id="b-f0bb8abca9b64d66987101d7a42d1dee">
+<td id="b-a440c674367240c7b697240cb95572ec">
+<p id="b-43f7f473ae89494cac611fb38bcc1edc"></p>
+</td>
+<td id="b-17f469e2cff04e4c80e7fc66c711c889">
+<p id="b-5ab818e6b4da4ddcac42cdb553b4c25e"><span style="color:#000"><span style="font-size:15px">巨山神社</span></span></p>
+</td>
+</tr>
+<tr id="b-b34951f6a6ae4315988243c16f97023e">
+<td id="b-71f495fe728e401b8baa5dbc1b2749f2">
+<p id="b-f4ea531d6dcb4ef18379d5476f49cba8"></p>
+</td>
+<td id="b-080a8e1faaa64944a4070c74a1bca95d">
+<p id="b-64987e1f311844f2ad91c0df364a524e"><span style="color:#000"><span style="font-size:15px">靖国神社</span></span></p>
+</td>
+</tr>
+<tr id="b-a6ae87d78362426ca358299a3abf2c6a">
+<td id="b-9ae93da075b64481b919ad2486884a4d">
+<p id="b-37a469f39c3b401d90232266060ed411"></p>
+</td>
+<td id="b-1d4192dbca574836bba86e372a4c2da9">
+<p id="b-badcaacbaa4a45908aa9bada39784ceb"><span style="color:#000"><span style="font-size:15px">爱媛护国神社</span></span></p>
+</td>
+</tr>
+<tr id="b-774830e91a0b4b8f9f70921fa66c4d98">
+<td id="b-17dbb551c0a942f58bdac91cba2c5e77">
+<p id="b-f74778599d6e4f03a5d50571b9f60f06"></p>
+</td>
+<td id="b-f2cd61e1c5ef423ba919548832dd19de">
+<p id="b-0962f04b74e742519b4220aa78a56b52"><span style="color:#000"><span style="font-size:15px">乃木神社</span></span></p>
+</td>
+</tr>
+<tr id="b-5c6741cc47ce44cca34b9d0babeb1f6d">
+<td id="b-add77ec397b642ea8ca4e3671876a4c0">
+<p id="b-25625b612899435e97ba5a72a543e5d4"></p>
+</td>
+<td id="b-05c1b129d7e74c86bbd19f39cd47f192">
+<p id="b-aa9d3fd46b384c28b09d5bcd905864b3"><span style="color:#000"><span style="font-size:15px">京都灵山护国</span></span></p>
+</td>
+</tr>
+<tr id="b-285e1baf9d4248eea2c82c4b7a2b9d65">
+<td id="b-c32f7155efd74642bbbd54670e4cf85d">
+<p id="b-f04be8255af64853871536a230958e27"></p>
+</td>
+<td id="b-af4f81a182794230a72b518902681331">
+<p id="b-8dab41c6141149af9f9a1a41d536e860"><span style="color:#000"><span style="font-size:15px">仙台神社</span></span></p>
+</td>
+</tr>
+<tr id="b-f491232e3c22422d85048d8063a884c5">
+<td id="b-e17fd69a6ddc494a87a2d2813f074a4f">
+<p id="b-e50cdf9472db45128a1f1fada77b9f82"></p>
+</td>
+<td id="b-aa1f9024a50b4b329b009377299afcb1">
+<p id="b-0997e191a4e7431f8021be1469ff3e9d"><span style="color:#000"><span style="font-size:15px">大村益次郎生诞宅迹诞生地碑</span></span></p>
+</td>
+</tr>
+<tr id="b-eef8ddea608a470f9303352d480bd7ff">
+<td id="b-638708ac90444c5d876544eeeb870c44">
+<p id="b-60cc84e429cc413498791c7c95ba06fb"></p>
+</td>
+<td id="b-e85656ccc218445b989eaf0fa0f1c966">
+<p id="b-9a09046db2a845449a869fa0e6348938"><span style="color:#000"><span style="font-size:15px">东条英机の墓</span></span></p>
+</td>
+</tr>
+<tr id="b-7166c335019a47fb9226236b1253ae45">
+<td id="b-7ed41cb596bf42bcb0b2454516dce646">
+<p id="b-1b98bdced2c648ca9b671d7c91df6029"></p>
+</td>
+<td id="b-0ee7dd958b2f4a198cc46705b7f03914">
+<p id="b-ded4a17b7a1d402280e6c7f68c98bcd4"><span style="color:#000"><span style="font-size:15px">大村益次郎生诞宅迹</span></span></p>
+</td>
+</tr>
+<tr id="b-038ced155be644fe81c25b44a912e799">
+<td id="b-2b221f8cddb74dd7b69f39fe9d2dbda7">
+<p id="b-5ed6cee7f0b44af28afce793d885d2aa"></p>
+</td>
+<td id="b-6b2d90c611f14f1e92c62ccdb040f521">
+<p id="b-532e5cb5f10949719894a484e58b0647"><span style="color:#000"><span style="font-size:15px">大村益次郎墓</span></span></p>
+</td>
+</tr>
+<tr id="b-01c4282d7f6442538701eb705e6940eb">
+<td id="b-2f7355923c9c478e86cc82c95ed7f7a4">
+<p id="b-664846df663740218e27b0f3598f0937"></p>
+</td>
+<td id="b-a5d7d800b27841b99de05165e84a8f90">
+<p id="b-9b717e3288a64ed79f499060145e15d3"><span style="color:#000"><span style="font-size:15px">广田弘毅先生生诞之地</span></span></p>
+</td>
+</tr>
+<tr id="b-ceb561bb9b5f4d4d9f4eb17dbb0a1602">
+<td id="b-f9b6e8f2f45245288314ff98afb081bf">
+<p id="b-508f61784794485ba0aedd527681019a"></p>
+</td>
+<td id="b-8d71c9d282274a76a4401e114cf7aff1">
+<p id="b-46273cbbb36e4787a49d2bac4a286a1c"><span style="color:#000"><span style="font-size:15px">陆军大将乃木希典遗髪塔</span></span></p>
+</td>
+</tr>
+<tr id="b-46b9039dd10d418d899295628230739e">
+<td id="b-a66b63973ba74d63a663fa8c2653b11f">
+<p id="b-5c95c68014034ddd81fefe623a9c6d17"></p>
+</td>
+<td id="b-f7fcf3b0dd5a4ee69e63ff383d27fdbd">
+<p id="b-b5d16086cdb0410192c5b4a4030c1042"><span style="color:#000"><span style="font-size:15px">大村益次郎铜像</span></span></p>
+</td>
+</tr>
+<tr id="b-38d4e6d806b74a6795ca0c3eb97e1952">
+<td id="b-3c1467fc4a5f4c8db70c5c01c514e494">
+<p id="b-a34ace788854421eba794d8c625c1bb3"></p>
+</td>
+<td id="b-20311042995345a3b3f22e6fb9b18303">
+<p id="b-a0bfe3aa2e704ea7a55f2106fdb70245"><span style="color:#000"><span style="font-size:15px">大村益次郎之像</span></span></p>
+</td>
+</tr>
+<tr id="b-2ebb3394c0584fed9582411aaa3e92e7">
+<td id="b-40de58cb28154f5e85c837be924f0ead">
+<p id="b-9a98144127fa4ff1868bde078e13444c"></p>
+</td>
+<td id="b-b055a96f39f64990bcd71388bb4b6779">
+<p id="b-f583b478d44e40788038a1e6986723bd"><span style="color:#000"><span style="font-size:15px">广田弘毅像</span></span></p>
+</td>
+</tr>
+<tr id="b-3165e27031c84f96afc04d8d5e606c45">
+<td id="b-4677cd03e8f345f6bb02839c46244eb8">
+<p id="b-f0f702838b0e45789acb0786cc6fffc3"></p>
+</td>
+<td id="b-9a242504162e4d0fb04f0b2d001c7c3a">
+<p id="b-b46c8ed937e14904968aa64fc6b9174e"><span style="color:#000"><span style="font-size:15px">霊玺奉安殿</span></span></p>
+</td>
+</tr>
+<tr id="b-a0364f4b50c74b648e52f9e8b19e2696">
+<td id="b-728eea97d3f54db1951664ee31120313">
+<p id="b-7fefad448f6f4044af3a83c541c7305f"></p>
+</td>
+<td id="b-bd2a3039a8e44aaaa6d512aa8931f6db">
+<p id="b-2d904952f1bb4c6b840e2542e621e808"><span style="color:#000"><span style="font-size:15px">広田弘毅別荘迹</span></span></p>
+</td>
+</tr>
+<tr id="b-d362db5f414543c9b7ca1e030e290f11">
+<td id="b-ad492013ab0e40ca9b871581739fa425">
+<p id="b-971a9b820bbd40f6a25b134722a1aaa3"></p>
+</td>
+<td id="b-6e1e17a9c7404d3e975e75a1dff5a1bd">
+<p id="b-7b966a9f1aa84100a1b0312104d48a49"><span style="color:#000"><span style="font-size:15px">陆军大将乃木希典铜像</span></span></p>
+</td>
+</tr>
+<tr id="b-dc31289757db45289e91fb931912655d">
+<td id="b-9f661ffe97a54049baf257183f828dad">
+<p id="b-6ea39448b1e64662b6e6b75459700b69"></p>
+</td>
+<td id="b-e5a4fcb064174b71b3d4eaa6f72cc27d">
+<p id="b-9278a176a7054f169a157ad40a7aa13e"><span style="color:#000"><span style="font-size:15px">陆军大将小矶国昭谨书扁额</span></span></p>
+</td>
+</tr>
+<tr id="b-1a516a737e5841e396fa307671469f5b">
+<td id="b-e066078c5bc9425694f15b8f23cd4265">
+<p id="b-382a685e5b7f4009a03218a51e387cac"></p>
+</td>
+<td id="b-a4bd9c2c7c034a79883880a1736245a7">
+<p id="b-b29bcac0283b4eecb467459d7fd61fee"><span style="color:#000"><span style="font-size:15px">大村益次郎开业の地</span></span></p>
+</td>
+</tr>
+<tr id="b-279410d605cb46cd860eaf98cd460844">
+<td id="b-e4497d74c5f7418ba12afd6cf1b3acca">
+<p id="b-b79f8c10719a4ede93865af13f0e737b"></p>
+</td>
+<td id="b-6c4636969efd4eee876c284bbc25a5b0">
+<p id="b-5d074d88cee544e39fbf6486ae6562a8"><span style="color:#000"><span style="font-size:15px">兵部大辅大村益次郎公遗址</span></span></p>
+</td>
+</tr>
+<tr id="b-293537d2dacf45d78a7af537d17fc1bc">
+<td id="b-abe11ef3266a44ed8bb043186979c49e">
+<p id="b-fcd292a20bb34e5d919eac01d2a69707"></p>
+</td>
+<td id="b-70862cdfc7f84c9a840bf861ab0d7401">
+<p id="b-22cde7e732e24b1bb2dd859c30412d54"><span style="color:#000"><span style="font-size:15px">乃木希典陆军大将手植松</span></span></p>
+</td>
+</tr>
+<tr id="b-50adf3d706ec4b26b59c6965ecdd5e36">
+<td id="b-f342e3e7058a43409d712f432ad3404a">
+<p id="b-019ef9820c45488c8eef113613f1eb43"></p>
+</td>
+<td id="b-1882ac2c71d945798935d5cd37c8cd4d">
+<p id="b-0d07e3c3b3d84e2b8e96b551a9d0232d"><span style="color:#000"><span style="font-size:15px">陆军大将乃木希典将军之像</span></span></p>
+</td>
+</tr>
+<tr id="b-a3091e0748e04fa38acb23bae5adc477">
+<td id="b-7dc1a636d4284915803a578cede1fec7">
+<p id="b-a5c2cb2f213d4c2cbc8f187ee5824cea"></p>
+</td>
+<td id="b-8d84413500824cc48afad2c4236741a2">
+<p id="b-bc423b112cf54a6ba637a45b41e6f73b"><span style="color:#000"><span style="font-size:15px">武藤フラット</span></span></p>
+</td>
+</tr>
+<tr id="b-7c893d0dd065458c885803caf967d63a">
+<td id="b-02a430bde1064175897208da0b78ea16">
+<p id="b-6a9294c5d36e4378b723af7e5bab6650"></p>
+</td>
+<td id="b-c5ab314a49dd416bb891cf923009c9ae">
+<p id="b-a77f9ec039904235ac27124f62ed9e0c"><span style="color:#000"><span style="font-size:15px">広田弘毅の墓</span></span></p>
+</td>
+</tr>
+<tr id="b-653d0ee5587d4cc9bea15c6107db09a4">
+<td id="b-2abdb2f1c18d4b36b29c019efaa69f2a">
+<p id="b-0a01a837e4944d0e8548fc5f9d05945f"></p>
+</td>
+<td id="b-e349c7895439413a8647bc58b9a09ac3">
+<p id="b-b587945d626f4ae2a786698e049ed45f"><span style="color:#000"><span style="font-size:15px">大村益次郎寓居迹</span></span></p>
+</td>
+</tr>
+<tr id="b-a2de0ef8d7b248bbb0f03c088688fcf7">
+<td id="b-1d67c87f78bc4edcb75ff720feaf86af">
+<p id="b-a00068d02aa54857899e42058387aa0d"></p>
+</td>
+<td id="b-ab183a4b67f14ebca6ae94d1d88d06e5">
+<p id="b-45b48135047f4ada90b93563cd34d682"><span style="color:#000"><span style="font-size:15px">新仓山浅间公园</span></span></p>
+</td>
+</tr>
+<tr id="b-360766ec679841a886791004f18e5c21">
+<td id="b-54ddabf5fb3e420aa85ae719eb9d0ec7">
+<p id="b-900e736fd938418f8329bce1ff4d34e2"></p>
+</td>
+<td id="b-b91c124fc18a475d8326bb26a5882fd8">
+<p id="b-90145253e04c41728554ef007e843b93"><span style="color:#000"><span style="font-size:15px">浅间岳</span></span></p>
+</td>
+</tr>
+<tr id="b-ef04f04a9c814c1383821df90d682b7e">
+<td id="b-720e4052c41044b089cb9510678f0a78">
+<p id="b-5667098449cd45c28628c72fafc9c96b"></p>
+</td>
+<td id="b-c961b398bb82485db73ca27b2c4943f8">
+<p id="b-a02b19eab17e4ae181730d6650069769"><span style="color:#000"><span style="font-size:15px">多田骏</span></span></p>
+</td>
+</tr>
+<tr id="b-37204c922b62496f858bf6234be56664">
+<td id="b-6f1b880314d7431c86c5d9b1d2a2ba28">
+<p id="b-6ad7f51838944efdaa027772ef9acaa4"></p>
+</td>
+<td id="b-54102d0d738e46a6bf470fe0fe0439c7">
+<p id="b-0d7502b0c90640c68cf04845263786a3"><span style="color:#000"><span style="font-size:15px">护国英霊社</span></span></p>
+</td>
+</tr>
+<tr id="b-033cef4394534c399369af09fa5a616b">
+<td id="b-0c8a83b20b6449b1ba6630910d9bb345">
+<p id="b-46ffde0baaeb4eb8950ff4fbf31c0f17"></p>
+</td>
+<td id="b-3098e3ee61c74679bf4587f3943d3c32">
+<p id="b-0409f9e633b54d5a8bf068106fca1192"><span style="color:#000"><span style="font-size:15px">新仓富士浅间神社</span></span></p>
+</td>
+</tr>
+<tr id="b-2a4cff1ad4e64a77bbe6e8135452919c">
+<td id="b-6c9f923d683943ebb6815c9ffbf6bf7b">
+<p id="b-261d04c949314747b9b19f515fbca654"></p>
+</td>
+<td id="b-d7ad90f9ada946afba04e5b2c3efd908">
+<p id="b-86653aa656dd433896d8b01d72a41dcb"><span style="color:#000"><span style="font-size:15px">英灵塔</span></span></p>
+</td>
+</tr>
+<tr id="b-c924c519741b4d6d9ea019fafd8d7606">
+<td id="b-35b3312dded24f789f0c17aa08e21a82">
+<p id="b-84b51218fea243ca8f0454408906217b"></p>
+</td>
+<td id="b-a3c454691de444d98cb543bd4adb23f7">
+<p id="b-9d48248f18df487a8e863646a9455f04"><span style="color:#000"><span style="font-size:15px">表忠碑</span></span></p>
+</td>
+</tr>
+<tr id="b-7277afcbb61143c4a52bec0065a2fc21">
+<td id="b-4ec772717c2941a78107a5adad2cc575">
+<p id="b-9d404b9994ae4cc9b58334c28b3c1203"></p>
+</td>
+<td id="b-cb6ff24637dc4338bb9642388568feb1">
+<p id="b-2e4912296f234e6587ab3666522f5da5"><span style="color:#000"><span style="font-size:15px">陆军大将乃木希典遗塔</span></span></p>
+</td>
+</tr>
+<tr id="b-897f7893d5e74e9aa2a87c6f71d318de">
+<td id="b-8689dff5d40e4f7187e3a68be6d23bdd">
+<p id="b-7f0c460365ad48638413856299fda88c"></p>
+</td>
+<td id="b-f06107fec9a2434680580a30b85f1c0e">
+<p id="b-efd0b10a7b6943e1bc758421f6f8efd4"><span style="color:#000"><span style="font-size:15px">县护国</span></span></p>
+</td>
+</tr>
+<tr id="b-fd8fdcde80f348eeaba503382e64a7fa">
+<td id="b-c256516d67dc4ea6aeaf15c1556215f3">
+<p id="b-07aee3f88f9e4ce69e435746a1f71474"></p>
+</td>
+<td id="b-570ddb551cea42a4aa55aaf7bf82c6b6">
+<p id="b-83f18c9029c44cc1aa5c1226fc1a882c"><span style="color:#000"><span style="font-size:15px">京都灵山观音</span></span></p>
+</td>
+</tr>
+<tr id="b-483186cc581944c2bcfaa70898f5e307">
+<td id="b-1e7ba090f02c469388a45554fe61608f">
+<p id="b-1b5ce3426a37435b89928131a155b8d6"></p>
+</td>
+<td id="b-b77a474d0ed240a4b919b2a1db2a258c">
+<p id="b-6802d8337f864b73b82fc6a0a5197dcf"><span style="color:#000"><span style="font-size:15px">八纮一宇塔</span></span></p>
+</td>
+</tr>
+<tr id="b-0ea66aef64f34ae4a20c4d001db8973e">
+<td id="b-33bf4f8afa234fe3917fd9013e01390e">
+<p id="b-e9dca46438bc453eb3042af4615197a2"></p>
+</td>
+<td id="b-c34ba2a62cfb4c749e3c2341d1690539">
+<p id="b-075d40a21de340c1b45475c4914d57d7"><span style="color:#000"><span style="font-size:15px">大国主神社</span></span></p>
+</td>
+</tr>
+<tr id="b-df687f1c104c48bc9f214c551790957a">
+<td id="b-bb053a61499544c99023165afc84f00a">
+<p id="b-f36aae1adfb446ca85f4c6e67d415e83"></p>
+</td>
+<td id="b-f29b21e0a5b84923a76e43f467c3256e">
+<p id="b-88700c1bd2d0440e96cc4b8f129aa5d3"><span style="color:#000"><span style="font-size:15px">平和塔</span></span></p>
+</td>
+</tr>
+<tr id="b-5997a8c57e604aa68849a5cec4f7af4b">
+<td id="b-ce846791f7de4f7ab3f9ad302435c439">
+<p id="b-a37b834cc8f040e4813806d9b334bed3"></p>
+</td>
+<td id="b-6929c7dfc4ab405eb17f6729158351ed">
+<p id="b-e4256421ddc9436f98ab6a2be8c75af4"><span style="color:#000"><span style="font-size:15px">陆军大将乃木希典遗影塔</span></span></p>
+</td>
+</tr>
+<tr id="b-b8db35d893c34b48a05c9067eceab229">
+<td id="b-d101fced53814074a1f95130bb647744">
+<p id="b-f4b93e790d4c4339bfde57cea29c092d"></p>
+</td>
+<td id="b-a701f615015d4dbf810892db783e8462">
+<p id="b-7ca248286449469fb4166ae3557f9f3a"><span style="color:#000"><span style="font-size:15px">大村益次郎寓居迹漏月庵</span></span></p>
+</td>
+</tr>
+<tr id="b-ebcee4fe59e94fc9989a51fd6b052de7">
+<td id="b-2679043eb4734fd7b411426198b8f368">
+<p id="b-b4c72a2549304fc48806e67dcd1152b1"></p>
+</td>
+<td id="b-db2d8a0bd4724c0688f0c11b5f13a069">
+<p id="b-72055e40310f4d36b886b0e3ff2ef381"><span style="color:#000"><span style="font-size:15px">平和の塔</span></span></p>
+</td>
+</tr>
+<tr id="b-28f31d9518fc401abfda10936d32ac94">
+<td id="b-e071a2fe7a8e4c1b8faacb83e7aff6a9">
+<p id="b-b0dee535799a40f4aa165fec284d2a72"></p>
+</td>
+<td id="b-4c51049da20c49a882285df158141c9a">
+<p id="b-00cbff118f024f4ea622d6f72d57501c"><span style="color:#000"><span style="font-size:15px">表忠之碑</span></span></p>
+</td>
+</tr>
+<tr id="b-2c6055d1d014421aacefd51dd51f17b7">
+<td id="b-c1cc20216c3a4232a84497dbc85904ec">
+<p id="b-4c334b1f54bb4e31b1d731c7ef7136a2"></p>
+</td>
+<td id="b-a1713e7fac6946f98893f5b504f4966c">
+<p id="b-a4d690273fb14b84a37b7bd9ffa6ff47"><span style="color:#000"><span style="font-size:15px">広田弘毅别荘迹</span></span></p>
+</td>
+</tr>
+<tr id="b-a0edd994a8294b7d8bb8dda86e4d02c3">
+<td id="b-afea550db37e4dbda2cdaae779586897">
+<p id="b-b9a588ea7cbd44e4aa94d4e9dc63f2f4"></p>
+</td>
+<td id="b-0f8b35536e8f4e43a19895ac22d1966d">
+<p id="b-19c260d59237424e9b9e318b4e27b60c"><span style="color:#000"><span style="font-size:15px">若一神社</span></span></p>
+</td>
+</tr>
+<tr id="b-12125cfaac034abc8d15521fca53198a">
+<td id="b-0e65b72b8ea34dbfb794c4b267707d65">
+<p id="b-49ff15e5337f47e49a9a25a621b4e698"></p>
+</td>
+<td id="b-61faa2d8f83540008c219324d84c8760">
+<p id="b-ae4a69c8b57e435d8604115444e2d52f"><span style="color:#000"><span style="font-size:15px">八纮一宇</span></span></p>
+</td>
+</tr>
+<tr id="b-60fbda23f4314fe6a745c8bca1099ff0">
+<td id="b-0772097792294b03be3a722256d99cd9">
+<p id="b-093f4d066ce74e91b7faa9b74111d580"></p>
+</td>
+<td id="b-e1471e2caa8f4c219cdcc0a118aee512">
+<p id="b-e22a82b1806a450c8de3dc5a233a8519"><span style="color:#000"><span style="font-size:15px">慰灵塔</span></span></p>
+</td>
+</tr>
+<tr id="b-bf1dc96aa3b9449b8dc828d766f8a625">
+<td id="b-57774a820503439da91a5b6f86128a32">
+<p id="b-4e3426fee5db41739016409d064e954f"></p>
+</td>
+<td id="b-736c37fe1f0346b18a8aa06d615b5cb9">
+<p id="b-6f4a57c67d04470fb91d822c9f7aa8c4"><span style="color:#000"><span style="font-size:15px">靖国招魂碑</span></span></p>
+</td>
+</tr>
+<tr id="b-47ffa92d4aad44068822664eee7b27ed">
+<td id="b-5ce43bd32530428ba3e90fc85dcd3bbe">
+<p id="b-ce29ffbdcf384b7dab0bcf632d5794dd"></p>
+</td>
+<td id="b-6e8e16221edf4eea853c4be521c7f252">
+<p id="b-851f759c0d714e58992c7525c0c30c1d"><span style="color:#000"><span style="font-size:15px">广濑大社</span></span></p>
+</td>
+</tr>
+<tr id="b-3bae2731e7654386a8bed60f2be629d3">
+<td id="b-ebca7d5e639344579704aa2c76772876">
+<p id="b-4e1c87c0b5334564b77a2c39dd1c041c"></p>
+</td>
+<td id="b-dc39bf1d1a0d486a943cf448c1a4626c">
+<p id="b-bc2582c1a24c4b99b61f05642d647066"><span style="color:#000"><span style="font-size:15px">南州神社</span></span></p>
+</td>
+</tr>
+<tr id="b-06afab92ec064b55aba96bd2c20f9911">
+<td id="b-4af7ede5ed58464882421ba50e7d5869">
+<p id="b-14f4ba93bc014cdcb349e1426b19ed04"></p>
+</td>
+<td id="b-362a31734ff44466bb827aff23bac5f7">
+<p id="b-ecd7c4004e9a4a2dba09e5216eade3e7"><span style="color:#000"><span style="font-size:15px">通霄神社</span></span></p>
+</td>
+</tr>
+<tr id="b-45a95a786be54908a20d0e0eab86f4e1">
+<td id="b-c0b97d0b95444c8bb577f991fcc874cf">
+<p id="b-5596b9df012848388a7da176076bd345"></p>
+</td>
+<td id="b-bdcb522fa8254589a66261ae2e0ee3c0">
+<p id="b-8e85ceeed4e64382bb3bd0174c922a9d"><span style="color:#000"><span style="font-size:15px">日本战士英灵</span></span></p>
+</td>
+</tr>
+<tr id="b-fff96c62a7da4a8090b22f6da22bf496">
+<td id="b-be120590b92a409485b8b6a2be6e4ebf">
+<p id="b-f740997aef9a4c49bba1e8b463573214"></p>
+</td>
+<td id="b-23baea99a44a463ca02299260b78669b">
+<p id="b-2c37522f1e634c7bb3a4a0926732fdd5"><span style="color:#000"><span style="font-size:15px">东郷神社</span></span></p>
+</td>
+</tr>
+<tr id="b-9fade35f92024365bf24f345aa67ff86">
+<td id="b-43e1756b5bed44dbaa3201f618d438ca">
+<p id="b-e916941b5d914f9680a4f31d6ba90832"></p>
+</td>
+<td id="b-44ab30ee0f504cb291353bfaac6a99d7">
+<p id="b-441662fd77a34808b5a7598b94e0634e"><span style="color:#000"><span style="font-size:15px">忠灵碑</span></span></p>
+</td>
+</tr>
+<tr id="b-6e12e1b7e1e54289b0497ca235849c68">
+<td id="b-4794e05c4ded489ea67205431b99b5eb">
+<p id="b-9a2b7aa2db444da5aec0360870403138"></p>
+</td>
+<td id="b-bacfce9bbcb44e869bb3e28d55c6ed39">
+<p id="b-68d3d224524744728fa623d6d8c0e8ec"><span style="color:#000"><span style="font-size:15px">水野神社</span></span></p>
+</td>
+</tr>
+<tr id="b-78169339780645e69cace5bbf0508242">
+<td id="b-93d8f8bcc6f84b3e8b8f3e5d10ff533f">
+<p id="b-ec734167114d47da94c2aff7bedc2d51"></p>
+</td>
+<td id="b-2a1bfac855fc4912852d085498e35867">
+<p id="b-7f91bd2740504a96af2504f0ca5b35a5"><span style="color:#000"><span style="font-size:15px">兴亜観音</span></span></p>
+</td>
+</tr>
+<tr id="b-b078bbdc0793461e92a0cc219d834e78">
+<td id="b-f6e28bb027a349819f50c4c7b6b41787">
+<p id="b-0552df0c7d614f6aa9f7c970a54f2b9e"></p>
+</td>
+<td id="b-35be944d85dc4f5e8822cfba814d10da">
+<p id="b-c255ce490dcf481cbfd67b5c381ea8d1"><span style="color:#000"><span style="font-size:15px">大村城迹</span></span></p>
+</td>
+</tr>
+<tr id="b-c5bdb4a5f567405eb40c25212a0d1bfd">
+<td id="b-79946cab4b9b4a09bb4e069ea8a506ce">
+<p id="b-cb79292434194d13beb2398a7dfa58bb"></p>
+</td>
+<td id="b-2c950d1fbca74941a61a6bc398a715a9">
+<p id="b-6f31b05439c94de6aac210c763c66123"><span style="color:#000"><span style="font-size:15px">西郷神社</span></span></p>
+</td>
+</tr>
+<tr id="b-cd30ace74d8045ab89510c0604f20798">
+<td id="b-8e608a9eaf4d4a6ab08369a1a043166a">
+<p id="b-ff99d3341957404aa8e20980416ef934"></p>
+</td>
+<td id="b-854d454c184e4438a330a1b18e3efd00">
+<p id="b-bd3ff954f4b5426cb454f6bc37a143ff"><span style="color:#000"><span style="font-size:15px">供养碑</span></span></p>
+</td>
+</tr>
+<tr id="b-9c1060eadaa142f6a95449d2e8f3fe42">
+<td id="b-3f27f3af7a01427aa61774614c7f0067">
+<p id="b-4de0c1bd6bd24dba957394ad4d8e8fe2"></p>
+</td>
+<td id="b-c64791105b9148caad76d6fd07114e34">
+<p id="b-2a99974ed6914ee3a8facec8b5e02a94"><span style="color:#000"><span style="font-size:15px">巨杉神社</span></span></p>
+</td>
+</tr>
+<tr id="b-f3bf3c0efc994acf910a42f8ed11e5a0">
+<td id="b-f10e39ff06c449449fda4abd592997f0">
+<p id="b-18ab8f8403064593b989c0688802f6a9"></p>
+</td>
+<td id="b-fb88a325d0034075ad8e381a7277456c">
+<p id="b-ccb9c04c17e144708ae50fa411b215b2"><span style="color:#000"><span style="font-size:15px">玄洋社墓地</span></span></p>
+</td>
+</tr>
+<tr id="b-882443ae101a4bbaaf66ccee5ed5cd92">
+<td id="b-bada97fc27c848c492262c2b654e5780">
+<p id="b-a3ec20e29eda4f34b0163c7fb6b71154"></p>
+</td>
+<td id="b-1ed139aa692a418bace052e44c75b5e0">
+<p id="b-517ea253234f4fb38c21c1bed11bacc1"><span style="color:#000"><span style="font-size:15px">戦没者の碑</span></span></p>
+</td>
+</tr>
+<tr id="b-5be79cddd4c342f3af2d0cfc7c32a8bb">
+<td id="b-cbd20820ae0545da91ae641c043d4be9">
+<p id="b-7683176eb5ab47f282d5b558f67d116e"></p>
+</td>
+<td id="b-60792c8cb40a408c938556bfb36519fd">
+<p id="b-41e1eef900c14dd1be2fe2dfeb02e829"><span style="color:#000"><span style="font-size:15px">大刀洗平和记念馆</span></span></p>
+</td>
+</tr>
+<tr id="b-6d41c93d74534a4a86e7899bb3d4510d">
+<td id="b-750c6c6b323d4f1ea9fb54ac80fbf9de">
+<p id="b-4273a68ba151409bb81a1ee9737012cc"></p>
+</td>
+<td id="b-28f21e5605c04561bb5883c1da9d8c9a">
+<p id="b-833961e98b804c5ba8920e1a2fede15b"><span style="color:#000"><span style="font-size:15px">大东亜戦争</span></span></p>
+</td>
+</tr>
+<tr id="b-14cf22d6884e4980b4be49dd22bf977b">
+<td id="b-d0faed5ece804f1cbc69fbb207eab952">
+<p id="b-8d58bf1e87894b9aad9fa87850696aa6"></p>
+</td>
+<td id="b-3ed2af95d9d8473e84ebe204f596ac75">
+<p id="b-416fd2fe2d56476c844d70d25e886482"><span style="color:#000"><span style="font-size:15px">大东亜圣戦</span></span></p>
+</td>
+</tr>
+<tr id="b-89bd1cdbc79e4a678bb18c71ffe6a53e">
+<td id="b-ab7eb4f427374ec7895617e2a916c8b6">
+<p id="b-c6989db7556d407c8cc3acd87d354250"></p>
+</td>
+<td id="b-3c0cbafd19d54587a5a714db7283c622">
+<p id="b-0c86c855a69f42448aabb6f9cfd2cbea"><span style="color:#000"><span style="font-size:15px">须佐神社</span></span></p>
+</td>
+</tr>
+<tr id="b-85f29924bb9e4f6db523f0e53cc92335">
+<td id="b-ac58811f37a04c9fac0f2424d1e5ac4c">
+<p id="b-8396f5d42a1143bd9cda925e17b32b43"></p>
+</td>
+<td id="b-88da5ab9a16e45628a4bcf918d9caf94">
+<p id="b-280db492e75245dda83b793b7300d2a3"><span style="color:#000"><span style="font-size:15px">志魂碑</span></span></p>
+</td>
+</tr>
+<tr id="b-0c3af647e78f4f48a2ea77fac7c85867">
+<td id="b-dc33a211d67d466f83d925630b80d3ca">
+<p id="b-321cc8b231324fbc8c555c4e0645ff35"></p>
+</td>
+<td id="b-30a64dac46de40859f6f956fb0063681">
+<p id="b-8d9d4c855c7b4c36aec1bcb29b0e7b80"><span style="color:#000"><span style="font-size:15px">広瀬神社</span></span></p>
+</td>
+</tr>
+<tr id="b-86dc584aae7a4790a0a1f4b8293a16f2">
+<td id="b-60a4d864e25d438db66dd3ab7869761c">
+<p id="b-7b139d8d814949eea61c7df37c32d0df"></p>
+</td>
+<td id="b-cc9abea72a034bcd9210cea59fe5cf51">
+<p id="b-ab2c0575e4e2483c90967f470d1f6dcc"><span style="color:#000"><span style="font-size:15px">若狮子神社</span></span></p>
+</td>
+</tr>
+<tr id="b-0d8e981794164a539cf404c220f97d00">
+<td id="b-57255c0c8d8f48dca77be7d1602a508e">
+<p id="b-ccfaa155b21d4cf287e5e97b10d6a54e"></p>
+</td>
+<td id="b-f832317dfc46483f90edf1c40de18858">
+<p id="b-b96b96cf42134ec1aab73bab411482d1"><span style="color:#000"><span style="font-size:15px">三八城神社</span></span></p>
+</td>
+</tr>
+<tr id="b-1f9b0b9f0a1644c9a247093c889af729">
+<td id="b-ed12a46410b84711b9684ce96adf006a">
+<p id="b-d197a4a2c4a741f4996df94e4ef5849f"></p>
+</td>
+<td id="b-3461a644a91d4f48ae571c63c6c33a91">
+<p id="b-684e40de2d604a11be96bb9c5aefa7d7"><span style="color:#000"><span style="font-size:15px">吉备津神社</span></span></p>
+</td>
+</tr>
+<tr id="b-6172017e1c5a496abb260a7f7e6275d3">
+<td id="b-74dce16f9d944c55bb22788eb0f42c35">
+<p id="b-ec2d8081ac634947b43ddf3efe49136f"></p>
+</td>
+<td id="b-f00de6ace8d84bcb9a78c49d3a255913">
+<p id="b-96db1780ca764e94870844b5919db58c"><span style="color:#000"><span style="font-size:15px">楠木正成铜像</span></span></p>
+</td>
+</tr>
+<tr id="b-f34718a452084037b56b2e705ee0d0ff">
+<td id="b-6165972dc36a44ff9823cc782934a0cb">
+<p id="b-63dfe26f490648a38e8a6b12ed08e65b"></p>
+</td>
+<td id="b-4b7c991e62dd48209941d4e71edb4b57">
+<p id="b-09a0036c8a6040e38276ab3042f8b21f"><span style="color:#000"><span style="font-size:15px">凑川神社</span></span></p>
+</td>
+</tr>
+<tr id="b-0ecec3c4a02341169b46c88567f741f0">
+<td id="b-5ef4f12807ea4d8a99423174fe226674">
+<p id="b-2c64dbc4ca68434180267a156d642f25"></p>
+</td>
+<td id="b-6d3c4f0db53744a3b30edb2c5ce5fed5">
+<p id="b-18bc113db4074c6898be5721bae136b8"><span style="color:#000"><span style="font-size:15px">仏教大慈山中之院</span></span></p>
+</td>
+</tr>
+<tr id="b-623ccafc990a4fc7b4c49da1379a39bc">
+<td id="b-313cda6c22384c5a905c594c06dd2260">
+<p id="b-bb19f0e7cc75426c9d4bf0d716a29b9c"></p>
+</td>
+<td id="b-0e6d2dc9dfd4487983654602587eb69a">
+<p id="b-319d5483b80d496eb989a7ea85d57a06"><span style="color:#000"><span style="font-size:15px">苍柴神社</span></span></p>
+</td>
+</tr>
+<tr id="b-6d5d781808d4436d871731ef7b172e5f">
+<td id="b-0063a6d2a533417fabaf2ac23fdda0c8">
+<p id="b-9ba5189d289d40569cbd26e155f174bb"></p>
+</td>
+<td id="b-568170cb96df41dc882f9bec033dc1b9">
+<p id="b-727dca6c82a743ec9a5b1957bdfd5554"><span style="color:#000"><span style="font-size:15px">明治神宫</span></span></p>
+</td>
+</tr>
+<tr id="b-ef92ce917603412cbb966f10589527b9">
+<td id="b-ffa10e1484044bba96cf3e45c9c381a8">
+<p id="b-39af90ecfb9b4907819e311af486387b"></p>
+</td>
+<td id="b-0e45666fa9f042589825699b198812fc">
+<p id="b-605e1647a7f34f71aba0ca34372a8a81"><span style="color:#000"><span style="font-size:15px">兴亜観音院</span></span></p>
+</td>
+</tr>
+<tr id="b-02d316e628bb42edab55b2fe3accd695">
+<td id="b-81dc734f998b41e4a59756d02032d61d">
+<p id="b-f7cb343f786741e6955bd65fbfb18d73"></p>
+</td>
+<td id="b-627472ef68c0495391e4344cf671d9bb">
+<p id="b-c8bb8c4b46004d36a041bc5ac201ecf7"><span style="color:#000"><span style="font-size:15px">战殁者铭碑</span></span></p>
+</td>
+</tr>
+<tr id="b-689a39aba347436b8bc6bace9bffe1fc">
+<td id="b-ed2e11110ea44a0eacf86b0418e691b9">
+<p id="b-ffb71ed114c74b86b08031f28dfc4c6e"></p>
+</td>
+<td id="b-56b2514507614f2aa5f5052f3b45b315">
+<p id="b-b24b538d5e3f4e3ab6dc821f62e06beb"><span style="color:#000"><span style="font-size:15px">佛教大慈山中之院</span></span></p>
+</td>
+</tr>
+<tr id="b-d79e8729810e4135b0fbb2615b8d3758">
+<td id="b-732fc817368545ba9d14e065c20c9a2d">
+<p id="b-9f7229310e24484786292333de3a2463"></p>
+</td>
+<td id="b-db75b0ee95614f53bd1dff7cc3eada3c">
+<p id="b-dad0ff7a808643d7976468b6755acef7"><span style="color:#000"><span style="font-size:15px">七尾軍艦所跡</span></span></p>
+</td>
+</tr>
+<tr id="b-6a598877ca4345a086732fb6ee47f424">
+<td id="b-949f08b634af44168ca7db56a9b0e949">
+<p id="b-e46f2a4aef224d37bff384aafc5a8208"></p>
+</td>
+<td id="b-4e63d18a5b8449caa91bdad997dade39">
+<p id="b-86ce8e4111b5434e8dfdd89eb3a12a83"><span style="color:#000"><span style="font-size:15px">長崎海軍伝習所跡</span></span></p>
+</td>
+</tr>
+<tr id="b-21d847d424014647aad1d9e46510ab90">
+<td id="b-11642e794ffb4eebbf4fa315ac8127b8">
+<p id="b-40724d53c4fd40479549e0baeeebecbf"></p>
+</td>
+<td id="b-4ae83554224e4a0a9a20c4ab7bd25e79">
+<p id="b-aaa15f9cf4f145df91087e6fbb0f6127"><span style="color:#000"><span style="font-size:15px">軍艦泊留地</span></span></p>
+</td>
+</tr>
+<tr id="b-aed43e27e7b34cd3a16493cba1f02f55">
+<td id="b-5bd4ae538c944d5fa3bb073554188aaa">
+<p id="b-62ef47ea9d034804932d319feeccefc0"></p>
+</td>
+<td id="b-c9977300719942e3b684d756e2a14d32">
+<p id="b-65e6e7a4159345bdbf7339c5cf14dfe9"><span style="color:#000"><span style="font-size:15px">軍艦摩耶之碑</span></span></p>
+</td>
+</tr>
+<tr id="b-ff6f49354985417f8ad0f1199b360fe5">
+<td id="b-b265c66c596746ac9a07a14fd8e4e373">
+<p id="b-c8fb0ebacdc14fba95113d69ece5c2bd"></p>
+</td>
+<td id="b-bc8c0fd8e02946b08d12f5268c00872e">
+<p id="b-ab473c3d70d346c5b029c87c3bd89b41"><span style="color:#000"><span style="font-size:15px">軍艦榛名檣</span></span></p>
+</td>
+</tr>
+<tr id="b-507482815eee4e25a2548006753b0112">
+<td id="b-ff132dc577b24feaa79ad586588f9da3">
+<p id="b-471d4bce123d4427a761f9c89f50bb11"></p>
+</td>
+<td id="b-80cce321582c43c786c6908ab3c60480">
+<p id="b-ca24cd33b3314390979c2719c66c656d"><span style="color:#000"><span style="font-size:15px">海軍所跡</span></span></p>
+</td>
+</tr>
+<tr id="b-9e9630892e1242a49c244adcacb92728">
+<td id="b-66e4682051844c4c90a4d454f0768228">
+<p id="b-6c51a635e6074b7c9164d47793ebf963"></p>
+</td>
+<td id="b-2d742d7967fa4b3a80f8cad52f595efd">
+<p id="b-11ac2ad75d04472f8894230d1a896885"><span style="color:#000"><span style="font-size:15px">軍艦防波堤</span></span></p>
+</td>
+</tr>
+<tr id="b-b39fb0b3304942909fe7392d0c856429">
+<td id="b-7c70823cb8f04c57b10b80ae54ff8983">
+<p id="b-633b70bfd07b43fbb494390b2d5d9767"></p>
+</td>
+<td id="b-33826d45d7df4291bbd6638442afc70d">
+<p id="b-bc1dd5c48471446ba41663b2b650e8b1"><span style="color:#000"><span style="font-size:15px">軍艦操練所跡</span></span></p>
+</td>
+</tr>
+<tr id="b-4c985d70fe8e4b1cb7e15ff4f2a7dd04">
+<td id="b-6bde320bca7c49db84676798e7484eb2">
+<p id="b-9a434b9a2c5541ae8490fae99490fde1"></p>
+</td>
+<td id="b-846f76260bed46c5abf1bf68f77bd662">
+<p id="b-c8d893a526b74b59901de0b07b46e622"><span style="color:#000"><span style="font-size:15px">司令部壕</span></span></p>
+</td>
+</tr>
+<tr id="b-6efd35de4f5a483db53fc065f55a669d">
+<td id="b-30eeaa5e84464a048e4ed33247b446a0">
+<p id="b-02bd16268acf4ef9aa3facd8a1eb6cde"></p>
+</td>
+<td id="b-6ae7e5696b2c4c32a8ae6d059f2b1c61">
+<p id="b-209e0e31dd59425db7c815539e31c503"><span style="color:#000"><span style="font-size:15px">西乡神社</span></span></p>
+</td>
+</tr>
+<tr id="b-af2c96433a7449a8a3efbb01985fee3f">
+<td id="b-75ade0f2ab004b63947b361d37583f68">
+<p id="b-f5a61404dd3449728ef652f780d4369f"></p>
+</td>
+<td id="b-fb8a05a84a3a4cff9f0ed28d0ea4b7cf">
+<p id="b-f8155fbe38074202a450038af087a195"><span style="color:#000"><span style="font-size:15px">“支那事变”“大东亚战争”战殁者铭碑</span></span></p>
+</td>
+</tr>
+<tr id="b-6b35db1e62844fd890db8d796ef005e7">
+<td id="b-9827091b508c43828dbb12149a78d8d3">
+<p id="b-77213f5ab6af4b68848a5382a987ad47"></p>
+</td>
+<td id="b-8b58cbaa769f4b83bedf18f2f52aef48">
+<p id="b-4f5d6a1b8f6f43dda6cb65222f23b4dd"><span style="color:#000"><span style="font-size:15px">“大东亚圣战”大碑</span></span></p>
+</td>
+</tr>
+<tr id="b-404868142ce14af793ba87d592158eb4">
+<td id="b-454e1d751cb04531b009112662217cc1">
+<p id="b-235510ddeb2e4dacb1ccc1b246ef9c76"></p>
+</td>
+<td id="b-3618d29ebcab4bd9948382d5d436bb01">
+<p id="b-8f40aba6f5db44b6945f1012c2821028"><span style="color:#000"><span style="font-size:15px">大刀洗和平纪念馆、</span></span></p>
+</td>
+</tr>
+<tr id="b-ca790d671a5d4663bbbe79bc49df6fee">
+<td id="b-6567088cee2f41998e6b2d011ef6a220">
+<p id="b-c79119bfc3ca429f9ba1999bc33da0a0"></p>
+</td>
+<td id="b-fae44b8eeb744ee983077bde889072e2">
+<p id="b-b6dfc85909664a4ba99a0a55aeff7e14"><span style="color:#000"><span style="font-size:15px">八纮一字碑</span></span></p>
+</td>
+</tr>
+<tr id="b-542d5915d4c347deb198b3d1e89a0c29">
+<td id="b-b7c5c22ba57b46bdaebfd919dcaa1ce6">
+<p id="b-54cd0d8779b44d60953e963bd29cb26a"></p>
+</td>
+<td id="b-1f99112909534f139d5d46177c6d5468">
+<p id="b-7a71c869703f48ad81ef61055bc1fe05"><span style="color:#000"><span style="font-size:15px">八纮一字塔</span></span></p>
+</td>
+</tr>
+<tr id="b-9eb11e05ac344090a9bb5247a815d6c4">
+<td id="b-85a684c02380412f8e3afe06fa216da6">
+<p id="b-aadae55ee7e94e05a7f1ee27c5dc484c"></p>
+</td>
+<td id="b-c2660b5f840f453fbdcd9ce87048d2be">
+<p id="b-6a0994ad5324471d8026444db325699b"><span style="color:#000"><span style="font-size:15px">耳塚修营供养碑</span></span></p>
+</td>
+</tr>
+<tr id="b-db11653c0db44c58ad67b5bc86a295e8">
+<td id="b-00d1a7f2c48e48048b801632eb1b86bf">
+<p id="b-c3f3d212517a4063a50c93dbc8cb30ef"></p>
+</td>
+<td id="b-fb3c33e66d9949bc9eac5b11738ac69e">
+<p id="b-2291b03c832647f7a151b8292b91d04b"><span style="color:#000"><span style="font-size:15px">福冈崇福寺玄洋社墓地</span></span></p>
+</td>
+</tr>
+<tr id="b-67f26b1facb2442c852c370bfdcfd21b">
+<td id="b-1c4f903cc62e4de48a504d9ab301dd19">
+<p id="b-335544b5504946cf9761643253b8ca66"></p>
+</td>
+<td id="b-4c36a99b91e6405985e1bbb78f38bfdc">
+<p id="b-7c751328c9074d1f94946544baa94668"><span style="color:#000"><span style="font-size:15px">御殿场志魂碑</span></span></p>
+</td>
+</tr>
+<tr id="b-b8fbfb7616ff45ef8d0fd360570c6078">
+<td id="b-4c10f475eeeb42c6bceb414d5b95f5cd">
+<p id="b-b102c56e67af4e0f93b7a0eee11d87e1"></p>
+</td>
+<td id="b-814738926701434a8424f65613c52226">
+<p id="b-2f667ebbe807405189db7ad0a7dba245"><span style="color:#000"><span style="font-size:15px">日本海军司令部战壕旧址</span></span></p>
+</td>
+</tr>
+</table>
+</div>
+</details>
+</li>
+<li id="b-ee130899544c43f4b930ab21fbb94eed"><span style="color:#000"><span style="font-size:15px">发布涉日本军国主义场所周边衍生信息（包括日本军舰，战壕、纪念碑、遗址等信息）；</span></span></li>
+<li id="b-51d4bd4124c1404f87389efd012bb9d4">
+<p id="b-b9cc21a0134d454395ce8a4338933940"><span style="color:#000"><span style="font-size:15px">涉日本战犯名称、形象；</span></span></p>
+<details id="b-f0baff6fa3e348e697c2384f293f4f2c">
+<summary><span style="color:#000"><span style="font-size:15px">战犯名单（有新增，适用于定义3）</span></span></summary>
+<div>
+<table id="b-1b81dddff64841a7bcd24f77ac1aa05c">
+<tr id="b-52057d25da454b5583d28c665c245ed0">
+<td id="b-9b70f988a5244861b88b3c642a4140d8">
+<p id="b-ee50cba2b64944df88d2b974a571debc"></p>
+</td>
+<td id="b-551b54f52a2848bfa90b7ea8dbe0ef9d">
+<p id="b-6f42e5276fd34ec5bc7457fb504b71f4"><span style="color:#000"><span style="font-size:15px"><a href="https://baike.baidu.com/item/%E8%8D%92%E6%9C%A8%E8%B4%9E%E5%A4%AB/7166137?fromModule=lemma_inlink" title="荒木贞夫" id="b-02afd51c2d8542a2989934ce12b04d0e"><span style="color:#000"><span style="font-size:15px">荒木贞夫</span></span></a></span></span></p>
+</td>
+</tr>
+<tr id="b-c729d4efaed64abe82eb6b2052ea1727">
+<td id="b-296973634fd64cfd854c4056d0068eeb">
+<p id="b-ed17ae71487040e5b61c41c0e31080c4"></p>
+</td>
+<td id="b-ef1c1df71b854544bb27e30a967ec3c3">
+<p id="b-b5055c11a0e748d6970baa535acb0f72"><span style="color:#000"><span style="font-size:15px"><a href="https://baike.baidu.com/item/%E6%9D%BF%E5%9E%A3%E5%BE%81%E5%9B%9B%E9%83%8E/300033?fromModule=lemma_inlink" title="板垣征四郎" id="b-8551e79924754702a7f4bfaab2c9da92"><span style="color:#000"><span style="font-size:15px">板垣征四郎</span></span></a></span></span></p>
+</td>
+</tr>
+<tr id="b-023b7f5455e8433aa418958e86bd237c">
+<td id="b-cd9790a91b644089999f4221dfc7fd14">
+<p id="b-b371f970dd104a7f82e5e9daa4e07a1a"></p>
+</td>
+<td id="b-9741415b0ef74dbeaf90f95bbf38d08f">
+<p id="b-c5a3c26353e44a2da9a735b2ad6b36ba"><span style="color:#000"><span style="font-size:15px"><a href="https://baike.baidu.com/item/%E6%A2%85%E6%B4%A5%E7%BE%8E%E6%B2%BB%E9%83%8E/299595?fromModule=lemma_inlink" title="梅津美治郎" id="b-492cf2acadbe448f9decc7825daf5563"><span style="color:#000"><span style="font-size:15px">梅津美治郎</span></span></a></span></span></p>
+</td>
+</tr>
+<tr id="b-6ad8648179954cdb8d37b5c59962081d">
+<td id="b-96fb733cf8aa43d890c1981332c28aa8">
+<p id="b-cbf17de3d66d44408b44981fd2ce6860"></p>
+</td>
+<td id="b-dd99d44c3dce4044ae847a187fa18b00">
+<p id="b-24a3c5b821d346d0a6ebb7a6087d8faa"><span style="color:#000"><span style="font-size:15px"><a href="https://baike.baidu.com/item/%E5%A4%A7%E5%B7%9D%E5%91%A8%E6%98%8E/8021006?fromModule=lemma_inlink" title="大川周明" id="b-bd1aed7a578e4648bd5f5e2c7abfab1d"><span style="color:#000"><span style="font-size:15px">大川周明</span></span></a></span></span></p>
+</td>
+</tr>
+<tr id="b-4dea97d2dcd24d2e9ba94511caf4f289">
+<td id="b-17b4427d55bd45538fd2d1b0993a1c20">
+<p id="b-6d66a19f6f4b43f8a4bc18ba2b477102"></p>
+</td>
+<td id="b-fb42c6c4d0c942509cc1552b7499fa1c">
+<p id="b-dd3bec0594d34d84ac053d3b55b7d860"><span style="color:#000"><span style="font-size:15px"><a href="https://baike.baidu.com/item/%E5%A4%A7%E5%B2%9B%E6%B5%A9/10801443?fromModule=lemma_inlink" title="大岛浩" id="b-dfe7986346b24c8a85128a812c742d06"><span style="color:#000"><span style="font-size:15px">大岛浩</span></span></a></span></span></p>
+</td>
+</tr>
+<tr id="b-1ad3a753959f4d0c9d22481a6297423e">
+<td id="b-66a472470e504ec2b136bd42fbace30e">
+<p id="b-bc929f99792744d9abc44afd2ae48251"></p>
+</td>
+<td id="b-a3fdd455a6dd43efa3d0f024fa3607ed">
+<p id="b-7da460e9ad9d47f9a683820049e97093"><span style="color:#000"><span style="font-size:15px"><a href="https://baike.baidu.com/item/%E5%86%88%E6%95%AC%E7%BA%AF/4031934?fromModule=lemma_inlink" title="冈敬纯" id="b-8ac20c94d0cb42889c95648032cf1e58"><span style="color:#000"><span style="font-size:15px">冈敬纯</span></span></a></span></span></p>
+</td>
+</tr>
+<tr id="b-d7f77da490d44cf18e2176ef34031d5b">
+<td id="b-0482f0a13cfc473bb27204f79a5ed913">
+<p id="b-7aca880d851d40ad80b52b781a58b655"></p>
+</td>
+<td id="b-03b9369281cd495a92e5f52362aa0f19">
+<p id="b-adeec83c3eb14937a9c5a92a43695b93"><span style="color:#000"><span style="font-size:15px"><a href="https://baike.baidu.com/item/%E8%B4%BA%E5%B1%8B%E5%85%B4%E5%AE%A3/2290221?fromModule=lemma_inlink" title="贺屋兴宣" id="b-ac989109e1454bd1b3fce1d55df27fd8"><span style="color:#000"><span style="font-size:15px">贺屋兴宣</span></span></a></span></span></p>
+</td>
+</tr>
+<tr id="b-e681672a9daa41199df7af3a9a9e7447">
+<td id="b-6c6f97deaa644279932ddbd6709f83d6">
+<p id="b-f3053215c85b4b48bcffad2638e8dee9"></p>
+</td>
+<td id="b-fc8a8987ee5c482d926dbc69603a265e">
+<p id="b-13faea0565d64e36afed23c2bff1da75"><span style="color:#000"><span style="font-size:15px"><a href="https://baike.baidu.com/item/%E6%9C%A8%E6%88%B7%E5%B9%B8%E4%B8%80/7114609?fromModule=lemma_inlink" title="木户幸一" id="b-f102a8672373415abc2f71e30211ec12"><span style="color:#000"><span style="font-size:15px">木户幸一</span></span></a></span></span></p>
+</td>
+</tr>
+<tr id="b-a1bdd58f62d64d9387bbcceb0cc6c52f">
+<td id="b-fd7553fa8f5546c0b62ce80c4e5e8460">
+<p id="b-0b488431073f458bb447f07f5a76053f"></p>
+</td>
+<td id="b-198ef443f4ca4e7a8b8da47e30fc0bd8">
+<p id="b-e9177ebfa66c46b2aa7d98b320650eb7"><span style="color:#000"><span style="font-size:15px"><a href="https://baike.baidu.com/item/%E6%9C%A8%E6%9D%91%E5%85%B5%E5%A4%AA%E9%83%8E/4550647?fromModule=lemma_inlink" title="木村兵太郎" id="b-13fb8a33623e437297327b472a01dfc3"><span style="color:#000"><span style="font-size:15px">木村兵太郎</span></span></a></span></span></p>
+</td>
+</tr>
+<tr id="b-7fb510ddd6e14e94b9bbd03606825acc">
+<td id="b-a2c5aa9a24f44861aaf12aff5e765d66">
+<p id="b-0f7f125dc4924fac985b70a97de5a4d4"></p>
+</td>
+<td id="b-2f8442cb5d024525a438b4a61dcb0609">
+<p id="b-96ea91e91e0d4cc1a422382eb2eac82a"><span style="color:#000"><span style="font-size:15px"><a href="https://baike.baidu.com/item/%E5%B0%8F%E7%9F%B6%E5%9B%BD%E6%98%AD/1769100?fromModule=lemma_inlink" title="小矶国昭" id="b-7bcf22f4594d4746aa4f15d6bce9f465"><span style="color:#000"><span style="font-size:15px">小矶国昭</span></span></a></span></span></p>
+</td>
+</tr>
+<tr id="b-2dc42bf8db6c46d4b712c74192123847">
+<td id="b-964ab85ade514a5f8a5bfe406010c8e2">
+<p id="b-d1b660ea4b0c4ec79104e2aea2d60c4c"></p>
+</td>
+<td id="b-233b3b913b7740929f88b5313fa98cb9">
+<p id="b-3d45dc12e70645c6b384b78f35f5047f"><span style="color:#000"><span style="font-size:15px"><a href="https://baike.baidu.com/item/%E4%BD%90%E8%97%A4%E8%B4%A4%E4%BA%86/10807248?fromModule=lemma_inlink" title="佐藤贤了" id="b-4431d245b42a4868854920dac395ec90"><span style="color:#000"><span style="font-size:15px">佐藤贤了</span></span></a></span></span></p>
+</td>
+</tr>
+<tr id="b-8853b2b073444b0291c118c1a7e7a4ae">
+<td id="b-059aee2b43e449acbc72fdd960ca0666">
+<p id="b-af2f65585e6f41a6aa8b4bf99bd2c74f"></p>
+</td>
+<td id="b-3f078c654f604ffba7c8fdfb3c325b6a">
+<p id="b-f46933e9d6f74da998ccff9c24db0b3b"><span style="color:#000"><span style="font-size:15px"><a href="https://baike.baidu.com/item/%E9%87%8D%E5%85%89%E8%91%B5/7166378?fromModule=lemma_inlink" title="重光葵" id="b-8897590103f04a4f8d2cbb00efebe42b"><span style="color:#000"><span style="font-size:15px">重光葵</span></span></a></span></span></p>
+</td>
+</tr>
+<tr id="b-8979d195ee7b4b9d918a94563d705bc0">
+<td id="b-85d8790bac274117b0c4d0dd6b771d8c">
+<p id="b-04eba3b79dea460eb35a874df953c25d"></p>
+</td>
+<td id="b-4e807a3b55eb4ab7800215a3237328de">
+<p id="b-f314e0381af949b1926203ddd71849f7"><span style="color:#000"><span style="font-size:15px"><a href="https://baike.baidu.com/item/%E5%B2%9B%E7%94%B0%E7%B9%81%E5%A4%AA%E9%83%8E/4015650?fromModule=lemma_inlink" title="岛田繁太郎" id="b-bd0cb407496a4d6ebe0ff28ab73c3e72"><span style="color:#000"><span style="font-size:15px">岛田繁太郎</span></span></a></span></span></p>
+</td>
+</tr>
+<tr id="b-c3454f048fcb469ea07c77c996111e12">
+<td id="b-e8c7f074bbc0414b8b406d69594338e3">
+<p id="b-936c943ac38048129671e810454ecd5a"></p>
+</td>
+<td id="b-7ed8ba7781a24322b1cb3e8e547aafc1">
+<p id="b-3fbab7b1be5246f3b94af0f521838f14"><span style="color:#000"><span style="font-size:15px"><a href="https://baike.baidu.com/item/%E7%99%BD%E9%B8%9F%E6%95%8F%E5%A4%AB/1769217?fromModule=lemma_inlink" title="白鸟敏夫" id="b-be725c69566e46fdb21fef29e8b199c3"><span style="color:#000"><span style="font-size:15px">白鸟敏夫</span></span></a></span></span></p>
+</td>
+</tr>
+<tr id="b-c09d30f6ac3f46f78a70bf9c2596707f">
+<td id="b-23dd6ccce8ab47c081c07f38e467c5a0">
+<p id="b-877ad4a9cefb4188aab2e178608c799c"></p>
+</td>
+<td id="b-8ec8f4de61334e14889153c82db2fb3d">
+<p id="b-0f707e58a32d49b48ce0df03a046e329"><span style="color:#000"><span style="font-size:15px"><a href="https://baike.baidu.com/item/%E9%93%83%E6%9C%A8%E8%B4%9E%E4%B8%80/10801134?fromModule=lemma_inlink" title="铃木贞一" id="b-f3508756e4f34610b691b41d24166b31"><span style="color:#000"><span style="font-size:15px">铃木贞一</span></span></a></span></span></p>
+</td>
+</tr>
+<tr id="b-64147d00446143e2b6f929217e6d4838">
+<td id="b-6f0becce5a1b43d784bf791a8583bd8a">
+<p id="b-0f323b21c6f14b3db6acc5d87c7d95f7"></p>
+</td>
+<td id="b-7149b7107d4f42d494cdc18ac88ffda7">
+<p id="b-5d996b3a78f7412e82b247297a21d960"><span style="color:#000"><span style="font-size:15px"><a href="https://baike.baidu.com/item/%E4%B8%9C%E4%B9%A1%E8%8C%82%E5%BE%B7/1769062?fromModule=lemma_inlink" title="东乡茂德" id="b-8e3b2ffcfc7d4258a9f480aaa7ba52f8"><span style="color:#000"><span style="font-size:15px">东乡茂德</span></span></a></span></span></p>
+</td>
+</tr>
+<tr id="b-bcb2dc9e2ee44200b15be594f35ed9ca">
+<td id="b-f640546ec95742e4a62b95208c339596">
+<p id="b-6087f5919c4a4edf89e78f6440a59ccd"></p>
+</td>
+<td id="b-833588616d084760b3a1e293dbca026e">
+<p id="b-c889bb06d5c74ffcb3350d15eb7e3c49"><span style="color:#000"><span style="font-size:15px"><a href="https://baike.baidu.com/item/%E4%B8%9C%E6%9D%A1%E8%8B%B1%E6%9C%BA/198968?fromModule=lemma_inlink" title="东条英机" id="b-7777501ac433476db170c11c7af7339b"><span style="color:#000"><span style="font-size:15px">东条英机</span></span></a></span></span></p>
+</td>
+</tr>
+<tr id="b-664feb6f28e741b799c7821129c5da94">
+<td id="b-6751a784303f40e5a851de55ba19b301">
+<p id="b-a356ba14d0004695800e0e66e4c1c6a9"></p>
+</td>
+<td id="b-45cfd01d5a2149ffa9d0d7c98a9148ee">
+<p id="b-5f1f49feac5844cfa14373079e2956c1"><span style="color:#000"><span style="font-size:15px"><a href="https://baike.baidu.com/item/%E5%9C%9F%E8%82%A5%E5%8E%9F%E8%B4%A4%E4%BA%8C/194081?fromModule=lemma_inlink" title="土肥原贤二" id="b-1a027bcf6393411db3e61ff4a8e559d4"><span style="color:#000"><span style="font-size:15px">土肥原贤二</span></span></a></span></span></p>
+</td>
+</tr>
+<tr id="b-00bd7b870f0f4a0aac2f24aff4ae4209">
+<td id="b-721a9649834243658937682d4e085b5e">
+<p id="b-fc9a31a6712e48729cecaea31fe7b031"></p>
+</td>
+<td id="b-9697ba8c786243f2b2ce7b7d8bba980b">
+<p id="b-10bb7291f8574ce4ac4e15a63c9eefef"><span style="color:#000"><span style="font-size:15px"><a href="https://baike.baidu.com/item/%E6%B0%B8%E9%87%8E%E4%BF%AE%E8%BA%AB/849797?fromModule=lemma_inlink" title="永野修身" id="b-00953d16e3694128af5f8794a8d3ce82"><span style="color:#000"><span style="font-size:15px">永野修身</span></span></a></span></span></p>
+</td>
+</tr>
+<tr id="b-46bb48c0249041e18e23e08853f2e43f">
+<td id="b-c9216b360edc46b0b1e807bee6af8ca0">
+<p id="b-5ea3b4cc50714afdae458566eaf9607a"></p>
+</td>
+<td id="b-9ffb29c1d3c2446eabb7012d0bc87020">
+<p id="b-618ff01ce7b549848825b1343e04a411"><span style="color:#000"><span style="font-size:15px"><a href="https://baike.baidu.com/item/%E6%A1%A5%E6%9C%AC%E6%AC%A3%E4%BA%94%E9%83%8E/6588479?fromModule=lemma_inlink" title="桥本欣五郎" id="b-f38ed3ef6837439a8a0fdbe334572588"><span style="color:#000"><span style="font-size:15px">桥本欣五郎</span></span></a></span></span></p>
+</td>
+</tr>
+<tr id="b-c826a6fa81f642c5a4c40b52b3ed5c3f">
+<td id="b-9efdfc53d45b4f0590114b6736d8e0f1">
+<p id="b-1136958c64e447f28b08eba9732dfce8"></p>
+</td>
+<td id="b-bec4ed78a2854e0bab60fb8f402846a8">
+<p id="b-ce3047e010ca4852837aba976e770747"><span style="color:#000"><span style="font-size:15px"><a href="https://baike.baidu.com/item/%E7%95%91%E4%BF%8A%E5%85%AD/6536789?fromModule=lemma_inlink" title="畑俊六" id="b-0e24064a1f604e3195db5d5e2f94fdbd"><span style="color:#000"><span style="font-size:15px">畑俊六</span></span></a></span></span></p>
+</td>
+</tr>
+<tr id="b-4c8fbed5a4bc4bb99ead6a9f6bf18cc8">
+<td id="b-e75b3d825d8e4f34ae99370a4dbd0139">
+<p id="b-eddf6891e65e45628e4b681737067bad"></p>
+</td>
+<td id="b-1f22858dfbf64db08be7e91600dff19d">
+<p id="b-9fa5e8124e0149e1a313759c9f147a1c"><span style="color:#000"><span style="font-size:15px"><a href="https://baike.baidu.com/item/%E5%B9%B3%E6%B2%BC%E9%AA%90%E4%B8%80%E9%83%8E/4550687?fromModule=lemma_inlink" title="平沼骐一郎" id="b-a763ee8d32e7446ba1578bf4a337472b"><span style="color:#000"><span style="font-size:15px">平沼骐一郎</span></span></a></span></span></p>
+</td>
+</tr>
+<tr id="b-fe6fece815464d83a07248bb032a574b">
+<td id="b-19acc4135f554541943250331eee95f4">
+<p id="b-920dadc244dd472d99322fac5c29fb09"></p>
+</td>
+<td id="b-d3e3c02cadfc4411bd5133aeefaca3fb">
+<p id="b-ff167410a9d24ddfa469d3a7035b7eb4"><span style="color:#000"><span style="font-size:15px"><a href="https://baike.baidu.com/item/%E5%B9%BF%E7%94%B0%E5%BC%98%E6%AF%85/4550628?fromModule=lemma_inlink" title="广田弘毅" id="b-825666badb364ba78c2da4113b6e0135"><span style="color:#000"><span style="font-size:15px">广田弘毅</span></span></a></span></span></p>
+</td>
+</tr>
+<tr id="b-7dc0721e8e7048e28abacc9d9e157945">
+<td id="b-281c1e3284ac405592cd36ff2216c6e3">
+<p id="b-d4bd233aca614f5181128f4008d1516b"></p>
+</td>
+<td id="b-f46be99d1955435e80be9d4b231ab334">
+<p id="b-1c2ed06a061e4a61a55b2251d61e2b19"><span style="color:#000"><span style="font-size:15px"><a href="https://baike.baidu.com/item/%E6%98%9F%E9%87%8E%E7%9B%B4%E6%A0%91/2289919?fromModule=lemma_inlink" title="星野直树" id="b-9a8ac56e33d6449a87abc310672aae9b"><span style="color:#000"><span style="font-size:15px">星野直树</span></span></a></span></span></p>
+</td>
+</tr>
+<tr id="b-14ff62abbfcb4e1285615e8464527685">
+<td id="b-221b929578e54b3e9a149e703fa188af">
+<p id="b-9d2c75747089412b8681f8c9ebc38a50"></p>
+</td>
+<td id="b-eb55d5fd93774beeacce29bf70ecf077">
+<p id="b-b553ac59ce3f4a3bb97f863aaea0f2b6"><span style="color:#000"><span style="font-size:15px"><a href="https://baike.baidu.com/item/%E6%9D%BE%E4%BA%95%E7%9F%B3%E6%A0%B9/199970?fromModule=lemma_inlink" title="松井石根" id="b-d7af2c96479e4546acc6f142f23b216d"><span style="color:#000"><span style="font-size:15px">松井石根</span></span></a></span></span></p>
+</td>
+</tr>
+<tr id="b-2bbc56b9911c47a0b5dbbd88d5e96be6">
+<td id="b-8c5c6dec310042d58e71ace6fc372379">
+<p id="b-01d39ffeae254c669d8cdde46a5ba20d"></p>
+</td>
+<td id="b-6babe74310574e9a9140f086c77d9be9">
+<p id="b-4b6a4a1bf40b4436895a790e08ccd8cb"><span style="color:#000"><span style="font-size:15px"><a href="https://baike.baidu.com/item/%E6%9D%BE%E5%86%88%E6%B4%8B%E5%8F%B3/1769328?fromModule=lemma_inlink" title="松冈洋右" id="b-f76f9f4b1cfb40939c71aed3ad5e2edf"><span style="color:#000"><span style="font-size:15px">松冈洋右</span></span></a></span></span></p>
+</td>
+</tr>
+<tr id="b-bf144e72b71e4bcd93ae1b146df7adc4">
+<td id="b-65aa20f3ed4e4d10b61fc796233c84ab">
+<p id="b-15a6b4fe8fc64ba7b62340419c8e9b8d"></p>
+</td>
+<td id="b-225e6ed7923c4c39962a8e0826493845">
+<p id="b-35edbeac3bad4fb5a6a620c751f8accf"><span style="color:#000"><span style="font-size:15px"><a href="https://baike.baidu.com/item/%E5%8D%97%E6%AC%A1%E9%83%8E/6532164?fromModule=lemma_inlink" title="南次郎" id="b-4a4e2d13292d49e4a3f2b10296f1034c"><span style="color:#000"><span style="font-size:15px">南次郎</span></span></a></span></span></p>
+</td>
+</tr>
+<tr id="b-19bbb1e8db5944228b035aef7699b5b1">
+<td id="b-8c10bc0edfaf48a8860aecb2ab078914">
+<p id="b-abf4ea79e5d247dead8cba055a0e6511"></p>
+</td>
+<td id="b-d84fdf32a2c94358b70cea64bb7c5a26">
+<p id="b-8d1f9671d2c44bbea819276116896339"><span style="color:#000"><span style="font-size:15px"><a href="https://baike.baidu.com/item/%E6%AD%A6%E8%97%A4%E7%AB%A0/4906296?fromModule=lemma_inlink" title="武藤章" id="b-4fa6c54ab6884cc69983230aed2f54ba"><span style="color:#000"><span style="font-size:15px">武藤章</span></span></a></span></span></p>
+</td>
+</tr>
+<tr id="b-8d6029373da548dd912800defa4390f2">
+<td id="b-20b5459665d349238cf6087c137de228">
+<p id="b-c2bf19cb78424a7fa985d635aa53e61e"></p>
+</td>
+<td id="b-0559f613ad9d4affbafa51d7e6d35b4e">
+<p id="b-d1ddea652fed42f5a7861ec2b8ba8258"><span style="color:#000"><span style="font-size:15px"><a href="https://baike.baidu.com/item/%E5%B1%B1%E6%9C%AC%E4%BA%94%E5%8D%81%E5%85%AD/5497" title="山本五十六" id="b-bb41de5d9ce04f93b69bd5dc3c8b9560"><span style="color:#000"><span style="font-size:15px">山本五十六</span></span></a></span></span></p>
+</td>
+</tr>
+<tr id="b-1c2c3de5b4ad4ea6a5c048e82d9a341e">
+<td id="b-46cd867fb0a1459d8bfbd1884238f214">
+<p id="b-432892834a7d4a55824b9a98d6e45c5f"></p>
+</td>
+<td id="b-b578dbeb585c426ca5c6ac161e4e4a2c">
+<p id="b-ed41818cbc4740af857df9ca793e69c8"><span style="color:#000"><span style="font-size:15px">本间雅晴</span></span></p>
+</td>
+</tr>
+<tr id="b-42e532a9f60045b192211ea415d11af1">
+<td id="b-62b8f4d0df144b408a6e8814d19b4a4d">
+<p id="b-5fede4ca7ed742599ecf6b8f06c89b54"></p>
+</td>
+<td id="b-c6f6bde2ae5a4354a7095eae50f7b026">
+<p id="b-174c2f9910c849aaa02413ee809398bd"><span style="color:#000"><span style="font-size:15px">横山勇</span></span></p>
+</td>
+</tr>
+<tr id="b-4def9720f54449459cc2fc582fd1a231">
+<td id="b-375aefe0a1c441d691c3f389c0457b16">
+<p id="b-75d21bdcffa84a2e9f307082b40cba5a"></p>
+</td>
+<td id="b-5c1e02f7e1cc4329bc754840f84743dd">
+<p id="b-4b17f603db954839b5b6c13230537d5c"><span style="color:#000"><span style="font-size:15px">栗林忠道</span></span></p>
+</td>
+</tr>
+<tr id="b-8c9c9a05277b454ba796b32066c596c5">
+<td id="b-87ebc098396843d4b031ae1beee4ce20">
+<p id="b-cb208ee481da4bccb2da51cc8c4abcef"></p>
+</td>
+<td id="b-a4104f90f8be44b0a139bbb16f7e60e2">
+<p id="b-564954e69b174a198dd3c97224b1fdce"><span style="color:#000"><span style="font-size:15px">山口多闻</span></span></p>
+</td>
+</tr>
+<tr id="b-68a6fa5cd12c47cf8bb1f420715e8009">
+<td id="b-fee0b958ba764aa19f6391de47ed531e">
+<p id="b-9982ad4feba1434382c20c1ce4936152"></p>
+</td>
+<td id="b-d206a415d9534b8eb9b31ad1a62d4ba9">
+<p id="b-a3d5a0a091a945348d938b97c6f8801b"><span style="color:#000"><span style="font-size:15px">寺内寿一</span></span></p>
+</td>
+</tr>
+<tr id="b-de663b4674544c258ca71fc304b6ffce">
+<td id="b-5389a70057e140e6b00f0b60e08d9294">
+<p id="b-d7c83c4967c04baaba0cccdcb80079e4"></p>
+</td>
+<td id="b-169aa092069042d397d7e31bc32cd4ae">
+<p id="b-a6bad43240ad43c98a5c517e6076aa5c"><span style="color:#000"><span style="font-size:15px">小泽治三郎</span></span></p>
+</td>
+</tr>
+<tr id="b-c6af9ab3c1b14692b1bce0e7c26d1589">
+<td id="b-59fd267223a74843b31025e626b978e5">
+<p id="b-5e00343796ee4164b0061766ee949339"></p>
+</td>
+<td id="b-f71e47640e9e4319a36b9c7e9e4ee1cb">
+<p id="b-43962f95215846f091b79ad15cbd5de8"><span style="color:#000"><span style="font-size:15px">山下奉文</span></span></p>
+</td>
+</tr>
+<tr id="b-8e1ca3996f6d45c4895e3db8b72d7337">
+<td id="b-99cf03b5f9f44199ac2246fd1569cf86">
+<p id="b-e836ef8b613748c7a18301c2dfcc9f0e"></p>
+</td>
+<td id="b-2e61186721c14a6193280e5c4cd1f278">
+<p id="b-35baec1748874072befeaea9cc98bc79"><span style="color:#000"><span style="font-size:15px">冈村宁次</span></span></p>
+</td>
+</tr>
+<tr id="b-5ecadd69c2e24fb980716afa5790159b">
+<td id="b-5f9fb2a45f654d21b12596d8d87f25f9">
+<p id="b-deda4661afa440bf9b683a34d7b9aac1"></p>
+</td>
+<td id="b-c70d579091c3406c8440295c7a970fb1">
+<p id="b-b29b51456f7d43d8909e322b6c1aac61"><span style="color:#000"><span style="font-size:15px">谷寿夫</span></span></p>
+</td>
+</tr>
+<tr id="b-1a2b71dcf4864cfdb6c563d1e41ebbab">
+<td id="b-8dbf064019004502a433ba1605fa38ce">
+<p id="b-504a1d682a1745eb9f60e5904be2aaed"></p>
+</td>
+<td id="b-59971fb648044f8db174e399c3c1db09">
+<p id="b-fa637768ea5645dbbf27661916bd4a32"><span style="color:#000"><span style="font-size:15px">田中军吉</span></span></p>
+</td>
+</tr>
+<tr id="b-413df4860d4e49a2865ea2ce432d7875">
+<td id="b-84ce19cab82149fe90616bf731204d66">
+<p id="b-faec8d28ffcd422baef6fb361becc7cf"></p>
+</td>
+<td id="b-4d2330c2e6f045a2b57351b57485937f">
+<p id="b-16e64d9dc13647a7b93f4e0cce3fb47a"><span style="color:#000"><span style="font-size:15px">向井敏明</span></span></p>
+</td>
+</tr>
+<tr id="b-86a958d639a445b5a876e114abae1ccf">
+<td id="b-0fc44e012c0144159c0840448b26a0c2">
+<p id="b-1df5a60aaa0e4c82aa2e588ce97e8a02"></p>
+</td>
+<td id="b-a0154bb52ee744aeb386cdf073d7e0ed">
+<p id="b-c0d8915724734735886571156379aa6c"><span style="color:#000"><span style="font-size:15px">野田毅</span></span></p>
+</td>
+</tr>
+<tr id="b-c60b45ef17c64191814ff37fd612831c">
+<td id="b-1ff1e7b82e1c4543a8c438a910fcb744">
+<p id="b-d7f6e0f09f1145b5af2d42d479191aec"></p>
+</td>
+<td id="b-03e44fee59b04373a3c4bef987fe92c7">
+<p id="b-ccfa3d93d6d048099df2d7935cf0de78"><span style="color:#000"><span style="font-size:15px">河边正三</span></span></p>
+</td>
+</tr>
+<tr id="b-cb104f6e101d4432b8a1e6555ed6fd8b">
+<td id="b-e40556536de84f928702f30e4f5feacd">
+<p id="b-923f4c74889f4e74a04cb884aa35d3e4"></p>
+</td>
+<td id="b-5e259c4273794c6685491891dec28237">
+<p id="b-7808efde1c7b4b88b7148c773462747d"><span style="color:#000"><span style="font-size:15px">中村明人</span></span></p>
+</td>
+</tr>
+<tr id="b-953bb73146b34bc8badc4b70ba231848">
+<td id="b-1610ca34d8c74d7ea6d20bfa34c8fdc7">
+<p id="b-9f67af3f4a1a477eb6cd99dec80f0d29"></p>
+</td>
+<td id="b-b1eaa2a7fd084c888f4c465f874206e4">
+<p id="b-9c675645d9ca4ddeb5ba352f00f5f9b5"><span style="color:#000"><span style="font-size:15px">真崎甚三郎</span></span></p>
+</td>
+</tr>
+<tr id="b-51ee4efa1dd64524a8b89121b1e203a9">
+<td id="b-26a1999752994cb4b13de457aab0d06c">
+<p id="b-5a6df8e2f49742eab2df14e125faddbf"></p>
+</td>
+<td id="b-91dc2e1f341944d390b28a9987e36b7c">
+<p id="b-4dadafb31c944d6d93d2a7e49688eef2"><span style="color:#000"><span style="font-size:15px">安倍源基</span></span></p>
+</td>
+</tr>
+<tr id="b-47d757d0a00e4b8c932c852a45527265">
+<td id="b-d916592c40d8414a94cd840c08c21768">
+<p id="b-10dc6c6f20444105996cafc01d0d5873"></p>
+</td>
+<td id="b-8cb66787de654c549851111ee03a243e">
+<p id="b-ada2dcf4ef804f7eb638985e7ecfc96f"><span style="color:#000"><span style="font-size:15px">菊池武夫</span></span></p>
+</td>
+</tr>
+<tr id="b-cf26676fc06a4f92879dfef07b00211a">
+<td id="b-1f2b8a0ef65f49549eb0ef51ea15414c">
+<p id="b-db1ccd917b0844e0ba9876da6d3f88e7"></p>
+</td>
+<td id="b-9bcf1a257d794c748fb0c696e90f42e2">
+<p id="b-5cf3be713b73429a832ba31da50b1f59"><span style="color:#000"><span style="font-size:15px">小泉亲彦</span></span></p>
+</td>
+</tr>
+<tr id="b-67282380c18347559e29c0aef48b753f">
+<td id="b-0e3abde383bc4253962bb6ebe54db6cc">
+<p id="b-6e26632e529b4a24855a23031ba7aefc"></p>
+</td>
+<td id="b-4337a21a32724fa6bb041550dab4bfc6">
+<p id="b-6fc845cf1b8747b9806b0ef6ffd9b80d"><span style="color:#000"><span style="font-size:15px">东乡平八郎</span></span></p>
+</td>
+</tr>
+<tr id="b-c5b4a74a9aa540e08ebfc3f5569e4759">
+<td id="b-f45d7d739d784b3ea8e992863d423876">
+<p id="b-782128d5c8dd4b42be3a329a621af0da"></p>
+</td>
+<td id="b-1d9a7a66277a4d0bbe690b7c7a831ac1">
+<p id="b-be213e59bcf3440694ca4c91672cc550"><span style="color:#000"><span style="font-size:15px">乃木希典</span></span></p>
+</td>
+</tr>
+<tr id="b-f17b40213808438991ee6befe087cd65">
+<td id="b-4dddf3b1a5c04c6e9e6051f82dd94088">
+<p id="b-a3353935808d42fb955e700ccad3bebc"></p>
+</td>
+<td id="b-dceac5021543444187a0b80fc642b2fd">
+<p id="b-483ff4b50d6e4ec5a9aeede85bfbd571"><span style="color:#000"><span style="font-size:15px">儿玉源太郎</span></span></p>
+</td>
+</tr>
+<tr id="b-6821822ae4484eee926575a4ea6494e6">
+<td id="b-a2975ef74dbe4ae09abfa082213b4bd2">
+<p id="b-cb06f9a62e864c309490f3dfdcf38bfe"></p>
+</td>
+<td id="b-2b420045ba944c5d825f39e47dfdafe6">
+<p id="b-fda0b3d1e1674c9fa781c2a5da0b0dab"><span style="color:#000"><span style="font-size:15px">西乡从道</span></span></p>
+</td>
+</tr>
+</table>
+</div>
+</details>
+</li>
+</ol>
+<p id="b-aaf65fc414eb4696925965c174ae47b8"><span style="color:#00BA73"><span style="font-size:15px"><strong>豁免</strong></span></span></p>
+<ol id="b-d76b54bc6de147a0830c5cd39d33879c">
+<li id="b-bf7de737ceb54ed99cc6ef816dcdaf88"><span style="color:#000"><span style="font-size:15px">抗战题材的影视剧/剧照/科普资料/历史纪录片/游戏/话剧/舞台剧等场景中出现日本神社和战犯名称、形象；</span></span></li>
+<li id="b-93a91cb8f2e1420791f3cfeaa1799be6"><span style="color:#000"><span style="font-size:15px">国内名人故居、纪念抗战的博物馆/纪念馆/史料馆场景中出现日本神社和战犯名称、形象；</span></span></li>
+</ol>
+</td>
+<td id="b-5834342d98f34f15a30b116ba5e8af1e">
+<ol id="b-8d1c187ec8f34e2da15b13e2eda7dda9">
+<li id="b-78339bfc394d4a2699ea43cd81cd7a87">
+<p id="b-f180c75229fd43369475f055bf5dc489"><span style="color:#000"><span style="font-size:15px">军国主义倾向的神社/神宫</span></span></p>
+<ul id="b-a8bd346781ac48a49c9c7647ef7ad625">
+<li id="b-bd4b3f0defe94b81b35257f9a04b04fb"><span style="color:#000"><span style="font-size:15px">靖国神社的樱花值得一看</span></span></li>
+<li id="b-61c9fdc1719743e0a4b63e5cd40ce649"><span style="color:#000"><span style="font-size:15px">新年的时候去过新仓浅间神社参拜</span></span></li>
+</ul>
+</li>
+</ol>
+</td>
+<td id="b-df6cebbf3e3a4342a851bcb4c2f239c9">
+<ol id="b-f1a7c58966014535a97101ececbe0245">
+<li id="b-c9487037026c42aabfb51b0b86277c55">
+<p id="b-75d9c03f602641f2a1cdd36b81e66b32">战犯名单</p>
+<details id="b-c79198e8602a4cb992e18f7c3167fb5b">
+<summary><span style="color:#000"><span style="font-size:15px">案例</span></span></summary>
+<div>
+<table id="b-e8fd8d1f5b464e2f9cfa5e4cd2cb5734">
+<tr id="b-2e9486edc30a41d69785ac899a39d996">
+<th id="b-79d4b56b6eb54d049aac4c477889b824">
+<p id="b-1c41dff9189247f98a45bcd64c0da59d"><span style="color:#000"><span style="font-size:15px">姓名</span></span></p>
+</th>
+<th id="b-950c321c50d048d6a0f902896db04443">
+<p id="b-40df48a778794609b6324ff10268a854"><span style="color:#000"><span style="font-size:15px">图片</span></span></p>
+</th>
+</tr>
+<tr id="b-74f0263b51e640aca8f4e751433b4760">
+<td id="b-68db65d3782548c58a695523b6f480f4">
+<p id="b-c7ccea85857e4513a02f9e773cb18938" style="text-align:start"><a href="https://baike.baidu.com/item/%E8%8D%92%E6%9C%A8%E8%B4%9E%E5%A4%AB/7166137?fromModule=lemma_inlink" title="荒木贞夫" id="b-479fb85465cd4d34aabea0f3f47ef1d6"><span style="color:#000"><span style="font-size:15px">荒木贞夫</span></span></a></p>
+</td>
+<td id="b-da1d264b554d456b87aa44ac8ce35083">
+<p id="b-10b681bbb9ff43c08e67a9aef21b6120"><img src="https://km.sankuai.com/api/file/cdn/1625309615/257394037710?&amp;contentType=1&amp;isNewContent=false" width="144" height="179" id="b-742adad5b48d4a3ea02d22d4088cff35" alt="原文图片（需学城权限）"></p>
+</td>
+</tr>
+<tr id="b-ed9eb936fe23412b9c1c1b90e1299b3f">
+<td id="b-ad3b9c7aba4449ca8956211d7139f427">
+<p id="b-6c448f4377234dcabcc182f0cecc0d6a"><a href="https://baike.baidu.com/item/%E6%9D%BF%E5%9E%A3%E5%BE%81%E5%9B%9B%E9%83%8E/300033?fromModule=lemma_inlink" title="板垣征四郎" id="b-9537c431c622461ea747579c5dd13564"><span style="color:#000"><span style="font-size:15px">板垣征四郎</span></span></a></p>
+</td>
+<td id="b-f308dcef75984776a98f8e864bcf7dc3">
+<p id="b-58abaef8850f4571b62d0da0f41097be"><img src="https://km.sankuai.com/api/file/cdn/1625309615/257396622979?&amp;contentType=1&amp;isNewContent=false" width="140" height="180" id="b-2bcb9668107b44f1a36c345f74c909b0" alt="原文图片（需学城权限）"></p>
+</td>
+</tr>
+<tr id="b-9348f139761b40c58a49c5f6dd761a56">
+<td id="b-ad20ad30f8494aba815e8e1e6b9649f3">
+<p id="b-743a49aa29274e489d7b147dbf273cb5"><a href="https://baike.baidu.com/item/%E6%A2%85%E6%B4%A5%E7%BE%8E%E6%B2%BB%E9%83%8E/299595?fromModule=lemma_inlink" title="梅津美治郎" id="b-1508a4958b0648159973483744967df4"><span style="color:#000"><span style="font-size:15px">梅津美治郎</span></span></a></p>
+</td>
+<td id="b-a4e800f97d6043ff8d47682a29363e12">
+<p id="b-8d8555f3ae4d471e9cb51f72cc682b8c"><img src="https://km.sankuai.com/api/file/cdn/1625309615/257393560147?&amp;contentType=1&amp;isNewContent=false" width="160" height="177" id="b-d1d161b1d2d94518bdce40cf3b7c459b" alt="原文图片（需学城权限）"></p>
+</td>
+</tr>
+<tr id="b-c5d5e22bba384b718048e89215326ce8">
+<td id="b-a25d435ff14242ada7868f3daab3744c">
+<p id="b-0fb1f3ba3e944f9fbfacf7e9b30f5a2a"><a href="https://baike.baidu.com/item/%E5%A4%A7%E5%B7%9D%E5%91%A8%E6%98%8E/8021006?fromModule=lemma_inlink" title="大川周明" id="b-1e723675d7c248c7a898d7823c5b3eee"><span style="color:#000"><span style="font-size:15px">大川周明</span></span></a></p>
+</td>
+<td id="b-b098fabfb60248d1a95b7c8faea1c092">
+<p id="b-c3d71e47dc284355a9667a4df89effa0"><img src="https://km.sankuai.com/api/file/cdn/1625309615/257395189278?&amp;contentType=1&amp;isNewContent=false" width="133" height="174" id="b-c0e4bd9ad1dd4bdfbf298f1a6cd940d1" alt="原文图片（需学城权限）"></p>
+</td>
+</tr>
+<tr id="b-fe2fb0a43ff14fdc8026b43972dfff34">
+<td id="b-499ee4c9661b43f0a19441989ede4e6b">
+<p id="b-e5403489b2f247ffbf54a62b70f66855"><a href="https://baike.baidu.com/item/%E5%A4%A7%E5%B2%9B%E6%B5%A9/10801443?fromModule=lemma_inlink" title="大岛浩" id="b-afbabb74c3564ad8acd9f061de61ae41"><span style="color:#000"><span style="font-size:15px">大岛浩</span></span></a></p>
+</td>
+<td id="b-b6364bd1d60d40599fa836927768f80a">
+<p id="b-36513f0cc033499a89178bd85c5b3649"><img src="https://km.sankuai.com/api/file/cdn/1625309615/257393719835?&amp;contentType=1&amp;isNewContent=false" width="158" height="174" id="b-fc6a0c10e44543219b70f4253a80e084" alt="原文图片（需学城权限）"></p>
+</td>
+</tr>
+<tr id="b-ea766cb1111641a493eef3c44bb72a55">
+<td id="b-e8a5a6f38025469983c1a9d4eb649378">
+<p id="b-d30efa026d96477ab4abedac122166cc"><a href="https://baike.baidu.com/item/%E5%86%88%E6%95%AC%E7%BA%AF/4031934?fromModule=lemma_inlink" title="冈敬纯" id="b-9659bd3dddce439a86be624ade55068d"><span style="color:#000"><span style="font-size:15px">冈敬纯</span></span></a></p>
+</td>
+<td id="b-4267315a9ee34392a001d3c6102d346a">
+<p id="b-e317b912cb104fe284202ef5b173ff1d"><img src="https://km.sankuai.com/api/file/cdn/1625309615/257393880335?&amp;contentType=1&amp;isNewContent=false" width="164" height="171" id="b-ce342792fb894f98bac1609127b9cbd4" alt="原文图片（需学城权限）"></p>
+</td>
+</tr>
+<tr id="b-d3cce793a29240868075186476360efb">
+<td id="b-d64266605c1949729ef37f8e11fd606a">
+<p id="b-7af4ebf689e845abb4dbece36240a81d"><a href="https://baike.baidu.com/item/%E8%B4%BA%E5%B1%8B%E5%85%B4%E5%AE%A3/2290221?fromModule=lemma_inlink" title="贺屋兴宣" id="b-88e8eba671e54a11b309d3335b0009ad"><span style="color:#000"><span style="font-size:15px">贺屋兴宣</span></span></a></p>
+</td>
+<td id="b-7ca88fef6f864a01ae3e3b07b20fe43d">
+<p id="b-b88cdc67711e44e2ad4b5036047eaaaa"><img src="https://km.sankuai.com/api/file/cdn/1625309615/257396145642?&amp;contentType=1&amp;isNewContent=false" width="143" height="174" id="b-6051c8de012246c5a268bb8f98795131" alt="原文图片（需学城权限）"></p>
+</td>
+</tr>
+<tr id="b-4a14a07067ea455ca49d039d4e27c2ea">
+<td id="b-2aae8ff9143a4053b6590e1cf71232cb">
+<p id="b-cb6fa7cdea3c42bcb037c65c1506b436"><a href="https://baike.baidu.com/item/%E6%9C%A8%E6%88%B7%E5%B9%B8%E4%B8%80/7114609?fromModule=lemma_inlink" title="木户幸一" id="b-8633ad02ea4e417d828b10afebcd4773"><span style="color:#000"><span style="font-size:15px">木户幸一</span></span></a></p>
+</td>
+<td id="b-2498d0dd860d410fa7c8a09ccbd6fe3b">
+<p id="b-4ba6d1220ef84b3b98c477beed36f340"><img src="https://km.sankuai.com/api/file/cdn/1625309615/257396622967?&amp;contentType=1&amp;isNewContent=false" width="164" height="179" id="b-7725a555c4fe47c486c589f01a8fcad1" alt="原文图片（需学城权限）"></p>
+</td>
+</tr>
+<tr id="b-13c1db2386fd48908855185f322718b9">
+<td id="b-e1ca3490fb0d4b78bccd56061563009a">
+<p id="b-eebd775d54b44979ba61efb677c2134e"><a href="https://baike.baidu.com/item/%E6%9C%A8%E6%9D%91%E5%85%B5%E5%A4%AA%E9%83%8E/4550647?fromModule=lemma_inlink" title="木村兵太郎" id="b-d05bb43a042d4b7396dc6a11a904db31"><span style="color:#000"><span style="font-size:15px">木村兵太郎</span></span></a></p>
+</td>
+<td id="b-88754d90f1674f34b55013d5c86c5529">
+<p id="b-e4430462c39049baae31d6e5ed19127a"><img src="https://km.sankuai.com/api/file/cdn/1625309615/257395349161?&amp;contentType=1&amp;isNewContent=false" width="156" height="166" id="b-d35b4c776925422aa4b19954adf80a78" alt="原文图片（需学城权限）"></p>
+</td>
+</tr>
+<tr id="b-b57bfd08fa2c41179f89bfb2c6a0a446">
+<td id="b-c5ff52eabb384263afc5240d18354643">
+<p id="b-4d9998567c0a4729b3ce711b91258197"><a href="https://baike.baidu.com/item/%E5%B0%8F%E7%9F%B6%E5%9B%BD%E6%98%AD/1769100?fromModule=lemma_inlink" title="小矶国昭" id="b-7a9218ae481b4e2a9c68cbb3359c6195"><span style="color:#000"><span style="font-size:15px">小矶国昭</span></span></a></p>
+</td>
+<td id="b-8c40dc36dfc84bd2820b9f7beeffd1fd">
+<p id="b-a86fff2fec5444be9c7ca6a9d4d7e4a8"><img src="https://km.sankuai.com/api/file/cdn/1625309615/257396940063?&amp;contentType=1&amp;isNewContent=false" width="168" height="167" id="b-1f670f05f9e84332989086e36b942827" alt="原文图片（需学城权限）"></p>
+</td>
+</tr>
+<tr id="b-9b83ec635b574cbc8e1daa8efd509460">
+<td id="b-6616ee77783f4ddfa6031660a915e933">
+<p id="b-747c7996b80a41cfae51cb59e64e056d"><a href="https://baike.baidu.com/item/%E4%BD%90%E8%97%A4%E8%B4%A4%E4%BA%86/10807248?fromModule=lemma_inlink" title="佐藤贤了" id="b-94a603c42e124a9e9000626a28937f81"><span style="color:#000"><span style="font-size:15px">佐藤贤了</span></span></a></p>
+</td>
+<td id="b-262353c40bd94f92b778f3a0d18dec4f">
+<p id="b-ba5df418f4d84e93b77d136b95b7c982"><img src="https://km.sankuai.com/api/file/cdn/1625309615/257392848429?&amp;contentType=1&amp;isNewContent=false" width="134" height="174" id="b-1e52ca0705124f87bf5e973323e705c1" alt="原文图片（需学城权限）"></p>
+</td>
+</tr>
+<tr id="b-2cb59a324cad4145a86220860b45914f">
+<td id="b-340b6113bd184eb6af20f19485d182f9">
+<p id="b-b2070da69e12419dba5dce813fdb18fb"><a href="https://baike.baidu.com/item/%E9%87%8D%E5%85%89%E8%91%B5/7166378?fromModule=lemma_inlink" title="重光葵" id="b-b15407996a4548c99fcfa8b1935f8625"><span style="color:#000"><span style="font-size:15px">重光葵</span></span></a></p>
+</td>
+<td id="b-eba578e6c2644d55a80beeffddbef2b6">
+<p id="b-0966ab9238ac44b2beff92a8f8ad5784"><img src="https://km.sankuai.com/api/file/cdn/1625309615/257393880333?&amp;contentType=1&amp;isNewContent=false" width="156" height="179" id="b-e6d763ffad534421b3f75c1ae8d0b934" alt="原文图片（需学城权限）"></p>
+</td>
+</tr>
+<tr id="b-e14bc1afb1f14414815f9b4b35bc3685">
+<td id="b-7f27f6bf3e1e42f59f4883f7d8f0965d">
+<p id="b-2dd272c4ba6a4a8cace2e01d9d4fe45b"><a href="https://baike.baidu.com/item/%E5%B2%9B%E7%94%B0%E7%B9%81%E5%A4%AA%E9%83%8E/4015650?fromModule=lemma_inlink" title="岛田繁太郎" id="b-37b667d1f8ee4bf892052fdab7e8d1d2"><span style="color:#000"><span style="font-size:15px">岛田繁太郎</span></span></a></p>
+</td>
+<td id="b-3cf98fccee2e4b32b313db0f333d2f37">
+<p id="b-20f78dc02dc04f01bfb7abcff4b643e1"><img src="https://km.sankuai.com/api/file/cdn/1625309615/257396940062?&amp;contentType=1&amp;isNewContent=false" width="142" height="174" id="b-76ba841723324086bdf6c5165223e056" alt="原文图片（需学城权限）"></p>
+</td>
+</tr>
+<tr id="b-c19b2ce03be74dec82c1649888179c7f">
+<td id="b-3a7174187e324270b433a002e10960be">
+<p id="b-8b6337e045794b9ba2bbe8d107c6ec1a"><a href="https://baike.baidu.com/item/%E7%99%BD%E9%B8%9F%E6%95%8F%E5%A4%AB/1769217?fromModule=lemma_inlink" title="白鸟敏夫" id="b-00fb30c003cf4a908933c36410a1a7d7"><span style="color:#000"><span style="font-size:15px">白鸟敏夫</span></span></a></p>
+</td>
+<td id="b-e9614fbccca3407a84d721014b0d2b5b">
+<p id="b-7d72bf8d3a52434ebc268491141fec2d"><img src="https://km.sankuai.com/api/file/cdn/1625309615/257395509392?&amp;contentType=1&amp;isNewContent=false" width="137" height="169" id="b-6b616742d9b94f3fb3584f7fe7668873" alt="原文图片（需学城权限）"></p>
+</td>
+</tr>
+<tr id="b-6044ff93ebda4adaa642cf918690f56b">
+<td id="b-8c8b07a9c88c47cbb1233ad8fa2e31cd">
+<p id="b-ca8ba4c1299e4b6682131066dbf6f937"><a href="https://baike.baidu.com/item/%E9%93%83%E6%9C%A8%E8%B4%9E%E4%B8%80/10801134?fromModule=lemma_inlink" title="铃木贞一" id="b-e318074c94d34579995998ea6fb1066a"><span style="color:#000"><span style="font-size:15px">铃木贞一</span></span></a></p>
+</td>
+<td id="b-d140b94969e443fcb16565079652019b">
+<p id="b-4b0ae6d260f94708bbd19aac5ba05c21"><img src="https://km.sankuai.com/api/file/cdn/1625309615/257393799248?&amp;contentType=1&amp;isNewContent=false" width="133" height="173" id="b-5395c38f099349ac817f0fe21b268464" alt="原文图片（需学城权限）"></p>
+</td>
+</tr>
+<tr id="b-07fada66a18b47dd899b15dbbe1a1c26">
+<td id="b-cfc169af1d9f4d5cad927923a2c86eb3">
+<p id="b-c1ac7a1779ec40b7bab6b9e7cf17dc40"><a href="https://baike.baidu.com/item/%E4%B8%9C%E4%B9%A1%E8%8C%82%E5%BE%B7/1769062?fromModule=lemma_inlink" title="东乡茂德" id="b-7fb21a4711f64593bd3516e7dce1b81f"><span style="color:#000"><span style="font-size:15px">东乡茂德</span></span></a></p>
+</td>
+<td id="b-b4faa0709ce445bb84433e83ec9b14fd">
+<p id="b-731b70fbc03c407784fcf62bc8bdc110"><img src="https://km.sankuai.com/api/file/cdn/1625309615/257393322757?&amp;contentType=1&amp;isNewContent=false" width="166" height="177" id="b-d04426387e7646c187ac65e62ec85b33" alt="原文图片（需学城权限）"></p>
+</td>
+</tr>
+<tr id="b-862be82256d548069358cd5890adc024">
+<td id="b-735923a2b55a4ef39892ac2bbfdf713e">
+<p id="b-caa958491e5c402e9ddd6ecd3dbfe084"><a href="https://baike.baidu.com/item/%E4%B8%9C%E6%9D%A1%E8%8B%B1%E6%9C%BA/198968?fromModule=lemma_inlink" title="东条英机" id="b-961ffa05b5c5471281f726febf80a0f2"><span style="color:#000"><span style="font-size:15px">东条英机</span></span></a></p>
+</td>
+<td id="b-47198706588e4c8ebc9b34d9e62246b6">
+<p id="b-8ad80a74a2414b09b1cc0302deb1ec2f"><img src="https://km.sankuai.com/api/file/cdn/1625309615/257395826433?&amp;contentType=1&amp;isNewContent=false" width="166" height="168" id="b-fa008d4e40274aa1b73e86e2b953ca28" alt="原文图片（需学城权限）"></p>
+</td>
+</tr>
+<tr id="b-17462b53ba134e9ba30a8086843d0f6a">
+<td id="b-bc59440514cb44d3a45f864e515f86ad">
+<p id="b-0cac71082f22402688adc0127c5c277a"><a href="https://baike.baidu.com/item/%E5%9C%9F%E8%82%A5%E5%8E%9F%E8%B4%A4%E4%BA%8C/194081?fromModule=lemma_inlink" title="土肥原贤二" id="b-22474fe656124f7ca553bc32ccd812c0"><span style="color:#000"><span style="font-size:15px">土肥原贤二</span></span></a></p>
+</td>
+<td id="b-a853a8c86ba74da2940750e52b617048">
+<p id="b-22c8ec3225da427d87c61a4bb726a230"><img src="https://km.sankuai.com/api/file/cdn/1625309615/257396462244?&amp;contentType=1&amp;isNewContent=false" width="158" height="176" id="b-e4586e4c86fb4c86b3e2c4212c8733f4" alt="原文图片（需学城权限）"></p>
+</td>
+</tr>
+<tr id="b-e4fde4668fb44afeb3e4f0251b786b1e">
+<td id="b-85b54bd61c0c41b1bc3944bc7986751f">
+<p id="b-b502e762fd994c7e8536c94130abda02"><a href="https://baike.baidu.com/item/%E6%B0%B8%E9%87%8E%E4%BF%AE%E8%BA%AB/849797?fromModule=lemma_inlink" title="永野修身" id="b-4f71a469a2d948eca2e0bfdd6c178e51"><span style="color:#000"><span style="font-size:15px">永野修身</span></span></a></p>
+</td>
+<td id="b-10d0e97a4f6149808e748de921866d2e">
+<p id="b-ba0c829e1c5c4ebc837cda6df9302ec2"><img src="https://km.sankuai.com/api/file/cdn/1625309615/257395030483?&amp;contentType=1&amp;isNewContent=false" width="125" height="178" id="b-8b458b36a32441ec9202d3cc4223400a" alt="原文图片（需学城权限）"></p>
+</td>
+</tr>
+<tr id="b-8c27c939098f4a1aa619f0c8eecd2cba">
+<td id="b-003b088e810d444bb8f8f692a5abea28">
+<p id="b-05bf9d61fe1e47198a6fb5b96d338d54"><a href="https://baike.baidu.com/item/%E6%A1%A5%E6%9C%AC%E6%AC%A3%E4%BA%94%E9%83%8E/6588479?fromModule=lemma_inlink" title="桥本欣五郎" id="b-efe4448504964170bc903a99566e4b6b"><span style="color:#000"><span style="font-size:15px">桥本欣五郎</span></span></a></p>
+</td>
+<td id="b-ec7bf24b69ec407eb28be026633e2574">
+<p id="b-38cff7bb188a47248b4c094ecd9190e5"><img src="https://km.sankuai.com/api/file/cdn/1625309615/257393719832?&amp;contentType=1&amp;isNewContent=false" width="135" height="178" id="b-87626ddb45f742739ebcc5c3d76d2d91" alt="原文图片（需学城权限）"></p>
+</td>
+</tr>
+<tr id="b-dea54324ff4f400385d4b6bcc399110d">
+<td id="b-f277f63d817a408a88482ece2078cd85">
+<p id="b-1d0210e4157c402f9c26c3bf3206075b"><a href="https://baike.baidu.com/item/%E7%95%91%E4%BF%8A%E5%85%AD/6536789?fromModule=lemma_inlink" title="畑俊六" id="b-8cfee676593c4766a6e83a0ecc41ea5b"><span style="color:#000"><span style="font-size:15px">畑俊六</span></span></a></p>
+</td>
+<td id="b-1585c653a8d04d8aa9f159b3c89b952a">
+<p id="b-174d6064632b46ceac02605220b2b876"><img src="https://km.sankuai.com/api/file/cdn/1625309615/257392926433?&amp;contentType=1&amp;isNewContent=false" width="127" height="178" id="b-055727776e0c4401afa55a28895d1814" alt="原文图片（需学城权限）"></p>
+</td>
+</tr>
+<tr id="b-9fcc8e62ebe042c5bf7cf8f9155ae39f">
+<td id="b-d1b92f22384f4213aee4856dcaed0da4">
+<p id="b-d65f1e11eb354bb196b64dd7fe921a8f"><a href="https://baike.baidu.com/item/%E5%B9%B3%E6%B2%BC%E9%AA%90%E4%B8%80%E9%83%8E/4550687?fromModule=lemma_inlink" title="平沼骐一郎" id="b-a8379be4c3324f93a61c139c2de79117"><span style="color:#000"><span style="font-size:15px">平沼骐一郎</span></span></a></p>
+</td>
+<td id="b-d4a32e2c569b46348bdc8d1eb2adce19">
+<p id="b-491d6982100a4ca2aed1f467795dc95b"><img src="https://km.sankuai.com/api/file/cdn/1625309615/257393322754?&amp;contentType=1&amp;isNewContent=false" width="128" height="173" id="b-9de9527f6bba4ddc8b783227339b719b" alt="原文图片（需学城权限）"></p>
+</td>
+</tr>
+<tr id="b-15c47016a8ec4870b63915dd81a5322e">
+<td id="b-9c8841e91703475bab4914e444175a86">
+<p id="b-df59b8a460464752ab2d4c3f2fef73d8"><a href="https://baike.baidu.com/item/%E5%B9%BF%E7%94%B0%E5%BC%98%E6%AF%85/4550628?fromModule=lemma_inlink" title="广田弘毅" id="b-e1f684511fae491f94cf00eb6eef0478"><span style="color:#000"><span style="font-size:15px">广田弘毅</span></span></a></p>
+</td>
+<td id="b-d50a7741d469485f91a792b125193f5f">
+<p id="b-2a8ec2040b714176b169220762dabe98"><img src="https://km.sankuai.com/api/file/cdn/1625309615/257395030479?&amp;contentType=1&amp;isNewContent=false" width="142" height="176" id="b-2252f6cc6f684b58a90625309c859ad3" alt="原文图片（需学城权限）"></p>
+</td>
+</tr>
+<tr id="b-7ac55a1e78084e6188e41871376627b0">
+<td id="b-aebf7d7b730d4ae58f77cdd534df01d1">
+<p id="b-a8e1b3b41c44406e9ecb0d5fdaf1399f"><a href="https://baike.baidu.com/item/%E6%98%9F%E9%87%8E%E7%9B%B4%E6%A0%91/2289919?fromModule=lemma_inlink" title="星野直树" id="b-649f377c3e714d12b904ec4452c4c974"><span style="color:#000"><span style="font-size:15px">星野直树</span></span></a></p>
+</td>
+<td id="b-42ee80d157c84e07b79f73351d7603b2">
+<p id="b-e125b3634c974d7396d8a4899fc14dbc"><img src="https://km.sankuai.com/api/file/cdn/1625309615/257393322753?&amp;contentType=1&amp;isNewContent=false" width="157" height="171" id="b-92caeba12e844e4fb3d18ed41d506cbb" alt="原文图片（需学城权限）"></p>
+</td>
+</tr>
+<tr id="b-2afa92904e9141c7a92b0a34c3559274">
+<td id="b-1ed62afd2c7d498cb28e04bcbd74b503">
+<p id="b-9a9e84ed48e448dab3e42f5dbea056bf"><a href="https://baike.baidu.com/item/%E6%9D%BE%E4%BA%95%E7%9F%B3%E6%A0%B9/199970?fromModule=lemma_inlink" title="松井石根" id="b-bfac59d42b2040fab244e5f88a2b1bbd"><span style="color:#000"><span style="font-size:15px">松井石根</span></span></a></p>
+</td>
+<td id="b-71d512a935b34bdea8a900e23b741750">
+<p id="b-87f94892c0b948219dd210dafca9abb5"><img src="https://km.sankuai.com/api/file/cdn/1625309615/257396940044?&amp;contentType=1&amp;isNewContent=false" width="130" height="173" id="b-3475c3fb7e0940ae85e14b93d89de13d" alt="原文图片（需学城权限）"></p>
+</td>
+</tr>
+<tr id="b-7626ea8890024bbf8a44819e64e3a281">
+<td id="b-a105c43be9904af287ab67aadf488869">
+<p id="b-c70ac404b4834e3da305b5754feb369c"><a href="https://baike.baidu.com/item/%E6%9D%BE%E5%86%88%E6%B4%8B%E5%8F%B3/1769328?fromModule=lemma_inlink" title="松冈洋右" id="b-8ed9796d659a4b129be92956e1a74471"><span style="color:#000"><span style="font-size:15px">松冈洋右</span></span></a></p>
+</td>
+<td id="b-392d46d4a32c4684b5027ddc9fe9f529">
+<p id="b-09c5c476003e45aabb38c2fe338a65fd"><img src="https://km.sankuai.com/api/file/cdn/1625309615/257395667176?&amp;contentType=1&amp;isNewContent=false" width="126" height="176" id="b-d9471d526a104c6d989898ce1a0abdc1" alt="原文图片（需学城权限）"></p>
+</td>
+</tr>
+<tr id="b-b98bb5bfd76049829f75dce22dda0d8c">
+<td id="b-6fb3a729444e425caed8a05ec2115927">
+<p id="b-c265d20ac69b4dea949ebad8e68baba8"><a href="https://baike.baidu.com/item/%E5%8D%97%E6%AC%A1%E9%83%8E/6532164?fromModule=lemma_inlink" title="南次郎" id="b-0a798577bed3431893a0c783113c233d"><span style="color:#000"><span style="font-size:15px">南次郎</span></span></a></p>
+</td>
+<td id="b-c557aa54aaf24fd0acba354446529eac">
+<p id="b-2a132dc47f0b4c1dadf019cfbfd6e071"><img src="https://km.sankuai.com/api/file/cdn/1625309615/257394037704?&amp;contentType=1&amp;isNewContent=false" width="117" height="175" id="b-e44b64c115494df69eb9ad441c21a002" alt="原文图片（需学城权限）"></p>
+</td>
+</tr>
+<tr id="b-da66fa1fc26649cf877ea2c82fbf5dab">
+<td id="b-af5155d14a374919961d5b3d5bdb4bcd">
+<p id="b-04f74880885c43808f20123c32c15d75"><a href="https://baike.baidu.com/item/%E6%AD%A6%E8%97%A4%E7%AB%A0/4906296?fromModule=lemma_inlink" title="武藤章" id="b-d09d470fc2184ed39b1c3b26091a6a4d"><span style="color:#000"><span style="font-size:15px">武藤章</span></span></a></p>
+</td>
+<td id="b-0500aa36ed854aa791fda8627f90ad63">
+<p id="b-d0fe0619d74e4f9aa68a319b3c1afe57"><img src="https://km.sankuai.com/api/file/cdn/1625309615/257395509386?&amp;contentType=1&amp;isNewContent=false" width="127" height="181" id="b-d32dafacfcb843e7b147d75e2c791809" alt="原文图片（需学城权限）"></p>
+</td>
+</tr>
+<tr id="b-9e6d878e65094f6e86219b2ca57016a2">
+<td id="b-cdd003b87a1d4a418479d6c600072cfe">
+<p id="b-fab3046285274a8fa2c95989c2ca7e17"><a href="https://baike.baidu.com/item/%E5%B1%B1%E6%9C%AC%E4%BA%94%E5%8D%81%E5%85%AD/5497" title="山本五十六" id="b-8ee2dfec811a4500833fd1fb13a7c128"><span style="color:#000"><span style="font-size:15px">山本五十六</span></span></a></p>
+</td>
+<td id="b-a03a8be58d044b9f8aa8ba6616c63542">
+<p id="b-9d30ba6435604986a7b0fd9289bae07c"><img src="https://km.sankuai.com/api/file/cdn/1625309615/257394871717?&amp;contentType=1&amp;isNewContent=false" width="122" height="173" id="b-b5f99785eedc49fd81288863ee16fff0" alt="原文图片（需学城权限）"></p>
+</td>
+</tr>
+<tr id="b-a294ffed39b84c5c87f260206ebdb54b">
+<td id="b-d1d894e733a14325b101723b47a5ab5a">
+<p id="b-dcc855907fec4d08a92fb2a97947ccee"><span style="color:#000"><span style="font-size:15px">本间雅晴</span></span></p>
+</td>
+<td id="b-eb5e83e3018844dfaadf695dba9df500">
+<p id="b-05bc0b8fde4d4e4abcb2866d379f8313"><img src="https://km.sankuai.com/api/file/cdn/1625309615/257394713451?&amp;contentType=1&amp;isNewContent=false" width="131" height="177" id="b-8dbd882405eb46e2b1d74cb9f1c37333" alt="原文图片（需学城权限）"></p>
+</td>
+</tr>
+<tr id="b-153fd70607d04e3ca78c81e11c61c994">
+<td id="b-daf222ef005b4487aaaf66b34ce1227f">
+<p id="b-61f5fc832c5746d9af3458005dce86c2"><span style="color:#000"><span style="font-size:15px">横山勇</span></span></p>
+</td>
+<td id="b-090a3bedebba42748f6be4e8d1752fe1">
+<p id="b-7eef1a63edc94844b412c0a2085338d2"><img src="https://km.sankuai.com/api/file/cdn/1625309615/257393005810?&amp;contentType=1&amp;isNewContent=false" width="128" height="174" id="b-69410405805f4dbd8f16590ea80c60d7" alt="原文图片（需学城权限）"></p>
+</td>
+</tr>
+<tr id="b-530e2df77cf840949020040619b6f9bd">
+<td id="b-396a0d7670614e72b79c77b5054d8183">
+<p id="b-26beed86cbbf46eab9619d304213c2bc"><span style="color:#000"><span style="font-size:15px">栗林忠道</span></span></p>
+</td>
+<td id="b-a30395c440b94c98bb8c0ad40453bb73">
+<p id="b-b13c844ecd774ac1a52c749b5831b42e"><img src="https://km.sankuai.com/api/file/cdn/1625309615/257395826142?&amp;contentType=1&amp;isNewContent=false" width="125" height="182" id="b-b00115f1825344c89c6ca7824697a357" alt="原文图片（需学城权限）"></p>
+</td>
+</tr>
+<tr id="b-79e33cbc71fe41c99200e279b3304ed8">
+<td id="b-17c993db1caf471da212061c41b736cc">
+<p id="b-6f488f3b45d4420e87895103c5a1ef64"><span style="color:#000"><span style="font-size:15px">山口多闻</span></span></p>
+</td>
+<td id="b-cb5fc08c9b9c4d2ea2ccf1d527fa1f26">
+<p id="b-0d8b5e5acc5f4af88c79b0ab0a551876"><img src="https://km.sankuai.com/api/file/cdn/1625309615/257396145337?&amp;contentType=1&amp;isNewContent=false" width="114" height="177" id="b-2204003f94c74221b679ebc8b5e71694" alt="原文图片（需学城权限）"></p>
+</td>
+</tr>
+<tr id="b-c8a66f6b74904f8f891a7b4171b8ee34">
+<td id="b-66c2fe48dbe240dfbb777572255d7aba">
+<p id="b-3fdc7793d4754b178c01ddb209936096"><span style="color:#000"><span style="font-size:15px">寺内寿一</span></span></p>
+</td>
+<td id="b-7fec3415e4ec4ef6b19a7459b320ce0d">
+<p id="b-c35b0ee803064a46ae7fe57d3b279dbd"><img src="https://km.sankuai.com/api/file/cdn/1625309615/257393481516?&amp;contentType=1&amp;isNewContent=false" width="133" height="168" id="b-7ff25faff5a648f08777e1d1da016535" alt="原文图片（需学城权限）"></p>
+</td>
+</tr>
+<tr id="b-cc2ca25d12c54a08b30f9f5b1f169670">
+<td id="b-6783bbb54614484d9e760e16c7982316">
+<p id="b-10365a5d39ee487db209bab0e56d20a8"><span style="color:#000"><span style="font-size:15px">小泽治三郎</span></span></p>
+</td>
+<td id="b-075715f19d9d4004b3e75b75e2d4607a">
+<p id="b-c55ffdce3fd1415193008ba74dc9cc44"><img src="https://km.sankuai.com/api/file/cdn/1625309615/257394713445?&amp;contentType=1&amp;isNewContent=false" width="116" height="176" id="b-87a7fef648ec4bf3a38114428ef1d187" alt="原文图片（需学城权限）"></p>
+</td>
+</tr>
+<tr id="b-f06635100a10402bb937faa0558de466">
+<td id="b-eabb658b00b84f608ba31df8e9d230a2">
+<p id="b-0e91d43fd7a048289e0b9a38dac5c75a"><span style="color:#000"><span style="font-size:15px">山下奉文</span></span></p>
+</td>
+<td id="b-89bb56bdd6404a40b7443728359edc19">
+<p id="b-22a77165508e4f5db4ddbebe264db2db"><img src="https://km.sankuai.com/api/file/cdn/1625309615/257392926336?&amp;contentType=1&amp;isNewContent=false" width="137" height="175" id="b-b508efe632a94614bce83646682d76ff" alt="原文图片（需学城权限）"></p>
+</td>
+</tr>
+<tr id="b-df151863b93b46008ba66dee8da873a4">
+<td id="b-fd2bd64a0b194c4ab563a5e3b833e8d4">
+<p id="b-bcea1571f13e4168995f5f950ebcb058"><span style="color:#000"><span style="font-size:15px">冈村宁次</span></span></p>
+</td>
+<td id="b-33987c7723844ed2b3e96469246d7a31">
+<p id="b-5e06ffe1ebd64fe2925249d6b65c543e"><img src="https://km.sankuai.com/api/file/cdn/1625309615/257393244565?&amp;contentType=1&amp;isNewContent=false" width="122" height="181" id="b-2f75ebdb1a77495190c941f7255bc28b" alt="原文图片（需学城权限）"></p>
+</td>
+</tr>
+<tr id="b-51deb0d7eb084bd38fa9f49ad050af1c">
+<td id="b-f4698613a9bc4c4b87ce3b44d5d1939b">
+<p id="b-c6244c45759941639773c7d2b96de9d8"><span style="color:#000"><span style="font-size:15px">谷寿夫</span></span></p>
+</td>
+<td id="b-7bad5d5797f14d3e8e9835db4f54e7ef">
+<p id="b-8196445b55544f5b8589966d3d0aa758"><img src="https://km.sankuai.com/api/file/cdn/1625309615/257395189005?&amp;contentType=1&amp;isNewContent=false" width="153" height="177" id="b-cfd8ba40d3fe4fde95173f159b5bffeb" alt="原文图片（需学城权限）"></p>
+</td>
+</tr>
+<tr id="b-fb47dfeeb304444b9b6b5a1ddbc72f5a">
+<td id="b-c04d96e6bd574337bc5802d02d706e68">
+<p id="b-d8b09db8b5df46399ddc2cfdc24b2ae3"><span style="color:#000"><span style="font-size:15px">田中军吉</span></span></p>
+</td>
+<td id="b-f4cc8cbe4c674d99823d9adf8b112ed7">
+<p id="b-1aca543c4a7b4f12974fc8a69b8b266e"><img src="https://km.sankuai.com/api/file/cdn/1625309615/257385676042?&amp;contentType=1&amp;isNewContent=false" width="127" height="178" id="b-240f2ad6bc6349c59d7420fe4010dd34" alt="原文图片（需学城权限）"></p>
+</td>
+</tr>
+<tr id="b-d795f97c9f4e423ab273fba4e31d4a5e">
+<td id="b-09e01b42527047499f10f75ca1d409a2">
+<p id="b-8486f9d78e95493cb444563dfc87aeca"><span style="color:#000"><span style="font-size:15px">向井敏明</span></span></p>
+</td>
+<td id="b-2f8e0da4ba81413b90ed0c82a7af643d">
+<p id="b-74ee047d73a6441abed7a33b691de12d"><img src="https://km.sankuai.com/api/file/cdn/1625309615/257393164179?&amp;contentType=1&amp;isNewContent=false" width="128" height="124" id="b-d1a6833d0a8a4a8b9fcefed94f6b34c8" alt="原文图片（需学城权限）"></p>
+</td>
+</tr>
+<tr id="b-34a2d90fea7c43d6baf108a5929a8284">
+<td id="b-ca03b5eef36d459383f7201ff4eed234">
+<p id="b-f52ef94648b942f2aabdcecac50a0c28"><span style="color:#000"><span style="font-size:15px">野田毅</span></span></p>
+</td>
+<td id="b-993d22fc34724b34bc1fc71ae65c4cbf">
+<p id="b-eb3176db8bb140d0ae4dcc28fe8d3b04"><img src="https://km.sankuai.com/api/file/cdn/1625309615/257393640461?&amp;contentType=1&amp;isNewContent=false" width="136" height="125" id="b-5c1c40f0466b4867a1881d44bd6e31bf" alt="原文图片（需学城权限）"></p>
+</td>
+</tr>
+<tr id="b-5851d1257cae439d864257064a903ec1">
+<td id="b-edd1be312dd246b2ae51a45bb94c87e1">
+<p id="b-956c005beddf409197e379d9625015fd"><span style="color:#000"><span style="font-size:15px">河边正三</span></span></p>
+</td>
+<td id="b-9083588939914dae8d3339c64bccef13">
+<p id="b-87834bb281f7485eae4a55c6e212bfcb"><img src="https://km.sankuai.com/api/file/cdn/1625309615/257395826138?&amp;contentType=1&amp;isNewContent=false" width="136" height="172" id="b-f3534a6ce6024d429c3f8a4d02f5d1aa" alt="原文图片（需学城权限）"></p>
+</td>
+</tr>
+<tr id="b-7e18266a1c7c47719ef1cc3de0e039d9">
+<td id="b-ae505cf820b04657bf560463f92b56eb">
+<p id="b-0835bcbf657049b09352d8ae9a5cc008"><span style="color:#000"><span style="font-size:15px">中村明人</span></span></p>
+</td>
+<td id="b-67d7beb0741444c59e62c4e9fbb83fa7">
+<p id="b-911f0d116b4d47b1bd281fb23f2ade21"><img src="https://km.sankuai.com/api/file/cdn/1625309615/257393402189?&amp;contentType=1&amp;isNewContent=false" width="134" height="175" id="b-eac2caa770b6430284e475db0b483477" alt="原文图片（需学城权限）"></p>
+</td>
+</tr>
+<tr id="b-c23e4ce73ec44c1ab72d358f16f26451">
+<td id="b-0fdb43b22587465881591e72ece9c073">
+<p id="b-0925c8510b8e44d88379e1a04cf9b2b2"><span style="color:#000"><span style="font-size:15px">真崎甚三郎</span></span></p>
+</td>
+<td id="b-38331f1ab7e7449aae77612beb231ea3">
+<p id="b-de0d185a7a774b7491ed8b16019f8173"><img src="https://km.sankuai.com/api/file/cdn/1625309615/257385987655?&amp;contentType=1&amp;isNewContent=false" width="122" height="173" id="b-65b017527d924d469b8dfc6b0f8d37a0" alt="原文图片（需学城权限）"></p>
+</td>
+</tr>
+<tr id="b-cbb2d226d1ae419c8392386a00986bce">
+<td id="b-6d4c0fac38b7496dbf8ad09897bd7474">
+<p id="b-79da7c8f827b446b9bfba611119f268f"><span style="color:#000"><span style="font-size:15px">安倍源基</span></span></p>
+</td>
+<td id="b-679d0e1c96514651a28d9de196887605">
+<p id="b-8450de994e03449c91450c2e2faab811"><img src="https://km.sankuai.com/api/file/cdn/1625309615/257393481519?&amp;contentType=1&amp;isNewContent=false" width="151" height="176" id="b-e97e036c8f4b45058395957126b0a2d1" alt="原文图片（需学城权限）"></p>
+</td>
+</tr>
+<tr id="b-39f60c0cc13042338867571c8fed8d33">
+<td id="b-a2934a19e8954dc5afa4b11c2fdddbd7">
+<p id="b-595f885485fe47a3add5f2e23e75e34b"><span style="color:#000"><span style="font-size:15px">菊池武夫</span></span></p>
+</td>
+<td id="b-48dcd6f4c5da4c528444a47159204b4f">
+<p id="b-b3f76bddc6264736b01c19b3d7ac9852"><img src="https://km.sankuai.com/api/file/cdn/1625309615/257394553389?&amp;contentType=1&amp;isNewContent=false" width="119" height="175" id="b-499c697d827d4d6c9f0571594fbb73db" alt="原文图片（需学城权限）"></p>
+</td>
+</tr>
+<tr id="b-52a29455a25c4500b5f0a12002f492f1">
+<td id="b-ab748aaeec4f486fab4f420e6a667a51">
+<p id="b-e1522ce6450040de8233137f812f1636"><span style="color:#000"><span style="font-size:15px">小泉亲彦</span></span></p>
+</td>
+<td id="b-24628c79310841ee871f169ab6f8e56a">
+<p id="b-b9ddfbef05d9465a89377bf0825c61f4"><img src="https://km.sankuai.com/api/file/cdn/1625309615/257394037570?&amp;contentType=1&amp;isNewContent=false" width="127" height="173" id="b-b0a87d61f6ae4b5eb456e6e77971be99" alt="原文图片（需学城权限）"></p>
+</td>
+</tr>
+<tr id="b-f2bea95e526343db89d83b262653a648">
+<td id="b-cf802d1377434029ae48347c36247469">
+<p id="b-5688137c22304fd3bcad1ed9cf432eee"><span style="color:#000"><span style="font-size:15px">东乡平八郎</span></span></p>
+</td>
+<td id="b-68ebf9d35add430f999a3c4c4ff0a5e8">
+<p id="b-23c2fca213f64e0f998406f308cacaf2"><img src="https://km.sankuai.com/api/file/cdn/1625309615/257393959297?&amp;contentType=1&amp;isNewContent=false" width="128" height="177" id="b-cddced31ae42474d91aecb7b6b4d4b43" alt="原文图片（需学城权限）"></p>
+</td>
+</tr>
+<tr id="b-40208b7a96e042ed9411cef59e1b2803">
+<td id="b-4b9b434bb38f446784a53d7079a3cbbe">
+<p id="b-2d2d3ea77bcc4918a3d3e6e5cc0ae5f2"><span style="color:#000"><span style="font-size:15px">乃木希典</span></span></p>
+</td>
+<td id="b-471ec4b998714899bef242c9e16a3ab2">
+<p id="b-dbfbbef968ce4e7b938167059cc34f32"><img src="https://km.sankuai.com/api/file/cdn/1625309615/257394553375?&amp;contentType=1&amp;isNewContent=false" width="118" height="174" id="b-cedcb4e8c3d74e02814fea2b75575320" alt="原文图片（需学城权限）"></p>
+</td>
+</tr>
+<tr id="b-0d78f205c06345e488009dde433a7922">
+<td id="b-1ac723cc35234d8888b874c3be7a2c1f">
+<p id="b-bc9a264c37f24043a04986399555fb9f"><span style="color:#000"><span style="font-size:15px">儿玉源太郎</span></span></p>
+</td>
+<td id="b-7f25a69d74ba433198fdbf71992f2944">
+<p id="b-24976d4575864a99bec21b69c4108c4d"><img src="https://km.sankuai.com/api/file/cdn/1625309615/257392848312?&amp;contentType=1&amp;isNewContent=false" width="143" height="171" id="b-f08e4694385645ecb9f630173117fdba" alt="原文图片（需学城权限）"></p>
+</td>
+</tr>
+<tr id="b-78e336bee81a473db37fc83be53ef68c">
+<td id="b-9933896508b4467ab5debb497919ef47">
+<p id="b-ea3cd5796f634bf4b7401e65a91cf2a8"><span style="color:#000"><span style="font-size:15px">西乡从道</span></span></p>
+</td>
+<td id="b-2fbe0601cadc427098a63943cfafb67c">
+<p id="b-e8aa1e25f1b74e8c8378fb1aedac8bfd"><img src="https://km.sankuai.com/api/file/cdn/1625309615/257393880202?&amp;contentType=1&amp;isNewContent=false" width="118" height="178" id="b-1f9eec3a667b451d87344c743481565b" alt="原文图片（需学城权限）"></p>
+</td>
+</tr>
+</table>
+<p id="b-692fb2275ff246f9801e42337df9612c"></p>
+</div>
+</details>
+</li>
+<li id="b-f79713b1f9b74729bc7b7dcb01dd1ef3">
+<p id="b-4834a168702545c68f291f7c4a75d0af"><span style="color:#000"><span style="font-size:15px">日本军国主义场所周边衍生信息</span></span></p>
+<details id="b-dbf109e5ac17456a8942cf9e11cada85">
+<summary><span style="color:#000"><span style="font-size:15px">案例</span></span></summary>
+<div>
+<ul id="b-ba07e997f58e422e9b4cd47212ceaec1">
+<li id="b-8d8a0716fa8f4dfcbee092e9a80bf7cb"><img src="https://km.sankuai.com/api/file/cdn/1625309615/257395826118?&amp;contentType=1&amp;isNewContent=false" width="66" height="143" id="b-9d0a75a42a51454d8217534a046ec86b" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1625309615/257393085118?&amp;contentType=1&amp;isNewContent=false" width="66" height="143" id="b-1ea8517692ae485e915ae248b054c22a" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1625309615/257392926312?&amp;contentType=1&amp;isNewContent=false" width="66" height="143" id="b-2ded4fd98f7a4b829172f3f7cb3250e1" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1625309615/257396780931?&amp;contentType=1&amp;isNewContent=false" width="67" height="145" id="b-904b0dcbb1674244972d3c4c68d77420" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1625309615/257394713396?&amp;contentType=1&amp;isNewContent=false" width="66" height="144" id="b-f2655e8f26b34a8d8bfac7d7d2e16e5a" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1625309615/257396780932?&amp;contentType=1&amp;isNewContent=false" width="64" height="139" id="b-af8a57593946437dabe7293d9b0c212d" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1625309615/257393799110?&amp;contentType=1&amp;isNewContent=false" width="64" height="141" id="b-c4987d5a07eb4e8ea429ac9bd0a655f0" alt="原文图片（需学城权限）"></li>
+</ul>
+<p id="b-d6c9bbefd4ac4491954596ee4e68c4ac"><span style="color:#000"><span style="font-size:15px">   （楠木正成-铜像图片、铜像简介）</span></span></p>
+</div>
+</details>
+</li>
+</ol>
+</td>
+<td id="b-617d278ddf114b25b8a6ae19b5d88ae8">
+<ol id="b-0f6e0b7420d142f3a78e707b2560fb4d">
+<li id="b-07670895de424c79a6fa29d4906d9ed0">
+<p id="b-f675b56979dd49638640abd4334072f0"><span style="font-size:15px">易误伤案例</span></p>
+<ul id="b-1246b91cf29b40c2a1a7abdca5b326a1">
+<li id="b-b42e9433184d46bea820ace5fd0af19c"><span style="font-size:15px">三月去出云神社看了樱花，值得一去</span></li>
+</ul>
+</li>
+</ol>
+</td>
+</tr>
+<tr id="b-ee98df97825d425e908727e1338ba99e">
+<td id="b-ba86c1aad55d41f49216cccac00f98c7">
+<p id="b-21a60e4e6a4a4de58c278b28869b491b"></p>
+</td>
+<td rowspan="3" id="b-24859aed14c64903ad8d77e6ff0e1538" style="background-color:rgb(199, 240, 221)">
+<h2 id="b-37daa63236e34191b6cbe51c2cca37a4">灾难血腥暴力</h2>
+</td>
+<td id="b-f6b627302bca48c2b5ab82e2cabe337c">
+<h3 id="b-bb477d65302a44b18be1e155475566fc">严重灾难事故</h3>
+</td>
+<td id="b-8ca3e80991c748d8ad39cf463cca3293">
+<p id="b-301a14de79d7468ba7c24d58361c4d36">【图/视】</p>
+<p id="b-505eec03fa3045609df43b36e20891dc"><span style="color:#FF4A47"><span style="font-size:15px"><strong>打标</strong></span></span></p>
+<ol id="b-4a2585d5f72145b0aa56b176cbefdc61">
+<li id="b-8dba19da68a840beae098e9c303e6571"><span style="font-size:15px">画面</span>中1/2占比<span style="font-size:15px">展示大火或浓烟的；（看画面占比即可，不区分视频时长）</span></li>
+</ol>
+<p id="b-7f02efc2da7141f28cac51a25fbb6ead"></p>
+<p id="b-f687ef181aa746408b2859c08acae05d"><span style="color:rgb(0, 186, 115)"><span style="font-size:15px"><strong>豁免</strong></span></span></p>
+<ol id="b-4e923f3dc18d4dc39f031d27707e4325">
+<li id="b-04ba3196207948af812972c0da6a1fd3"><span style="font-size:15px">影视剧、电影、</span>绘画作品的画面<span style="font-size:15px">出现浓烟或大火时；</span></li>
+<li id="b-c89c8746036f4052a2632d2b2e48a1e9">明确<strong>非事故性事件</strong>引起的<span style="font-size:15px">大火或浓烟</span>时；（<span style="font-size:15px">例如：厨房灶台烧火、炒菜过程，烧纸钱、火把节、篝火等民俗活动出现的烟火、火山喷发、烟花绽放、非真实火焰等</span>）</li>
+</ol>
+</td>
+<td id="b-15311f6017b145b3abef3b3e2bb8dd49">
+<p id="b-2b59594209b045e9947678ae9b1e5344"></p>
+</td>
+<td id="b-39bf92557446489b8067474a6493e200">
+<ol id="b-987d615a202b43549fbd02b1a2327cfc">
+<li id="b-3fd1565f67454f67b64799cb1f75edc4">
+<p id="b-8b6c82870dc0437a9937d02d4e7969b2">事故性烟火</p>
+<ul id="b-bc78ec1dfa2d4acfbc4f5f2266dcc084">
+<li id="b-639c913726464f249df02e5dad9471b5"><img src="https://km.sankuai.com/api/file/cdn/1625309615/234768557537?&amp;isNewContent=false&amp;contentType=1" width="146" height="101" id="b-89d3964d61ce4993abd8b57340650140" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1625309615/234766823000?&amp;isNewContent=false&amp;contentType=1" width="115" height="103" id="b-690af32ac7284d81a8b5f0f296fff941" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1625309615/234768240243?&amp;isNewContent=false&amp;contentType=1" width="160" height="101" id="b-04f9d99db0e546649eb0680a685ef90b" alt="原文图片（需学城权限）"></li>
+<li id="b-29f623467a244c0ca48d8728b83c8d69"><img src="https://km.sankuai.com/api/file/cdn/1625309615/234766343484?&amp;isNewContent=false&amp;contentType=1" width="267" height="117" id="b-eec010d67536413eacf2cad7ff3cf6d7" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1625309615/234768557535?&amp;isNewContent=false&amp;contentType=1" width="163" height="113" id="b-89e539d3ee5b43db9e018ad65da69899" alt="原文图片（需学城权限）"></li>
+</ul>
+</li>
+<li id="b-1fa5ca8fa37949b2a4316e2166f3712b">
+<p id="b-53e60d164d6b46379694323d46841663">厨房场景事故性烟火</p>
+<ul id="b-b284adcea9ec4821b58ce268d142184b">
+<li id="b-e33b2a6ce2c648e68526c083da8d4ce6"><img src="https://km.sankuai.com/api/file/cdn/1625309615/234769325636?&amp;isNewContent=false&amp;contentType=1" width="150" height="106" id="b-e56834436da542048b615283af6c15d7" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1625309615/234768002032?&amp;isNewContent=false&amp;contentType=1" width="78" height="110" id="b-9ea8adacffaa4eca8c7fc1e813b12658" alt="原文图片（需学城权限）"></li>
+</ul>
+</li>
+</ol>
+</td>
+<td id="b-c46f3379df38464090f0ba7527ca6b4d">
+<ol id="b-f7a274e31e414ab5b22723ca2013ae94">
+<li id="b-f6eb4abfce054ab1a47c3b1aed446de5">
+<p id="b-22ef88ddec2d4b01b72ecadae9437b73">非事故性烟火</p>
+<ul id="b-f471c8b0e1f64f958861b6faf965ca23">
+<li id="b-74c8785c60494c3ca2e244093f2de54e"><img src="https://km.sankuai.com/api/file/cdn/1625309615/234768081463?&amp;isNewContent=false&amp;contentType=1" width="44" height="96" id="b-b365e199409d4781a2a3b3ebe3b31e07" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1625309615/234768400757?&amp;isNewContent=false&amp;contentType=1" width="125" height="90" id="b-2bb9d7fc01df4984b037b7eddac6dee0" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1625309615/234766184764?&amp;isNewContent=false&amp;contentType=1" width="169" height="123" id="b-ad4f555e93b448f1832006829c2b4d34" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1625309615/234767644281?&amp;isNewContent=false&amp;contentType=1" width="124" height="124" id="b-c7b66375e6b1485ea3b0c7df09ba7ee4" alt="原文图片（需学城权限）"></li>
+</ul>
+</li>
+<li id="b-e6aa2d71710b47458d863ffa4df24772">
+<p id="b-65822b53924e4c8d826c5b081c56e645">非真实火焰</p>
+<ul id="b-4f5331ee7be94ce5a4fb5bf356add7da">
+<li id="b-b6ad317b2adb4f018fe4c616608892b9"><img src="https://km.sankuai.com/api/file/cdn/1625309615/234768400755?&amp;isNewContent=false&amp;contentType=1" width="99" height="97" id="b-14d6ac9fd490476baa9dbdd37bfcb860" alt="原文图片（需学城权限）"></li>
+</ul>
+</li>
+</ol>
+</td>
+</tr>
+<tr id="b-e72bf964cd9a4e0c95be537608d821f1">
+<td id="b-6e0982db426c4d32b96b08f6f975d563">
+<p id="b-e7ffed34c887483cb2fb4da7e110b1c0"></p>
+</td>
+<td id="b-7d79f3cc0c4840ff9043069e42bbdc63">
+<h3 id="b-3484957ce3c841149e262ac37e5bf7db">严重血腥场景</h3>
+</td>
+<td id="b-2b7232a701e944cf9b530ae58d5c4d0e">
+<p id="b-62f362cb2a8e41e4980ac2c1615045cd"><span style="color:rgb(255, 74, 71)"><span style="font-size:15px"><strong>打标</strong></span></span></p>
+<p id="b-5caad28afca04f96980972b31bd08087"><span style="font-size:15px"><strong>【图/视】</strong></span></p>
+<ol id="b-ad2df9da42964fb9ba79bb35302ea854">
+<li id="b-f93a4c39bb764429b343f942c6163f7c"><span style="color:#FF4A47">展示真实人体流血场景占据主要篇幅的</span><span style="color:#FF4A47"><strong>；</strong></span><span style="color:#FF4A47"><span style="font-size:15px">（画面：1/4，视频：连续5s或1/3时长）</span></span></li>
+<li id="b-a336bfa1311d4c0b9291e2d8dab7000a"><span style="font-size:15px">展示真实人体伤口画面；（需伤口处可见漏出人体内部器官、骨头等)</span></li>
+<li id="b-665c4f3a5779419891c2648032f2389a"><span style="font-size:15px">展示真实人体断肢；</span></li>
+</ol>
+<p id="b-2c53685df71d4b8b9b58abba9cba848e"></p>
+<p id="b-60c50ce7a503478d8ba88e7bd7c70cba"><span style="color:#00BA73"><span style="font-size:15px"><strong>豁免</strong></span></span></p>
+<ol id="b-65a47e7d350c40808482efa8a6b11298">
+<li id="b-f44501076fba4aa6ab54ca8264079efb"><span style="font-size:15px">影视剧照、剧本杀密室海报（海报：需要画面上有对应的密室剧本杀名称、主题、介绍等文字信息作为判断依据）、cosplay场景&amp;cos妆造，不视作“真实人体”；</span></li>
+</ol>
+</td>
+<td id="b-15432eefffa64c4a9fec5c86119b7ec2">
+<p id="b-db78af893c8a44b1a5abc16cdbdd6a36"></p>
+</td>
+<td id="b-6f3af515caaa41bb800345b1f85cfe1d">
+<ol id="b-29fb14ad5a0d4871bc3e7e5c3f926213">
+<li id="b-5e1b7788d0cd4a43adc82026cbb2b4cc">
+<p id="b-8c4414c795884bf4b5821f9b43b07582">展示真实人体断肢</p>
+<ul id="b-b2e901c7a0654b228b3fb91e062865ef">
+<li id="b-b896e38a3fc241c89af44b9ce788a14c"><img src="https://km.sankuai.com/api/file/cdn/1625309615/234768477969?&amp;isNewContent=false&amp;contentType=1" width="123" height="202" id="b-6a92ee5fbfc549adaddadd47aef02094" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1625309615/234768755137?&amp;isNewContent=false&amp;contentType=1" width="121" height="204" id="b-5e40f0498e2143adbc1d7f0b110340d5" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1625309615/234765388341?&amp;isNewContent=false&amp;contentType=1" width="119" height="200" id="b-b48d4975d2d94ae5a2373426c44030e8" alt="原文图片（需学城权限）"></li>
+</ul>
+</li>
+</ol>
+</td>
+<td id="b-aa2320ad48064d3095efd11d04a49522">
+<p id="b-87e69c9a36064155b362dffd5ebaf5f2"></p>
+</td>
+</tr>
+<tr id="b-7166869c15c845e4b01007271ecf88c7">
+<td id="b-bc7f3d11d70b4f13b4d1658871265b13">
+<p id="b-d58f5964c5004cc389bb803654107ac4"></p>
+</td>
+<td id="b-afa09847598247c1a63e29f5ee8724f3">
+<h3 id="b-1ba830754b6e4bcdabee02fad5ecbfbc">严重暴力场景</h3>
+</td>
+<td id="b-0d6a2cdff5c34bdb8d4d25548892e430">
+<p id="b-a6a2dcb0a709420388893658267da8a2"><span style="color:rgb(255, 74, 71)"><span style="font-size:15px"><strong>打标</strong></span></span></p>
+<p id="b-9d4833ef61904a6a998926e121dc45ea"><span style="font-size:15px"><strong>【图/视】</strong></span></p>
+<ol id="b-79c050787f0e44ad8e5bdfeee7687f49">
+<li id="b-54965d09bd1a42758f1fe56cd3ebbeb4"><span style="font-size:15px">展示枪战、施暴者三人及以上群殴或砍人暴力行为；</span></li>
+<li id="b-87d667f7bc1447eb92ac0321c9c1c01e"><span style="font-size:15px">展示欺辱画面，即强迫他人进行非自愿行为且身体受到损害的；</span></li>
+<li id="b-1627bdab62254c83ab56e6285c28e8b2"><span style="font-size:15px">展示AI生成的古代酷刑的视频/图片；</span></li>
+</ol>
+<p id="b-5761b203b9964be697c4bcfc0add22db"></p>
+<p id="b-eb76022f12e64ddc80d740116e016184"><span style="color:rgb(0, 186, 115)"><span style="font-size:15px"><strong>豁免</strong></span></span></p>
+<ol id="b-74afb0354216461b99c583e0e1d13120">
+<li id="b-683c13941bd44f63a1d98ec11bb51b84"><span style="font-size:15px">影视剧、电影场面中；</span></li>
+<li id="b-22cd4f4a95744e6a9fbd6ca3a1e7faea"><span style="font-size:15px">无人员受伤的打闹嬉戏；</span></li>
+<li id="b-f65f1954f85549e3aabd2bc92b8161f1"><span style="font-size:15px">明确非现代且非AI生成古代酷刑的场景；</span></li>
+</ol>
+</td>
+<td id="b-4aebc0313c1c48d88c7f3220fa55414f">
+<p id="b-c2fc53bc29794b23803beac9abdef89d"></p>
+</td>
+<td id="b-a919725a740141d7a5cae67f0adf54f5" style="vertical-align:top">
+<ol id="b-b3bb78ab9ec04f4286de16d6048c6b8f">
+<li id="b-8c6565476f364c8f82e8c014864213e7">
+<p id="b-8c37edf2701441958563760305488cfe">欺辱画面展示</p>
+<ul id="b-b963f85d61dc4081ac6db95ccc7dc500">
+<li id="b-cab858686b374d7cb33eaf1ea0c14a80"><img src="https://km.sankuai.com/api/file/cdn/1625309615/234767143567?&amp;isNewContent=false&amp;contentType=1" width="250" height="171" id="b-4975c51200894f8996b8c325e13856c8" alt="原文图片（需学城权限）"></li>
+</ul>
+</li>
+</ol>
+</td>
+<td id="b-4e3e836744ab4a0dba82fcad98e7aed4">
+<p id="b-6c8efc63790b4ce5aead49c6510c5f83"></p>
+</td>
+</tr>
+</table>
+<p id="b-81a1fbbc0d974bd4ac14f74b9c4ff6a4"><strong>网络安全法</strong></p>
+<p id="b-1f600c3540de493eb4dae175b1c3f924">第十二条　国家保护公民、法人和其他组织依法使用网络的权利，促进网络接入普及，提升网络服务水平，为社会提供安全、便利的网络服务，保障网络信息依法有序自由流动。</p>
+<p id="b-4d831af78e604afe808a08b25300c978" style="text-align:start">任何个人和组织使用网络应当遵守宪法法律，遵守公共秩序，尊重社会公德，不得危害网络安全，不得利用网络从事危害国家安全、荣誉和利益，煽动颠覆国家政权、推翻社会主义制度，煽动分裂国家、破坏国家统一，宣扬恐怖主义、极端主义，宣扬民族仇恨、民族歧视，传播暴力、淫秽色情信息，编造、传播虚假信息扰乱经济秩序和社会秩序，以及侵害他人名誉、隐私、知识产权和其他合法权益等活动。</p>
+<p id="b-ffc00e72c59940839af9c711a914e116"><strong>网络信息内容生态治理规定</strong></p>
+<p id="b-34c40aeaad7c4bcbb939c5ecdf299e2b">　<span style="color:rgb(0, 0, 128)"><strong>第六条</strong></span>　网络信息内容生产者不得制作、复制、发布含有下列内容的违法信息：</p>
+<p id="b-54cad8b1dfe6481498acb15719794eb8" style="text-align:start">　　(一)反对宪法所确定的基本原则的；</p>
+<p id="b-59dc4234439847da9ef42e4a26c1d1f4" style="text-align:start">　　(二)危害国家安全，泄露国家秘密，颠覆国家政权，破坏国家统一的；</p>
+<p id="b-3a2503ebf0d34e66930759a1560327d3" style="text-align:start">　　(三)损害国家荣誉和利益的；</p>
+<p id="b-f0490315006042cb8686921e8232d630" style="text-align:start">　　(四)歪曲、丑化、亵渎、否定英雄烈士事迹和精神，以侮辱、诽谤或者其他方式侵害英雄烈士的姓名、肖像、名誉、荣誉的；</p>
+<p id="b-bcb631d9134843c899f09a4b1ac941f5" style="text-align:start">　　<u>(五)宣扬恐怖主义、极端主义或者煽动实施恐怖活动、极端主义活动的；</u></p>
+<p id="b-7bb2fb2a21724fe88a711680127a23c4" style="text-align:start">　　(六)煽动民族仇恨、民族歧视，破坏民族团结的；</p>
+<p id="b-4c13713a033e445cab064d3663b40cdc" style="text-align:start">　　(七)破坏国家宗教政策，宣扬邪教和封建迷信的；</p>
+<p id="b-a22b5e6f55e74ce3999e5dd91d9aafe2" style="text-align:start">　　(八)散布谣言，扰乱经济秩序和社会秩序的；</p>
+<p id="b-0db2385a3be8469cb2c3cf1a4a4ead31" style="text-align:start">　　(九)散布淫秽、色情、赌博、暴力、凶杀、恐怖或者教唆犯罪的；</p>
+<p id="b-f1ccbf611d1446d6ad139883bc32bae4" style="text-align:start">　　(十)侮辱或者诽谤他人，侵害他人名誉、隐私和其他合法权益的；</p>
+<p id="b-f1a96e57180449c6a99fd12c5645476a" style="text-align:start">　　(十一)法律、行政法规禁止的其他内容。</p>
+<p id="b-b4b307be89da48dfb4e0d2f380a6f1f9"><strong>网络信息内容生态治理规定</strong></p>
+<p id="b-b966295258664cb0981f604ed656b390"><strong>第六条</strong>　网络信息内容生产者不得制作、复制、发布含有下列内容的违法信息：</p>
+<p id="b-83556c89badc4604be1ccc811f345511">（一）反对宪法所确定的基本原则的；</p>
+<p id="b-78289401415641738ec2350e369be613">（二）危害国家安全，泄露国家秘密，颠覆国家政权，破坏国家统一的；</p>
+<p id="b-aefd3a4ae4ce40999d23c0549c73ff2c">（三）损害国家荣誉和利益的；</p>
+<p id="b-3dfb1e748f2d4cf7a3414f8e1d0f13b4">（四）歪曲、丑化、亵渎、否定英雄烈士事迹和精神，以侮辱、诽谤或者其他方式侵害英雄烈士的姓名、肖像、名誉、荣誉的；</p>
+<p id="b-4bb8e745852e425fb54378d25121ca9b"><u>（五）宣扬恐怖主义、极端主义或者煽动实施恐怖活动、极端主义活动的；</u></p>
+<p id="b-deaaa30e2c4946d4803f096aeb9860f0">（六）煽动民族仇恨、民族歧视，破坏民族团结的；</p>
+<p id="b-7bccd5a7ab854b85bae78027cc181c24">（七）破坏国家宗教政策，宣扬邪教和封建迷信的；</p>
+<p id="b-fdbcd3216a7340c7a10f9230eefa3a0e">（八）散布谣言，扰乱经济秩序和社会秩序的；</p>
+<p id="b-f531c9a0879e4d4a9d3ca4dfbb8f1c94">（九）散布淫秽、色情、赌博、暴力、凶杀、恐怖或者教唆犯罪的；</p>
+<p id="b-a5a26d66748d453998b506f93915d5f1">（十）侮辱或者诽谤他人，侵害他人名誉、隐私和其他合法权益的；</p>
+<p id="b-20b4b210431f4a2fbe4fc3a6da8d4946">（十一）法律、行政法规禁止的其他内容。</p>
+<p id="b-481339fd9b07465f8930f3be6b47fa08"><strong>第七条</strong>　网络信息内容生产者应当采取措施，防范和抵制制作、复制、发布含有下列内容的不良信息：</p>
+<p id="b-99a7aedad215479d9a9ee6697595a628">（一）使用夸张标题，内容与标题严重不符的；</p>
+<p id="b-7ca76aef73e6457eaeee0d2c5f8bc230">（二）炒作绯闻、丑闻、劣迹等的；</p>
+<p id="b-0742abab94b44938b96ee005b352d0f7">（三）不当评述自然灾害、重大事故等灾难的；</p>
+<p id="b-3626da3887854b998cbc66035b130b00">（四）带有性暗示、性挑逗等易使人产生性联想的；</p>
+<p id="b-8464b7f0bab04490b3b81537f8764a13">（五）展现血腥、惊悚、残忍等致人身心不适的；</p>
+<p id="b-11ccb24c3fcb48e3bf9022572a2b38be">（六）煽动人群歧视、地域歧视等的；</p>
+<p id="b-4c87c205d0a5449c8168d3839ee595b7">（七）宣扬低俗、庸俗、媚俗内容的；</p>
+<p id="b-dbed36ecc3364772a29059b03afc36cd">（八）可能引发未成年人模仿不安全行为和违反社会公德行为、诱导未成年人不良嗜好等的；</p>
+<p id="b-92666dc3d8db44828643eae741eafe50">（九）其他对网络生态造成不良影响的内容。</p>
+<p id="b-051b24f9b7154d4297748b666a403c91"></p>
+<p id="b-767f8f5ba0fa4cf7abf0a1c584c020c9"></p>
+<p id="b-4fa8e74b415d415099f5062ebd3dc785"><span style="font-size:19px"><strong><sup>业务需求</sup></strong></span></p>
+<p id="b-87f4d9bcac4e495c84b84ab576c48977"><span style="font-size:19px"><sup>参考：</sup></span></p>
+<p id="b-96b901f0cefb4e9487f0fd7216cb3e52"><a href="https://km.sankuai.com/collabpage/2203283893" title="V3通道叠加底线标准（广平+商品+推荐）" id="b-7b790f9d39e444fcaf0446a7e0d6a9dd">V3通道叠加底线标准（广平+商品+推荐）</a></p>
+<p id="b-f4279b745b9c4463b614032541df78dd"><a href="https://km.sankuai.com/collabpage/1749674675" title="Push叠加审核标准" id="b-269f380d1f4540a2890dfbfc41974a0d">Push叠加审核标准</a></p>
+<p id="b-e80b47f76a6e4bd9afb53c8032256450">1、营销相关的业态（用户/商户信息业态+商品+广告+推荐业态）涉及恐怖组织，恐怖组织头目，旗帜标志等见删。（国际恐怖组织相关的介绍书籍留存，反恐书籍介绍留存）</p>
+<p id="b-f7a9e0e57da84ffd9f0282fb873426ca">2、联合国认定为恐怖组织，非见删。（旗帜标志代表人物等可从严打）</p>
+<p id="b-bb3e9e9bf44a4471a47a62de61cfdbfe">3、暴恐极端组织头目与反动分裂人物有重叠，旗帜与反动分裂旗帜有重叠，重叠部分都放到反动分裂打，剩余的恐怖组织头目和旗帜标志放暴恐极端。</p>
+<p id="b-98e37589d32745138ef810da257a4635">4、<span style="font-size:14px">煽动开展非法聚集，放到社会事件一起。</span></p>
+<p id="b-1d843b5094b344748d2b623cd8552899"><span style="font-size:14px">5、其他恐怖头目，无法明确打击项，删除。</span></p>
+<p id="b-aa352e912f2243a7989ad2bfae320af6"><span style="font-size:14px">6、恐怖分子相关服饰，武器等，（武器单出可不打，持枪人形象也通过。）</span></p>
+<p id="b-aa786c3a31434655a65794658c17f2eb"><span style="font-size:14px">符合常见恐怖分子组织特征的团体,如无法确定是否为恐怖组织，可以从严打击。（此条可修改结合环境人数等识别打击）</span></p>
+<p id="b-911f319ae4e34c63a510fef923ec954e"><span style="font-size:14px">1）军服、防弹衣、蒙面（头套or头巾）、蓄长须、带煎饼帽、持械；</span></p>
+<p id="b-4bbd5c14d8e145f3a339766547f53723"><span style="font-size:14px">2）正在开展恐怖袭击或恐怖活动的人。</span></p>
+<p id="b-df4df90bdc3f4fffa68137daf83986e3"><span style="font-size:14px">7、极端思想相关服饰在</span>营销相关的业态严控。（用户/商户信息业态+商品+广告+推荐业态）</p>
+<p id="b-5c77f9c7ccbe4abf97c41ecc225b1033">8、纳粹标志（用户/商户信息业态+商品+广告）见删，推荐需要区分主体（也可从严一律打）</p>
+<p id="b-0be5cab2cb324c7bb405708a0c21c0cd">9、旭日旗，抗日战争相关影片，视频主旨正面，旭日旗非主体通过外，其余全部打。</p>
+<p id="b-cd8fc0cfad6d40f093a28e7513edd018">10、文字涉及<strong>传播甚至宣传</strong>、<strong>美化、崇拜</strong>极端组织和相关代表人物、事件内容的，不区分表现形式、图文、音频、视频均需管控。除了见删场景需结合语境判定。</p>
+<p id="b-1123b8ba6c1042aeb7be83423750344f">11、借女权名义定义较多，但实际涉及内容较少，可以合并留存典型风险点。如果其他标准有关联的打到对应标签里。</p>
+<section id="b-646b204f185246c28e2cf20d38b3d261">
+<p id="b-b41b1cc404cb4f61bcfefadef46ae780"><p id="b-9d017aba1f604be68a7188dfcc31ced3">相似图案：包含圆心（类圆心）以及由圆心发散的条状形图案</p></p>
+<p id="b-c553fbf692314c64a3ac50155f95976f"><p id="b-5a3041b0e41b417f8df0640bbc92d34e">客观因素：因贴纸做旧或灯光等影响-呈淡黄色</p></p>
+<p id="b-684008f6d3ae4ac1897904f3022440b8"><p id="b-fbf3a2371f034d86884c3c81066b2713">客观因素：因贴纸做旧或灯光等影响-呈淡黄色</p></p>
+<p id="b-cfa6c5a54b394d2a8635917f1b30c5d4"><p id="b-e1b31bbcb27945c9bc50e7ad13094978">出版物：此处出版物仅包含报纸、杂志、图书。</p></p>
+</section>
+</div>

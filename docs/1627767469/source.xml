@@ -1,0 +1,2280 @@
+<km-doc>
+<km-title nodeId="3e682700cafa42188ddc209fe22ceac4">内容低质审核标准</km-title>
+<km-collapse active="false" nodeId="adbcd903c8c94d5b8b3caf0795dec36d">
+<km-title>更迭日志</km-title>
+<km-content>
+<ol nodeId="f4726bc9c53945bf9569232240910007">
+<li nodeId="82f8d58a5e3b41d3941f3388ab8fa3cf">23/11/27 10:13，根据<a href="https://km.sankuai.com/collabpage/1892016059" title="生态低质标签 v3规划" autoUpdate="true" nodeId="0703c1ac82714f079e1c1c5c1b27ee63">生态低质标签 v3规划</a>行文低质更名为内容低质。</li>
+</ol>
+<table responsive="false" nodeId="d9da59f92bd44821a236b5bd0fb64d6b">
+<tr nodeId="630ba03b7d9c49ae92739e3c61701f60">
+<th colwidth="[300]" nodeId="20783447ab3b41d59df64a8e876956bd">
+<p nodeId="5deefef7d2f04aaa90fb52eb44632e13">优化日期</p>
+</th>
+<th colwidth="[486]" nodeId="8f58dcec85d34da7b8061408636d0654">
+<p nodeId="38f4a492246b47b199fce32fc20027f8">原标准</p>
+</th>
+<th colwidth="[300]" nodeId="6ca6d1590bc0437da4734abee4043168">
+<p nodeId="021e30c57b4c46e3aa08110af4d10501">优化标准</p>
+</th>
+</tr>
+<tr nodeId="c31d788d326f43b291824940c319d6b2">
+<td colwidth="[300]" nodeId="834bb6e5366c49e69298ccb3d7d62a9b">
+<p nodeId="76a339365fc6404b97460eb16063df77">11.12</p>
+</td>
+<td colwidth="[486]" nodeId="1ffa400007294764a251204fef59e241">
+<p nodeId="6a38733ac88d46908c2ff6e46a0eb21e"><span color="rgb(255, 74, 71)"><span font-size="14"><strong>打标 </strong></span></span><span font-size="14">——（此条主要针对所有评论业务。）</span></p>
+<ul nodeId="6bbda4ee078242f6810e7d5ad290595a">
+<li nodeId="35421deb833d448988e7e8f7fbf921d0"><span font-size="14">与业务场景体验无关的内容</span></li>
+<li nodeId="fabc925ebcae4b579780fae7a3741232"><span color="rgb(255, 74, 71)">模版+评价，仅对评价内容审核，如果涉及违规则打标</span></li>
+</ul>
+<p nodeId="c3323bca52e14ef895a1ce239eaf1b12" />
+<p nodeId="690becefd39a43caadccc175faed8675"><strong>打击场景</strong>：</p>
+<ul nodeId="4ff42fce920e403b94b9912fe5960d7e">
+<li nodeId="2f758a9b90b7453c9329519c9dcf225e"><span font-size="14">催债、拖欠工资等。</span></li>
+<li nodeId="247ea6ce5d0d4b62ab9754bbf1a31f49"><span font-size="14">针对个人进行人身攻击</span><span color="rgb(255, 74, 71)"><span font-size="14">（包括：造谣吸毒、走私犯罪等内容，及暴露个人隐私的做小三等攻击类内容，侮辱谩骂类按照辱骂标准管控。）</span></span></li>
+<li nodeId="72ecb836c15344dc97eceaf10652631e"><span font-size="14"><del>受到骚扰、偷拍等。</del></span></li>
+<li nodeId="4c8fd81f32114fe397b26d9cbf7c282e"><span font-size="14">谴责类内容。内容整体为对某社会形态和事件的谴责，无其他含义。</span></li>
+<li nodeId="45ab1e8cbc6945c4ba9ccfc6f6d7fa73"><span color="rgb(255, 74, 71)"><span font-size="13">无明确语境的纯表情/符号/字母/数字等无意义内容也视为无关</span></span></li>
+<li nodeId="61417585bbc74e0f9f15b530ec79d74f"><span font-size="14">etc . 以上只是对几种常见无关的列举，其他无关在评论里也要打。</span></li>
+</ul>
+<p nodeId="7107fb3337fa46a686da6d7403b63c3c" />
+<p nodeId="cb7039bba7174e478441e6df8ba0f4cf"><span color="rgb(0, 186, 115)"><span font-size="14"><strong>通过 </strong></span></span><span font-size="14">——</span></p>
+<ul nodeId="0da162591eb243f68ca46b4103a3acc5">
+<li nodeId="55367da666554ed48d1997a317a35d11"><span font-size="14">与商家体验有关的骚扰内容</span></li>
+<li nodeId="7043d3b0343a4c2cb56825c25c0a27ab"><span color="#FF4A47"><span font-size="14">空白进审内容不打击</span></span></li>
+<li nodeId="722223a93348465cb293208da89fd44d"><span color="rgb(255, 74, 71)">纯模版内容不打击</span></li>
+</ul>
+<p nodeId="dc3b9a7c5cb545fd80a9d12756760e68" />
+</td>
+<td colwidth="[300]" nodeId="09b9b440becf4b19b1499e8b42a7a4f0">
+<p nodeId="ee8c62f32cd64d9b8f1df918118ce17e"><span color="rgb(255, 74, 71)"><span font-size="14"><strong>打标 </strong></span></span><span font-size="14">——（此条主要针对所有评论业务。）</span></p>
+<ul nodeId="8d456a4983654dc5a66a99f122edb0ba">
+<li nodeId="b007e1a9e1964509bb9d3372cd50065a"><span font-size="14">与业务场景体验无关的内容</span></li>
+<li nodeId="78181f0e10c04047b2ba75421c1b39cd"><span color="#000">模版+评价，仅对评价内容审核，如果涉及违规则打标</span></li>
+</ul>
+<p nodeId="95b8085da6264b74827ae310ec5a34c2" />
+<p nodeId="a9bbddbef7fd4ed58f15d15b4fe053c0"><span color="#000"><strong>打击场景</strong></span><span color="#000">：</span></p>
+<ul nodeId="5249d8fbd2a24521aa080b30f08b1398">
+<li nodeId="6c725ff91cee4e0db840e0a88567f867"><span color="#000"><span font-size="14">催债、拖欠工资等。</span></span></li>
+<li nodeId="3563078cc3874d4eb0eec7b65970b26a">
+<p nodeId="e41721ed43824821ab6215034ddd1b48"><span color="#FF4A47"><span font-size="14">针对个人进行人身攻击</span></span></p>
+<km-collapse active="false" nodeId="0f951c854b3347a798f18b357f2bca42">
+<km-title><span color="#FF4A47">人身攻击（可泛化）</span></km-title>
+<km-content>
+<p nodeId="ecfa42765d6748889e7ed9c66b432e9d"><span color="#FF4A47"><span font-size="14">造谣犯罪：吸毒、走私、诽谤</span></span></p>
+<p nodeId="ce943e7d5c904a128fa7e9bf6a3a94de"><span color="#FF4A47"><span font-size="14">暴露个人隐私：做小三、当小姐</span></span></p>
+</km-content>
+</km-collapse>
+</li>
+<li nodeId="67266310919346aaa4e793523bc8ff76"><span color="#000"><span font-size="14"><del>受到骚扰、偷拍等。</del></span></span></li>
+<li nodeId="81e17a645bc647d7b0da7d57bb2f2bee"><span color="#000"><span font-size="14">谴责类内容。内容整体为对某社会形态和事件的谴责，无其他含义。</span></span></li>
+<li nodeId="78b7129a83ab429991e919c035ace369"><span color="#000"><span font-size="13">无明确语境的纯表情/符号/字母/数字等无意义内容也视为无关</span></span></li>
+<li nodeId="f085f294af9a456e83b5ce8355c9a38a"><span color="#000"><span font-size="14">etc . 以上只是对几种常见无关的列举，其他无关在评论里也要打。</span></span></li>
+</ul>
+<p nodeId="3a373c648129461bba440f4256e77ea0" />
+<p nodeId="dae94f53db094b3aae8b30f94bbf2c2e"><span color="#000"><span font-size="14"><strong>通过 </strong></span></span><span color="#000"><span font-size="14">——</span></span></p>
+<ul nodeId="b5088d3a96784203a5530a2b7f3ccc00">
+<li nodeId="a8234493549e466980c1b22baa91244c"><span color="#000"><span font-size="14">与商家体验有关的骚扰内容</span></span></li>
+<li nodeId="877f40b6376b40e1b11e016d49e71b3d"><span color="#000"><span font-size="14">空白进审内容不打击</span></span></li>
+<li nodeId="47ea726e1ae84ae589e31ed5e566aa84"><span color="#000">纯模版内容不打击</span></li>
+</ul>
+</td>
+</tr>
+<tr nodeId="a1c017f9be8c4c58a656f5fc85d27941">
+<td colwidth="[300]" nodeId="cd071fffcfb841408d5c3aa963b29ac9">
+<p nodeId="4d7ee970bbd74932811aefe933e6fac2">11.4</p>
+</td>
+<td colwidth="[486]" verticalAlign="top" nodeId="9c704f7e161b4c8c96775af96c8a40aa">
+<p nodeId="867fff18abb342c2b159fe6195f9c322"><span color="#FF4A47"><span font-size="15"><strong>打标 </strong></span></span><span color=" "><span font-size="15">——</span></span></p>
+<ul nodeId="216a7ff4a371463cb301b048b9551d85">
+<li nodeId="b8396d1677ab4980a155c61c8fcdaa41">文本内容仅为纯字母/纯数字/纯标点符号/纯特殊符号，且无实际意义</li>
+<li nodeId="ee15eeaa0d7849df8f18d24099d39038">文本内容为上述四种形式（纯字母/纯数字/纯标点符号/纯特殊符号）的任意排列组合，且无实际意义</li>
+<li nodeId="1b51df148378488d9aacf79907f5f1c7">
+<p nodeId="e2d0b90aae77477e82a27d8a50b99087">大于3个的纯表情符号打击</p>
+<p nodeId="b729d2e8e2de4f92944c6cfc41f26bd0" />
+</li>
+</ul>
+<p nodeId="6b7655d7e8144c33b7518d4da20b0752"><span color="#000"><span font-size="15">注：</span></span></p>
+<ul nodeId="6e51dbabbda345a883422a859a0093ff">
+<li nodeId="5aa04566e5644d8cbade64fc07afabc6"><span color="#000"><span font-size="15">用户昵称不用这条规则，用户个人昵称可以用数字加字母组合。</span></span></li>
+<li nodeId="b7e621bdc6454a1c999e6ea835bdd33c"><span color="rgb(0, 0, 0)"><span font-size="15">用户回应，多模回应业务，打击4个以及4个以上无意义</span></span>文字、数字、符号、英文字母和<span color="rgb(255, 74, 71)">表情符号</span>或者组合<span color="rgb(0, 0, 0)"><span font-size="15">内容，纯表情组合可通过。（有意义的1111，2333，5555，6666不打标）。</span></span></li>
+<li nodeId="e1d5a7c14e9d4022afd5692d04a39835"><span color="rgb(212, 30, 33)">回复贴有意义不打，非回复贴乱打需要打击。</span></li>
+</ul>
+</td>
+<td rowspan="3" colwidth="[300]" nodeId="0a91554922c44e438629e1e1ba1a3631">
+<p nodeId="23afe96b78b544a7aef47d3873cdd3ed"><span color="#FF4A47"><span font-size="15"><strong>打标 </strong></span></span><span color=" "><span font-size="15">——</span></span></p>
+<p nodeId="81f4e4e2119242aab65f60ae65d2d492">1.文本内容仅为纯字母/纯数字/纯标点符号/纯特殊符号，且无实际意义</p>
+<p nodeId="9e1b6d66fa764262b71be4c0f1775452">2.文本内容为上述四种形式（纯字母/纯数字/纯标点符号/纯特殊符号）的任意排列组合，且无实际意义</p>
+<p nodeId="fab6d64ced2a46758986a4efa4639d83">3.大于3个的纯表情符号打击</p>
+<p nodeId="e47706fe02fa48969fdc9b18f4571886">4.<span font-size="15">无任何体验，整句都是看不懂的、无意义的内容。</span></p>
+<p nodeId="c1a45ee024534593838985fde6484c9d"><span font-size="15">5.</span><span color="#000"><span font-size="15">乱打内容&gt;体验内容</span></span></p>
+<p nodeId="3199d23383c84e78b8d04af134a0c706">6.<span color="rgb(0, 0, 0)"><span font-size="15">用户回应，多模回应业务，打击≥4个无意义</span></span>文字、数字、符号、英文字母和<span color="#000">表情符号</span>或者组合<span color="rgb(0, 0, 0)"><span font-size="15">内容。</span></span></p>
+<p nodeId="de0d2093484843298d9d603e83330a91" />
+<p nodeId="ac453c470eca4b4da58386f0aa935694"><span color="#FF4A47"><span font-size="15"><strong>需注意：</strong></span></span></p>
+<ul nodeId="b4c70813d44e441582639019f60d7185">
+<li nodeId="6145454acf0a42d1ba33ec910efba3ad"><span color="#000"><span font-size="15">用户昵称不用这条规则，用户个人昵称可以用数字加字母组合。</span></span></li>
+<li nodeId="c9eadd56d2da4adf888885664151f78f">
+<p nodeId="2419d1fbf6e4441f9ef4030971b922d6"><span color="rgb(212, 30, 33)">颜文字需整体看，无需单独查标点符号个数</span></p>
+<km-collapse active="false" nodeId="a05206056839442f91c169ac2a5b60ab">
+<km-title><span color="#FF4A47">颜文字</span></km-title>
+<km-content>
+<p nodeId="5ab9e116216d4d46aeff73dadd3ab4b2">颜文字列表可参考：‘<span color="#FF4A47">win+；</span>’中的表情符号面板</p>
+<p nodeId="28cfa50fe2e94d90acdac089cd1eeac5">以下仅列举部分组合形式</p>
+<table responsive="false" nodeId="73024734d41d488098a52755aee49701">
+<tr nodeId="d57dcc5b48b543cdabf5b28158ef0e1e">
+<th colwidth="[130]" nodeId="d2defc26d9214c0094ee84aa1ccc9a17">
+<p nodeId="1d5cea90e761476e9f77f5002554c137">分类</p>
+</th>
+<th colwidth="[170]" nodeId="f7d08cd01bab4e8dadf15b38166366d0">
+<p nodeId="4fc9ccc945e24a5f937071f0a9c8ab9c">举例</p>
+</th>
+<th colwidth="[133]" nodeId="c5d7d036031c4e48a890f91ac1caab1e">
+<p nodeId="88451d5ba94a46a5b0d734aa4e74d069">举例</p>
+</th>
+<th colwidth="[137]" nodeId="4d251a2ec4f844b88ffafd06716f2ae2">
+<p nodeId="27bc9176f84042b0ad2dd2c695c2bdfd">举例</p>
+</th>
+</tr>
+<tr nodeId="b0bcb0a3f1c14b7bb88ad3157efbf7c5">
+<td colwidth="[130]" nodeId="2891a97b74d04d7a91470128f9af9b06">
+<p nodeId="6142139761b44e5799f9fcea54e62a89">简易符号</p>
+</td>
+<td colwidth="[170]" nodeId="ee9754e7074540d6833ade63365be9a4">
+<p nodeId="be4389c5ccf84ea49eaa557c9762ad75">;_;</p>
+</td>
+<td colwidth="[133]" nodeId="10d9fb76f9a34574a3240d805002d6ef">
+<p nodeId="4b6c245b2f7448478b9beb523544ced2">:-)</p>
+</td>
+<td colwidth="[137]" nodeId="f20ff36dc983488799c8728e87a394ec">
+<p nodeId="0abb8231c5f24dbeacc2e1d6e4b318dc">:-3</p>
+</td>
+</tr>
+<tr nodeId="486e1710e09a4cd1851683487af28495">
+<td colwidth="[130]" nodeId="2f57fa1a96314d978f35fa018b091309">
+<p nodeId="495c96e4740147488f72e69f4e3e0561">复杂符号</p>
+</td>
+<td colwidth="[170]" nodeId="224fb625b2a74d7ea359708f871a9a5c">
+<p nodeId="b6dc0d46afad41398297049f44f10363">☆*: .｡. o(≧▽≦)o .｡.:*☆</p>
+</td>
+<td colwidth="[133]" nodeId="2d2eaf6b5ca347259e91320fb7f3ab9a">
+<p nodeId="dbdc10a3e3fc456cb9abbec9c9219dba">இ௰இ</p>
+</td>
+<td colwidth="[137]" nodeId="e3c2728d2a0743f89c695d6b5a23a7c2">
+<p nodeId="37148460c4e241b9af635ce97d5f76aa">\(@^0^@)/</p>
+</td>
+</tr>
+<tr nodeId="0e98a66aaf1d4bbc81efbb6807bf4cf2">
+<td colwidth="[130]" nodeId="c47ce45fa1564066a744e68f8c410f16">
+<p nodeId="69c754da2e0444d0a037d55e5ed451ce">符号+表情</p>
+</td>
+<td colwidth="[170]" nodeId="64220835e3044a98af5619bec4744c0b">
+<p nodeId="4a9b85acfe574c1ba141c1dbe66c86ae">（づ￣3￣）づ╭❤️～</p>
+</td>
+<td colwidth="[133]" nodeId="47b0ef7f25164bdeaad2447d6c23ac61">
+<p nodeId="8153a31c19554bbebf45d268e3972896">(❤️´艸｀❤️)</p>
+</td>
+<td colwidth="[137]" nodeId="bb452fa649c04c35a50f6691ae78dfa2">
+<p nodeId="27db324f4e0a4e4090a8d556cad86f52">(👉ﾟヮﾟ)👉</p>
+</td>
+</tr>
+<tr nodeId="b3dc0f185ee14416a2837953cd740066">
+<td colwidth="[130]" nodeId="f20521a24d8444839c1ffeb2077de552">
+<p nodeId="50ab83b3f3f949f6926eeec914fe5631">符号+文字</p>
+</td>
+<td colwidth="[170]" nodeId="9c243269b3cd4ae8a308320444f76717">
+<p nodeId="f783499d6f5b4208b92c73e015b3b6fd">(｡･∀･)ﾉﾞ嗨</p>
+</td>
+<td colwidth="[133]" nodeId="a412fdba000a4020a74fd4d72747a846">
+<p nodeId="6c7faa9b4dce44d880f845d722a29626">(o-ωｑ)).oO 困</p>
+</td>
+<td colwidth="[137]" nodeId="fc66b584d57e424aa38f6969f50067d4">
+<p nodeId="f9940b5cd3be47698faa6a78c542c9b2">嗯~ o(*￣▽￣*)o</p>
+</td>
+</tr>
+<tr nodeId="78117c9390c7404c96b602224227563d">
+<td colwidth="[130]" nodeId="5cbf14a017ce4ebcbf564ccd934d32bc">
+<p nodeId="6190b33a51d34fe2a2756ae5c1f0fece">符号+英文</p>
+</td>
+<td colwidth="[170]" nodeId="3257097bbdca4cd1ad406a6d8430fa80">
+<p nodeId="8a8189dffa154a9c998311b384c76609">&lt;(￣︶￣)↗[GO!]</p>
+</td>
+<td colwidth="[133]" nodeId="1f0276197dcc4996a08dcc86632fb640">
+<p nodeId="d8b9e9d1fb2747908ed61279e7357ab3">○( ＾皿＾)っHiahiahia…</p>
+</td>
+<td colwidth="[137]" nodeId="733e3ed801dc45728eca2466d34ca196">
+<p nodeId="05c3a7443bdd418ca9a7ce4ff534fe7b">(￣y▽￣)╭ Ohohoho.....</p>
+</td>
+</tr>
+</table>
+<p nodeId="f9109ed113764d6bbfdb54e022b70937" />
+</km-content>
+</km-collapse>
+</li>
+<li nodeId="c696dab07fb444fab522ae9aa46943ea"><span color="#000"><span font-size="15">“好”、“好的”、“行”等字词+乱打内容，不属于体验内容。</span></span></li>
+</ul>
+<p nodeId="7f733758ae614f31ab390d8ff83fd4d4" />
+<p nodeId="dfaa23bb84fd4e7eb71f52424bf3384f"><span color="#00BA73"><span font-size="15"><strong>不打标 </strong></span></span><span font-size="15">——</span></p>
+<ul nodeId="66f94ddf72134b928a3171475d667ec7">
+<li nodeId="284d1ab74a5c48ce8d6e195f510e26d2"><span font-size="15">外语&amp;方言，翻译后为有意义内容</span></li>
+<li nodeId="9c76e28f919a4f869c6f0f4d6a84b8cd"><span color="#000">出现各种代码乱码的情况，先豁免</span></li>
+<li nodeId="72f23578c58142a89b2455ec2a2f3b92">
+<p nodeId="581333941a8c4248850fbea0edda6bec"><span color="#FF4A47"><span font-size="15">回复贴</span></span><span color="#FF4A47">有意义、</span><span color="#FF4A47"><span font-size="15">纯表情组合无需打击</span></span></p>
+<km-collapse active="false" nodeId="5a25997c782d4897833cca8039edff38">
+<km-title><span color="#FF4A47">回复贴有意义</span></km-title>
+<km-content>
+<ul nodeId="d64b36adac96479096ba55bc15f76cc6">
+<li nodeId="029920812f214f1391ecb23dcc7a8be6"><span color="#FF4A47">有意义的数字：</span><span color="#FF4A47"><span font-size="15">1111（收到/同意），2333（笑），5555（哭），6666（表示赞同）</span></span></li>
+<li nodeId="eedff4d5663d44da9985b5c53f3d69b9"><span color="#FF4A47">不限字数的‘哈’（哈哈哈、哈哈哈哈哈哈）</span></li>
+<li nodeId="dab32f7e666f427889169e675b78c371"><span color="#FF4A47">表情符号+不限字数的‘哈’</span></li>
+<li nodeId="4c7d19b85d534744b30aaad7ba2140c0"><span color="#FF4A47">与主贴有交互内容</span></li>
+</ul>
+</km-content>
+</km-collapse>
+<p nodeId="c39d43d08d224d55b360e5884f2eadec" />
+</li>
+</ul>
+</td>
+</tr>
+<tr nodeId="373ab395b17a4bf99eafedf3b1e821c7">
+<td colwidth="[300]" nodeId="2486a640ed5447a0a6b01ae427f7f159">
+<p nodeId="a9e019aa4288497f98a09b5d82406dda" />
+</td>
+<td colwidth="[486]" verticalAlign="top" nodeId="3d69156efc2c4aff9616557ede643f10">
+<p nodeId="ce124b0fd96947f08202d61e6d59014d"><span color="#FF4A47"><span font-size="15"><strong>打标 </strong></span></span><span font-size="15">——</span></p>
+<ul nodeId="f21dc2522c8b439db0aa419d37f1dd6c">
+<li nodeId="d8d2924bf12c4f99ab841958a6caa651"><span font-size="15">无任何体验，整句都是看不懂的、无意义的内容。</span></li>
+</ul>
+<p nodeId="b25d5e0737d545f0953edd0e7c41639b" />
+<p nodeId="7968efc310d343b5bda421a9f3f8b7b3"><span color="#000"><span font-size="15">注：</span></span></p>
+<ul nodeId="d9080199175d40d9955e93145ed87f3b">
+<li nodeId="f703cc8a7dbb4a58afe7754c60662744"><span color="#000"><span font-size="15">乱打&gt;体验内容，也认为是乱打。</span></span></li>
+</ul>
+<ul nodeId="75e8c9e702ae410799629125a2915400">
+<li nodeId="0b1a40a503ed4fd99bdfb646d7c846f0"><span color="#000"><span font-size="15">“好”、“好的”、“行”等字词+乱打内容，不属于体验内容。</span></span></li>
+</ul>
+</td>
+</tr>
+<tr nodeId="be695f0c1ed8449c8c6b1e4f84eb3b95">
+<td colwidth="[300]" nodeId="48d2958736364f4689b07e0ad7892e70">
+<p nodeId="b0421d3d6c52467b8272523fbba1bdab" />
+</td>
+<td colwidth="[486]" verticalAlign="top" nodeId="47fd2cb77d8b429b9e3609eb8e6333e5">
+<p nodeId="bba6eae218aa47408cf0ed492e5c5a17"><span color="#00BA73"><span font-size="15"><strong>通过 </strong></span></span><span font-size="15">——</span></p>
+<ul nodeId="d414fb322b2942a3b824c561396601ae">
+<li nodeId="b504ebb1ca114cef90a0c58b96b54631"><span font-size="15">外语&amp;方言，翻译后为有意义内容</span></li>
+<li nodeId="34352d9166594c7ca31d142455b21d1e"><span color="rgb(255, 74, 71)">出现各种代码乱码的情况，先豁免</span></li>
+</ul>
+</td>
+</tr>
+</table>
+<p nodeId="54359983bcce48b7bd889cee46559d97" />
+</km-content>
+</km-collapse>
+<table responsive="false" nodeId="fec6d62553be4d19b7db3d90d9880298">
+<tr nodeId="2cb036dca5084b80ace701c30e581093">
+<th colwidth="[50]" nodeId="630d1e4d1ff14fa4bbc6ed4c89cd8b37">
+<p nodeId="e7688e9dbeae450191d31adc9091467a" />
+</th>
+<th colspan="3" colwidth="[65,57,61]" verticalAlign="middle" bgColor="rgb(246, 246, 246)" nodeId="8359a0195d874218ab32c39ca978609a">
+<p align="center" nodeId="e642b554fbae4a25ad418ef4fe0ec67b"><span font-size="16"><strong>V3标签体系</strong></span></p>
+</th>
+<th colspan="3" colwidth="[61,61,61]" verticalAlign="middle" nodeId="8cce1196ecf945d18f49bf81a602ac35">
+<p align="center" nodeId="b700d80de55141a3ae9ee4da0f3d0169"><span font-size="16"><strong>V2标签体系</strong></span></p>
+</th>
+<th colspan="2" colwidth="[61,65]" verticalAlign="middle" nodeId="0f48b457666a43e7bfd49ebde1acd4be">
+<p align="center" nodeId="3b344d18e2f24afc81bebe46659205b4"><span font-size="16"><strong>V1标签体系</strong></span></p>
+</th>
+<th rowspan="2" colwidth="[112]" verticalAlign="middle" bgColor="rgb(246, 246, 246)" nodeId="06c0cd92c1e34b2ca50f85e0204f228b">
+<p align="center" nodeId="bedd2531fd5745548943ef6657b1ac21"><span font-size="16"><strong>风险点</strong></span></p>
+</th>
+<th rowspan="2" colwidth="[551]" verticalAlign="middle" bgColor="rgb(246, 246, 246)" nodeId="722971b4dd3948ebaf5a873c16e0c8b4">
+<p align="center" nodeId="31bc43e4052b439584e03aa0aa6b8456"><span font-size="16"><strong>细则和具体定义</strong></span></p>
+</th>
+<th rowspan="2" colwidth="[515]" verticalAlign="middle" bgColor="rgb(246, 246, 246)" nodeId="b31886c8584042788cccb3c56808c3c4">
+<p align="center" nodeId="6d02b43ba5554f258475c57e43fdd8b3"><span font-size="16"><strong>文字样本</strong></span></p>
+</th>
+<th rowspan="2" colwidth="[329]" verticalAlign="middle" bgColor="rgb(246, 246, 246)" nodeId="6844a24d780f437baefc7b3876e8d284">
+<p align="center" nodeId="34adee12857f4de3a78f5a5d5d1f7175"><span font-size="16"><strong>图片样本</strong></span></p>
+</th>
+<th rowspan="2" colwidth="[391]" verticalAlign="middle" bgColor="rgb(246, 246, 246)" nodeId="b1b16cecb0d94565b90910d6b6e94e2f">
+<p align="center" nodeId="2bf1f843adaa4129aa369110340481b8"><span font-size="16"><strong>豁免样本及备注</strong></span></p>
+</th>
+</tr>
+<tr nodeId="6885ff714bd14502b4363bd30eeb7cb5">
+<td colwidth="[50]" numCell="true" nodeId="b55fc0082c714273a1e7b0261085b32e">
+<p nodeId="f8a89f11ef91432482070bd8d0a960d3" />
+</td>
+<td colwidth="[65]" verticalAlign="top" bgColor="rgb(244, 245, 247)" nodeId="cfc71d4507d8463bbeba5302bd8ac526">
+<p align="center" nodeId="223c73d8d9824dee8e403774ea6517a4"><span color="rgb(0, 0, 0)"><span font-size="16"><strong>一级标签</strong></span></span></p>
+</td>
+<td colwidth="[57]" bgColor="rgb(244, 245, 247)" nodeId="ddab3192f6c34eed993adc61c3b8a933">
+<p align="center" nodeId="f7d5d3e17022472284fa6622e0a68a93"><span color="rgb(0, 0, 0)"><span font-size="16"><strong>二级标签</strong></span></span></p>
+</td>
+<td colwidth="[61]" bgColor="rgb(244, 245, 247)" nodeId="109130e7941b41e6b8e7a8598c502ceb">
+<p align="center" nodeId="f5a2150855bb46648184291a89a632b7"><span color="rgb(0, 0, 0)"><span font-size="16"><strong>三级标签</strong></span></span></p>
+</td>
+<td colwidth="[61]" verticalAlign="middle" bgColor="rgb(244, 245, 247)" nodeId="88a8ad6e394144b3bff1bdd79dd7be2f">
+<p align="center" nodeId="f83d441a8ee142b1a2edaadf27b2f184"><span font-size="16"><strong>一级标签</strong></span></p>
+</td>
+<td colwidth="[61]" verticalAlign="middle" bgColor="rgb(244, 245, 247)" nodeId="8edb464c0c3648149de782fd0b7cdb8c">
+<p align="center" nodeId="2b24c5cc8f724c44afb0e3a83d95e183"><span font-size="16"><strong>二级标签</strong></span></p>
+</td>
+<td colwidth="[61]" verticalAlign="middle" bgColor="rgb(244, 245, 247)" nodeId="7ff551b538ef478598549074cf3b5858">
+<p align="center" nodeId="b1a3e1d2ac924b2a97597b4589253a4a"><span font-size="16"><strong>三级标签</strong></span></p>
+</td>
+<td colwidth="[61]" bgColor="rgb(244, 245, 247)" nodeId="8d842fce5c9a46c48a7f4cc525bd4eb5">
+<p nodeId="02461297d0974a5bb510fe2281c2990c"><span font-size="16"><strong>一级标签</strong></span></p>
+</td>
+<td colwidth="[65]" verticalAlign="middle" bgColor="rgb(244, 245, 247)" nodeId="8c1e7750ab7446898954d86a723b03ed">
+<p align="center" nodeId="22dddb02ea734daebc1c235074842d93"><span font-size="16"><strong>二级标签</strong></span></p>
+</td>
+</tr>
+<tr nodeId="60f5e321484541bd978d737b015e8952">
+<td colwidth="[50]" numCell="true" nodeId="914abdf201414e409d7b7e704de42b0c">
+<p nodeId="e3f562de8a0c4f0487870cdf9a2be24e" />
+</td>
+<td rowspan="4" colwidth="[65]" nodeId="a6406d270c4e45d0b615e26e04215124">
+<h2 align="center" nodeId="a032b38279a942e6a41ea6bade943c7e">内容低质</h2>
+</td>
+<td colwidth="[57]" nodeId="14631538d357466682d1611923a6a1cd">
+<h3 align="center" nodeId="ca56a3c978f24adea250223e1caba029">观感低质</h3>
+</td>
+<td colwidth="[61]" bgColor="rgb(237, 250, 244)" nodeId="344c9df9526e49e6b65719bda25c36e2">
+<h4 align="center" nodeId="17bb56c3e28645728e08326b7c6f99df">题文不符</h4>
+</td>
+<td colwidth="[61]" nodeId="3a14779aef62468c8090a7ea9cc366c2">
+<p nodeId="49bfc3db38f549d6816edb6c504a3817">垃圾内容</p>
+</td>
+<td colwidth="[61]" nodeId="fef5e9f2f8dd4fbdb1244189eac1be47">
+<p nodeId="52512adc70df4a22b19dbe10150cc57c">内容不匹配</p>
+</td>
+<td colwidth="[61]" nodeId="26945ccd562e47699f7f3b63af34656e">
+<p nodeId="b9a12a4e1a3a4708916fe9df94add42f" />
+</td>
+<td colwidth="[61]" nodeId="5745a2cdeaf54fa5a8af27ae300aeb36">
+<p nodeId="a1980bac1f114b6ebbb7787b1cc9761d">垃圾文字</p>
+</td>
+<td colwidth="[65]" nodeId="da27229c9ae7431eafeac8a880231ada">
+<p nodeId="dc5ca46b1614444aba5431aed7643dd5">「文」- 无关</p>
+<p nodeId="6d4186f180f24f9da91199f9c2228821" />
+</td>
+<td colwidth="[112]" nodeId="92eb86649d72438388d445cba8877578">
+<p nodeId="70efba134e544d1d8e31782eed5d12ce" />
+</td>
+<td colwidth="[551]" verticalAlign="top" nodeId="34c3ef52012f4934a759d75e65357c02">
+<p nodeId="5fc86bd01fda4be99bd219cbc6af68f4"><span color="rgb(255, 74, 71)"><span font-size="15"><strong>打标</strong></span></span></p>
+<p nodeId="4e1db794925f4cf39fa7f8430b0e62db"><span font-size="15">【文】</span></p>
+<ol nodeId="e8f1a96a33a14a40b24a8759846396da">
+<li nodeId="bb27e21371f64c42b32a6a15724db93c"><span color="#000"><span font-size="15">催债、拖欠工资等。</span></span></li>
+<li nodeId="aa0fd7df75544fd584ef25e884193ebe">
+<p nodeId="460ddfc6ae4f426081a63279d2923bb9"><span font-size="15">针对个人进行</span><span font-size="15"><strong>人身攻击</strong></span></p>
+<km-collapse active="false" nodeId="c23de359506f45c281c778496ce75fd1">
+<km-title><span font-size="15"><strong>人身攻击（可泛化，适用于定义2）</strong></span></km-title>
+<km-content>
+<p nodeId="6d37559890894a5b8f02691a0dc00a28"><span color="#000">个人私生活与道德方面：</span></p>
+<p nodeId="13baf52daf9c4dfa9c21e8a6fc51b68a"><span color="#FF4A47">出轨、劈腿、做小三、当小姐、一夜情、私生活混乱、性骚扰、不赡养老人、特殊性取向、特殊性癖；</span></p>
+<p nodeId="d352744887354ba49e7ac3a939ce7eaf"><span color="#000">违法犯罪行为方面：</span></p>
+<p nodeId="6e162d0be7be481d830a1b8992e355b9"><span color="#FF4A47">盗窃、抢劫、贪污受贿、吸毒与贩毒、杀人、诈骗、老赖、虐待儿童/动物等严重违法犯罪行为；</span></p>
+</km-content>
+</km-collapse>
+</li>
+<li nodeId="8eab511bebe84d2ab9deb16741448c38">
+<p nodeId="9cf1c6d25b964fedba7a66f1e675880b"><span color="#000"><span font-size="15">谴责类内容。内容整体为对某社会形态和事件的谴责，无其他含义</span></span></p>
+<p nodeId="99a5d72bdd564bd6ad3ff302bf8cf8b9" />
+</li>
+</ol>
+<p nodeId="13454546cbb0499a9b412b377e2d9064" />
+<p nodeId="e47e4c5c982543af9cdf22a10eda7d59"><span color="#00BA73"><span font-size="15"><strong>豁免</strong></span></span></p>
+<ol nodeId="f91650c303824508894f5899e8409b71">
+<li nodeId="d024b78ffdda49a1ad2854027624a2fc"><span color="#000"><span font-size="15">与商家体验有关的骚扰内容</span></span></li>
+<li nodeId="ae51f84ad166485a91a8373c7de8c5e2"><span color="#000"><span font-size="15">空白进审内容不打击</span></span></li>
+<li nodeId="b0ab8ed6402545a28df2779c367d8e23"><span color="#000"><span font-size="15">纯模版内容不打击，</span></span><span color="#FF4A47"><span font-size="15">若模版+评价，仅对评价内容审核</span></span></li>
+</ol>
+<p nodeId="af173f3dc0c3437a97e61987ac53d1a9" />
+</td>
+<td colwidth="[515]" nodeId="8d86ba14e26e4e5f8ceae2d34efdbcfd">
+<ol nodeId="f0ea43802d0b428d8abb1a88cc7e3e00">
+<li nodeId="c22298bdfedf4a02b7428d5237db6359">
+<p nodeId="58b106645eed47729fa4a5f7cc704cf0"><span color="#000"><span font-size="15">催债、拖欠工资等。</span></span></p>
+<km-collapse active="false" nodeId="4672e0574cf644268d3c934857da6c50">
+<km-title>案例</km-title>
+<km-content>
+<ul nodeId="851be61c16a04708b87bb59e1708a460">
+<li nodeId="5cf99b2ad772439d8eae6f47c475ee32"><span color=" "><span font-size="15">让你们店里那个</span></span><span color="#D41E21"><span font-size="15">林某海</span></span><span color="rgb(245, 35, 45)"><span font-size="15">老赖还钱</span></span><span color=" "><span font-size="15">，三百多块钱都还不起，林泽海小屁孩，还钱还钱还钱。</span></span></li>
+<li nodeId="bc8a59bb25094e3aaec23e9e5d96133a"><span color="rgb(245, 35, 45)"><span font-size="15">狗医院还钱</span></span><span font-size="15">，狗医院还钱。</span></li>
+<li nodeId="cfde15be3eb84939b63dffd016f74249"><span color=" "><span font-size="15">大家小心 这家店的一位 小姐姐，她叫</span></span><span color="#D41E21"><span font-size="15"> 郝某涵</span></span><span color=" "><span font-size="15">。</span></span><span color="rgb(245, 35, 45)"><span font-size="15">借钱不还。</span></span></li>
+<li nodeId="b0d3c640813644cda07211b2d38e2ae0"><span font-size="15">老板</span><span color="rgb(245, 35, 45)"><span font-size="15">拖欠员工工资</span></span><span font-size="15">，辞职后老板</span><span color="#D41E21"><span font-size="15">彭某</span></span><span font-size="15">主动删除员工微信扣一个月工资不给。</span></li>
+</ul>
+</km-content>
+</km-collapse>
+</li>
+<li nodeId="0bbc0fa690f340cf913a23b88d3c261f">
+<p nodeId="93ac3e63027a4ba1a52734351f8ec809"><span font-size="15">针对个人进行</span><span font-size="15"><strong>人身攻击</strong></span></p>
+<km-collapse active="false" nodeId="5a01e51781be483fbababea7091851df">
+<km-title>案例</km-title>
+<km-content>
+<ul nodeId="3fc51591d1f44a1ca67d31f388939619">
+<li nodeId="c35a09b2557a45e7ba279748a54923b7"><span font-size="15">姓刘的常年</span><span color="rgb(245, 35, 45)"><span font-size="15">当小三、破坏别人家庭、生私生子</span></span><span font-size="15">，还理直气壮，有正义感的人都抵制这样的人渣。</span></li>
+<li nodeId="eb7591bf3ebc41539d05b682d09f863d"><span color=" "><span font-size="15">该老板</span></span><span color="rgb(245, 35, 45)"><span font-size="15">胡某丽，勾引男人，不幸换上艾滋</span></span><span color=" "><span font-size="15">，心存报复心里，大家别去他店买东西了。</span></span></li>
+</ul>
+</km-content>
+</km-collapse>
+</li>
+<li nodeId="e4ef7407b1a14cc5be1627b77d51199e">
+<p nodeId="add4d82ab7d84821b10287b2bbdd76dd"><span color="#000"><span font-size="15">谴责类内容。内容整体为对某社会形态和事件的谴责，无其他含义</span></span></p>
+<p nodeId="e0de132a317d4002ae6c85be201974e5"><span color=" "><span font-size="15">老板 都是骗子 又是违法 又是走私 又是黑钱洗白的 谁还敢去？？？ 有钱没处花了？</span></span></p>
+<p nodeId="fa26bb8120a94303b6348c7f0de8c73d" />
+</li>
+</ol>
+</td>
+<td colwidth="[329]" verticalAlign="top" nodeId="2c2b119002514a7cb5241d1d53553514">
+<p nodeId="b18910ba35c14257af773ae0af2db4c1" />
+</td>
+<td colwidth="[391]" nodeId="e79b2e0828fe4662b048f653885d335e">
+<ol nodeId="39e10646668142938616fc3a9cf24ccb">
+<li nodeId="6adb3f519f534d63b5b63f9907eca6b5"><span color="#000"><span font-size="15">与商家体验有关的骚扰内容</span></span></li>
+</ol>
+<ul nodeId="68e27e6212724d378d24ad7e7c142ac1">
+<li nodeId="24aedd60ec0e4ce88ea4704d60073156"><span color=" "><span font-size="14">低能健身房真的是无休无止的打电话骚扰，不停打电话让你办卡。</span></span></li>
+<li nodeId="4a0944212a00455d8aae879842afa6a1"><span font-size="14">垃圾商户，黑心商家。</span></li>
+</ul>
+</td>
+</tr>
+<tr nodeId="a436ff5b468d4df99f3e9df25363de5d">
+<td colwidth="[50]" numCell="true" nodeId="ad611fd7ddab43929abeb378e72ac9be">
+<p nodeId="56cd52acadb84e6d97c9259c41ae4494" />
+</td>
+<td rowspan="3" colwidth="[57]" nodeId="e278c18948804a0f92639aa0bb8c7647">
+<h3 align="center" nodeId="3bdbe87cace84c1ea26c311b97a5b706">低信息量</h3>
+</td>
+<td rowspan="3" colwidth="[61]" bgColor="rgb(255, 246, 224)" nodeId="edc85d1d6b5e4de39ec48169870e4537">
+<h4 align="center" nodeId="fcef338a417d4da4b1a82388fa434bb7">乱打</h4>
+</td>
+<td rowspan="3" colwidth="[61]" nodeId="dd807cc9e45e40638b3d5f9f16d685c6">
+<p align="center" nodeId="884807e93bb248cbbc68d2c918015d72">垃圾内容</p>
+</td>
+<td rowspan="3" colwidth="[61]" nodeId="eaae441d3d4049de842bdade0d91cea3">
+<p align="center" nodeId="89163487bb704f75a8aabee2735b479e">乱打</p>
+</td>
+<td rowspan="3" colwidth="[61]" nodeId="c7636886c66647fc8cad9e61b266dd65">
+<p align="center" nodeId="24d531c7bdd54d21bb5436ef31caa397" />
+</td>
+<td rowspan="3" colwidth="[61]" nodeId="765f8b25ba8147e295a35180da374eff">
+<p align="center" nodeId="171888796c2243f380bf36ef430f4524">垃圾文字</p>
+</td>
+<td rowspan="3" colwidth="[65]" nodeId="7abe67577af24c87be078d71db758498">
+<p nodeId="29ad978009e0440eaf2c3ef5ea15ffa9">「文」- 乱打</p>
+<p nodeId="d10cd645be074f3d8ab1e6ddb2bff70b">「图&amp;视频」- 垃圾图片 - 无关</p>
+</td>
+<td rowspan="3" colwidth="[112]" nodeId="d960d6dbba8045f7867408d19953edef">
+<p align="center" nodeId="22b9d3c1d5084c5d957cf5cda964275d"><span font-size="15">乱打</span></p>
+</td>
+<td rowspan="3" colwidth="[551]" verticalAlign="top" nodeId="e2960e9cd2734b898e176c45ea89dad4">
+<p nodeId="ce2326656b714855ad54199054b0ac9f"><span color="#FF4A47"><span font-size="15"><strong>打标 </strong></span></span></p>
+<p nodeId="c79a71c576c24681a5219ad4b9925f13"><span font-size="15">【文】</span></p>
+<ol nodeId="61c860f7fb5c4e1c95002df29b33bff1">
+<li nodeId="c18a634859b2415f8daf1fbbfd9e8546"><span font-size="15">文本内容仅为</span><span color="#FF4A47"><span font-size="15">大于3个的</span></span><span font-size="15">纯字母/纯数字/纯标点符号/纯特殊符号，且无实际意义</span></li>
+<li nodeId="6a50987115944f758b7801c0b9a2fe52"><span font-size="15">文本内容为</span><span color="#FF4A47"><span font-size="15">大于3个的</span></span><span font-size="15">上述四种形式（纯字母/纯数字/纯标点符号/纯特殊符号）的任意排列组合，且无实际意义</span></li>
+<li nodeId="56a99c7e6d704dc186636cd6be9a35d7"><span color="#FF4A47"><span font-size="15">文本内容为</span></span><span font-size="15">大于3个的纯表情符号打击</span></li>
+<li nodeId="1f5d301aec034986baa894eb565e4553"><span font-size="15">无任何体验，整句都是看不懂的、无意义的内容。</span></li>
+<li nodeId="fe66502d2ee5469b861fb5a7c5cbb0f0"><span color="#000"><span font-size="15">乱打内容&gt;体验内容</span></span></li>
+<li nodeId="a2bfe9be5da540869ae8ccd0c63df6e2"><span color="#FF4A47"><span font-size="15"><del>用户回应，多模回应业务，打击≥4个无意义文字、数字、符号、英文字母和表情符号或者组合内容。</del></span></span></li>
+</ol>
+<p nodeId="a4dd9455ad1146eebedc40f396e7eb2b" />
+<p nodeId="fc91b1dd7b364e51bb0e2192621cc3f1"><span color="#FF4A47"><span font-size="15"><strong>需注意：</strong></span></span></p>
+<ol nodeId="f65669b4a94f4673bf1d2dce60a78300">
+<li nodeId="1281ba4d537546b8877b1d8c5c386f00"><span color="#000"><span font-size="15">用户昵称不用这条规则，用户个人昵称可以用数字加字母组合。</span></span></li>
+<li nodeId="29e73315ebde4b028b09e60f5916cc2a">
+<p nodeId="ca913d6a22df414a94bcd5a0d189372a"><span color="#000"><span font-size="15"><strong>颜文字</strong></span></span><span color="#000"><span font-size="15">需整体看，无需单独查标点符号个数</span></span></p>
+<km-collapse active="false" nodeId="e1ac69ab37744d34bf2caf04a4994958">
+<km-title><span color="#000"><span font-size="15"><strong>颜文字（适用于定义2）</strong></span></span></km-title>
+<km-content>
+<p nodeId="1cf9f0277de245748f1eb977119a002b"><span color="#000"><span font-size="15">颜文字列表可参考：‘win+；’中的表情符号面板</span></span></p>
+<p nodeId="abf375ae9c744697a5d3cd46ec7720c0"><span color="#000"><span font-size="15">以下仅列举部分组合形式</span></span></p>
+<table responsive="false" nodeId="3403471f6aec4fc28b6cae24799139d6">
+<tr nodeId="93f2b268fb604738893222ccdfa354fe">
+<th colwidth="[130]" nodeId="3aba54a512214b5c9645ec6acf77bfa9">
+<p nodeId="db92595657b941f7b6a3d0a714989f49"><span color="#000"><span font-size="15">分类</span></span></p>
+</th>
+<th colwidth="[170]" nodeId="75474edcb03042afb028846d9eb33a66">
+<p nodeId="c44ebe81d2304e9381abfff6810072f2"><span color="#000"><span font-size="15">举例</span></span></p>
+</th>
+<th colwidth="[133]" nodeId="c4307a32811d4355afb222cfb78beafc">
+<p nodeId="cc57f9e7e4b946f09b28849117fe9923"><span color="#000"><span font-size="15">举例</span></span></p>
+</th>
+<th colwidth="[137]" nodeId="39a9f209486c4690a35f7c5749111d6d">
+<p nodeId="36dcfc398a6447ba93552550c8fbc461"><span color="#000"><span font-size="15">举例</span></span></p>
+</th>
+</tr>
+<tr nodeId="e318135ade494b3fbb4d52fd395cd5bb">
+<td colwidth="[130]" nodeId="c806d6ce426a458fba735c7c32088bfc">
+<p nodeId="21031435d78146f580007ccdee9c3991"><span color="#000"><span font-size="15">简易符号</span></span></p>
+</td>
+<td colwidth="[170]" nodeId="72c498d46c5f4098958603507161c2b8">
+<p nodeId="f5b1b6f7cf604c78845c880de94b64cc"><span color="#000"><span font-size="15">;_;</span></span></p>
+</td>
+<td colwidth="[133]" nodeId="e48a5aebe6244f8f97f8c43bb8ff8997">
+<p nodeId="77406b145b77416abcc98dcd7d6aa8fe"><span color="#000"><span font-size="15">:-)</span></span></p>
+</td>
+<td colwidth="[137]" nodeId="6b6552c5492049b6aceef8252faf5a49">
+<p nodeId="b782ed8ba0ed48aebb730a35987a32a6"><span color="#000"><span font-size="15">:-3</span></span></p>
+</td>
+</tr>
+<tr nodeId="40a4c197a19c483b9877b669a7ca8547">
+<td colwidth="[130]" nodeId="9f35ceb27248479c9d9e4a167c0fa591">
+<p nodeId="5268e9bc416e4d0d9c8bbd67226961c8"><span color="#000"><span font-size="15">复杂符号</span></span></p>
+</td>
+<td colwidth="[170]" nodeId="28e886d8abe64d50886af872912a4982">
+<p nodeId="4d3f49cad51a4dc48f88208a4220aab2"><span color="#000"><span font-size="15">☆*: .｡. o(≧▽≦)o .｡.:*☆</span></span></p>
+</td>
+<td colwidth="[133]" nodeId="be45cd3701e84cb48812ecfa2614485c">
+<p nodeId="310c4b8b0da84662a9864bc78e2b1c28"><span color="#000"><span font-size="15">இ௰இ</span></span></p>
+</td>
+<td colwidth="[137]" nodeId="11b230785521472f8d4980f4e1ff4487">
+<p nodeId="0ad604afc3574be8a1ba25fb7421bb48"><span color="#000"><span font-size="15">\(@^0^@)/</span></span></p>
+</td>
+</tr>
+<tr nodeId="98c0979f37544c0fbada09e87761c81e">
+<td colwidth="[130]" nodeId="fb62d3b42d344703a891a27da08ea09b">
+<p nodeId="06759568db0e48f68c4354f95245fd34"><span color="#000"><span font-size="15">符号+表情</span></span></p>
+</td>
+<td colwidth="[170]" nodeId="1ab3c7d21c3648918d9e8b23fbe10dd3">
+<p nodeId="7a924b228f98443193a4788dd0913fef"><span color="#000"><span font-size="15">（づ￣3￣）づ╭❤️～</span></span></p>
+</td>
+<td colwidth="[133]" nodeId="0a97709604304b26b1171e04115680b0">
+<p nodeId="50932f34f5544c9bbd9ea5530ccfbcfb"><span color="#000"><span font-size="15">(❤️´艸｀❤️)</span></span></p>
+</td>
+<td colwidth="[137]" nodeId="29273dbd59424b8ba1daf97f704be93f">
+<p nodeId="0eb005ef2c9a4b0b9674e1db0815f970"><span color="#000"><span font-size="15">(👉ﾟヮﾟ)👉</span></span></p>
+</td>
+</tr>
+<tr nodeId="e7e92c3961de4449b8c2e16927180a65">
+<td colwidth="[130]" nodeId="31305d1c02e04f4b9b7da2c0339ac2bc">
+<p nodeId="b8cf5ace1e444b5c84080f136033cf3a"><span color="#000"><span font-size="15">符号+文字</span></span></p>
+</td>
+<td colwidth="[170]" nodeId="5188e9ff08a44765a4716f1c259aa9b1">
+<p nodeId="c324c4258e8f41b69a396734caf62d2c"><span color="#000"><span font-size="15">(｡･∀･)ﾉﾞ嗨</span></span></p>
+</td>
+<td colwidth="[133]" nodeId="832220d9d05644a69a09a8d61bd5fb27">
+<p nodeId="8a8d3fa09f304ae1b6a2398a56e5b369"><span color="#000"><span font-size="15">(o-ωｑ)).oO 困</span></span></p>
+</td>
+<td colwidth="[137]" nodeId="012592bbc34248acae978543cc9b800a">
+<p nodeId="a77c441a44d7452db5961693f39ac4e0"><span color="#000"><span font-size="15">嗯~ o(*￣▽￣*)o</span></span></p>
+</td>
+</tr>
+<tr nodeId="c7581a3f4bf2404e9652891cdc6f2533">
+<td colwidth="[130]" nodeId="1876eb9f15ec4b8e841e1acc877c83d2">
+<p nodeId="72c174ba51a04c23ba45decff1c543ea"><span color="#000"><span font-size="15">符号+英文</span></span></p>
+</td>
+<td colwidth="[170]" nodeId="3bfdd4860fd447b59a7d9cea78995d4b">
+<p nodeId="daa2a7ddd7554f03ae4857c1f5447dcf"><span color="#000"><span font-size="15">&lt;(￣︶￣)↗[GO!]</span></span></p>
+</td>
+<td colwidth="[133]" nodeId="167f30b9cee24cd5a0c2dc4c342059af">
+<p nodeId="cb6854fcd970491c983f55ee65ebdafb"><span color="#000"><span font-size="15">○( ＾皿＾)っHiahiahia…</span></span></p>
+</td>
+<td colwidth="[137]" nodeId="c02cf9e9426d48c792b1ba518600a963">
+<p nodeId="d01e47d256d24c07b1488f2112540681"><span color="#000"><span font-size="15">(￣y▽￣)╭ Ohohoho.....</span></span></p>
+</td>
+</tr>
+</table>
+<p nodeId="0ad9ad203e274656a2287e9d4c62c366" />
+</km-content>
+</km-collapse>
+</li>
+<li nodeId="43cd73fe683d47359a0e6910fc4112eb"><span color="#000"><span font-size="15">“好”、“好的”、“行”等字词+乱打内容，不属于体验内容。</span></span></li>
+</ol>
+<p nodeId="21bf9c22d07d4cb1b84a0aa24fd6b30e" />
+<p nodeId="9cbde2ba9ad149d2871760a63d339a37"><span color="#00BA73"><span font-size="15"><strong>豁免</strong></span></span></p>
+<ol nodeId="bed0fbe55b564285942696e9be424f80">
+<li nodeId="7a9386ddbd17433cb8be1d07ca44cae9"><span font-size="15">外语&amp;方言，翻译后为有意义内容</span></li>
+<li nodeId="4919bffe9fce49398d8afdbe8f4fb7db"><span color="#000"><span font-size="15">出现各种代码乱码的情况，先豁免</span></span></li>
+<li nodeId="8fe5838ee449440885235b0db82cf7bb">
+<p nodeId="0d8754ea045f458c8d2bde9b54dedf50"><span font-size="15"><strong>回复贴有意义</strong></span><span font-size="15">、纯表情组合无需打击</span></p>
+<km-collapse active="false" nodeId="eaadb8af36864e729c95de7f10a80b04">
+<km-title><span font-size="15"><strong>回复贴有意义（适用于定义3）</strong></span></km-title>
+<km-content>
+<ol nodeId="1b74f9e4358b4a6ab9c6e6c6128524b0">
+<li nodeId="48f53c807a2243acaaaed868435e77f0"><span font-size="15">有意义的数字：1111（收到/同意），2333（笑），5555（哭），6666（表示赞同）</span></li>
+<li nodeId="73b2d3d4089f4637bc559538724ee008"><span font-size="15">不限字数的‘哈’、“啊”（啊啊啊啊；哈哈哈哈哈）；以及表情符号+不限字数的‘哈’、“啊”</span></li>
+<li nodeId="1b0503de12274fa7b589c3141bffeb0e"><span font-size="15">与主贴有交互内容</span></li>
+<li nodeId="30765ad6e1f24aedae44754d36a21d23">不限个数的“？”“！”“？！”“......”，表达疑问、震惊、无语等情绪</li>
+<li nodeId="b11ab174741d4038a631ab7a19275da3"><span font-size="15">回复贴中包含任何与业务体验、主贴内容相关的图片</span>（文案无意义，图片有信息量也可通过）</li>
+</ol>
+</km-content>
+</km-collapse>
+</li>
+<li nodeId="7ca19a1786fc4126a09b21a7162a096d">
+<p nodeId="e9ff0ce1ccd845fca35e47c01c3407b6"><span font-size="15">以0-9开头的</span><span font-size="15"><strong>日期</strong></span><span font-size="15">、时间</span></p>
+<km-collapse active="false" nodeId="889e194dae964695b9b42e2308355946">
+<km-title><span font-size="15"><strong>日期示例（适用于定义4）</strong></span></km-title>
+<km-content>
+<p nodeId="8562d3a3a09043acaf93d475988d8e0f"><span font-size="15">年月日：2025-12-01、20251201、2025.12.01、2025/12/01、</span></p>
+<p nodeId="426c27e76e9b49679f631f0e38e114ad"><span font-size="15">日月年：01/12/2025</span></p>
+<p nodeId="c096f27e88024a409ad5402d2100963b"><span font-size="15">月日年：12/01/2025</span></p>
+<p nodeId="62e7fc30004c4161a9ed6ce5e3927dd8"><span font-size="15">月日时间：12.01 13：20</span></p>
+</km-content>
+</km-collapse>
+</li>
+<li nodeId="e734bd296578424a996a20df91356f53">“啊”“哈”作为语气词，重复的“？”“！”“？！”“......”，出现在体验内容后，通过重复来加强语气时，不属于乱打/无意义内容</li>
+<li nodeId="33c8c0a37fbf448b88a3a5efb284d149"><span color="#FF4A47">【交互类信息,问题/回答】类内容只进审回答部分，审核页面只有简短的答复文字，不属于无意义内容，可正常通过。</span></li>
+</ol>
+</td>
+<td rowspan="3" colwidth="[515]" nodeId="d30cc574964b4b3bb7b36b26df839d46">
+<ol nodeId="3d760df879b84ffba23ce0421eacc373">
+<li nodeId="4ba29c9c56054872ab83362ded74ef0d">
+<p nodeId="b72fa8a9b44e4090b39609461753241d"><span font-size="15">纯字母/纯数字/纯标点符号/纯特殊符号：</span></p>
+<km-collapse active="false" nodeId="d7aa7397379f491993c590b05f31ca1e">
+<km-title>案例</km-title>
+<km-content>
+<ul nodeId="8fc4a36d49d44e2dbd8292efb2e02abe">
+<li nodeId="d76d128c0a634aa7af078e40831340af"><span color=" "><span font-size="15">。。。。</span></span></li>
+<li nodeId="fa5e7640b2b948bfacc74169ac14b903"><span color=" "><span font-size="15">。。。。。。。。。。。。。</span></span></li>
+<li nodeId="7cac98929bb046cba46feeaaa601b4ad"><span color=" "><span font-size="15">289，666，333，999</span></span></li>
+<li nodeId="080d02f7549744c3ab24c3eb75f80050"><span color=" "><span font-size="15">18372927482926489</span></span></li>
+</ul>
+</km-content>
+</km-collapse>
+</li>
+<li nodeId="d92c8a12bb4c4431a7beec8a31eaad58">
+<p nodeId="814a611235c44b64974fcb2649090ece"><span font-size="15">纯字母/纯特殊符号或文字的任意排列组合，且无实际意义</span></p>
+<km-collapse active="false" nodeId="5e4aa478be4749cb9ec891c93db48a71">
+<km-title>案例</km-title>
+<km-content>
+<ul nodeId="e8250dca9345417a86195975f448a70b">
+<li nodeId="e3b3705823f94ee7bbae07c6c58ff51a"><span color=" "><span font-size="15">JQK161，fzmhyy1314佳</span></span></li>
+<li nodeId="51cd03f000594cdfb791e9850c01ba42"><span color=" "><span font-size="15">1.5.8.6.2.4.1😄3.5.4.5</span></span></li>
+<li nodeId="c45f46a184304c41b6921cc0bd25d4db"><span color=" "><span font-size="15">132***4245+++8849</span></span></li>
+<li nodeId="61adf3051a134e06ae4c10beee207b0a"><span color=" "><span font-size="15">^quCYkpfnQq^eyJwMSI6IjEwMjM5MDh6IiwicDIiOiIiLCJwMyI6IjEwMjM5MD</span></span></li>
+</ul>
+</km-content>
+</km-collapse>
+</li>
+<li nodeId="a275e3f04a1d4fb3bae17c9df974380e">
+<p nodeId="7f4b0b23342d41d6899f21dca4b9b46c"><span font-size="15">无任何体验，整句都是看不懂的、无意义的内容</span></p>
+<km-collapse active="false" nodeId="9c42410cd2294bb49f02216cea100903">
+<km-title>案例</km-title>
+<km-content>
+<ul nodeId="526314b2b3724e73b48be8bcea64ae26">
+<li nodeId="2aaebc3016304edba8eea9522b7531d0"><span color=" "><span font-size="15">一叁柒贰零叁肆</span></span></li>
+<li nodeId="1ba9ed8a603f47a4b516ee83d6544b08"><span color=" "><span font-size="15">好的时候了吗？开户磨砂来啊路HIIT咯恩济葫无聊了</span></span></li>
+<li nodeId="fbdca4c65d224b7782c27f3a3c3e14f9"><span color=" "><span font-size="15">嗯嗯嗯嗯嗯嗯嗯嗯嗯嗯嗯嗯#7元小菜拼盘#</span></span></li>
+<li nodeId="403813dec25c476a9df16ebfbfbea6cf"><span color=" "><span font-size="15">脆皮鸡饭套餐#大家都叫解放军队觉得基督教京东快递基督教</span></span></li>
+<li nodeId="841bf9f891294aa1ae78970c6cb62d72"><span color=" "><span font-size="15">[调皮][调皮][调皮][调皮][调皮]啊啊啊啊啊</span></span></li>
+</ul>
+</km-content>
+</km-collapse>
+</li>
+<li nodeId="eec7761f066e413db9f0a76f7328387d">
+<p nodeId="98eebb5f98534e6ca365ebca88932bfc"><span color="#000"><span font-size="15">乱打内容&gt;体验内容</span></span></p>
+<km-collapse active="false" nodeId="bb0b40740677428684f45d3246daa01b">
+<km-title>案例</km-title>
+<km-content>
+<ul nodeId="69d00f49a0b24575bd652a70c610bdbe">
+<li nodeId="92b7110c44fa484d8201ce4aef029919"><span color=" "><span font-size="15">好红红火火恍恍惚惚哈哈哈哈哈</span></span></li>
+<li nodeId="d6807c7293a44c2380fb440adbec84d8">好吃，1122+w334421</li>
+</ul>
+</km-content>
+</km-collapse>
+</li>
+</ol>
+</td>
+<td rowspan="3" colwidth="[329]" verticalAlign="middle" nodeId="4d35e92242ef4c12a5dc013511bd80c1">
+<p nodeId="082545836af24288abde943b5903b927"><img src="https://km.sankuai.com/api/file/cdn/1627767469/236659396014?&amp;isNewContent=false&amp;contentType=1" name="" width="479" height="101" nodeId="5df0dd23ce414adeaae632935644a553" /></p>
+</td>
+<td rowspan="3" colwidth="[391]" nodeId="778e964e042145559cb3e30fb20a2c73">
+<ol nodeId="1a4cfb6394e54e67a7c2c8d940ffa7bb">
+<li nodeId="dc6b03362c2f4c3a943d96c651436638">
+<p nodeId="ce118d0823d948b1bd2914652e7bcfd3"><span font-size="15">正常文字+数字组合</span></p>
+<km-collapse active="false" nodeId="9dda5344de014fb6b76fbf0a30f4e10b">
+<km-title>案例</km-title>
+<km-content>
+<ul nodeId="5928956ac44444e99c53e6ec5e2629f9">
+<li nodeId="db7d0277d9c24485b9e984fdce1c86b4"><span font-size="15">价格289</span></li>
+<li nodeId="17d30e35c26342ffad079759fc33a599"><span font-size="15">太666了</span></li>
+<li nodeId="3abfc798859143bba142ce2ea6533ff7"><span font-size="15">38每公斤</span></li>
+</ul>
+</km-content>
+</km-collapse>
+</li>
+<li nodeId="61b42bea545f40b49abf5fe73fca90ec">
+<p nodeId="ffff07bb74ac44349183a83feea6c41b">回复贴有意义纯字母</p>
+<km-collapse active="false" nodeId="913dc52eb10b437ead2026f319979a6d">
+<km-title>案例</km-title>
+<km-content>
+<p nodeId="74c0db9a205d4cf080ac0edbae5ae7ba">原帖：一个人去A套餐划算还是B套餐</p>
+<p nodeId="3e1bf01a7e934a2c897e54dfb254db88">回复贴：a</p>
+</km-content>
+</km-collapse>
+</li>
+<li nodeId="71989705d51b42d297d3615f613c3657">
+<p nodeId="7da73dd0d1284731a44ecb705cf995f2">相关话题+体验评价</p>
+<km-collapse active="false" nodeId="da289e99bfce4a68abce7451113b98a4">
+<km-title>案例</km-title>
+<km-content>
+<p nodeId="6dbc06032c3b490d887f71ad2a37e6c4"><span font-size="15">把把骚鸭心（30串）# #把把骚鸭心（30串）# #把把骚鸭心（30串）#</span><span font-size="15"><strong>很好吃</strong></span></p>
+</km-content>
+</km-collapse>
+</li>
+<li nodeId="a8b1bd79ad2e49658dc926f2720f4a33">
+<p nodeId="7cb752bf087f41da814abee891edf66a"><span font-size="15">外语&amp;方言，翻译后为有意义内容</span></p>
+<km-collapse active="false" nodeId="a111fb6d14f54f11b650f9da7a02d80c">
+<km-title>案例</km-title>
+<km-content>
+<ul nodeId="95a6ebcd0275434ebc3c93c829a1e063">
+<li nodeId="b156946a8bcf4122b3a31eea0745ea55"><span font-size="15">点评内容：地址市二宫地铁站上边就係喇交通其实都几方便嘅但係呢间商场个卖场唔係好大架咋佢好细，而且佢裏边呢主要哩都係买啲海鲜啊同埋嗰啲其他嗰啲熟食呢佢而家都有啲但係唔係话好多蔬果吖水果之类但係又早瞓呢就好少啦同埋啲酸奶呢佢啲品种呢唔係咁，超级多，有啲可惜嘅就係要扮佢哋个会员呢係要畀钱先至有架，希望下次佢哋啲会员呢可以免费唔使畀钱就可以做到佢哋会员噉就好喇。</span></li>
+</ul>
+<p nodeId="47091592034a4b0bbad1ef0b2fa0da2f"><span font-size="15">喜欢的菜：香满楼酸奶纤维</span></p>
+<hr nodeId="f265f090fabc40229967e039f74b1e03" />
+<ul nodeId="4db3f2330a814e4a8a5babaa3f4b3e51">
+<li nodeId="6e4faf85140b438e874c809b22f6c925"><span font-size="15">في المرة الأولى التي كنت تأكل هذا  ، قليلا مكلفة ولكن ضخمة لذيذالكورية التعليق قبل مثيرة جدا للاهتمام  ، تريد التعليق على اللعب فقط لم أفكر حتى لذيذ هههه</span></li>
+</ul>
+<p nodeId="69099031462644afa744a9cfa3bc7fa1"><span font-size="15">翻译后：我第一次吃这个，有点贵，但巨大的美味的朝鲜的评论之前，很有趣，你想玩的评论只是没有想到这么美味的哈哈</span></p>
+<hr nodeId="669f10aa6cc0460b8f6a6b60add19e6c" />
+<ul nodeId="2f81c3de5a04408a95c71c6696b59672">
+<li nodeId="5f812ffd788f4b998b455839705d338e"><span font-size="15">Ämnet som kommer naturligt, följer med dess naturliga trend, åtföljer lämpligt, naturligt kärlekstal naturligt.När du ser något som du gillar, tänker du på att köpa det åt dig och när du träffar något intressant, tänker du på att dela det med dig.Jag ringer när som helst när jag saknar dig, och när jag är tröt t säger jag att jag inte behöver stanna hos dig hela tiden.</span></li>
+</ul>
+<p nodeId="3786ed5aacfe43bf917ea26c8368f9b0"><span font-size="15">翻译后：当你看到你喜欢的东西，你会想买给自己，当你遇到有趣的事情，你会想和你分享。我想你的时候会给你打电话，当我累了，我说我不必一直和你在一起。</span></p>
+<ul nodeId="6df39061c3574937bb47c114845964e9">
+<li nodeId="f1a447f3d4f84623a2ce7ca517bc2f89">
+<p nodeId="85164863f853478cb7acd16bd8de29c8"><span font-size="15">Have a fling with a friend</span></p>
+<p nodeId="1bc5e48066054b9ca359732e1b48e880"><span font-size="15">翻译后：</span>与一个朋友有一段短暂恋情</p>
+</li>
+</ul>
+</km-content>
+</km-collapse>
+</li>
+<li nodeId="11a7aeb2ccb9478ebf7aed34a91c0ec5">
+<p nodeId="be10fdffc6a84fe5bac6edd131664116"><span color="#000"><span font-size="15">代码乱码</span></span></p>
+<km-collapse active="false" nodeId="dfdd6b16908f40d8810994c398e861a7">
+<km-title>案例</km-title>
+<km-content>
+<p nodeId="192da236c525463f9717eed3ec2a2693"><img src="https://km.sankuai.com/api/file/cdn/1627767469/254171256162?&amp;contentType=1&amp;isNewContent=false" name="" width="179" height="78" nodeId="94544e3c353f467abc144f257fd6ce62" /></p>
+<p nodeId="95fbfa2cd0974c349000c2587347c307"><img src="https://km.sankuai.com/api/file/cdn/1627767469/254170490873?&amp;contentType=1&amp;isNewContent=false" name="" width="239" height="85" nodeId="d61f9a39c34b45ee93ab3cf4cd1ac5ea" /></p>
+</km-content>
+</km-collapse>
+</li>
+<li nodeId="4c00b10e20594ad1aec2d48a4373f729">
+<p nodeId="7cea8005aed5479e9322d5c5d15118d9">“啊”、“哈”作为语气词，重复的“？”重复出现在句尾来加强语气</p>
+<km-collapse active="false" nodeId="6caff91bce2b40cba830754a32c3542c">
+<km-title>案例</km-title>
+<km-content>
+<ul nodeId="9c0c2d2af25b4ae392f688c49c3916ee">
+<li nodeId="989177145f1d46ac92c5e8367a9faab0">怎么还不开门啊啊啊啊啊啊啊</li>
+</ul>
+<ul nodeId="8d613a81555f4dcb86251e25dd428e9b">
+<li nodeId="b676290a83f942ceb4c6a6244ea371d5">笑不活了哈哈哈哈哈哈</li>
+<li nodeId="d32dfbe17b4c4ecaacf92dff6306b3b2">这么离谱？？？？？</li>
+</ul>
+</km-content>
+</km-collapse>
+</li>
+<li nodeId="91d8dcbe31cf4346b23ecc07057a8560">
+<p nodeId="9a514b761c254c268f33be823fcba2cc">回复贴中不限字数的“啊”及重复的“？”“！”“？！”</p>
+<km-collapse active="false" nodeId="ceb334df74814a4682696e6653215f9c">
+<km-title>案例</km-title>
+<km-content>
+<ol nodeId="330a81389fa84513869bed5937c225d2">
+<li nodeId="af00f37ec6cb48b8a0631b0004ecaa50">
+<p nodeId="5f16b5b9568840c59addc6e62cf3a423">回复贴中重复的“啊”表示兴奋、激动的含义</p>
+<p nodeId="ca6f7bce4be24ec5870b23fd73e4656a"><img src="https://km.sankuai.com/api/file/cdn/1627767469/256289338809?contentType=1&amp;isNewContent=false" name="" width="358" height="179" nodeId="b9ff28caa1f64c33a1dfacf73ea02132" /></p>
+</li>
+<li nodeId="23f58299e5ca4ce09afacf3440aac914">
+<p nodeId="b5ac6d78a91b43b99c8e05e35faf26c5">回复贴中用重复的“？”表示疑惑</p>
+<p nodeId="7a6870dfa2eb4a45b25a45ad159f42ff"><img src="https://km.sankuai.com/api/file/cdn/1627767469/256289224113?contentType=1&amp;isNewContent=false" name="" width="457" height="251" nodeId="56aa100b13304a0a88b685f24261dccc" /></p>
+</li>
+</ol>
+</km-content>
+</km-collapse>
+</li>
+<li nodeId="ef5688a4c3eb4d4a84945550a8ec76b8">
+<p nodeId="90ae2e5fed5c45dd9dae72587ea4c4dd">【交互类信息,问题/回答】类内容只有如：“好的”“嗯”“可以”等简单回答文字：</p>
+<km-collapse active="false" nodeId="848243e2074148969f68b373368fa961">
+<km-title>案例</km-title>
+<km-content>
+<p nodeId="1da2dda6d61849f9934a72d138e5997b"><img src="https://km.sankuai.com/api/file/cdn/1627767469/263651108566?contentType=1&amp;isNewContent=false" name="" width="1753" height="496" nodeId="6b52be9edcb6405cb65c0617b4277d0c" /></p>
+</km-content>
+</km-collapse>
+</li>
+<li nodeId="3f13b3b5bc614d3984d28f488ccaa719">
+<p nodeId="72aad49b68b44dffb5fdec4719de4774"><span font-size="15">回复贴中包含任何与业务体验、主贴内容相关的图片</span></p>
+<km-collapse active="false" nodeId="8959cf44dd904b7885c23728217a31f8">
+<km-title>案例</km-title>
+<km-content>
+<ul nodeId="ed82aecf735648c7ba8fffe69d95884e">
+<li nodeId="af5328b33340427e91859f877a63798c">
+<p nodeId="1619b17a10d944d0871add46da782ad1">餐饮评论下回复就餐环境相关的照片</p>
+<p nodeId="f936577984ff4a4ebe8b43b437b44915"><img src="https://km.sankuai.com/api/file/cdn/1627767469/256287958587?contentType=1&amp;isNewContent=false" name="" width="452" height="258" nodeId="513723b6c201479eaa198a7904dd2f2c" /></p>
+</li>
+</ul>
+</km-content>
+</km-collapse>
+</li>
+</ol>
+</td>
+</tr>
+<tr nodeId="6a7e3786b81b43f1904f99d2a4b2c239">
+<td colwidth="[50]" numCell="true" nodeId="36b793e6757e4120bbdd259c9ee0e1b3">
+<p nodeId="1e4960c1264d4322ad8048022d842909" />
+</td>
+</tr>
+<tr nodeId="06c8904e814c4f0bab6dd519322bb2c9">
+<td colwidth="[50]" numCell="true" nodeId="b13b0837e83e4d079a3176b9a8afc156">
+<p nodeId="eddb13b4d1c74e978bad0010e118cc1e" />
+</td>
+</tr>
+<tr nodeId="8122b70d2fab4da2b6b47750c0a30e0f">
+<td colwidth="[50]" numCell="true" nodeId="17adce6336824aaebbd87008e2c4cb68">
+<p nodeId="875dc3c371734c52893abef9dd1079c2" />
+</td>
+<td colwidth="[65]" nodeId="2ecb4cbd3f734b779a1eb8e15fbed3ca">
+<p nodeId="43d82d6125a74aa1afde57c231faaaaa" />
+</td>
+<td colwidth="[57]" nodeId="aba51e31cf1f42deaa55310d7252526e">
+<h3 nodeId="a39931d6e03e42219c3b3375b0418ac9">无法识别语言</h3>
+</td>
+<td colwidth="[61]" nodeId="fa8487fcae564b31a09fe48edc70ac9a">
+<p nodeId="74e67e9ef8d94e899ce31a1cefe82a08" />
+</td>
+<td colwidth="[61]" nodeId="1287658b60f04e4d81fecb9f17e9bffa">
+<p nodeId="32b4606ef4534408b35daa6079973b55" />
+</td>
+<td colwidth="[61]" nodeId="3c0c44dc84ff444489af4b0b50d7a9b6">
+<p nodeId="29da4b5678da469e9c5c1b570bec885a" />
+</td>
+<td colwidth="[61]" nodeId="7a1e9e2ea0644c8595e5b866f2fc2481">
+<p nodeId="4a9fc400a7aa4a5d82a5e5a196062ae1" />
+</td>
+<td colwidth="[61]" nodeId="0ed8e4dd40a941968efb9c7c283ac13f">
+<p nodeId="31c13ee62aa44c68b8abc172154efdb6" />
+</td>
+<td colwidth="[65]" nodeId="a4a4a8d1f82243b68323169fce8f3619">
+<p nodeId="20882c13574740949a2d37ce8a54332b" />
+</td>
+<td colwidth="[112]" nodeId="d637171b117e42aeaae3fb6710c76b7a">
+<p nodeId="a33859a69008467bbbb0be495233f6a6" />
+</td>
+<td colwidth="[551]" nodeId="b988a743440b4388bcb0ac3017ab0897">
+<p nodeId="d6c513ca6ff248beb94585a169772427"><span color="#FF4A47"><span font-size="15"><strong>打标</strong></span></span></p>
+<p nodeId="c307c6b626a7485296979ff6e1b503bd"><span font-size="15">【音】</span></p>
+<ol nodeId="56b78b15be1640519cf5953fd73f80c3">
+<li nodeId="6e811a7defc34f29a41fcf7ab4d3de38">
+<p nodeId="0fd80f06ccd74e908162072fdca45c13"><span font-size="15">非普通话见删</span></p>
+<p nodeId="03e0938c85a64ad482247556a49b3cf3"><span font-size="15">非普</span><span font-size="15"><km-quote quoteId="1627767469--share-e848faba-1c76-488d-a039-7ba09ef1a129">通话范畴：除上述外其他方言、少数民族语言、外文。</km-quote></span></p>
+</li>
+<li nodeId="22c76f4ad0dd4e1ebae8795df00b6648">
+<p nodeId="5ace5c636e94445ca10f924bbc6be60d"><span font-size="15"><km-quote quoteId="1627767469--share-e848faba-1c76-488d-a039-7ba09ef1a129">普通话无违规，正常通过；若违规，按照听懂后的内容打标对应违规点标签。</km-quote></span></p>
+<p nodeId="df4c9e87877b40f8a550a00971dd72d6"><span font-size="15"><km-quote quoteId="1627767469--share-e848faba-1c76-488d-a039-7ba09ef1a129">普通话范畴：仅普通话、北京话、河北话、东北话。</km-quote></span></p>
+<km-collapse active="false" nodeId="bef8abe54ce140b5975dc56c121bb398">
+<km-title><span color="#000"><span font-size="15"><km-quote quoteId="1627767469--share-e848faba-1c76-488d-a039-7ba09ef1a129">南方话黑词词表</km-quote></span></span></km-title>
+<km-content>
+<table responsive="false" nodeId="566356c0389e40b0914d8b37029e826f">
+<tr nodeId="40608305e19c49aca3081acbb5d0e910">
+<th colwidth="[235]" verticalAlign="middle" nodeId="d95f7da128f94ea6891f387947fa405b">
+<h2 align="center" nodeId="e98533228d4e4c74bb4e72334bbea2d2"><km-quote quoteId="1627767469--share-e848faba-1c76-488d-a039-7ba09ef1a129">黑词</km-quote></h2>
+</th>
+<th colwidth="[196]" verticalAlign="middle" nodeId="e3bbb0ff97a6456eacbe0075cee5ef11">
+<h2 align="center" nodeId="2b0552fbd7dc466a84a9c6cb5751046e"><km-quote quoteId="1627767469--share-e848faba-1c76-488d-a039-7ba09ef1a129">含义</km-quote></h2>
+</th>
+</tr>
+<tr nodeId="19104d739bda4131b1dd5871d3ae5c90">
+<td colwidth="[235]" verticalAlign="middle" nodeId="7989d0a97ec545f09bf974602634a15b">
+<p align="center" nodeId="73f8472da47f443d8a9380374f3c4cd2"><span font-size="15"><km-quote quoteId="1627767469--share-e848faba-1c76-488d-a039-7ba09ef1a129">碌葛‌、茂利、成碌葛、痴线/黐线、人头猪脑</km-quote></span></p>
+</td>
+<td colwidth="[196]" verticalAlign="middle" nodeId="10147c10cd4648acbb61b6ebe8ab05f7">
+<p align="center" nodeId="000079357f3a4709a702a9ea5bd5df35"><span font-size="15"><km-quote quoteId="1627767469--share-e848faba-1c76-488d-a039-7ba09ef1a129">呆笨</km-quote></span></p>
+</td>
+</tr>
+<tr nodeId="eaec554c2ad24fc7812adf757615a12c">
+<td colwidth="[235]" verticalAlign="middle" nodeId="5fc0fa65dddb46828073e2684990b032">
+<p align="center" nodeId="7c4b3c6ede514a60ba216d0e21af8390"><span font-size="15"><km-quote quoteId="1627767469--share-e848faba-1c76-488d-a039-7ba09ef1a129">茂利</km-quote></span></p>
+</td>
+<td colwidth="[196]" verticalAlign="middle" nodeId="f791a85ae39641f3ba676f2f3949e23e">
+<p align="center" nodeId="d2f961b5560b4085a354b1b78643658d"><span font-size="15"><km-quote quoteId="1627767469--share-e848faba-1c76-488d-a039-7ba09ef1a129">愚钝‌</km-quote></span></p>
+</td>
+</tr>
+<tr nodeId="a3155d51046f4a83b34016cc93a010fb">
+<td colwidth="[235]" nodeId="bc3ccc8c339842398133ff72ca5c047d">
+<p align="center" nodeId="c9ee6bc95a454e5e87c5dca5fbd646ff"><span font-size="15"><km-quote quoteId="1627767469--share-e848faba-1c76-488d-a039-7ba09ef1a129">‌四六货</km-quote></span></p>
+</td>
+<td colwidth="[196]" nodeId="a0ce019099ef45e3a69b5a2db36a80ae">
+<p align="center" nodeId="af2a4a8c757e4f1cb2c29b8d846ee7d5"><span font-size="15"><km-quote quoteId="1627767469--share-e848faba-1c76-488d-a039-7ba09ef1a129">愚蠢、荒唐</km-quote></span></p>
+</td>
+</tr>
+<tr nodeId="819d0b62d6b642af9d05ee2ee2c2e11d">
+<td colwidth="[235]" verticalAlign="middle" nodeId="9b645579a4e94a70904e6d417b511465">
+<p align="center" nodeId="14a2277b4ee140dd9274c7f68e717624"><span font-size="15"><km-quote quoteId="1627767469--share-e848faba-1c76-488d-a039-7ba09ef1a129">密柴头</km-quote></span></p>
+</td>
+<td colwidth="[196]" verticalAlign="middle" nodeId="7ac33e21c42b41e9972cb0413564dfdb">
+<p align="center" nodeId="69e44ac5aac44f229c8d9dffb8352890"><span font-size="15"><km-quote quoteId="1627767469--share-e848faba-1c76-488d-a039-7ba09ef1a129">废物</km-quote></span></p>
+</td>
+</tr>
+<tr nodeId="6b5c04d03176412b8f9b6de93e090806">
+<td colwidth="[235]" verticalAlign="middle" nodeId="d92e65fd95d74a5581091048a793ca2d">
+<p align="center" nodeId="4ee952d52f734eecb48cbca245a7ef98"><span font-size="15"><km-quote quoteId="1627767469--share-e848faba-1c76-488d-a039-7ba09ef1a129">出贼里</km-quote></span></p>
+</td>
+<td colwidth="[196]" verticalAlign="middle" nodeId="6ee26cb521664704a3bdb8fc0aac7dfa">
+<p align="center" nodeId="bf0015a12a134d259cab2a6771708aae"><span font-size="15"><km-quote quoteId="1627767469--share-e848faba-1c76-488d-a039-7ba09ef1a129">怪胎</km-quote></span></p>
+</td>
+</tr>
+<tr nodeId="dcfa71fc04394bf680384c54a37834c9">
+<td colwidth="[235]" verticalAlign="middle" nodeId="b499d6091653477788410a39e6c047f0">
+<p align="center" nodeId="315f4be12de44516a4036a8d991ab921"><span font-size="15"><km-quote quoteId="1627767469--share-e848faba-1c76-488d-a039-7ba09ef1a129">养哀家</km-quote></span></p>
+</td>
+<td colwidth="[196]" verticalAlign="middle" nodeId="b641ee1ee4024478bed5b2bcf57506b1">
+<p align="center" nodeId="1a37ab69133e4e90bb4a121dcda07dda"><span font-size="15"><km-quote quoteId="1627767469--share-e848faba-1c76-488d-a039-7ba09ef1a129">丢脸</km-quote></span></p>
+</td>
+</tr>
+<tr nodeId="9db620827cc04e3385cd1b297344feda">
+<td colwidth="[235]" verticalAlign="middle" nodeId="ab53c40f09c24ed4be508da76613c43f">
+<p align="center" nodeId="01b359371d884232a76f970393aab37d"><span font-size="15"><km-quote quoteId="1627767469--share-e848faba-1c76-488d-a039-7ba09ef1a129">鳄鳄倒</km-quote></span></p>
+</td>
+<td colwidth="[196]" verticalAlign="middle" nodeId="03a4ee494b2045238330e481a8238251">
+<p align="center" nodeId="d9b3c4d3b1924508892cf9ddc6f2b0d6"><span font-size="15"><km-quote quoteId="1627767469--share-e848faba-1c76-488d-a039-7ba09ef1a129">糊涂</km-quote></span></p>
+</td>
+</tr>
+<tr nodeId="cf23b02130744f3fae1d41c3ab424f1d">
+<td colwidth="[235]" nodeId="fc66dde337844c1eae74f2d9419ad134">
+<p align="center" nodeId="b2652e6109c94b9da53392dd378b1376"><span font-size="15"><km-quote quoteId="1627767469--share-e848faba-1c76-488d-a039-7ba09ef1a129">叼惹咩</km-quote></span></p>
+</td>
+<td colwidth="[196]" nodeId="e924f37348d245b786b4b4a2ba00c2fd">
+<p align="center" nodeId="c548f40b16c2453c8cdb5b6f4ea52c4f"><span font-size="15"><km-quote quoteId="1627767469--share-e848faba-1c76-488d-a039-7ba09ef1a129">混账</km-quote></span></p>
+</td>
+</tr>
+<tr nodeId="9a54d0151a194333a1a1b48d47ea6711">
+<td colwidth="[235]" verticalAlign="middle" nodeId="0b1944ca86774dbd9a2545609e92fb2d">
+<p align="center" nodeId="23d3d19f485a49e5abe98a928e4ff4ee"><span font-size="15"><km-quote quoteId="1627767469--share-e848faba-1c76-488d-a039-7ba09ef1a129">糙岗鬼</km-quote></span></p>
+</td>
+<td colwidth="[196]" verticalAlign="middle" nodeId="84932a2b0d5e4ec7b810cf7cf54737d6">
+<p align="center" nodeId="6ace3066cce9434295ca1fd756e68eb3"><span font-size="15"><km-quote quoteId="1627767469--share-e848faba-1c76-488d-a039-7ba09ef1a129">多动</km-quote></span></p>
+</td>
+</tr>
+<tr nodeId="244dc1b1180a422d90bf0221d8a21910">
+<td colwidth="[235]" verticalAlign="middle" nodeId="aa55f945c7df463c9f925927d0879ad0">
+<p align="center" nodeId="2f0e66aea7ad40ad9498d490a8ebebbf"><span font-size="15"><km-quote quoteId="1627767469--share-e848faba-1c76-488d-a039-7ba09ef1a129">猴头鼠目</km-quote></span></p>
+</td>
+<td colwidth="[196]" verticalAlign="middle" nodeId="a014454744134e7e8c968aa1a091efbd">
+<p align="center" nodeId="9f7ce6f5e5a94f6ea4648c3734b03a6d"><span font-size="15"><km-quote quoteId="1627767469--share-e848faba-1c76-488d-a039-7ba09ef1a129">丑陋</km-quote></span></p>
+</td>
+</tr>
+<tr nodeId="c1ae42a895d24e968df4a07e714170e0">
+<td colwidth="[235]" verticalAlign="middle" nodeId="5d11655fe9af45c4b63e909c260ccf0b">
+<p align="center" nodeId="a711639e62db46eaaaf7750de1ab7973"><span font-size="15"><km-quote quoteId="1627767469--share-e848faba-1c76-488d-a039-7ba09ef1a129">臭头鸡仔</km-quote></span></p>
+</td>
+<td colwidth="[196]" verticalAlign="middle" nodeId="c2f6184fe3e44c36b79bcdbbbb7f17f6">
+<p align="center" nodeId="432951af88c74320822edf523e60d94c"><span font-size="15"><km-quote quoteId="1627767469--share-e848faba-1c76-488d-a039-7ba09ef1a129">惹人厌</km-quote></span></p>
+</td>
+</tr>
+<tr nodeId="dafda63b82b34b648f2b6ada1f66eff3">
+<td colwidth="[235]" nodeId="d25aceebe19041009ce69ac0c1e8f914">
+<p align="center" nodeId="6170b60f5764495f8f805011e8afd6b6"><span font-size="15"><km-quote quoteId="1627767469--share-e848faba-1c76-488d-a039-7ba09ef1a129">颠头鸡、温婆、温佬、颠婆</km-quote></span></p>
+</td>
+<td colwidth="[196]" nodeId="5beadc51f898443daab67ee356de8a9b">
+<p align="center" nodeId="d3d0e142457c4805b07b804bead7b25a"><span font-size="15"><km-quote quoteId="1627767469--share-e848faba-1c76-488d-a039-7ba09ef1a129">疯子</km-quote></span></p>
+</td>
+</tr>
+<tr nodeId="0c2141de4f5b4a91acfe9885aa166e4d">
+<td colwidth="[235]" verticalAlign="middle" nodeId="d1413e15fd25472da1f16d96f6daf3ec">
+<p align="center" nodeId="ad39449650e64725816ee42800551626"><span font-size="15"><km-quote quoteId="1627767469--share-e848faba-1c76-488d-a039-7ba09ef1a129">赛林木、丢你母、甘霖老母</km-quote></span></p>
+</td>
+<td colwidth="[196]" verticalAlign="middle" nodeId="afdf8d69706f4b38b77f479f94d94a9b">
+<p align="center" nodeId="b215784f918d4fabb5294e09196aab64"><span font-size="15"><km-quote quoteId="1627767469--share-e848faba-1c76-488d-a039-7ba09ef1a129">操你妈</km-quote></span></p>
+</td>
+</tr>
+<tr nodeId="87883aeaa98f4a4fb2f66037f0f8a6b5">
+<td colwidth="[235]" verticalAlign="middle" nodeId="d6c3bd30c0ff4b12bef44fbcdf46a47f">
+<p align="center" nodeId="d0bba05802d04472b4404cc1f8065cbf"><span font-size="15"><km-quote quoteId="1627767469--share-e848faba-1c76-488d-a039-7ba09ef1a129">亥（hai）</km-quote></span></p>
+</td>
+<td colwidth="[196]" verticalAlign="middle" nodeId="131492e72124442c91c4301d0b77110f">
+<p align="center" nodeId="8620373d559a407a9ebeb021a7508241"><span font-size="15"><km-quote quoteId="1627767469--share-e848faba-1c76-488d-a039-7ba09ef1a129">逼</km-quote></span></p>
+</td>
+</tr>
+<tr nodeId="32d8dfb9b060483ba3da4023c7c712c3">
+<td colwidth="[235]" verticalAlign="middle" nodeId="e91d6d379653430e9bad8018faf50f0d">
+<p align="center" nodeId="9cd5621838f44a388b24ec8c274da288"><span font-size="15"><km-quote quoteId="1627767469--share-e848faba-1c76-488d-a039-7ba09ef1a129">三八</km-quote></span></p>
+</td>
+<td colwidth="[196]" verticalAlign="middle" nodeId="1fa075259ff642d5af25bddd16a80b8a">
+<p align="center" nodeId="1c957d34ecce447c953ec07bca2fb8bc"><span font-size="15"><km-quote quoteId="1627767469--share-e848faba-1c76-488d-a039-7ba09ef1a129">二百五</km-quote></span></p>
+</td>
+</tr>
+<tr nodeId="c0d9589b8f8a4306bcf46f3c5c384109">
+<td colwidth="[235]" nodeId="96c12d569b594aa9aa52b1bb4f840984">
+<p align="center" nodeId="281ec588427d49369fea8684c2922312"><span font-size="15"><km-quote quoteId="1627767469--share-e848faba-1c76-488d-a039-7ba09ef1a129">老举嫲</km-quote></span></p>
+</td>
+<td colwidth="[196]" nodeId="7a1dd8117e054be2a2d0917e76c407bc">
+<p align="center" nodeId="03876a2b221146f0ad06187d28e466fe"><span font-size="15"><km-quote quoteId="1627767469--share-e848faba-1c76-488d-a039-7ba09ef1a129">娼妓、婊子</km-quote></span></p>
+</td>
+</tr>
+<tr nodeId="fa521fb48b2644c6bbdc41713f9e05ef">
+<td colwidth="[235]" verticalAlign="middle" nodeId="69d0d39b247343a18220217885b894d8">
+<p align="center" nodeId="6cf1cc058f444acb850b6c85af9c7dc0"><span font-size="15"><km-quote quoteId="1627767469--share-e848faba-1c76-488d-a039-7ba09ef1a129">鲈鳗</km-quote></span></p>
+</td>
+<td colwidth="[196]" verticalAlign="middle" nodeId="43cdcfcd9c714bbc8ca7c0ae43ede993">
+<p align="center" nodeId="1503ec617bdb41378e6e9258f2b1b663"><span font-size="15"><km-quote quoteId="1627767469--share-e848faba-1c76-488d-a039-7ba09ef1a129">流氓</km-quote></span></p>
+</td>
+</tr>
+<tr nodeId="2d7251a71ffc49eb9f283074031534fb">
+<td colwidth="[235]" verticalAlign="middle" nodeId="fd244aa19d4a4ff797e33cf40768312f">
+<p align="center" nodeId="2d1947c8e8cd44cc82fc07898f16ae3b"><span font-size="15"><km-quote quoteId="1627767469--share-e848faba-1c76-488d-a039-7ba09ef1a129">冚家铲</km-quote></span></p>
+</td>
+<td colwidth="[196]" verticalAlign="middle" nodeId="f379979446b6439ab998e0aaafb6cb63">
+<p align="center" nodeId="eb34ab285d8b437d84b823f1fc1fe84a"><span font-size="15"><km-quote quoteId="1627767469--share-e848faba-1c76-488d-a039-7ba09ef1a129">死全家</km-quote></span></p>
+</td>
+</tr>
+<tr nodeId="a576e712dbe346dc97767c00cd8f7bb1">
+<td colwidth="[235]" verticalAlign="middle" nodeId="b7a17a2c47fd43deb02d6371485661ff">
+<p align="center" nodeId="dfc43b18248a4985bacb4a7ac5c3f092"><span font-size="15"><km-quote quoteId="1627767469--share-e848faba-1c76-488d-a039-7ba09ef1a129">仆街、‌死仆街</km-quote></span></p>
+</td>
+<td colwidth="[196]" verticalAlign="middle" nodeId="b5a3f5e812cd44f1b4525fbe74500a6a">
+<p align="center" nodeId="1971521e35484e01b3b1d27e9484aeb3"><span font-size="15"><km-quote quoteId="1627767469--share-e848faba-1c76-488d-a039-7ba09ef1a129">惨了、死定了</km-quote></span></p>
+</td>
+</tr>
+<tr nodeId="2c30d788c7d7437480b5416afa20bf52">
+<td colwidth="[235]" verticalAlign="middle" nodeId="a41e934a73f14da9be75142ccd0e9371">
+<p align="center" nodeId="d01d8055ede545b2968561d9a4795b50"><span font-size="15"><km-quote quoteId="1627767469--share-e848faba-1c76-488d-a039-7ba09ef1a129">‌顶你个肺</km-quote></span></p>
+</td>
+<td colwidth="[196]" verticalAlign="middle" nodeId="dac62184b0b1432a973fe578bc147bb5">
+<p align="center" nodeId="a9e58ebdc3a746ffaddc75362a0ac9b5"><span font-size="15"><km-quote quoteId="1627767469--share-e848faba-1c76-488d-a039-7ba09ef1a129">我削你</km-quote></span></p>
+</td>
+</tr>
+<tr nodeId="5f88a82eecc64f9789fff516ee970aa4">
+<td colwidth="[235]" verticalAlign="middle" nodeId="d56ee6736a034bf48187544d117bc30f">
+<p align="center" nodeId="380b431e895f4b7a8666b1a259006666"><span font-size="15"><km-quote quoteId="1627767469--share-e848faba-1c76-488d-a039-7ba09ef1a129">‌食蕉</km-quote></span></p>
+</td>
+<td colwidth="[196]" verticalAlign="middle" nodeId="ad3ffb94c54f4fb1880b46421e96894e">
+<p align="center" nodeId="921925e91d5e4e338ad5aaafce5af62b"><span font-size="15"><km-quote quoteId="1627767469--share-e848faba-1c76-488d-a039-7ba09ef1a129">吃屎</km-quote></span></p>
+</td>
+</tr>
+<tr nodeId="cf9cf2530eed41ab8e0852fde84aa1aa">
+<td colwidth="[235]" verticalAlign="middle" nodeId="fe97b8ced51549b8b4e103468de0c556">
+<p align="center" nodeId="7c0c960aa7ea44deb7e53e3c2a293438"><span font-size="15"><km-quote quoteId="1627767469--share-e848faba-1c76-488d-a039-7ba09ef1a129">水鱼</km-quote></span></p>
+</td>
+<td colwidth="[196]" verticalAlign="middle" nodeId="44a1ee18a7204a13a56526fd4adb2a1a">
+<p align="center" nodeId="b882dc7da7ec42009d9fa2cce327d493"><span font-size="15"><km-quote quoteId="1627767469--share-e848faba-1c76-488d-a039-7ba09ef1a129">冤大头</km-quote></span></p>
+</td>
+</tr>
+<tr nodeId="628d355e3f574583b5723ad1308cec14">
+<td colwidth="[235]" nodeId="9ab879d08b4c4344a20889df2dd27289">
+<p align="center" nodeId="0065d11dd22a4b5eb656389ff5e3199d"><span font-size="15"><km-quote quoteId="1627767469--share-e848faba-1c76-488d-a039-7ba09ef1a129">‌龟孙</km-quote></span></p>
+</td>
+<td colwidth="[196]" nodeId="ef17734097474ad0adc2e1c7dee21eee">
+<p align="center" nodeId="5cf1e3c3f071448f8fc997b41aff4241"><span font-size="15"><km-quote quoteId="1627767469--share-e848faba-1c76-488d-a039-7ba09ef1a129">瘪三、禽兽</km-quote></span></p>
+</td>
+</tr>
+<tr nodeId="e2b279a93834492dbc3a4fddb532b600">
+<td colwidth="[235]" nodeId="988b8bb527db4c49a96ab84009041fe4">
+<p align="center" nodeId="c1fa082ba8534b1998c6f8fd30691872"><span font-size="15"><km-quote quoteId="1627767469--share-e848faba-1c76-488d-a039-7ba09ef1a129">躝尸趷路</km-quote></span></p>
+</td>
+<td colwidth="[196]" nodeId="1d2c0b140f524890a1940a04c031a7a2">
+<p align="center" nodeId="aa10343bccd5496ebdb184052986cf10"><span font-size="15"><km-quote quoteId="1627767469--share-e848faba-1c76-488d-a039-7ba09ef1a129">滚开</km-quote></span></p>
+</td>
+</tr>
+<tr nodeId="9925917505094c30b9116c81387c1d3d">
+<td colwidth="[235]" nodeId="a37973be7c384dd78bfe4d6215f022bc">
+<p align="center" nodeId="55f682d5de534ad88ef3e70c0c80d993"><span font-size="15"><km-quote quoteId="1627767469--share-e848faba-1c76-488d-a039-7ba09ef1a129">‌歌魔绝代</km-quote></span></p>
+<p align="center" nodeId="ca71abc5db0e4e41aba96d0afb1b9db2"><span font-size="15"><km-quote quoteId="1627767469--share-e848faba-1c76-488d-a039-7ba09ef1a129">‌死哥死绝</km-quote></span></p>
+</td>
+<td colwidth="[196]" verticalAlign="middle" nodeId="5a3fd7289ff84ccc842c8594a81b5f1e">
+<p align="center" nodeId="6dc37793185340eaa5bfc00db139a202"><span font-size="15"><km-quote quoteId="1627767469--share-e848faba-1c76-488d-a039-7ba09ef1a129">绝代</km-quote></span></p>
+</td>
+</tr>
+</table>
+</km-content>
+</km-collapse>
+</li>
+</ol>
+<p nodeId="fb83809f1fa449988a7f344b887ba401" />
+<p nodeId="8e5ece6eb02e45b7a7949c25bba944d6"><span color="#00BA73"><span font-size="15"><strong><span bg="#FFF"><km-quote quoteId="1627767469--share-e848faba-1c76-488d-a039-7ba09ef1a129">豁免：</km-quote></span></strong></span></span><span color="#FF4A47"><span font-size="15"><span bg="#FFF"><km-quote quoteId="1627767469--share-e848faba-1c76-488d-a039-7ba09ef1a129"> </km-quote></span></span></span></p>
+<ol nodeId="490e6aa9ebe34be0a30ce32a4357850b">
+<li nodeId="9b055aa5c77d48b3ae92f047ccdb80db"><span color="#000"><span font-size="15"><span bg="#FFF"><km-quote quoteId="1627767469--share-e848faba-1c76-488d-a039-7ba09ef1a129">粤语无违规可正常通过；若违规，按照听懂后的</km-quote></span></span></span><span color="#000"><span font-size="15"><span bg="#FFF">内容打标对应违规点标签。（仅组内专审粤语同学使用）</span></span></span></li>
+<li nodeId="e8387b82b7054c339806667975ee9f15">
+<p nodeId="f219ce02f95c441784e53a6ab912ed36"><span color="#FF4A47">外文内容为</span><span color="#FF4A47"><strong>专有名词或常用简单词汇</strong></span></p>
+<km-collapse active="false" nodeId="d614dbfe58514b47908b427734c36aae">
+<km-title><span color="#FF4A47"><strong>专有名词（不可泛化，适用于定义2）</strong></span></km-title>
+<km-content>
+<p nodeId="c9ee75c64481482d99e5562164cdfa09"><span color="#000">表示特定的、独一无二的人或物，与普通名词相对：</span><span color="#FF4A47">人名、地名、国家名、景观名、品牌/产品名、平台名、店铺名、固定缩写</span></p>
+</km-content>
+</km-collapse>
+<km-collapse active="false" nodeId="170f157b2cd946008c24f84d1ea6c916">
+<km-title><span color="#FF4A47"><strong>常用简单词汇（同义变体可泛化，适用于定义2）</strong></span></km-title>
+<km-content>
+<p nodeId="cda7a19f0dac481691db233b59abb892"><span color="#FF4A47">OK、Yes、No、Hello、Thank you、Good 、Nice</span></p>
+</km-content>
+</km-collapse>
+</li>
+</ol>
+<p nodeId="50d3c7253cfa494fb6fffd6ce54d4639" />
+<p nodeId="45868a557ba743dcb224a9bca20aa477"><span color="rgb(0, 0, 0)"><span font-size="15">type：100187</span></span></p>
+</td>
+<td colwidth="[515]" nodeId="d5f6fc098c404bd79f56db848f46e3c6">
+<p nodeId="0703b8ded3804c38b06cede2f5a37b85" />
+</td>
+<td colwidth="[329]" nodeId="db0ac6ac713a4215b7518fa728079cd6">
+<p nodeId="0c20e62676f64e02b8354695b2a8be39" />
+</td>
+<td colwidth="[391]" nodeId="5f0b1565b4cf421ebb343988e50745dd">
+<ol nodeId="cb83d672a6fe418e9f8436903bb0e229">
+<li nodeId="fba06d6918be4120a8a69394778998eb"><span color="#FF4A47">外文内容为</span><span color="#FF4A47"><strong>专有名词</strong></span><span color="#FF4A47">或</span><span color="#FF4A47"><strong>常用简单词汇</strong></span></li>
+</ol>
+<km-collapse active="false" nodeId="def10e87cf7d46148acef9d1758f059a">
+<km-title>案例</km-title>
+<km-content>
+<ol nodeId="128438f95f4a424595e748466c1ad93f">
+<li nodeId="dd6c6e0fa97a431ebe09143cb0e8cc59">产品名：<span color="#FF4A47">OPPO A7 PRO MAX</span>万级大电池</li>
+<li nodeId="b1479958d6de44b7849af39bac97dd6e">店铺名：<span color="#FF4A47">Super miami</span> 气氛很好/<span color="#FF4A47"> MOMOPARK</span>应该是附近最大的商场了</li>
+<li nodeId="e08a83210a154875abe4cd7831cbfd60">人名：<span color="#FF4A47">Pony</span> 一直是老板</li>
+<li nodeId="c6c2f1f1edb0462c9d088f69f6b00c6e">地名：欢迎来到<span color="#FF4A47">New York</span></li>
+<li nodeId="051c43d8802140a698e3a3cdc876b5ea">固定缩写：<span color="#FF4A47">CEO、HRBP</span>、业务BD都需要参加这次会议</li>
+<li nodeId="6ee08de4826d47218335a6e8046d6ec9"><span color="#000">常用简单词汇：环境很</span><span color="#FF4A47">nice</span><span color="#000">，菜品很</span><span color="#FF4A47">good</span></li>
+</ol>
+</km-content>
+</km-collapse>
+</td>
+</tr>
+</table>
+<p nodeId="41d8909588a546869604c84f8215d6d2" />
+<km-collapse active="false" nodeId="0ea0b0b4dc56406886db7d1c91da9bd7">
+<km-title>3.23变动留档</km-title>
+<km-content>
+<p nodeId="bb5d74bcced84cafb19bedfe5a1b4483">此次变动留档不涉及标准变动，仅对上方表格内无相应标准或未使用标准进行删除留档</p>
+<table responsive="false" nodeId="005bedb549274b9ca4ab565b9dba4755">
+<tr nodeId="8b4634e3a44f48aab02662123262e0ac">
+<th colwidth="[50]" nodeId="4c103f5cb7c74d04b5d7050bfa4f73e1">
+<p nodeId="2fa95cd1b68c42c2ad2c41456ac7edc8" />
+</th>
+<th colspan="3" colwidth="[73,57,61]" verticalAlign="middle" bgColor="rgb(246, 246, 246)" nodeId="c782da8cfaf240fe979fae1df35e56e2">
+<p align="center" nodeId="6295a59e1c334949b9a4623ccf553fae"><span font-size="16"><strong>V3标签体系</strong></span></p>
+</th>
+<th colspan="3" colwidth="[61,61,61]" verticalAlign="middle" nodeId="4813c4b1fca2471fadabc2c04c875079">
+<p align="center" nodeId="e2eea387d20a417f9ee4a3affa60cdb1"><span font-size="16"><strong>V2标签体系</strong></span></p>
+</th>
+<th colspan="2" colwidth="[61,107]" verticalAlign="middle" nodeId="e359e06ac5104a3b8d56f86ec010d0b2">
+<p align="center" nodeId="700714abf36a49b288cdde3172127da5"><span font-size="16"><strong>V1标签体系</strong></span></p>
+</th>
+<th rowspan="2" colwidth="[112]" verticalAlign="middle" bgColor="rgb(246, 246, 246)" nodeId="fb9ac2c893524f6d8554806c11282877">
+<p align="center" nodeId="011e1d6ddf9741d0b1c804ca0f465d20"><span font-size="16"><strong>风险点</strong></span></p>
+</th>
+<th rowspan="2" colwidth="[486]" verticalAlign="middle" bgColor="rgb(246, 246, 246)" nodeId="2df8f6efd7f6422ea6493c8be691e011">
+<p align="center" nodeId="82e0286f9a87423ebd5b9c0cc7340e74"><span font-size="16"><strong>细则和具体定义</strong></span></p>
+</th>
+<th rowspan="2" colwidth="[515]" verticalAlign="middle" bgColor="rgb(246, 246, 246)" nodeId="00c5890270ba4be2a998b441b9ce60f1">
+<p align="center" nodeId="fe94b349edb6451c81d8d2e09cea1712"><span font-size="16"><strong>文字样本</strong></span></p>
+</th>
+<th rowspan="2" colwidth="[329]" verticalAlign="middle" bgColor="rgb(246, 246, 246)" nodeId="656bfb3403cc49bc9773175dd4654e10">
+<p align="center" nodeId="230e669a868e40eabf54070d54429810"><span font-size="16"><strong>图片样本</strong></span></p>
+</th>
+<th rowspan="2" colwidth="[391]" verticalAlign="middle" bgColor="rgb(246, 246, 246)" nodeId="eb31dcc9ca30451bb428fd49badf9341">
+<p align="center" nodeId="798c7966a43a428688148bd4601af1f8"><span font-size="16"><strong>豁免样本及备注</strong></span></p>
+</th>
+</tr>
+<tr nodeId="bd2a748f18f64cfc9556ff7c874d364e">
+<td colwidth="[50]" numCell="true" nodeId="223f6826e9bf4f46829529f2f403e46b">
+<p nodeId="af6cfe9666c649bc9c8ddbf1873b437f" />
+</td>
+<td colwidth="[73]" verticalAlign="top" bgColor="rgb(244, 245, 247)" nodeId="cef0784e09f84b4e9b1a4fd7f9ac0a08">
+<p align="center" nodeId="a67b1d2180ee4d61be755a61ae9b6cdc"><span color="rgb(0, 0, 0)"><span font-size="16"><strong>一级标签</strong></span></span></p>
+</td>
+<td colwidth="[57]" bgColor="rgb(244, 245, 247)" nodeId="e15819f88af94982bd474f6922ffb9e8">
+<p align="center" nodeId="9be976cbfbbf41dda2fb8fd6f7771cbb"><span color="rgb(0, 0, 0)"><span font-size="16"><strong>二级标签</strong></span></span></p>
+</td>
+<td colwidth="[61]" bgColor="rgb(244, 245, 247)" nodeId="3c4dbf4702574fc79f67c18120827083">
+<p align="center" nodeId="b21fdae6477246e99f625ca717154279"><span color="rgb(0, 0, 0)"><span font-size="16"><strong>三级标签</strong></span></span></p>
+</td>
+<td colwidth="[61]" verticalAlign="middle" bgColor="rgb(244, 245, 247)" nodeId="ee1291ca93b4457b8be982f8b62c5b1d">
+<p align="center" nodeId="0f0f7e3aba5c40abbb04cc9d02d84ad1"><span font-size="16"><strong>一级标签</strong></span></p>
+</td>
+<td colwidth="[61]" verticalAlign="middle" bgColor="rgb(244, 245, 247)" nodeId="2a6cc1c8c56f4576841896f069a66d4d">
+<p align="center" nodeId="eb6fac1b66544e1d9221992b7fb90170"><span font-size="16"><strong>二级标签</strong></span></p>
+</td>
+<td colwidth="[61]" verticalAlign="middle" bgColor="rgb(244, 245, 247)" nodeId="872845f69b124fb58f2cdce6e098387b">
+<p align="center" nodeId="46840a76667746929407153974a9e0e3"><span font-size="16"><strong>三级标签</strong></span></p>
+</td>
+<td colwidth="[61]" bgColor="rgb(244, 245, 247)" nodeId="90d502706ef54d1db992b5d81e229b73">
+<p nodeId="ae28ad8bc4a6485184d4b16b0e8b54d0"><span font-size="16"><strong>一级标签</strong></span></p>
+</td>
+<td colwidth="[107]" verticalAlign="middle" bgColor="rgb(244, 245, 247)" nodeId="88a4866b6c2a42b48060f5d7c2f492c3">
+<p align="center" nodeId="5a50625d9211461b898f69b88a5356c1"><span font-size="16"><strong>二级标签</strong></span></p>
+</td>
+</tr>
+<tr nodeId="973bab9125814b448bb35a69b4b65ac5">
+<td colwidth="[50]" numCell="true" nodeId="2a809dab45dd451a97a319d754086f5d">
+<p nodeId="394d4a923c224147a72cb8cd8525a871" />
+</td>
+<td rowspan="29" colwidth="[73]" nodeId="26d2075658194f4a9b0e99f9bb387b22">
+<h2 align="center" nodeId="3c5823d86eca4e9eb14f95d0742467e2">内容低质</h2>
+</td>
+<td rowspan="6" colwidth="[57]" nodeId="5aeef366b3974e7fa763a6c6d5882259">
+<h3 align="center" nodeId="1424f1c61f3f4117a66e4e99b0f9d74b">观感低质</h3>
+</td>
+<td rowspan="2" colwidth="[61]" nodeId="e321c0ba13f444988d55c2e1570bab9a">
+<h4 align="center" nodeId="9ae397bd6f7d41219ece9c2035b5bd60">视频严重模糊</h4>
+</td>
+<td colwidth="[61]" nodeId="8d63020c44c34b4e9132b32c2aeff612">
+<p nodeId="da1c3cedcf484b1fa5b9902837a87192" />
+</td>
+<td colwidth="[61]" nodeId="0294cb497e6f4daf9986050502a60825">
+<p nodeId="c9e700dffb0d45a1af5ac4cadea46a3b" />
+</td>
+<td colwidth="[61]" nodeId="f8f0074912004da688db5a87a3567584">
+<p nodeId="8abf315c10024725994d52df6baa6362" />
+</td>
+<td colwidth="[61]" nodeId="f119429263a44f51b590454ab0207f59">
+<p nodeId="40b14a0b6c3846e38c0b2a8a9d71b483" />
+</td>
+<td colwidth="[107]" nodeId="5d91330e48144b3facd173c50fb1406d">
+<p nodeId="fe682130e7fd4cc5b28236d9e558edc5" />
+</td>
+<td colwidth="[112]" nodeId="4c8915e4df8c43a582309193c05d939a">
+<p align="center" nodeId="65b183f8d6734bd8b1afb25d4af0690f">黑屏</p>
+</td>
+<td colwidth="[486]" nodeId="9a5d6925b0504b7ea1f7fc51d3a8c388">
+<p nodeId="bc58f0e2db344deda30baef71dbc4e97" />
+</td>
+<td colwidth="[515]" nodeId="d648a4041f574dc5bb39363a7b12cc6a">
+<p nodeId="9e5904fb947548fe991d85c94ac265f7" />
+</td>
+<td colwidth="[329]" verticalAlign="top" nodeId="898d5dbe01f848e79c31b55b9f777de5">
+<p nodeId="674169fdad634ece8f0a1d0a271a492e" />
+</td>
+<td colwidth="[391]" nodeId="5f0a88dcf1ce42fc94fd3c669dded607">
+<p nodeId="a3e8466909034efcb6846dbd9372b25a" />
+</td>
+</tr>
+<tr nodeId="88f89f9f13fb43a391aed95e7d1f65fa">
+<td colwidth="[50]" numCell="true" nodeId="8ad45158c6554d4f9cc5afb220babb9c">
+<p nodeId="2fc8de6a4ff94144918ecdd91cca166f" />
+</td>
+<td colwidth="[61]" nodeId="fe0a61c4060049ba818020b80762d25f">
+<p nodeId="accd4b00ab3245aebad9400a0df1d312" />
+</td>
+<td colwidth="[61]" nodeId="c898144c641e4ce1beb7c6af2b12eabf">
+<p nodeId="22dfe80ea7514dc3a2c275ba1cdc0ca8" />
+</td>
+<td colwidth="[61]" nodeId="ab4ad06e3bd84dc78c0478068d5b08e4">
+<p nodeId="4f974c0610e24327a9a1f6dc8ad72b08" />
+</td>
+<td colwidth="[61]" nodeId="787f8ab070654e0297c65da85168e6db">
+<p nodeId="3cdf5fa0468047c0b080177b2621ef3f" />
+</td>
+<td colwidth="[107]" nodeId="cfb15ca004444030bba8d09425700fdf">
+<p nodeId="3f23a191208b428691923b23fd2fcf76" />
+</td>
+<td colwidth="[112]" nodeId="dc1164ef6d1742f581a76cf647f25462">
+<p align="center" nodeId="7fba394f161d4f1d8fe64f9fb2de9eb7">白屏</p>
+</td>
+<td colwidth="[486]" nodeId="ed5d5b9786f84e1692f641b8bdc093b7">
+<p nodeId="d949e76c0c684a16bc8446b0f73e38f7" />
+</td>
+<td colwidth="[515]" nodeId="6d14621467514fb0ac162d23341d6a16">
+<p nodeId="f8c12854c4994fd9a2eccc357f432e2b" />
+</td>
+<td colwidth="[329]" nodeId="07f6368d33d94064b32f9551a2203444">
+<p nodeId="39c30957d1d743458a970185e7658d4f" />
+</td>
+<td colwidth="[391]" nodeId="8745e6d50d744cef97082a561082cef6">
+<p nodeId="b47f04e4bbec4bb7b0e51f763846ce56" />
+</td>
+</tr>
+<tr nodeId="ed32b611fa3c4f2a827866e386d1ef45">
+<td colwidth="[50]" numCell="true" nodeId="f4f1f04dc3c649ed931c42d663ddfae6">
+<p nodeId="11a599c6a3cf40a09cb9425bd31e8418" />
+</td>
+<td colwidth="[61]" nodeId="07e8d2467450445484d4d37ba381b172">
+<h4 align="center" nodeId="f3d568c3fcd24a3199bd963ceb92fbfb">大面积马赛克</h4>
+</td>
+<td colwidth="[61]" nodeId="733abb6546f6455d9ccd260df1eeec33">
+<p nodeId="8a43a2343bff4df59fa136f3719f1f3d" />
+</td>
+<td colwidth="[61]" nodeId="457120cf417845a4915d666a94e41fcb">
+<p nodeId="0116eb301f214212958a44eee352751c" />
+</td>
+<td colwidth="[61]" nodeId="c7a3db551af34931b984ca02d4982273">
+<p nodeId="8dfeffd538f24869a53db6895717d646" />
+</td>
+<td colwidth="[61]" nodeId="289cabc551f740009345019a2dc12a18">
+<p nodeId="04c57243476c4285892ed98f4b3a74c2" />
+</td>
+<td colwidth="[107]" nodeId="74a698003b3b460081302657968de79f">
+<p nodeId="ea938cb23ec7489a8a7131aa34e762a2" />
+</td>
+<td colwidth="[112]" nodeId="c065741ef66d4e4ca3f1601e774d6e79">
+<p nodeId="60472d6a01fc4f31a969deed3372245f" />
+</td>
+<td colwidth="[486]" nodeId="7ea7d201c70b432e84512d37b98be9bb">
+<p nodeId="cf9de4d81ebb4b9fafeab1773dedec5c" />
+</td>
+<td colwidth="[515]" nodeId="fb8faa3242ab43158cc7cb820c8d93ce">
+<p nodeId="c2df8f778a7a436daf811a00bbd0e465" />
+</td>
+<td colwidth="[329]" verticalAlign="top" nodeId="aea9b486d2d84e2f990243d99a647fb4">
+<p nodeId="7b2f83763ac243b3bc6c6e064f3300fe" />
+</td>
+<td colwidth="[391]" nodeId="a9da1970d1a3442fbf52956b77e8515f">
+<p nodeId="4b2b8f847f3e4a3cb80a0ecbd3f59570" />
+</td>
+</tr>
+<tr nodeId="f493ab9e233a4c9492f1358dc7251a05">
+<td colwidth="[50]" numCell="true" nodeId="ba4cc97aa9c14060962f9996b3e692c0">
+<p nodeId="58fcb2b590d1435fae7a3d63b1510ad8" />
+</td>
+<td colwidth="[61]" nodeId="d76beccfc4b14f7187a6fe48a4a89e76">
+<h4 align="center" nodeId="18c9515c83624406a77b8a16a44388c8">内容不完整</h4>
+</td>
+<td colwidth="[61]" nodeId="c5e8e09dcc734ee1a9fde005f92793c3">
+<p nodeId="7f8af13f291646d796f15a5aea95ad9c" />
+</td>
+<td colwidth="[61]" nodeId="545a2b468350445dbf04dfeee4ff0c05">
+<p nodeId="b2523a27c0e34da8ac67cdff903d3b8e" />
+</td>
+<td colwidth="[61]" nodeId="01d63e838ca041b3b480fa5f8da317cc">
+<p nodeId="396480286451423d8e7feed37fab1ca4" />
+</td>
+<td colwidth="[61]" nodeId="d84d11adf9394f2882d4acee15d6c432">
+<p nodeId="ec162539a2344ccba97d753bdc81115b" />
+</td>
+<td colwidth="[107]" nodeId="1195898cfabb43baa36be817a951e632">
+<p nodeId="e9618eb1639444b5bc1890e404d58d69" />
+</td>
+<td colwidth="[112]" nodeId="8d66693a53204cc69c75adbaf0d22849">
+<p nodeId="1a5730c7631a4070b3bf732b27635f73" />
+</td>
+<td colwidth="[486]" nodeId="d45b3d78359c4bad8023021291441109">
+<p nodeId="c2cac5fcd75d4c94aaf583544b037011" />
+</td>
+<td colwidth="[515]" nodeId="36450ef5754e4a879049c341ecf79d5e">
+<p nodeId="2a0e859e5aa04c46a490b9287e5b0b26" />
+</td>
+<td colwidth="[329]" verticalAlign="top" nodeId="23ede7b0ca704377add9b55d9c9008ee">
+<p nodeId="a46d259bee5741eaa32d0c0fae72797a" />
+</td>
+<td colwidth="[391]" nodeId="d7dc36ed701f4d169e07b70ac72b905c">
+<p nodeId="bd18c1dfab3f4d0d8491149cbc420bec" />
+</td>
+</tr>
+<tr nodeId="bbcf3d66afa64499af2efc04c6dfc7f3">
+<td colwidth="[50]" numCell="true" nodeId="3185f2146ef742ccb5b5f9d0f8a94ee2">
+<p nodeId="c30796d9c53546f7b2d7401f2ff6def8" />
+</td>
+<td colwidth="[61]" nodeId="61e64e3c7fef4ac1a1b756fcad056315">
+<h4 align="center" nodeId="d4d976c0406d45fd8d7fde8c5b95e125">音画不同步</h4>
+</td>
+<td colwidth="[61]" nodeId="1d0460d9eab343fc9efb070876363bb8">
+<p nodeId="e64c219cac03443186c6cfd916c1148c" />
+</td>
+<td colwidth="[61]" nodeId="700c10a6f10146f1936eab4570448aa5">
+<p nodeId="5c07777d306d45aab110a6b55796735b" />
+</td>
+<td colwidth="[61]" nodeId="400525e5d67a4bb3aaa9a2a83e460f57">
+<p nodeId="d8d7e66b65cf403aa2165b4a2944d191" />
+</td>
+<td colwidth="[61]" nodeId="ba4e6c6165a94083abf903dac87d2770">
+<p nodeId="ad685041b15746bf8665243d56824edf" />
+</td>
+<td colwidth="[107]" nodeId="6387ef34158646aebc6d8296bc982bbc">
+<p nodeId="039652fca99045b2bca66cd201b9370d" />
+</td>
+<td colwidth="[112]" nodeId="b49ec97b982a4e55a90315d510e29e45">
+<p nodeId="cb55afb2ddba48d99ba2deef47963bbc" />
+</td>
+<td colwidth="[486]" nodeId="990189c8adfb472292c517bc523bb9b2">
+<p nodeId="2515b806a99444b5bc8c561856d9657d" />
+</td>
+<td colwidth="[515]" nodeId="0fa3dfbc4ed74145956b99ac24d25c7f">
+<p nodeId="b775974fc00141949f7ccd9c380a84bc" />
+</td>
+<td colwidth="[329]" verticalAlign="top" nodeId="9200075ed54c450a82614b631e1c1ab3">
+<p nodeId="6f06bc2a749947eabfe03961eec1c4d9" />
+</td>
+<td colwidth="[391]" nodeId="6f2aba4338064c27afe436f9ae428d1f">
+<p nodeId="589117f2a3fb45029a37bb79de180b4a" />
+</td>
+</tr>
+<tr nodeId="9ddddbb6598c4f25aca74e485a7fdeaa">
+<td colwidth="[50]" numCell="true" nodeId="1f09c9670390464dbadd421e50f7d0e3">
+<p nodeId="8f523c036b3946dea25e14a69a98ab8c" />
+</td>
+<td rowspan="8" colwidth="[61]" bgColor="rgb(237, 250, 244)" nodeId="cbd7045e930f4ec295543f173e32a0a8">
+<h4 align="center" nodeId="cad7ac504e71483dbb636b21b4a1aa15">题文不符</h4>
+</td>
+<td rowspan="5" colwidth="[61]" nodeId="a8f5dc0b61a4440fb935b3c6a6798497">
+<p nodeId="499bdbee310a4886b869de5f04f0a4ec">垃圾内容</p>
+</td>
+<td rowspan="5" colwidth="[61]" nodeId="b93aed8f2202495796b303cfc98a7dc8">
+<p nodeId="61d20733f6cc4740a829eb7ca42f8ae0">内容不匹配</p>
+</td>
+<td rowspan="5" colwidth="[61]" nodeId="5365e23ab002417fbe3fa2b9fb83cbaa">
+<p nodeId="0152ce6b483d4556939235daed76671e" />
+</td>
+<td rowspan="5" colwidth="[61]" nodeId="df957ddcb5814eefb335af17a71f1a7e">
+<p nodeId="98c8ed863f614813b11385d561bc95ee">垃圾文字</p>
+</td>
+<td rowspan="5" colwidth="[107]" nodeId="1db1924aafb24895a910762dddb0e510">
+<p nodeId="9bcdaf95f594433c8405fb274e0c9bbd">「文」- 无关</p>
+<p nodeId="e4bc69e8d2654eedaf47e9099c0e9735" />
+</td>
+<td colwidth="[112]" nodeId="d595be352487455783ec868fd7caed11">
+<p nodeId="f3b3287346d64a24856ea5f0a22eaca2" />
+</td>
+<td colwidth="[486]" verticalAlign="top" nodeId="b5af2e9291674eea9310b502f5c4ac77">
+<p nodeId="f6b9e02d1a3f4afc91814d927784b52a" />
+</td>
+<td colwidth="[515]" nodeId="50f2fd94f269437e8975307ce5cd25bc">
+<p nodeId="f350b0cf4b7446659f421183f76bea1d" />
+</td>
+<td colwidth="[329]" verticalAlign="top" nodeId="dcdeddf93b484f549abbfd125a145585">
+<p nodeId="622b3b3578a74781813ebebe2f615683" />
+</td>
+<td colwidth="[391]" nodeId="95cb78e3b70141e2bfd2709daf07cee2">
+<p nodeId="3b551c40d58d4ea9906f349cb7f49d1e" />
+</td>
+</tr>
+<tr nodeId="bba42ed124ab477888c7ec8894a81ff2">
+<td colwidth="[50]" numCell="true" nodeId="a4eb994217f7409abb0f08546b2a9a96">
+<p nodeId="36d60ba354464160a51f33270f40a482" />
+</td>
+<td colwidth="[57]" nodeId="e77a7b6810d84ef08e9655ccebc60d97">
+<p align="center" nodeId="9506e40773754a70bf424d3d01d3af28" />
+</td>
+<td colwidth="[112]" nodeId="888966b8148c4abdb1e7908a1f9310b6">
+<p nodeId="beee458ae0b04687b6831aa0743b55d7" />
+</td>
+<td colwidth="[486]" verticalAlign="top" bgColor="rgb(255, 255, 255)" nodeId="06dd14ec49c948be9c9919b02b3d68ca">
+<p nodeId="f762e402eccb4435be7e9cf48d178bba" />
+</td>
+<td colwidth="[515]" nodeId="085d2716dd2a4ed4b84adba6b0ee0fc4">
+<p nodeId="2396d6ec507d4825a2a8375990663d96" />
+</td>
+<td colwidth="[329]" verticalAlign="top" nodeId="d0dbf12c8c9849e88f383d9e8fe3563d">
+<p nodeId="746cc7a1605f4da6ad200b3482fed74e" />
+</td>
+<td colwidth="[391]" nodeId="587b09cd6b6748aba1ea9b7f330f3deb">
+<p nodeId="822eec834d5e447dab462709383f293b" />
+</td>
+</tr>
+<tr nodeId="8357dd36a95c4533a69c55c65a61d1b6">
+<td colwidth="[50]" numCell="true" nodeId="484d968fa5c64fa4a6b9527dd3183b48">
+<p nodeId="257314c4f1154e6f933d0f9076746b34" />
+</td>
+<td colwidth="[57]" nodeId="6b19f42f1721417fa94f9596843471f6">
+<p align="center" nodeId="aa10ca596a764589a9ac6c52cd1e2ecb" />
+</td>
+<td colwidth="[112]" nodeId="abe8cb2beedb4848a9ef0aaf3aaf209a">
+<p nodeId="c4d8ec307ec34a60ac2b5f3da636409d" />
+</td>
+<td colwidth="[486]" verticalAlign="top" nodeId="1da0ffb11e9e4578b83917db48b04656">
+<p nodeId="e3c6b7420c5c445ea151af3dd7ef0a78" />
+</td>
+<td colwidth="[515]" nodeId="12c44a55b84f440696f66104b14d9157">
+<p nodeId="bcf42ba2562a4631abe7c45fcbc606af" />
+</td>
+<td colwidth="[329]" verticalAlign="top" nodeId="8a23cac06e3340359c76fac952141168">
+<p nodeId="b225b211d09f4cf697b403300bb9154b" />
+</td>
+<td colwidth="[391]" nodeId="051155b2247048299adfc8ca4b8112be">
+<p nodeId="dab2085a45524525ad67d34a14afe0a4" />
+</td>
+</tr>
+<tr nodeId="f6656d69d4c04760abcdfd3b8b675f3f">
+<td colwidth="[50]" numCell="true" nodeId="a9e06f67320e44c18db7c5e6393d6b7b">
+<p nodeId="e4e61fa46deb499cb4fd62bff01fc185" />
+</td>
+<td colwidth="[57]" nodeId="ca4347f7efa74358b16b4a171c8a651c">
+<p align="center" nodeId="be6b34bf5e7d432da0487db12930b00f" />
+</td>
+<td colwidth="[112]" nodeId="2675fd59cf154318b6f01d72b5e65272">
+<p nodeId="3020a49f06b64f9095692a07125a5031" />
+</td>
+<td colwidth="[486]" verticalAlign="top" nodeId="82046565579b4671b93f5bee93a46fff">
+<p nodeId="01db008860bb4dce8b8a94c11d10e97d"><span color="#FF4A47"><span font-size="14"><strong><del>打标 </del></strong></span></span><span font-size="14"><del>——</del></span></p>
+<ul nodeId="593cbfefe02b495594aac04f81b7a0bf">
+<li nodeId="0e78b180548148219f4985b9c8857ad9"><span font-size="14"><del>与商户经营无关的内容。</del></span></li>
+</ul>
+</td>
+<td colwidth="[515]" nodeId="41ec88b31f3d49bf8a907fb4bc594fef">
+<p nodeId="a85f4b6adbe34bb093fabc2236fd0f32"><strong><del>评论内容与商家经营无关</del></strong><del>：</del></p>
+<p nodeId="11be0f90bd704f06b0271a4e774bbc0e" />
+<p nodeId="832a284ba5b3453795324eafb4e2f327"><span font-size="14"><del>商户名：明光国际商务会所KTV</del></span></p>
+<p nodeId="0f8d317f1fb54adea2760b07a01ef371"><span font-size="14"><del>点评内容：而随着天荒国的不断发展，还能拥有无数神奇的仙道灵宝，如太极图，混沌钟，乾坤鼎，天地玄黄玲珑塔等先天至宝镇压国家气运。更有阿鼻元屠双剑，番天印，斩仙飞刀等仙家灵宝杀敌立功。</del></span></p>
+<hr nodeId="9a0e0379f5284b1299923c281ba7aabc" />
+<p nodeId="275f582016d74957a4f3a0ff9a1853f9"><span font-size="14"><del>商户名：纯K</del></span></p>
+<p nodeId="8abc6296c4334096a34e7a6d46a98347"><span font-size="14"><del>【杭州14家美食打卡】💥 🔹福缘居 本地人 推荐的杭帮菜！脆皮大肠好好吃！咸蛋黄南瓜咸香下饭，油淋鸡也很不错！说好喝的我真的晕！ #杭州美食# @一根瘦肉丝儿 @丸子安利菌</del></span></p>
+</td>
+<td colwidth="[329]" verticalAlign="top" nodeId="1c28923f2fb84fb2a226a273d94e5471">
+<p nodeId="c44b2ee0a3d44522999cc023dff0e948" />
+</td>
+<td colwidth="[391]" nodeId="b3d95910f4554a0a84832995be7a918b">
+<p nodeId="03d1dbedd1b042abb1c1ca720805936d" />
+</td>
+</tr>
+<tr nodeId="4b43e7ccc7284f1f886b870c37de5e13">
+<td colwidth="[50]" numCell="true" nodeId="eaa2bed80e6646c7b6f3e7e1957d02de">
+<p nodeId="393dcf99d11145f699d597a4ef0c49b3" />
+</td>
+<td colwidth="[57]" nodeId="0f83f102483f4303a3609554ae2cf7df">
+<p align="center" nodeId="6f0eb123e1ae40e5a8f4fca7a2c6cec6" />
+</td>
+<td colwidth="[112]" nodeId="516c3e88055f40a1ae5ac4ff5581fde3">
+<p nodeId="dde046308d924c6f8eab34c8b93219cf" />
+</td>
+<td colwidth="[486]" nodeId="3fc7aed09dbe4de0990e4c6049efa8d5">
+<p nodeId="9c99bd10270447f49774edd3b005c76b" />
+</td>
+<td colwidth="[515]" nodeId="150047cadf6941b5b4ff636000caa0e0">
+<p nodeId="92ac5531d01649759efac7e37482473b" />
+</td>
+<td colwidth="[329]" verticalAlign="top" nodeId="076621df4cfd4c38a19c3f0f27c02b11">
+<p nodeId="902934734f044b189e0ab2f491a67a99" />
+</td>
+<td colwidth="[391]" nodeId="094652e8d70d4ea29ed11ebfa05325fe">
+<p nodeId="af984408bd5a43b4a06570ff5110653c" />
+</td>
+</tr>
+<tr nodeId="9b78a8ab2edd41a481d4c4ce05109d7a">
+<td colwidth="[50]" numCell="true" nodeId="519c30295f824ea4845b87d62cc23bdc">
+<p nodeId="8e05e48603ab420089f0a45685b092f0" />
+</td>
+<td colwidth="[57]" nodeId="ca15ac418c51486ab7f7e73dc608c230">
+<p nodeId="443549fffc2f49c192a79044aacf5548" />
+</td>
+<td colwidth="[61]" nodeId="c3826c3935744d359796aa8685afe383">
+<p nodeId="deaeab502ca84c80965147b5f17206a3" />
+</td>
+<td colwidth="[61]" nodeId="d09f5f9fbfc247f9b37d8e8da9f18995">
+<p nodeId="b6d96bab750f4546b67380dcb1fd2edb" />
+</td>
+<td colwidth="[61]" nodeId="a001cad539ad4ac2979be92b287e13af">
+<p nodeId="3d8b2a9c05eb4f5bb4feb17f6a37c56d" />
+</td>
+<td colwidth="[61]" nodeId="791a979aed274306848ba04f1b73ee02">
+<p nodeId="dd49978d5e724cfbb36a971520a49654" />
+</td>
+<td colwidth="[107]" nodeId="284ab7bdfa8a4ac7aed471062e5c628d">
+<p nodeId="c37b53d651b940b1902ab13f8a05f707" />
+</td>
+<td rowspan="3" colwidth="[112]" nodeId="5df2c150a67d415b8b99e8f94d247756">
+<p nodeId="b619ce469c8c4bafab91ecd93e430100" />
+</td>
+<td colwidth="[486]" verticalAlign="top" nodeId="5a28247f1353425fab0abf0d6eaa5826">
+<p nodeId="17fafb16909640358b5923859d7349eb" />
+</td>
+<td colwidth="[515]" nodeId="b77ebb77193948ddae9296f30a5626af">
+<p nodeId="a0603c3ad29f428a992576b903a723cc" />
+</td>
+<td colwidth="[329]" verticalAlign="top" nodeId="3c2e33905317439c86ad73ce3ea5e369">
+<p nodeId="f705010dfb4b4de2a0cec49c9ec4da78" />
+</td>
+<td colwidth="[391]" nodeId="0401c04b890741d28aa8e5c029fac7cb">
+<p nodeId="62cfcc5be70f409d9716ddc69b9e87fb" />
+</td>
+</tr>
+<tr nodeId="f8bf6decdd73457a89bcfa0a2eec8175">
+<td colwidth="[50]" numCell="true" nodeId="4c0f03fce9a44db2ab4fade15a5371ad">
+<p nodeId="129e6c276aa34f66a906183e851379de" />
+</td>
+<td colwidth="[57]" nodeId="3e75a0347113489f9f0ed055cebc0e32">
+<p nodeId="c3e98800fe184833adb5214e656c10cf" />
+</td>
+<td colwidth="[61]" nodeId="326b523c3c1b4570984eed2c45a2acad">
+<p nodeId="a2ac27a1c8dc438693af9cd3453049d2" />
+</td>
+<td colwidth="[61]" nodeId="f0e29ca9bd104c25828435428d4dc3d8">
+<p nodeId="af7fe11d2a5b4f1a9219302a9626c18f" />
+</td>
+<td colwidth="[61]" nodeId="7578a84f855648daa561ddc0a14ec709">
+<p nodeId="802dd855e8e24baf95f836e9b9f8ee54" />
+</td>
+<td colwidth="[61]" nodeId="6a9e70a0e28942bb8b73762542467e22">
+<p nodeId="dd96797328544007a31679b340d0d1bb" />
+</td>
+<td colwidth="[107]" nodeId="fd943808af954ecd8695338c7067b934">
+<p nodeId="6ce0b50a2bf4415bb954b4931e3d185d" />
+</td>
+<td colwidth="[486]" verticalAlign="top" nodeId="625e7b635459495eb47ad0c821787ff2">
+<p nodeId="85657ffcffe34a2da5ee45ee23070b75" />
+</td>
+<td colwidth="[515]" verticalAlign="middle" nodeId="79b388aa9b624059a96b255329233718">
+<p nodeId="fcbccc0fca9141b790d496a15bc3e9f8" />
+</td>
+<td colwidth="[329]" verticalAlign="top" nodeId="69fa440ab5cc4358bc2f957d9d3c977c">
+<p nodeId="147a47a623b849a4a4e62bcd47c47800" />
+</td>
+<td colwidth="[391]" nodeId="850cb3c3930341ff9a919d7ca17ae9e9">
+<p nodeId="5e95d69a501a418e8c40d5746237783a" />
+</td>
+</tr>
+<tr nodeId="9d5fd538e66843508510057c45dd5a7b">
+<td colwidth="[50]" numCell="true" nodeId="a30a2020b8804dd48f633954c856857e">
+<p nodeId="d38e04557fef4066a101b98852261388" />
+</td>
+<td colwidth="[57]" nodeId="62ce79a7f42f482b97c80f9dc352fa4e">
+<p nodeId="fd0285b70929490e9088562a08559682" />
+</td>
+<td colwidth="[61]" nodeId="c6b3ff2856644db6a4626ff5f2dc1fdd">
+<p nodeId="79c41ace78454e96b1b06e9aafed46a1" />
+</td>
+<td colwidth="[61]" nodeId="4f7b4bdef911408291e96f4b4e7dc7ed">
+<p nodeId="805f30c2b37f4528a368d84605d6f177" />
+</td>
+<td colwidth="[61]" nodeId="b7b8584c04334e9db464a63e2b3ee759">
+<p nodeId="0c32e377e513485dbbb90eab90787adb" />
+</td>
+<td colwidth="[61]" nodeId="dd58d0675c0f417b8df8371552c1bdc5">
+<p nodeId="28e01d2979b14c3f9b866f36d143ecd8" />
+</td>
+<td colwidth="[107]" nodeId="d5b5817d314547a3894d706d57c44d59">
+<p nodeId="8b3355223b684cbfbe2ab797203f81f7" />
+</td>
+<td colwidth="[486]" verticalAlign="top" nodeId="0559aebf99ae43e5a29237e7d2e80108">
+<p nodeId="5538cacd38c84108b9b7fdf79b650284" />
+</td>
+<td colwidth="[515]" nodeId="a8b7914ce90146d399ff4fcebceb00b8">
+<p nodeId="acea76453659414d9628c3b83a693674" />
+</td>
+<td colwidth="[329]" verticalAlign="top" nodeId="7e5b1c2fd0f0405a8fbcd16fa838d929">
+<p nodeId="1484cf2c049b49b38bac06f831b5d3b4" />
+</td>
+<td colwidth="[391]" nodeId="9978bb91549b4b92bfbbb882aca1bb8f">
+<p nodeId="ffba3876e2894f0a8632fe9a3181e646" />
+</td>
+</tr>
+<tr nodeId="1141970dc9f14cd8bb8cf0ea0e6f118b">
+<td colwidth="[50]" numCell="true" nodeId="918192521e5f473486c52319d1fe8d56">
+<p nodeId="8fe2828cdd124937a0ac475e9cf8c740" />
+</td>
+<td colwidth="[57]" nodeId="bb8b3f3425ab43fea641ae6d7488a16e">
+<h3 align="center" nodeId="89f752fa759f4eedb220956743ffd0f0">黑边低质</h3>
+</td>
+<td colwidth="[61]" nodeId="4a3770ea0bfc494e878f520754607458">
+<p nodeId="0dfe3b0e78364c7eb3de91430ebfc1ac" />
+</td>
+<td colwidth="[61]" nodeId="263e74c2541643bab8b4af87ab2df214">
+<p nodeId="1a40fb76802a457cbab68136f829afe0" />
+</td>
+<td colwidth="[61]" nodeId="17c919c9e1474b5caa051e7bddcfbc7f">
+<p nodeId="4a033de3fca748d9b4fd2a828e6ce5f6" />
+</td>
+<td colwidth="[61]" nodeId="0f80d64900c7445e8d3776f6ae8229bf">
+<p nodeId="42375c2ae7864f04bb46c0347347249a" />
+</td>
+<td colwidth="[61]" nodeId="8abc88d915c445d8ad6efa6d73aaeb93">
+<p nodeId="3d17bbde6f7e428c861bb2bdc416bce9" />
+</td>
+<td colwidth="[107]" nodeId="3bcf74d262d842e28d7b70aed70e0911">
+<p nodeId="ac919d7295ab422bb4fa92f2cc014ddc" />
+</td>
+<td colwidth="[112]" nodeId="e011bc3a237149a68c514a2b8ab162f3">
+<p nodeId="94009b63cc6e406787b7b1156cad1405">视频黑边</p>
+</td>
+<td colwidth="[486]" nodeId="3febfa2842bc4111b071d5a1b31b5e5a">
+<km-collapse active="false" nodeId="abdfb99cef4e4ddca309ed53716e9485">
+<km-title>黑边审核标准（for<span color="#FF4A47"><strong><u>团视频&amp;交易</u></strong></span>视频初审）</km-title>
+<km-content>
+<p nodeId="03bd08ba6b004b35a5f04fd76aeb62a6"><span font-size="12">1、抽帧图片中：画面/字体等存在压缩、拉伸、旋转等扭曲形式（</span><span color="rgb(212, 30, 33)"><span font-size="12"><u>通过抽帧其他图片辅助判断，如果是转场的抽帧导致 则豁免，如果其他抽帧图无法辅助判断是转场 则打击</u></span></span><span font-size="12">）</span></p>
+<p nodeId="3c75d306a5084d3fb1b98199ca6e954b"><span font-size="12">2、视频抽帧图片中存在黑边/条/块等内容，长度或宽度或占比大于视频抽帧图片本身1/3及以上（即观感将近画面）同时该黑边/条/块占比整个视频抽帧图片总数的1/2及以上（即时长占比视频抽帧图片总数量）</span></p>
+<p nodeId="061a401dae124b23a7e02a46df471c30"><span font-size="12">注：竖屏横版视频：</span></p>
+<p nodeId="e7ff4545a90e415bad67915961e3f3d5"><span font-size="12">a,</span><span color="rgb(0, 88, 219)"><span font-size="12">非缩小或放大等正常</span></span><span font-size="12">视频抽帧图片整体趋近于视觉中心，上下有黑边</span><span color="rgb(0, 88, 219)"><span font-size="12">或用户自填充其他纯色，且视频</span></span><span color="rgb(255, 74, 71)"><span font-size="12">有实质画面的内容</span></span><span color="rgb(0, 88, 219)"><span font-size="12">≥整体的1/3</span></span><span font-size="12">可豁免</span></p>
+<p nodeId="654b312298d24fd994bac715a41fc38b"><span font-size="12">b,视频抽帧图片整体未趋近于视觉中心（即视频在边侧）如此时黑边范围≥视频内容本身大小，需打击</span></p>
+<p nodeId="840ec73bd097485ba0c748a91fbc5d99"><span font-size="12">c,视频抽帧图片本身缩小，（即上下存在黑边的同时，左右也有黑边）此时如左右黑边约占整体的1/3，则打击。</span></p>
+<p nodeId="60655b55d2224e32bd5c5393bc6c0c46"><span font-size="12">3、抽帧图片为：主体以非常规形式的视频（除正方形/长方形比例视频外其他所有）如圆形、三角形。【豁免：短时转场剪辑手法，若：转场形式抽帧图片数量占比超过视频总抽帧数量一半及以上仍需打击】</span></p>
+</km-content>
+</km-collapse>
+</td>
+<td colwidth="[515]" nodeId="280b622478c24d46b1355601a3107329">
+<p nodeId="e836b09e0a2140679c0fbc8ea7fac89c" />
+</td>
+<td colwidth="[329]" nodeId="72c48c8560cd4c459d1179e74ecf3a49">
+<km-collapse active="false" nodeId="66498dc70c40406f8570e44111784ecc">
+<km-title>参考分析案例</km-title>
+<km-content>
+<ul nodeId="5c8453159a7944fe9edbd41ee6e24991">
+<li nodeId="cce3ebe1c24c48dfb371e3002f604dff">如图，用户自填的无任何字体或图案等的纯色（非黑色），可视作为黑边，此图可视为等比例缩小</li>
+</ul>
+<p nodeId="b24aecabfd3b4ee7a53381bb36b7e212"><img src="https://km.sankuai.com/api/file/cdn/1627767469/102714634552?contentType=1" name="image.jpeg" width="125" height="67" nodeId="4d02b49540a14f159a3015541e9fa134" /><img src="https://km.sankuai.com/api/file/cdn/1627767469/102725031793?contentType=1" name="image.jpeg" width="101" height="75" nodeId="2fe863b8434544bd94018589a788147f" /><img src="https://km.sankuai.com/api/file/cdn/1627767469/102725568230?contentType=1" name="image.jpeg" width="128" height="92" nodeId="afaa4185a6c64d02b4bc03fe806f0713" /></p>
+<p nodeId="d63ea78139914392ae353e7b8f7d11bf" />
+<ul nodeId="c6491d21d8da47818604d9e082931d4a">
+<li nodeId="be30db704ad4492581d4e2d598c68dce">如图，用户自己填充其他纯色边，但视频本身的黑边有文字/图案覆盖，可视为整体的主体，可以放宽<img src="https://km.sankuai.com/api/file/cdn/1627767469/102720064005?contentType=1" name="image.jpeg" width="183" height="242" nodeId="bb4354dc0a7f4696aeea500dcc95e330" /></li>
+</ul>
+</km-content>
+</km-collapse>
+</td>
+<td colwidth="[391]" nodeId="87a0deb521d04f81826bdfd66e682e56">
+<p nodeId="d6057051f9d34509ae5c24fd10f9ec82" />
+</td>
+</tr>
+<tr nodeId="ad168693ecc047d8bb1d947a0acd2e70">
+<td colwidth="[50]" numCell="true" nodeId="6759e1d5f01e4c3f924b89c35472cfbf">
+<p nodeId="dd95bb6e246f4353a214b16437807ae8" />
+</td>
+<td colwidth="[57]" nodeId="e83101be14014b2b9805068ad3a82187">
+<h3 align="center" nodeId="2ddec96418fa431aaf37eb8d17d53909">过时效</h3>
+</td>
+<td colwidth="[61]" nodeId="5c7cdcbfd7d54d7080547f23148ed042">
+<p align="center" nodeId="26530d2cf5be460eab02d7ee8442aa60" />
+</td>
+<td colwidth="[61]" nodeId="4c5416212cfa4922804d921b8367e118">
+<p nodeId="bc595686a4a348ce97ec93ab32b36173" />
+</td>
+<td colwidth="[61]" nodeId="576cd7eb34ba416584b7d500f67b8d59">
+<p nodeId="9a04a8f944bc4f96af4724513667e220" />
+</td>
+<td colwidth="[61]" nodeId="e28f500635374e328a18a88f52b0f715">
+<p nodeId="ce69fa11cef74b64893739c8e4782423" />
+</td>
+<td colwidth="[61]" nodeId="564e29d0766e43c58e029aee77f4eb80">
+<p nodeId="07355eb6b079432db507e74f12a704a1" />
+</td>
+<td colwidth="[107]" nodeId="ab0cf0f0937f454d856b1dc441a04db4">
+<p nodeId="2a94ad775125404c84345f62798c8414" />
+</td>
+<td colwidth="[112]" nodeId="c4910c9e3f0c42c0ac108745933a000a">
+<p nodeId="8d2a21fd2d2347a8b6b2b0cca17d7568" />
+</td>
+<td colwidth="[486]" nodeId="8defee1915454afdba40c1288eb49528">
+<p nodeId="15a894abe2ca405faaf57bda51894605" />
+</td>
+<td colwidth="[515]" nodeId="7a62b927d9cc4eae9f8e72e8f92ee1c9">
+<p nodeId="1b6f85ac602f452abf277691a8b13689" />
+</td>
+<td colwidth="[329]" verticalAlign="top" nodeId="794938a724644509a9064446e8197190">
+<p nodeId="ee9d1d8c92694fbe805156d4183b2528" />
+</td>
+<td colwidth="[391]" nodeId="d3637e20e1bf42fb9a14736714139ca0">
+<p nodeId="4043193aa1004affb4f1de3968100bab" />
+</td>
+</tr>
+<tr nodeId="f3272c8684414f03b0e1b0878dabfeee">
+<td colwidth="[50]" numCell="true" nodeId="e66e4a0f1cb94d729673ac4579f7e2e5">
+<p nodeId="92d7890b04aa4948971e2bfd419d9102" />
+</td>
+<td rowspan="9" colwidth="[57]" nodeId="5a7883acb83e4c868546f93793c2a2e4">
+<h3 align="center" nodeId="451e5126149846aa84d2ce2e8ddd56ce">低信息量</h3>
+</td>
+<td colwidth="[61]" nodeId="be86080dda1c4170a694a19547513ee5">
+<p nodeId="d2cf0316680d4d4ba39c276f0ca6601e" />
+</td>
+<td colwidth="[61]" nodeId="6950906c2fbc481e835901f10ca2726e">
+<p nodeId="35190ac284814aa28f9811c4e2ffe041" />
+</td>
+<td colwidth="[61]" nodeId="ecd8a6c346e3496abe79d79e5adff8dd">
+<p nodeId="dd5c36a3b1c044daa550e4e157a2dad7" />
+</td>
+<td colwidth="[61]" nodeId="91d4cfddb4e3438da0cff3b8c4d7beff">
+<p nodeId="16a6b26ad2ce4b96a5ee2bf0e655d1bb" />
+</td>
+<td colwidth="[61]" nodeId="fdd1012ead9e4b9e9a6a6f91148bff73">
+<p nodeId="46ba7f7fec434ada819b99789902921e" />
+</td>
+<td colwidth="[107]" nodeId="5e4b12da221141c28896ffc00246686d">
+<p nodeId="11fa8ea32e95424faddf725a648ce138" />
+</td>
+<td colwidth="[112]" nodeId="b410f3a0c3f2471c9ea564287a85166d">
+<p nodeId="0c069503241c4ea5a67c2c06d2fba055" />
+</td>
+<td colwidth="[486]" nodeId="9beb7661605a4fa7ab995ed6d602cf11">
+<p nodeId="fa8b7d84e905473eb08a8afcac435c63" />
+</td>
+<td colwidth="[515]" nodeId="75518e67ea794df9980c8d2af1bde9e3">
+<p nodeId="ec480880ccb5482f9405c6d2b4d621a0" />
+</td>
+<td colwidth="[329]" verticalAlign="top" nodeId="c3b0a83abafe47eb8f214b6f3afccb71">
+<p nodeId="7c70fda05c47473b8b3b28a04a439d42" />
+</td>
+<td colwidth="[391]" nodeId="ea3da046857a4c65bef522e0213d5c2b">
+<p nodeId="14775e9f9f8c4ac2b3397636f439fb22" />
+</td>
+</tr>
+<tr nodeId="5af0448a1339418dbe47aa4f17b55611">
+<td colwidth="[50]" numCell="true" nodeId="d9ba104f83344122bd79ed52064122f8">
+<p nodeId="54b2cbef198848afaab1784b3765eb00" />
+</td>
+<td rowspan="3" colwidth="[61]" bgColor="rgb(255, 246, 224)" nodeId="9174bc74bdce43f981201afd2b4b4c7f">
+<p nodeId="1e2468a16f434ef4afc7876fd489be74" />
+</td>
+<td rowspan="3" colwidth="[61]" nodeId="9eb18905278347c8b0ef0553a8544210">
+<p nodeId="6b04904cd8dc4e5ba69a84c799d1e2de" />
+</td>
+<td rowspan="3" colwidth="[61]" nodeId="39ccfa50c9a744618dac8d366306ba3c">
+<p nodeId="34dadc63bc454a0d8a449dbe9d6d0f63" />
+</td>
+<td rowspan="3" colwidth="[61]" nodeId="37f10cbe645f4ebeb2909118260165c5">
+<p nodeId="94994a816bd7434c822b208694fa5fc9" />
+</td>
+<td rowspan="3" colwidth="[61]" nodeId="3000c8356de54d6c93feb0d695b76c0d">
+<p nodeId="c4f3364103384a5d8cfc301335b97ead" />
+</td>
+<td rowspan="3" colwidth="[107]" nodeId="4b7dd8309e264290825fbfa758792272">
+<p nodeId="2996cb41cc44466f8dc093cc23e09239" />
+</td>
+<td rowspan="3" colwidth="[112]" nodeId="bace960a6da048ccabb2bafdb2fe905f">
+<p nodeId="c89ed9ac4f974fd49d686df4b9bae148" />
+</td>
+<td rowspan="3" colwidth="[486]" verticalAlign="top" nodeId="b0fd404eee7042ddb76f49932dd5638b">
+<p nodeId="c9d12c309b5d40808c88eeac2c017c74" />
+</td>
+<td colwidth="[515]" nodeId="cc6bd424f2ef4ec9867936ab0e8aa7b3">
+<p nodeId="376ddd1312c94a819941c9b749505a96" />
+</td>
+<td colwidth="[329]" verticalAlign="top" nodeId="848b56ba81b74c728972ac4bd5e43c6c">
+<p nodeId="b0a06229bc364bc387a8d5562fb991f9" />
+</td>
+<td colwidth="[391]" nodeId="a21a04aa56c7481289539ad996917a23">
+<p nodeId="372d813afcc74d8ebf73ed5afb3155fc" />
+</td>
+</tr>
+<tr nodeId="4b766f70a8f04a56910a39c1f60b161c">
+<td colwidth="[50]" numCell="true" nodeId="889012d179a644d7bfd7d3d72e199a51">
+<p nodeId="f9b4a54002ff465ea76962ab4cbd3f8e" />
+</td>
+<td colwidth="[515]" nodeId="7839090d114d4c7ab3ad885b63213758">
+<p nodeId="d4c74dbdac8a4e7aba35101ed17ef845" />
+</td>
+<td colwidth="[329]" verticalAlign="top" nodeId="6482ae9f1f6643faba37513272fccc0e">
+<p nodeId="da3a026d7ad946a38fb857fdec4829af" />
+</td>
+<td colwidth="[391]" nodeId="8eb4fb13bd97455ebf35c9617770a9f6">
+<p nodeId="55c8d34c3e384c6ebeb91ce539e35b2a" />
+</td>
+</tr>
+<tr nodeId="391abb1a72df42958ee32070e1002aa2">
+<td colwidth="[50]" numCell="true" nodeId="fd913a99f90e4adc8371806a2ac54e8e">
+<p nodeId="12886814e33241ee9a4e3efee3af9132" />
+</td>
+<td colwidth="[515]" nodeId="2dd7049f2cf64def9aa2cdcfdade36a0">
+<p nodeId="c27e3811a1154162958f40cfcd9db6a3" />
+</td>
+<td colwidth="[329]" verticalAlign="top" nodeId="1369739bb2284127b111c70007638def">
+<p nodeId="8016fe223a654d3c8341aa9826ae6470" />
+</td>
+<td colwidth="[391]" nodeId="499ca5b08fa548faabbbc7ae00994839">
+<p nodeId="27024b16014b4674b29c572457b6ec93" />
+</td>
+</tr>
+<tr nodeId="4470740313a1442f9aa988120942f628">
+<td colwidth="[50]" numCell="true" nodeId="e69fc266b35d4e00b13f01da2192abf0">
+<p nodeId="583475fffe1b439ea710eb7f83cab88b" />
+</td>
+<td colwidth="[61]" nodeId="6d1c43250a184bcbb100cb70b8386bc5">
+<h4 align="center" nodeId="e22852dc000b478791574161f0d18b2b">心灵鸡汤</h4>
+</td>
+<td colwidth="[61]" nodeId="1d83c3c3685a4818891d7a6e2d7e8807">
+<p nodeId="68cc9bba159e45f0a7177846bf0f539a" />
+</td>
+<td colwidth="[61]" nodeId="b7108af06c344ae98ae05442098b142a">
+<p nodeId="993fa57ced2f4edead4b78710aa0400a" />
+</td>
+<td colwidth="[61]" nodeId="1d5f4f48a4ba4858be10a4ea3b5b6e32">
+<p nodeId="7dc89eedec83448f946df2081bcb9814" />
+</td>
+<td colwidth="[61]" nodeId="15e31987169441cb9cc90cc0f3015ff0">
+<p nodeId="a9ee8e92e53f4784b8f6f0c7d32abfe6" />
+</td>
+<td colwidth="[107]" nodeId="9bba087f567c4d34b5f8fc959bc2a867">
+<p nodeId="0fb150d47b1f4899b16e26c9d221b9c7" />
+</td>
+<td colwidth="[112]" nodeId="6d7c294ec4cb4c8583b097694096d82c">
+<p nodeId="42d862dfbbfa4e07b4898c23a858f5e2" />
+</td>
+<td colwidth="[486]" nodeId="882bf165ef554bfea0c6394bb5030df6">
+<p nodeId="2f45ad17d3da445d9051bc79ac8a86dd" />
+</td>
+<td colwidth="[515]" nodeId="6bc1b55c6bf94f58bb1acd7f89665bce">
+<p nodeId="15661b7a1b6040f08f2582682485e466" />
+</td>
+<td colwidth="[329]" verticalAlign="top" nodeId="6ff2e981955f4bf3af6d88e3b8c7654c">
+<p nodeId="49106a74a16647f6818ab86ef52778ad" />
+</td>
+<td colwidth="[391]" nodeId="821bb6e4efdb48148119c13e980cff3e">
+<p nodeId="314f24176d6448b2a4b6144d9fc59300" />
+</td>
+</tr>
+<tr nodeId="d1d82ce06b184733bbf38588340e5c90">
+<td colwidth="[50]" numCell="true" nodeId="e63569440ceb43b28638505549068f1b">
+<p nodeId="11089a75eec349678ef7e2450408573f" />
+</td>
+<td colwidth="[61]" nodeId="b6fc43dddc9842edb7633c85fd40906f">
+<h4 align="center" nodeId="96426fb26faf44ab8c578ced137e45f3">心理测试</h4>
+</td>
+<td colwidth="[61]" nodeId="ea7910b13d5c4c6ea443ea62d7cab455">
+<p nodeId="5e19a277d0834cf388c7cb76fa5fa7df" />
+</td>
+<td colwidth="[61]" nodeId="5472c548071145dd879b72a068a0b15c">
+<p nodeId="2b26f27ef9a7448da36e365163e24655" />
+</td>
+<td colwidth="[61]" nodeId="a3a6ae20176e4ff994e95013f9b08333">
+<p nodeId="d44d8ebe908746dbb25d2da26aa03d4b" />
+</td>
+<td colwidth="[61]" nodeId="a606acc4adac46498555356b61e3b243">
+<p nodeId="e62073eda5a94e5983ea5cd6e1caef04" />
+</td>
+<td colwidth="[107]" nodeId="5122c88b8bfd472cac973220926ed047">
+<p nodeId="13be72773aa34819bbf164f06530db70" />
+</td>
+<td colwidth="[112]" nodeId="ba3549709f2842f6968d03d631662848">
+<p nodeId="be278390ac6548048c613af7e36223be" />
+</td>
+<td colwidth="[486]" nodeId="36acfe22dbb1469da0a493d4161e2fac">
+<p nodeId="cabca9764e104100873fb3cf991e1bf2" />
+</td>
+<td colwidth="[515]" nodeId="0e4e3e5e4329471c9569fa9ad9e59744">
+<p nodeId="a0dc1effa3594d1e8cad7771151086e3" />
+</td>
+<td colwidth="[329]" verticalAlign="top" nodeId="18922acca02d4b6695a41cee21a615be">
+<p nodeId="27389fc252d849be84484d9af71241aa" />
+</td>
+<td colwidth="[391]" nodeId="203c0c7b05c044f4bf02364e511f0a4a">
+<p nodeId="2ccd1de2a49c4a749161ca8ff15c907f" />
+</td>
+</tr>
+<tr nodeId="6f7019f19802461d9ce9ed6bb83b0137">
+<td colwidth="[50]" numCell="true" nodeId="f274e5e62b7a416a8df14c7699d3c109">
+<p nodeId="f4231cad639c4009a27b7437533d09a0" />
+</td>
+<td colwidth="[61]" nodeId="bc49d8d503024e13b5a2a942d9eaa680">
+<h4 align="center" nodeId="408dd87f887a418989cd76e2a92afbab">星座塔罗</h4>
+</td>
+<td colwidth="[61]" nodeId="825d15c3247544a3b0c0eac64984ea68">
+<p nodeId="d51b5bf2e0c842aa81d223a6fcd2028b" />
+</td>
+<td colwidth="[61]" nodeId="9ebae0401d054d30af124aa91819feb2">
+<p nodeId="e47dda97c0a24f21a6d61ca305839096" />
+</td>
+<td colwidth="[61]" nodeId="f00957f727e2488581fe96465b4006c7">
+<p nodeId="a8847f2bf7194e98aa05e7467b61a825" />
+</td>
+<td colwidth="[61]" nodeId="137a0ed5cb7e4476b0fb227864e70864">
+<p nodeId="a7917ee8e73f4e65ace2c79538acad12" />
+</td>
+<td colwidth="[107]" nodeId="ea127a287b80466da09d4bd2f3f71661">
+<p nodeId="35f0bc2c55094eb98f085d8061714bfd" />
+</td>
+<td colwidth="[112]" nodeId="621e55bca874481eafea79d76b2d70ac">
+<p nodeId="bde14e5792494997a1e3f2d8d0326788" />
+</td>
+<td colwidth="[486]" nodeId="09da6efe9f734848866a8126d35f55ac">
+<p nodeId="db5d1ff891ab4a638b0c7bc13f186c79" />
+</td>
+<td colwidth="[515]" nodeId="7e6b712c09294962991b518aad68d7f9">
+<p nodeId="9a40f3769dd14e91871b8ec992db63ac" />
+</td>
+<td colwidth="[329]" verticalAlign="top" nodeId="97bfdd3b05034944bb7d9c4fa31b2f24">
+<p nodeId="2dacb09e46444ded8005d1eb4e826260" />
+</td>
+<td colwidth="[391]" nodeId="1a5dc9afb29f4ca69af2952bb78ba836">
+<p nodeId="19d4373d69d640ff9f13cb51ffc36e49" />
+</td>
+</tr>
+<tr nodeId="ccb9c719c36a4f0a8a2e31cd4c0c4bbe">
+<td colwidth="[50]" numCell="true" nodeId="99bd92c3425d4f5f9470b77b57ffa1aa">
+<p nodeId="e5643d0c679a40cda76ac9917bc7968d" />
+</td>
+<td rowspan="2" colwidth="[61]" nodeId="493b832975f4419599204f9faea628e9">
+<h4 align="center" nodeId="b7a5ea91615a4a868aaa4bcee04bcd43">利己咨询</h4>
+</td>
+<td colwidth="[61]" nodeId="c99d6485dff9464bb0e64ccf29b48a1c">
+<p nodeId="6c5520bfae5c42be9d0aea287e2f701f" />
+</td>
+<td colwidth="[61]" nodeId="7d283a7b714a45d6bfce3185c139a9ae">
+<p nodeId="94f51cbd93454898b35702e83273f2fd" />
+</td>
+<td colwidth="[61]" nodeId="729f85fdbb5b4e7985d4bef36ffb95b5">
+<p nodeId="e8c9ef5a5dd147fa85ccbc6ca5b7c18a" />
+</td>
+<td colwidth="[61]" nodeId="6a9fdf6aac2b4a3d9c5c3432159528ce">
+<p nodeId="bc4c38e67b0f4f7f8036e249eda58a2a" />
+</td>
+<td colwidth="[107]" nodeId="13dec213b43b42a0bc083b253c82c664">
+<p nodeId="718917325fc0422e91a65abb928c7185" />
+</td>
+<td colwidth="[112]" nodeId="2c4b753e62314c8aae68ff25c86c252c">
+<p nodeId="d1ccd815512c4df2af13c38f167919bd">求助</p>
+</td>
+<td colwidth="[486]" nodeId="d970aeb844c24fbb922862c5c70d5de6">
+<p nodeId="945e9bdc80a94e348860d4438b60b0f1" />
+</td>
+<td colwidth="[515]" nodeId="eb9cdbbfd210435d941a483cbafc0f5f">
+<p nodeId="da38c10e935e49f6a9a3e4a098991431" />
+</td>
+<td colwidth="[329]" verticalAlign="top" nodeId="95d27abbea7b4f79952ac10a1d8e7de5">
+<p nodeId="69a33ef0857a4191a3b805471e2a84a0" />
+</td>
+<td colwidth="[391]" nodeId="e2bc3a3e36804f4f883c7ec7f4bd30ef">
+<p nodeId="deaa3f0255b04baca87a2a4be4c97d65" />
+</td>
+</tr>
+<tr nodeId="57c2edf9753d4279bee3670d3e7d886f">
+<td colwidth="[50]" numCell="true" nodeId="c12306c2b2ea4236970e2a5be8e788a2">
+<p nodeId="fa2f164fd9b84c31b661a12963663850" />
+</td>
+<td colwidth="[61]" nodeId="d05d521aa9394f53883c385ced7005ff">
+<p nodeId="d4395d03927d402abb8c79451eda0182" />
+</td>
+<td colwidth="[61]" nodeId="1ead749fcc8e479ba5fcd155bd057e0f">
+<p nodeId="64e1f2648d5b40778060cb53f6866847" />
+</td>
+<td colwidth="[61]" nodeId="cb594bc0cb1f4db3a212560ec60a0bf3">
+<p nodeId="2b2010ec32584d53b960c852b906fefb" />
+</td>
+<td colwidth="[61]" nodeId="dc8ffcea6ee44a25bab16e914e81f4d7">
+<p nodeId="4018293a95a94bebbbe40ed0b57763d9" />
+</td>
+<td colwidth="[107]" nodeId="2de1b6a633ae423e9a935a0484467912">
+<p nodeId="2cffdc3f1c1149ce83abf4f0aa4a8f99" />
+</td>
+<td colwidth="[112]" nodeId="0844c9e96e684af0bae51297a823b377">
+<p nodeId="29d90d7489be4a069158ee1879f63866">社交</p>
+</td>
+<td colwidth="[486]" nodeId="aaebbb9d647940f8bd5cad24d0560f76">
+<p nodeId="150d3ab7aff44e229008fa9c6133b542" />
+</td>
+<td colwidth="[515]" nodeId="0a7b979c09954801b750c49a5be8cbe1">
+<p nodeId="d8748946eb7c439986d9e02c1fad10d2" />
+</td>
+<td colwidth="[329]" nodeId="be4a3a6adca44ffd9109265da7f5c88d">
+<p nodeId="34ce94e869f04e509c69285b35f908eb" />
+</td>
+<td colwidth="[391]" nodeId="38a0e0d7dfd441458d253b8b354d7879">
+<p nodeId="a6b450a153c0463ebe681ec927b23ad7" />
+</td>
+</tr>
+<tr nodeId="0dd3d5c9d4e14a40a894a321011ae72d">
+<td colwidth="[50]" numCell="true" nodeId="a1858583dcdc457a80ff84c1b737fad3">
+<p nodeId="64f7adb81fdf4f078ae443480f305bac" />
+</td>
+<td rowspan="5" colwidth="[57]" nodeId="41e35be0640c4f64b6bb3057cc2f9dcf">
+<h3 align="center" nodeId="69eb5148caeb4d59b13394efc258e0fc">低成本创作</h3>
+</td>
+<td colwidth="[61]" nodeId="12e6cbbd1911411c8e8f5fc0f1d56ce5">
+<h4 align="center" nodeId="7d692205555d4c11896c4bb8ae087c67">图片二创</h4>
+</td>
+<td colwidth="[61]" nodeId="99c5852aed124e9a97db221a45247d2e">
+<p nodeId="b7cf0858fde34a19a90219fe9cddcf84" />
+</td>
+<td colwidth="[61]" nodeId="7928ad33c4434337807a675b45cd7957">
+<p nodeId="3a1e0cfe81444f8183fe64fb0d9f01e4" />
+</td>
+<td colwidth="[61]" nodeId="dd4b15f0bc42473780dec31e5fbb2a45">
+<p nodeId="bc0c965f4204444cb8dcf406b02a64ed" />
+</td>
+<td colwidth="[61]" nodeId="f9a74c70415e402bbeaa421fe8796dea">
+<p nodeId="92d427880434409c96d9cfa2c3aa9543" />
+</td>
+<td colwidth="[107]" nodeId="5e1da9e41f874e37ada2f78febd176cf">
+<p nodeId="3d6c284fd624464dadb0393e942ef49d" />
+</td>
+<td colwidth="[112]" nodeId="7790f0622c5549e295707adc74eac0fd">
+<p nodeId="2222aa72a8c4435bb2ebd21f04cf0b82" />
+</td>
+<td colwidth="[486]" nodeId="cbfbd11de7b343299cdf9cd15c6168d4">
+<p nodeId="938bdb08e56f45468a3d5e015c10ed2d" />
+</td>
+<td colwidth="[515]" nodeId="b3a12a0a1bbc49dfb4530375bc0407a8">
+<p nodeId="547589def09149db9ed8c325c891d7b6" />
+</td>
+<td colwidth="[329]" verticalAlign="top" nodeId="8c073235962341ebad225866a445f58e">
+<p nodeId="a2393df59d1047f9b60b90cbc4718a36" />
+</td>
+<td colwidth="[391]" nodeId="4133ea0d5ca6433ca6ae34a35d1c0779">
+<p nodeId="9ee4c9fcdbb3487e97ae548f599a10b2" />
+</td>
+</tr>
+<tr nodeId="d1703d8a91864309a5bb3a1e1cd35c73">
+<td colwidth="[50]" numCell="true" nodeId="21f82e6df5c34e98bdcb212e0bc27857">
+<p nodeId="3c9f5b458dbb4cc29a0cf2afdb9cbb1d" />
+</td>
+<td colwidth="[61]" nodeId="3b930501c7b84eea931c792a4e50b3d9">
+<h4 align="center" nodeId="25f2dbff2b144ec9be2e18b681b4e820">低质引导互动</h4>
+</td>
+<td colwidth="[61]" nodeId="ba8e0f5839ae46bd83e3b261adaf731d">
+<p nodeId="790ca7ac6a0342f783965c4e9ecfc284" />
+</td>
+<td colwidth="[61]" nodeId="2244f54f9a3a40d49f4fe50a64d88b4b">
+<p nodeId="2c290f238065499da64284e3225eaa5b" />
+</td>
+<td colwidth="[61]" nodeId="bf046eb889da44c1b0a67236d11a0e24">
+<p nodeId="0db69ba4f00d42629e99a9bcc48b833e" />
+</td>
+<td colwidth="[61]" nodeId="c5a06b27b48f4a4c98bdac5e20d2ac8a">
+<p nodeId="88600cf252f04f87884dc429efb9900b" />
+</td>
+<td colwidth="[107]" nodeId="bfbfeef9415842cfb6e634dd1cac9c29">
+<p nodeId="e56f4a8dcec740bc913a396fb2b969d7" />
+</td>
+<td colwidth="[112]" nodeId="3a88e83b9223489ea9d720b488aa61f4">
+<p nodeId="38fb2be7d01242c98a915014da4f13b8" />
+</td>
+<td colwidth="[486]" nodeId="be603c7a30574229988f97d27875e9fb">
+<p nodeId="dba2ef8cee8c400982c59d0464e49ee5" />
+</td>
+<td colwidth="[515]" nodeId="e69f3354f4214344b20c4393582e35a3">
+<p nodeId="66358440da1c471b8e9e80f7a46e0a19" />
+</td>
+<td colwidth="[329]" verticalAlign="top" nodeId="44b9f8df5d4a4f9f9e01c941e4c3f1dc">
+<p nodeId="e7883f09e9364c868dbab06d52442730" />
+</td>
+<td colwidth="[391]" nodeId="19f170e320b44938b3ec26efebb8a47c">
+<p nodeId="20bcac5997294f8498444a0c20dc54ed" />
+</td>
+</tr>
+<tr nodeId="312c4368a6d547829b54a9212c7b084a">
+<td colwidth="[50]" numCell="true" nodeId="3a43e22a862143039edf8e114dc15771">
+<p nodeId="846a4c72526f4b07b7e0734b1cd1946d" />
+</td>
+<td colwidth="[61]" nodeId="45efc959cff3455a8cf30da457760aed">
+<h4 align="center" nodeId="2a4a69e78b9d485896df17b5a4d3aa3f">低质拼凑小说</h4>
+</td>
+<td colwidth="[61]" nodeId="0b15e1ff8200444a94365e9267edb626">
+<p nodeId="26fa9511f3a64f8c930b12ab4cddf7f7" />
+</td>
+<td colwidth="[61]" nodeId="b00066cce6fa400c85babd703b9e7045">
+<p nodeId="b5ba6ffb70234df493faf7e2fc698608" />
+</td>
+<td colwidth="[61]" nodeId="898de9c2dcd440b0b97496020c878b8b">
+<p nodeId="bdcfd4f363584b88a0c756cc23f4b9c0" />
+</td>
+<td colwidth="[61]" nodeId="8dd3e8c6c6184a5fa9fbffdd1fadc4a8">
+<p nodeId="b4c596e6a53b4d5094281987687fa66d" />
+</td>
+<td colwidth="[107]" nodeId="ded87269916c43cfa5ef6027bb5b3d8f">
+<p nodeId="96f999eece4e473ca1812fc0212e4e6b" />
+</td>
+<td colwidth="[112]" nodeId="723abb3329e0493cbb98854c4bb789e2">
+<p nodeId="1ff9e3c64ad44c6292a976b95551cb4d" />
+</td>
+<td colwidth="[486]" nodeId="21effd8fec924a81a6dc786cf3681952">
+<p nodeId="aa1876ec39a944fd81764d64605ad564" />
+</td>
+<td colwidth="[515]" nodeId="72ebc651bb394685a011b5ac60565016">
+<p nodeId="c58109b2f3a9451cbfa00b2288606ca1" />
+</td>
+<td colwidth="[329]" verticalAlign="top" nodeId="65b52cc641f042c8aa9665e62097e84b">
+<p nodeId="44eb1fcb24124a7db0048eab70835b6b" />
+</td>
+<td colwidth="[391]" nodeId="d5f3ac8d2d5a4e8aa31df0d0c070b960">
+<p nodeId="e87d699c9fb245619e61ba7fdee826f1" />
+</td>
+</tr>
+<tr nodeId="5fff09edeeee4dd8b9a21c4fb621553f">
+<td colwidth="[50]" numCell="true" nodeId="6149d0dbfdbd4e3b8e79c52f6a3689f2">
+<p nodeId="2c150b82fc4f45b491587feb85b03a33" />
+</td>
+<td colwidth="[61]" nodeId="867e7e7f67eb4c76b8195436295fda5f">
+<h4 align="center" nodeId="983125ff20a249ba9ef11c4d9e6ae972">无关拼凑演绎</h4>
+</td>
+<td colwidth="[61]" nodeId="9da8dd9c3e154765b509ad79cb6bf125">
+<p nodeId="99e2ffeda37348a5abdd1c3235b53e5c" />
+</td>
+<td colwidth="[61]" nodeId="fa6bdb2030094b24abd34a28cbe5b832">
+<p nodeId="14c0a4993fe14680bde2fdef6ea2c0a3" />
+</td>
+<td colwidth="[61]" nodeId="19d8cf9d1a7040c1add05117e27169a6">
+<p nodeId="54bc3b26fbca45c894b7e5b65b15182b" />
+</td>
+<td colwidth="[61]" nodeId="88c3f638447b4436987a9e1ee66febab">
+<p nodeId="d5af011b7dbe4380b83b29e9bbcf491d" />
+</td>
+<td colwidth="[107]" nodeId="58c8f9265aed492d9c1c81a0a08784e0">
+<p nodeId="5d96fd4144844c42b7b832c82ea80745" />
+</td>
+<td colwidth="[112]" nodeId="19d8f0c7bc4d4c01a368bb78befa89a6">
+<p nodeId="347a31f501544ca2b1ad96951893209e" />
+</td>
+<td colwidth="[486]" nodeId="4f11f4a1e5db4194a371bb4ad19dbac6">
+<p nodeId="c96010132e964c72880539cde1954306" />
+</td>
+<td colwidth="[515]" nodeId="9f7961881df4417f98ffa16098d9bbf8">
+<p nodeId="845f96b46ad94ffab771b2af38f2ddc8" />
+</td>
+<td colwidth="[329]" verticalAlign="top" nodeId="1fb394e2b20f431980675f964240749f">
+<p nodeId="cf7a8c92bd444440a1032e71fe03db86" />
+</td>
+<td colwidth="[391]" nodeId="d8398f1ec46041d59854546681629c9d">
+<p nodeId="11e24d7f9ad34d279baab917298cb7d7" />
+</td>
+</tr>
+<tr nodeId="aea0929a6d6940d98dede9200d0925a2">
+<td colwidth="[50]" numCell="true" nodeId="9e7cf360e5054aa3acc57311e75122f7">
+<p nodeId="bf40fa330f9949a09d8b53bd32dfa011" />
+</td>
+<td colwidth="[61]" nodeId="4b35025d865049f193d52f2f105d2669">
+<h4 align="center" nodeId="395fc376cc404f5bb32d0237df661e86">低质随手拍</h4>
+</td>
+<td colwidth="[61]" nodeId="9709bf6ec1ff4b379f5809d90e2d29f9">
+<p nodeId="8f1ab468311b4185a556f1c025c97d45" />
+</td>
+<td colwidth="[61]" nodeId="12114bb20faf4ab09d16ad3c79cc03b2">
+<p nodeId="ec02630f74784dcbbf23f6d06666bdb1" />
+</td>
+<td colwidth="[61]" nodeId="6e62b39422ee424b9300717a7f143b0b">
+<p nodeId="2572600d177740b5822d87a0699edb6e" />
+</td>
+<td colwidth="[61]" nodeId="cc15d93f3c7940189e2e60a4f78512fb">
+<p nodeId="93796afa73ed4f1cb81a8009264f2efa" />
+</td>
+<td colwidth="[107]" nodeId="a76dd863b2634f9aa112c8e594b7bd88">
+<p nodeId="f90fa5dafd8f4957b0c4c762723a7352" />
+</td>
+<td colwidth="[112]" nodeId="027546e8667a46e996f75f73a8d2ea9c">
+<p nodeId="4407c9d60646464a93edc3e54ef92d7b" />
+</td>
+<td colwidth="[486]" nodeId="7d0208a7cd1b4eaeb53776cc7802771f">
+<p nodeId="4e2b503294094074a36dfb7aede72fc4" />
+</td>
+<td colwidth="[515]" nodeId="ff8d0ed8753e4808bd4fb9219c22ac8c">
+<p nodeId="a7f577ecbe344c1eb649fd0e3f8bd941" />
+</td>
+<td colwidth="[329]" verticalAlign="top" nodeId="0d86201a7c0c4ff6b20a2d91b58f7438">
+<p nodeId="17e6737848fc4832a101235b5d1da989" />
+</td>
+<td colwidth="[391]" nodeId="606005659f8f498db554bc0755890619">
+<p nodeId="d73c8503b5da4e1b9dd577e880faa6e3" />
+</td>
+</tr>
+<tr nodeId="2b0241a382d749cd840c2084f454b140">
+<td colwidth="[50]" numCell="true" nodeId="8f1ed784765643bb826884c2a41e3b7b">
+<p nodeId="9d9e9bc713764b8a86311389897e8a0a" />
+</td>
+<td colwidth="[73]" nodeId="509198a2ca0348d79202406167805475">
+<p nodeId="2becdaa1f7e846c39afa9c11697449c9" />
+</td>
+<td colwidth="[57]" nodeId="0a7e0e9270ff4bb896320950cf40e34e">
+<p nodeId="b67f777653fb4e4f8e7ad769f6d30b63" />
+</td>
+<td colwidth="[61]" nodeId="08542169893e459f8eb13065d1a9045e">
+<p nodeId="bc1e8a7d930a49bd9fc2d6b7903919d4" />
+</td>
+<td colwidth="[61]" nodeId="f0316f53bdca44689bbc17e063168f57">
+<p nodeId="90795f5b6a3d4cff8216a56be21bbcc3" />
+</td>
+<td colwidth="[61]" nodeId="925d31c0c1ae473d88abc96b0d68e1c6">
+<p nodeId="2f1d214a543642c298768a342185555b" />
+</td>
+<td colwidth="[61]" nodeId="1700d32002174f178b6cd95a5897d3cd">
+<p nodeId="f83b3d771f864c40bb4a50756a75f4ed" />
+</td>
+<td colwidth="[61]" nodeId="c6afbced88d94cb997f194ce462e3510">
+<p nodeId="7f38568855de4561bc4e86df9b01c1b3" />
+</td>
+<td colwidth="[107]" nodeId="c1f244b063a444829f88d3333a663bc7">
+<p nodeId="8f86ac331ab94139bb4c4b43b39b4372" />
+</td>
+<td colwidth="[112]" nodeId="e9540ba666a048cbac389f5dad9d111d">
+<p nodeId="157d3e98ea0e46a89bba1a5f4ed7ad93" />
+</td>
+<td colwidth="[486]" nodeId="c4fe40c7d7264b75b49d49aba0a4561a">
+<p nodeId="dddd4a1c2ff8494ab862c2308db1fb70" />
+</td>
+<td colwidth="[515]" nodeId="25288fb2f00d46bea5a1c35cc989d3d0">
+<p nodeId="49fe77645ca14d3480877b189da225a2" />
+</td>
+<td colwidth="[329]" nodeId="f0575290b31746fcaf2fe1a2b80ed882">
+<p nodeId="33573bcd7b6b4ab38b0df6e9427863c3" />
+</td>
+<td colwidth="[391]" nodeId="0d4ea776a71843f1a658b216223eb690">
+<p nodeId="ef2805e8534c4477ba9fb97e9a2f6581" />
+</td>
+</tr>
+</table>
+</km-content>
+</km-collapse>
+<p nodeId="47d883b76740419e9481176c22b61438" />
+</km-doc>

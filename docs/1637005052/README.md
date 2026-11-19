@@ -1,0 +1,4222 @@
+# 05-标准汇总表 V3.0
+
+[返回目录](../../README.md) · [学城原文](https://km.sankuai.com/collabpage/1637005052#b-921650b1a29b4bd2bd2f815014f77623) · 已保存正文 · 2026-11-19
+
+> 正文保留表格和折叠结构。图片和媒体仅保留原始链接，需要学城访问权限。完整源数据见同目录 source 文件。
+
+<div>
+<h1 id="b-bab2eb5e94ce4527adb9768205db2312">05-标准汇总表 V3.0</h1>
+<p id="b-1d11c37272c74005b69c8aa1e9c331bc"><span style="color:rgb(245, 35, 45)"><span style="font-size:22px"><strong>涉敏感内容，严禁截屏、拍摄、转发外传至公司外部社交媒体及无关业务场景，泄露行为属严重违规，除违反公司相关规定外，监管部门可能追究法律责任！</strong></span></span></p>
+<aside id="b-e58e9affd12549f9a5e9f577b8e66a59" class="note">
+<strong>Tips</strong>
+<div>
+<ol id="b-58c5c5d447284698b28da1a1850168a8">
+<li id="b-56653345361e427b9519a0be31e3f871"><span style="color:#000"><span style="font-size:16px">根据</span></span><a href="../1527805496/README.md" title="学城原文：https://km.sankuai.com/collabpage/1527805496?from=citadel_collabpage；需安全屋环境" id="b-c57d201727094d1daa35b07d4a52b521">https://km.sankuai.com/collabpage/1527805496?from=citadel_collabpage</a>现<span style="color:#000">有</span><span style="color:#000"><span style="font-size:16px">规划</span></span><span style="color:rgb(255, 74, 71)"><span style="font-size:16px">，红色背景标记为高危标准范畴。</span></span></li>
+<li id="b-905d13e5f1c0464482530345cb7cec3c"><span style="color:#000"><span style="font-size:16px">标准对应的TYPE，通过某一类任务流+序号的方式进行映射，详见</span></span><a href="../1664494579/README.md" title="学城原文：https://km.sankuai.com/collabpage/1664494579?from=citadel_space_tree；已保存正文" id="b-23cf3d29b1e3415d831afd546ecc5048">https://km.sankuai.com/collabpage/1664494579?from=citadel_space_tree</a>。</li>
+</ol>
+</div>
+</aside>
+<div style="none" id="b-5cb45403dff149df912745445fb5d566">文档目录：使用浏览器查找，或展开文中折叠内容。</div>
+<hr id="b-0b1d6450085b449ca5ec364a74cef048">
+<table id="b-2cbb544b8583496ebc9005f955da1839">
+<tr id="b-4521f963df574705b325c2868b65085a">
+<th id="b-bb5c9c1a85234d1abd3e4f7e44e4ebe4" style="background-color:rgb(246, 246, 246);vertical-align:top">
+<p id="b-fc82f5b5d6c74534a1e66a43b51316a3" style="text-align:center"><span style="font-size:16px"><strong>标准分类</strong></span></p>
+</th>
+<th id="b-9d80c6cd3abb433abfd8b205f9ff93ad" style="background-color:rgb(246, 246, 246);vertical-align:top">
+<p id="b-eda5c98deafe429aa8a9b283d31d88f7" style="text-align:center"><span style="font-size:16px"><strong>一级标签</strong></span></p>
+</th>
+<th id="b-175764219ad247018433688dbb0e009e" style="background-color:rgb(246, 246, 246);vertical-align:top">
+<p id="b-eec649ea78a246ec8e7a67595c34379a" style="text-align:center"><span style="font-size:16px"><strong>二级标签</strong></span></p>
+</th>
+<th id="b-ba75105e29c047539713e6354b435177" style="background-color:rgb(246, 246, 246);vertical-align:top">
+<p id="b-d446bac48068458c9f46d03864080ff3" style="text-align:center"><span style="font-size:16px"><strong>三级标签</strong></span></p>
+</th>
+<th id="b-8287a0091a7b4cfb96592222fec355ff" style="vertical-align:top">
+<p id="b-f9b514cae0a0448dababd1dfe936a1d5" style="text-align:center"><span style="font-size:16px"><strong>标准</strong></span></p>
+</th>
+<th id="b-8cd6b6a4109b4059b8c9ad59d40c3df5">
+<p id="b-1075d56caa2042479a61c1b29f68ebf3" style="text-align:center"><span style="font-size:16px"><strong>适用Type</strong></span></p>
+</th>
+<th colspan="2" id="b-04b2fee6d1864cbe8ee9694398552fb2">
+<p id="b-6a13728f19c64409bf65e5df6f1c48da" style="text-align:center"><span style="font-size:16px"><strong>业务业态品类标准</strong></span></p>
+</th>
+<th id="b-85307e6207e1408d866fff82b20d9081">
+<p id="b-922155b573a84ac784a0b8e29b14a48d" style="text-align:center"><span style="font-size:16px"><strong>适用Type</strong></span></p>
+</th>
+<th id="b-9062e10c323d48b18c103c18c25b77bf" style="background-color:rgb(246, 246, 246);vertical-align:top">
+<p id="b-a16b027e413a4cdb89d54bc7c8ed6917" style="text-align:center"><span style="font-size:16px"><strong>负责人</strong></span></p>
+</th>
+</tr>
+<tr id="b-86d2d2c02c6e41df9d0842ca4558339d">
+<td rowspan="59" id="b-0f53e3d3da964ccda5ee70b39fef5c33">
+<h1 id="b-c9a08ed368f048989e9469c41b1bd1de"><span style="color:rgb(255, 74, 71)"><strong>违反政策法规审核标准</strong></span></h1>
+</td>
+<td rowspan="3" id="b-4f477cba539a4dc29da9b6a2649733bc" style="background-color:#FFF;vertical-align:top">
+<h2 id="b-fa0b6b503ed94634abf720413b4d0e96">一、一号</h2>
+</td>
+<td id="b-0c6abbbf54c14a7abc2014932a601f51" style="vertical-align:top">
+<p id="b-95fbec48ebef4a81ad2f6f6bb2808cb2">（一）一号负面</p>
+</td>
+<td id="b-a4ca7822e1c9426a8d5826e712bad51e" style="vertical-align:top">
+<p id="b-27611fd619ee46dcb8a69fe3393478a8" style="text-align:center"></p>
+</td>
+<td rowspan="2" id="b-f4b6261a44da45f7b2b2f798b3085e72" style="vertical-align:top">
+<p id="b-8059a8467fe847d1b9e974343c661d69"><a href="../1624802712/README.md" title="学城原文：https://km.sankuai.com/collabpage/1624802712；已保存正文" id="b-e625bbb25136411a9f81ecb2332c8727">一号审核标准</a></p>
+</td>
+<td rowspan="127" id="b-d63a04ad8bb94bc0b68ef91a515b915e" style="background-color:#F4F5F7">
+<p id="b-39d269ed221642619c2ff71ee10bbea4"><a href="../1667755862/README.md" title="学城原文：https://km.sankuai.com/collabpage/1667755862；已保存正文" id="b-daaa5e50014442e984628d6dc8e06634">A类 「全部」</a></p>
+</td>
+<td id="b-91190d6620c74910aa391b871ddc44f7">
+<p id="b-c3c45a1fb222400a91d33564489e9e48"></p>
+</td>
+<td id="b-e906fa12ca484fe88602dc66de45f726">
+<p id="b-a4d7cfa2a5a14fba84fed0f7c3fb5eb3"></p>
+</td>
+<td id="b-3ac3be1e21c94ea9b28e5f830a643c80">
+<p id="b-5a560843c8444f8c937512e2c5d800d0"></p>
+</td>
+<td id="b-ca5b920cf09a4258b9276504fd70902f">
+<p id="b-1384e85b1c1740148016cc1b97feb71e"></p>
+</td>
+</tr>
+<tr id="b-1ef0f9efcd2f4caf85c18165f7d7c463">
+<td id="b-65ae9f462d1a4dcd99edb450f7507d5d" style="vertical-align:top">
+<p id="b-f6230a6df46e401cabd3d5e3940e134b">（二）一号主体正面</p>
+</td>
+<td id="b-11679c1eb7184315a01f2205767c1477" style="vertical-align:top">
+<p id="b-de362db9591548dd94708909658258e0" style="text-align:center"></p>
+</td>
+<td id="b-11093facaa644f429d45aabde8f4e0df">
+<p id="b-d36b37a7113447989c9a62b8fd266d93"></p>
+</td>
+<td id="b-f0e35dc707cf4edda3182bf902e102a1">
+<p id="b-3eb5f25d97804dc1bae44d1ed81020c5"></p>
+</td>
+<td id="b-9c296f501b1a4d1bbe8537a258c81e4a">
+<p id="b-bae2eb4f9ed84726a382ccf0df9a9c62"></p>
+</td>
+<td id="b-c777f8b453eb452ea719391b48af7fbb">
+<p id="b-9118f448b72c428cb3941117d3ec03a1"></p>
+</td>
+</tr>
+<tr id="b-a3ee2600e36947c497ea101a9296e845">
+<td id="b-f748a41ed41b4692b0d0011a643b9c2e">
+<p id="b-9fd7177cc68a4a7aaa6e26612b18a927">（三）一号非主体正面</p>
+</td>
+<td id="b-d9efe95e23054552aa69c656fa42f825">
+<p id="b-21657e24d85f40918855b22d0b4e9349"></p>
+</td>
+<td id="b-1b4952b9f8af440bb2d8b36ed81bfdd1">
+<p id="b-b20d127bc6ca4ee38c5cac85c81d628e"></p>
+</td>
+<td id="b-243fc879aed14ba98c4380689f6eb79d">
+<p id="b-f5ace252edf449ce92875121a4bf5fa1"></p>
+</td>
+<td id="b-e012665c1b3044988e1227bec9b6af1e">
+<p id="b-5a1211454855440f8198d88b31749dd3"></p>
+</td>
+<td id="b-4f237e8799824fe395845f02d7270887">
+<p id="b-8cb2bfcbfbb84442a9b7ac587b829a08"></p>
+</td>
+<td id="b-35a6e770ec3049eb87c9d151b8e94f14">
+<p id="b-809d74b8f4c74840bd0a529264e67841"></p>
+</td>
+</tr>
+<tr id="b-1fc4751e49844e8dba5eda78676db482">
+<td rowspan="6" id="b-01a72898e8064526920dd3c9a804a6bb" style="background-color:#FFF;vertical-align:top">
+<h2 id="b-bedb11f7dc2546e39d93f8920e9c3070"><span style="color:rgb(0, 0, 0)">二、重要人物</span></h2>
+</td>
+<td id="b-77b547a038384543a6d3e50d69fafb66" style="vertical-align:top">
+<p id="b-85a7525c9cd647dea78c9789b62eb08e">（一）重要人物负面</p>
+</td>
+<td id="b-72bdb8a298404edf97d25d8ccf82c0a5">
+<p id="b-688aab901abf4118b79dc4d03f62aebe"></p>
+</td>
+<td rowspan="6" id="b-e872d573e5b14c37a6ab01183c63a2a5" style="vertical-align:top">
+<p id="b-1069154482f846988019e4472fa94528"><a href="../1625179508/README.md" title="学城原文：https://km.sankuai.com/collabpage/1625179508；已保存正文" id="b-edcacae167194314837ac175cc564ca4">重要人物审核标准</a></p>
+</td>
+<td id="b-a7902d4bbad040a2b4f8da8a7a497028">
+<p id="b-c7d9a2faafb640ac9aa5c93da0ea40dc"></p>
+</td>
+<td id="b-822ca3dbbd314a9c9789ae4e972defdf">
+<p id="b-fa6a74472fd74b8797153d76594a78b5"><a href="../1229067305/README.md" title="学城原文：https://km.sankuai.com/page/1229067305；已保存正文" id="b-6ef76c1d018548269182c89b662e3922">POI名称涉领导人敏感词处置流程</a></p>
+</td>
+<td id="b-254e9d0c370d4f11b340b6124e4eb311">
+<p id="b-9243f3fe896044b997181bfebbf99722"></p>
+</td>
+<td id="b-b4253318dd8b4b3c9b081a6f051db2fc">
+<p id="b-c4ca3beabd574ad7a26261c068c00ccb"></p>
+</td>
+</tr>
+<tr id="b-3c8f416109654477b07f4bc8d46ed181">
+<td id="b-22ef2d2371d84dcfacbe7bdfaf95fd8c" style="vertical-align:top">
+<p id="b-b3c1e1450b2c4cf289388db53fd2a1a0">（二）重要人物正面</p>
+</td>
+<td id="b-df031b2d79134af58e528716932cd8f4" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-28afd88e3d1045dbaefda51494e05e70" style="text-align:center"></p>
+</td>
+<td id="b-ccfa8ad3a54a487db9268faa55bb06a5">
+<p id="b-440a52b869b04ca2b347aa1d4bf9d0fc"></p>
+</td>
+<td id="b-77dc3d1898e249058d18f21600b9b3de">
+<p id="b-086c2adbdf64413ebf46daeb483488c5"></p>
+</td>
+<td id="b-d01a4945b31542139ba95c63473c4424">
+<p id="b-e13e537f22974342b04910c34cb9ab1e"></p>
+</td>
+<td id="b-b0c36dbb19de4daf9603376aea184655">
+<p id="b-fd5bc302804f417db4d1827cf96c7d6a"></p>
+</td>
+</tr>
+<tr id="b-d8376ae2e4c14cce9b2964e80128c01c">
+<td id="b-e7efd45e0b0243a1bb3185dfdd8622fc" style="vertical-align:top">
+<p id="b-d97c993d4bdb4ffcb6dc39b9c6bcb7e6">（三）红色经典负面</p>
+</td>
+<td id="b-4e8d0f42f2cd4f66b3c985f5e1500e89" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-86c4d7f2658a47f4b997c3c82cf1270b" style="text-align:center"></p>
+</td>
+<td id="b-f5382aa288924a5aae609702acf79af1">
+<p id="b-66c19edcde07477e976d3d8ab35b89e0"></p>
+</td>
+<td id="b-bdb81b417ff34475bac07d964c912436">
+<p id="b-b95c85fb087848abbaf36afc73ed1ad3"></p>
+</td>
+<td id="b-57f8a75d07264cad81a5f31fc142212f">
+<p id="b-7dd822a17632440eaba0b5047fd52bfe"></p>
+</td>
+<td id="b-24058cee0b4a4884908965829eb1086f">
+<p id="b-df34799b63a74c64a95695bdf8911e9b"></p>
+</td>
+</tr>
+<tr id="b-e7c8f52185404c2c942c113ffdf12bb8">
+<td id="b-5b2f94a4ca804d5ca46f8681e4ca450e" style="vertical-align:top">
+<p id="b-fc634ab04fde4c789f9d25d9c0a34359">（四）红色经典营销</p>
+</td>
+<td id="b-d94de15a968f41c489c1b6a4af870143" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-1f79e7dba9ca428ab3455aa17863e7c6" style="text-align:center"></p>
+</td>
+<td id="b-50cb2a8ea7c3487a9b77704a371d4da1">
+<p id="b-e6cc1c827ad44f90821ea748baf8c79b"></p>
+</td>
+<td id="b-b9bb6f7af79f468e9439b756f23c2a35">
+<p id="b-c3c46f3d5fb443a0896853f5d4c61e7b"></p>
+</td>
+<td id="b-868bc900c1b04866acfb066eabdfe7c6">
+<p id="b-947c158e5ea2492091fa192df2873912"></p>
+</td>
+<td id="b-783f62673aab4e81afaa207b717ffad5">
+<p id="b-6d2cfc25fb5f4d518cd5ac431848f3db"></p>
+</td>
+</tr>
+<tr id="b-6efe1cb1c951432db27536a464b246c9">
+<td id="b-7606cfc891354c5b89ef12d86cfefacb" style="vertical-align:top">
+<p id="b-090d981a5a984ad29d45b4b6d6d0ddfb">（五）洗白落马及负面人物</p>
+</td>
+<td id="b-fc2a080943cb44d398306c45be752a68" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-744f837365da472eae97a7c1c3138f8a" style="text-align:center"></p>
+</td>
+<td id="b-864d3855affc44f79b4ecb2365019df3">
+<p id="b-a2b812d3000749fea6096af0043329e4"></p>
+</td>
+<td id="b-a196c6f6f7414a549436ed999cadebef">
+<p id="b-ab41bdd03593424fb50078ba95cd979d"></p>
+</td>
+<td id="b-ffd0177767ce452180530ad3a377ce65">
+<p id="b-20f612a4c9064cf69d66d10f81362adb"></p>
+</td>
+<td id="b-e898b270246d4970b20ce7aa7d2ca73a">
+<p id="b-1cf2a4df631344ee93578977a6db8045"></p>
+</td>
+</tr>
+<tr id="b-d43113dfb60441a1af1e2c434f346fbd">
+<td id="b-5cf8806567cb46ca9de2b3a66586c723" style="vertical-align:top">
+<p id="b-680dfb49ff1e45d484fe28ca19909a32">（六）落马及负面人物</p>
+</td>
+<td id="b-671bc3e9ceaf48fe89f768b484045882" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-d0f9bd545b61492a8bc20cd749213373" style="text-align:center"></p>
+</td>
+<td id="b-7ff8257c474e40d5a3a6017ac781f6dc">
+<p id="b-13a48aaa15e443afa912785e9abe0738"></p>
+</td>
+<td id="b-9a98c7f9eb024141a7b2231cd3bd5d07">
+<p id="b-8617a92e958b4d098f7b14caa2b37413"></p>
+</td>
+<td id="b-5c4cf140c77f456fbd76e62aec5e41c5">
+<p id="b-34c9ec3965604a8d890fb797d4bc6771"></p>
+</td>
+<td id="b-e9d316ed038746fb81f1aa972a2f6387">
+<p id="b-369105e38660421f8acfdb5bbb67926d"></p>
+</td>
+</tr>
+<tr id="b-cd5d8d7a21c04853a9686ac391a4536e">
+<td rowspan="6" id="b-8ae032a75b3d46a2ac14db81843d610a" style="background-color:#FFF;vertical-align:top">
+<h2 id="b-9fc13c95adcd47c9bdc37c9223f697a0"><span style="color:rgb(0, 0, 0)">三、国家形象</span></h2>
+</td>
+<td id="b-fea15bf981d04b258911a2dd9a3fdf4f" style="vertical-align:top">
+<p id="b-8b3d25df58c34e758f66d9d90e39164d">（一）共产党象征负面</p>
+</td>
+<td id="b-a8ad9136395449b9911de324bca5c4a3" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-ff06acbda8844bcd8959954f62edb768" style="text-align:center"></p>
+</td>
+<td rowspan="6" id="b-60bc07ab98bb442b8e30b2f3a490cb51" style="vertical-align:top">
+<p id="b-0327e84dbf2c43d4aff6ab634dfab8d9"><a href="../1625441222/README.md" title="学城原文：https://km.sankuai.com/collabpage/1625441222；已保存正文" id="b-c44480579452432182789b37db73f255">国家形象审核标准</a></p>
+</td>
+<td id="b-377845c78116400b8f5f4c796ffac8b3">
+<p id="b-d532b433de104b80b7f78839bf07d4b3"></p>
+</td>
+<td id="b-a607f5137c5043caa4c836b8d096a1ee">
+<p id="b-a8496d9196ce444db0a69eff5d8bb8cb"><a href="../1200479693/README.md" title="学城原文：https://km.sankuai.com/page/1200479693；无权限" id="b-e5e434b4244b468db472d468c111aa9d">涉政poi审核标准</a></p>
+</td>
+<td id="b-ae5c4795b6ba4477a5bd67c6022a6b32" style="background-color:#F4F5F7">
+<p id="b-0dd2693e160d4786bed4e01af5ae27c9"><a href="../1668032171/README.md" title="学城原文：https://km.sankuai.com/collabpage/1668032171；已保存正文" id="b-3dcec2b9ffc34c65bc28220f6fe7b96c">B类 「N35-N41」</a></p>
+</td>
+<td id="b-0d4f12d50d864b23a739daabe4234bd9">
+<p id="b-cfbb86507d004e29b197eab4301bee31"></p>
+</td>
+</tr>
+<tr id="b-224544b4700549e58c31c67af401a2df">
+<td id="b-38282ffa78e34f3b9adce09c3fe0a2ec" style="vertical-align:top">
+<p id="b-e904948902504ee886947f23085cbcca">（二）共产党象征正面</p>
+</td>
+<td id="b-3923070f4879403a9c2ef5b62acc602d" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-ffdf6a7eaa8d49479283e44a1f98e5a7" style="text-align:center"></p>
+</td>
+<td id="b-af712467974a428f8f3b2ec38ee63588">
+<p id="b-3697c34f7a66476dbac63c19485aca0b"></p>
+</td>
+<td id="b-d6fd3e0d94ca456b88628b3827a11510">
+<p id="b-04beca4a344f40429fe83069186f9264"></p>
+</td>
+<td id="b-f50fe581ea9b4d649b77426c03a0ebbb">
+<p id="b-394934b5549e4e6c8254129b81a6636f"></p>
+</td>
+<td id="b-1024ef816c3042a9867521ebfa9656c0">
+<p id="b-16ec9f2306944817a81a62337d8cd80d"></p>
+</td>
+</tr>
+<tr id="b-0a43828ae0b441b596a6e990a00e5599">
+<td id="b-005ee6274197419e96cbf03b98d81e0c" style="vertical-align:top">
+<p id="b-67064683a9a04a87a04daaa11d5785f2">（三）国家文化象征负面</p>
+</td>
+<td id="b-475ca85872be42329df11d6e44d135a0" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-8af4a577aeb442b094a467fda74e8a62"></p>
+</td>
+<td id="b-6257c21006e045029556890a835d9d48">
+<p id="b-fca96361ad1a44bd9b181ccf70af5914"></p>
+</td>
+<td id="b-8fc6c918a625491f864197d1a3dd7ef6">
+<p id="b-892578e716714a0898d038be4c63c550"></p>
+</td>
+<td id="b-3afc1f87393d4cf8aa8986cf802ed67a">
+<p id="b-7b325c50c831497ab2a7cc3717305f9b"></p>
+</td>
+<td id="b-da1949aafbb246eba825741b75efe7bb">
+<p id="b-07c4b17336bc48939c658a3b441536b4"></p>
+</td>
+</tr>
+<tr id="b-227d19ee507649bdbd8a04495cd93338">
+<td id="b-1b9a61a4875e404a9346d1aaae317cc8" style="vertical-align:top">
+<p id="b-3f820c50339847c3b4eb918fe185416c">（四）国家文化象征正面</p>
+</td>
+<td id="b-7029ae8a2c604e33affb61b5747421f2" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-215bbe0ce0c642d78207669d84829284" style="text-align:center"></p>
+</td>
+<td id="b-0dd8c7f2217945cdaa20ca967fa48722">
+<p id="b-cd0ce058aa69464ca6fb3c861db7c641"></p>
+</td>
+<td id="b-b405a94d9d9c4832af82cf0f7611f1c9">
+<p id="b-13ed97e38d4946d08a9b5663931eddce"></p>
+</td>
+<td id="b-ce253047197e4efdb2ffffab41514ea7">
+<p id="b-62dd621295fb4d5080bbfe6bc5e0b2e6"></p>
+</td>
+<td id="b-f1685a8c57e4474d81216dcbb3017401">
+<p id="b-931d708393524fd29dd1e5ad294dee73"></p>
+</td>
+</tr>
+<tr id="b-c5dd1ac1f2ce4b72b84114b2342910c8">
+<td id="b-f354467898644d28bd170bf2b3731852">
+<p id="b-c234a24c13604e16a98fb50861b9cd84">（五）中国地图负面</p>
+</td>
+<td id="b-731afa08564d4d9daaa9ed3923e2c9da">
+<p id="b-2a336287040b4bedb789d57e0bc178ac"></p>
+</td>
+<td id="b-7bcd914ec7c84f7f9573cfe803a6604e">
+<p id="b-b6fe94d5dc6847858e4f668303828ad5"></p>
+</td>
+<td id="b-fa99a3635ad44605b18a39dd76955644">
+<p id="b-f1ce17227f3b4607ad53b22a1eb552c0"></p>
+</td>
+<td id="b-dc53c9d33dfa480698b1a22f50d54754">
+<p id="b-f0c64f5e238246a5ab0abfecba7b487b"></p>
+</td>
+<td id="b-0ec56243fdc9470cb12378bd56237e72">
+<p id="b-37c6706e5d99473fae0100d7f6c97f84"></p>
+</td>
+</tr>
+<tr id="b-4139910627264fbea19c43a81a6006b8">
+<td id="b-2a4e7a20a532485ba211819106073052">
+<p id="b-322e86b7c1704437b7dd90b232ca634d">（六）军警象征</p>
+</td>
+<td id="b-424317471e9f435f99085cfa0b27ce2f">
+<p id="b-d0a2af12a56f433ca69c21aa61b8c3ee"></p>
+</td>
+<td id="b-39c79d6d98114b01a9984b3ad9cda704">
+<p id="b-15d28eacdc7c4124ba37fe7f5f62766a"></p>
+</td>
+<td id="b-dc073c697a6f430ca25c050027e172dc">
+<p id="b-fdcb31057d3c46018fd4e1bad49208d0"></p>
+</td>
+<td id="b-37e9b6514d3146cdbe5bd70b6b1cde03">
+<p id="b-112b4011d70040e4a8056a6826484dbf"></p>
+</td>
+<td id="b-f1175da817f44958a0dd6691a1b47bb4">
+<p id="b-371349d81e634e529c183801f7b2c32d"></p>
+</td>
+</tr>
+<tr id="b-91f7ac5ff21b49738492f00f57848117">
+<td rowspan="4" id="b-e380e6e96a14474798789ad045d83b91" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<h2 id="b-46abbd442ce44ce2aecaf0bae768cb54"><span style="color:rgb(0, 0, 0)">四、涉政言论</span></h2>
+</td>
+<td id="b-fc322a3246f44449bf707a428feb9dc0" style="vertical-align:top">
+<p id="b-3eebd54f8ea64e5e925df0f35aed105b">（一）涉政言论正面</p>
+</td>
+<td id="b-d31b1021640246e28a1f400acf90a168" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-ab607a9eb25d4602bcf332460ecb17ea" style="text-align:center"></p>
+</td>
+<td rowspan="4" id="b-56370185cf9644b2b1b504190bda89b4" style="vertical-align:top">
+<p id="b-b350c34f7a5843128d6f8616a21e8d23"><a href="../1625830379/README.md" title="学城原文：https://km.sankuai.com/collabpage/1625830379；已保存正文" id="b-1c4f8642ed0148b3bb3d6bffd1ad7a70">涉政言论审核标准</a></p>
+</td>
+<td id="b-3431126a575d40969c882b674cd902c0">
+<p id="b-4a69205c716043438946819430ec8cd7"></p>
+</td>
+<td id="b-e348375bd6e649bb881e54d5f09c817a">
+<p id="b-d61ef74cc120433eaa62a767e7aaea80"></p>
+</td>
+<td id="b-a8f097d196ec48898e415724a29ee229">
+<p id="b-f2f0af675d7c4532ba910c12c7b4e397"></p>
+</td>
+<td id="b-badbd15e10ab4f97b4984e527002c281">
+<p id="b-54ee091a87bc4cde98323ce6fa39d994"></p>
+</td>
+</tr>
+<tr id="b-374ee870d1e541739346dc4c2a8c691f">
+<td id="b-1bc0cd77c1d348b29373540d1989a19f">
+<p id="b-e79b9d9327c14b6ab3538c1a82eeadb4">（二）攻击党政宪</p>
+</td>
+<td id="b-4b2ead183ca542ffa7af8b7199f58950">
+<p id="b-78db6f94e0e4466f86bd364851922230"></p>
+</td>
+<td id="b-5861fe72456441269590de2afd73f6a3">
+<p id="b-13db78130b57470998adca3c9fbb0cfa"></p>
+</td>
+<td id="b-6b8f24256ba747a880aa1a8b34f1efa7">
+<p id="b-00fed4e48d30423b8bdd733d66018c97"></p>
+</td>
+<td id="b-5c8a42958a844d028cc274dff7cd9107">
+<p id="b-e23b5b882ca0416ca0a0a6c9432a6aa9"></p>
+</td>
+<td id="b-98e893365c6c4c65916c403786c5c82d">
+<p id="b-8e054dab4f3b430a8e2afb45b8bbe2fc"></p>
+</td>
+</tr>
+<tr id="b-f425c39bdea5486d8066ff0530ebb785">
+<td id="b-f41d68cff0194a8db9d4e2bc730c1e62" style="vertical-align:top">
+<p id="b-ad4931d068b64ea1b2144a9ab319935d">（三）社会负面</p>
+</td>
+<td id="b-4d68c2b9e4ec4476aaa727a662dbace0" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-8746bc7121a34aa2890a342aed2a9ef8" style="text-align:center"></p>
+</td>
+<td id="b-b70db8a5a4054c87ab4d5357b67468fd">
+<p id="b-878e5424ce804feab92066ea30588a57"></p>
+</td>
+<td id="b-182bf0cbb34648ed8dabe65690e6a5c4">
+<p id="b-80c4ee86d6a549d6b4ad7629ee995c9d"></p>
+</td>
+<td id="b-8851fffffcd04b5e8aeeab136ffe9c16">
+<p id="b-3add89b8a35343c2bbcd54dfde4868b6"></p>
+</td>
+<td id="b-f62f948b40334273831f6534b6b99735">
+<p id="b-42c80d376a374de3a7234849e18bd9f4"></p>
+</td>
+</tr>
+<tr id="b-e162e21d30d0487aae80c0beae1bc1d8">
+<td id="b-db6602df9238424dbeb38b83bedb7690">
+<p id="b-f9b02afbfba84eb98c46f86d4fc376b6">（四）政府机构及人员</p>
+</td>
+<td id="b-080c37b8a2ab4ac29e5ee8a19694bd50">
+<p id="b-12bf5e0ea6904ea8a2133d0a7752a79d"></p>
+</td>
+<td id="b-56cea9aa1e214e5dbbac3bd0e295334b">
+<p id="b-483c641a55664b9ebbe1a277e43c2b18"></p>
+</td>
+<td id="b-52c47848a6234450992fd78a3e9391bd">
+<p id="b-aefc0d4d5c3648ae91e7c42cd2285f46"></p>
+</td>
+<td id="b-8b8106201fee45448525b64203b358ee">
+<p id="b-c03cc0f79a3b42d89b85e6a0e2bab023"></p>
+</td>
+<td id="b-13731173e28b4d36bc3aecf8fd4b71e2">
+<p id="b-c4dca0c2fb2a499fa84453b03fb0963d"></p>
+</td>
+</tr>
+<tr id="b-840a89e7a64e405ea4e7d925cbc9063c">
+<td rowspan="4" id="b-754d5f0c3888449aa90a42840726e1ab" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<h2 id="b-9563abcaf38a436ca854f8be8a3bbe3a"><span style="color:rgb(0, 0, 0)">五、历史虚无</span></h2>
+</td>
+<td rowspan="2" id="b-42ffbeb5cd554514860144b15957ef9b" style="vertical-align:top">
+<p id="b-31871438a3ec4b5ea80da513368883eb">（一）歪曲中国近现代史</p>
+</td>
+<td id="b-ffe025b4f51b4f5a963b722ee2d4eda9" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-9ba468fb5ca844eca61723b83ba84c0f" style="text-align:center">美化侵略</p>
+</td>
+<td rowspan="4" id="b-d652f9f6c81a4be782b4a0f686a82303" style="vertical-align:top">
+<p id="b-8174a4f9c9ee47c29e9e7e3140e5956f"><a href="../1625262121/README.md" title="学城原文：https://km.sankuai.com/collabpage/1625262121；已保存正文" id="b-a58819679be147968a1ae536b5b46b1a">历史虚无主义审核标准</a></p>
+</td>
+<td id="b-577ff93760a54678becd31ce260cb92d">
+<p id="b-3fb068b1822f4d49a90ee3560ccbb6d7"></p>
+</td>
+<td id="b-a2e6961268d74d2f87af021d008aa938">
+<p id="b-f0d809d551e64e27843c423ae784185a"></p>
+</td>
+<td id="b-558d8ae9ef6543d59a2e2a93f954ed92">
+<p id="b-81711638fba24708990fcdaab2b9ee19"></p>
+</td>
+<td id="b-874a020ce27d420a96fd100def3d00a6">
+<p id="b-57945994860549beb485296bfbf96565"></p>
+</td>
+</tr>
+<tr id="b-463ab8483e8041b7b86b4ffc9f086e90">
+<td id="b-c396f3eb079f427598545b77b4be4cca">
+<p id="b-44d53970c4864376964396395abcb266" style="text-align:center">新中国成就负面</p>
+</td>
+<td id="b-4a45d35fba7c4190b2374d7048caffaa">
+<p id="b-22345e24630244399d76599f234b161c"></p>
+</td>
+<td id="b-136f0dc6ca8146999e0124c6c006f0f3">
+<p id="b-64c0152912954e5ea9cd20386daa837b"></p>
+</td>
+<td id="b-7562c0b42b834a18a2a0b94c925027b9">
+<p id="b-a89a412fcd524955bb1c2641a93a7c73"></p>
+</td>
+<td id="b-a3e60256fe804dbb8cab594659464e4a">
+<p id="b-7da207ad8e8a4f419b122aa4ab5b2506"></p>
+</td>
+</tr>
+<tr id="b-264d4535cdfa47fdbf14e9396a76be18">
+<td rowspan="2" id="b-e930e16ba4a646c88a4dec5f2c98ff86" style="vertical-align:top">
+<p id="b-346e8e57af3444a5bd5fdb9aaa0f5c30">（二）涉马列与政府负面</p>
+</td>
+<td id="b-b8f54ddf95164d1799bf359783deb969" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-c0a5d2d2c9ef456296da36269c2b4ce4" style="text-align:center">马克思主义负面</p>
+</td>
+<td id="b-3a59c47c88da4892875c9cefb29d515d">
+<p id="b-61b22ad859a64542994bfc2627aa34ba"></p>
+</td>
+<td id="b-db8a29ff035a45fc80a8027c2f756b17">
+<p id="b-47511a0bf4804f76a01e365bb7de7347"></p>
+</td>
+<td id="b-482e01aa6bc4437aba5790aa1c054005">
+<p id="b-36e77a4af0ab4934beef1fc776cae0f5"></p>
+</td>
+<td id="b-dc40873ba4e841e0b49c2a5b75a39210">
+<p id="b-0db62fb1ba7e46e8b514fc03ca78c0ed"></p>
+</td>
+</tr>
+<tr id="b-36038ba9dd914b11b6607b21164ff8ea">
+<td id="b-ffc23d9028504555a562967afd93c917">
+<p id="b-94b0f89af6d448fea3b3dabaf801c72e" style="text-align:center">高级黑低级红</p>
+</td>
+<td id="b-bc85b98e26b34cdb8a2b7db8a9e8461d">
+<p id="b-8a1a70088a4f40d89c7287ee4fc87f71"></p>
+</td>
+<td id="b-b1809a32df7d4fb1baedf28191fea556">
+<p id="b-7a65f4aaa4234170be24c47094967723"></p>
+</td>
+<td id="b-ad5f90ccd7d144829e98e9b1fa2a6f6f">
+<p id="b-b97a9097069e431c8af9c3857984637a"></p>
+</td>
+<td id="b-2a54c2cbfa3e435f9db7f8c404bd4c5b">
+<p id="b-9658d5367fe74ed6a382625cdc29eb98"></p>
+</td>
+</tr>
+<tr id="b-94868c6a714943f6980a7c2ac251bbe5">
+<td rowspan="4" id="b-cdbb4eac8d104197b05d5f06f3ca4ba6" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<h2 id="b-cb1d893779ad42ec9c706a7c894a9d54"><span style="color:rgb(0, 0, 0)">六、反动分裂</span></h2>
+</td>
+<td id="b-4497c9ba464849ba89e4485a4f7947a7" style="vertical-align:top">
+<p id="b-4d291829e60d49ea8112c3161d0299f4">（一）反动分裂组织</p>
+</td>
+<td id="b-5611af08c7404a438593f15ab90e113e" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-d27a4bbd637442798a0e70aff0402b1c" style="text-align:center"></p>
+</td>
+<td rowspan="4" id="b-d9b81acab61b44b6aa88e26c7458f085" style="vertical-align:top">
+<p id="b-40bbc93c9388441088b584f11ea0f29b"><a href="../1625559625/README.md" title="学城原文：https://km.sankuai.com/collabpage/1625559625；已保存正文" id="b-a30fb07ffef748ccb80f8b48aec59838">反动分裂审核标准</a></p>
+</td>
+<td id="b-9e6ef91006f64798a1070027ff9ebe50">
+<p id="b-5763d58188a14190903fa846eadd9981"></p>
+</td>
+<td id="b-4e99e4d3992449e089c6e1dc46a37ba1">
+<p id="b-d243a8fdf9ba4eddb54a12a1d339c413"></p>
+</td>
+<td id="b-ba18bec041f04225bbbee0b90d07884b">
+<p id="b-b7df606790324b098e2c4f21957a5408"></p>
+</td>
+<td id="b-9ef1423dc54b422cbf265eaa2273fd2e">
+<p id="b-246e2ef7ede54d1191422a612424f4eb"></p>
+</td>
+</tr>
+<tr id="b-352c47d25294468ea68be23427595804">
+<td id="b-8e4be8549931461da758e98a9e254d78" style="vertical-align:top">
+<p id="b-53d7494b99e94d52a6029f20694e00e0">（二）国家分裂</p>
+</td>
+<td id="b-0bc60162ea534b16a4a43d02c186684d" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-bb1eb456eb6741fe9192119beb6f1bbe" style="text-align:center"></p>
+</td>
+<td id="b-f98e9a82a4a7447399a15e63b6238ded" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-3aea64475a3b444cafdb20e06916bf89" style="text-align:start"><span style="font-size:14px">港独事件专项审核标准</span></p>
+</td>
+<td id="b-2e69aed2c8594cb2827bafb4dabad1ec" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-25bf2136f8ce40fb83126d5e6f897b57" style="text-align:start"><a href="../227441053/README.md" title="学城原文：https://km.sankuai.com/page/227441053；无权限" id="b-be84ddaf99054f908f6e127a84dc13a8">【涉港独专题】</a></p>
+<p id="b-268fe9e1b24f41fe9b07b44ae934ae1c" style="text-align:start"><u><a href="../1348371312/README.md" title="学城原文：https://km.sankuai.com/collabpage/1348371312；已保存正文" id="b-0f09604d3982405d9b8cf2b7a30e527b">涉政营销专项标准（持续迭代中）</a></u></p>
+</td>
+<td id="b-95adde145ddb4d6a8c7394f6f3abaef5">
+<p id="b-e25ff0e3e49840f5a634b7d15b30d82d"></p>
+</td>
+<td id="b-02f90165f5e740a9a3c7200ba4f14589">
+<p id="b-2d3eb615dca346f699b1f170009524c9"></p>
+</td>
+</tr>
+<tr id="b-e391d76b8ef74b6b90e09f16a6eeb8c6">
+<td id="b-b21e6e56070f4e5988b21a6d364b71de" style="vertical-align:top">
+<p id="b-bdd942c66bba4e8389f9f63e36d1c921">（三）分裂人物</p>
+</td>
+<td id="b-eea546577ba54bf9836e521cbb97208b" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-777a279bcd3843a48c8e982b800f9bf7" style="text-align:center"></p>
+</td>
+<td id="b-f56d729cdb444f2598b9830b4ee0b0d8">
+<p id="b-d9aa13ea0f4c45aa99060c548b2320e2"></p>
+</td>
+<td id="b-7bfa5d3119a74f33b91d6c06adbb4143">
+<p id="b-ef229358763e4b3da6cd79f02bfd8d7f"></p>
+</td>
+<td id="b-b7d3eb09cd864e459761bd0342f5b808">
+<p id="b-7546559a66dd41aeade28bee16b7ac2e"></p>
+</td>
+<td id="b-7d71243ab53041a4a7093773cbc527c2">
+<p id="b-64ba5b3c640e428ba522d1af7e630a45"></p>
+</td>
+</tr>
+<tr id="b-99ee4616dfd64364b568b5e699b16afc">
+<td id="b-b9acdcccfa544ebaa45054f2aeb2f8e4" style="vertical-align:top">
+<p id="b-80da7ad6a8b248df9a76da17db854e43">（四）分裂元素</p>
+</td>
+<td id="b-5ca8dbeb20fd4447b3aeaa8ef0ea19c5" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-d293d01d8e5d4f20b7fc75b1142eca9f" style="text-align:center"></p>
+</td>
+<td id="b-7a597d8014104aa2af5807b9056c3437">
+<p id="b-8745927d9f974126afc98eeb0579742b"></p>
+</td>
+<td id="b-d08511c76d434b368d4034849c2e8952">
+<p id="b-8e967d6ff49747bf86f7b57cff225162"></p>
+</td>
+<td id="b-33a8582701bf4f7a9986b526cc715d4f">
+<p id="b-5f5cc0f9d9fd4fbd864ee81b1bc939a5"></p>
+</td>
+<td id="b-3a831530b8884652a6b2d2ca12f94688">
+<p id="b-aa3ee7497a064e0dacb374cf28fd3aa4"></p>
+</td>
+</tr>
+<tr id="b-312540be2db04e459dd2b0b9ebaff2c0">
+<td rowspan="6" id="b-2473b95383614f6298f70b84cc0ddeca" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<h2 id="b-31a9ccba01724cc3a95356d058b5796b"><span style="color:rgb(0, 0, 0)">七、社会事件</span></h2>
+</td>
+<td id="b-4177f15db36f49299c6a40aa2201a454" style="vertical-align:top">
+<p id="b-91297d0c55e94b1fa607bf3b1d218efe">（一）社会敏感事件</p>
+</td>
+<td id="b-831ec52e7f0543638ccf7a81efb9126d" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-57d5faea7c9d45aa93a72154c1d47b7a" style="text-align:center"></p>
+</td>
+<td rowspan="4" id="b-874dd5bf594145ffb2b69685656012bb" style="vertical-align:top">
+<p id="b-a32e81d6ea4747f7ab3736e6d47fef73"><a href="../1625845476/README.md" title="学城原文：https://km.sankuai.com/collabpage/1625845476；已保存正文" id="b-5aa9471e7fb2437d92ea2b87e1c319ef">社会事件审核标准</a></p>
+</td>
+<td id="b-5054d7a169c64f93be2a6ebc5f27fbc8">
+<p id="b-560889858d9941e4b3a304bdd91392b0"></p>
+</td>
+<td id="b-570d25aba3d449559e92dfc74863a35b">
+<p id="b-6060903ce656483eaec51c1e5887c9e6"></p>
+</td>
+<td id="b-fbc42bfc5fb74f72ae9b806bbd3e9424">
+<p id="b-59b26f4fe0894ed89806e2c1d1535c14"></p>
+</td>
+<td id="b-aafa22e0ce6c4c64921471e8f8e75bd1">
+<p id="b-4b5095bddf004a26a8732d3e288cfa87"></p>
+</td>
+</tr>
+<tr id="b-0dfb4fdf3a274e508b6256d6e8fe6efd">
+<td id="b-5f9b584377ff4b21babae2f5390234bd" style="vertical-align:top">
+<p id="b-80dbe4bf82c1415791b4cb688d521412">（二）535</p>
+</td>
+<td id="b-5916252f82d24a4f928cba21cd052968" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-82fdb5f54ea6474ba8a10a194041de67" style="text-align:center"></p>
+</td>
+<td id="b-9ea79e83871047a9926e241d76a137a6" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-d8499afa3eb14375b78706137dc579a5" style="text-align:start"><span style="font-size:14px">六四相关推荐菜价格标准</span></p>
+</td>
+<td id="b-fae260f4869441209b9a3fbffc42cd9c" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-c875ab7954b244ac864dee55d4316d5d" style="text-align:start"><a href="../1069806961/README.md" title="学城原文：https://km.sankuai.com/page/1069806961；无权限" id="b-90e84777cc014a3b9307193bb0078532">推荐菜价格审核标准</a></p>
+</td>
+<td id="b-c569e588e39a4492a4c20113e66c309b">
+<p id="b-57ceeac8b4ce4937869fe668249ac485"></p>
+</td>
+<td id="b-42c7a40fe0014eeebd6e10552c5564df">
+<p id="b-dd96df38e34648588c75c0cc11c0634b"></p>
+</td>
+</tr>
+<tr id="b-2ab38a4088e44841beb91e5426a2f309">
+<td id="b-995164aa65614070b5c03edc34915cbb" style="vertical-align:top">
+<p id="b-d708a1b2cec240d1a4cc6f6f33600dc1">（三）535期间专用</p>
+</td>
+<td id="b-df57e153cb6d409c82df82c2ee4651e0" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-d3787640f0594dc0b23cc9cdb2bfb23d" style="text-align:center"></p>
+</td>
+<td id="b-14a4d89777ec48c0b1481ca2ab023913">
+<p id="b-e0f65011d54b4a1eb3749fd2f195672a"></p>
+</td>
+<td id="b-c9d03387095d4845954b834f7e1d02b6">
+<p id="b-ab4d8110a3b843c98a9470ad58b55d01"></p>
+</td>
+<td id="b-064be229c51e4a2084dd5343c2efba67">
+<p id="b-9d0d7d1f27e84d29975b2101804ceaba"></p>
+</td>
+<td id="b-891c412be80147e5875beb7f8f3019cb">
+<p id="b-30b151261cbb4f24a101e77220f7b332"></p>
+</td>
+</tr>
+<tr id="b-54b54ed72a2f4863bcfc7462dcdc3f77">
+<td id="b-73c42a9e4a21466d9fefc38daf908a35" style="vertical-align:top">
+<p id="b-94e86554455a42ceaa44cf85600e1e23"><blockquote>（四）</blockquote>重大国家活动负面</p>
+</td>
+<td id="b-94c41b1927844224bb7e473749aed25b">
+<p id="b-362a578df9f645079de1f1c2b535c53b"></p>
+</td>
+<td id="b-5935b776956342deb10b5b502e825ea3">
+<p id="b-1460602ae0074e5fb469101b8c955296"></p>
+</td>
+<td id="b-bb1027a0e7d442c5b6ac2f0819da071d">
+<p id="b-a6ce6b659c9d437da4444badc57cb53b"></p>
+</td>
+<td id="b-d93eeb54db234dfe9495a8e157536477">
+<p id="b-b882f24fa5ed4828968e3d4c823317d5"></p>
+</td>
+<td id="b-f9d4781e7d00454d9264d41dad6b5b20">
+<p id="b-ea7230cd9dfc4c79810da07998102b1c"></p>
+</td>
+</tr>
+<tr id="b-421d9a56a85641e0b70fb099797f3da3">
+<td id="b-065a1d1e20c9460eaae497df072b4495">
+<p id="b-c5554b5edd4544a3a5df678218d30542">（五）重大国家活动正面</p>
+</td>
+<td id="b-145b21a77b4b40148a021c9c80a92b1b">
+<p id="b-7c61cd53917c4177b8adb9026f309f6e"></p>
+</td>
+<td id="b-22e1782b82ce416a87a2078d7d2af3df">
+<p id="b-d1c23a59f69840b7b2f89399f8aaa0fc"></p>
+</td>
+<td id="b-a2daeabaccdc4fd287ecb18e61e6f065">
+<p id="b-317eaec618df48b0b4586e4e6bdca13d"></p>
+</td>
+<td id="b-ee65eabe9ee140349ee819a66c685dc6">
+<p id="b-d241d00962914e2ca7dc0e0c7476b9e1"></p>
+</td>
+<td id="b-420fa294f977439f8cc2307b946efae3">
+<p id="b-b3d9c039a6dd41c29339eee30da71735"></p>
+</td>
+<td id="b-ee22ab4b4b5f45e881b055a5f22ca02b">
+<p id="b-8f7f6b6d20764b5a88cc915eb4289e58"></p>
+</td>
+</tr>
+<tr id="b-f68b286aa12847469ce7021537dff860">
+<td id="b-913cf9ebdf1d41318f473692f07aba7c">
+<p id="b-949bfcbd70234b48b9f2694a576e3e41">（六）敏感商家贺语</p>
+</td>
+<td id="b-9d1c6f489a2d422e95c9a1aceccee92b">
+<p id="b-246684e10d7341848af6e1468ec6d579"></p>
+</td>
+<td id="b-b63ca7f62cd64b61a6331df97b56ec01">
+<p id="b-684521e1096647bea0f5a9e554d782de"></p>
+</td>
+<td id="b-4e9fd3e6213845ba9055e15a3222471a">
+<p id="b-324f907ed8d5405f890a4a55a2d5d722"></p>
+</td>
+<td id="b-a3a4faae9f7646279bb1bc2deb08c82c">
+<p id="b-07db6fe901a54ebdad2ac5f3568ad48a"></p>
+</td>
+<td id="b-c709f321b6e445c5aee4f5e6b24e12cc">
+<p id="b-62780739c6a44e4da7b2452d0c2bb5d1"></p>
+</td>
+<td id="b-62b7e024c94f41f087efea51675db11d">
+<p id="b-40877762e4304f35a42b4bf6eda5ebb5"></p>
+</td>
+</tr>
+<tr id="b-7a9d3d956937444191f72530d5739858">
+<td rowspan="5" id="b-a6ba708230f24b678f87c1aa194a85de" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<h2 id="b-de2ddbb274d54a6596ca99f209c0d2b3"><span style="color:rgb(0, 0, 0)">八、民族宗教违规</span></h2>
+</td>
+<td id="b-c75cc8dbf2f64bb0bb3f85e93ccc23dc" style="vertical-align:top">
+<p id="b-00ac4d50ce044d39990fdf4521ad6896">（一）破坏民族团结</p>
+</td>
+<td id="b-5833e66a4d554629b9196c2e79fe86f3" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-ca60eed06d3e4e96989c139df2288d15" style="text-align:center"></p>
+</td>
+<td rowspan="2" id="b-7c729b46bbd740a0bb4a6a5feee75164" style="vertical-align:top">
+<p id="b-d5be800ac0384e629ede44ead78e571b"><a href="../1625624952/README.md" title="学城原文：https://km.sankuai.com/collabpage/1625624952；已保存正文" id="b-e2185986d5f94486928c5aaf8962b7cf">民族宗教违规审核规则</a></p>
+</td>
+<td id="b-ac63b6ace3694182a619bdec58b4fbf3" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-a20c21470eb1429e8dc9615f59f06d29"></p>
+</td>
+<td id="b-ca678068e93547aca7eae2820c756d96" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-9d9f08244a844bc984bb4a7336491766"></p>
+</td>
+<td id="b-6335f66b200e444e92fcbf5e57ba7e1f">
+<p id="b-244d66440fee4c02ac96bec4349f6222"></p>
+</td>
+<td id="b-3f1977698232422889cacd43db412017">
+<p id="b-7f0b06799a73487eaa95b254123dff37"></p>
+</td>
+</tr>
+<tr id="b-b576eef771f4468e9ed5891f0e3c3941">
+<td id="b-cbd1abb7c5c94064be0c553fb2750fa1" style="vertical-align:top">
+<p id="b-e3e99309357c4aa1884f7ea7489c0da2">（二）违规宗教内容</p>
+</td>
+<td id="b-63bba5c6e37b4a91914a4e528ada0106" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-6572074e39384596a870afb87f934e33"></p>
+</td>
+<td id="b-a1b0ee6c51a942e4ba609d7535c29ec1">
+<p id="b-f89fd779cf4b4cbb9629ebf693d1a60f"></p>
+</td>
+<td id="b-b1ad4ed760e44d64a910c5df7fa173f0">
+<p id="b-400ff754fc6b4af88285297919803d5d"></p>
+</td>
+<td id="b-f1b3c0f8ffa6470282cf67a7a5e57bb2">
+<p id="b-f451eebed655400a802dc7a47a5cf83f"></p>
+</td>
+<td id="b-0d5da1a8d7814a63be3809a300c1ac78">
+<p id="b-da046a4974ad47cc9e287578373c010b"></p>
+</td>
+</tr>
+<tr id="b-e75730ee54334593adb124430a4b5852">
+<td id="b-4c5772389aa24747a1701c4315cd8540">
+<p id="b-0fde145814f848008ab7e2db30e4400f">（三）国外宗教违规</p>
+</td>
+<td id="b-e4829294f1ed4fa9959d04c8b418474c">
+<p id="b-d300d7bedb854a88a99f6bdca255937a"></p>
+</td>
+<td id="b-f69e19616a334c8cbb664704518bffb0">
+<p id="b-49ecb1951db142628f693ca5b021e064"></p>
+</td>
+<td id="b-310cdb9604ec4f99807c604938b53da5">
+<p id="b-4fee9aea3de44c569892a86c4854d840"></p>
+</td>
+<td id="b-e15e706efdd3423cacb5a59dacc46f2b">
+<p id="b-5df58d6ad9b64f588b3878d939603a72"></p>
+</td>
+<td id="b-dbb3a28f19094fdea37fa547198e2408">
+<p id="b-caa2c3e35f9443d4b7e16c699b0138c4"></p>
+</td>
+<td id="b-94fb6809d2df4c68bec86428ba11f660">
+<p id="b-4a28676f46534c51b531d5988a68113c"></p>
+</td>
+</tr>
+<tr id="b-1a78e588edf94f2181875dfee60087c4">
+<td id="b-c48442f80e7a49b4bb1671be260226f0">
+<p id="b-914022067e7a4f4db30c993779fca171">（四）宗教商品</p>
+</td>
+<td id="b-e7924eed005746ae9c30e88562862e1f">
+<p id="b-afd24c37a92f46399226fcd54c587e5d"></p>
+</td>
+<td id="b-381093379c2f48e3b1589b68d9dcb435">
+<p id="b-419d9f9bb702498c831263801da9edd9"></p>
+</td>
+<td id="b-8686776e074f42fa8a4c4dbed3c17667">
+<p id="b-65b891690ce147918b4e4315bab936cc"></p>
+</td>
+<td id="b-e1b40dd84f3e4c7caa7a87273c4a8ec9">
+<p id="b-b0c4b0448d7f4668afb8bf3a3f5ae544"></p>
+</td>
+<td id="b-9c02edf4053a477a92b504fa095e3411">
+<p id="b-166fc0af1fc940dbbfc337410d99ebb2"></p>
+</td>
+<td id="b-a59f55c9295d49e0916d84da0ed92b46">
+<p id="b-1114b2ed5a494ba3b62eb4bc5b82a91e"></p>
+</td>
+</tr>
+<tr id="b-abebd47733fb4b788aaa16217928b6c6">
+<td id="b-4ea306e0b08b4d628c63d6f181e24dd9">
+<p id="b-3d7fb16425b84bc589798ef725bfea35">（五）宗教元素</p>
+</td>
+<td id="b-c60e2e451d66465ca052e1a1cda0b3f9">
+<p id="b-bca79fa418cc4738821cc8cf74447782"></p>
+</td>
+<td id="b-31bc44d208004b7f9b77e514f812758c">
+<p id="b-f5d5bacdbcc44af38b1ab47e6164a53e"></p>
+</td>
+<td id="b-04d944c224584a41bef9be97704fcc77">
+<p id="b-4b7fad810b224178a90ddcf9fa75b833"></p>
+</td>
+<td id="b-f502e603718c48d4aaa4fa4c3d4d3a80">
+<p id="b-994b02808035434f8b4d0037cf7f112e"></p>
+</td>
+<td id="b-ce3546792e794ecaab863e3fc27025a0">
+<p id="b-df02cd7f956e47fc95f86a70486ef52a"></p>
+</td>
+<td id="b-ac8f42888ccc481389f48d64398f50a0">
+<p id="b-ad45d28e4bb742529b28f6d8dbb9ef6e"></p>
+</td>
+</tr>
+<tr id="b-a701ae31611d4ce7bda7adeb0e4e8b51">
+<td rowspan="3" id="b-7025d6662629451a929911ae80479706" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<h2 id="b-921650b1a29b4bd2bd2f815014f77623"><span style="color:rgb(0, 0, 0)">九、邪教迷信</span></h2>
+</td>
+<td id="b-8bfda9a71e114c3695198ff226f8e317" style="vertical-align:top">
+<p id="b-c2a813bc59994f6ea1211009dea5f8de">（一）邪教</p>
+</td>
+<td id="b-19c8c9093384444b9552ea07b5b565e7" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-e55a4ff21f0b4545b9ab624748d92dd0" style="text-align:center"><span style="color:rgb(0, 0, 0)"><span style="font-size:14px">邪教组织、邪教事件、邪教人物、邪教出版物、邪教媒体</span></span></p>
+</td>
+<td rowspan="3" id="b-ffaa1a63e5fb4ca8a9b9ce7ddb34c223" style="vertical-align:top">
+<p id="b-224a006311ed491ea9c3412f9f8569b2"><a href="../1625921575/README.md" title="学城原文：https://km.sankuai.com/collabpage/1625921575；已保存正文" id="b-fd1ebe67b9044fdd8728fead6be2c35f">邪教迷信审核标准</a></p>
+</td>
+<td id="b-944b3a73f47342a3aaf626122a75f2db">
+<p id="b-ad3397f1a18c41ec92befd0e7337fc8c"></p>
+</td>
+<td id="b-33a44c83547e48269d2e6ef761e74732">
+<p id="b-a13610ffa8ec404a8422442e599dd3e9"><a href="../645660874/README.md" title="学城原文：https://km.sankuai.com/page/645660874；已保存正文" id="b-9a7d4e74a87f458396bf608fe746c7b7">用户昵称标准</a><span>、</span><a href="../447399954/README.md" title="学城原文：https://km.sankuai.com/page/447399954；无权限" id="b-a3584c64357e40db91f84e8c21b0f925">用户昵称</a></p>
+</td>
+<td id="b-4c75c0f32d0145688a73ab521e92d7c0" style="background-color:#F4F5F7">
+<p id="b-8e6fa0e129e740918f92dbd43c6e3f3f"><a href="../1668032171/README.md" title="学城原文：https://km.sankuai.com/collabpage/1668032171；已保存正文" id="b-227d8a6cc97d4a099ea3be0c6b073477">B类 「N33-N34」</a></p>
+</td>
+<td id="b-0f2fb94c81b64803bf2a4a5a445d99a7">
+<p id="b-74b37c94c7a74d05a7afbb8a51450444"></p>
+</td>
+</tr>
+<tr id="b-45bba4752a0e49b6a3c2780c8bdb50e3">
+<td id="b-4d3812e640334f10aa10481d04bdab3a" style="vertical-align:top">
+<p id="b-d8288f8e3851486b9537bf8183e8aa5b">（二）迷信</p>
+</td>
+<td id="b-864f040bd8aa4916a8c030f68fa96930" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-a27447cdd99e4018ba534f4d303fb253" style="text-align:center"><span style="color:rgb(0, 0, 0)"><span style="font-size:14px">中式命理、西式占卜</span></span></p>
+</td>
+<td id="b-f45ee2186cd24a699a69d004750d87e4">
+<p id="b-f2ba5f00345a494d85894aa013299ea8"></p>
+</td>
+<td id="b-58d5f29089224277a41d0358c60bc5a1">
+<p id="b-560869ab816d46bdb694a33f0d8ba246"></p>
+</td>
+<td id="b-1ce543b153dc49e096bcdd372f17a8ae">
+<p id="b-0ba4555da36949508dfefdc501f3dd92"></p>
+</td>
+<td id="b-a374d709872d4ccf9f04ded7c33b2c43">
+<p id="b-f44ef2a576704dc4a42fe5aa45ae803f"></p>
+</td>
+</tr>
+<tr id="b-e45376161f63446a9c2cac6f62c83a63">
+<td id="b-9eeeca0400a54d63a3162fb209bc6b86" style="vertical-align:top">
+<p id="b-98762dfb2c4d47cdaf06b426246ef6cd">（三）其他邪教迷信</p>
+</td>
+<td id="b-99eafe1a8334403b87fc7ef290cf0787" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-2651dfe0f923454f9cbd49c51ba43e5b" style="text-align:center"></p>
+</td>
+<td id="b-42ff702503de405d9f29d723abb30cce">
+<p id="b-6764fc5e138341048fe0c14f65314f56"></p>
+</td>
+<td id="b-d75ec5687e784904a67b6831c53601dd">
+<p id="b-8f10a45d5e8641c9af8360d1b6c2a648"></p>
+</td>
+<td id="b-405a3d2974c441eeab160e1aa3f9fcae">
+<p id="b-be2d0f5322d24bcfa164bd21f3e23441"></p>
+</td>
+<td id="b-b351e2ae6c604dee89d3fbd485498669">
+<p id="b-02360f8d2b4244cd88fe6d2e6db28c8e"></p>
+</td>
+</tr>
+<tr id="b-9f402966144f49cc92375a03f7cd21ab">
+<td rowspan="5" id="b-c9cb97e0a5da4968b43f29127a99ee51" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<h2 id="b-96c9516ed4f04a5e976dac05c75608ee"><span style="color:rgb(0, 0, 0)"><blockquote>十、暴恐</blockquote></span>极端<span style="color:rgb(0, 0, 0)">  </span></h2>
+</td>
+<td id="b-1856a8f65d1a42d3a4eb78693a9ca628" style="vertical-align:top">
+<p id="b-6f48ae6817b54bc2a01f54c7bcc9d59b"><blockquote>（一）</blockquote>暴恐事件</p>
+</td>
+<td id="b-eaf5642249a4445f8d40cd25d58b8243" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-c87ce15fa3ed4ffea3e9edb0a78ee133"></p>
+</td>
+<td rowspan="3" id="b-2ae69b74e35b47f7a617069981043534" style="vertical-align:top">
+<p id="b-8f550259fcff4f76891cadd0215a1ea7"><a href="../1625309615/README.md" title="学城原文：https://km.sankuai.com/collabpage/1625309615；已保存正文" id="b-243a5c3947e74bbfb16b92f17a55a8fa">恐怖主义和极端思想审核标准</a></p>
+</td>
+<td id="b-948f7debed7e4e3eb08ed99cad248906" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-065be27a7e7e40fe8253c34dab6146f3" style="text-align:start"><span style="font-size:14px">骑手社区防止聚集活动标准</span></p>
+</td>
+<td id="b-952a49151a1d4759835a910b88a02a55" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-15e07c89b730435f86a115ef9fb9fbb6" style="text-align:start"><a href="../681272360/README.md" title="学城原文：https://km.sankuai.com/page/681272360；无权限" id="b-9f9f2f7e5fc643aebfa63108e90eb440">骑手社区</a></p>
+</td>
+<td id="b-20cd5a85236948fe8c675a40373ba90a">
+<p id="b-4a5f4746474f4d29b7e35f9246285991"></p>
+</td>
+<td id="b-5f69f5e932c14f988e49319b181d3af5">
+<p id="b-a954571f436d4d83b3ad5e41d8aa6575"></p>
+</td>
+</tr>
+<tr id="b-74c6f533bd0d4cffbb43a8811583f453">
+<td id="b-53c93dd292c44f3a8ae64f18789b8209" style="vertical-align:top">
+<p id="b-43fd3443bdc0476db41ac4fd22599066"><blockquote>（二）极端主义</blockquote></p>
+</td>
+<td id="b-0c997f90066a47e1b4f13f7fc28eb46c" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-1df97e28b9a44060ba2596c52e193c6b"></p>
+</td>
+<td id="b-4f0130c7df174e39843bc92bbce428f2">
+<p id="b-6403d844a60749239ea65b01031d79da"></p>
+</td>
+<td id="b-968917a97eae4a1ebe2bda729d6e00d7">
+<p id="b-acf1b61a0b444d1e90eee24d30081d7f"></p>
+</td>
+<td id="b-1cb617d621e54dd3beb6ed34764211b4">
+<p id="b-296621946f264474a185586efa210826"></p>
+</td>
+<td id="b-e06e74bd9b78461e838f2567beaa1a30">
+<p id="b-125bbddbf3854d0e8f4f8c30f74be701"></p>
+</td>
+</tr>
+<tr id="b-f4a2906df86446df840cf4c6bc20f5d9">
+<td id="b-7128e371d3dd4ca1b0d98a47874e9077" style="background-color:#FFF;vertical-align:top">
+<p id="b-97aaa205649b4138b3d209e21d0d6a13"><span style="color:rgb(0, 0, 0)">（三）灾难血腥暴力</span></p>
+</td>
+<td id="b-f51a0fa48bb24dabbaa37072d1529f7e" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-7b0819b6a3314fc08e8b420d562eb988"></p>
+</td>
+<td id="b-d1f838ef123f47e2883d671ad102b696">
+<p id="b-2ea81d7b8fa04a59b2b4c4398c889e38"></p>
+</td>
+<td id="b-f22752c6cb1647ff9cbc27e0668ee06d">
+<p id="b-7a216506b8b7486ebabf0438ef4f41ff"></p>
+</td>
+<td id="b-5a3e16ed38a841ecab8005682c0662dc">
+<p id="b-509c7066bce44e40a6ef558980029b2a"></p>
+</td>
+<td id="b-c93bb704c5e24f7395b4afbafc079aac">
+<p id="b-b17ccf4f61644f82aadbbd08eb0ac1c6"></p>
+</td>
+</tr>
+<tr id="b-a81dcf1ec39046a98314b5579cb3f385">
+<td id="b-0cc7bdd9ba064445864a3841129a42d6">
+<p id="b-aca371f6d33b4a52aad5c0694a239101">（四）恐怖组织识别及美化</p>
+</td>
+<td id="b-1543e5ee41d24ac8a95ad78a87adef43">
+<p id="b-1de2adc82426434693c68fa88f8e66c6"></p>
+</td>
+<td id="b-299904344b1647eca299e9bb39755a4d">
+<p id="b-63803736989f4af99c8660d90bdb81a9"></p>
+</td>
+<td id="b-361f5f8ec5dd48949378e8953f3fd841">
+<p id="b-578c75e85488472cb9778008afe0cefe"></p>
+</td>
+<td id="b-16e21dbcd0634d5eb17685fdbab816e5">
+<p id="b-4808c3bfd4c64210a82d7538ea749f08"></p>
+</td>
+<td id="b-9b24199ca6654a379588b69d3f4df809">
+<p id="b-6f74d759a35b4b539c5328f8b3f377fb"></p>
+</td>
+<td id="b-36693455ecf34031936d08df1d916f5b">
+<p id="b-2b1c4eb7b2df4e4e86eec00b99b959bf"></p>
+</td>
+</tr>
+<tr id="b-80e4de1a0f984671a98b941563bfd823">
+<td id="b-34f20064084f4e96abfc06e6926a965a">
+<p id="b-e7055bf9290d411882244177e1885076">（五）纳粹标志</p>
+</td>
+<td id="b-304a919de5b441cba7caa3d6c7fddc0f">
+<p id="b-ba99f4026f25426591ce1f2fb09f1dca"></p>
+</td>
+<td id="b-828426298cfa4b05a27b43e6e7c83573">
+<p id="b-614a6fa6e8ad45b4b5a6d810eae1e17e"></p>
+</td>
+<td id="b-595cd5c9b1564809893b1e1ba7abcfae">
+<p id="b-d67f72ff896d41db83622b90d2017a2e"></p>
+</td>
+<td id="b-1e41100a3563427c973a3940dd8ad773">
+<p id="b-f818ef02042644c3899983bbf9d2291e"></p>
+</td>
+<td id="b-a467c1c10a314654a3383719e8d77c3f">
+<p id="b-5f2b620875d546339e5eb1cdef21cbf2"></p>
+</td>
+<td id="b-711ff769654e4180968ad061b625f23b">
+<p id="b-0d87c9a51835449fb9a7d52ae02bafad"></p>
+</td>
+</tr>
+<tr id="b-8bcb90c694a04a10b60bd576d3cec512">
+<td rowspan="6" id="b-8e3b580b0438488ab4dc7eaf8c2cca18" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<h2 id="b-7d3c027265b8407ebc95f02755d55333"><span style="color:rgb(0, 0, 0)">十一、色情</span></h2>
+</td>
+<td id="b-18161ac922884f1d91458f4519b291ce" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-cdb6b588c7ef4cd8bf8ffbf63128e7b0"><span style="color:rgb(0, 0, 0)">（一）重度性行为</span></p>
+</td>
+<td id="b-e35b283cd251463c8cf932d0c21a5024" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-c9245548bfe64a1eb5c7290338c656c1" style="text-align:center"><span style="color:rgb(0, 0, 0)"><span style="font-size:14px">性器官、性行为、</span></span><blockquote>其他性癖</blockquote>、<span style="color:rgb(0, 0, 0)"><span style="font-size:14px">裸体露点、色情偷拍</span></span></p>
+</td>
+<td rowspan="6" id="b-ae676b37f382477f82507398c9efb03f" style="vertical-align:top">
+<p id="b-61bbf8a5eb514d7faff7f9c869bec91b"><a href="../1625446939/README.md" title="学城原文：https://km.sankuai.com/collabpage/1625446939；已保存正文" id="b-852082f4a12e441c99af2da169b27a47">色情类审核标准</a></p>
+</td>
+<td rowspan="6" id="b-63892603d36040d3bca6947cb4fc1891" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-73e34d97bda04bc0b97c41dad35782bf" style="text-align:start"><span style="font-size:14px"><blockquote>到综高危类目标准</blockquote></span></p>
+</td>
+<td rowspan="6" id="b-12606e28ad0c49528bc55b20bfa8710e" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-87f54ea88194448bbbe344474cec16a4" style="text-align:start"><blockquote><a href="../1646837733/README.md" title="学城原文：https://km.sankuai.com/collabpage/1646837733；已保存正文" id="b-e76287a10ff84e9288c86b3ba02f1ea7"><blockquote>https://km.sankuai.com/collabpage/1646837733</blockquote></a></blockquote></p>
+<p id="b-28f87f14ef8044ee8bc62a625055c04a"><a href="../1680237627/README.md" title="学城原文：https://km.sankuai.com/collabpage/1680237627；无权限" id="b-8426ea48a39e40f68735310f45639cad">到综高危类目审核标准</a></p>
+</td>
+<td rowspan="6" id="b-012073af426a44fbb8713ed0e278ee66" style="background-color:#F4F5F7">
+<p id="b-e91723d3b68740ef99b4ee17af8aa65d"><a href="../1668032171/README.md" title="学城原文：https://km.sankuai.com/collabpage/1668032171；已保存正文" id="b-930d71b64940474daead0fc6ee27a392">B类 「N42-N45」</a></p>
+</td>
+<td id="b-5d9ea3d968cb4d868df1d52e78e80677">
+<p id="b-746fc75c412548db9753e3a2ef42a8c4"></p>
+</td>
+</tr>
+<tr id="b-238913d703e3467fb3c988bbd342e9fa">
+<td rowspan="4" id="b-84bace2a4831447c838adf51e2a4b93a" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-3d72d02a0dcc41a98aa0436b8b91e796"><span style="color:rgb(0, 0, 0)">（二）明确性交易</span></p>
+</td>
+<td rowspan="4" id="b-29e0f9c517044dfab8ce0fbb80a7c687" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-cfb312476cef426d8c290335f2634c3b" style="text-align:center"><span style="color:rgb(0, 0, 0)">性服务、色情导流、</span><span style="color:rgb(0, 0, 0)"><span style="font-size:14px">资源共享&amp;销售</span></span></p>
+</td>
+<td id="b-f4b74140c9b74f65acbd8c2c4622f390">
+<p id="b-51bfcf4a6bd54a3f85d85644c01f7940"></p>
+</td>
+</tr>
+<tr id="b-f1f1e3d1a1fe450886c0db2574783181">
+<td id="b-a03b1eb90128496e986d67b463119834">
+<p id="b-0d7a8ad0cac64c89882c79047d453a20"></p>
+</td>
+</tr>
+<tr id="b-e6060000f5c54ae082b1f56f8fb1452d">
+<td id="b-fd54a47983b44b19b7cc8e4eda03beb7" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-6c6e4a2b8cd146e98e0c7a3ed5616b92" style="text-align:start"></p>
+</td>
+</tr>
+<tr id="b-4037de5b77de47dc9b3168ac20934b16">
+<td id="b-e56f37061c244507915e557bfdfd2012" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-04251aeb4e864025acca71dc0cafba28"></p>
+</td>
+</tr>
+<tr id="b-bed5bbb7d5484f9fa91a2454ed07a25b">
+<td id="b-934ce5644b394c189a913a78788e208f" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-2eee24af28624abc9ce5ef3956c78fa1"><span style="color:rgb(0, 0, 0)">（三）轻度性行为</span></p>
+</td>
+<td id="b-1c3dcd8bd487476a889302fcc6e01ecf" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-b1ab075a5fa54d7ba6f21270e9269d76" style="text-align:center"></p>
+</td>
+<td id="b-a1265e9208144d448bd5fed3e9049eb0">
+<p id="b-d98cdda2b6bf4fb29453e46bf9ac15a2"></p>
+</td>
+</tr>
+<tr id="b-3dc862e139714baf90ab2dd67b897ccc">
+<td rowspan="5" id="b-414e2d4e52da4175a39f87bb5c8a887a" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<h2 id="b-6e3db8d42982457da691ed7a249f448f"><span style="color:rgb(0, 0, 0)">十二、未成年人违规</span></h2>
+</td>
+<td id="b-38f8ddf576d94ef9b19f5b9ff0ec173d" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-a0ff506a3c964bc0a2b0ac0aa3fddb3f"><span style="color:rgb(0, 0, 0)">（一）未成年人非主流性向</span></p>
+</td>
+<td id="b-5dbe59f71e8f4c44968affcf0ae71ffa" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-dfe4314f216641ca879d035ca83f8cf4"></p>
+</td>
+<td rowspan="5" id="b-6759147c313347dbb99ea05406776b7a" style="vertical-align:top">
+<p id="b-b0a37780c43344c68cfc256874c4da13"><a href="../1625783291/README.md" title="学城原文：https://km.sankuai.com/collabpage/1625783291；已保存正文" id="b-6cd0a30e915b4b2cb8d056d7e98116ae">未成年人违规管控规则</a></p>
+</td>
+<td id="b-61206bb014df453ba41366e25eca3cc3">
+<p id="b-762f26a8c08b48baa8db3bc76b5d9f7d"></p>
+</td>
+<td id="b-c940e96b7dce40fabe6911bcdf5c9337">
+<p id="b-3a4bb3ed2e684384a7887547c6bae130"></p>
+</td>
+<td id="b-e399422e31624ba5a8b2eef629e45ef2">
+<p id="b-533d0a579b404c7890b1098a664e8a6a"></p>
+</td>
+<td id="b-426dfa3845de4c1290467cbcc364362a">
+<p id="b-313bf64871d449fe969d87843d976dd8"></p>
+</td>
+</tr>
+<tr id="b-3db80183cb69474b8b8452cf3979e1c5">
+<td id="b-d0d54e687c4c4c769bbf7f9c4eabd704" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-3526aaca0f8546c28e99288de23dfb4c"><span style="color:rgb(0, 0, 0)">（二）</span>未成年人涉暴力</p>
+</td>
+<td id="b-3f634ba3ffa241bd9c692d0782171262" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-e86c7319e1cc45e79642a0e80c06b4f0"></p>
+</td>
+<td id="b-20d690b7779a452eb702f1a6896392c6">
+<p id="b-07e6b52aff8b4f4785788988516dfab9"></p>
+</td>
+<td id="b-0def342a9ae8460e856d897567f984bc">
+<p id="b-9b8e46a6779f421d85a0b797c24da5eb"></p>
+</td>
+<td id="b-e604a733e1f64c819c29c20169ad67c0">
+<p id="b-12b7c9f448ea4ad599ed1ea223fe710e"></p>
+</td>
+<td id="b-d045a188d3b04339914d0d9ead73999b">
+<p id="b-9b28bbf796464694884370b7db1231c1"></p>
+</td>
+</tr>
+<tr id="b-7a093a0a00bb4ae1a100b5919aec67c2">
+<td id="b-5210c0477a3c40359b73452953339975" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-38c8cc64dc92404881ff33461d6d8889"><span style="color:rgb(0, 0, 0)"><del>（三）未成年涉正邪教</del></span></p>
+</td>
+<td id="b-013aeaa63d4d4935b574f5f579bdc5e2" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-ccfefeb58c684a36ba476527d4491ff3"></p>
+</td>
+<td id="b-ff4aefc01b214e22875246d239c6f91c">
+<p id="b-6525f84ce2954410b0d6f94065439b34"></p>
+</td>
+<td id="b-2777aa2ff262482793294b0cd0803dd0">
+<p id="b-51f82d870d424233ba434cdabef510a5"></p>
+</td>
+<td id="b-9daee04eff6a47c3b179e74b734c87e5">
+<p id="b-df73e3536bd74dc0872482a881abe71b"></p>
+</td>
+<td id="b-5c02a8a96a024adeade87508dbc82b03">
+<p id="b-c5aee319c6844b4bbf08b4f936178b18"></p>
+</td>
+</tr>
+<tr id="b-08cd1379fab642e7bb03fceb22efd202">
+<td id="b-5f91b4b7e838446094cf3520bc4ffc01" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-0000b67c8c45492586e7e649148ba4da"><span style="color:rgb(0, 0, 0)"><del>（四）未成年直播</del></span></p>
+</td>
+<td id="b-ba8dbec5bb124eb1931525785ac1be6f" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-cd57cebdcbd84133bac04d12abafd5cb"></p>
+</td>
+<td id="b-5072ca8fffb4455d8c9960c514146996">
+<p id="b-669264d96c0845579b60aae901df8864"></p>
+</td>
+<td id="b-e44fc30b56f84a2fa66b7e605ca2b090">
+<p id="b-cc72a3815a3b4fb39e743cbb7d4388ee"></p>
+</td>
+<td id="b-63dbbdf747e64bd488e30daa9b7850fc">
+<p id="b-1df3603fd09a4b38a6029ec5be9e271b"></p>
+</td>
+<td id="b-2ddcb079408646f3b451af0394a18095">
+<p id="b-33778e23434d418fb5b89a86cd412396"></p>
+</td>
+</tr>
+<tr id="b-4027e632b1c74d55a27309e7f1abd081">
+<td id="b-a477e5a8ce1341c39043c7dae2ca486d" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-d627fe98e8a841c9a10319a04c67e341"><span style="color:rgb(0, 0, 0)"><del>（五）其他未成年不良</del></span></p>
+</td>
+<td id="b-f1e5bea59323421885a46f57c9928667" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-c4d2b6a83c8e4a7c97e70abdb1b59834"></p>
+</td>
+<td id="b-d815ca4e36264184ac7a4e9d2cc51743">
+<p id="b-9e9f1bc76ebd4af5b97d1482e23841f5"></p>
+</td>
+<td id="b-1898fc53974c4d5b87951a4ddc314d81">
+<p id="b-ebd6e2d4254741bda28eba064bb3d1b1"></p>
+</td>
+<td id="b-b1bea196bfc8421fb85f2599760ecd32">
+<p id="b-d81560fa578a4f53b6ee86508221ad82"></p>
+</td>
+<td id="b-5b407a67a5ca421ea8664d260c8d14ae">
+<p id="b-b387ffdbd8984d73aea8106cc98fb24f"></p>
+</td>
+</tr>
+<tr id="b-41a9a54baeeb428c8def66de61fafe02">
+<td rowspan="2" id="b-2ffd55fb7d6642788f4dc538f1a2fd9b">
+<h2 id="b-0d789778bd894ca699105a93264f3f77"><blockquote>十三、违反政策法律的商品信息</blockquote></h2>
+</td>
+<td id="b-d9040b5be1ba4e25bbce00c7a28909c0">
+<p id="b-b12c1dfd2b094411b815ad384a21aa2d"><span style="color:rgb(0, 0, 0)">（一）</span>毒品、成瘾性药物</p>
+</td>
+<td id="b-13a00bcae4c94965b2d958396c552ed9">
+<p id="b-93970a81f5af42618eed523bd8740bba"></p>
+</td>
+<td rowspan="2" id="b-fdd3e8f4e6214395a2b97b1b9fe1647e">
+<p id="b-e3e73865631c4e4abecc66c56502da9e"><a href="../1733332918/README.md" title="学城原文：https://km.sankuai.com/collabpage/1733332918?from=citadel_space_tree；已保存正文" id="b-84babd45fe9d47a98cbe4add2cdd821d">https://km.sankuai.com/collabpage/1733332918?from=citadel_space_tree</a></p>
+</td>
+<td id="b-27886b01f90f4827b53d273c2997e84a">
+<p id="b-e31ce84eb47e49809a0683bbe47e0858"></p>
+</td>
+<td id="b-2917e44de1e04445993949e035a6d044">
+<p id="b-9d430f4d80c5472f8073043eeab8dda9"></p>
+</td>
+<td id="b-1148dab037d94fce850d200450d321df">
+<p id="b-b772654f6c5a409989f64fb1a71b0c26"></p>
+</td>
+<td id="b-be8501e206c2475082c6044c2426729f">
+<p id="b-f5f200415d744914a6481cfe0e72c44d"></p>
+</td>
+</tr>
+<tr id="b-2bf736987e3f416b92c137da240b41eb">
+<td id="b-9b8272507950465b8ac27da24a6773ad">
+<p id="b-0f76efcfbd0c4843ac0dc3ab99f2509c"><span style="color:rgb(0, 0, 0)">（二）</span>枪支弹药刀具</p>
+</td>
+<td id="b-e063723a1f234dd28e5a782d2edbb8b5">
+<p id="b-b48aa656af5740eeb05a630b2e728b4c"></p>
+</td>
+<td id="b-57caea6396d544ed917e4f892263f8e2">
+<p id="b-646e0fc63a11424a98db29713fc562ca"></p>
+</td>
+<td id="b-0865347d45e8497cae0c374db4cbbf70">
+<p id="b-b10ee7c2241142238e2d3262fa2ee35e"></p>
+</td>
+<td id="b-3bd3535e08604b908f75b41ba952c056">
+<p id="b-0072e45b58104a779920b32a46b8f408"></p>
+</td>
+<td id="b-c8d646ff00c247d3b88af289963fbdc5">
+<p id="b-fce44c1bb1004799a71217610b5bdb17"></p>
+</td>
+</tr>
+<tr id="b-8427274df4244e95a3f68bf958ff96e8">
+<td rowspan="23" id="b-15ab37956f9d4efcac007b08d7d3e280">
+<h1 id="b-cc54720983a04be78cf1ee32a5dc348f"><span style="color:rgb(255, 74, 71)"><strong>合规风险审核标准</strong></span></h1>
+</td>
+<td rowspan="2" id="b-361844c5b432464cb28ee4567ae212dd" style="background-color:rgb(255, 255, 255)">
+<h2 id="b-01270fc82c484ffdb0ad99d96268a259">十四、资质合规</h2>
+</td>
+<td id="b-625860ae2c8e4f5db0a6df358077782e" style="background-color:rgb(255, 255, 255)">
+<p id="b-7b003e0eeb9242bfb6c5c095414b0313">（一）新闻资质不合规</p>
+<p id="b-426475481cab4dee90f612700844e1e1">（若有官媒入住，可核实后通过）</p>
+</td>
+<td id="b-ece75c6403e344ad90cbfc2f914ef7cc" style="background-color:rgb(255, 255, 255)">
+<p id="b-675f34222994407cbaff7c9ed6d62402">境外新闻、境内新闻</p>
+</td>
+<td id="b-32b79264488d4e8c861cd99ea1f0c227" style="background-color:rgb(255, 255, 255)">
+<p id="b-6e081a71740e436baab53ee4cc8828c6"><a href="../1626795020/README.md" title="学城原文：https://km.sankuai.com/collabpage/1626795020；无权限" id="b-a8cf4ce2ad064a4185cec0b2f3670680">资质合规审核标准</a></p>
+</td>
+<td id="b-1ebe567110ed40aa83c93da4c7b13592" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-657201846af84bac98e52fc1736d1369" style="text-align:start"><span style="font-size:14px">新闻相关昵称标准</span></p>
+</td>
+<td id="b-43699118045c407c8994c50f75dd999e" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-be2d94f47664447ead9dd40c8a4f5286" style="text-align:start"><a href="../270693398/README.md" title="学城原文：https://km.sankuai.com/page/270693398；无权限" id="b-e7241c0c9e264a219188b462ceef9dcc">昵称</a></p>
+</td>
+<td id="b-f7d710a167c3458ca61327b2ffcfa1c2">
+<p id="b-bdf9e97c927f4da299c6b3297579dd66"></p>
+</td>
+<td id="b-b4401e17bd394ca691b12d5ffe3fdd1a">
+<p id="b-9826360ab3aa4d02ba002dd2b0581232"></p>
+</td>
+</tr>
+<tr id="b-4b2bab6add2d4cbb836772ab75b9e296">
+<td id="b-b485da18fdae474c993c70eba4eef9f1" style="background-color:rgb(255, 255, 255)">
+<p id="b-98b85d5612a5433cb230ae303a1f9bcc">（二）专业资质不全</p>
+</td>
+<td id="b-564b7b4512514297be56d8012b02abba" style="background-color:rgb(255, 255, 255)">
+<p id="b-557f4d6240544cb899613f1acfa074db">法律、医疗、教育、财经</p>
+</td>
+<td id="b-d83d6b3ceadf4c408d8b1fb410208c8e" style="background-color:rgb(255, 255, 255)">
+<p id="b-c9529b6fe3f14e438ec229e0324e04c4">/</p>
+</td>
+<td id="b-ade917d1abf84b9f9cd1463458107d8a">
+<p id="b-b224d42040204b8ba0d170ce0f337ccc"></p>
+</td>
+<td id="b-1008f6606b914374996153e5ff619385">
+<p id="b-f6bee01904d6490095891ddd3ee6252b"></p>
+</td>
+<td id="b-caa182d55de14f31953fbe1c8ad18c24">
+<p id="b-2b7f10865e75466099a204db5f920812"></p>
+</td>
+<td id="b-6102f5199adf4f6fb32f0c27a7e9582a">
+<p id="b-f5ec60fe752b42119d1f6ffb4c11d2e1"></p>
+</td>
+</tr>
+<tr id="b-32277490960b410aa86f2750ab2fbc35">
+<td rowspan="2" id="b-84e20e58f02e4174a41f3ff4649eed7e" style="background-color:rgb(255, 255, 255)">
+<h2 id="b-a7e39ff4e7f14af8aea675b7664b4df7">十五、侵权</h2>
+</td>
+<td id="b-89adc24feec24c17b0728d29f470f82b" style="background-color:rgb(255, 255, 255)">
+<p id="b-d1c8623e3d8c4773bc4c0c14f6978745">（一）知识产权</p>
+</td>
+<td id="b-73040b3686b44e60ac0f27399345e7ba" style="background-color:rgb(255, 255, 255)">
+<p id="b-1d50f0b879ef47748341d12723562364"></p>
+</td>
+<td rowspan="2" id="b-3f9ccd68f53943a2b2ab017a648b1dc3" style="background-color:rgb(255, 255, 255)">
+<p id="b-3c062df496ea466f939597a2845ada71"><a href="../1627285663/README.md" title="学城原文：https://km.sankuai.com/collabpage/1627285663；已保存正文" id="b-d515898000c64fa8ac994aab800c0f29">侵权审核标准</a></p>
+</td>
+<td id="b-909434df6675424a8443cf696558bd46">
+<p id="b-12762462ac3e487ca0232945e2516f56"></p>
+</td>
+<td id="b-f81f6eb030b9419abc3f2c4d83b6afa0">
+<p id="b-184f7cc1469b4fdcba7e0ca4d1048898"></p>
+</td>
+<td id="b-4c22bce10d7147f49043ae1cc114d900">
+<p id="b-d0d4dadfff6c48c4bb06a792efc3197f"></p>
+</td>
+<td id="b-462d256c3983492abeacb6dff342108b">
+<p id="b-7dd5c1b20b6b43cb93dfafad919a7e22"></p>
+</td>
+</tr>
+<tr id="b-981206a1ce924db4a9e42353be36622c">
+<td id="b-27b5e6fd2b9341f09d4d27602e344cf5" style="background-color:rgb(255, 255, 255)">
+<p id="b-1bbd16e4879241e08948c550dd6ca11e">（二）隐私侵权</p>
+</td>
+<td id="b-1e9e4ed4158443e9b77c86628bd52f31" style="background-color:rgb(255, 255, 255)">
+<p id="b-e8d80ef8c37c4796bfca9c780d07dcc2"></p>
+</td>
+<td id="b-825b97ffaa9c410e8fcf26fbbd979233">
+<p id="b-38c092f39ec04db4a0a74371cdbff29f"></p>
+</td>
+<td id="b-0c5a9a605c854e62969959362562c58f">
+<p id="b-7b3ced6b17484cf684b26024d921acec"></p>
+</td>
+<td id="b-50678e84b3034e30be9f1328f4908b3e">
+<p id="b-7a727b79015f402c8dca4b3536ccbd3b"></p>
+</td>
+<td id="b-cd2f17351963463288772a479ab06ea4">
+<p id="b-97d33501fb47462aae31cc54321f1f5c"></p>
+</td>
+</tr>
+<tr id="b-98977707ad0d44878ad4663b56daa483">
+<td rowspan="6" id="b-b1392751c993486bb45735adc46be6c8" style="background-color:rgb(255, 255, 255)">
+<h2 id="b-a6bb718157034d7194a22c36d880a8bb"><blockquote>十六、广告合规风险</blockquote></h2>
+</td>
+<td id="b-5a766cabe89b42a4bc1bfb4dc07d7e8a" style="background-color:rgb(255, 255, 255)">
+<p id="b-9f5df0d7fd754c3f91224ad45975e745"><span style="font-size:14px">（一）禁投广告</span></p>
+</td>
+<td id="b-72556a8964da4e58912e29cba2965257" style="background-color:rgb(255, 255, 255)">
+<p id="b-cfac0f53d38c46ddafcc489190a02f0f"><span style="font-size:14px">禁投行业、禁投商品</span></p>
+</td>
+<td rowspan="6" id="b-3ef0b001098940a994aed75b8a5646b5" style="background-color:rgb(255, 255, 255)">
+<p id="b-25783f3bae8b4351bb55397e6bce4aa1"><a href="../1627288283/README.md" title="学城原文：https://km.sankuai.com/collabpage/1627288283；已保存正文" id="b-af2bcc1d90194c948f371ddc05901516">广告合规风险审核标准</a></p>
+<p id="b-b57bb1d1c34141ab8e55609cd36bfc9b"><a href="../2732811577/README.md" title="学城原文：https://km.sankuai.com/collabpage/2732811577；已保存正文" id="b-40a4502b660c45a3a87768e783b7af91">https://km.sankuai.com/collabpage/2732811577</a></p>
+</td>
+<td id="b-03e2c3495a3941b1bdd8d568d1cdc0db" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-1f002a7ce5ab403a9b362aeacf2a9073" style="text-align:start"><span style="font-size:14px">餐饮saas豁免标准</span></p>
+</td>
+<td id="b-7ed8b9ed05cf45c09091f8a60e12a877" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-77be943fb10e43618886edf75f9a478e" style="text-align:start"><a href="../1221522260/README.md" title="学城原文：https://km.sankuai.com/page/1221522260；已保存正文" id="b-12bd6a4a04ce4b69aa72f97e4eefa23d">餐饮saas豁免标准</a></p>
+</td>
+<td id="b-526b0d396c0b4bd181e20091480cca9b">
+<p id="b-288d17025e36497f9ddace166755ce4f"></p>
+</td>
+<td id="b-d4676a6fcf5948fa865fd25bdd4929ff">
+<p id="b-1597912367a14a73aeb3fb52596f1a9c"></p>
+</td>
+</tr>
+<tr id="b-78a495b4829a404b94776b4fa78db07d">
+<td id="b-78a8740557a24433bb52edfa40e5eb23" style="background-color:rgb(255, 255, 255)">
+<p id="b-5e28377411624752a2311143e7545c7f"><span style="font-size:14px">（二）资质不全</span></p>
+</td>
+<td id="b-405ba53b626a4c4ebcc41df6a471b715" style="background-color:rgb(255, 255, 255)">
+<p id="b-ba58099f7c334c17a6804f766503601d"><span style="font-size:14px">行政许可、广告审查</span></p>
+</td>
+<td id="b-88ab86d80ae242e8963c3771cab28293">
+<p id="b-a01d6b6283d041e28efe349ac31250f8"><span>广平涉政涉黄分级标准</span></p>
+</td>
+<td id="b-e283840b9af94498a4ff6e2ed4343a74">
+<p id="b-5e60eb1c50be434684659dfe2946e734"><a href="../1210906933/README.md" title="学城原文：https://km.sankuai.com/page/1210906933；已保存正文" id="b-f3c7b12ab87142deb712ffa344f78ba0">广平涉政涉黄分级标准</a></p>
+</td>
+<td id="b-176b9e7fd3a2431085fe48b93eed5449" style="background-color:#F4F5F7">
+<p id="b-731e3950e04f4a1993ace0f81d61366b"><a href="../1668032171/README.md" title="学城原文：https://km.sankuai.com/collabpage/1668032171；已保存正文" id="b-4e661d4a3f8740ffb18f0a7388aea298">B类 |「N9-N16」</a></p>
+</td>
+<td id="b-96d9883c53be4c4ba8ca27ed0b2d73bc">
+<p id="b-63f871a99b1442409afa00e4fee73495"></p>
+</td>
+</tr>
+<tr id="b-33f944edee6a44f0968eaf808a8d4020">
+<td id="b-4a1a74156c194179a38d11844a844577" style="background-color:rgb(255, 255, 255)">
+<p id="b-ffc06f3dcd3841989faba42ffe6a80d7"><span style="font-size:14px">（三）用词违规</span></p>
+</td>
+<td id="b-b431fab89a784df9b7dfe81646f8ea48" style="background-color:rgb(255, 255, 255)">
+<p id="b-cfee17ddf01f4524b8a04227830510fa"><span style="font-size:14px">绝对化用语、违规医疗保健用语、其他违规用词</span></p>
+</td>
+<td id="b-acf702dc31644297b3af0b71d74271ad">
+<p id="b-02a3b4912b0b4edb993660681e76783e"></p>
+</td>
+<td id="b-6d450d40d66f43faa7a2657c47455892">
+<p id="b-8afeac3a41204f988bf6ed630756043b"><a href="../1203773217/README.md" title="学城原文：https://km.sankuai.com/page/1203773217；已保存正文" id="b-f73cfba12c1842f39df37ecaea8b775a">教育行业审核规范</a></p>
+</td>
+<td id="b-5002f2f1f3734812ae03ee28e0ef5187">
+<p id="b-28bb4e8a0f824f02b392f82a25e9b082"></p>
+</td>
+<td id="b-0af0a70bdec34504a56ef32733caa294">
+<p id="b-ff62c9c0a0d9456db411909a4e060737"></p>
+</td>
+</tr>
+<tr id="b-3492fab85335423594a9e01c216bba1b">
+<td id="b-b6e66445164944a69b50f2ed825f71a0" style="background-color:rgb(255, 255, 255)">
+<p id="b-ba54ab2837e14f42abdbbd00e35b5051"><span style="font-size:14px">（四）虚假诱导</span></p>
+</td>
+<td id="b-3fa4d7863cba40459cb45e635f20ba4a" style="background-color:rgb(255, 255, 255)">
+<p id="b-d37d0efd36fa4f29b77ef7d5a1d1e987"><span style="font-size:14px">虚假宣传、诱导言论、效果保证、专家受益人描述、不当医疗保健描述、其他虚假</span></p>
+</td>
+<td id="b-527e34595afc486aa5c2d396007dc4d7">
+<p id="b-c14a41434bea4ec1bdee7095d122d2d7"></p>
+</td>
+<td id="b-a6043b0b357e43c480c1a16348cf18c5">
+<p id="b-36ae465d6d84484c97d27b4108e56906" style="text-align:start"><a href="../1200937670/README.md" title="学城原文：https://km.sankuai.com/page/1200937670；已保存正文" id="b-0d5f0582c09b456b93ade7210ffb182a">医疗行业审核规范</a></p>
+</td>
+<td id="b-5f793f7170024a1ea41a405944d170bb">
+<p id="b-92fccc5464e643239474fb456307fc28"></p>
+</td>
+<td id="b-cb117ceed0974ebaa185205ed518b43a">
+<p id="b-4daf49cce006452180bff7f705ecb873"></p>
+</td>
+</tr>
+<tr id="b-02d338372617421cbf2eed8708073ef9">
+<td id="b-eb121bcb320e4daba507e5444b9472b3" style="background-color:rgb(255, 255, 255)">
+<p id="b-4d116b925aba4e55b44b9c5d9c37af2a"><span style="font-size:14px">（五）广告侵权</span></p>
+</td>
+<td id="b-d7c61daa24e143b38500c61c58a4121e" style="background-color:rgb(255, 255, 255)">
+<p id="b-7cc6222d69314db0a49ccacece577dd9"><span style="font-size:14px">商标侵权、著作侵权、肖像侵权、其他侵权</span></p>
+</td>
+<td id="b-e8e03aeb56f743f6b5137c751cb8cd52">
+<p id="b-798677c4d43e478d8c723d6300d0ba24"></p>
+</td>
+<td id="b-cc99787a641448a9a2937117f1127d11">
+<p id="b-c73de4354a7b4a309c8719b477c8b46a"><a href="../1306276853/README.md" title="学城原文：https://km.sankuai.com/page/1306276853；已保存正文" id="b-0ce93572b3fb41c18fa9c422ddc3a787">广告落地标准标签映射</a></p>
+</td>
+<td id="b-2f2edc3746f7432995ec54ea00933aa7">
+<p id="b-4785a5717d7f4fb28daa673a55a3ad96"></p>
+</td>
+<td id="b-8959116f28f44c59ad35af00aa8ff776">
+<p id="b-916b2a72e8754a9e81c5ab49929b82cd"></p>
+</td>
+</tr>
+<tr id="b-1f615cb0d79648fbb3b236d8b1580866">
+<td id="b-24c002f44a4c49bcb15a02f7628c460a" style="background-color:rgb(255, 255, 255)">
+<p id="b-fb3b431cc9fe48ff8c28a8a68a611d57"><span style="font-size:14px">（六）违规营销</span></p>
+</td>
+<td id="b-ee12a4dc9c994325b22458c903178297" style="background-color:rgb(255, 255, 255)">
+<p id="b-e1581a954fb649c899eab80438ccada5"><span style="font-size:14px">引证专利不规范、贬低竞对、活动宣传不当、缺少风险提示语、违法代言、侵犯未成年人权益</span></p>
+</td>
+<td id="b-6f5873c6a7e04a7bb7766edbb8ad3d7a">
+<p id="b-3083a70596ba468cb066727eda1e708e"></p>
+</td>
+<td id="b-0bbf565084554da5a986f5428ee9cd6d">
+<p id="b-dc2f118cddfa493485fe593c0b41a7fb"><a href="../1758533467/README.md" title="学城原文：https://km.sankuai.com/collabpage/1758533467；无权限" id="b-7b0c902c76df4656bdde3d2f44dc8d4e">https://km.sankuai.com/collabpage/1758533467</a></p>
+</td>
+<td id="b-be75f390359f40afb57800c1c42691e9">
+<p id="b-5a24ccabf1534ad2a473c0373d7f0453"></p>
+</td>
+<td id="b-ffd56b367a044e5db32b388e7f83a5d0">
+<p id="b-4ac7f28925c545d28050eebd095735f7"></p>
+</td>
+</tr>
+<tr id="b-243e5b8c72154cdb8de74d5534382e7b">
+<td rowspan="13" id="b-08276fe13d2b41aca03695dcb862a7e8" style="background-color:rgb(255, 255, 255)">
+<h2 id="b-a4290ecd3ecd4ce5acb6f0b894d6538e">十七、商品合规风险</h2>
+</td>
+<td rowspan="4" id="b-4cdaea911d4744ee98b055cbc595aad2" style="background-color:rgb(255, 255, 255)">
+<p id="b-ab62679dc8804ab09752d02002968f4e">（一）烟草及制品</p>
+</td>
+<td rowspan="4" id="b-772c9f939dfc44b7bbfeedb84d209870" style="background-color:rgb(255, 255, 255)">
+<p id="b-4462f9c429e2450bb85415203d000209"><span style="font-size:14px">成品烟及烟草、电子烟</span></p>
+</td>
+<td rowspan="13" id="b-f9704f97da1d48c6bb342e0853190515" style="background-color:rgb(255, 255, 255)">
+<p id="b-a7de9431f3274d6a8d89df8ce13a60f1"><blockquote><a href="../1626385610/README.md" title="学城原文：https://km.sankuai.com/collabpage/1626385610；已保存正文" id="b-d5dc352052b945f1b40a379af73e1182"><blockquote>商品合规风险审核标准</blockquote></a></blockquote></p>
+</td>
+<td id="b-b40fc936f59846548f2234ef5f3e8302" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-ab26e4677bfa4a5aab49ca81e032baaf" style="text-align:start"><span style="font-size:14px">生活服务烟草相关标准</span></p>
+</td>
+<td id="b-4781017251824dc7ac545f8028be36ca" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-352cc9a43f7d42d085df4e0f7db11c0e" style="text-align:start"><a href="../1148772952/README.md" title="学城原文：https://km.sankuai.com/page/1148772952；无权限" id="b-1a3fdc39be6f48d5a972662c02d26f82">生活服务烟草治理</a></p>
+</td>
+<td id="b-62d9b51d9fae4a319cce7a5de2df73ef">
+<p id="b-cb7c7298721a4a698236f802d0fca809"></p>
+</td>
+<td id="b-ee3fab5e80604de5be4f52ce98d6c04d">
+<p id="b-6d402b2f065a47d7aa0fa90909641391"></p>
+</td>
+</tr>
+<tr id="b-aeacbca135e14dbc9b81795ef8ff8ddf">
+<td id="b-a0fef75292a24389b2abd5394d70a944" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-e0d4db0568064d96b703dd784ef22e19" style="text-align:start"><span style="font-size:14px">菜品商品名违禁词汇</span></p>
+</td>
+<td id="b-94db9477d24645bcaa91c51b1ff27c82" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-06bf4dafbfb74a3da39291cc641b9fe8" style="text-align:start"><a href="../271275612/README.md" title="学城原文：https://km.sankuai.com/page/271275612；无权限" id="b-bef20ee2b93346f5a278e25175ddeaef">菜品商品名</a></p>
+</td>
+<td id="b-c8a040fbff0f410b9374cb3108ce7dd9">
+<p id="b-135e2f8f269f4b44b1cf1f71f4cd339c"></p>
+</td>
+<td id="b-ab8fc7267a804f62b8dafac26ade66e6" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-43246143cab0442081da529028682d52" style="text-align:start"></p>
+</td>
+</tr>
+<tr id="b-9305cdec5d9f4b60a57415df0bee8de7">
+<td id="b-52e2631002e746a097045ffe26f937be" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-f579101e8c274436bdc15f87b267fa33" style="text-align:start"><span style="font-size:14px">商户名违禁词（烟、易燃易爆）</span></p>
+</td>
+<td id="b-477704575fd74692b227531efe37f782" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-8799ce710c8342a1a6fc955f201c4ae7" style="text-align:start"><a href="../455537357/README.md" title="学城原文：https://km.sankuai.com/page/455537357；无权限" id="b-571426b3858f4d5783d38487a2c29875">商户名</a></p>
+</td>
+<td id="b-b9d8980021ff4650b76a8856dfbcf2ce">
+<p id="b-c88356074d554f498f7dcb158fb9d082"></p>
+</td>
+<td id="b-5774b95e8f4740a3b79ed97afe8f83f3" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-a06026ec727c4a0981eb0ecf4647c0a7"></p>
+</td>
+</tr>
+<tr id="b-634881ff2c094e20be2e80999eca008d">
+<td id="b-e8862877a2704d61a300dd1e5ecd7123" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-0458d5514c9d4ea3970e8969d6c9d71f" style="text-align:start"><span style="font-size:14px">昵称违禁词（烟、医美、违禁物品）</span></p>
+</td>
+<td id="b-cfaeb4bfbadf4b1eba1aee1287c1fb15" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-dfe276e5bdcb44739b02854ca1fff7d4" style="text-align:start"><a href="../270704960/README.md" title="学城原文：https://km.sankuai.com/page/270704960；无权限" id="b-15b5d0ea4c5d45d3be4d8b6a93786acb">昵称</a></p>
+</td>
+<td id="b-9bf026ebd0184afbb7d5e586e5e6d764">
+<p id="b-5288f391ad204ded8d3ddedba2854146"></p>
+</td>
+<td id="b-fc631324ea7147f0b14cc947b2bbd694" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-e776e3682d2c4071918b79abf5577512"></p>
+</td>
+</tr>
+<tr id="b-ceefeef590d542048e7f40c476f53815">
+<td id="b-e432ee58a2844e0db46764b5c63fbe10" style="background-color:rgb(255, 255, 255)">
+<p id="b-ee22b296dc554cc188632bc60223590e">（二）保护动植物</p>
+</td>
+<td id="b-7582c18317364097bbcf0b8c9f1bff09" style="background-color:rgb(255, 255, 255)">
+<p id="b-998a4f2ec9b2406cad1ea935c85183ac"><span style="font-size:15px">保护动物、保护植物、虐待动物、违禁动物捕杀设备、违规捕食野生动物</span></p>
+</td>
+<td id="b-4cb778199b6a4153816b86ccf64a7da8">
+<p id="b-680189db2489456893e58d7c49f2d822"></p>
+</td>
+<td id="b-c4abf4bae6634bd1936041fd5d96110e">
+<p id="b-e28969537fa54122bd677e0eeb5fd3ed"></p>
+</td>
+<td id="b-c82d30afd59f48b081a050505b7c72e1">
+<p id="b-2bf523197abb4682b933790383321186"></p>
+</td>
+<td id="b-fcd6b31b09f14cc69924cf1bb971e052">
+<p id="b-dbc93a9f41654277b26d66e9cd58d835"></p>
+</td>
+</tr>
+<tr id="b-ff2a1cd8e8104351ac37e934b615b992">
+<td id="b-9d99e914a22246fb89e231f11ee1e882" style="background-color:rgb(255, 255, 255)">
+<p id="b-86eb87505fde431eb7565498b9836b0d">（三）赌博</p>
+</td>
+<td id="b-64bb2a3db9764a61963bddd41770ae93" style="background-color:rgb(255, 255, 255)">
+<p id="b-766f2596b16c4c6498b16251b0dcddea"></p>
+</td>
+<td id="b-e29be394ead14e43b65dd514a8bd6ac5">
+<p id="b-2dc953f4f5954cbc8cc01d73c228527d"></p>
+</td>
+<td id="b-422f975781a94675b2e90201caa28820">
+<p id="b-673ab7b4dc9c452587baa9d217515ab9"></p>
+</td>
+<td id="b-b45ae524151a4bb28c2a0e86637aad8d">
+<p id="b-519833d6bba44e27b6a85baca8fce35d"></p>
+</td>
+<td id="b-7f33df0b51a84509bb59d5949b9984e9">
+<p id="b-4afb201eacee442698f35dd654514bb0"></p>
+</td>
+</tr>
+<tr id="b-8c8658085e994e34ad6cc7cf043e47d6">
+<td id="b-d74fb4ca19454861bf0bb936d9288203" style="background-color:rgb(255, 255, 255)">
+<p id="b-b23fd0a537bf44faa474a3457e6b1c15">（四）犯罪作弊工具</p>
+</td>
+<td id="b-18424ca08089411ca6d89b319fbf9629" style="background-color:rgb(255, 255, 255)">
+<p id="b-e0be00347fca453fb2342b83bb65345e"></p>
+</td>
+<td id="b-c9ed45cce75d47a384b578de4ccae7d1">
+<p id="b-58363afb2676423cb54a0e8bb3657f26"></p>
+</td>
+<td id="b-b92238aad9f04e6996bd93ed26266a1b">
+<p id="b-f9274a8cf5564ee792c1a3fb20e23833"></p>
+</td>
+<td id="b-574d4a77f39d459598016a72593cf5d5">
+<p id="b-24230db5e72d4c96a941374a7264c535"></p>
+</td>
+<td id="b-e58abd1cdf3a4d25bc197d54dfcd211f">
+<p id="b-5c15ba16200f45778be3debee2a905d2"></p>
+</td>
+</tr>
+<tr id="b-d5883005264544f28ef1afbbd57902e0">
+<td id="b-66dd7bfb8d984436848634b567b53fb3" style="background-color:rgb(255, 255, 255)">
+<p id="b-3725d54cc9a046e99d13c48fda1bc6a9">（五）有毒危化品</p>
+</td>
+<td id="b-b5fd6f5a3c61431bb9e011c5832a56b3" style="background-color:rgb(255, 255, 255)">
+<p id="b-87c64aa9fd5a4439b64d2735cbf7c7f4"></p>
+</td>
+<td id="b-ae504042937d43239f3fbce5a305c124">
+<p id="b-1ab920d6019448009f66af41099f5272"></p>
+</td>
+<td id="b-86999533ef16470bb6b20dcffa3ed6bb">
+<p id="b-cad586e698fb4a04815a85e6ee0c6ca6"></p>
+</td>
+<td id="b-cd7aded4ab2a46979a1ffa741b7ae473">
+<p id="b-1a6e9390f93641a7a45d5344a87bfbd7"></p>
+</td>
+<td id="b-de208e7042a04dc485ee034ff4a16ae0">
+<p id="b-4c5420a121cd4bb886ea98016249fe47"></p>
+</td>
+</tr>
+<tr id="b-c89f2f3a1ec041f08fc7c089cbe03c82">
+<td id="b-14c0847c4e1340c3ac1da133a17ae2f3" style="background-color:rgb(255, 255, 255)">
+<p id="b-7fa548524d2d44b98097d66619d2fceb">（六）诈骗</p>
+</td>
+<td id="b-ef233ad354b74334a96164cd8444c15a" style="background-color:rgb(255, 255, 255)">
+<p id="b-18a2fa7ea1e24db692c8ae70bdaa67ad"></p>
+</td>
+<td id="b-2995bed9d4a444e6b8a92361eff9c553">
+<p id="b-7269ed87732f49e1b66f80368529e504"></p>
+</td>
+<td id="b-c139e087c6014d40aaf42dc849d65dfa">
+<p id="b-7ed10fa46c174327a0bc000cc3b5f8d2"></p>
+</td>
+<td id="b-1a060a7f46f74422ad5f4f1a35091b02">
+<p id="b-f529b1c5d1b04f4bb3c2d3fb637eca43"></p>
+</td>
+<td id="b-402d26dad63c4bf897f84c4c96dca381">
+<p id="b-e8f9dd76d02a442e9eca98e56c0a7437"></p>
+</td>
+</tr>
+<tr id="b-e956892bb0084c5f975b23727070c12d">
+<td id="b-abe0d8eefa604687940dec68a1e37244" style="background-color:rgb(255, 255, 255)">
+<p id="b-959a2fa095504cb5bd00fa779c8d0ede">（七）违禁服务</p>
+</td>
+<td id="b-69363cc5a68343d5be82f9ad653fbb51" style="background-color:rgb(255, 255, 255)">
+<p id="b-3edba3882e594efdb9e0829fe58da54c"><span style="font-size:14px">办证刻章、代开发票、互联网账号、游戏及周边、交通设备服务、通讯设备服务、非法出版、金融商品及服务、三非外国人、</span>翻墙外挂、其他违禁服务</p>
+</td>
+<td id="b-b909cd0bbdd147a2a9be2f4bc7bf9f16">
+<p id="b-22e9022c364241ac9f9d1a396c0d6e84"><a href="../270654786/README.md" title="学城原文：https://km.sankuai.com/page/270654786；无权限" id="b-ebbc8eee5a7f4b4cb540ec176722bc0d">办证</a></p>
+</td>
+<td id="b-8c148b519b2c4b2bbaaf77307fd99fc7">
+<p id="b-7fca8b6d3ea040aea77744144fd40fd3"></p>
+</td>
+<td id="b-d50589872ac446259caa36ec1c33bd07">
+<p id="b-6c2caa2ee00b4e91a4953d7796187439"></p>
+</td>
+<td id="b-dc8e4cda47fc4b71a67306cd1f0c8746">
+<p id="b-042566642c574eef9dd5fb8d4051ff4c"></p>
+</td>
+</tr>
+<tr id="b-0df966e699aa48bea20ad02c3e5ece27">
+<td id="b-5b08fd031b7e4797b449ccdd5967bd46" style="background-color:rgb(255, 255, 255)">
+<p id="b-6b91ca3c2ecc42e3b5b9921b9bbbd077">（八）宗教迷信商品</p>
+</td>
+<td id="b-4e42c077fc35472fa84b7e01f583441b" style="background-color:rgb(255, 255, 255)">
+<p id="b-ccd95a301ade4360996e65cb063bdf3a">涉宗教商品、民间迷信</p>
+</td>
+<td id="b-251d2faddad44d799421c95bd06b5324">
+<p id="b-544fefc1201d4de8a8709db208bc3763"></p>
+</td>
+<td id="b-8c234bcc4d164173bc17f926ca99f346">
+<p id="b-afc97411c87c497abb15a0333af3b92b"></p>
+</td>
+<td id="b-a9ce993355ed4ab7b59637aa23aca667">
+<p id="b-3750920bf0784dab905f8578ab1e243d"></p>
+</td>
+<td id="b-8e638c6dc73e49489ff2ff8b538bd70b">
+<p id="b-05ac1815e86b45be9298d618cd82d2ae"></p>
+</td>
+</tr>
+<tr id="b-f9321d93e31e4550b38faa3cfde9a114">
+<td id="b-11695cb574d14cf8aeba6c28e933794e" style="background-color:rgb(255, 255, 255)">
+<p id="b-bb807e73786d448d82ce971bf0288f03"><span style="color:rgb(0, 0, 0)">（九）违规医疗</span></p>
+</td>
+<td id="b-4e1d26be66bc4200b87e4257f3d4a503" style="background-color:rgb(255, 255, 255)">
+<p id="b-670da40707bd475eb6b69a47136ffff0"><span style="color:rgb(0, 0, 0)">药品、</span>医疗器械、医疗服务</p>
+</td>
+<td id="b-7b94714cc8ac43cb82659d2a322a13dd">
+<p id="b-c85f4b5349a44b27af1d496e3d43903e"></p>
+</td>
+<td id="b-1a264242d91e4ef191cf0fd51815bcde">
+<p id="b-a7ca7377ab2349298c909ebee8c545ae"></p>
+</td>
+<td id="b-86bb9ddd232b457fb0440eee3ad1a1a3">
+<p id="b-ac59e54556364df795b5f8e7dddb759d"></p>
+</td>
+<td id="b-fe94b32eeabd49579ed253315323f368">
+<p id="b-e5e393b24ce54d7188ee400d84bb190a"></p>
+</td>
+</tr>
+<tr id="b-5c66ead82c3f40ef92bbf312d990a940">
+<td id="b-c310894e478d4342b06c3eb55928b5bb" style="background-color:rgb(255, 255, 255)">
+<p id="b-c8203f9dac17461685301ce30a884588">（十）其他</p>
+</td>
+<td id="b-57b8ee84a80446ae8de83f68b872edcb" style="background-color:rgb(255, 255, 255)">
+<p id="b-d2b5aa784bca4578a9c8d90cb7501fb1"></p>
+</td>
+<td id="b-fe910acef8844d9db8b8eff05d0a195a">
+<p id="b-c98e931c9dc8448593636cba171d08fc"></p>
+</td>
+<td id="b-ab39d5333bad45ff8fd20fe06999ca37">
+<p id="b-82ad6129868f42fe94bcf703818463a0"></p>
+</td>
+<td id="b-cc44711c023c472bbe31874a1aa9d232">
+<p id="b-b7605f222b70474196b53ce99ac340fc"></p>
+</td>
+<td id="b-f66985bfb5e448a8afda41f2ab6abc7e">
+<p id="b-4db18442f343434ebe794196858dd2e8"></p>
+</td>
+</tr>
+<tr id="b-2fbd9d898c184dcaa604bdd88bc4dcdb">
+<td rowspan="42" id="b-e0c0a1e651e243d6b598462a258bae21">
+<h1 id="b-c0da997e8e20452ea31520b20d4c4314"><span style="color:rgb(255, 74, 71)"><strong>不良生态画风审核规则</strong></span></h1>
+</td>
+<td rowspan="5" id="b-dd421a8906094d478ca13cf256a10fd0" style="background-color:rgb(255, 255, 255)">
+<h2 id="b-af6426265eb44ad6bcac73723aecd9fa">十八、涉政非负面</h2>
+</td>
+<td id="b-d95844dcbe3a466a9f537f4b3bb4b8b2" style="background-color:rgb(255, 255, 255)">
+<p id="b-60f0f9e1f53845f2b4d7a5c15727691f">（一）一号正面</p>
+</td>
+<td id="b-ce2579315fa94bc2988a3e69e419ee59" style="background-color:rgb(255, 255, 255)">
+<p id="b-f3327d4869714182afc6b9bf63477673"></p>
+</td>
+<td id="b-9f846fff36df4353b2444b9a0a101f0f">
+<p id="b-1041fff1898447739370cc24152e0b8a"><blockquote><a href="../1624851807/README.md" title="学城原文：https://km.sankuai.com/collabpage/1624851807；已保存正文" id="b-086f263b836340a8b17b715233eafa09"><blockquote>一号正面</blockquote></a></blockquote></p>
+</td>
+<td id="b-7664c366081b4a278539ca287847e157">
+<p id="b-19c8fcd88d9f44c092bde503339781f3">团视频审核叠加</p>
+</td>
+<td id="b-5d65db860ff14e3ca812a1ca32afda89">
+<p id="b-ec4ba435b38c4cd8b626fb653ebc38e7"><a href="../1678985687/README.md" title="学城原文：https://km.sankuai.com/collabpage/1678985687；已保存正文" id="b-450e8dae4c924bc39afa7e88cecda11a">https://km.sankuai.com/collabpage/1678985687</a></p>
+</td>
+<td id="b-1a3abe5e9b95462780ca6f66cc1976b4">
+<p id="b-fefeb4214bbb4808805089e96fb1d5c5">团视频相关type</p>
+</td>
+<td id="b-3d675c5f15fe4a9d8834a58e11092620">
+<p id="b-c2b0669ac4fe4d3087421613b4f10ddf"></p>
+</td>
+</tr>
+<tr id="b-d948a37958f4466d9a578fe0a1ae18b6">
+<td id="b-69ce2a616f204c3cb07c9e69ea94e14a" style="background-color:rgb(255, 255, 255)">
+<p id="b-fd98a064b5ae4488b70f6dac416e500f"><blockquote>（二）重要人物正面</blockquote></p>
+</td>
+<td id="b-ffc618939d3d41e3bc1cad7932e14190" style="background-color:rgb(255, 255, 255)">
+<p id="b-47a065d3daf549ddb94cc43c643225f7"><blockquote>国家领导人正面、</blockquote><span style="color:rgb(0, 0, 0)"><blockquote>英烈模范正面</blockquote></span></p>
+</td>
+<td id="b-6375b6bd52b6444e84d127499739cd60">
+<p id="b-bb5b2e08a52a4c608ac0f7ed2db140e5"><blockquote><a href="../1625721500/README.md" title="学城原文：https://km.sankuai.com/collabpage/1625721500；已保存正文" id="b-4304235d9f334889bfd9b8a28784504d"><blockquote>国家领导人正面</blockquote></a></blockquote></p>
+</td>
+<td id="b-3d02d76be04947668ba9a2f3fedefb8c">
+<p id="b-689055bb8419400598e8ebbed9f8b3e1"></p>
+</td>
+<td id="b-6a801010e9054b81ab23f3f50badc1a9">
+<p id="b-6060a30fdd434fd2b39446463045fbcf"></p>
+</td>
+<td id="b-b96740a4ecff45bd87b17b6639569f9e">
+<p id="b-98c3fdb2ce17406192b9b29335422083"></p>
+</td>
+<td id="b-3da93e48fc964f058a25343da65287dd">
+<p id="b-8f727cae42d4412eae21f167701874d3"></p>
+</td>
+</tr>
+<tr id="b-6009cc0df6bc433ca0c2e88ef6e5f77e">
+<td id="b-f36150123d584d99af66ffdd92973795" style="background-color:rgb(255, 255, 255)">
+<p id="b-c29fa870c2cf44c4b210f25dec30fa8d">（三）<blockquote>重要事业单位正面</blockquote></p>
+</td>
+<td id="b-e1d4a3bd2de04da2bbcfd26fe740161d" style="background-color:rgb(255, 255, 255)">
+<p id="b-9e83f7898e044c3d9d8a0e08ffc789a3"></p>
+</td>
+<td id="b-a97a00dc73e441988c12797146d14e2c">
+<p id="b-870c03b7df704b4f93aa607d769d66f6"><blockquote><a href="../1626314236/README.md" title="学城原文：https://km.sankuai.com/collabpage/1626314236；已保存正文" id="b-8bbc01760cae4165bd8b6fb898232343"><blockquote>重要事业单位审核标准</blockquote></a></blockquote></p>
+</td>
+<td id="b-0be919e33c124d45b74119b0a247a8a9">
+<p id="b-7bbf725c03bb48be983280350c2a1f02"></p>
+</td>
+<td id="b-ad99cff98bbb4b84a815999712dfc275">
+<p id="b-4df74b3587e44cd885e683ba1574f481"></p>
+</td>
+<td id="b-954e5f45b85a4ae7adc1f74ef90a0e28">
+<p id="b-1ed17e22e7a441d3b345022b91a3c513"></p>
+</td>
+<td id="b-03265963dfaa4081877451aec449431f">
+<p id="b-b68e7185d05041bfbc2428d5dbdd924c"></p>
+</td>
+</tr>
+<tr id="b-5ad4612efb4f449e9af576d4a846af25">
+<td id="b-0012c74ab0864bf785b61f7f3c33a20e" style="background-color:rgb(255, 255, 255)">
+<p id="b-50890c3a283d4b62915ba8edf3178911">（四）<blockquote>重要国际事件正面</blockquote></p>
+</td>
+<td id="b-c6d5962ee8124a3f9b332db5d0e0b12a" style="background-color:rgb(255, 255, 255)">
+<p id="b-b6031d98e5664ba0a6bcd94b1d3b68f7"></p>
+</td>
+<td id="b-76b7846e7183469c9312e103517dff46">
+<p id="b-d4726191b752421597988449b55a5931"><blockquote><a href="../1626306793/README.md" title="学城原文：https://km.sankuai.com/collabpage/1626306793；已保存正文" id="b-77e02e61ec464c2b981fa9c50d4a582d"><blockquote>重要国际事件审核标准</blockquote></a></blockquote></p>
+</td>
+<td id="b-b5966a057247420482c8d7d7ee851730">
+<p id="b-d0465aaaa7cc459291ba24fdc5ca54c2"></p>
+</td>
+<td id="b-c7dafa4992d34a219c31d6f0c7a8103f">
+<p id="b-8f287fb4fcba40308518310a2fdd5b80"></p>
+</td>
+<td id="b-6e8b24d65d424d0b9fffbba9ea4f764d">
+<p id="b-c1a7b5729e844b3886473af6f90c677b"></p>
+</td>
+<td id="b-2a7dd98dcdb74990aa3b0c842507dec8">
+<p id="b-fe131c722b0f46b59f1cc5898eed433e"></p>
+</td>
+</tr>
+<tr id="b-b3fdf8b33f4b4798b0de4bb6947934fd">
+<td id="b-a5e5cd2f0c9848a6874c7dac1310ec40" style="background-color:rgb(255, 255, 255)">
+<p id="b-cb044d2489594edc8ea223c96b88362d">（五）非涉党历史</p>
+</td>
+<td id="b-8a4ed867b01047039e1e03e50a49a8c6" style="background-color:rgb(255, 255, 255)">
+<p id="b-7a820a4d852d4682ac0b3168fd59af9c"></p>
+</td>
+<td id="b-2359eb02b51f451eb0739e9fbc8cfbe9">
+<p id="b-3267feb03ebc4411a2319e4cb2d45d86">/</p>
+</td>
+<td id="b-8e75d41508524a198d213e862cbf7f90">
+<p id="b-fcf566eecfb34a2eb08f73a581a845a4"></p>
+</td>
+<td id="b-b1712a1e282e49fb924c788f22515b7c">
+<p id="b-e8315a71ef8b4b04a0f69d56bd8963a8"></p>
+</td>
+<td id="b-e6444dd3697948cfa8ae7bf4a4502fc0">
+<p id="b-e491abee7222442fae346dffbef1b2ad"></p>
+</td>
+<td id="b-d8300d4f190942409bc3101738789261">
+<p id="b-ec5bb1bc00104544b980bbc62844c833"></p>
+</td>
+</tr>
+<tr id="b-cfa1162989e44bc194cba235cd79ebdd">
+<td rowspan="6" id="b-1a2aae392d98482f87153ad4d736d353" style="background-color:rgb(255, 255, 255)">
+<h2 id="b-d2ab4127676c47d18e50d7c07e5206a7">十九、不良价值观</h2>
+</td>
+<td id="b-d99ed10a74ed4f62a4dabf54eb404575" style="background-color:rgb(255, 255, 255)">
+<p id="b-6c90e8e642e9439abfeb0ddb7a60f9a6">（一）价值观歪曲</p>
+</td>
+<td id="b-bf0c0d51ee6944d9a5d7ebc30853bc78" style="background-color:rgb(255, 255, 255)">
+<p id="b-82d8feac23b247d5863898f34935e76a"></p>
+</td>
+<td rowspan="6" id="b-6240755afe4942bbadc4f98652864cd1">
+<p id="b-fea1a21225234633b8269a7ead731937"><a href="../2714031307/README.md" title="学城原文：https://km.sankuai.com/collabpage/2714031307；已保存正文" id="b-9ec1aa1e906d4485948f7435f8868835">https://km.sankuai.com/collabpage/2714031307</a></p>
+</td>
+<td id="b-2d161e00d8fa45569a19e693ebed6f6d">
+<p id="b-5fde0cbcb1ac4394a3a9e190d848f8f2"></p>
+</td>
+<td id="b-d6d84d5e90364d3cb6c13f40d8150b71">
+<p id="b-5e8b360d384f427289bbb37410c5ebca"></p>
+</td>
+<td id="b-7b97380e897f44389e0297aded57d682">
+<p id="b-5e0d4d565d354741856660cc63c589ec"></p>
+</td>
+<td id="b-32852d9382bb42728432758cbcd22efd">
+<p id="b-c5f67f5e588f48c899575f0162c564be"></p>
+</td>
+</tr>
+<tr id="b-a84e29b7b3624cd28fc527214610af0a">
+<td id="b-1a35c063c9724e53b02084cc4f782919" style="background-color:rgb(255, 255, 255)">
+<p id="b-3f9477b97b7442d5862dc8a5aa45299c">（二）劣迹艺人</p>
+</td>
+<td id="b-1760e418bc8147ac8ac3304de038ecb3" style="background-color:rgb(255, 255, 255)">
+<p id="b-29c165a814d348cc900b687b91de9dab"></p>
+</td>
+<td id="b-3d7aee12f7074114a85910031421e5da">
+<p id="b-9695f372de3c432b96609155b943c008"></p>
+</td>
+<td id="b-1353b0abbd364d56a83f46ec30f79223">
+<p id="b-8ba6978412b24db096e8ebcf88b12100"></p>
+</td>
+<td id="b-d297cef390a64398a86392bd656835d3">
+<p id="b-1e1d68a3a8f94b6385f55a99da617e22"></p>
+</td>
+<td id="b-4a5cb97db93548769e843c2018a86dc6">
+<p id="b-4d986229a7e5403bbdbef9a771ae7bcf"></p>
+</td>
+</tr>
+<tr id="b-27f6678c3f594686b09e91b146ec5d31">
+<td id="b-6f96ad94ef7147b69718a6294a41b24f" style="background-color:rgb(255, 255, 255)">
+<p id="b-8f9117b502c8433c9789e384a207f77b">（三）劣迹艺人（严控）</p>
+</td>
+<td id="b-1449a8f030894dbd9a6e77ada7911e39" style="background-color:rgb(255, 255, 255)">
+<p id="b-b2228e1d192842d392e3482307da5101"></p>
+</td>
+<td id="b-e36a566b6aa74b79b460c560bc9dd8ad">
+<p id="b-fdecf115f8024265bd321ae7cb741595"></p>
+</td>
+<td id="b-a973aee62de64ba39b20859dd0677816">
+<p id="b-819c4c6180f34110b78a76eca7a60f8e"></p>
+</td>
+<td id="b-e4bf327d1172496e8781984cce89d3d9">
+<p id="b-9d923b3646db4ee18042cb8b2cab61cb"></p>
+</td>
+<td id="b-a450ac726c7b4ebe9b204e9d43adffbf">
+<p id="b-5a846f1ac87b4aa3ab677597193bfbf0"></p>
+</td>
+</tr>
+<tr id="b-6d79f706b4d2443996c2bfc9d3ebfeed">
+<td id="b-6063cd0a05c8452ead5cf80fc6447cc2" style="background-color:rgb(255, 255, 255)">
+<p id="b-ff27c8849db64310af9fbca9445f97cd">（四）不当语言</p>
+</td>
+<td id="b-8452d94e931545f38b5b5c9e45a56d1b" style="background-color:rgb(255, 255, 255)">
+<p id="b-0e0f894013e447e5ab4a304ec1edbf92"></p>
+</td>
+<td id="b-ca21eef1d0c64424b9e5b7e6209759dc">
+<p id="b-1092cea5bb1049ae9a9b3e7f70d2c869"></p>
+</td>
+<td id="b-4c60ff73df3a42f5b59ce78b4c2570d9">
+<p id="b-dd52eb3b546140ab91a7c46265373eb5"></p>
+</td>
+<td id="b-afef0cc10054436a98822e96fe0040a2">
+<p id="b-bb1e4bee6794425fa7128100083434db"></p>
+</td>
+<td id="b-5253dafc18874aeeb3d61fa124c161f0">
+<p id="b-431af2bfe5c24e5aadc528fe3980907b"></p>
+</td>
+</tr>
+<tr id="b-8e6b99a19b1e4771947985f26a57a4b5">
+<td id="b-389a5b417c534d1bb81c62c7286ec211" style="background-color:rgb(255, 255, 255)">
+<p id="b-e32d4f77e8654ab6900b967f48262973">（五）不当行为</p>
+</td>
+<td id="b-4a83cb9a2bad48b3950904bcf13a7279" style="background-color:rgb(255, 255, 255)">
+<p id="b-ee579a8a27634d53afcab2641c01a613"></p>
+<p id="b-a47acbd3f46b4df3adf897701d321896"></p>
+</td>
+<td id="b-bda76cb263bc44e997b51f6322a37399">
+<p id="b-79aea5e50a2e4e62b2f015cb0a7cfc41"></p>
+</td>
+<td id="b-449ba6dc56e44b1c947489e689792944">
+<p id="b-fb7e9321b6ec455f9266fd58ba7ac5f9"></p>
+</td>
+<td id="b-01cb261cdca7409887bfb70ad99cac29">
+<p id="b-9a79acfb56ca4371aa6b315ddd45214b"></p>
+</td>
+<td id="b-de2556685246416ebedca69ea088180f">
+<p id="b-0a161ddb1e0b411baf6480fbac798cd6"></p>
+</td>
+</tr>
+<tr id="b-cad00ad250f7493aac9d11235b2a3559">
+<td id="b-6cf23a4c82c74b448ff9d464fa1abe3a" style="background-color:rgb(255, 255, 255)">
+<p id="b-0ad50766643f42ac861ed10d0cd25ba1">（六）饭圈与媚外</p>
+</td>
+<td id="b-9c3d2a3099414872906df843c0bab809" style="background-color:rgb(255, 255, 255)">
+<p id="b-d18c22c0629844ca9df8bee6f788e911"></p>
+</td>
+<td id="b-94fb4adaf14a41ac8ca6c4e17ef9dba9">
+<p id="b-8d65925dca1b42a4ad03781101723f19"></p>
+</td>
+<td id="b-f0de8be65a81475d84871a88c7bee808">
+<p id="b-0c47de390e684fada8abc87460bc3aa6"></p>
+</td>
+<td id="b-578a9cfee8964764bfa779773f9272ff">
+<p id="b-805c2b224d194c518b39f78210cb2080"></p>
+</td>
+<td id="b-9837f3d84c0c4ff5880a73b0aeb263ea">
+<p id="b-586d75595554418e8527d270628ad466"></p>
+</td>
+</tr>
+<tr id="b-e153a45f9e6e4f9b9013bf2322ead041">
+<td rowspan="13" id="b-854bebf7f22c41a797e527128fb66e5b" style="background-color:rgb(255, 255, 255)">
+<h2 id="b-a83afd291d30431e8925ed57b8add7b6">二十、软色情违规</h2>
+</td>
+<td rowspan="13" id="b-5187e22ccf5343ce8197b37ffb73ed2d" style="background-color:rgb(255, 255, 255)">
+<p id="b-9508cf5146264aec8f7beaeaf6857fd6">（一）全域软色违规</p>
+</td>
+<td rowspan="13" id="b-611a9318b57a4f9aa86edde15bf0ae0d" style="background-color:rgb(255, 255, 255)">
+<p id="b-f802eddeba5b4038bc2a5b5affeb38e6"><span>暗示性行为、</span><span style="color: ">暗示性器官、</span><blockquote>暗示性场景</blockquote>、性挑逗、<span>成人用品、性话题、</span><blockquote>性感动漫</blockquote>、身体大面积裸露、敏感部位纹身、敏感部位特写、着装暴露、性感舞蹈、亲密动作、突出身体曲线、提及AV演员</p>
+</td>
+<td rowspan="13" id="b-ec1e2a4f567f4bfeb4d910398a3f5252">
+<p id="b-3813e265a9fd4253b6c598f3ef960c55"><a href="../2719399744/README.md" title="学城原文：https://km.sankuai.com/collabpage/2719399744；已保存正文" id="b-ca1a7bef7358414589d48c7af28c2179">https://km.sankuai.com/collabpage/2719399744</a></p>
+</td>
+<td id="b-c62326a7c6224af0be75af1290336c50" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-5e91f8a796384d81b32e9e5615f4bf0a" style="text-align:start"><span style="font-size:14px">到综女仆治理标准</span></p>
+</td>
+<td id="b-e84eab666cda4ed998c0663a7245f48c" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-474d3738b11945da806c96f05074a752" style="text-align:start"><a href="../1284047684/README.md" title="学城原文：https://km.sankuai.com/page/1284047684；已保存正文" id="b-1dc8235def19450e8e7aa41a56911525">女仆治理标准-文字</a></p>
+<p id="b-1da1d231cebe43b6a1b511707ed2cd60" style="text-align:start"><a href="../1309933588/README.md" title="学城原文：https://km.sankuai.com/page/1309933588；无权限" id="b-2eb7873e72f6497db5fd5fcb7897762d">高危品类榜单业务</a></p>
+<p id="b-b94af8881c2048c0b2f86b26ec64e793" style="text-align:start"><a href="../1309830046/README.md" title="学城原文：https://km.sankuai.com/page/1309830046；无权限" id="b-ae2311c425f74b75aea9a7f168da4e8d">榜单业务</a></p>
+</td>
+<td id="b-e33b67bd81f74cd1b4a18f75513f132e">
+<p id="b-9ced77d9c5554aada0aedce1e80d76ef"></p>
+</td>
+<td id="b-a4f2d70a20584d0f9e4d51434000987f">
+<p id="b-18be3a820f904bd19cb5ce623bef1778"></p>
+</td>
+</tr>
+<tr id="b-bce34a0e922c4e53ba342fbac06aa621">
+<td id="b-43de640f180646d6bb934cd57ad4dc66" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-e75364702ff6418b80e1ff39266256ce" style="text-align:start"><span style="font-size:14px">高危品类性感图片标准</span></p>
+</td>
+<td id="b-6d3732ede06646d59ee90deed95d1746" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-909c25bb4b534e94a7dd659734221578" style="text-align:start"><a href="../270298402/README.md" title="学城原文：https://km.sankuai.com/page/270298402；无权限" id="b-0aaba642c28741ac9a72f21842e54ba0">高危品类（性感）</a></p>
+</td>
+<td id="b-ed607774acba4153902313a443b5c4fb">
+<p id="b-a70e28be0dcb491c945fd70d6491f937"></p>
+</td>
+<td id="b-b1b540d2078446a5b0b53af97b65d0a4">
+<p id="b-951e96686f9e4b879f588fdd8c65de0a"></p>
+</td>
+</tr>
+<tr id="b-1ce13544766d4aada912ea3ddc249ba0">
+<td id="b-11469ae20f1b4a6b9aead4bf9ccb4a2a" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-1ce8344d201a4387bae0245380914196" style="text-align:start"><span style="font-size:14px">高危品类榜单业务</span></p>
+</td>
+<td id="b-5cfeedf4d71f44a4bc8826485ca44908" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-6eb9777a7e6c426eb26ee3837342ca7d" style="text-align:start"><a href="../1309870243/README.md" title="学城原文：https://km.sankuai.com/page/1309870243；无权限" id="b-24eee01f006e42a3994934936964e5bf">榜单业务</a></p>
+</td>
+<td id="b-ab63d7520bbd480ca14cae4802cd0d9f">
+<p id="b-9f8b1c3bd26b4e208130aea02245db04"></p>
+</td>
+<td id="b-ff0984474795482692012a41ccff37b5" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-eda25c6ff1934abfba5e6b20006ab44d" style="text-align:start"></p>
+</td>
+</tr>
+<tr id="b-ae12eece046044dca589093cff6c053c">
+<td id="b-9e16fef602a746ddb667a990a8d4f28b" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-8c8bd841099c4b96968050e78eb2d948" style="text-align:start"><span style="font-size:14px">酒吧、KTV、娱乐会所图片标准类目标准</span></p>
+</td>
+<td id="b-f4f24f2b380d48c2ac0b3f3aacf79421" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-18191f71097b4e26af96ea9bfb68117d" style="text-align:start"><a href="../270269900/README.md" title="学城原文：https://km.sankuai.com/page/270269900；无权限" id="b-fd741e8431fe40bb89455c82fd3c8d99">酒吧、KTV、娱乐会所</a></p>
+</td>
+<td id="b-2a37381630a64979b18a931752972b05">
+<p id="b-3853cabc09f1420a87dc3fa78b5d3959"></p>
+</td>
+<td id="b-a529116c387d4af0a33e426fb95191d2" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-d6d8c32d4a7749de82ee257cd6d95b1f"></p>
+</td>
+</tr>
+<tr id="b-7abc76bb26224fe3b26bd4f4fc3f6fb0">
+<td id="b-0f534f71b6364e1dac973ee29859c2a9" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-1825bc23c3424cce90869e6081884ac1" style="text-align:start"><span style="font-size:14px">医美图片标准类目标准</span></p>
+</td>
+<td id="b-3b241d61b2474926866a2964a41b1820" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-60b24743aa0248f0bdd3b3c55f1dce0f" style="text-align:start"><a href="../637101953/README.md" title="学城原文：https://km.sankuai.com/page/637101953；无权限" id="b-6fa81ed6d6a74a158e0efaf28e0d824d">医美标准</a></p>
+</td>
+<td id="b-aee77a62ecbf47b69ab691500a8ad60a">
+<p id="b-d948c547805e45248c51c81b35a2dca8"></p>
+</td>
+<td id="b-57c4ba957ae24b34a5a7607c64cb244b" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-1407e74ae9df45878153bc52440489fe"></p>
+</td>
+</tr>
+<tr id="b-4d7495f5da7743838004c48384a37dd6">
+<td id="b-097a85352a3b4bf3a9110638e62ac50a" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-2d4a90fed19e41f684578fbad9e18e71" style="text-align:start"><span style="font-size:14px">娃娃&amp;成人体验商户名标准</span></p>
+</td>
+<td id="b-4d494b84c33b4fa3b06040476ff555bc" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-c4bc6658ae3e40e9b86124e43c3c1fa6" style="text-align:start"><a href="../1213018209/README.md" title="学城原文：https://km.sankuai.com/page/1213018209；无权限" id="b-9c491c0128f64e6a9feefab9d3b27423">商户名</a></p>
+</td>
+<td id="b-e6600aaa8c9047c58deb0a7ef9a85b08">
+<p id="b-afee3134985d4b0c9ca6729373a57075"></p>
+</td>
+<td id="b-57a5f81d9d974821822a294b6e074214" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-02f0cdc46eaa49bbb490a44b9e1f7af6" style="text-align:start"></p>
+</td>
+</tr>
+<tr id="b-ab9ad2b796964ef6a8aad1330031d009">
+<td id="b-10abcd9945c84ba8b35478f7cb888b43" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-e30ebd55ea3f4bd9a1629f629652962a" style="text-align:start"><span style="font-size:14px">高危品类软色情文字标准</span></p>
+</td>
+<td id="b-dd83d5150a15464380ade1878d1c39ec" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-344b66b37afb408295fa4f2176081dcb" style="text-align:start"><a href="../532736842/README.md" title="学城原文：https://km.sankuai.com/page/532736842；无权限" id="b-d7a6b327636447f7b0a88cd1dc71d348">高危品类</a></p>
+</td>
+<td id="b-77928714e01f4ac2a928384c3231a552">
+<p id="b-03ac8e2a7f6b4cdabb6c5736cdc6af26"></p>
+</td>
+<td id="b-c5a2210c414d4aac8e134be737dd5f5f" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-b81085cc58be423fac7c2093fee0371c"></p>
+</td>
+</tr>
+<tr id="b-e23b144103754fa5bacb703073792852">
+<td id="b-68bca9e538424bbda6c1021315450b14" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-b815b8b15ef84f8a8088d76f15b01a22" style="text-align:start"><span style="font-size:14px">高危品类美团点评评论性暗示</span></p>
+</td>
+<td id="b-3abde9489ee749b087e5af2842364ba5" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-58a083a5a62b467eb2d44c0ec4ca984a" style="text-align:start"><a href="../532909577/README.md" title="学城原文：https://km.sankuai.com/page/532909577；无权限" id="b-05995da3d8954fb5bf1f367b18ba946b">点评+到店的评论业务</a></p>
+</td>
+<td id="b-4aee84e5da6e403397e2d96a7dec967f">
+<p id="b-df5f538ba9724c728496c2d5d82e0586"></p>
+</td>
+<td id="b-3276193a566943f0a8e1849e67272842" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-f3f4bc724dd34d3cbde49e1aca958c17" style="text-align:start"></p>
+</td>
+</tr>
+<tr id="b-c05527d5140741d684edcbefd973c2ee">
+<td id="b-d9997fcb80934c6aa1c9fda16126caba" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-8d3088282e9549af85ece768184154e6" style="text-align:start"><span style="font-size:14px">高危品类商户名性暗示</span></p>
+</td>
+<td id="b-47c83a81e35a4bbda7c9cf7f0d052c6f" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-6fbb8fbb0377415892440ddf4066216c" style="text-align:start"><a href="../548712443/README.md" title="学城原文：https://km.sankuai.com/page/548712443；无权限" id="b-53c451f24fd4446f941e1e637957c00d">商户名</a></p>
+</td>
+<td id="b-a83dc05d49ab4c169c456c712a7d11cd">
+<p id="b-95dea04493c8417f9ce1bafa1fe7096f"></p>
+</td>
+<td id="b-cc79776576d54c20b733926dc6f282a2" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-f71d8c88ff064e38bee8802fb1a8d969"></p>
+</td>
+</tr>
+<tr id="b-57aa00793c2140c1ace8b209cb5824f8">
+<td id="b-9a66c611dd504c8996fd4a7b7849d758" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-a0712b11f8ac4a07b8a0b10b8c43aa4b" style="text-align:start"><span style="font-size:14px">高危品类团单性暗示</span></p>
+</td>
+<td id="b-415fa459b2ed4c35ad33fe894d8c48a6" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-9af8aaaf2a3d4738b9e560381890c001" style="text-align:start"><a href="../532830127/README.md" title="学城原文：https://km.sankuai.com/page/532830127；无权限" id="b-27f06721e88c463e93d2f06f4af27ceb">团单</a></p>
+</td>
+<td id="b-49ac03485afc431e886c334471e099db">
+<p id="b-401bab4a62a1462c9623b88ec9520b27"></p>
+</td>
+<td id="b-f1e03814f33e42cb9ba6518dc38e1231" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-daa44ab7ace7449c935cf028848dd7f3"></p>
+</td>
+</tr>
+<tr id="b-cdbc95529e354394a0863ddf85219da2">
+<td id="b-c9c31f94800640fa8cfc4a77b2a7dae6" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-6ab4b4dd967e4df1adb513ac2a0cc9c7" style="text-align:start"><span style="font-size:14px">高危品类色情性感用户回应标准</span></p>
+</td>
+<td id="b-6f3e8dc5e1e34071a50c8184d141d768" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-288823bf68714c28923d558558b8322c" style="text-align:start"><a href="../532907411/README.md" title="学城原文：https://km.sankuai.com/page/532907411；无权限" id="b-493323adf64d41abaf89a51aefe67d0c">高危品类-用户回应</a></p>
+</td>
+<td id="b-e9690814913943e99fcedb46c97a5294">
+<p id="b-0746d18286404d02a2c494060218df0c"></p>
+</td>
+<td id="b-2accdb330d8b44a98727e8afd2397e08" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-3ee256d27137444ea4204ea0909f2356"></p>
+</td>
+</tr>
+<tr id="b-b6c786272db54533a1b5c3f863fa483d">
+<td id="b-8599563db1f448d8a7bcfc963b6e353f" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-fcef8bcfb0e24e508b826ad6ae000142" style="text-align:start"><span style="font-size:14px">特殊业务标准</span></p>
+</td>
+<td id="b-83c02357c71b47c184d8d696dd5ff8a4" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-692d7ae946494008b7d887b77118ed74" style="text-align:start"><a href="../532801638/README.md" title="学城原文：https://km.sankuai.com/page/532801638；无权限" id="b-3bdd9e5736344a578ff4815f9f87534e">零售收银数据</a></p>
+<p id="b-1faa31e7e782448a80c89090ff165ea9" style="text-align:start"><a href="../532912065/README.md" title="学城原文：https://km.sankuai.com/page/532912065；无权限" id="b-8e741cb4f4ac45329f1a4cdadeba6705">推荐菜</a></p>
+</td>
+<td id="b-955d85e63c7f448abb2d48fdb7b4d2f6">
+<p id="b-6ada0a81b0c4427a916be013e9f162be"></p>
+</td>
+<td id="b-e21f28c2cd844e59bf2681558b37f06a" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-cdaa1b74fa624229a292a4de1cd5619a" style="text-align:start"></p>
+</td>
+</tr>
+<tr id="b-f328892198fe47ac8b1438a4016a3fd3">
+<td id="b-43c26b1851524e5d86ccb7636ace1f69" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-1016edd07fc04f0db5d485c9be8cff7c" style="text-align:start"><span style="font-size:14px">躺式采耳，拟废除</span></p>
+</td>
+<td id="b-72063a413d1e44ce82b36a9c8eb7b191" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-308d90f9f392470c97948be62c7632c7" style="text-align:start"><a href="../1319397021/README.md" title="学城原文：https://km.sankuai.com/page/1319397021；无权限" id="b-2408914bcc7040ccaa5a23a593875cd4">商户名标准</a></p>
+</td>
+<td id="b-8332bdf1ac2045f6876dcd8463d5b666">
+<p id="b-f5252eaf18fe41ac81141777558153fb"></p>
+</td>
+<td id="b-3e984a23fa14449492fd9b34e7243127" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-c4d39ca85a2c401088d4a65443552d45"></p>
+</td>
+</tr>
+<tr id="b-66cecef6b9864bc6b4257d7f66ab709e">
+<td rowspan="4" id="b-0927baf465c04300a0b5b93bad8bba57" style="background-color:rgb(255, 255, 255)">
+<h2 id="b-2f4f1362cb874986877691cb4621f734">二十一、性文化与自伤</h2>
+</td>
+<td id="b-832913ca4ba84b6a89a4429cd12f7465" style="background-color:rgb(255, 255, 255)">
+<p id="b-98ba16dfb3cc4711a7943fb9b0a8e54b">（一）非主流性向</p>
+</td>
+<td id="b-0ae8b1ebc11f47039144f69a191a69c6" style="background-color:#FFF">
+<p id="b-20b21dc83f594e7d99bbdfc85c63b220"><blockquote>同性恋</blockquote></p>
+</td>
+<td rowspan="4" id="b-cbe1a45b86cc4a22ba0d9f2f7dbfab00">
+<p id="b-5357bd3e58d140ff9eaf2e534300ccee"><a href="../2722967110/README.md" title="学城原文：https://km.sankuai.com/collabpage/2722967110；已保存正文" id="b-d746c6a78ccd402c877cc649ddf67205">https://km.sankuai.com/collabpage/2722967110</a></p>
+</td>
+<td id="b-7e3f5a37c455429c846ed16e217047cc">
+<p id="b-cb79cdead1aa44cf843492823c4ee768"></p>
+</td>
+<td id="b-77026c26a2ef4160acc16836e83954ce">
+<p id="b-ab824bbbe4074efb9c3350d1a097498d"></p>
+</td>
+<td id="b-7b3e99b95a754752b2256d60735a1bfd">
+<p id="b-9736149dd9aa4d348bfbe6d4e6b5a95d"></p>
+</td>
+<td id="b-0993e49961b84fb1b50b5175ddcc410f">
+<p id="b-6c81fbce96d9455e824be689e1b0a162"></p>
+</td>
+</tr>
+<tr id="b-68c17fd88b234d879ea04497f7b0bd7d">
+<td id="b-ffe0f05f941942a58e8b53ce88160598">
+<p id="b-38fb0123607f415788a3dacc3dd794c2">（二）非主流性向（严控）</p>
+</td>
+<td id="b-939d5a33c5c74f858eb0f15df13d8379">
+<p id="b-82c6c4ef80f24fc48f2724dedce1dc01"></p>
+</td>
+<td id="b-88136b727d5e4a0ab45c7046df6ede14">
+<p id="b-8da26353cafd4982bdfe35b971fce296"></p>
+</td>
+<td id="b-ebc4fab5dbb342139ddea75d287a8694">
+<p id="b-5a3113d9bb954aecbda36d84cf237445"></p>
+</td>
+<td id="b-d38b90d56471435fa843bb7406e71298">
+<p id="b-a9ce665070294e1cb69cb660affc86c9"></p>
+</td>
+<td id="b-1c9c417d42aa452791ebd0fe89f43e1b">
+<p id="b-a990100176be469184c91e0cf803cac6"></p>
+</td>
+</tr>
+<tr id="b-89cc2a483a25481b95634fa10b55fb05">
+<td id="b-5c6fc5fa9da94c26b49c119c4b9ec61c" style="background-color:rgb(255, 255, 255)">
+<p id="b-7fa88d6b10514cb885a10299fa51188d">（三）自伤自残</p>
+</td>
+<td id="b-4401014ec2794449a8a2771739da2b0e" style="background-color:rgb(255, 255, 255)">
+<p id="b-d5f799b2abca4b6e82d928c074959c4f"></p>
+</td>
+<td id="b-96741cb1b4bf49df91c84aa0f4562ec9">
+<p id="b-78c781eec90348c08a989230f21d4df4"></p>
+</td>
+<td id="b-b2adea0fc2ff4cc4801a1e0d01c60b59">
+<p id="b-7855b192c58d44789395e60b6639018a"></p>
+</td>
+<td id="b-749138e297364ec794fad0a723187410">
+<p id="b-97a276c17c1f4ee5b960a3fb9293cf99"></p>
+</td>
+<td id="b-3c3095b7ffc748a0bc5da62cac3b42a6">
+<p id="b-9cd609515d24467aa8e482856d162982"></p>
+</td>
+</tr>
+<tr id="b-817369176ca641d8a856e192e35e4e2f">
+<td id="b-d2b8f32f9b1744e58731685969ba931c">
+<p id="b-7321c9ac297245138742e7cdea154acd">（四）涉性非违规（新）</p>
+</td>
+<td id="b-73069ba0888b46f09e2629584eaa72d0">
+<p id="b-bb67d2322d65482089e9ee9e1a1f42e9"></p>
+</td>
+<td id="b-3a80bc9de8c84ab2ba32552116130031">
+<p id="b-5549ebb07ba043ad8c1e7a062e676729"></p>
+</td>
+<td id="b-2698c14dc46345c894e2cbf0aeac2271">
+<p id="b-7865ae5b4d3741479114e652ed0a3673"></p>
+</td>
+<td id="b-baf225b265ca4521909003a66c800300">
+<p id="b-18ad85f1694c421495dbdb0a7103f401"></p>
+</td>
+<td id="b-d342359c8a244a82a15f26e225a9f054">
+<p id="b-3345b1ff99944201b9cfb8a6335f4dd5"></p>
+</td>
+</tr>
+<tr id="b-d189c658e0bf432cb6bee01440d39127">
+<td rowspan="8" id="b-1e98b21b074a45158e85cbf10c3733a2" style="background-color:rgb(255, 255, 255)">
+<h2 id="b-c7be694851424a2f8b3e1763b3615cdb">二十二、营销导流</h2>
+</td>
+<td id="b-1d5974a049f64f509b7d9300da45db1c" style="background-color:rgb(255, 255, 255)">
+<p id="b-86e4f44472a049ea8bb2399b6b138594">（一）硬广</p>
+</td>
+<td id="b-a897a9412cd24de79a1dac68c4bbbfe8" style="background-color:rgb(255, 255, 255)">
+<p id="b-b804ab13c53e48e0b215a9da03459a29"></p>
+</td>
+<td rowspan="8" id="b-eb0b9ad5644342a393b900e6f1f331ef">
+<p id="b-ae25161aee5b4b5c9407d52c18dcab46"><a href="../1626219089/README.md" title="学城原文：https://km.sankuai.com/collabpage/1626219089；已保存正文" id="b-405dec9393c54bfe9f090d3784a39e32">营销导流审核标准</a></p>
+</td>
+<td id="b-86a84a9aba1a4b7aa54915dbea3cc442">
+<p id="b-d1c2c6b34d344de199ac4ff2843b7cc8"></p>
+</td>
+<td id="b-e4df1502cb3a461db32f2ccdb4539607">
+<p id="b-c7395a6ee6064825aecb64c9c727e457"></p>
+</td>
+<td id="b-5165070078144f2799493cd2a40f15a6">
+<p id="b-84d0a20e91cf4930820aca97940f1a8e"></p>
+</td>
+<td id="b-d1d66b46b5fd40f68af90299439ad3de">
+<p id="b-115757bd42ec4f1589911764f36b8c9a"></p>
+</td>
+</tr>
+<tr id="b-05576afdb8aa4ca999051233774f1ca4">
+<td id="b-e082bc14b7ae47408343f2afa067c219">
+<p id="b-854b020e96d94a64a61a40a93e7b67bd">（二）硬广(骑手业务)</p>
+</td>
+<td id="b-0c15159361d74ec3a00a4c1267af635b">
+<p id="b-d9880c7b7e704304aabf9800c39138e0"></p>
+</td>
+<td id="b-1d26453b778e42888e24c681a19de173">
+<p id="b-af831daf4f1943138286de2189fa8cb9"></p>
+</td>
+<td id="b-03a2cbb1e6f242199047bc6f2b504351">
+<p id="b-af29bd6cb3804cd3b77ac172b6194ccc"></p>
+</td>
+<td id="b-9b59cf1b7e774a06bdacd2eb0722de46">
+<p id="b-d2f473a4912e4446beafab90f7cddfc2"></p>
+</td>
+<td id="b-b0beaf609a0c44868e9d80a85c464ab9">
+<p id="b-2e1f956b00f64c99856634de4c81aece"></p>
+</td>
+</tr>
+<tr id="b-557faca77bdf4aa19b4b6b13365ef10e">
+<td id="b-eb287482db2348e0b102401a6bfbecc4">
+<p id="b-278a450a5fed4602b226d2de36165c1f">（三）联系方式</p>
+</td>
+<td id="b-21b88afa921f4a5d8ff8acb36439c7e6">
+<p id="b-65f4e3251c934f99bd8f12eb1802bcff"></p>
+</td>
+<td id="b-13bc7d50b0c644aab63ed6ef4d5d7a1c">
+<p id="b-0d18c23c7ad44ec49872f8e6c5fc263d"></p>
+</td>
+<td id="b-15912e40c4e147fcafa789f84e17fd9c">
+<p id="b-2407149dc0df4d249c142a90d74f09f9"></p>
+</td>
+<td id="b-49ab1120708e417ba31aaa99add86210">
+<p id="b-394470dc6d4b499cb3c25f9cd89173ab"></p>
+</td>
+<td id="b-104cc15cf56747a9a68ee55804c91afc">
+<p id="b-621dc544f19f4cdc8117435dd3a2ed44"></p>
+</td>
+</tr>
+<tr id="b-b9878103cfd541f4b0819611b3f41f57">
+<td id="b-06cbc5fb317b454da94db975b74a11fd">
+<p id="b-1acb15a018ad4c8aa72d520d1bad5fd8">（四）联系方式（骑手业务）</p>
+</td>
+<td id="b-465789b696944e05a703d1d327c52e81">
+<p id="b-80a646fc1caa4f78acb116207a81881e"></p>
+</td>
+<td id="b-38de24067e47410a8192619c90def009">
+<p id="b-940158b7650c430cab4210cec0d307b6"></p>
+</td>
+<td id="b-d0fcc83382f14734b25b76c2e348928e">
+<p id="b-760c0d45a2e24cf58bf62de4f9b461f9"></p>
+</td>
+<td id="b-33ebbee97ab4437ab2241129b46f43a1">
+<p id="b-badee39c66d44a3b829aadd5fdb4ae0d"></p>
+</td>
+<td id="b-e805dcd98140450da7b12087ca183903">
+<p id="b-1120ab97ed224e75abb712963478ebf4"></p>
+</td>
+</tr>
+<tr id="b-770790734e144a1a91738b495ad5658c">
+<td id="b-133ef8da35734137a7c944012ec7a826">
+<p id="b-49cd3e3df1d44bd49e3ecee3b3d9b060">（五）未授权平台导流</p>
+</td>
+<td id="b-c0cc7d2e5f034fa5bdd143642dd43568">
+<p id="b-ca092560c4a64cf6b27efc0705a75814"></p>
+</td>
+<td id="b-2abb5ebac1134daeaed35185ed8e6790">
+<p id="b-6f0fa5ffa12c4b1fb7139755665fd0fe"></p>
+</td>
+<td id="b-3882980b6f6e4c5fa170a0b58a0378cf">
+<p id="b-fba6ec2a208c44ecbc5b61b8c6cee436"></p>
+</td>
+<td id="b-8cb701b41cbf491d8b3d68ec1b6648f0">
+<p id="b-cf8a09f42301482c89ef0abfcfbb561b"></p>
+</td>
+<td id="b-36e0cd0597ab48dabb3f1945ad40cc3f">
+<p id="b-3ba202a07602412886f3df35e7ccbfb7"></p>
+</td>
+</tr>
+<tr id="b-6441cc7b478048f9b89908396e46e8cd">
+<td id="b-2184e10fcc4a4cde8d081e7b54cd831f">
+<p id="b-311b11507a7c4b0dad968ddd39655e29">（六）未授权平台导流（严控）</p>
+</td>
+<td id="b-b297defa86e54f95bf28eb4d32ed085d">
+<p id="b-f7ae28f6127c446b84a735b7cfa2d144"></p>
+</td>
+<td id="b-adb34fa7de2741d2944b7f19caf2d1e3">
+<p id="b-42d323773968433b9c34f9a8399ab522"></p>
+</td>
+<td id="b-1157b3c33f9a4ad0976f7a13919f8cac">
+<p id="b-ef8a31a1810e456092389f492d0b277c"></p>
+</td>
+<td id="b-69ed745fd80c4ccf901abeed66bfaefb">
+<p id="b-0ab596ec357c46da85c9f887327f6e9d"></p>
+</td>
+<td id="b-f56b81029fbf46f39ad131b96a4cadb0">
+<p id="b-89b9f05b2168448393476154d6a4b94c"></p>
+</td>
+</tr>
+<tr id="b-7efae54268bd495ba76dcb18673d23e4">
+<td id="b-02dcfd6c7f5e4a7eb17cc19c0bdd2491">
+<p id="b-d966dda7b3b245b28a3eb9b5155f2084">（七）休娱高危行业导流</p>
+</td>
+<td id="b-017bfc20f46e43a5bee39da6bd34ca37">
+<p id="b-2b47a80edcd145dfaf6da834d9fa2d52"></p>
+</td>
+<td id="b-1d0b7ef6331440728e1021e2fae9fb02">
+<p id="b-1df525fe2d86434180cfa3f72c8d5568"></p>
+</td>
+<td id="b-325531bbe2364898a9255b1c4c435653">
+<p id="b-71e28a1e7ac04e6a822fd36de0e249a9"></p>
+</td>
+<td id="b-bf0517628adc4b48a94eacd2621e67b1">
+<p id="b-01a7eb2fa1564cc49015c8dcbc06398e"></p>
+</td>
+<td id="b-529722285fda4330a4711b80b4c979d8">
+<p id="b-a43dd8a2a49040d9b7b2e859b99f85cb"></p>
+</td>
+</tr>
+<tr id="b-abab005c7e604ecdad2785582db57900">
+<td id="b-e71f050e5b6545478bed6d36632b2d87" style="background-color:rgb(255, 255, 255)">
+<p id="b-a323f2cceff2443cb3f5b0bdb9a0e6df">（八）性暗示导流</p>
+</td>
+<td id="b-8ff31cb8d0aa46e5b9ccb7aa9285b913" style="background-color:rgb(255, 255, 255)">
+<p id="b-e6a6060c88f24cf3b16ffa36510b7789"></p>
+</td>
+<td id="b-acc5399418ce490e980edf0a297718e6" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-d4e9af2f6a594cf8b931d18252d8ef3b" style="text-align:start"><span style="font-size:14px">高危品类联系方式</span></p>
+</td>
+<td id="b-7f2972db18c64cde915e3ada3b77b39a" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-8639f65b314a4f28b108e2622caf01ed" style="text-align:start"><a href="../270747201/README.md" title="学城原文：https://km.sankuai.com/page/270747201；无权限" id="b-c10927dbf8364930b9811066349a7af6">高危品类</a></p>
+</td>
+<td id="b-bc520271bf414fbcb7f00ec8ff6e7772">
+<p id="b-0cba9ae3e15f4acfabc37df05802ec7a"></p>
+</td>
+<td id="b-0f9f123ca1e2405386c9502a2f5483ab">
+<p id="b-89e0a9d65079430996ccb44c8fa4a016"></p>
+</td>
+</tr>
+<tr id="b-d72beda6b3fb40a6be0c1b31561eed83">
+<td rowspan="2" id="b-e48f627c5f084a2d9f2a91538a14b358" style="background-color:rgb(255, 255, 255)">
+<h2 id="b-e3e114c0e2d54aaf9feeeab4e9bc0d67">二十三、引人不适</h2>
+</td>
+<td id="b-ba7f604e30a944558944868b9d32b1b1" style="background-color:rgb(255, 255, 255)">
+<p id="b-4a2f7b0812c44305aa5e114f23673467">（一）重度引人不适</p>
+</td>
+<td id="b-c0e6af7eb9464c42b0bc07b20952b890" style="background-color:rgb(255, 255, 255)">
+<p id="b-fb1ffb2402d14bf8b037133195c491f5"></p>
+</td>
+<td rowspan="2" id="b-dc68bdaa209c4446aabaea4ac5745a2d">
+<p id="b-0d2d9028d44548ecbc867df76eeb8461"><a href="../2715173386/README.md" title="学城原文：https://km.sankuai.com/collabpage/2715173386；无权限" id="b-5ede97ab8c784f99b2229407ec702bc2">https://km.sankuai.com/collabpage/2715173386</a></p>
+</td>
+<td id="b-f8034dacd5ad40a087fef46df3d9c4ff">
+<p id="b-a81bbc3ed7064ee6a74b8c8f0794e012"></p>
+</td>
+<td id="b-6fa7c27c403c4f4bb5d5aa5a8d3089fe">
+<p id="b-81064f3bc34c4ffeaa748a4f06a00b9e"></p>
+</td>
+<td id="b-55d7b29a808948e7a5019a14f635005f">
+<p id="b-73e3106bbefc4263b2524db7b8c69030"></p>
+</td>
+<td id="b-eb605bfe7eb944a6bbc35234766ce904">
+<p id="b-c0be9b6e85e844d9ba67427cc4033b90"></p>
+</td>
+</tr>
+<tr id="b-47de9d11b6b4466abed158c8dcab0ed8">
+<td id="b-63df9d349b264bea863693b0dbb7a0ea" style="background-color:rgb(255, 255, 255)">
+<p id="b-ffb2b5d66fa74d9a9773b2a260269edf">（二）轻度引人不适</p>
+</td>
+<td id="b-df3b3ca7cf76429aa5e43d6cfdb88e51" style="background-color:rgb(255, 255, 255)">
+<p id="b-2122c6194be04194b2ce1124b510fa5d"></p>
+</td>
+<td id="b-1e91316823244530aca4a419b188530c">
+<p id="b-ed1c161bcf8a4451963910fbbf2c482d"></p>
+</td>
+<td id="b-302d19674b55440f9957c6d1e3625544">
+<p id="b-8135fa16bb064c01b4c548bcb7181971"></p>
+</td>
+<td id="b-a2347710e67d46ec9cb3e76c39c6ab39">
+<p id="b-6156d166eed84cb2a3ed24d9e2d78b99"></p>
+</td>
+<td id="b-8c4c1eff9c474f0783d9c0dcfac5cad4">
+<p id="b-20cfb590a48a4f72a24e79a6930b94bb"></p>
+</td>
+</tr>
+<tr id="b-a9653afad78e45e4a7440779dec8ebc2">
+<td rowspan="2" id="b-e32555182d1141b49277c845b10a3d52" style="background-color:rgb(255, 255, 255)">
+<h2 id="b-0105b15bf0f147919e7b810cd44b9ef4">二十四、虚假</h2>
+</td>
+<td id="b-3552e3f530eb428bac1631cd0425fa3a" style="background-color:rgb(255, 255, 255)">
+<p id="b-38fe61d44c294a688a30c0627b90681d">（一）散布谣言</p>
+</td>
+<td id="b-72b6a5d55f314787aac7420e6faf4dcc" style="background-color:rgb(255, 255, 255)">
+<p id="b-ac26624dceab4de1a2d17d9cfa13a955"></p>
+</td>
+<td rowspan="2" id="b-e30ac139d2e449288a6efa045c20acf0">
+<p id="b-c0fe6b92cedc47c78177e0779bfcde4e"><blockquote><blockquote><a href="../1626442233/README.md" title="学城原文：https://km.sankuai.com/collabpage/1626442233；无权限" id="b-dc6c305d1b0d4e69bf0edd1190438ad1"><blockquote><blockquote>虚假审核标准</blockquote></blockquote></a></blockquote></blockquote></p>
+</td>
+<td id="b-7d6d16d9a59d4204ae16d500ab9fe282" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-61775c92118242b0a02e8ea033c6a9a6" style="text-align:start"><span style="font-size:14px">内容推荐审核标准</span></p>
+</td>
+<td id="b-1647539d1cf642e483c79e3cb6e864fe" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-78e3d3f5b8424ac58a7b42dc2b762850" style="text-align:start"><a href="../1200594341/README.md" title="学城原文：https://km.sankuai.com/page/1200594341；无权限" id="b-91ad12e6b12741ab858bf2db07984191">内容推荐审核标准</a></p>
+</td>
+<td id="b-f1950d1989c042cb83f01f65d418d7ed" style="background-color:#F4F5F7">
+<p id="b-1a177d4991824129bc4187d6f9df6435"><a href="../1218115668/README.md" title="学城原文：https://km.sankuai.com/page/1218115668；已保存正文" id="b-1d1b747e764c4df5a2801d8a71c83262">3、接入-美团feeds现有type整理</a></p>
+<p id="b-42b99c3e918746e2b8805f25104346bc"><a href="../1668032171/README.md" title="学城原文：https://km.sankuai.com/collabpage/1668032171；已保存正文" id="b-9f7aa01ecb5e456ebbd159bc4710ace8">B类 「N53」</a></p>
+</td>
+<td id="b-5a4e391bec29490381c3c4b43805d84a">
+<p id="b-2d227b0691c74b9d8c6e3119db8572fb"></p>
+</td>
+</tr>
+<tr id="b-4e218c4274c044dea617dc2ddccd5002">
+<td id="b-4bac5c2558624ea1b5716508fafa6037" style="background-color:rgb(255, 255, 255)">
+<p id="b-531e8d2b7aa8461885dc8137567922aa">（二）伪科学</p>
+</td>
+<td id="b-633d23548b5d4d7ab9e313ec5200c85b" style="background-color:rgb(255, 255, 255)">
+<p id="b-5a50cfb4e97d44c9917d8363bf6f6462"></p>
+</td>
+<td id="b-a443d1da126d4934afe9332f51f3676a">
+<p id="b-d660ba0dec6c47978e4a46747ba0d9b3"></p>
+</td>
+<td id="b-dc0b2d0724114d89bf840e235aa7bac4">
+<p id="b-aaa7f8a08d6c4a4bb2f424df28008693"></p>
+</td>
+<td id="b-9b5e7aab06b54b7f8fa8bcbabcdb798e">
+<p id="b-944bd6a6bff54cbbbcd3a71c454bfdcc"></p>
+</td>
+<td id="b-9722933b1b2a4896a344a5b25cb6499b">
+<p id="b-1e49250025734e15b3baa8b452af6f7b"></p>
+</td>
+</tr>
+<tr id="b-43cc0667a7d24200857308933a7d90ae">
+<td rowspan="2" id="b-147dd06d999642c7b534934ca40e44b5">
+<h2 id="b-d86bcb215a1c4fc5ac3554aabec059e7">二十五、平台保护</h2>
+</td>
+<td id="b-fbfd21aa9f3b4c71bfd39811329697da">
+<p id="b-36ebe22a504745f5ac4c8a7f542bf2b4">（一）友商广告</p>
+</td>
+<td id="b-9a25a6c8c69a4bc2a579261fb166b36e">
+<p id="b-6b17f4018c364b09b943e5787646f313"></p>
+</td>
+<td rowspan="2" id="b-2530ae84346040fab21a65c32e4ed6d4">
+<p id="b-4cd2d02325e14a81b31812ea2e5d49ac"><a href="../1985937886/README.md" title="学城原文：https://km.sankuai.com/collabpage/1985937886；已保存正文" id="b-3028a016095f4ff6af0ad9311a4f829a">https://km.sankuai.com/collabpage/1985937886</a></p>
+</td>
+<td id="b-523615dda5fd4fbfa1eb8ac47578382f">
+<p id="b-75666b0617054836aaca37d9eeab3fde"></p>
+</td>
+<td id="b-f4c9f3316b0349de81868ec46f9d1003">
+<p id="b-ed01c8f57a114e90af4c39c279a185e1"></p>
+</td>
+<td id="b-80e73c3b6fc84fb5b118dbdebc60e3a5">
+<p id="b-102c2c769c044ff18e4a961ea9336a64"></p>
+</td>
+<td id="b-60fab881f9a6498db374c29796cdcffc">
+<p id="b-1784c36b9197452084a1b87573a33f83"></p>
+</td>
+</tr>
+<tr id="b-ba40660cd81e42668fbee1a9c69ed1b0">
+<td id="b-773601c8014f436db2e02a24a8370fe3">
+<p id="b-67928df259e247a5a648646184c24962">（二）平台负面</p>
+</td>
+<td id="b-fc75127f35734139a1bcbf7e43161aa8">
+<p id="b-59c9c199b997402aa9933c0fc2dd5ab6"></p>
+</td>
+<td id="b-9287e0c6ba15491f94fda6dab860a9b6">
+<p id="b-6a108436403a496b9d7b9a4c8e17a33b"></p>
+</td>
+<td id="b-e8a6e91bc0674907910e8180b0e0d943">
+<p id="b-a53ba273343e45dbb4e5822bdbb5024e"></p>
+</td>
+<td id="b-3d3794ec96ee4dd2852d97c62261ec54">
+<p id="b-a7387f5dfa554b338ae8a0601dd9b973"></p>
+</td>
+<td id="b-656ec52c3c9e409bb654c0593d5bdee6">
+<p id="b-00717019bfd543739412839f6dd4cca1"></p>
+</td>
+</tr>
+<tr id="b-3a39f12d9f204e80a0bd6f4c49eda283">
+<td rowspan="7" id="b-7b8f62de80b94a1581116b22e7c33f60">
+<h1 id="b-3b220b04b6ce48fb89b978d8c0b43179"><span style="color:rgb(255, 74, 71)"><strong>内容低质审核规则</strong></span></h1>
+</td>
+<td id="b-8aba5cbf14d44c18bbd59658ca9ea44e" style="background-color:rgb(255, 255, 255)">
+<h2 id="b-7d0739ee533d43ba99a46a09bd9e003d">二十六、流量造假</h2>
+</td>
+<td id="b-96e9eb870aa54839ab71fa0961994f70" style="background-color:rgb(255, 255, 255)">
+<p id="b-bace37170df64726a921598e0cf4825d">（一）诱导互动</p>
+</td>
+<td id="b-c7ae9797b71945eab37bcce1416578cd" style="background-color:rgb(255, 255, 255)">
+<p id="b-0422ee1e28a342bb895f1b9ff0042532"></p>
+</td>
+<td id="b-8e095c4712274f39a26c012c4289f9cb">
+<p id="b-24c0df6c936044b4aca6f61e3acb2e00"><a href="../1627666362/README.md" title="学城原文：https://km.sankuai.com/collabpage/1627666362?from=citadel_collabpage；已保存正文" id="b-c20c3de6397d41acb09a0e9ccc916259">流量造假审核标准</a></p>
+</td>
+<td id="b-71731fb7d70b48359ffcf2da6d5e127d" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-d7fa74e88db74f0da0c308c6da6032f3" style="text-align:start"><span style="font-size:14px">美团好评返现标准</span></p>
+</td>
+<td id="b-03cc5671a1f14dfaa1510d386cc5ecbd" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-62daa03c5fe24665a94a8339ef53c55b" style="text-align:start"><blockquote><a href="../270443918/README.md" title="学城原文：https://km.sankuai.com/page/270443918；无权限" id="b-12ba4cd97c5c469ebce3c29d7cd4ca3e"><blockquote>美团外卖</blockquote></a></blockquote></p>
+</td>
+<td id="b-ae755f593c2f42c78cc57bed20ede97d">
+<p id="b-3863acb18fe24a0e8f51bd540b2624b0"></p>
+</td>
+<td id="b-1d721e11205047dda03e50effa0ea55f">
+<p id="b-dc83262e705546d1bf8622603c74b63e"></p>
+</td>
+</tr>
+<tr id="b-36e793514dab49b59ce52d2bfe1d186b">
+<td rowspan="2" id="b-ac91c05b24284146adda88308306988b" style="background-color:rgb(255, 255, 255)">
+<h2 id="b-b90c76e03b704c5d821c50150bf9360e">二十七、内容低质</h2>
+</td>
+<td id="b-1babde965d2d431693906d62c607495a" style="background-color:rgb(255, 255, 255)">
+<p id="b-ef227cd7d12a44e6ba36de5b8d7db54c">（一）低信息量</p>
+</td>
+<td id="b-ee96b18748f54655a54ce7c9ae18ae24" style="background-color:rgb(255, 255, 255)">
+<p id="b-f150d3e97ece4feaa4dfd161e1ff2fb6"></p>
+</td>
+<td rowspan="2" id="b-5b8f5c3f14e640c794e4e9ee1b72eaa1">
+<p id="b-0b067688bd374328978c0db0f6aad8d3"><a href="../1627767469/README.md" title="学城原文：https://km.sankuai.com/collabpage/1627767469；已保存正文" id="b-7527f8a0bf074f4c9747b6f2562f74e7">行文低质审核标准</a></p>
+</td>
+<td id="b-91fc2db4527948f4b68993348e38ad65">
+<p id="b-d07ae5c7f27d449fa5964f97e9f21188"></p>
+</td>
+<td id="b-f5eee027c71a46d1b1542a2f662caa43">
+<p id="b-a595c1811b2e4c6d82c1908196e8849d"></p>
+</td>
+<td id="b-ed9e95202661479cbf1b1058093c8f75">
+<p id="b-d5482a97821f4862b092b036f9443d5d"></p>
+</td>
+<td id="b-9716c5c1c6204573861eda8b499a2a33">
+<p id="b-17a43a5192014328ae31a13805999967"></p>
+</td>
+</tr>
+<tr id="b-04eaec7909354edea8bf32c166874456">
+<td id="b-b1a0e9d7fb4744a8a260aaf3be65882f" style="background-color:rgb(255, 255, 255)">
+<p id="b-f03d5372f5fc44df8d729f0bcbfe3d70">（二）观感低质</p>
+</td>
+<td id="b-7c1b22d933d845e0bfcafbfecb60f14d" style="background-color:rgb(255, 255, 255)">
+<p id="b-d3e5097d2d2f499a8fa6a034debad022"></p>
+</td>
+<td id="b-d77e8c075d9149228c88df7603150f94" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-2e6e144795a74b8aa884feabfd581c0e" style="text-align:start"><span style="font-size:14px">点评评价无关标准</span></p>
+</td>
+<td id="b-0b25e85b239b49f6ae3e581dc76f0fd4" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-21b5ef55c3214f6c88e77a41bb3f8538" style="text-align:start"><a href="../313559681/README.md" title="学城原文：https://km.sankuai.com/page/313559681；无权限" id="b-d20c1648b99549b686d5ab4d23272ed5">点评业务</a></p>
+</td>
+<td id="b-70bb0d4b514d453c9009312156e6e08a" style="background-color:#F4F5F7">
+<p id="b-a5157bb054d44fcea0ff7f7716fe4c62"><a href="../1668032171/README.md" title="学城原文：https://km.sankuai.com/collabpage/1668032171；已保存正文" id="b-9366ffb8237b42998b0dc095fea83f0b">B类「N50-N51」</a></p>
+</td>
+<td id="b-d5a8f2ec671f4ce98f1df7de8ab8fe7a">
+<p id="b-ebdea3b814644b5581f220acd552b93d"></p>
+</td>
+</tr>
+<tr id="b-51580e7566aa497a92a6b9419e14f35b">
+<td rowspan="3" id="b-eeb3498cea00481db9a9d0aa31ec9e1f">
+<h2 id="b-6b450f4c5e054c1d803671136b80cdf6">二十八、AI生成</h2>
+</td>
+<td id="b-dd016d1229eb41f8b03e1056228178ee">
+<p id="b-75d5b3cf713c42ec9936e813e04b143a"><span style="font-size:15px">（一）AI生成生物异常</span></p>
+</td>
+<td id="b-274ada29a91941088a4c55913195d2ab">
+<p id="b-3a234cf61aa54c3d98adf2b4706e6c17"></p>
+</td>
+<td rowspan="3" id="b-365cbbe54f1d41ffa999048f5332d760">
+<p id="b-0825579414aa40499d99dadb4df4dcf0"><a href="../2746422590/README.md" title="学城原文：https://km.sankuai.com/collabpage/2746422590；已保存正文" id="b-83f6cab0f9bf439ba4a0cdbb6bb953a8">AI生成审核标准</a></p>
+</td>
+<td id="b-41c8f30aed074fa2b17b84334009dcb0">
+<p id="b-6ba299991c574fc9b954a0d67f3cfb0f"></p>
+</td>
+<td id="b-b51f3d99e49a4efda88ef938f4f2e7ac">
+<p id="b-0a122fdbc00544fd986575f9d8de277f"></p>
+</td>
+<td id="b-1c41b1c4baff41e7bf1260407de04410">
+<p id="b-418cabec4aa24f81b7b3602c8136ab95"></p>
+</td>
+<td id="b-02b38bc41c1e4193925ad12cba58c7cb">
+<p id="b-21a5bff757324c14ae60f0f4c8cda26a"></p>
+</td>
+<td id="b-918b49027e5b417c8dfb5188f9627a38">
+<p id="b-b0ca364f351d4bf4bbaaba9ee4dd8078"></p>
+</td>
+</tr>
+<tr id="b-6d0b1a6b6f80484d8e893aa600936e78">
+<td id="b-38eb1afc1d654a41b4748613a3d860a6">
+<p id="b-86b6b7296e044d49b4d6e85d01d0dad9"><span style="font-size:15px">（二）AI生成事物情景异常</span></p>
+</td>
+<td id="b-c04579fe248340269a413e01e1eb1a9a">
+<p id="b-3051d8adf58b454db22e67643a8762e6"></p>
+</td>
+<td id="b-13e31da5dd4d43bfaed7bff0b16b8e23">
+<p id="b-44ebfe191dca434cb1d8d54b4bb54265"></p>
+</td>
+<td id="b-148f2bdbcebc4567ae790e690bf98975">
+<p id="b-e570b0e895b9497a929bbe8d04ef1d23"></p>
+</td>
+<td id="b-7ced954c1e964ee497c4e75038afa771">
+<p id="b-f1e19311d9704c2595807b72ff26b57d"></p>
+</td>
+<td id="b-ddd57f32eb73427893303da19c9d23ea">
+<p id="b-2a8a22277f354bd981828df2d8486c6a"></p>
+</td>
+<td id="b-11239321ea654ff0a610d9f9e1dccf54">
+<p id="b-bb60af8e8b55447e90351ce46ce2738c"></p>
+</td>
+</tr>
+<tr id="b-f1950119dcd54cb2aa6a85f9e0e5f14e">
+<td id="b-21dfc5e462e44955bea9066480784bb7">
+<p id="b-1c6bf9f0a67c41998a536942e46eba3f"><span style="font-size:15px">（三）AI生成菜品异常</span></p>
+</td>
+<td id="b-9d34ce470d1a43d2a15fa9dbde284a33">
+<p id="b-6a285378fa0b4e5d93c4b22607f2b8cd"></p>
+</td>
+<td id="b-7e02d5bd268c4b05b0bf6d0ae6194507">
+<p id="b-146661a2f5bc45a7a06b23209cb3ffdf"></p>
+</td>
+<td id="b-46039bf16fc8414ea980c86545465d89">
+<p id="b-012ea35c628941c4ac87171b5ea292e7"></p>
+</td>
+<td id="b-bcc3ed5de354476889c4895b469753b1">
+<p id="b-621aef90cab9429e835c24559867e899"></p>
+</td>
+<td id="b-e6b810fcfe1e4cdcb78342a46b0ad893">
+<p id="b-09a75ad1f07f401d8df29bce54d0fe30"></p>
+</td>
+<td id="b-7359497a90eb4bd2b6d7036d7143a6db">
+<p id="b-b49f6ad1feae475db7006442b2e45508"></p>
+</td>
+</tr>
+<tr id="b-b2f86a957ce647a1806c5221a36384fc">
+<td id="b-68bc2dda9384459bb4cc3750ccba8b65">
+<h2 id="b-19931b6fd281418392905582b62ce5e0">二十九、业务自定义标签</h2>
+</td>
+<td id="b-a110d1e274124510a77ef03116b7dcb8">
+<p id="b-f7bb90c9db3c419fb4e2c0f8c7158f04">（一）业务自定义标签</p>
+</td>
+<td id="b-f74f3d7354be48adbe10c3d8c1dea97b">
+<p id="b-5616632d314f44b29164f4806d41ed3a"></p>
+</td>
+<td id="b-76bc71d35778430483f57ee3eccc160b">
+<p id="b-75d25bc8a8eb4cd18876c1701d984b24"><a href="../2732771854/README.md" title="学城原文：https://km.sankuai.com/collabpage/2732771854；已保存正文" id="b-331380e258344c418af3a246642d282d">https://km.sankuai.com/collabpage/2732771854</a>（生态通用定制标准：业务自定义标签）</p>
+</td>
+<td id="b-d525692d0f514dce939f97c80f4f2c4d">
+<p id="b-84b31fb549694ccebfc05688d2b90f92"></p>
+</td>
+<td id="b-791ae20b94ef4974b8005ff5ab664441">
+<p id="b-54023cbf3baf40ea80f88363ff3f7be2"></p>
+</td>
+<td id="b-6d39a09d0d1e45c189833b3c7e34646e">
+<p id="b-13ceb1b307fa4dcf9c8c1a74efe50444"></p>
+</td>
+<td id="b-3cebc8eb47b64b629f402448ab836732">
+<p id="b-6edba423721943b98ec238269977f359"></p>
+</td>
+<td id="b-789b915aa3d14a279bfaa81c4517bcd2">
+<p id="b-d78952f120d34423a582096885d6cd2f"></p>
+</td>
+</tr>
+<tr id="b-054f08bff6114d22906dcd1e1f4df495">
+<td colspan="10" id="b-ff9b38341c0f46a494f19513c74a8c64" style="background-color:rgb(244, 245, 247)">
+<p id="b-fbbdfa5de9c34351a677e93aa92cb886"></p>
+</td>
+</tr>
+<tr id="b-323827611c734b9297c072ed4479df5d">
+<td rowspan="5" id="b-8bd16aa8989844eda7a233157ccab8ae" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<h1 id="b-688a13ca02044c35acb110b17981aa6c" style="text-align:start"><strong>商品审核标准</strong></h1>
+</td>
+<td rowspan="5" id="b-aecb0d6741ed47159f340cb96ee53c18" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-ffcb1819ecd143ef84cc97f6b1728fa8" style="text-align:start"><span style="font-size:14px">商品审核标准</span></p>
+</td>
+<td id="b-074e39b8dc3f40c49b5420b9dda5937d" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-25aafb0eebea4bc7865a95a8f84c07d3" style="text-align:start"><span style="font-size:14px">到家商品审核标准</span></p>
+</td>
+<td id="b-b733c559810e4474b1e35d4052b5ee48" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-4fcf215fe78940d5a10704ad7d7084ef" style="text-align:start"></p>
+</td>
+<td id="b-88ee6c1d6a7c439d91802de1faa17a87" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-40584b164c7c4a508c816c036be441ac" style="text-align:start"><a href="../1200574894/README.md" title="学城原文：https://km.sankuai.com/page/1200574894；无权限" id="b-4f2a5c04f3d04978ace0f4b48951a613">到家商品审核标准</a></p>
+</td>
+<td id="b-0aa1077a5e9a4f5f85e26f609b6f8517" style="background-color:#F4F5F7">
+<p id="b-c11db44fc04e4c8597429e4e3af47ed7"><a href="../1673989461/README.md" title="学城原文：https://km.sankuai.com/collabpage/1673989461；已保存正文" id="b-639b4d69631a4ca480c907f28fdbf596">C类「N30-N35」</a></p>
+</td>
+<td id="b-4fe0e5d137aa4f8983e7b168387e0a46" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-c345e3e4864b49eb8ed544200bbdd7fc"></p>
+</td>
+<td id="b-0d09d48b17b94bfe96f9dee0fa50d280" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-f95c2831e82c4caca995b3332cb28801"></p>
+</td>
+<td id="b-5225baf67a014aa38f3d2fa47f6a6f10">
+<p id="b-430493a177554505ba6eab0dfddbe3fc"></p>
+</td>
+<td id="b-92cb456e36b646babdf7002c9fec9d5a" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-0e4f2c548f09462e94e40e479c42e8b4" style="text-align:start"><span style="font-size:14px">李雪梅</span></p>
+</td>
+</tr>
+<tr id="b-fd8fbdecf0b84eca9ff8c60fca8feb29">
+<td id="b-3b2c00ac519047e2ab2e80068056ad3c" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-ced0167ed80d4d5ba67b15068e2739c9" style="text-align:start"><span style="font-size:14px">买菜商品审核标准</span></p>
+</td>
+<td id="b-dbd9a3317d774bab959ae292f60628f1" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-5b76065156de4b2ea26e33ddb5c7d09d" style="text-align:start"></p>
+</td>
+<td id="b-8b0541c9fd7c411e9eff3f99adbe6280" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-adc799b9ef004d5e8bc51c23f39802c3" style="text-align:start"><a href="../1294713871/README.md" title="学城原文：https://km.sankuai.com/page/1294713871；无权限" id="b-4c08071258b841d8bbcc6d4be3c947db">买菜商品审核标准</a></p>
+</td>
+<td id="b-cfbf90b6ddfa48e0b997681890eb76c1" style="background-color:#F4F5F7">
+<p id="b-5b0d92d5f2f7454a88c1e4a95a53cc23"><a href="../1673989461/README.md" title="学城原文：https://km.sankuai.com/collabpage/1673989461；已保存正文" id="b-6bfa4bfc3c8340f9b5203492708f978b">C类「N36」</a></p>
+</td>
+<td id="b-db104b86ec4046f0b925f4ba62521946" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-26b8f4f70ec14f97855c5f1e094b975f"></p>
+</td>
+<td id="b-28f284a21c0b45fdb0496f4b9c9ad124" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-be25f8a8d5cb4fafb3e931714dfbac82" style="text-align:start"></p>
+</td>
+<td id="b-0d52c262d0e14e1bb0d8b33722aa1760">
+<p id="b-583b3bafcdd84cfe88cbcac98b9c1814"></p>
+</td>
+<td id="b-856953afcc7d48abb0fa607a22fd4648" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-d6903b70bb24462b98b2cdd70a0a71cc" style="text-align:start"></p>
+</td>
+</tr>
+<tr id="b-aa3b3eae2cec4890aaf0fbca2d6d4c07">
+<td id="b-50fe9d6f22fd4f919f2c45b74e10ac0b" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-b6e2b492fbae437c8e0b64306855da69" style="text-align:start"><span style="font-size:14px"><u>商品合规标准</u></span></p>
+</td>
+<td id="b-65e3d19ebe8a42e98fd808df6e53927d" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-51c6b40b1eca411881066b48600e2909" style="text-align:start"></p>
+</td>
+<td id="b-b69f5ca9f24b44a2a180185ea2392068" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-caecd0af09d34ccead1df3e3be1ec5a1" style="text-align:start"><a href="../1301966708/README.md" title="学城原文：https://km.sankuai.com/page/1301966708；已保存正文" id="b-e380afc37aa44726b63b4edf5b37b51a">商品合规标准</a></p>
+</td>
+<td id="b-cf8801492c0d4a449c8a96861cb11e70" style="background-color:#F4F5F7">
+<p id="b-069ee15c94e84609833b335f7b1ba7e7"><a href="../1673989461/README.md" title="学城原文：https://km.sankuai.com/collabpage/1673989461；已保存正文" id="b-9f75a9394f454edf913775ec2837a3a2">C类「N11-N29」</a></p>
+</td>
+<td id="b-20b4e46bed1f4fe594d7c54f56c9bba3" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-36ca2f014e4740e38f49d87567844be4"></p>
+</td>
+<td id="b-ed443a15701b47b7810d1d4a789366a4" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-61fa18010e484adba79b9caf17129de9" style="text-align:start"></p>
+</td>
+<td id="b-278384bf49894da992fc7426d98f2746">
+<p id="b-cf71ddb109604a5aad28f2aba0ad2de7"></p>
+</td>
+<td id="b-6f391fe48ec547178b9ca173cb99a095" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-c126f3886c2d4f259aec1f35b409a01f" style="text-align:start"></p>
+</td>
+</tr>
+<tr id="b-6ac2beaabfb941dba9db8bc89d0f965e">
+<td id="b-2485f352662e4f74a79d8da94155eae1" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-a726760c2d1d4dccb468dc288eb22394" style="text-align:start"><span style="font-size:14px">团好货审核标准</span></p>
+</td>
+<td id="b-ecf7594c8b45458584fa66b27f6549cc" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-5db3c0b59df84470b2f995582e373d1f" style="text-align:start"></p>
+</td>
+<td id="b-d5bf30ddb02948dc9ed332d2076ba425" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-26a0c4d5613d476fa59b7655997ff171" style="text-align:start"><a href="../1297234982/README.md" title="学城原文：https://km.sankuai.com/page/1297234982；无权限" id="b-c7c99ac5e0ea4d9490f345f37c33fb84">团好货审核标准</a></p>
+</td>
+<td id="b-cd3bfcac2a684be99e6d350bcc96a0aa" style="background-color:#F4F5F7">
+<p id="b-43a3d910f684405ca213bfe29295cc8e"><a href="../1673989461/README.md" title="学城原文：https://km.sankuai.com/collabpage/1673989461；已保存正文" id="b-b64a44789b8743709e6b6707bb496366">C类「N37-N38」</a></p>
+</td>
+<td id="b-c9e9bdefe8b449b18c278b77fbba03c6" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-a8fcc31b2c7d46308f3110a7436c2f95"></p>
+</td>
+<td id="b-da530879f21640688a77773be3f0defa" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-9ebc5b5eacef46e1b22ddde5ccbb8ffa" style="text-align:start"></p>
+</td>
+<td id="b-ed069dccccde4d4aac72fa5f48cf519c">
+<p id="b-0e85f553901a4bef9eca095d9eb56422"></p>
+</td>
+<td id="b-88f9555f49c64f19bf42e77609a3591e" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-9d4b56abc5ea4b6aa94fbb48a5d187e9" style="text-align:start"></p>
+</td>
+</tr>
+<tr id="b-ecf25758971549e58fbb907c533d9cec">
+<td id="b-a2b9ea7ee7b84ecf8cbb17d9d4c92b3e" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-b992d2eae6904200bd427a63bef3b15c" style="text-align:start"><span style="font-size:14px">优选商品审核标准</span></p>
+</td>
+<td id="b-21bdf2d430d84486a876ade31c151ba8" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-409bdf07bc994dba82124b0e273e6b6a" style="text-align:start"></p>
+</td>
+<td id="b-13c1886542734824b5b1f8b07769eb64" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-edfab22d25694830803b6ce74f3c7ca6" style="text-align:start"><a href="../1200534995/README.md" title="学城原文：https://km.sankuai.com/page/1200534995；无权限" id="b-4e831232162b40ae8af9ac56ac33bd91">优选商品审核标准</a></p>
+</td>
+<td id="b-6c20611b66cd4aa09f0cb10e6d65cdfc" style="background-color:#F4F5F7">
+<p id="b-f599e03620be4fa5bc9e8b7d27d2ffcc"><a href="../1673989461/README.md" title="学城原文：https://km.sankuai.com/collabpage/1673989461；已保存正文" id="b-cacd6185e102487e841505ca5579e2a7">C类「N39-N42」</a></p>
+</td>
+<td id="b-13058c77af9b4d08bcd8aa5ab842d852" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-7a845c962b124a7887c6c0d71c497a4c"></p>
+</td>
+<td id="b-6b961f64b846488a98399bd10fdbd1e9">
+<p id="b-d02606de366f4b7a88add59973bf6813"></p>
+</td>
+<td id="b-a6c24d8a03804f99873a6dde79ee9a55">
+<p id="b-ed131c4bea564db390b85d3271fe24d9"></p>
+</td>
+<td id="b-6b561f666ffc44c08a628497b88ee9e4">
+<p id="b-b69873648d8e4095a1824091e97ad646"></p>
+</td>
+</tr>
+<tr id="b-3db50281513f4defabf555da8bfbddc9">
+<td colspan="10" id="b-8f0f9af7b1944c2c89837f77c5a1ea6c" style="background-color:rgb(244, 245, 247)">
+<p id="b-6bb871abe60b4986a6698b39a41db394"></p>
+</td>
+</tr>
+<tr id="b-02526aa3164b4d60bdb7b05550a0afe3">
+<td rowspan="3" id="b-9b45cd38a2d748bc91ebb93d89ae2016">
+<h1 id="b-61ee41d7d0ee4eefa280ca97a0ffccf6"><strong>直播审核标准</strong></h1>
+</td>
+<td rowspan="3" id="b-b30533b1555d4dba95984aecc39ea7d0" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-ff9e51e836514e1a9139d9cf10a89cbc" style="text-align:start"><span style="font-size:14px">直播</span></p>
+</td>
+<td id="b-ae055335c1f54890bc7a409f42e14d66" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-6f8ed794366549d78deb58945f3776b3" style="text-align:start"><span style="font-size:14px">直播通用审核标准</span></p>
+</td>
+<td id="b-26c7675ac1d647748d15a3059878f676" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-3edfbe490f7244c09e243253f7210309" style="text-align:start"></p>
+</td>
+<td id="b-fa6df6fe54194827997ac6149658a679" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-b9a00d5fe25442bf8dca453811c81a25"><a href="../1900795097/README.md#id-%EF%BC%88%E4%B8%80%EF%BC%89%E4%BD%8E%E8%B4%A8%E7%9B%B4%E6%92%AD%E7%9B%B8%E5%85%B3" title="学城原文：https://km.sankuai.com/collabpage/1900795097#id-%EF%BC%88%E4%B8%80%EF%BC%89%E4%BD%8E%E8%B4%A8%E7%9B%B4%E6%92%AD%E7%9B%B8%E5%85%B3；需安全屋环境" id="b-dd0aadd06b6742f6955c912e9a5d3e93">https://km.sankuai.com/collabpage/1900795097#id-%EF%BC%88%E4%B8%80%EF%BC%89%E4%BD%8E%E8%B4%A8%E7%9B%B4%E6%92%AD%E7%9B%B8%E5%85%B3</a></p>
+</td>
+<td id="b-8a459d3e2db5416287613235737ee8dd" style="background-color:#F4F5F7">
+<p id="b-90ed30a42afd4a019b3ff6336adf7df7"><a href="../1673989461/README.md" title="学城原文：https://km.sankuai.com/collabpage/1673989461；已保存正文" id="b-e10fb9e3b9a34744825e449d05501abb">C类「N43-N46」</a></p>
+</td>
+<td id="b-f2d02fb37d0640ad98e030f9ed59b41f" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-ba64e34241c64d4c8e528f79078b36b0" style="text-align:start"><span style="font-size:14px">到综医美直播标准</span></p>
+</td>
+<td id="b-f7cc067a4af6422c974ce39c38b98913" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-02d371bcb68c446ab26d02bd4907d364" style="text-align:start"><a href="../1315508186/README.md" title="学城原文：https://km.sankuai.com/page/1315508186；无权限" id="b-b8bc598cdc8f4a6abe10674d11b62d54">到综医美业务标准</a></p>
+</td>
+<td id="b-04fbd42a4b2e4666b022fa0586df5a1a" style="background-color:#F4F5F7">
+<p id="b-2ed202dac4f04f68a39662f2e06bc86e"><a href="../1673989461/README.md" title="学城原文：https://km.sankuai.com/collabpage/1673989461；已保存正文" id="b-acf9d4a8bb9e474fa130a87807525508">C类「N47」</a></p>
+</td>
+<td id="b-9bac6f39192f4e4783813f7856f561f7" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-57bbf457fe56481fa334e3ed16770689" style="text-align:start"></p>
+</td>
+</tr>
+<tr id="b-b8bc14eada474f1894ca51d36fe27afc">
+<td id="b-5c30325987ee4afea61911d4f2db47ae" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-3a00d24ed7fb47ca86f0fa8bb23b9f8a" style="text-align:start"><span style="font-size:14px">直播封面&amp;商品审核标准</span></p>
+</td>
+<td id="b-906880448fbe4362b0d816e5064fc8cc" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-5b19801f349a470e83be562b4f04f81e" style="text-align:start"></p>
+</td>
+<td id="b-eaeb8b2588f44b0c99c07184d8b1b2d6" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-98fd13ec77f146488cf26ee01e8f1995"><a href="../1964067884/README.md" title="学城原文：https://km.sankuai.com/collabpage/1964067884；已保存正文" id="b-a1bfa6a99056480198c7dbc595298e7c">https://km.sankuai.com/collabpage/1964067884</a></p>
+</td>
+<td id="b-4d6f78d8e8be4a1aa88638e5a36fe0b6" style="background-color:#F4F5F7">
+<p id="b-9ea7e346ba1c46089636192dc91430df"><a href="../1673989461/README.md" title="学城原文：https://km.sankuai.com/collabpage/1673989461；已保存正文" id="b-08f94ff00e134cf192e8b24d8f3a8c0e">C类「N50」</a></p>
+</td>
+<td id="b-ed89831806a9402a891039874ecbb2f8" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-57a1de298a9c463e8e244ef3f8662388" style="text-align:start"><span style="font-size:14px">美团优选直播标准</span></p>
+</td>
+<td id="b-d1086b053a6a4e35b859195df828ba2d" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-451b8b2030674109a256d8ebc310e320" style="text-align:start"><a href="../1315429710/README.md" title="学城原文：https://km.sankuai.com/page/1315429710；无权限" id="b-602aa2d68ef34755857b4557d802090d">直播标准-美团优选</a></p>
+</td>
+<td rowspan="2" id="b-97107f3721e440638be1e1ea92029124" style="background-color:#F4F5F7">
+<p id="b-309c2ccf60ea48f18fd8aa58490a6ba3"><a href="../1673989461/README.md" title="学城原文：https://km.sankuai.com/collabpage/1673989461；已保存正文" id="b-e2ace852075f466aadbf1cded00afdff">C类「N49」</a></p>
+</td>
+<td id="b-a496d0d7639a46fdb1c04ebed48d6567" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-c61b9321c77548d481b79af81c63e079" style="text-align:start"></p>
+</td>
+</tr>
+<tr id="b-f626f0d89d1c4fa682240dc615f6b907">
+<td id="b-df7c733e614943caa6447a954fd3a6fd" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-63825782fbbd47fd990da7ab79d918b3" style="text-align:start"><span style="font-size:14px">直播评论审核标准</span></p>
+</td>
+<td id="b-9c990b9619a34d19a114db52463b74cf" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-1df03897cd644d068cda04b7b7882de1" style="text-align:start"></p>
+</td>
+<td id="b-cf984bcbeffd4b3eb6ffdccce40b2fef" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-5ac31e9582f74a16bac8c22f476e7be2"><a href="../2717987808/README.md" title="学城原文：https://km.sankuai.com/collabpage/2717987808；已保存正文" id="b-14c88a9e167f4387a9f4d89b9765108f">https://km.sankuai.com/collabpage/2717987808</a></p>
+</td>
+<td id="b-1d1df16eff2b4994a90341af4f092c1e" style="background-color:#F4F5F7">
+<p id="b-f17594376a7645719d13567b4ac585ec"><a href="../1673989461/README.md" title="学城原文：https://km.sankuai.com/collabpage/1673989461；已保存正文" id="b-2c1b42e9969b4ac0bdc90ac470e16bba">C类「N47-N48」</a></p>
+</td>
+<td id="b-2c218ca3181c416ea2393aa77577e8cf" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-e23f204d1aab4918805eae7ff80c00bc" style="text-align:start"><span style="font-size:14px">优选直播特殊标准</span></p>
+</td>
+<td id="b-d62ad379b842492da8d77f331bf0269c" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-93304519ba88427abbf1153be816ef8c" style="text-align:start"><a href="../1315542100/README.md" title="学城原文：https://km.sankuai.com/page/1315542100；无权限" id="b-ec4af0a69e8d42649105ad3737a714e7">优选业务封面&amp;标题特殊标准</a></p>
+</td>
+<td id="b-9d864ff4a32a4578b17ea0f4af98a5d0" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-c12c621d751b4d05913cee165840bf1f" style="text-align:start"></p>
+</td>
+</tr>
+<tr id="b-3f4b20a325ab407b81c5e529d50133cb">
+<td colspan="10" id="b-10ad51afa89a4b62acace13f1743c37f" style="background-color:rgb(244, 245, 247)">
+<p id="b-d07bc9f5051d48fea6216dcd655c08f7"></p>
+</td>
+</tr>
+<tr id="b-5ec4285098f24078b7ea8e88c0bd3f6f">
+<td id="b-d1af4f3bf34e4b3a8ad6b6d4ee2b7582">
+<h1 id="b-6e2234213f6745b2b9c34c67a6148f46"><strong>微短剧审核标准</strong></h1>
+</td>
+<td id="b-6186c5e545024a78a5fafc19c734cba1">
+<p id="b-ed9ffd13d29242408764736eeae1a98b">微短剧</p>
+</td>
+<td id="b-db9666b284f443f9b800a600ba08e14d">
+<p id="b-f6def43a45e64bebb02e5b972f0cc973">微短剧秒审审核标准</p>
+</td>
+<td id="b-0fc539c0f39847d5abbb8ec3a1e0f539">
+<p id="b-2a4fd808602e4183b0059f03df82a841"></p>
+</td>
+<td id="b-1c1010c2daf1449597288cb9e101cb82">
+<p id="b-b426f841931346db87893679e0c469a9"><a href="../2708605652/README.md" title="学城原文：https://km.sankuai.com/collabpage/2708605652；无权限" id="b-67d5253ffc994a8bb9514c9c6ce04b0d">https://km.sankuai.com/collabpage/2708605652</a></p>
+<p id="b-e4738f56fe944ea2b271aed7a1e3a007"><a href="../2771303884/README.md" title="学城原文：https://km.sankuai.com/collabpage/2771303884；已保存正文" id="b-46614a30803f4183953665294bf38673">https://km.sankuai.com/collabpage/2771303884</a></p>
+<p id="b-48f9855e0f25415080da8baaf4bce495"></p>
+</td>
+<td id="b-ad34954a0640407db17c6e28b51c4f85">
+<p id="b-a16efead0e6e4b79905e61c4558d6478"></p>
+</td>
+<td id="b-433a656da172411caa8a96f53e146c9b">
+<p id="b-3b900fd0958b4936ab7565b17fae74e1"></p>
+</td>
+<td id="b-2abf0ca3c5324e6d9ddde2846bbf6bc6">
+<p id="b-46dd8dbae370404f8c4fe1849f9753ee"></p>
+</td>
+<td id="b-59a45eb451344b928c97e65be912c54c">
+<p id="b-57bcfd6763cd4cbc93a3c477f5074c69"></p>
+</td>
+<td id="b-3457d59bf8414b04a6bbb67f96b1d3b7">
+<p id="b-271dac87fd75439c8a17b91cd736ddfa"></p>
+</td>
+</tr>
+<tr id="b-0fccb4fa98c84221b6d041d5fcc104c9">
+<td colspan="10" id="b-189d75db92964796917582947f1ee7d9" style="background-color:rgb(244, 245, 247)">
+<p id="b-cb7533bdc99f4b719a91a12f5873af0c"></p>
+</td>
+</tr>
+<tr id="b-36d7319e5c084235a50a41ea6e0d824e">
+<td id="b-5818f89eb7d34b3fa21aa1e8192c2cba">
+<h1 id="b-e7402607d9174d82887e009770d5545b"><strong>交易图文审核标准</strong></h1>
+</td>
+<td id="b-1b782721995f4ad8b0cf6b0a1a875058">
+<p id="b-f3eb37ca983c468382c608ae8d40d385">交易图文</p>
+</td>
+<td id="b-b9a39b73a3eb4e9f8dfa564c54011045">
+<p id="b-8c79f540dda24149be62194b9028a186">交易图文审核标准</p>
+</td>
+<td id="b-2eb3e5f337cc4918aa263d6e90db5d4b">
+<p id="b-e4bedf6ca5f14e29be6659354cf06119"></p>
+</td>
+<td id="b-c5a1d213520e470393564ed5eeef34a0">
+<p id="b-beba73e6b25e4f00844162addfd7dabf"><a href="../2726934609/README.md" title="学城原文：https://km.sankuai.com/collabpage/2726934609；已保存正文" id="b-d3e76197238445c3b2bce2f9f16d3abf">团视频交易图文低质审核标准</a></p>
+</td>
+<td id="b-5d5919928851490faa2f11a4588b75ff">
+<p id="b-061d525d1aeb4c5dbcfb37a7b0e47f66"></p>
+</td>
+<td id="b-2301d2a8b7ae448db18c033b5b6b6cfc">
+<p id="b-6e48dbb236ce43aa9cd9304c6496d905"></p>
+</td>
+<td id="b-3c80e9276ca84894a80acc516ce39754">
+<p id="b-b940fa4d481740f6bbadd1bc17349615"></p>
+</td>
+<td id="b-49bff5d630d34770abfb225001c56678">
+<p id="b-bccd67d8a4854832af9f25a367fa25c8"></p>
+</td>
+<td id="b-51b5b916b9ab433e8e0a99a8eb36a24f">
+<p id="b-77feee4d2c9849f5b1498797f5a0e913"></p>
+</td>
+</tr>
+<tr id="b-be2eea3817854f1e978524f6232fd28a">
+<td colspan="10" id="b-6d0e358ee14a496ba0cb94adcc0fbc4f" style="background-color:rgb(244, 245, 247)">
+<p id="b-a142ca3a05ba4694b8423c65c1c70e32"></p>
+</td>
+</tr>
+<tr id="b-58d002325b4f49e1b38d9a342264409b">
+<td rowspan="4" id="b-36ba9055b4c3480fabf601f0fcf10d2f" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<h1 id="b-795bea17c8f44bd0900c728bd85a7326" style="text-align:start"><strong>用户商户审核标准</strong></h1>
+<h1 id="b-3118843e6310403e96af10f2d67d6dde" style="text-align:start"></h1>
+</td>
+<td id="b-fb8b4d0783104fc3ab0305667124d9b1" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-7af1a0ccd649420593b5e07af0d0a172" style="text-align:start"><span style="font-size:14px">用户策略召回审核标准</span></p>
+</td>
+<td id="b-035a39b192374be496e5011465e108e4" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-856d3ae46f47417a9d095b083517c468" style="text-align:start"></p>
+</td>
+<td id="b-c6336f4de3ce489e90b53f24460be86e" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-bc346b35db674659ad41f72ae1af2846" style="text-align:start"></p>
+</td>
+<td id="b-dac0608749244f04a8dd843732b75c44" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-6b7806e4b08e4556b07943ef2dcebe23" style="text-align:start"><a href="../1315899461/README.md" title="学城原文：https://km.sankuai.com/page/1315899461；无权限" id="b-dcfd0ed2ecb149d1b22a3acef7e7934f">用户审核标准</a></p>
+</td>
+<td id="b-c3081b813c7a4c3dab272cc7ce736020" style="background-color:#F4F5F7">
+<p id="b-bbbc5725639840b9b33cfce923bc5a5a"><a href="../1673989461/README.md" title="学城原文：https://km.sankuai.com/collabpage/1673989461；已保存正文" id="b-c896dbd96f4d4c0daf16beca3d532c39">C类 「N63」</a></p>
+</td>
+<td id="b-15464df541ec43d8a44385238b9e288d" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-ef817e2ac4a14348b179068990a23526" style="text-align:start"></p>
+</td>
+<td id="b-4535c25950814030b7554b9e3d5f86b6" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-9b6fe118cee64ae1a483f2bba8a57727" style="text-align:start"></p>
+</td>
+<td id="b-acec2d65515d42f486f3a30f3d9464cb">
+<p id="b-8c0b6344fa4c417f8cf22944d1459a2d"></p>
+</td>
+<td id="b-de120e55442a4d35bf42089917276bdd" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-9dd9834f2c9a4a9baa02c79a122c6619" style="text-align:start"></p>
+</td>
+</tr>
+<tr id="b-59af5b76d153463895f0fb40a5e716ed">
+<td id="b-26773fe5c7174b39af2a36104e7c9099" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-0ad22848e68d48ffba956fae61bbad7b" style="text-align:start"><span style="font-size:14px">商户策略召回审核标准</span></p>
+</td>
+<td id="b-34b615573be5440485f3a5712b99ebfc" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-8059ac1c9af74db0bdc9dcd650c79b62" style="text-align:start"></p>
+</td>
+<td id="b-a043644d26a746f68eccd729e42522ef" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-829b3b1aee284fd08e35ab93785a6f18" style="text-align:start"></p>
+</td>
+<td id="b-3094e6eb5d8745ed94dbe6714e9d1ceb" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-4a422da28d3f40eea2101322d504b43e" style="text-align:start"><a href="../1316020972/README.md" title="学城原文：https://km.sankuai.com/page/1316020972；无权限" id="b-68140ea93ef84cf9bf201057e6758800">商户审核标准</a></p>
+</td>
+<td id="b-08730274c8b4486eb5fc79fd2f51da48" style="background-color:#F4F5F7">
+<p id="b-a04b364016e44848abdea4c4c89d0880"><a href="../1673989461/README.md" title="学城原文：https://km.sankuai.com/collabpage/1673989461；已保存正文" id="b-4236da2c73164eb086aae8259a7f98a5">C类「N10」</a></p>
+<p id="b-7e8afeb820f24444b30a564cf5ef9367"><a href="../1673989461/README.md" title="学城原文：https://km.sankuai.com/collabpage/1673989461；已保存正文" id="b-06758209bb3540eba9422502a05dfc6f">C类 「N60-N61」</a></p>
+</td>
+<td id="b-49a13024531648448505e26be1bc7160" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-5ef2e30b2f114f0a9b1223738d0588e2" style="text-align:start"></p>
+</td>
+<td id="b-3dec70fc514449788ace8e3537fbffee" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-6c808c025fe04a259b0877ff7c41d51f" style="text-align:start"></p>
+</td>
+<td id="b-f6b1dbf2073e4cfeb3b078cf195b51e8">
+<p id="b-db8d1afcae2c41959eb86c57d6e3b957"></p>
+</td>
+<td id="b-64bf7d3a92654b5384e891fb26e51e28" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-56e86bd39a0340b5b076f1db1dc67729" style="text-align:start"></p>
+</td>
+</tr>
+<tr id="b-86c1b2073f9a4f1c8b82ac117c3f8a8d">
+<td id="b-941c5269b83c412c9e9637becccce665" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-f694775cde4d486c82ea7fc8d9cbd25d" style="text-align:start"><span style="font-size:14px">用户违规处置标准</span></p>
+</td>
+<td id="b-8d8163711e24489ab57eba3dc6b20c49" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-c1b230a1bf0544a69c87dcca32b82d65" style="text-align:start"></p>
+</td>
+<td id="b-fe7e72aaad65435180c9cea51f023936" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-2aff71e620684a41ab59bd1ebfda6b4b" style="text-align:start"></p>
+</td>
+<td id="b-150d4748350b4515ac60f7ff5df275e2" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-28cc8a9deb474aafa046848f4820bec2" style="text-align:start"><a href="../1065027299/README.md" title="学城原文：https://km.sankuai.com/page/1065027299；已保存正文" id="b-0de26771a42a409f939d3d88ab6d1c03">用户违规具体标准</a></p>
+<p id="b-dc6e1316e306420f99b947c942d616d4" style="text-align:start"><a href="../1383511721/README.md" title="学城原文：https://km.sankuai.com/collabpage/1383511721；已保存正文" id="b-e2f6a530184546bead40bbc4840c1643">招嫖用户标准</a></p>
+<p id="b-5eea212b43ef4744a259e7ab49e15a21" style="text-align:start"><a href="../1406727810/README.md" title="学城原文：https://km.sankuai.com/collabpage/1406727810；已保存正文" id="b-5a521af1d20d4459a082143707566080">招嫖用户回扫补充标准</a></p>
+</td>
+<td id="b-528ae6c45666470b96fa41f28ad3d111">
+<p id="b-34300e8c2e4349ce96278d2005538f63"></p>
+</td>
+<td id="b-5cbb5b73ed674f5bacfc965bbe68b651" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-a57aa829fd2f4b9ebdd3f64c623bb613" style="text-align:start"></p>
+</td>
+<td id="b-cee860e97d2d42a18636924cf352ad3c" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-6a0e696bf2434ac188d136c27bfcea40" style="text-align:start"></p>
+</td>
+<td id="b-91d23ebc015b4232bc600df6d4b6b2fb">
+<p id="b-737cdced3c974a4ca53492c98794bb64"></p>
+</td>
+<td id="b-8a1394c654c84fb6a05a29e3e6a0ee6d" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-e22024dc92dc48919b995744025d534f" style="text-align:start"></p>
+</td>
+</tr>
+<tr id="b-0f0c3ac4d19d43fe852c52f6c7e67ca0">
+<td id="b-0c96028c41a341edb579bb47203dae71" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-8e460b0fa2134bc080f12adf86bc8840" style="text-align:start"></p>
+</td>
+<td id="b-370fc7ce893945cc83a1b4c3a588e04b" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-76a56f04b1bf4122ada0bc2c665b7c73" style="text-align:start"></p>
+</td>
+<td id="b-9d00ccacfa1b4520bf42f2da92b5dcf9" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-d5a4aca0556d46b69d977f8da5272a3e" style="text-align:start"></p>
+</td>
+<td id="b-733a5ce6906244a296e6e2db28065ae1" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-6cffb538b4d74350a043b2e6f4af898a" style="text-align:start"><a href="../1214312557/README.md" title="学城原文：https://km.sankuai.com/page/1214312557；已保存正文" id="b-47ab89e7bca9476188cbec0379395d73">用户昵称标准</a></p>
+</td>
+<td id="b-81bbd8ebd72f4eae963dfab5d401f037">
+<p id="b-c2e88af19a2d4c2a8420c749ad25c04a"></p>
+</td>
+<td id="b-3850990a222644989c8f82a153f36afe" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-aabbfb47b4a8468aa4dea68112badce8" style="text-align:start"></p>
+</td>
+<td id="b-b338fdcbabf44cf2a942d41cf571524f" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-6ab7d965b0f54b0fa062084490f1273c" style="text-align:start"></p>
+</td>
+<td id="b-cd64a627bcd543fd84144bd7ec383fd3">
+<p id="b-6936fb08990d48e2b47c6d2f78493ec2"></p>
+</td>
+<td id="b-ee549cfb5ac74ca98719a8b88342dd8f" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-206c42dc5720430e87d794605c6cae12" style="text-align:start"></p>
+</td>
+</tr>
+<tr id="b-eafb8772eb764e8d820d617b8d94ac65">
+<td colspan="10" id="b-cf85ded637784a8fb21eb2ff8cd3b0a6" style="background-color:rgb(244, 245, 247)">
+<p id="b-786b86d4f53542779032da20c6c33bc9"></p>
+</td>
+</tr>
+<tr id="b-013279e27a93401c87eee37a299e6316">
+<td id="b-a8888a3420ce4f949b64d042efb83727" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<h1 id="b-9324f894100441dd999e55986af03f44" style="text-align:start"><strong>IM审核标准</strong></h1>
+</td>
+<td id="b-8768e55dc0404711b98b385f0cf28c27" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-b711c72eaaba4462b647394be268be75" style="text-align:start"></p>
+</td>
+<td id="b-c3d47ee7b4e14c2884156d3401c029d6" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-fadf17d07eb44a9a85d9b035fd926c39" style="text-align:start"></p>
+</td>
+<td id="b-54443defb095445083bc8afeab499e84" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-7de71529c4cf492f8605e90ae2e15b70" style="text-align:start"></p>
+</td>
+<td id="b-45127f19dff44a9ab0fa123d459d3154" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-1437dfeac69e465f9613c641eb4fdc1c" style="text-align:start"><a href="../1229198252/README.md" title="学城原文：https://km.sankuai.com/page/1229198252；已保存正文" id="b-71131c7857bf448f8e8aaf5ec683d8aa">IM标准</a></p>
+</td>
+<td id="b-950037622ce147e2b86e33f374185ecb" style="background-color:#F4F5F7">
+<p id="b-b3a49a6481554b529ee0b60063cfc616"><a href="../1673989461/README.md" title="学城原文：https://km.sankuai.com/collabpage/1673989461；已保存正文" id="b-1caf39298f074fcca727cda4765cdb71">C类「N1-N8」</a></p>
+<p id="b-d85a90c679e74c47b25e7e110444fda2"><a href="../1673989461/README.md" title="学城原文：https://km.sankuai.com/collabpage/1673989461；已保存正文" id="b-98cfef1a601c4089abf032d695877f91">C类「N64-N65」</a></p>
+</td>
+<td id="b-49b0be880dc446028f515593e7456dad" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-ae56ee97118a45469b0f948c81e6825c" style="text-align:start"></p>
+</td>
+<td id="b-06f37df9192940378088bac884b8a807" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-149601dd04e747c6830d70f44783b805" style="text-align:start"></p>
+</td>
+<td id="b-fdffcd9229db4f919aca0194fd5dbf29">
+<p id="b-73860f5f3bf743019179b1dcf1769358"></p>
+</td>
+<td id="b-5ba393261da14e42a4f54aec274e7037" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-1adad9d01b7544fbb8bbb24cf9fe0ca6" style="text-align:start"></p>
+</td>
+</tr>
+<tr id="b-37783d408e404495a7dc76df5a5c0233">
+<td colspan="10" id="b-287de139306d4cee8bb7d21866ff8025" style="background-color:rgb(244, 245, 247)">
+<p id="b-4283c20a02624450a179a22dec61c5c0"></p>
+</td>
+</tr>
+<tr id="b-201fb80d05164a3dbf34bfcfd073e199">
+<td id="b-64a6140480e04c308e0e8eeaaedf8fbb" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<h1 id="b-6584d617656c4783947a8a217070c3f8" style="text-align:start"><strong>多模态审核标准</strong></h1>
+</td>
+<td id="b-7879db70a88a462e9a1bdf403325a9f7" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-98114d0e228c4572b2bd7a28bdfc0a5d" style="text-align:start"></p>
+</td>
+<td id="b-61fba3d032a94809ac3a88ce932077f2" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-52ad27f373644a5895bac3fa176323b7" style="text-align:start"></p>
+</td>
+<td id="b-01d4721207df403480619c3300db7c10" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-fb95511d2ea446ac8ae66dfffa88b9fb" style="text-align:start"></p>
+</td>
+<td id="b-f1d5fcf2728a41cba3ae10fef955e940" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-2a98241c0db146cd82ce8e0906a697d0" style="text-align:start"><a href="../1293537692/README.md" title="学城原文：https://km.sankuai.com/page/1293537692；无权限" id="b-eab472bdfc9640c3bda7019ed91c0cd8">1）交互类组合审核标准</a></p>
+</td>
+<td id="b-7edd29890aa54a0a8dddd064c459a44b" style="background-color:#F4F5F7">
+<p id="b-dd4aa5a089d5446fa563128d7ddb1cac"><a href="../1673989461/README.md" title="学城原文：https://km.sankuai.com/collabpage/1673989461；已保存正文" id="b-bae2c407be2244bda733291d0e0dd5ba">C类「N51-N59」</a></p>
+</td>
+<td id="b-23ec626c0e4b4f06b4713741f3a6e57b" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-296ddcd9bd50401e9998a90418b3ca60" style="text-align:start"></p>
+</td>
+<td id="b-2ca809bdc46245ab93046a3979570309" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-1138a28d9cbc4c049e2f503222249aad" style="text-align:start"></p>
+</td>
+<td id="b-3708f8ac2cd249cb8913d01f071a6a02">
+<p id="b-7898bd8c4cce43b8b0ff1f0ec3472b56"></p>
+</td>
+<td id="b-f410127e928542d5bea5dfb6106d2838" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-53bbffb673ac40b5b16fb02a50fe6d78" style="text-align:start"></p>
+</td>
+</tr>
+<tr id="b-49126150c6cc419da14b419d711a22ac">
+<td colspan="10" id="b-adc750afb6b54ee398a4825a72b533ce" style="background-color:rgb(244, 245, 247)">
+<p id="b-67db6da34bf3479ca787ea3dc0875347"></p>
+</td>
+</tr>
+<tr id="b-fb1bbbac88c84999a2d16822cd66ef09">
+<td rowspan="2" id="b-a2f4bc40ef51440f91f90c6502ad62eb" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<h1 id="b-b878f06bd42d48daafcceddf339a56e3" style="text-align:start"><strong>标星词使用标准</strong></h1>
+</td>
+<td id="b-1fad0bf8d32842b89b1e1bb08519b875" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-240f1437d8fb4e37b297cff76f15151d" style="text-align:start"></p>
+</td>
+<td id="b-bfd81efc254e415ebe4516a84860c767" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-55a353cb0fcf425482256ce1570285f9" style="text-align:start"></p>
+</td>
+<td id="b-e6c08692c595452c846564f91ffabfc9" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-19cfc54ab94e4323a8e1f2454b7d1b6d" style="text-align:start"></p>
+</td>
+<td id="b-73953332346e4d1998f3e88efc19ecf2" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-780cb1e3d3fa4385a95e20c5e19d4472" style="text-align:start"><a href="../1222921548/README.md" title="学城原文：https://km.sankuai.com/page/1222921548；已保存正文" id="b-bb1b4dff77fb4003bbb6eb7c2b069222">标星词使用标准</a></p>
+</td>
+<td id="b-6450adeb3dd34b168b69b466c4fb4c01">
+<p id="b-afeb14702b624615bbe380fe013815f5"></p>
+</td>
+<td id="b-2132080c63f146c699a701bd99f942d9" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-6f66d8a7724e461e928eab619ba95bf5" style="text-align:start"></p>
+</td>
+<td id="b-4c5d306c5903442db138c858c99ab322" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-f14c527add564393b19acd39161ac1d9" style="text-align:start"></p>
+</td>
+<td id="b-d75d06599a4b466c8922cb0af2db0db4">
+<p id="b-8e2775b846024a2abf742c8ffc01b5fa"></p>
+</td>
+<td id="b-0bc8c85e5e4c4b408b47ffb4a2db7098" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-591654adcb7b48f0a0445dbc7ba1483b" style="text-align:start"></p>
+</td>
+</tr>
+<tr id="b-9513c45779d7451a94e985964fb01631">
+<td id="b-d223952519ed4fc19501cfd026f7783a" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<h1 id="b-151dc971053844cf9765c693e85f7f91" style="text-align:start"></h1>
+</td>
+<td id="b-3c48958206a2460888f527012cfbaf55" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-fbee960104fd49afbe497adb8bd78e70" style="text-align:start"></p>
+</td>
+<td id="b-3dd97264dc604133b8c29c212e3aa9b5" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-11ad24ad1e9e4d7582692dcfcf3ab456" style="text-align:start"></p>
+</td>
+<td id="b-558239028ebf4a4485fab660838db667" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-e72be7079cef42e5bc6d24b708f2172a" style="text-align:start"></p>
+</td>
+<td id="b-c2afbc2c55e34bb79ba3911631213f88">
+<p id="b-2bfff741098742849cde8880fa051301"></p>
+</td>
+<td id="b-e82822d2bf5a4113a97dbfcf709cf93a" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-7f0fe4477d6d4e8c8626d9f123c9b028" style="text-align:start"><a href="../1221479927/README.md" title="学城原文：https://km.sankuai.com/page/1221479927；无权限" id="b-b2ff498e8dff4964a1f981f117ad8a6d">骑手社区星标辱骂处置分级标准</a></p>
+</td>
+<td id="b-cdd6f74197c94b2294d572b895caf536" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-cc27f1514f6f40a9b8cc50143c0cda38" style="text-align:start"></p>
+</td>
+<td id="b-0d46465d125f41dbad5e9cdd4b496bbb">
+<p id="b-aecaa3ff8bf74014b83a490422d5fa6a"></p>
+</td>
+<td id="b-0fac2ca1490a440caadbc86e375106d5" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-88b15259b4d34996a33a939f2d0acc94" style="text-align:start"></p>
+</td>
+</tr>
+<tr id="b-da764f6398294b8eae84dd0b3159bf58">
+<td colspan="10" id="b-e5488468ffc640fc9e385c5cc424345b" style="background-color:rgb(244, 245, 247)">
+<p id="b-88ee6d355268409888a677b9adb6cacc"></p>
+</td>
+</tr>
+<tr id="b-6716ebd31756409c868407a1df6aae9e">
+<td rowspan="4" id="b-4c09d6a60b0643fa8eca8335334527cb">
+<h1 id="b-971c9982babd44eabc9d6b46708e9c02"><strong>重保审核标准</strong></h1>
+</td>
+<td id="b-41802d75b5ea41b788fed4225541ab18">
+<p id="b-4cbada7296184ff4a9511b13eef6b6e4"></p>
+</td>
+<td id="b-e799e7fe1ec24122a4e928d20b58cfb9">
+<p id="b-d1b306b595cb4ee79545cc8d99758db3"></p>
+</td>
+<td id="b-b8908d23af5147ea909896b0ba68753e" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-0dea0931eb0047c9af5168ddce8b6c9a" style="text-align:start"><span style="font-size:14px">2022年535重保标准</span></p>
+</td>
+<td id="b-dcc415991ea04a69903d7dfdaf6e539e" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-4f9d221c11ac405c9eacccd8a4d70fdf" style="text-align:start"><a href="../1317609823/README.md" title="学城原文：https://km.sankuai.com/page/1317609823；已保存正文" id="b-7a21913d566b4093870edab2e184e782">年中敏感节点-拦截图片标准</a></p>
+</td>
+<td id="b-5f00f74736ef4c92a76b31bc753d9918">
+<p id="b-675ed29d7f1943ffa16f859cab0aea5e"></p>
+</td>
+<td id="b-f492804ac2ab4249b894eef2b8874008" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-8cbd820b1e304b85a30b1d690ee3969f" style="text-align:start"></p>
+</td>
+<td id="b-57348a0284df488f8390bebbffa6181a" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-5bcc6c5e8aae4ebe861f9b42ac0b8667" style="text-align:start"></p>
+</td>
+<td id="b-95a5e854d2904349b1ad5416c513e831">
+<p id="b-b3d83cedf8974b34aef5c166541a044c"></p>
+</td>
+<td id="b-37ba4dcb16a84b33b610d86e231633de" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-697d5a5c3f8845eeba84242338f57526" style="text-align:start"></p>
+</td>
+</tr>
+<tr id="b-e82fec45fe9f415298eb06e8891ec687">
+<td id="b-dd6b86ea84374957a3f18f6c3cd1498a">
+<p id="b-a2c85f550af44b9f929ca509f487e51a"></p>
+</td>
+<td id="b-842193ae47bc4900aca15324b0b80c1e">
+<p id="b-bd0b0cb706f240d7ba44eb5b74eb84f0"></p>
+</td>
+<td id="b-6e9026a954494ce2a49c5788763764fd" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-3807f905b23e44d296327c7213d18b40" style="text-align:start"><span style="font-size:14px">2022年冬（残）奥会标准</span></p>
+</td>
+<td id="b-3c93259b6b99432388616c1e3ad46551" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-7d5a54a867264d2191fa187de928e015"></p>
+</td>
+<td id="b-65360238aef9429ba46b33ed242d3765">
+<p id="b-8a85bdd88c7b447c9aa663c62471dc0d"></p>
+</td>
+<td id="b-55a03ea961b34eb2b5c8e50a0a0e243d" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-d9463803bdcf43fdb174b6f7a6076801" style="text-align:start"><a href="../1248178078/README.md" title="学城原文：https://km.sankuai.com/page/1248178078；已保存正文" id="b-0e0082dffab748ba98fc66a8441d5e2c">003 冬（残）奥会线上内安标准</a></p>
+</td>
+<td id="b-d756f975491f4160a10391747b50bfbe" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-14d0e1d3867f494eb20be474f5b97835"></p>
+</td>
+<td id="b-8ff14e92833c4632b838be762786da30">
+<p id="b-c8b9a2f17de04cff9badf83fa1ff3d95"></p>
+</td>
+<td id="b-dc121645140b457eb3eea41723d001f9" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-a16f767779e54040bdfb2457b53d308c"></p>
+</td>
+</tr>
+<tr id="b-d1d2d6c47e274e8086589eec054b0f56">
+<td id="b-4e09d915e91d46d195c7202a553ddf1b">
+<p id="b-cda6b12534bb4fb09a2a6b58e011b666"></p>
+</td>
+<td id="b-94c4ac34342046c799b3545e33a0256d">
+<p id="b-81b95dd2724a4d1ba21f613c28dc458e"></p>
+</td>
+<td id="b-fa4b3ef1b87d40ebb0877d7909509880" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-5471408e5afe41ddac42830aeaf10655" style="text-align:start"><span style="font-size:14px">2022年两会标准</span></p>
+</td>
+<td id="b-01e9f0f4409b4f4591ede8bdd700b38f" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-bb264a552e214d539b8e68379e3a61c9"></p>
+</td>
+<td id="b-02677aaa875a4dda87c3edc6c2c7182a">
+<p id="b-755533c172cf45b3bbff3d59c573fdab"></p>
+</td>
+<td id="b-54f8550425784ed8b495fdc640b03fa0" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-371b16b8ba794b51abe5792b8569d1af" style="text-align:start"><a href="../1285166107/README.md" title="学城原文：https://km.sankuai.com/page/1285166107；已保存正文" id="b-704263c6aaf54a8fb7814b7b5e627bd5">2022全国两会标准</a></p>
+</td>
+<td id="b-fb1166c7b0e84a94ba08c318447d1d5d" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-cd62bcf04dae4b52909ce4f87fa45809"></p>
+</td>
+<td id="b-3cf64911e9c345bd9cf265e9a8fc0205">
+<p id="b-7819f11f850d4e28a0ee14d5eefd8ba5"></p>
+</td>
+<td id="b-80f38928ba2a4ed593a068896f21fd47" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-8d0839c8f48940649872bbc0ba5b774c"></p>
+</td>
+</tr>
+<tr id="b-fdee7b2c4c8046478276db4e0ad017f3">
+<td id="b-2aa6f1c7891b4a2d91068b31481aafc2">
+<p id="b-7cf51f6f26314f979528d5c86bc4d0da"></p>
+</td>
+<td id="b-78f57d296f814c2fad35c0aac683c4b8">
+<p id="b-3321d38089ef4d47be7584af77ddf2e2"></p>
+</td>
+<td id="b-614312c303274e299fdf54181c159557" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-35c8089adbc145809c5298fe867d5e68" style="text-align:start"><span style="font-size:14px">2021年十九届六中全会标准</span></p>
+</td>
+<td id="b-1c5985b53fb34513aad2400b08abbf7b" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-cef7d1061ffb44f69e8765da410908a1"></p>
+</td>
+<td id="b-96bb85156dfc474c810424a14401a99d">
+<p id="b-81d77db342e94a85ae2e68b50a9241cd"></p>
+</td>
+<td id="b-674f80e88f9c420b813b5e849e84a390" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-f2ebf6f4e19142c3a98061f960a9fe70" style="text-align:start"><a href="../1212297337/README.md" title="学城原文：https://km.sankuai.com/page/1212297337；已保存正文" id="b-5bfdf623fa504fbc8a4313b4b840dd51">十九届六中全会防控标准</a></p>
+</td>
+<td id="b-8d644eeb185a4cb8bc5be4a0afa11024" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-f66c19fe259f4e99b1bfeb7824ffc971"></p>
+</td>
+<td id="b-6b58c7f46a944a70963a6a3d27e2d274">
+<p id="b-6fdb52c226c14d139b6385309abcb1e5"></p>
+</td>
+<td id="b-b694251d38874a5ab2c9de668746175a" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-0ffa909a67a54d40aad1f1e8a62ae079"></p>
+</td>
+</tr>
+<tr id="b-bd8190db92fc472e83b787faf2fe39b8">
+<td colspan="10" id="b-4f004feddd2b46f99302af19bb18e99d" style="background-color:rgb(244, 245, 247)">
+<p id="b-8682622cd024470ab98c085cb77f424f"></p>
+</td>
+</tr>
+<tr id="b-b5846d06838b47c29fbdc28b83ada2a5">
+<td rowspan="25" id="b-6976a8e3ebc14de6bda75acf9e5b280d">
+<h1 id="b-8432034b78cf4f89a7778233b076dfa5"><span style="color:rgb(0, 0, 0)"><strong>监管和舆情增补标准</strong></span></h1>
+</td>
+<td id="b-1a984f15338240f4a3fd418ee9cb6e7b">
+<p id="b-b4163c21f25c4454a4d8126250b43c24"></p>
+</td>
+<td id="b-74847f40f1c7439e831bc363f6f84594">
+<p id="b-098b0824eee14f0ea733e0d62f347b2c"></p>
+</td>
+<td id="b-6237a982b5624b34bdd474d817f8a04e" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-d52c90f717b643b6b07238027ba3973f" style="text-align:start"><span style="font-size:14px">《与灵沟通》邪教迷信标准</span></p>
+</td>
+<td id="b-d2b1fd7f69a94cc18ea6c57c6b33d622" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-7fdb03ff8dba43719cef141de70279f7" style="text-align:start"><a href="../1307956682/README.md" title="学城原文：https://km.sankuai.com/page/1307956682；无权限" id="b-6b72df1f577048a7a48e7b3b5b731092">BJWXB通知2022年4月25日拆解</a></p>
+</td>
+<td id="b-1a214f7aa3a84c768ac7a46c1ebfcbca">
+<p id="b-02564233a80e4d2a9878125dd3dc9b49"></p>
+</td>
+<td id="b-2cda4389dee74dacae6ddf1bfd8a07bb" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-5197d3a127644a2fa4fcc47472b92e0e" style="text-align:start"></p>
+</td>
+<td id="b-3041496e110148bda14ec6baad7163a7" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-4927407318744d118f771e9bbd7aa004" style="text-align:start"></p>
+</td>
+<td id="b-2ae6da7444e943fab567a2ba1e587144">
+<p id="b-5b79f98e0f304ab79ba8688cb46aedd2"></p>
+</td>
+<td id="b-84d3f4ece9ea4ca49b3a9f23eb9cb107" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-25b5f1bfd61a48939c9cdf771c4784a4" style="text-align:start"></p>
+</td>
+</tr>
+<tr id="b-6ee020d446eb4ec68766bce77a479ea7">
+<td id="b-986c15fc47804c4fb75d01de3d74ba16">
+<p id="b-1b9e4ff59aed4f93a7e0faaa918428b5"></p>
+</td>
+<td id="b-93a0370ae3204ed383bd5fb02130260d">
+<p id="b-c5539447944f4a2087442666dec5062c"></p>
+</td>
+<td id="b-75adbf6b8ae04b6eb0f14817dd7f7011" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-ec215f2cf86f40f7a135aca245d1022c" style="text-align:start"><span style="font-size:14px">反垄断标准</span></p>
+</td>
+<td id="b-553a411b89b3448f8fd65adb48c66f4b" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-86d4393a025b43f183130dfb6dd6d6dc" style="text-align:start"><a href="../1272733192/README.md" title="学城原文：https://km.sankuai.com/page/1272733192；无权限" id="b-2ec343372cbb4f3281347a88593f5de8">反垄断标准</a></p>
+</td>
+<td id="b-094d45aa9a07484493a2749c88fc9bcb">
+<p id="b-eef964d2478247c79ce36de32765a6f9"></p>
+</td>
+<td id="b-b1c7ac00053a4a73885303ee063d59a6" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-96986af2b7e84a88982d061fbe5422d5"></p>
+</td>
+<td id="b-1ef39110d8b64b70bf1c02e3545f2247" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-b720b418acd044cfa8af6478b424aa40"></p>
+</td>
+<td id="b-c9119e01f6e6442d8f85aa3b095ba439">
+<p id="b-10af42af0812466ab7e9243515363b84"></p>
+</td>
+<td id="b-b2473cad648e4fa3bb4a84d5e52a1d10" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-b57298a6cedb4346b74bef8589c79525"></p>
+</td>
+</tr>
+<tr id="b-ba08d16f54a34a9f98d523c93bb0c60d">
+<td id="b-3910a3aa5a2840ca9d92f7cd027cbe94">
+<p id="b-8f21f7e1782a47d7a1e664afc58991d8"></p>
+</td>
+<td id="b-2e021a8ed7184e57aaa88e2c8b271cc3">
+<p id="b-80fc0c195e734214ae1c0834e38b67f8"></p>
+</td>
+<td id="b-6c1d0dcec2344e34ae9494191d13d7a8" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-f6fd6f374ad1489d896aa9d6b300626d" style="text-align:start"><span style="font-size:14px">涉疆管控标准</span></p>
+</td>
+<td id="b-f38ac26141f34eeba47f986e86819856" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-6c069b1352a94ae4a33b7d15cc45729a" style="text-align:start"><a href="../1316145522/README.md" title="学城原文：https://km.sankuai.com/page/1316145522；无权限" id="b-a8f55a923599426c8dfbd3ab8c0a4710">0518落地标准</a></p>
+</td>
+<td id="b-beefdbdcb4d54ebdab3220c28f0ba2da">
+<p id="b-7077a1c9eef64b489c40c5b362b83bd1"></p>
+</td>
+<td id="b-6b3ceaa407454bcba6a7662a5a7dfcaa" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-eedf043be17b4384a8a81d8ed812b906"></p>
+</td>
+<td id="b-106a015fcb384b94a6618232014a8658" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-44c03d4e24124b16af3af62248af808f"></p>
+</td>
+<td id="b-0807ebee786b4d198cc0fa71dce2657f">
+<p id="b-25bda700cbec46dcad7684d481176c79"></p>
+</td>
+<td id="b-25ecf8a9fe534abbb3c5ce25d1bd1f6c" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-8fc03956276f41bcbf1b1da9c8c278d1"></p>
+</td>
+</tr>
+<tr id="b-a4594c618e40406f9d9ca81071b00f1f">
+<td id="b-b5254a16de2244ce83011e04840759e1">
+<p id="b-902de6729cdb4caf82edb61bf46170c3"></p>
+</td>
+<td id="b-02592e96d088428b83fa9969c6caaa7d">
+<p id="b-7615c5dc45964189ae697abd311d49d9"></p>
+</td>
+<td id="b-59b6dff0ff784856a5f77a849791be43" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-1667cea06cc74921ba2816cbc5e46f9d" style="text-align:start"><span style="font-size:14px">马来西亚流亡政府691基地管控</span></p>
+</td>
+<td id="b-c6c2762bc8c4492180abefd7ff1f5c0e" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-a717eef1f53d4310958207de2a9c8bd5" style="text-align:start"><a href="../1221263259/README.md" title="学城原文：https://km.sankuai.com/page/1221263259；无权限" id="b-6c59bc939ef3400185dff5107ff37ade">691基地相关管控标准</a></p>
+</td>
+<td id="b-f116606a8c2b47b8a0cc01a6002780e5">
+<p id="b-75887123f1254e0fac7d8fb6664820ef"></p>
+</td>
+<td id="b-0e1fdcae5717458690c8c55a1a0ff516" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-765dc071a99e48b1898a34fe37bc1fa5"></p>
+</td>
+<td id="b-1568ef0e18094240b1d551620a9cb5b0" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-a71ad45bba0f4fac8acf8e4c8d0601bd"></p>
+</td>
+<td id="b-3dd0eda4174748e39f15e773a0a9afac">
+<p id="b-840122c99f47459d95e235cb28597a46"></p>
+</td>
+<td id="b-dee36dedf7434cc69f22243bda53f7cf" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-4772d656380c4c73a812c03bed9dcafa"></p>
+</td>
+</tr>
+<tr id="b-7edad2d35a6e4113b3ef7cc5fc1345f8">
+<td id="b-39173538680749b2b83e4541517c78b5">
+<p id="b-1df4f55074d749138ee20c46138f76ee"></p>
+</td>
+<td id="b-c17907410f9c451ca50dcacbfdae11ce">
+<p id="b-b91da52a3ecc464184c4a56a56b28407"></p>
+</td>
+<td id="b-70a2db81525d49598a5f3e208a08a1e4" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-7caf3fb45c7a4ce9a41f050a0b5bf4a8" style="text-align:start"><span style="font-size:14px">丑化乡村生活管控</span></p>
+</td>
+<td id="b-bb343d91ed5d45eeb903c00ee1e09c5e" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-811649d64e24443a883e6ed90bf95785" style="text-align:start"><a href="../1280562724/README.md" title="学城原文：https://km.sankuai.com/page/1280562724；无权限" id="b-aadc4a2006904f5cb601eb8226209d86">丑化乡村生活、抹黑乡村振兴内容打击标准</a></p>
+</td>
+<td id="b-06fa57fca5c84f59bfa1f5fa60a73fb9">
+<p id="b-fe9394e02af645bfa82a87e7c2eb3967"></p>
+</td>
+<td id="b-3e508eeb57c0439eab54b418140e6e9b" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-da14bb6c9fc74241a1d467db09c91be1"></p>
+</td>
+<td id="b-3de15eb74a81425d861347ff25c2f369" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-7c05496ac67545059e22ad97baef40aa"></p>
+</td>
+<td id="b-68f85042e6a7428cbca120557bc76e30">
+<p id="b-654215ae253a42ff87cfd4e131512938"></p>
+</td>
+<td id="b-4ee08cb51e884faa80691326740a50b8" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-e4ad0b84d138419c94ad51e173b5f9f8"></p>
+</td>
+</tr>
+<tr id="b-88f904137854486aaf4e99090fda971a">
+<td id="b-28c82758019340aa9f3ead385cceaabd">
+<p id="b-fb10f0cc2a7346d5b7a6386934fc9a2b"></p>
+</td>
+<td id="b-3147403627bd4d3badcf72a3e9f501e9">
+<p id="b-9dd626eaae904032a251736e6bcc95c5"></p>
+</td>
+<td rowspan="4" id="b-4e4324cfa8b84c399cd349f3f760edab" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-13e1ee3091fb4beda57b94ef451165aa" style="text-align:start"><span style="font-size:14px">违禁买卖类标准，梳理后并入通用标准</span></p>
+</td>
+<td id="b-3b0efe224819409eac15572d4c4614d8" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-68ca9e3112c241c0a0af9220f9d6bd18" style="text-align:start"><a href="../1221413674/README.md" title="学城原文：https://km.sankuai.com/page/1221413674；无权限" id="b-c0c1c5aae53f42c69d99d553bdf173c9">违禁买卖-22年公考助考信息打击标准</a></p>
+</td>
+<td id="b-03f639a483de4199ad8615def27c8a90">
+<p id="b-19ae047f43af42e397bf349dd867de6b"></p>
+</td>
+<td id="b-27b8ee3a571f40688fbaf74e93a51048" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-e6cdd500302542d0b1d9e9b143a178bb"></p>
+</td>
+<td rowspan="4" id="b-8471189e882844cbb441e1855881910b" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-29d48dc8439c4dd7b732e52a9191371a"></p>
+</td>
+<td id="b-05848f1c540747f09f96e2ed872d299c">
+<p id="b-c132dc79780b425b86d8fce72484619a"></p>
+</td>
+<td id="b-a1b73191e597415ebbb60484882f94ea" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-ec789c3e3e554365b9a99abb0a0e59da"></p>
+</td>
+</tr>
+<tr id="b-d513b7cb9c8241eca0ad09e2d62dc7ad">
+<td id="b-3379c99ed19e49d1861935fd335b7169">
+<p id="b-753b93f53d1b4c758a31421143a1e58a"></p>
+</td>
+<td id="b-45fee6749e034bf1a8c298cb1693fd24">
+<p id="b-9f75b10679474a858872ee36fafd0e98"></p>
+</td>
+<td id="b-ad8f2502158b4717a03435a5a2a0a4d2" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-cc511d940b6f48548e5da9616806d362" style="text-align:start"><a href="../1219095226/README.md" title="学城原文：https://km.sankuai.com/page/1219095226；无权限" id="b-f97e1369ac064d50be5a5b206b24e4ef">违禁买卖-NLP教练技术有害信息打击标准</a></p>
+</td>
+<td id="b-81bce899d39c44278c094486b0813755">
+<p id="b-95f957a1d2264a40a6535d5ac3a65c31"></p>
+</td>
+<td id="b-a6dcfee308ce45deaf778f73c1a236f6" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-216356bfba23467da2a5be16fb0dcc5d"></p>
+</td>
+<td id="b-6cc04a1009af43e68fd869029edca028">
+<p id="b-4d0873face0d4626824f7ffc24ccde0b"></p>
+</td>
+<td id="b-4902c8046e7744619b9d99f1a3f52ee0" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-69648c1dc54b4d569e85fc31122fd003"></p>
+</td>
+</tr>
+<tr id="b-d923eec6b92a4f498f50af0f4ce3e0f7">
+<td id="b-f004f03ef6cb4c32bb2849a37a14ef32">
+<p id="b-ae8946e2320e4dd5a1c11d2dc965af43"></p>
+</td>
+<td id="b-e2a1752dc45e4951a487d83e6e51681a">
+<p id="b-91f023f3609a4aec9bd5b5ebbfc1c8b5"></p>
+</td>
+<td id="b-d18914b6c6a5499fb4d138cdd14c2341" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-49cf2fa4ec114e9db01436e63f2b21e5" style="text-align:start"><a href="../1264759287/README.md" title="学城原文：https://km.sankuai.com/page/1264759287；无权限" id="b-cb955b8d07b84247a3a613ff66f6fa94">违禁买卖-代开发票</a></p>
+</td>
+<td id="b-965cfd8819524db8a4b949b36ba662b7">
+<p id="b-40a140e14d604e368855a39e7ca15788"></p>
+</td>
+<td id="b-74d51d1dc79840b3a98ff81b3a6745d1" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-cfc2aea0d209441297c7d832a493238e"></p>
+</td>
+<td id="b-b5b2ba88613b457da31b7967668f2056">
+<p id="b-5b72914e6aa140e0a093065653c1b477"></p>
+</td>
+<td id="b-da7f711e21e645219007a0065d614bf5" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-ad3dc38c0a694d4baa3aa98f3c38fa9e"></p>
+</td>
+</tr>
+<tr id="b-7a59ebb5663347de97e1edb68eab4397">
+<td id="b-f64ae4a0a3a04ecc8fabf7e3e3fc18b1">
+<p id="b-411f395cf61f46138284544505a884c4"></p>
+</td>
+<td id="b-57784ffecb634d83b5b69556b7d93e00">
+<p id="b-a509c702df314d70bd40ee4403437254"></p>
+</td>
+<td id="b-a3f7e06384314c2993a127a8983d0bfd" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-a13fb612c4b04da490a6f1f8449330e9" style="text-align:start"><a href="../1215691562/README.md" title="学城原文：https://km.sankuai.com/page/1215691562；无权限" id="b-9cd7bef7d0854c6f83ae19abaf1af2ff">违禁买卖-烟花爆竹</a></p>
+</td>
+<td id="b-bcb8fa012b304d2dadb878b6fd941321">
+<p id="b-e566f9b2af1d4a66aa2532d0a35eb3a0"></p>
+</td>
+<td id="b-cdd6d7c4468a4d3e909b8f77c2ec6f49" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-b1599934615d4143bd13172bd94cd72d"></p>
+</td>
+<td id="b-73be584b78fa46e79c16a97157de88dd">
+<p id="b-7bea33739dd44f1aad5f914e61204328"></p>
+</td>
+<td id="b-2846e6b8a04445598cf31805f5ab26bc" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-c634756b0c244633a6d1dadf81111a86"></p>
+</td>
+</tr>
+<tr id="b-080d05db10524ccca90865174cec95ba">
+<td id="b-5b2f5e3700da4d1eb7670d4bd59d3838">
+<p id="b-264c2f101c934e39990d4398eeaead00"></p>
+</td>
+<td id="b-cc820b497921490c8bb1eee2545e406d">
+<p id="b-54dafbb0eaba4e36a1cbdb0935910c5e"></p>
+</td>
+<td id="b-11adc41c31d145db870c57826f200398" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-b885a169b11f45cab62adb9a968d6272" style="text-align:start"></p>
+</td>
+<td id="b-5862d2809c2f43a7ae93c85b96ed4906" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-7e3a2a5ba5e04482a3937519829a815f" style="text-align:start"><a href="../1143149255/README.md" title="学城原文：https://km.sankuai.com/page/1143149255；无权限" id="b-30a52909141043e0a7e54c81f12a272d">中美不当言论标准</a></p>
+</td>
+<td id="b-f7245635035b48efa76f37b396fc62c2">
+<p id="b-1b0f2335b1384618b371829eaebf9f52"></p>
+</td>
+<td id="b-edf11837d3b443ffa14f769273effefc" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-7d061cea26d44df283e88a112fc8f42a"></p>
+</td>
+<td id="b-a065942e0d3040cb84a19b21a2c1a911" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-93c8541729274fff8eab1d82e2bdc188"></p>
+</td>
+<td id="b-9e17abca8efa478382b60da69b20b832">
+<p id="b-d373d342a0e74e02a902ef279456d818"></p>
+</td>
+<td id="b-a318c5a31a1e496db2e5b10c971cc749" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-e50947236c8f41249552727f5b68af7c"></p>
+</td>
+</tr>
+<tr id="b-86906a3881a54eaebac0bd5fe9d5567e">
+<td id="b-d13e2b4eb82149afb8fb0bfd603f11d7">
+<p id="b-95d466a72a3d4d0481f780bb52b8407b"></p>
+</td>
+<td id="b-0ec5d26d3b3643f8b4056984e7555185">
+<p id="b-ba5091a335e8439fa0c553c744f4ce3b"></p>
+</td>
+<td id="b-6e03eb6e7c954441940de3fa5fd584d4" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-98fd97afb4a54644a797a2db13815baf" style="text-align:start"><span style="font-size:14px">清朗未成年人网络环境整治专项</span></p>
+</td>
+<td id="b-8b8295de0af342d291eafdf8a86c112a" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-d855e696acb4467abd19e691385c3934" style="text-align:start"><a href="../1047058197/README.md" title="学城原文：https://km.sankuai.com/page/1047058197；已保存正文" id="b-5344b23d06ef4157a0014c4d259a79d3">关于清朗·未成年人网络环境整治管控标准</a></p>
+</td>
+<td id="b-dfd527d3e6404e24bca7c572fa43a73f">
+<p id="b-ab4c254ebe564175b37aebdc052fbed2"></p>
+</td>
+<td id="b-0497b44795214cf6b0bbb53c03de3813" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-12a1a53d75f14bc6a5d08a3697cde328"></p>
+</td>
+<td id="b-a5496b3f6d17423b9e423add87179faf" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-e6177833235848ba8bc8b387c74cd999"></p>
+</td>
+<td id="b-b396d96461234de68d5a1d900f778d4f">
+<p id="b-47d14ffabc284cb4a116b77287401e61"></p>
+</td>
+<td id="b-34197d6783ee4aa98cf2c486cb0126ad" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-bb59a6ccc3d54b289132f4e0c9c5a3dc"></p>
+</td>
+</tr>
+<tr id="b-33ffaa7c746c4cc0bf7ea3783084591d">
+<td id="b-3521b0ae1986463998aceaac8aa37930">
+<p id="b-ea991023cc45451383aa35e016ebbdac"></p>
+</td>
+<td id="b-d3833394baf643bd83321768a2a63fdb">
+<p id="b-f952225ea29c4a2590dd18b6371e00b2"></p>
+</td>
+<td id="b-c49c4824020a49f3b1edca3cbc2e7e11" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-c9457e9a8fa64a44b3f6605679afcb2b" style="text-align:start"></p>
+</td>
+<td id="b-0e183924b27c42329f96dd24e3fb7042" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-5db5e5be3c7144a2bac7944c0a23b9ee" style="text-align:start"><a href="../1213160443/README.md" title="学城原文：https://km.sankuai.com/page/1213160443；已保存正文" id="b-ab4a42609dcd4061ae1b9cab4167dbde">鱿鱼游戏标准</a></p>
+</td>
+<td id="b-a391bb9aa270429994b6f036d6703a3c">
+<p id="b-953b205237104762a60f1b84270291c8"></p>
+</td>
+<td id="b-6e6cb88df3c14e8a9cd75d6fce3731de" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-e9e4bb32656c4eea9e1e52c07897a81a" style="text-align:start"></p>
+</td>
+<td id="b-508e28bc62364e0593aa756ddd05b068" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-3c534cc4355b4c77a63e72177b2ddc32"></p>
+</td>
+<td id="b-1c9f1fc7a64d4909b75dacfc7aee699e">
+<p id="b-2c14cd2bed214480a9d51aead41001cf"></p>
+</td>
+<td id="b-868e0a7717bb481a910245df0ef932b8" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-dcda911fd1ed416cbc869226a53a9e2c"></p>
+</td>
+</tr>
+<tr id="b-92f888f6a8bc4821b2708fd322c224a8">
+<td id="b-94e5dc07d3564c4fbb8ca5d5dd532fb5">
+<p id="b-791ce39813134f649cf8b8ae4bb60f74"></p>
+</td>
+<td id="b-6c001491e48747bcb93c4778a180436e">
+<p id="b-11add1ad12384413a0a9c194624f3659"></p>
+</td>
+<td id="b-a141739925e7454bb8fbcfb7486dd711" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-30dd708e281e4f7597835410d9506aa0" style="text-align:start"></p>
+</td>
+<td id="b-b9f07d6d04414375b83b57e5c05ff3b1" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-ceef46e46b71460da5469c3352e2e04a" style="text-align:start"><a href="../1206782818/README.md" title="学城原文：https://km.sankuai.com/page/1206782818；已保存正文" id="b-367ee179003c41aea185cf9028768293">“一日男友”审核标准</a></p>
+</td>
+<td id="b-f7d5bbf3da114d73974bd974aefc1afb">
+<p id="b-8f71515b78b44fd5ba4926bd6e28b097"></p>
+</td>
+<td id="b-eadd3d8d070645bf944890292207f4f9" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-443c3228d2d34dc5a452070498c9af2a" style="text-align:start"></p>
+</td>
+<td id="b-bc1b2d887b784a99b32e9cfff1ad613e" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-41f23e01b38c4bf2a6b2fb4944c0df1a"></p>
+</td>
+<td id="b-c3b662bc4a7444d28fd890ac78debbf7">
+<p id="b-01351e872a4f499b9025a4709913caad"></p>
+</td>
+<td id="b-df0a2429472f4822b26d95f32bbaae12" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-955fee7005624da6b01e17b89ff65b43"></p>
+</td>
+</tr>
+<tr id="b-9736bb3bbae44857aecafe907996ca7a">
+<td id="b-f26b9e5e1cf44edf9f4b11b8f9737521">
+<p id="b-d20544eaf4d24ea9813ff7c255f73598"></p>
+</td>
+<td id="b-2996fb42352449eaaf4653900a2603b8">
+<p id="b-3a5000e2d2774d1b8341664b6197228f"></p>
+</td>
+<td id="b-56b279d0610149c39cdb832497db5497" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-61cf4e7cdd6f485cbad1b27f26e1b9cd" style="text-align:start"><span style="font-size:14px">女仆涉黄标准</span></p>
+</td>
+<td id="b-9b8d930729c44552b888e2fa4b63d271" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-f2eb35cfb9cb4a969ca52637d8c44f41" style="text-align:start"><a href="../1227274452/README.md" title="学城原文：https://km.sankuai.com/page/1227274452；已保存正文" id="b-416c6506c1d74a488d696e35cc3f7598">女仆涉黄治理标准</a></p>
+</td>
+<td id="b-966c22f12a8a42b9a0c064411ef8e8eb">
+<p id="b-e24fbe10af1a4d5e9e821f64bd2d2382"></p>
+</td>
+<td id="b-fe16bd31af3d47eb804a933f05dd7a58" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-9b817ff3362146cbad00961342706c09" style="text-align:start"></p>
+</td>
+<td id="b-f0ed85aa673a4d9587fbde749d572d5b" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-c7516ff38a654d7c8d01c84d5517884a"></p>
+</td>
+<td id="b-74266317f0de4ec9ab23a0378cb6b46b">
+<p id="b-6f1b77c7e85541ab8764cbc2faa718cc"></p>
+</td>
+<td id="b-ab0b69ce96bc4b128f7c304e3c29afd7" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-d3780a30185446a59401455933030699"></p>
+</td>
+</tr>
+<tr id="b-b7c756972e044063b798af60202a853e">
+<td id="b-7386f6d99992473caf95660d4ef333e3">
+<p id="b-cadb586ebac3486c917498b0ca03ddca"></p>
+</td>
+<td id="b-3c13e5158cdf4bd28ecbc65abcb8428e">
+<p id="b-c35a1bbbb6594c0c80c0c378dce2577e"></p>
+</td>
+<td id="b-07aac3ebb98447cab8fea846b4f77a9a" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-e99a55fc96274fd2824d3a4002ea1929" style="text-align:start"></p>
+</td>
+<td id="b-620eb5d28fb848b3b26c1c709b6f59c3" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-5779a700fa774a45ae05449776a4bb41" style="text-align:start"><a href="../1229878836/README.md" title="学城原文：https://km.sankuai.com/page/1229878836；已保存正文" id="b-d7b5dea28989485297b1232979c7b8e8">南京大屠杀公祭日内容发布审核标准</a></p>
+</td>
+<td id="b-9144c5ab8d3f469b978d57fecccc4f9a">
+<p id="b-121915cbb060493d887669e29405a324"></p>
+</td>
+<td id="b-0ee66881a8474388ad6ec23e16da3e22" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-2989a48eb1cb4e8f818c2adc0d342d08" style="text-align:start"></p>
+</td>
+<td id="b-0931b3c7434a48828811815edd3edee2" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-7908e3855bd8421cbccce6db07da89d9"></p>
+</td>
+<td id="b-cc6893e485c14ab5bbbc18998162c0c9">
+<p id="b-aacb40fae832407dacad58504d895f5b"></p>
+</td>
+<td id="b-ec746b682c194ed4b437901531941c0d" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-bae99c4a09e54cedb8c347c5dffdc9f4"></p>
+</td>
+</tr>
+<tr id="b-93a61d2e5966455e99088622e4474f96">
+<td id="b-47b4f25986894c92b0d5b9f06baff33c">
+<p id="b-ba2a1403632246959b830fd56b31fd2a"></p>
+</td>
+<td id="b-9168907cfbc5444998c1434b05e06d65">
+<p id="b-c5e052ccf5824f6ab0346daa94b32417"></p>
+</td>
+<td id="b-234d1b03e0d84d2cbbebec5e48fd2bb1" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-bf0c5f5ddfed43d2b119aad8c1d881e6" style="text-align:start"><span style="font-size:14px">胎儿性别鉴定标准</span></p>
+</td>
+<td id="b-44822839deeb4db49bddf705a9dc7a43" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-45dccba0bce8451586c315eef387a568" style="text-align:start"><a href="../1299382129/README.md" title="学城原文：https://km.sankuai.com/page/1299382129；已保存正文" id="b-eb5f5967b2c642d099557c6a0e6fee34">胎儿性别鉴定</a></p>
+</td>
+<td id="b-285a8cb1e12c4e6d86dde64a41994208">
+<p id="b-84504780e065496a88d02386b1df16bd"></p>
+</td>
+<td id="b-4e850ce2cbd7479cb28335ce4ced3c9e" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-02e894411d214045bc45f79f613c36c3" style="text-align:start"></p>
+</td>
+<td id="b-e289feffdf2041708a0154e01e43114a" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-32a0d14be3614dcaa6b4ffabcb1fc9c2"></p>
+</td>
+<td id="b-9b28a5cdae644cfc834f52a94abf0c54">
+<p id="b-db431695c120490dbabe23d3ad6b8445"></p>
+</td>
+<td id="b-05613cafc3c6440f93bee7fdb9ba7759" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-2bf4104845f34221b2080bc5d682f0f7"></p>
+</td>
+</tr>
+<tr id="b-2222660058524eb4aca0828531daa680">
+<td id="b-b12703f9b73a4bc8828fd03cde59592a">
+<p id="b-d82cd34817d54e6e8d98f88c4fa39fe0"></p>
+</td>
+<td id="b-7ae5b5a507b34c22aeb75514f55794a2">
+<p id="b-9d568620fdea48f68cf418c4b0a47151"></p>
+</td>
+<td rowspan="2" id="b-ec898489f6204ea68dc5502c00d6647d" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-5b5b96b194c04210911f7493edd9b71e" style="text-align:start"><span style="font-size:14px">节日管控标准，后并入风险日历预警</span></p>
+</td>
+<td id="b-888c3125dddc484e822e753a0489ba38" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-0088120a8595473e99201ccc72f23bc3" style="text-align:start"><a href="../1216044815/README.md" title="学城原文：https://km.sankuai.com/page/1216044815；已保存正文" id="b-c16c1b78f217481cbc7f043678f964c0">洋节管控标准方案</a></p>
+</td>
+<td id="b-65d25aa5c119405cb4b3ea2ee7dca9ee">
+<p id="b-152879b6ec4e4dcaa9991a006eff379c"></p>
+</td>
+<td id="b-6c9da6b54303409c99be047f0fc02275" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-dc7139e37e6a49669978922ce00c6e80" style="text-align:start"></p>
+</td>
+<td rowspan="2" id="b-d66bba580e7b4f3e911ee03e429a4cae" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-1eed1d582bf44723aceadb782bc09832"></p>
+</td>
+<td id="b-e302f082d59d445aa9e73da5ff20da62">
+<p id="b-186d8ad4b9554be59d5f9e9a10e53db2"></p>
+</td>
+<td id="b-3e3db75879be4b169009b4a0633decb1" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-3ac56ba8e7264a1898efef095a45829b"></p>
+</td>
+</tr>
+<tr id="b-ff113af7a30f4bbb8a1b2389597a2ebf">
+<td id="b-ec9b9b5dc3434beea97061fee640cade">
+<p id="b-5def5654d6cb4b03ab39e8a0f9a3ffaf"></p>
+</td>
+<td id="b-5a040c756c704d10875b76a19b4c660f">
+<p id="b-577c31335c9a4769b8fa326599841cad"></p>
+</td>
+<td id="b-d4782baa1f9c48169d381586efa0424b" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-847139723eda49928f289d3f5ffdeb4f" style="text-align:start"><a href="../1230713162/README.md" title="学城原文：https://km.sankuai.com/page/1230713162；已保存正文" id="b-1d7ad7cab376426ca7f09092a5f459d2">圣诞节管控标准</a></p>
+</td>
+<td id="b-b8c81b1adb254c4ea3b0477c422e0b32">
+<p id="b-1d63d4292d1a42cb92de86064c44b616"></p>
+</td>
+<td id="b-dd9b0699f7b44d3a92b76753a870cfce" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-8ce0b22f73794b50ba49b2ea9ba0a398" style="text-align:start"></p>
+</td>
+<td id="b-8ff5b02d3ada46efbe0d2f008ca6fa3b">
+<p id="b-0acf52a7d1ca409688c557e25e7ea67b"></p>
+</td>
+<td id="b-e40e2cad196146bb995607b582320ea0" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-bc8e5c41f6074ff2bd36556c9ea69beb"></p>
+</td>
+</tr>
+<tr id="b-ad71d2aff83f48d095bfdfdffef3ee01">
+<td id="b-924de8291403416da58400a495b19b63">
+<p id="b-cc36aed14fe94cb882a7596a000548a3"></p>
+</td>
+<td id="b-03410840f24f44e584c02d5a08a26044">
+<p id="b-1082f9539fa4476b80885f3236f52974"></p>
+</td>
+<td rowspan="2" id="b-59a2577c5371448d8b348e60562a968c" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-660a64bf10994fbeb6faf4a26b84ed62" style="text-align:start"><span style="font-size:14px">新冠、坠机应急标准，并入涉政-社会负面事件</span></p>
+</td>
+<td id="b-1494ef2907294aa9abf5a94bd810d620" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-d43e588d78664de4a1e293f6971bea75" style="text-align:start"><a href="../1273780486/README.md" title="学城原文：https://km.sankuai.com/page/1273780486；已保存正文" id="b-f687d969a26a4b4a950017dfcb7e5eb6">传染病（新冠Covid-19）疫情突发应急审核标准v2.5</a></p>
+</td>
+<td id="b-f89d352822814db4ae0d37d872c70b58">
+<p id="b-966ec2febf334ea09f28a8d027cc7386"></p>
+</td>
+<td id="b-14ad6ab6b7854339b87de12f8c353f15" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-012449bac5ff412e8870f169328970f6" style="text-align:start"></p>
+</td>
+<td rowspan="2" id="b-7c87b9fb4ac5462492908c8f5624b7e2" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-f144ef05f63a44cea347702f52fd8c3c"></p>
+</td>
+<td id="b-2f5ddc0d66fa4c0bb947dff607b50274">
+<p id="b-c44f5425c4714a2abcbb12e2a8806863"></p>
+</td>
+<td id="b-3a383c8a0c69423696a48853bbc3409e" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-3fa76bbb4e5b447a9bcb8e254092ca80"></p>
+</td>
+</tr>
+<tr id="b-1fcd031022c34374b33ea865733457cc">
+<td id="b-61ad14f14d98431aaffbce794aad73d5">
+<p id="b-5ffd9b09431d41fbb8bea982d7402f87"></p>
+</td>
+<td id="b-07d240c711ef4e26980cab41c2a0d4b7">
+<p id="b-e787c91a160b461aa9fcf8f08a36a170"></p>
+</td>
+<td id="b-d23552a84bcf49da8bba73b2f6f93735" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-af826ac71d314761a2a3c3ff86841275" style="text-align:start"><a href="../1294258078/README.md" title="学城原文：https://km.sankuai.com/page/1294258078；无权限" id="b-f14410ba8200485197cc6ae9c9083500">社会负面事件之特大交通事故（MU5735）</a></p>
+</td>
+<td id="b-657d79c3c95a4d929d3c4eb607ca9754">
+<p id="b-fd105dbd3bf34f6180e5b0f7810feae5"></p>
+</td>
+<td id="b-d2bebc42630c48a0ae32338cae82b57f" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-c126124cec9e4be98d4fa9ed820c1615" style="text-align:start"></p>
+</td>
+<td id="b-0c20d1b871514a6196b5ad13d5a58b0e">
+<p id="b-e3dcb8457f7540da9e0fa42fe6a13c4d"></p>
+</td>
+<td id="b-8744f7bf2e114bb88b36b87f1bfa015e" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-b3c086ca1d24422f9fd1f382ff735a5a"></p>
+</td>
+</tr>
+<tr id="b-2d76c737a7d34ba4b466327382263af7">
+<td id="b-21b2a082e2804bd887330857233726d4">
+<p id="b-6a7871f7845c47a8893c6ab27baea88c"></p>
+</td>
+<td id="b-2d479073701a495abb8217dc044de5ac">
+<p id="b-85c67a3eb4d541849797229a67abfb4b"></p>
+</td>
+<td id="b-e664ad97618548dfade6d881289e0af7" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-1acae3fa52fb439e9058963d240cbb1c" style="text-align:start"><span style="font-size:14px">违禁内容-电子烟管控标准</span></p>
+</td>
+<td id="b-d752b18fdabd4c8098b08a543275ea70" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-6ee33fdd180c4f578443cfca17e4fc1c" style="text-align:start"><a href="../1270162756/README.md" title="学城原文：https://km.sankuai.com/page/1270162756；已保存正文" id="b-6b9e5c554776408c89e2eaba23afbee6">电子烟管控补充规则20220107</a></p>
+</td>
+<td id="b-71863697456d433bbceb03d7d0012bf1">
+<p id="b-43a22cac879c4c55accfd7e76d242ea9"></p>
+</td>
+<td id="b-ad76c4b5f3be479f8d62d25795b90c36" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-e4acd4c205d44ad5879b07c20c639c5d" style="text-align:start"></p>
+</td>
+<td id="b-08daa00876c94c84b6cf810764387f5d" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-1a6115a2803543b5a292bc382ae8ec25"></p>
+</td>
+<td id="b-4697ce76388a47f3af26842c756cbda2">
+<p id="b-a1d046ba8ff64ad5befa76c5584ce8e3"></p>
+</td>
+<td id="b-e00b3c15522743a69b0fe977f228cd1c" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-9e9b1abe712e4880a1c7096b4fd7befd"></p>
+</td>
+</tr>
+<tr id="b-e2d3db8e61d242b8b826f63cbd18f7f5">
+<td id="b-3b080dc915db4e1d82f5f09181fd627d">
+<p id="b-382b86ab2478430aa458ae16a8f2cef2"></p>
+</td>
+<td id="b-4faf029cc8f14d2cbb41fd380fe5ea55">
+<p id="b-8c4400432d894da5af3749b57a929bea"></p>
+</td>
+<td id="b-592e43c2c66f4f46a9a4654f5d6f3f31" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-bd7c140cdfb746c7880ce4774cbd02ac" style="text-align:start"><span style="font-size:14px">宗教剧本杀管控</span></p>
+</td>
+<td id="b-32af0662ec174b31891493953b8251b4" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-215b3fe78bae4bc394956955452cf999" style="text-align:start"><a href="../1269178268/README.md" title="学城原文：https://km.sankuai.com/page/1269178268；已保存正文" id="b-0c657b76a5f641ca9d2fb71d8ea377ac">剧本杀《椰枣》相关处置标准</a></p>
+</td>
+<td id="b-35c4621610f94c3485a536bb26cad892">
+<p id="b-a98940d2865c4ba19b693fe266fd6740"></p>
+</td>
+<td id="b-b245fb64be4343b1af62379d2463898e" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-779bfa167cf54055a3d2991477a2023c" style="text-align:start"></p>
+</td>
+<td id="b-9bc3217ada0143a7aeab7996887ace66" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-654e948e72d94863be21d5b8719111d1"></p>
+</td>
+<td id="b-c1260574f859433fa561b3fad2d64ab3">
+<p id="b-b1fc86deed7e44d8a39263e1a4262d15"></p>
+</td>
+<td id="b-721aaf773f204721ad1f8c5564e0b491" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-bdd8bba401b1404b9a3fd412e54b037a"></p>
+</td>
+</tr>
+<tr id="b-55ccf80b44054a1f85cd911069b85f51">
+<td id="b-9980fd2d5b224a6fa89bbf0f3607d9ba">
+<p id="b-e8f7bda8e56e4ac4aab73439c0657fd0"></p>
+</td>
+<td id="b-55b4ff9eb6a944b2b6594c13b40c379d">
+<p id="b-960f235234524a16aecc45fe25b606b1"></p>
+</td>
+<td id="b-73921bb47acc439e85a83902e83c0164" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-aa6e7c6868464c2e943b3e1aa29168a4" style="text-align:start"></p>
+</td>
+<td id="b-a99728dcc374409b9f67ba619c21129a" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-ef36082ff1c742a0ba831ca8934a4519" style="text-align:start"><a href="../1286567096/README.md" title="学城原文：https://km.sankuai.com/page/1286567096；已保存正文" id="b-4eb0969d2880485fbbe2507044841457">战争冲突应急增补标准</a></p>
+</td>
+<td id="b-f8b4bac4f9e44bd58f0b7d478d8ddfd5">
+<p id="b-536bdc62a0034a4182459fc7392f0421"></p>
+</td>
+<td id="b-94c31197d86748fa83fcdf8b87adbc85" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-d04c7d942092488fbe30cb8ba371bf75" style="text-align:start"></p>
+</td>
+<td id="b-4922d81086da46acb04059baec090c36" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-bb85dd96a9ba44bfa486e26ec4a531a2"></p>
+</td>
+<td id="b-ed3f7309d9f44d4dab683acdeafc6d2e">
+<p id="b-49205be5c4a34183a9ae0f1f8affa9d6"></p>
+</td>
+<td id="b-6dfc91649a1b419dba05b7f0ab3f39c9" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-6b67cf8dff37473aa024a61b447e55f7"></p>
+</td>
+</tr>
+<tr id="b-5868015e812d434c9fbf8c9c5c199fdf">
+<td id="b-dccb2da4fc9449f58da81fdb1e03e989">
+<p id="b-1d04a3b961c04124b4f70786f43e8b2c"></p>
+</td>
+<td id="b-ccaa9a43af46485d8c32c3e39e8af724">
+<p id="b-6107a7350a3a4eec881ad19c0b499529"></p>
+</td>
+<td id="b-6add58f5125f4fc495282819508afc84" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-78a794bcc7e34ddf927a0587a67de885" style="text-align:start"><span style="font-size:14px">违禁内容</span></p>
+</td>
+<td id="b-a6019aa1600243cc830bba6fd739b34c" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-687c1b19b6b044988a0253584aaafd3e" style="text-align:start"><a href="../1275813182/README.md" title="学城原文：https://km.sankuai.com/page/1275813182；无权限" id="b-3db6f572cd5047aca5f8dc3a359da25f">违禁游戏应急增补标准</a></p>
+</td>
+<td id="b-fe2e19c7b7dc4f20bb2522ad6cc97e28">
+<p id="b-895dac5b2b624dc0934435e000e403a2"></p>
+</td>
+<td id="b-c2b0a39b79ab4089954eebaad4d25da2" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-f06b72b2841148549e31a38b2064752d" style="text-align:start"></p>
+</td>
+<td id="b-1abb68a6b5c143778440c97c26a38977" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-3016d7d7a53e4cd09b988ad5a5c949f0"></p>
+</td>
+<td id="b-c8d76958e4cc475f8ec3fe40f026854e">
+<p id="b-b3b1ba133fd84b499c6078d79c2647b0"></p>
+</td>
+<td id="b-523d93dd150f4884aff83b9dc3af7bb3" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-039479ad0838401280b0254e8dd6e434"></p>
+</td>
+</tr>
+<tr id="b-bccd6f082f934b29b2000cf942bc6cf6">
+<td id="b-30d4ce9b6ba848ecad7e5c7a8899b899">
+<p id="b-ee828e2a04024458a10bf3c556606070"></p>
+</td>
+<td id="b-727b961e5080424c8384f617da1090d3">
+<p id="b-1628c7fc396a46bbbad1755fb9d38206"></p>
+</td>
+<td id="b-bb251454918f4b19894c8e174e813015" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-eef5a8298a304f9b9f5ead614dba106c" style="text-align:start"><span style="font-size:14px">三春专项标准</span></p>
+</td>
+<td id="b-c4d5063a47ac48d19997ee13baa97289" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-abc7b59c995a4c5c9c62748740e5ba60" style="text-align:start"><a href="../1276502679/README.md" title="学城原文：https://km.sankuai.com/page/1276502679；无权限" id="b-6deaa2127cb24e2c9e8a4522961c086a">三春（春节、春晚、春运）专项应急增补标准</a></p>
+</td>
+<td id="b-0a028ed2153e4e738ad67ab0cc59ea51">
+<p id="b-ffc827a2298743a7837d008af463ce7e"></p>
+</td>
+<td id="b-8fb223e714464d5e9ebec7a9eaf6e632">
+<p id="b-e913929305a9416488369de2f3cb06ad"></p>
+</td>
+<td id="b-a2bbcc906f514a63966de6f3327e9d3a" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-f3e7e2de21764bc8aed197ee1e7ee9f3"></p>
+</td>
+<td id="b-8786d1c31efb42b7a2a796f3cf050251">
+<p id="b-8808217aee554209ada15d37b539a240"></p>
+</td>
+<td id="b-5081e1139095408d9d110d2fd3864c7a" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-e72195638f6244c79a7072e2964fabf7"></p>
+</td>
+</tr>
+<tr id="b-07c2e819619d44c28575b26571ea3ee9">
+<td rowspan="2" id="b-283bc96bafc048d09833d1e68316f2ba">
+<h1 id="b-caffc580d7c74283bb0956fe6fccdd09"><strong>业务合作标准</strong></h1>
+</td>
+<td id="b-069b355ca2404065872942f4b391a1c9">
+<p id="b-f21bfe90ddf04df29822f7501057bbc1"></p>
+</td>
+<td id="b-0467e303aa3e4e72bba8126ac49e026d" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-38e4d08f2c2b4e8280de139d2f724fd5" style="text-align:start"><span style="font-size:14px">公里医院评价审核标准</span></p>
+</td>
+<td id="b-b47a719b7a774749846c82e0f667c766" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-aa4a417336a74174a71778fc85d7ac3f" style="text-align:start"></p>
+</td>
+<td id="b-04460d17894c4cbc91eb70eb0d994187" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-168dfea20c6148938baa331c282a64d7" style="text-align:start"><a href="../1284421381/README.md" title="学城原文：https://km.sankuai.com/page/1284421381；已保存正文" id="b-555509bbc26849cbbd01405e9d8a7663">公立医院评价-个人隐私、人身攻击、过激辱骂标准</a></p>
+</td>
+<td id="b-414b38372ff4491db5f943f2fa1615bd" style="background-color:#F4F5F7">
+<p id="b-1e770d7acd9d491d99b806ebbbe43c95"><a href="../1673989461/README.md" title="学城原文：https://km.sankuai.com/collabpage/1673989461；已保存正文" id="b-cb37e5962aea41f0a07376648318afe8">C类「N9」</a></p>
+</td>
+<td id="b-114bb7900d014abf88ddd4753ca94429" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-0a52b4fd074f4736a6e3b9a41a51ea46" style="text-align:start"></p>
+</td>
+<td id="b-1423591ef6514eed9bbe5f7341f11804" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-0a1808590d4649599cda894391d41968" style="text-align:start"></p>
+</td>
+<td id="b-1e0b6540dec0434b958aba17e048a372">
+<p id="b-ac9b99e7e6444b47a5929c7e336f5f10"></p>
+</td>
+<td id="b-d0375faf3d244d97a405373da0a2f7ae" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-e511ad3ef40d463cb9af283e4c3d7e9b" style="text-align:start"></p>
+</td>
+</tr>
+<tr id="b-0e7240de1e974806a9e46b6c2db3d30a">
+<td id="b-dafd45e457074412b57f1e518e842fd5">
+<p id="b-5d6a07e4eee74a9fb58149a9a81a53d3"></p>
+</td>
+<td id="b-c2a621375edb486d90356d71e895f613" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-cab8f5ba8ae042d686252b391d86af0a" style="text-align:start"><span style="font-size:14px">金银箔禁止添加标准</span></p>
+</td>
+<td id="b-6033c7481a2c49b382ddcaf17c03c702" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-2973384c25da464aa7a779fb3f63cc0d" style="text-align:start"></p>
+</td>
+<td id="b-693f056b2bd24858bc29ce618cd5b06a" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-c847322469c248c884ed80ce85f9bc1a" style="text-align:start"><a href="../1278133459/README.md" title="学城原文：https://km.sankuai.com/page/1278133459；已保存正文" id="b-c9ab8af249194a91a74290415259cf41">金银箔粉食物审核标准</a></p>
+</td>
+<td id="b-c72120303a7e45e7a7fa98b887346251">
+<p id="b-6fcf2b8535894c7eaed0fd0d9fcf0dab"></p>
+</td>
+<td id="b-67831e5b0a90442eb06afe83d7b09e40" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-69f510dada644d259c4e99c3ceb086fd"></p>
+</td>
+<td id="b-e16cfb47caf14e5593dbc166ce7be298" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-abfaaa09d8494e79a3aa6d77917d278c"></p>
+</td>
+<td id="b-9544b832517d47ca8f71be1e0e876dac">
+<p id="b-f01d7fd5b13c417e9d67435acfd81a0b"></p>
+</td>
+<td id="b-2b20b01d5a3f48efa6efce6ed880968b" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-a351ac60e778442cb471fe72bd5c8dd1"></p>
+</td>
+</tr>
+</table>
+</div>

@@ -1,0 +1,595 @@
+# 历史虚无主义审核标准
+
+[返回目录](../../README.md) · [学城原文](https://km.sankuai.com/collabpage/1625262121) · 已保存正文 · 2026-11-19
+
+> 正文保留表格和折叠结构。图片和媒体仅保留原始链接，需要学城访问权限。完整源数据见同目录 source 文件。
+
+<div>
+<h1 id="b-fd134d134c2e43a09668f54bf7ccb2f1">历史虚无主义审核标准</h1>
+<figure src="https://km.sankuai.com/api/file/cdn/1625262121/143310420504?contentType=0&amp;isNewContent=false" width="1489" height="301" id="b-deaac2b8012744dc876d2454585e6a3a"><figcaption>思维导图：思维导图（原始链接，可能需要学城权限）</figcaption><a href="https://km.sankuai.com/api/file/cdn/1625262121/143310420504?contentType=0&amp;isNewContent=false">在原文服务中查看</a></figure>
+<p id="b-afa83eafbb424ae3b9f806c2c5309bb9"><strong>内部标签优先级：歪曲中国近现代史 &gt;涉马列主义负面</strong></p>
+<table id="b-643ba0a70edc40aca4a2fc22a6c43c31">
+<tr id="b-5c4e3ef669cd4cc2ab691b06e4562637">
+<th id="b-19bc3d83776a48829b1056d73aa9fce1">
+<p id="b-5b1cca12d26348938a3faee3dda9f130"></p>
+</th>
+<th colspan="3" id="b-3966f2be22814f37998e3d6391229e3e" style="background-color:rgb(244, 245, 247);vertical-align:middle">
+<p id="b-b50cfe9a5cf14f659203708275441960" style="text-align:center"><span style="font-size:16px"><strong>V3标签体系</strong></span></p>
+</th>
+<th rowspan="2" id="b-77f2e5ed46f8479abaad7ef357f800d1" style="vertical-align:middle">
+<p id="b-fb22939e4cf944d7a2442e5271f01d60" style="text-align:center"><span style="font-size:19px"><strong>具体定义</strong></span></p>
+</th>
+<th rowspan="2" id="b-171e9347b44b48668b6da5330075e8cb" style="vertical-align:middle">
+<p id="b-fda45f9ef2dd46a8bd632c107a5a34a4" style="text-align:center"><span style="font-size:19px"><strong>文字样本</strong></span></p>
+</th>
+<th rowspan="2" id="b-e6de084924b14a2ea266fe21f007a726" style="vertical-align:middle">
+<p id="b-c43e2deb7b4d4e17a86a9cf506c056ae" style="text-align:center"><span style="font-size:19px"><strong>图片样本</strong></span></p>
+</th>
+<th rowspan="2" id="b-9a201437017c4654852f5cf8dcd67742" style="vertical-align:middle">
+<p id="b-32b02725c0f1464cab90a31fd63f902c" style="text-align:center"><span style="font-size:19px"><strong>豁免样本</strong></span></p>
+</th>
+</tr>
+<tr id="b-28a16d3815d54ce083dcd86c45caa0dc">
+<td id="b-e5189b2601484e1ca36dadb09b7148e8">
+<p id="b-2380123061c9459499ce6e47b622c0db"></p>
+</td>
+<td id="b-f2c6fdf83d604eda8c369b41c98a401f" style="background-color:rgb(244, 245, 247);vertical-align:middle">
+<p id="b-e6507483041c4def8a6259e8b632e7d0" style="text-align:center"><span style="font-size:16px"><strong>一级标签</strong></span></p>
+</td>
+<td id="b-52114cdb2ef1472f9de2b6dc526ecb28" style="background-color:rgb(244, 245, 247);vertical-align:middle">
+<p id="b-68f9675a740a4d19b881bdd0db8f626b" style="text-align:center"><span style="font-size:16px"><strong>二级标签</strong></span></p>
+</td>
+<td id="b-33d8a9c6e9524364a65c3d166c0ca962" style="background-color:rgb(244, 245, 247);vertical-align:middle">
+<p id="b-d0ee294711a3414faadc1b5664135e6c" style="text-align:center"><span style="font-size:16px"><strong>三级标签</strong></span></p>
+</td>
+</tr>
+<tr id="b-4b14dab7c6ca4a3084e77b562e390147">
+<td id="b-6601c6e0e1954c91858b1e9b8428c0db">
+<p id="b-e733b229d919492984cfe298394b91bb"></p>
+</td>
+<td rowspan="2" id="b-2f4eda863ca84ad39d89424fa0ec51b5" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<h1 id="b-7d3547f8a16347e7bd902ae2fce921d3">历史虚无主义</h1>
+</td>
+<td rowspan="2" id="b-9a98765ea90241b88d9e72d9f0ff3a37" style="background-color:rgb(255, 212, 204);vertical-align:top">
+<h2 id="b-849d6256a85548dc9b2d5fc8e75f8052" style="text-align:start">歪曲中国近现代史</h2>
+<h2 id="b-5dd8726db81548db81db2bde464bb60d"></h2>
+</td>
+<td id="b-976c757e2e484a0193078c1ef73297ba" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<h3 id="b-c73620f152c84ec29e1143a20674cfe5">美化侵略</h3>
+</td>
+<td id="b-0bdb2b90bd204464b30db61cf6b8fdfc">
+<p id="b-e40812f77fcb479796ffa534a252e199"><span style="color:#FF4A47"><span style="font-size:15px"><strong>打标</strong></span></span></p>
+<p id="b-f34569ff926d4d20a782cfa3a25b4caf"><span style="color:#000"><span style="font-size:15px">【文/图/视/音】</span></span>（ 生效范围：全部）</p>
+<ol id="b-bccdcb2a5b4941e9a1a27a0e1dceb86f">
+<li id="b-d78ba06d966c4ac6b92ae4086a3647e7">
+<p id="b-df30596d94914b16bb423e87f8a5df7c"><span style="color:#000"><span style="font-size:15px">涉美化近现代史（1840年后）中</span></span><span style="color:#000"><span style="font-size:15px"><strong>外国侵略中国战争</strong></span></span><span style="color:#000"><span style="font-size:15px">（见词表）的，需打击；</span></span></p>
+<details id="b-079dd90916884d9d8f6b1294926b1e38">
+<summary><span style="color:#000"><span style="font-size:15px">表现形式</span></span></summary>
+<div>
+<p id="b-1268d3c7c90e4d3994b064c61454cdca"><span style="color:#000"><span style="font-size:15px">杜撰侵略理由、洗白侵略合理性、美化侵略行为、弱化侵略危害、歪曲侵略历史、夸赞侵略行为（如军事技术、殖民手段、掠夺能力）、对侵占时期历史表示缅怀，进行美化宣传和追捧的描述。</span></span></p>
+</div>
+</details>
+<details id="b-aad746c389e24eaf98dd4843d67c529f">
+<summary><span style="color:#000"><span style="font-size:15px"><strong>外国侵略中国战争（非穷举，适用于定义1）</strong></span></span></summary>
+<div>
+<p id="b-8c9430001a8f43fc908ee65886cb15e2"><span style="color:#000"><span style="font-size:15px">鸦片战争、第二次鸦片战争、甲午中日战争、八国联军侵华战争、日本侵华战争、抗美援朝战争、对越自卫反击战</span></span></p>
+</div>
+</details>
+</li>
+<li id="b-f7fc42220a6b4711ad211ab05c7b00c3"><span style="color:#000"><span style="font-size:15px">对我国反抗外国侵略的起因、经过、结果、影响</span></span>（包含战争事件、场所、遇难者、幸存者）进行贬低、否定、侮辱、调侃、辱骂、不当比喻的，需打击<span style="color:#000"><span style="font-size:15px">；</span></span></li>
+<li id="b-8814979d722944e7b0e91bd9293a3746">
+<p id="b-582f55ddc9eb4b6bac161d6e5d351ca7"><span style="color:#000"><span style="font-size:15px">在抗战、革命博物馆/纪念馆/遗址、纪念碑等纪念场所，模仿</span></span><span style="color:#000"><span style="font-size:15px"><strong>侵略者装扮</strong></span></span><span style="color:#000"><span style="font-size:15px">、或存在不当行为（开枪手势、踩踏涂刻石碑、展示</span></span><span style="color:#000"><span style="font-size:15px"><strong>军国主义象征物</strong></span></span><span style="color:#000"><span style="font-size:15px">、跳舞），需打击；</span></span></p>
+<details id="b-29d5ca69d0ee47bdacfe7ab11c38a4b0">
+<summary><span style="color:#000"><span style="font-size:15px"><strong>侵略者装扮（适用于定义3）</strong></span></span></summary>
+<div>
+<p id="b-be64d2e4ac0048888b91178a5090c54d"><img src="https://km.sankuai.com/api/file/cdn/1625262121/234829275777?contentType=1&amp;isNewContent=false" width="169" height="86" id="b-8917c156fef345f8991edbac5a37b3a7" alt="原文图片（需学城权限）"></p>
+<p id="b-bc10477e5f44473aab6d74045c7d4df9"><img src="https://km.sankuai.com/api/file/cdn/1625262121/234827990629?contentType=1&amp;isNewContent=false" width="136" height="75" id="b-4ee668fa771842ffae115001c87ef585" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1625262121/234826906804?contentType=1&amp;isNewContent=false" width="74" height="74" id="b-1d6a07642ff54dfca66cce6f82e3988a" alt="原文图片（需学城权限）"></p>
+</div>
+</details>
+<details id="b-d254faa8ac7648b783ca360b37c5e740">
+<summary><span style="color:#000"><span style="font-size:15px"><strong>军国主义象征物（适用于定义3）</strong></span></span></summary>
+<div>
+<p id="b-6f6fb1f74e5c4e60b8976aa686e7cbfe">旗帜类核心象征：旭日旗、各类军国主义外围组织旗帜等</p>
+<p id="b-6d172e7536d040499f10d0acb8a40796">标识与纹章类：神风特攻队樱花徽章、军国主义组织徽章等</p>
+<p id="b-274b2d9c5cba4ef49569cf8ca507514d">实体与精神符号：靖国神社、“八纮一宇”口号等</p>
+</div>
+</details>
+</li>
+</ol>
+<ol id="b-d4ae3f76f9be4f6a9519d86e0fea85a2">
+<li id="b-61fa5a7f1da4409e91142bdd9016930d"><span style="color:#000"><span style="font-size:15px">涉崇拜日本军国主义的精日言论、行为，需打击。</span></span></li>
+<li id="b-82e59f159220499fba48b7228ec72c26">
+<p id="b-4dad67e2dd28470e9c90f039eb8cc284"><span style="color:#000"><span style="font-size:15px">打击使用</span></span><span style="color:#000"><span style="font-size:15px"><strong>变体称呼</strong></span></span><span style="color:#000"><span style="font-size:15px">：南京大屠杀事件和南京大屠杀博物馆/遗址等纪念场所。</span></span></p>
+<details id="b-f484bbd5fb2f4a51a4c86cbd356bc481">
+<summary><span style="color:#000"><span style="font-size:15px"><strong>变体称呼（适用于定义5）</strong></span></span></summary>
+<div>
+<p id="b-faf49f4ba33549de88e38e6152139237"><span style="color:#000"><span style="font-size:15px">包含称呼中使用：错字/拼音/同音/同形/乱序/字符替换/符号的，如：</span></span></p>
+<p id="b-c067d6cf11c44b19873f6786af4da7fe"><span style="color:#000"><span style="font-size:15px">错字：侵华日军南京达屠杀遇难同胞纪念馆</span></span></p>
+<p id="b-0c9635bc278341a68c02fa01668a8617"><span style="color:#000"><span style="font-size:15px">拼音：南京大tu杀</span></span></p>
+<p id="b-b44b40ee7d9d442ba20072f3a61c5fa9"><span style="color:#000"><span style="font-size:15px">同音：南京大图杀</span></span></p>
+<p id="b-a82a4422faff45398db377d3da1743bb"><span style="color:#000"><span style="font-size:15px">同形：南京大署杀</span></span></p>
+<p id="b-22e77a2af5c8448ab0c53655a3d37719"><span style="color:#000"><span style="font-size:15px">乱序：南京屠大杀</span></span></p>
+<p id="b-f6d76297d1b34acfbe33b66b46614048"><span style="color:#000"><span style="font-size:15px">字符替换：南京大X杀</span></span></p>
+<p id="b-27a06a325e7b49ea902e4e2f36ab14cc"><span style="color:#000"><span style="font-size:15px">符号：南京大~杀</span></span></p>
+</div>
+</details>
+</li>
+<li id="b-f4cb5d5f18e34333b6596437f277c995">
+<p id="b-27de3d88672c48d4b1a8a7e561f26048"><span style="color:#000"><span style="font-size:15px">涉近现代史（1840年后）中</span></span><span style="color:#000"><span style="font-size:15px"><strong>外国侵略中国战争</strong></span></span><span style="color:#000"><span style="font-size:15px">（见词表）与品牌名称、品牌商标logo、产品名称、宣传口号标语、营销文案关联的。</span></span></p>
+<details id="b-360c829a1b9949c09cab6a5dd8a1b098">
+<summary><strong>外国侵略中国战争</strong><span style="color:#000"><span style="font-size:15px"><strong>（非穷举，适用于定义6）</strong></span></span></summary>
+<div>
+<p id="b-1c6e649e1a254235ba1aa8c69f908a23"><span style="color:#000"><span style="font-size:15px">鸦片战争、第二次鸦片战争、甲午中日战争、八国联军侵华战争、日本侵华战争、抗美援朝战争、对越自卫反击战、南京大屠杀</span></span></p>
+</div>
+</details>
+</li>
+<li id="b-f38be7007e224da595408f08357cabb8">
+<p id="b-f6caa4cf875846e5a8c0170a27e5ada6"><span style="color:#000"><span style="font-size:15px">涉及强行关联</span></span><span style="color:#000"><span style="font-size:15px"><strong>日本传统文化和侵华行为</strong></span></span><span style="color:#000"><span style="font-size:15px">关系的内容，需打击</span></span></p>
+<details id="b-9c8ef6a0bee04348a92ee17279afb133">
+<summary><span style="color:#000"><span style="font-size:15px"><strong>日本传统文化和侵华行为（适用于定义7）</strong></span></span></summary>
+<div>
+<p id="b-ceb0f8937cd14113a5a509e0af4b4f00"><span style="color:#000"><span style="font-size:15px">阿波舞是侵华日军专用舞蹈，是军国主义代表性舞蹈，是招魂舞</span></span></p>
+</div>
+</details>
+</li>
+<li id="b-12d23880414649cdbc5aed83dfbd1a63"><span style="color:#000"><span style="font-size:15px">使用“法租界”称呼指</span></span><span style="color:#000"><span style="font-size:15px"><blockquote>代现代的地点，需打击</blockquote></span></span></li>
+<li id="b-fd5e51d12fe84696a088a92417a70dc1">
+<p id="b-f7088997b3ef461895fff93d9f2e2a0b"><span style="font-size:15px">提及历史虚无</span><span style="font-size:15px"><strong>违规书籍</strong></span><span style="font-size:15px">内容</span></p>
+<details id="b-ae62915590594834a5f7c99824a4c759">
+<summary><strong>违规书籍（适用于定义9）</strong></summary>
+<div>
+<p id="b-5cba3df2435c494091e802febbf46dfd">违规书籍：《异民族统治中国史》</p>
+</div>
+</details>
+</li>
+</ol>
+<p id="b-b668d837b59249ab9fd2003326e20ca2"></p>
+<p id="b-ac35b5a62d894fd49a31bc7a027eafad"><span style="color:#00BA73"><span style="font-size:15px"><strong>豁免</strong></span></span></p>
+<ol id="b-89d421679f5044bf9fe772081e4c7bf3">
+<li id="b-4a3c5e441c5c47fb972026a28c8fcbbf"><span style="color:#000"><span style="font-size:15px">影视剧剧照、非洗白表情包、历史照片；</span></span></li>
+<li id="b-3a3adcfbaea34152bae4b9c5feea5ef7"><span style="color:#000"><span style="font-size:15px">对美化侵略、否定反抗侵略、亵渎纪念场所的行为进行批判内容；</span></span></li>
+<li id="b-a477912883a04a859d6798912076275a"><span style="color:#000"><span style="font-size:15px">无明确美化侵略的客观史料类介绍。</span></span></li>
+<li id="b-9733b4345d444052b873bb9e3113b774"><span style="color:#000"><span style="font-size:15px">针对第5项定义，豁免日语或其他语种翻译场馆名称</span></span></li>
+<li id="b-0b958ac6c1724edaa7819bb5d8546157"><span style="color:#000"><span style="font-size:15px">使用“法租界”明确指向过去</span></span></li>
+</ol>
+<p id="b-dd90e330992e42e7b5ac3b781af03405"></p>
+</td>
+<td id="b-8e15e26d3f38440ea0f282aad67ba29d">
+<p id="b-1606833ca4e1421fa296b299d7f2ff8e">1.杜撰侵略理由</p>
+<ul id="b-d9af986fce5d471291f4d483d6b458ae">
+<li id="b-4beaeca8ea9449a091186b0f99b762c2"><span style="font-size:15px">日本人是来和中国人团结一起，对付欧美列强的，我们却把别人拒之千里， 还要和欧美为伍攻击别人。</span></li>
+</ul>
+<p id="b-c9da763f9a3747a88e846f181bd0d4b9">2.歪曲侵略历史</p>
+<ul id="b-30d7caf0d05a46aaa775222b0e8f99fb">
+<li id="b-30f537ea28404fd8a70721c03cb08d62"><span style="font-size:15px">南京大屠杀完全是子虚乌有杜撰出来，是当时的国民政府编造出来激励人心的把戏。</span></li>
+<li id="b-b12e833389574c06afefe38f136768fe"><span style="color:rgb(25, 25, 25)"><span style="font-size:15px">日本屡次修改教科书，把对中国的侵略改为进入，</span></span><span style="color: "><span style="font-size:15px">将侵略战争描写为自存自卫的战争。</span></span></li>
+<li id="b-d42819b631ee445c8c98d412771c3c0c"><span style="color: "><span style="font-size:15px">第一次鸦片战争</span></span><span style="font-size:15px">英国侵华代表义律认为：鸦片在当时的英国是合法商品，所以英国政府为了扭转自身在当时贸易往来中的不利地位而发动的鸦片战争仅仅是为了想要与中国做生意，况且也是林则徐先主动挑起的事端。</span></li>
+<li id="b-6ca22e4a339e484699c7b41f4c88b63f"><span style="font-size:15px">中国</span><span style="color:rgb(15, 20, 25)"><span style="font-size:15px">抗战十四年死了两千万？这个数字哪得出来的？我没在其他国家新闻书籍上听过，不会是自欺欺人吧。</span></span></li>
+<li id="b-a908b96d1c9d46329d9c27a4d79ce47c"><span style="font-size:15px">南京大屠杀也就死了十多万人而已，大部分都逃出来了，真要死了30万，就把名字一个一个报出来。</span></li>
+<li id="b-84824a889db74a22a04d030101d4ada1"><span style="color:rgb(15, 20, 25)"><span style="font-size:15px">朝鲜战争时期，美军不仅是有着丰富的装备，且战斗意志，组织纪律超群，别真被共党忽悠了，如果真不堪美军怎么才死那么点人。</span></span></li>
+<li id="b-d5aa4050bdf2472090c67f0519db01ab"><span style="font-size:15px">在驼峰航线上美军损失飞机1500架，牺牲飞行员3000人，帮了我们中国多大的忙，其实我们在朝鲜问题上并没有多大的矛盾，完全是苏联在背后挑唆造成的。</span></li>
+</ul>
+<p id="b-8a8e93a1c09b438594e065375c45521d">3.美化侵略行为</p>
+<ul id="b-a47988eb2fee4e54b4d2996810c8c468">
+<li id="b-959b6f304edf412c81c8db4d75b1c2a1"><span style="font-size:15px">甲午战争才让中国意识到不止要靠买武器装备，还要靠自身创新，从这角度看也未尝不是一种幸运，避免了更大的灾难。</span></li>
+<li id="b-88db0ff35c564fb2b14da9e42dee839a"><span style="font-size:15px">对我国出兵的八国联军是让封建王朝一步步覆灭的主要外在推动力。</span></li>
+<li id="b-bd6df946e81842d1ad4c0a5594f13f2c"><span style="font-size:15px">八国联军侵华时</span><span style="color:rgb(25, 25, 25)"><span style="font-size:15px">德国驻华公使穆默以胜利者的姿态说出：看到中国人面黄肌瘦饱受摧残，我们带来西方先进文明，帮助你们。</span></span></li>
+<li id="b-343c89b244824270bc172c9366711ead"><span style="color:rgb(15, 20, 25)"><span style="font-size:15px">日军纪律之好，在八国联军中就有口碑。当时英美等不是敌国，不需要抹黑日本。</span></span></li>
+</ul>
+<p id="b-69541baf7a144c0a9a0616b3d3967c13">4.洗白侵略合理性</p>
+<ul id="b-bc7c5a7698df4526af7f67ffa0fb71e5">
+<li id="b-22d55ef7cf844eab9c6701be1d7443a6"><span style="font-size:15px">日本在二战中进攻东南亚，完全是为了获取石油和橡胶，这个动作对于日本来说毫无疑问是正确的。</span></li>
+</ul>
+<p id="b-b7eda281db324a73ba527066fab745d1">5.夸赞侵略行为</p>
+<ul id="b-2bb3487776ee442983c22f6a330a16a1">
+<li id="b-cdabf32348224919a3168f1e061fbd87"><span style="color:rgb(15, 20, 25)"><span style="font-size:15px">在日军纪律相对严明的侵华早期，朝鲜兵是强奸抢劫的好手。杀人倒是不敢，日军给每个朝鲜士兵配了一个日军，专门负责在遇到敌人时捡起朝鲜士兵丢下的枪，并且用朝鲜语安慰蹲在地上哭的朝鲜士兵不要怕。</span></span></li>
+</ul>
+<p id="b-e9fc59d2d4bc44b49d6564033e6d51cf">6.弱化侵略危害</p>
+<ul id="b-645f35c6bf284143a6db419e0b15aadd">
+<li id="b-01c57857b8ee443eb92323aa2502200f"><span style="font-size:15px">中国改革开放后，日本深怀愧疚，所以大量日资企业进入中国帮助我们的经济，不少都是无息贷款，这些都是中国经济腾飞的助力，已经是偿还了不少二战欠下的罪，我们不能再苛求太多。</span></li>
+<li id="b-56d75859f56848449499b9b8c33e8b32"><span style="font-size:15px">现在的日本人文化修养极高，已经和抗日时期那批日本人不一样了，我们不要揪住过往不放，大家都是黄种人，团结一起向前看才是最重要的啊。</span></li>
+</ul>
+<p id="b-22c74a86b3274f7d8539a96b7b0035ca">7.歪曲战争起因</p>
+<ul id="b-1bee36c053d74f1bb2fd81ec4f25edfa">
+<li id="b-6e926ea0aedd4fbd84bb1d522e87a34a"><span style="font-size:15px">抗美援朝是引火烧身得不偿失，和保家卫国毫不相关。</span></li>
+</ul>
+<p id="b-b12e2a00fac14df6812b822a99ae6334">8.否定中国发挥作用</p>
+<ul id="b-4b70eadf5f9a45859a47f13a52f3f919">
+<li id="b-7e463c02fa9b4e3b9d0d5e2d863556b9"><span style="font-size:15px">牛津大学教授拉纳•米特：中国在二战中的作用完全是被高估了，日本没能和德会合，是因深陷东南亚泥沼。</span></li>
+</ul>
+<p id="b-7fca049ea6aa443c97607ba9e792c0cb">9.贬低我方作战人员</p>
+<ul id="b-42de1119132440e196ffa88e0a3c2b31">
+<li id="b-03bc1da90e5a432eacecb2f2e2bdaa9a"><span style="color:rgb(15, 20, 25)"><span style="font-size:15px">当时越军作战指挥能力</span></span><span style="font-size:15px">强的一批，也是中国军队久输历练，在越南自卫反击战中，当时中国军队被撵着打，哈哈！像狼追兔子，毫无招架之力，越军被俘时不吭一声，中国军人被俘就吱呀乱叫。</span></li>
+</ul>
+<p id="b-2c8bc787762d40ff8cc1d0ee788474f8">10.缅怀侵占时期历史</p>
+<ul id="b-a2288c7fe5164196bd8cde2f4c6a5d77">
+<li id="b-6950147a29794da4ad08bc137dc59d61">一夜春风，回到民国1937年美好时光。</li>
+</ul>
+<p id="b-4665f55e8cf84972b243d4bf7ac3d2e9">11.精日言论</p>
+<ul id="b-2cdc7917237f439c897160c360c5f09f">
+<li id="b-55781e669c61458e87a76309ea2112f6"><span style="color: ">大日本帝国</span>必胜！</li>
+<li id="b-ec1df205d7fc4ed9baeaf9cea6c9e12f"><span style="color: ">天皇陛下</span>、万歳<span style="color: ">大日本帝国</span>万歳!ファシズム万歳。</li>
+<li id="b-29fc02d22bbb4aa3afa7b62c52674728"><span style="font-size:15px">大家只知道袁世凯签的二十一条，恐怕还不知道孙中山当初为了当大总统给小日本许了多少好处，卖了多少地吧。</span></li>
+</ul>
+<p id="b-6893fe14cf584126a5b9d05cfe05fbf1">12.“法租界”指代现代地点</p>
+<ul id="b-9525357be5484cacb0b8d1ee76858305">
+<li id="b-969421586cb2438a8390e3a08cc7f8ba">小店是法租界最好的咖啡店。</li>
+</ul>
+</td>
+<td id="b-610e500379f54395a67176c9acf02b52">
+<p id="b-7c367c32d8ac476b8285a25cbd319008">1.美化侵略</p>
+<details id="b-8e9fa73bdccc4c0bbef1104108e8717f">
+<summary><span style="color:#000"><span style="font-size:15px">案例</span></span></summary>
+<div>
+<ul id="b-cc15ca6168c84399811ea1cc47e25d17">
+<li id="b-791128cd12b24cb9b06a23a6bc307a71"><img src="https://km.sankuai.com/api/file/cdn/1625262121/234826906803?contentType=1&amp;isNewContent=false" width="122" height="30" id="b-d24942e28e9c4cb0ab240ff1d528bfd8" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1625262121/234829395067?contentType=1&amp;isNewContent=false" width="88" height="23" id="b-581d34029d134b86ad9c1616039dc772" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1625262121/234827505664?contentType=1&amp;isNewContent=false" width="176" height="29" id="b-7596d8b431984c5db8dfbace709eacde" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1625262121/234827830983?contentType=1&amp;isNewContent=false" width="262" height="20" id="b-f7ce7ba1de974e43b738486cac3725b7" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1625262121/234827751784?contentType=1&amp;isNewContent=false" width="190" height="21" id="b-4d765c81618f4ce3ad777e47a6eecab9" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1625262121/234829316524?contentType=1&amp;isNewContent=false" width="190" height="26" id="b-6f3eb74320a849348b80929fc9068dea" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1625262121/234828112229?contentType=1&amp;isNewContent=false" width="217" height="45" id="b-07f51a0f661e4437b97efec3167cb15c" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1625262121/234827265893?contentType=1&amp;isNewContent=false" width="193" height="63" id="b-729315f03a56413dadd338251b98a032" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1625262121/234826906801?contentType=1&amp;isNewContent=false" width="221" height="44" id="b-edb46f8ee7894f6d9c204da870746f23" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1625262121/234829236452?contentType=1&amp;isNewContent=false" width="105" height="65" id="b-57bae20283354cff8db0af1fe5e9f498" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1625262121/234827505663?contentType=1&amp;isNewContent=false" width="95" height="76" id="b-8a4f9a7e9c1546d2970bbc8866fbcbe8" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1625262121/234826906800?contentType=1&amp;isNewContent=false" width="115" height="66" id="b-df15d3150d8847f9a14b90adb1c91bb8" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1625262121/234827751783?contentType=1&amp;isNewContent=false" width="102" height="55" id="b-5c862d289a0b42bb846957e32c7be04d" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1625262121/234829078748?contentType=1&amp;isNewContent=false" width="127" height="73" id="b-51fdfed15a9c46dbacea4d1f5555444a" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1625262121/234829117953?contentType=1&amp;isNewContent=false" width="88" height="48" id="b-615a49ad9e1b49028eab2762f10afea0" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1625262121/234826748358?contentType=1&amp;isNewContent=false" width="87" height="72" id="b-7fa211726f25470ba3b3e0310ea855d1" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1625262121/234828112227?contentType=1&amp;isNewContent=false" width="55" height="66" id="b-98245f14e6dd45208d4b5c9b174d61b4" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1625262121/234827990627?contentType=1&amp;isNewContent=false" width="55" height="55" id="b-c1803d59e3c847798fb42286fc181519" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1625262121/234827226088?contentType=1&amp;isNewContent=false" width="36" height="128" id="b-b5645e69946f43a09999156cbbc93159" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1625262121/234827990626?contentType=1&amp;isNewContent=false" width="147" height="116" id="b-032392bd39bb4bb6b483a0569b726c99" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1625262121/234827632804?contentType=1&amp;isNewContent=false" width="84" height="111" id="b-fb48297e46394b6aa8d5252618545f27" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1625262121/234828069348?contentType=1&amp;isNewContent=false" width="46" height="82" id="b-112473eba92c46c8bd5275b62749df14" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1625262121/234828191867?contentType=1&amp;isNewContent=false" width="62" height="110" id="b-a119e89c38d643d487efe19069254cc3" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1625262121/234828999063?contentType=1&amp;isNewContent=false" width="67" height="114" id="b-ccb9236a312143feba375422ab98936c" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1625262121/234829316500?contentType=1&amp;isNewContent=false" width="76" height="102" id="b-8cde3f2718e7426e8433d0d1fb89213b" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1625262121/234826906780?contentType=1&amp;isNewContent=false" width="70" height="74" id="b-0360019efd864a949a752213c9121a81" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1625262121/234827704375?contentType=1&amp;isNewContent=false" width="77" height="86" id="b-fda980ef58764655a1bed6fcbb30fc2d" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1625262121/234827584301?contentType=1&amp;isNewContent=false" width="91" height="103" id="b-bfaef52614194e41953bf51306c1a75f" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1625262121/234827106491?contentType=1&amp;isNewContent=false" width="45" height="97" id="b-a5bb1134b7ea434cae487c01b9b6e7c0" alt="原文图片（需学城权限）"></li>
+</ul>
+</div>
+</details>
+<p id="b-c00fc4cd710847df881ac7c2abbbb981">2.纪念场所不当</p>
+<details id="b-95483ddd323a463ab9e11811d62f14e3">
+<summary><span style="color:#000"><span style="font-size:15px">案例</span></span></summary>
+<div>
+<ul id="b-6c6d5d86f8f448079182085c0bb0537a">
+<li id="b-741cb635c43b4513ac9fe7c5d02887ea"><img src="https://km.sankuai.com/api/file/cdn/1625262121/234826549227?contentType=1&amp;isNewContent=false" width="90" height="47" id="b-077bd1a71005402e82c1d5d16d0faf1e" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1625262121/234827751748?contentType=1&amp;isNewContent=false" width="62" height="46" id="b-b277f7e9a0394d70b4b8f20fcb44152b" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1625262121/246608975570?contentType=1&amp;isNewContent=false" width="61" height="47" id="b-65baacc5915a4301bc2f227880b0c705" alt="2ccdcce1d556090c539a2469d2b79b9465671.png"></li>
+</ul>
+</div>
+</details>
+<p id="b-e80d0a0640d243dc902c9aaf90a17179">3.历史虚无违规书籍</p>
+<details id="b-cb030abe700e4d149ede4c65d83ff49c">
+<summary><span style="color:#000"><span style="font-size:15px">案例</span></span></summary>
+<div>
+<ul id="b-0c406d3ac9e047ffa9a2ef480b54e584">
+<li id="b-727291c3dcb84ec5b63babb07cb50b58"><img src="https://km.sankuai.com/api/file/cdn/1625262121/244084318027?contentType=1&amp;isNewContent=false" width="137" height="95" id="b-d1a350948c444f3aaf412429c46af51a" alt="原文图片（需学城权限）"></li>
+</ul>
+</div>
+</details>
+</td>
+<td id="b-07ace4a1d2f545c9af45bc9b57f2918a">
+<p id="b-f2892864b3604a4e9a0394a517d53961">1.剧照、非洗白表情包</p>
+<details id="b-cc54f88d36a04784b8645220d192aa06">
+<summary>案例</summary>
+<div>
+<ul id="b-bc67b13189ce48b19af01b446caee105">
+<li id="b-b1bc1f55580b4d63a5cecb38479f56d9">
+<p id="b-283f05ba42e346ca88e70f23a1557b32"><img src="https://km.sankuai.com/api/file/cdn/1625262121/234828152849?contentType=1&amp;isNewContent=false" width="60" height="60" id="b-148faaa1c39244728871ed6dce452567" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1625262121/234826748332?contentType=1&amp;isNewContent=false" width="58" height="58" id="b-1d9c8a127f894b14adaf04a26c0821a5" alt="原文图片（需学城权限）"></p>
+<p id="b-6ef0b52b59ec4313b6e7504436accd2f"><img src="https://km.sankuai.com/api/file/cdn/1625262121/234827353561?contentType=1&amp;isNewContent=false" width="64" height="35" id="b-545f98ebe3e04f859830c78b6a2ba5c5" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1625262121/234829236421?contentType=1&amp;isNewContent=false" width="53" height="40" id="b-ca604251dbea410685c9e152761765d6" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1625262121/234829078720?contentType=1&amp;isNewContent=false" width="73" height="43" id="b-4415e2ca3dcf49b2aaf23987a0f53eb5" alt="原文图片（需学城权限）"></p>
+</li>
+</ul>
+</div>
+</details>
+<p id="b-47f051d93d054122b408c5e82c348d6f">2.日语翻译场馆名称</p>
+<ul id="b-857172a3bc934d51950b0febcce94d16">
+<li id="b-8c06930ac22b4ab48d916fa8644acbb9"><img src="https://km.sankuai.com/api/file/cdn/1625262121/234828231983?contentType=1&amp;isNewContent=false" width="109" height="78" id="b-67930505bb104d3f9ee9e98f25b2c1b3" alt="原文图片（需学城权限）"></li>
+</ul>
+<p id="b-afc504073e7d487aaeb58aa0883dcb1e">3.无明确美化侵略的客观史料介绍</p>
+<ul id="b-66f803fd9a3b44b79579c1dff7d197be">
+<li id="b-65cd3f64be4042288e5f2e11fcce0b06">以前<span style="color: ">抗日战争</span>好像有个什么事，就是日本左翼的飞行员在中国机场帮忙训练空军的时候出了点意外，跳伞跳到某个部队的防区，巡逻的士兵以为是敌人，把他们抓到指挥部，然后这两个日本人管他们叫同志，说他们是中国空军某机场某大队的，大队长就某某某，首长都觉得有点难以置信，半信半疑的打电话问机场那边，机场那边说确实是他们的人，首长说，你小子，手底下还有日本籍的飞啊。。。。。。当时的情况好像是这样的，具体情况记不清了。</li>
+<li id="b-66c4bece71434b138f840ca03d79ff32">一个被日俄先后霸占的旅顺，看到日寇真的是要把这里当家了的，日军指挥官留下的汉墨石雕功底很深，俄熊的火车站满满的斯拉夫风格。</li>
+</ul>
+<p id="b-95f3d8f573cf49c28d4252977a56b854">4.“法租界”明确指向过去</p>
+<ul id="b-da1872c725dd410694d085acb74ac9e8">
+<li id="b-1e3b6aaa031f469280b6583062dfb2d9">淮海路解放前叫霞飞路，地处法租界。</li>
+<li id="b-9a6353f466464b60b99efd529c09f731"><span style="color:#000">上海纺织厂法租界旧址、曾经的法租界、法租界遗址</span></li>
+<li id="b-8dc47fb31d5b41938e2ccf663d77e3a4"><img src="https://km.sankuai.com/api/file/cdn/1625262121/238930855808?contentType=1&amp;isNewContent=false" width="94" height="127" id="b-24d09774de004164a3cc6f58eef39a54" alt="原文图片（需学城权限）"></li>
+</ul>
+<p id="b-92a99348eceb46359423a5fc968bc342"></p>
+</td>
+</tr>
+<tr id="b-750dcc78607441e58a77d5f9fbc6a838">
+<td id="b-b821880bead24ceba9084d94dc5775e6">
+<p id="b-b9f52c6bcc7848c8a55518474e804bd5"></p>
+</td>
+<td id="b-9dd868fec99444a7a090f54658083d20">
+<h3 id="b-9622f4f53c924637b394926d405f05ac">新中国成就负面</h3>
+</td>
+<td id="b-3b55e38cb33042d38245e45159c4caac">
+<p id="b-63db33ac66b841c0a117d63815ff643c"><span style="color:#FF4A47"><span style="font-size:15px"><strong>打标</strong></span></span></p>
+<p id="b-116733184ceb402bb787d290ca03a08d"><span style="color:#000"><span style="font-size:15px">【文/图/视/音】</span></span>（ 生效范围：全部）</p>
+<ol id="b-d0abcc45fad34cb58652d96d07d6e450">
+<li id="b-b3d3ffa70421414e9d29b29a8787ecba">
+<p id="b-516592db1a7244d89e080e5a75aa5b42"><span style="color:#000"><span style="font-size:15px">对</span></span><span style="color:#000"><span style="font-size:15px"><strong>中国革命事件</strong></span></span><span style="color:#000"><span style="font-size:15px">、</span></span><span style="color:#000"><span style="font-size:15px"><strong>新中国建设成就</strong></span></span><span style="color:#000"><span style="font-size:15px">（如起因、性质、意义、成就、人物、与国外对比）进行贬低否定，需打击；</span></span></p>
+<details id="b-e13015b60087423eab214edea50a6427">
+<summary><span style="color:#000"><span style="font-size:15px"><strong>中国革命事件（适用于定义1）</strong></span></span></summary>
+<div>
+<p id="b-1724cbd8692948938f026afe91e93a23"><span style="color:#000"><span style="font-size:15px">太平天国运动、戊戌变法、义和团运动、辛亥革命、新文化运动、五四运动、共产党成立、北伐战争、南昌起义、解放战争</span></span></p>
+</div>
+</details>
+<details id="b-1fe06230262a4c2c9d8371a210ead5f7">
+<summary><span style="color:#000"><span style="font-size:15px"><strong>新中国建设成就</strong></span></span><strong>（适用于定义1）</strong></summary>
+<div>
+<p id="b-06d874b99860460d9ff2f81b20ba5025" style="text-align:start"><img src="https://km.sankuai.com/api/file/cdn/1625262121/234827226074?contentType=1&amp;isNewContent=false" width="401" height="359" id="b-8db94dba1c224348916da1d8a88ef2e5" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1625262121/234827433635?contentType=1&amp;isNewContent=false" width="321" height="209" id="b-187d63214d68448e9705f0265df906fc" alt="原文图片（需学城权限）"></p>
+</div>
+</details>
+</li>
+</ol>
+<ol id="b-cd0a687d0243478bad20ab4a35444013">
+<li id="b-aaef828271864ceca2d346742768003c"><span style="color:#000"><span style="font-size:15px">对中国历次革命的</span></span><span style="color:#000"><span style="font-size:15px"><strong>反对势力</strong></span></span><span style="color:#000"><span style="font-size:15px">进行赞扬美化的，需打击；</span></span></li>
+</ol>
+<details id="b-2c1b361bcd294708a0d8bfc19fbed2fb">
+<summary><span style="font-size:15px"><strong>反对势力</strong></span><strong>（适用于定义2）</strong></summary>
+<div>
+<p id="b-eca2f3ad20244478ac91bcd14198c321" style="text-align:start"><span style="font-size:15px">封建主义：</span>封建地主阶级与封建专制制度</p>
+<p id="b-d0659e81385342d4a60596eda41ca6ff"><span style="font-size:15px">帝国主义：</span>近代侵略中国的西方列强及日本帝国主义</p>
+<p id="b-0e5ae90772ba40a08a840e4acf6caec7"><span style="font-size:15px">官僚资本主义：</span>与帝国主义、封建势力深度绑定的国家垄断资本</p>
+<p id="b-9b31a1fa52f24ddaa28ef3f2adbcd6d3"><span style="font-size:15px">军阀：</span>依靠地方割据、私人武装实施统治的军事集团</p>
+</div>
+</details>
+<ol id="b-432b02d0cd5741569500689c54d1f762">
+<li id="b-303609fedafd40dcaf808aee5a93aa78"><span style="color:#000"><span style="font-size:15px">对新中国发展建设中出现的失误和代价（如：大跃进、人民公社、整风运动等），夸大事件负面影响（</span></span><span style="font-size:15px">如对死亡、受灾人数夸大描述的</span><span style="color:#000"><span style="font-size:15px">），需打击；</span></span></li>
+<li id="b-5308664e653f4e9185978839e3197d80">
+<p id="b-64ac79e41d004fd29de9af9ad34e91a6"><span style="color:#000"><span style="font-size:15px"><blockquote>提及</blockquote></span></span><span style="color:#000"><span style="font-size:15px"><strong><blockquote>文革相关负面</blockquote></strong></span></span><span style="color:#000"><span style="font-size:15px"><blockquote>内容或洗白歪曲文革，需打击</blockquote></span></span><span style="color:#000"><span style="font-size:15px">；</span></span></p>
+<details id="b-36e6f79b10ac4946a762961e3499f7a4">
+<summary><strong>文革相关负面（适用于定义4）</strong></summary>
+<div>
+<p id="b-dcdc8e38d26f4a9e8bab9b6cfc877c22">文革变体：hong卫bing运动、某卫兵孕动、从从帮、帮帮帮帮</p>
+<p id="b-9915bf326a604875beebb2f736982aa3">事件相关：<span style="font-size:15px">大饥荒、人身迫害、批斗场景、制度破坏、建筑文物损害等</span></p>
+<p id="b-cd4ea1a22bf140969cfc707a5cd0df45">影射文革事件：历史密档十年一梦、联合工人阶级继续革命、暴力革命帮扶农民、工学联合行动的可能性</p>
+<p id="b-3583613a93d84805b98dcf330dcdbc8a">负面书籍：《邱会作回忆录》《历史的伤口与弥合——黄政家事寻踪》《三年困难时期饿死三千万》《清华文革亲历》《融工倡议书》《十年一梦——前上海市委书记徐景贤文革回忆录》<span style="color:#000">《悲歌一曲:文革十年日记》《抗争的人生》《未完成的中国文化大革命:毛泽东与日本》《中国模式的终点》《三年困难时期饿死三千万》</span>《最高指示》《王力反思录》《历史现场——文化大革命纪事》《戚本禹回忆录》《邱会作回忆录》《十年非梦——黄金海回忆录》《革命造反年代——上海文革运动史稿》《文化大革命的起源》《张春桥：1949及其后》</p>
+<p id="b-a2323f3d18cb48e097f7ab77ac57827d">负面组织：新星公社、社会联合党、共产主义革命阵线、无产阶级解放斗争协会、全球支持中国和亚洲民主文化论坛、‘文革’60周年研讨会</p>
+<p id="b-4fe5785ea923457583ef89b0f7bf8a2e">文革口号：①千万不要忘记阶级斗争②打到一切牛鬼蛇神③打倒走资派④革命无罪，造反有理⑤破四旧，立四新⑥斗私批修</p>
+</div>
+</details>
+</li>
+<li id="b-b0e4137ed12949adb1c97d32aa81e108"><span style="color:#000"><span style="font-size:15px"><span>将</span></span></span><span style="color:#000"><span style="font-size:15px"><strong><span>红色经典作品</span></strong></span></span><span style="color:#000"><span style="font-size:15px"><span>等同于“文革产物”且进行否定的，需打击；</span></span></span></li>
+</ol>
+<details id="b-130ceee8a2a746e0a085c0ca2e8bd1a1">
+<summary><strong>红色经典作品（适用于定义5）</strong></summary>
+<div>
+<p id="b-497d8067ab6b4894a10c75dbd61fc77c"><span style="font-size:15px">红色歌曲：《东方红》《黄河大合唱》《没有共产党就没有新中国》《歌唱祖国》《唱支山歌给党听》《春天的故事》《我的祖国》《走进新时代》《党啊，亲爱的妈妈》《一条大河波浪宽》</span></p>
+<p id="b-bf346f4903514a159a6aeae1e7b7f1a2"><span style="font-size:15px">红色文学：《红岩》《红日》《青春之歌》《保卫延安》《林海雪原》《</span><span style="font-size:15px"><em>飞夺泸定桥</em></span><span style="font-size:15px">》等</span></p>
+<p id="b-fbd44d4670014ad59a428358b74ec418"><span style="font-size:15px">红色影视作品：《中华儿女》《铁道游击队》《烈火中永生》《红色娘子军》《闪闪的红星》《</span><span style="font-size:15px"><em>洪湖赤卫队</em></span><span style="font-size:15px">》《狼牙山</span><span style="font-size:15px"><em>五壮士</em></span><span style="font-size:15px">》《</span><span style="font-size:15px"><em>地道战</em></span><span style="font-size:15px">》《</span><span style="font-size:15px"><em>双枪李向阳</em></span><span style="font-size:15px">》《高山下的花环》《我的兄弟叫顺溜》《亮剑》等</span></p>
+<p id="b-5d8f9305050c4a8ea68792c89a937477"><span style="font-size:15px">样板戏：《红灯记》、《智取威虎山》、《沙家浜》、《海港》、《奇袭白虎团》、《龙江颂》、《杜鹃山》、《红色娘子军》、《白毛女》、《平原作战》等</span></p>
+</div>
+</details>
+<ol id="b-436d82f3b2224041b669656e6cd91214">
+<li id="b-afd98745edd444bbaf5b4355a17b3dd5">
+<p id="b-2238f3f181164be99487b4e847fb9586"><span style="color:#000"><span style="font-size:15px">涉</span></span><span style="color:#000"><span style="font-size:15px"><strong>表述立场有误</strong></span></span><span style="color:#000"><span style="font-size:15px">和陈述事实错误内容</span></span></p>
+<details id="b-c2792123488547ae9f8519711610627a">
+<summary><span style="color:#000"><span style="font-size:15px"><strong>表述立场有误（可泛化，适用于定义6)</strong></span></span></summary>
+<div>
+<p id="b-66686a99d1f34db687e40d0bc420c496"><span style="color:#000"><span style="font-size:15px">“淮海战役”表述成“徐蚌会战”、“对越自卫反击战”表述成“反中华扩张主义战争”</span></span></p>
+</div>
+</details>
+</li>
+<li id="b-a3776b56654d4d388873547745b2d8d3">
+<p id="b-9277151a24ef43efb67af25766759399"><span style="color:#000"><span style="font-size:15px">提及</span></span><span style="color:#000"><span style="font-size:15px"><strong>政治敏感事件</strong></span></span><span style="color:#000"><span style="font-size:15px">的</span></span><span style="color:#000"><span style="font-size:15px"><strong>变体称呼</strong></span></span><span style="color:#000"><span style="font-size:15px">内容，需打击</span></span></p>
+<details id="b-851572a4cb904448858e09e2d75e1fc4">
+<summary><span style="color:#000"><span style="font-size:15px"><strong>政治敏感事件（</strong></span></span><strong>事件不泛化，变体可泛化，适用于定义7</strong><span style="color:#000"><span style="font-size:15px"><strong>）</strong></span></span></summary>
+<div>
+<p id="b-bd8d56e79de84f65b642c6de470544c0"><span style="color:#000"><span style="font-size:15px"><strong>文化大革命</strong></span></span></p>
+<p id="b-7f228a36d5fa4043b0ec30d4ff6db768"><span style="color:#000"><span style="font-size:15px">文化大革命、文革、批斗、四清运动、上山下乡、毛语录、反革命、破四旧、武斗、大清洗、冤假错案、四人帮、造反有理、打倒牛鬼蛇神、西纠联动、红卫兵</span></span></p>
+<p id="b-6ac96e8fb4a44e4cb1ffeee8eebb6180"><span style="color:#000"><span style="font-size:15px"><strong>三年自然灾害</strong></span></span></p>
+<p id="b-62f5de2fc2254c10b9190250655fc7a8"><span style="color:#000"><span style="font-size:15px">三年自然灾害、粮票制度、大饥荒</span></span></p>
+<p id="b-062c7295b65745c7bf009c15a5b04929"><span style="color:#000"><span style="font-size:15px"><strong>大跃进</strong></span></span></p>
+<p id="b-1f3350bc633a472a8463cf1b9e720b8a"><span style="color:#000"><span style="font-size:15px">大跃进、超英赶美、钢铁元帅、全民炼钢、放卫星、高产田、亩产万斤粮</span></span></p>
+</div>
+</details>
+<details id="b-f8ffabf4dcb4431a9f02b557db7eecb3">
+<summary><span style="color:#000"><span style="font-size:15px"><strong>变体称呼（示例，</strong></span></span><strong>适用于定义7</strong><span style="color:#000"><span style="font-size:15px"><strong>）</strong></span></span></summary>
+<div>
+<p id="b-9ad3b6e905be4dafa4f63e94fa66ba85"><span style="color:#000"><span style="font-size:15px">包含称呼中使用：错字/拼音/同音/同形/乱序/繁体/字符替换/符号的，如：</span></span></p>
+<p id="b-c8c10a55eecf44aeb672de6e62be8dea"><span style="color:#000"><span style="font-size:15px">错字：文化大鸽命</span></span></p>
+<p id="b-695a098d30c64bc3bce87faad9d94456"><span style="color:#000"><span style="font-size:15px">拼音：wen化大革命</span></span></p>
+<p id="b-751bed17577f440386b0062ca49555f5"><span style="color:#000"><span style="font-size:15px">同音：文化大格命</span></span></p>
+<p id="b-634916bfc304480eaaa1991fa0841205"><span style="color:#000"><span style="font-size:15px">同形：纹化大革命</span></span></p>
+<p id="b-f98595d099b843068de54fef07d2a8d2"><span style="color:#000"><span style="font-size:15px">乱序：文化革大命</span></span></p>
+<p id="b-88c5b663cc3544be98d9424305a52dfa"><span style="color:#000"><span style="font-size:15px">繁体：四人</span></span><span style="color:#000"><span style="font-size:15px"><strong>幫</strong></span></span></p>
+<p id="b-f3bfd5234cb44c299e1ad4cc474d5f0c"><span style="color:#000"><span style="font-size:15px">字符替换：文化大X命</span></span></p>
+<p id="b-372c148ab3d64c4dbc9caacdf541ba5c"><span style="color:#000"><span style="font-size:15px">符号：文化大~命</span></span></p>
+</div>
+</details>
+</li>
+</ol>
+</td>
+<td id="b-de927b58d6454a6595a51f6d104be8fa">
+<p id="b-6110212c32ad4b7f85f830ff1dbef645"><span style="color:#000">1.否定中国革命</span></p>
+<details id="b-8e33b1bae8324eeabbfa33eca46d8e7e">
+<summary><span style="color:#000"><span style="font-size:15px">案例</span></span></summary>
+<div>
+<ul id="b-acf3ecb19fb44ef98885c8194a3c4b92">
+<li id="b-c24c6a348da545ba968dce7a04705bc4">
+<p id="b-b2115bf41ac94c20bb56251401c09426" style="text-align:start"><span style="color:#000"><span style="font-size:15px">太平天国农民起义是中国近代史上“最大的内乱”，是造反运动。</span></span></p>
+</li>
+<li id="b-102df31315444f6caa98c9c073f92084"><span style="color:#000"><span style="font-size:15px">共产党的土改就是把不劳而获、抢劫瓜分别人财物的土匪行为当作反剥削、反压迫的革命行动。</span></span></li>
+<li id="b-3b529444daa7461ca4910dc9fef86c71"><span style="color:#000"><span style="font-size:15px">正值新文化运动的思想启蒙之际，一场救亡运动（五四运动）打断了它，救亡压倒了启蒙。</span></span></li>
+<li id="b-0523a68aa0624d08b582410717ceaa34"><span style="color:#000"><span style="font-size:15px">如果没有鸦片战争以后那些西方人带来的文明，咱们怕不是还在封建社会呢。</span></span></li>
+<li id="b-7455e75ec37d483b9afced11d6e305d3"><span style="color:#000"><span style="font-size:15px">孙中山对中国的认识不如康有为、梁启超，如果他的认识在深一些，也许就好接受虚君共和的英国式道路，避免许多战争。</span></span></li>
+<li id="b-2b72e599691f46dc8bc4830aa252cc37"><span style="color:#000"><span style="font-size:15px">解放战争是非正义的，内战是杀死自己的同胞，共产党为了自己私欲绑架全国人民。</span></span></li>
+<li id="b-8f96116ee40f4c4bb36a37ad63021966"><span style="color:#000"><span style="font-size:15px">看看人家法国革命后、英国革命后，过得什么生活，在看看我们从辛亥革命、新中国建立后都过得什么日子，也就这些年才吃了点荤腥。。。</span></span></li>
+<li id="b-c60f5b7b99d8428bbf1269459c377445"><span style="color:#000"><span style="font-size:15px">法国大革命后一飞冲天，开始争夺欧洲霸主的位置，我们的辛亥革命只留下一地鸡毛，这就是对比，不要再说有什么一样的地方了。</span></span></li>
+<li id="b-101ed6f20fff4a6283ab8240cb3f8a6a"><span style="color:#000"><span style="font-size:15px">大家只知道袁世凯签的二十一条，恐怕还不知道孙中山当初为了当大总统给小日本许了多少好处，卖了多少地吧！</span></span></li>
+<li id="b-6dab0232a30a4b2090ab2c0b1c9f89ec"><span style="color:#000"><span style="font-size:15px">共产党在土地革命中有2千到3千万人，我说的是至少，被打成富农右派整惨了。</span></span></li>
+<li id="b-ba2a9389ab594fdfabb1a582ed2c9d8b"><span style="color:#000"><span style="font-size:15px">革命只能破坏而不能建设，革命是近代中国落后的“罪魁祸首”唯一出路是改良主义 。</span></span></li>
+<li id="b-0717b9fac4c24f8a951055b38728978f"><span style="color:#000"><span style="font-size:15px">内战无英雄（判断依据: 历史虚无言论，认为解放战争中解放军牺牲的将士不能称为英雄。）</span></span></li>
+<li id="b-ab68c815d85b4ce9984955196f7535ed"><span style="color:#000"><span style="font-size:15px">蒋介石反革命的剿共战争是为抗日做准备的爱国举动。</span></span></li>
+<li id="b-9ee3740ae51a437abc5b879d18e4e916">
+<p id="b-b7944a81cc774918b0a09263334077b4" style="text-align:start"><span style="color:#000"><span style="font-size:15px">辛亥革命是激进主义的结果，清朝虽是腐朽的王朝，但这个形式的存在还具有很大的意义。</span></span></p>
+</li>
+<li id="b-35e9de2faec7432894988662b0ae4413"><span style="color:#000"><span style="font-size:15px">历史老师提问学生:“五四运动的导火索是什么?”牛X学生:“五一只放三天假“。</span></span></li>
+</ul>
+</div>
+</details>
+<p id="b-3a49155decfa4f8c8d8ae91eac6bc5d6"><span style="color:#000">2.否定新中国建设成就</span></p>
+<details id="b-ec2c56f72882434e884f84a10002aaf3">
+<summary><span style="color:#000"><span style="font-size:15px">案例</span></span></summary>
+<div>
+<ul id="b-b9dfa8de54934fb6be6ceaabb4691e93">
+<li id="b-7143c05706d146a5839cf9759e061b61">
+<p id="b-d860c7ee7ae4497ebe429addd30c1ef2" style="text-align:start"><span style="color:#000"><span style="font-size:15px">共产党能这么快发展起来不就是靠着抢那些小中产资产吗，拿别人的东西发展自己，和老蒋有什么两样。</span></span></p>
+</li>
+<li id="b-e24577ae6a504e5583a25d66c49af171">
+<p id="b-bdd63b53437d42b68c9c8b654510d8d1" style="text-align:start"><span style="color:#000"><span style="font-size:15px">邓小平为了得到美国的经济帮助，献上投名状打越南，越南的背后是苏联这个大家都知道，也成功重创了苏联，中国经济一跃腾飞，但那些死掉的中国士兵却永远无法得到了。</span></span></p>
+</li>
+<li id="b-93de48bee9a64fdab52608901ce217e9">
+<p id="b-8d6d88bc18fe462b8794af398e0f168c" style="text-align:start"><span style="color:#000"><span style="font-size:15px">赵下台后，继任者把中国带往权贵资本主义道路，使中国成为权贵们肆意掠夺公共财产的天堂。</span></span></p>
+</li>
+<li id="b-60756e8919654bb3b03d9dd878aca50c">
+<p id="b-0c50a7cf8bb9482f94016433d0a25f5c" style="text-align:start"><span style="color:#000"><span style="font-size:15px">三峡大坝快被吹上天了，淹了多少风景古迹，造成生态破坏，百姓流离失所。还说电费会便宜，可是事实呢？贵的要命，这就是共产党的嘴。</span></span></p>
+</li>
+<li id="b-e8e19fe6f5f14f93823a14a7f49f1a09">
+<p id="b-d1191b6a1d204106a9aaaf41f95258bc" style="text-align:start"><span style="color:#000"><span style="font-size:15px">谢朝平的《大迁徙》让读者知道修建三门峡水库将陕西最富庶的地方变得贫穷，陕西为了顾全大局，选择服从了。</span></span></p>
+</li>
+<li id="b-772c8dc2df80499eb172f8187c2597ec">
+<p id="b-56da09645c2247668b3132091e8ebd14" style="text-align:start"><span style="color:#000"><span style="font-size:15px">社会主义工业化的开始，就是中国环境恶化的开始，几千年的中国开始要变得乌漆麻黑。</span></span></p>
+</li>
+<li id="b-e8a45d201cf94d3f8d360e7dd4bc3721">
+<p id="b-8378f3b89bd5404e87e1cb1a14fe5620" style="text-align:start"><span style="color:#000"><span style="font-size:15px">新时代的集体农庄，代表着人民公社吃大锅饭的时代拉开了序幕。</span></span></p>
+</li>
+<li id="b-3077a76dc198447d9e0e0b5d1498d9fa">
+<p id="b-b6112f95f69643028f32d55d99412dcf" style="text-align:start"><span style="color:#000"><span style="font-size:15px">社会主义工业化，不拉犁就拉耙，社会主义工业化，天天吃不饱，吭吭就是反革命。</span></span></p>
+</li>
+<li id="b-1ddbdd56dec448f6a3cee43dcb7848f8"><span style="color:#000"><span style="font-size:15px">新加坡的建设有目共睹，别的不说人人有房住这点中国就比不了，老百姓何时能真正拥有一套自己的房子。</span></span></li>
+<li id="b-bbe2e35848164d019b159721753d4f13">
+<p id="b-5766bf6c0c584679ad0b29ccb6834a5f" style="text-align:start"><span style="color:#000"><span style="font-size:15px">我想去北欧那边没有任何压力，还有风景可以看。看看现在中国，所谓的改革越整越乱，勒索中产，逼死穷人比比皆是，表面的光鲜，掩盖不了底下的脏污。</span></span></p>
+</li>
+<li id="b-7f4ff4bd6db14e06be5ba2dcfc855f80"><span style="color:#000"><span style="font-size:15px">在新中国的建设中，资本可是出了不少忙的啊，没有他们我们靠什么发展起来，就连现在我们可是都叫特色的社会主义啊，什么叫特色就是资本啊。</span></span></li>
+<li id="b-4ba2e68a8c684b029d89010988915940"><span style="color:#000"><span style="font-size:15px">苏联帮助中国造核弹，虽然最后闹掰了，但关键技术都给了中国，甚至减免了部分费用，到共产党这成了自己人攻克的了，还说苏联他们敲诈勒索，真是人不要脸天下无敌了。</span></span></li>
+<li id="b-eca5b60bda35421290b59353d5dfccd3">
+<p id="b-209e2e382f114925a0af6b038f385011" style="text-align:start"><span style="color:#000"><span style="font-size:15px">建国初靠苏联，改开后靠日美，什么都是靠别人，自己没有一点本事。</span></span></p>
+</li>
+<li id="b-7e33cea220e54453810387aa5876c081">
+<p id="b-3904c1322f164c0bb7369a7252d2fd6f" style="text-align:start"><span style="color:#000"><span style="font-size:15px">邓小平南巡搞市场经济是又回到了资本主义那一套啊！</span></span></p>
+</li>
+<li id="b-a064e5b708f1448b9c6730cb04c284be"><span style="color:#000"><span style="font-size:15px">魏英杰：强拆出“新中国”，亦可毁灭新中国。</span></span></li>
+<li id="b-2c6fa59249db49668a8934f179982fee">
+<p id="b-cbd9f299b7a94b71866fef90180da469" style="text-align:start"><span style="color:#000"><span style="font-size:15px">德国之声：“新瓶装旧酒”模仿邓小平的“习近平新时代中国特色社会主义”。</span></span></p>
+</li>
+<li id="b-77ef01c3122d4e3c96378caebde9409e">
+<p id="b-83d4ea89642d45eb965b47e58b5ee46f" style="text-align:start"><span style="color:#000"><span style="font-size:15px">BBC中文网：毛时代的中国虽有建设成果，却被一场文革阻挡，邓时代的中国建设很多，却越发腐败。</span></span></p>
+</li>
+<li id="b-34048aa2ec7a4694b767ecf3e70d11a2">
+<p id="b-ee844df59aab45bf95ec78af4aff1c2c" style="text-align:start"><span style="color:#000"><span style="font-size:15px">当年，大思想家萨特是这样评价新中国：“我在中国人脸庞上看到奴性，空洞的注视，人民如行尸挥动着铲子为这个国家建设，中国必须或者走向灭亡。</span></span></p>
+</li>
+</ul>
+</div>
+</details>
+<p id="b-50ccd49daef846f5917422472763f5ac"><span style="color:#000">3.赞扬美化反对势力</span></p>
+<ul id="b-7b9a3de8447040989316bb1dee985b90">
+<li id="b-e4bd3b204d224b139ebbda22adfe1096"><span style="color:#000"><span style="font-size:15px">1959到1962年中国饿死几千万人，不信回家问你长辈去。</span></span></li>
+</ul>
+<ul id="b-f94b583ecfc94f84b6951c84a351b562">
+<li id="b-59effb898fff41f7a68c5f9ee6ab9462"><span style="color:#000"><span style="font-size:15px"><span>历史上最严苛的农奴制度就是人民公社。</span></span></span></li>
+</ul>
+<p id="b-24b18726329947cd9cc6166ec7b9c9c4"><span style="color:#000">4.文革负面</span></p>
+<ul id="b-ffd910584c1b406d8283a61df59cb594">
+<li id="b-101079e83e4a4bbf8eafaefc9081ee2b"><span style="color:#000">文化大革命只是失控了，不然会是人类史上最好的一次运动。</span></li>
+<li id="b-474cc584f84a41b496c6508ba7b8d5e4"><span style="color:#000"><span style="font-size:15px">文革时还考啥试啊，高考都停了，一天就在那闹腾呢。</span></span></li>
+<li id="b-4a2b8482306949068132d426706b4e33"><span style="font-size:15px">早饭柚梨、鸽鸣芜梨、鸽蜜捂嘴（文革口号变体）</span></li>
+</ul>
+<p id="b-e342661dc2d7449c927855d38ef5de1a"><span style="color:#000">5.否定红色经典作品</span></p>
+<ul id="b-6a04bb809a914ac984f3f369fc8dd8b8">
+<li id="b-62b00c24647d4793adc83ee1ed06f2e9"><span style="color:#000"><span style="font-size:15px">红色经典是文革时期江青四人帮、林彪的反革命集团推出来的，想想就知道这红色经典里掺了多少东西。</span></span></li>
+<li id="b-3c5ed0ea26bb40fcb01912ffd10d1528"><span style="color:#000"><span style="font-size:15px">有很多文人在文革时期被迫害，他们的作品成了红色经典，他们要知道是这样的结果，肯定要在里面大书特书，控诉不公的。</span></span></li>
+<li id="b-20630c2edb1149a5b699e6727c14c839"><span style="color:#000"><span style="font-size:15px">红色娘子军本是文革产物，当年无数无辜者被残害，就将其当伴奏音乐。英雄儿女后面是无谓牺牲的几十万年轻人，金三胖听了肯定也不以为然。</span></span></li>
+</ul>
+<p id="b-f21e0a4622ff497fb356639be45ac81c"><span style="color:#000">6.表述立场有误</span></p>
+<ul id="b-1516206e15a04cad944f030d24ff489d">
+<li id="b-3b16dfc8989f4f17a631ec67a9535f62"><span style="color:#000">李云龙楚云飞敌友之谜 《亮剑》中李云龙与楚云飞亦敌亦友的关系引发热议。根据2023年最新解析，两人原型分别对应开国中将王近山与国民党将领楚溪春。楚云飞赠枪'狂歌空度日'台词暗藏历史玄机：1943年晋绥军与八路军确有联合抗日史实，但装备互赠虚构。数据显示，剧中83%的交锋场景基于真实战役改编，如1940年百团大战与1948年</span><span style="color:#000"><span>徐蚌会战，</span></span><span style="color:#000">两位军事奇才在荧幕内外书写了跨越阵营的战争传奇。</span></li>
+</ul>
+</td>
+<td id="b-820301ff6ea34fb48c438247f83d1ba5">
+<p id="b-f01574b010a74383a717723b1d48ec27">1.否定中国革命</p>
+<details id="b-e6cdb4fa02c54db09ed8e5ac3d9c642b">
+<summary><span style="color:#000"><span style="font-size:15px">案例</span></span></summary>
+<div>
+<ul id="b-c6d9f67afe02451dbc17da754d7b0ca7">
+<li id="b-28bf2848b73d407894cb9ebca83e4d6d"><img src="https://km.sankuai.com/api/file/cdn/1625262121/234828112201?contentType=1&amp;isNewContent=false" width="68" height="77" id="b-41ad7f2c48ef4f8d8445a7c1f6da760a" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1625262121/234827584297?contentType=1&amp;isNewContent=false" width="111" height="57" id="b-16785f0349d04fe6a7f199de7aedd9e6" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1625262121/234826588286?contentType=1&amp;isNewContent=false" width="233" height="99" id="b-d3d73b41623c4fdeb3bafbd4ea5e680b" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1625262121/234829117933?contentType=1&amp;isNewContent=false" width="87" height="103" id="b-97aa1e9cf8a2433eb0952f4851179a1a" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1625262121/234829236419?contentType=1&amp;isNewContent=false" width="107" height="131" id="b-81be53832f9c4f3486de3e38c35762e4" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1625262121/234828191864?contentType=1&amp;isNewContent=false" width="109" height="82" id="b-15b988b86fa044bcbf1176e2546d9170" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1625262121/234827186191?contentType=1&amp;isNewContent=false" width="103" height="78" id="b-cb5f2bdc3d44476fae97e7c5721a0f8c" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1625262121/234828999060?contentType=1&amp;isNewContent=false" width="115" height="114" id="b-799f14d12e614d07879e6aa857514b5f" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1625262121/234828880019?contentType=1&amp;isNewContent=false" width="98" height="71" id="b-93131a1c82e348659698b1de52ad37db" alt="原文图片（需学城权限）"></li>
+</ul>
+</div>
+</details>
+<p id="b-afbb51ba13d84508a86b8a7dc3875e2f">2.否定新中国建设成就</p>
+<details id="b-3f794870346e4eea8c96f145174bbfc9">
+<summary><span style="color:#000"><span style="font-size:15px">案例</span></span></summary>
+<div>
+<ul id="b-5dc0538ac07e432e9fc02ea478db0178">
+<li id="b-7d87c7d8d1cc41aa89f7386abbea80ec"><img src="https://km.sankuai.com/api/file/cdn/1625262121/234828880022?contentType=1&amp;isNewContent=false" width="250" height="106" id="b-4a2bf8a46e7f4ffa898537287cff2c91" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1625262121/234829038953?contentType=1&amp;isNewContent=false" width="416" height="89" id="b-77fbbfce51154773a3bf942caa405011" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1625262121/234829275744?contentType=1&amp;isNewContent=false" width="416" height="114" id="b-20e04f30258f4142a0005c68ce920363" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1625262121/234828999004?contentType=1&amp;isNewContent=false" width="416" height="107" id="b-719224ca33ee4b7e8b8b00993beacdfd" alt="原文图片（需学城权限）"></li>
+</ul>
+</div>
+</details>
+<p id="b-12fafc7517614cb49164dac27b63ea30">3.文革负面</p>
+<details id="b-cda973507acd4884a865a3ef9727569c">
+<summary><span style="color:#000"><span style="font-size:15px">案例</span></span></summary>
+<div>
+<ul id="b-3925d4c22a774b2dbda1d3d6046c32d8">
+<li id="b-7e7c4addf3404f4d8c884d204c48eeae"><img src="https://km.sankuai.com/api/file/cdn/1625262121/234829316444?contentType=1&amp;isNewContent=false" width="149" height="133" id="b-60c5b5a495fb4008b965a311dacc59c5" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1625262121/234829236368?contentType=1&amp;isNewContent=false" width="91" height="203" id="b-8f606d9e00d84ba3a855ccc4ee0bc5b9" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1625262121/234829316447?contentType=1&amp;isNewContent=false" width="126" height="126" id="b-e8c89c9d7ca3469bbbf3ab52b25c67b4" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1625262121/234826748266?contentType=1&amp;isNewContent=false" width="111" height="101" id="b-1633258708a44cc4a3df23b5209e0aa3" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1625262121/234826906727?contentType=1&amp;isNewContent=false" width="74" height="85" id="b-06f35fee54434ceba6ea0ea46229d1cb" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1625262121/234828069283?contentType=1&amp;isNewContent=false" width="73" height="74" id="b-d2c05f2900eb49149de4c018b87545a6" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1625262121/234828999005?contentType=1&amp;isNewContent=false" width="70" height="58" id="b-6d7118f0eb664e5d9ea46ef76e3da259" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1625262121/234828112149?contentType=1&amp;isNewContent=false" width="144" height="105" id="b-a7a428caf29d4be696212bd3352f0fa3" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1625262121/242099795800?contentType=1&amp;isNewContent=false" width="80" height="107" id="b-2f4bc554317948d4aa6c857bd8202e63" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1625262121/242106974054?contentType=1&amp;isNewContent=false" width="79" height="109" id="b-8444a4cfceb047bfb2e18a4eb8720777" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1625262121/242110131517?contentType=1&amp;isNewContent=false" width="84" height="116" id="b-b71b8e7e1b044536a16bdf2fae1500b6" alt="原文图片（需学城权限）"></li>
+</ul>
+</div>
+</details>
+</td>
+<td id="b-524bf5fefa3447699fd6966fd68d2582">
+<p id="b-a729b93893c842a99cf49c0789dd5fd6"></p>
+</td>
+</tr>
+<tr id="b-f208781a49ce45a39778616be3f5c07d">
+<td id="b-305a75d421d14b4f856220f477166caf">
+<p id="b-5840dafe7f68435cbf7c7aded4c17443"></p>
+</td>
+<td id="b-f603d32645714440aad15c0f12f116af">
+<p id="b-857f5e5ff96b48cc8b7e45c7796415de"></p>
+</td>
+<td id="b-eb709f765503482ea983758076a1f35a" style="background-color:rgb(255, 219, 199)">
+<h2 id="b-7a87617666f54a93bf7ec5f0e4ca3dc6">涉马列主义负面</h2>
+</td>
+<td id="b-2b7ce76a40e5472099a378887c808ecd">
+<h3 id="b-c7b9f4fa011e408c8267a753ef59fc09">马克思主义负面</h3>
+</td>
+<td id="b-656a3d2f5f5248dc83797a31812edb9e">
+<p id="b-9ce56d02c3954dce9c6cb6ebe866252a"><span style="color:#FF4A47"><span style="font-size:15px"><strong>打标</strong></span></span></p>
+<p id="b-910ad847a8e84e6b8f984b6a19f493f1"><span style="color:#000"><span style="font-size:15px">【文/图/视/音】</span></span>（ 生效范围：全部）</p>
+<ol id="b-39094174607045c88eafc146fad1939d">
+<li id="b-0acacb453bd84d8381576de0295880e1"><span style="color:#000"><span style="font-size:15px">歪曲、杜撰（关联低俗内容）“马克思、恩格斯、列宁”语录，需打击；</span></span></li>
+<li id="b-2db3e55d1553478fad12bbd454051d44"><span style="color:#000"><span style="font-size:15px">篡改马克思主义名称，需打击；</span></span></li>
+<li id="b-747b7abd80a54140bcdc2154c3d56d5c"><span style="color:#000"><span style="font-size:15px">对马克思/恩格斯/列宁进行不当营销、攻击诋毁、歪曲否定，需打击</span></span></li>
+</ol>
+<p id="b-8742682d377541e8ba6af8b5dfe665e0"></p>
+<p id="b-90da886f5b024eabb14bdda2e55c997f"><span style="color:#00BA73"><span style="font-size:15px"><strong>豁免</strong></span></span></p>
+<ol id="b-6bf90d97b6a1410ba54c5abaea916037">
+<li id="b-15144d54a2cd43afb55f804a9b86b015"><span style="color:#000"><span style="font-size:15px">明确讨论国外共产党负面未关联我党；</span></span></li>
+<li id="b-9ca5934bf6d047909c41574b2e6a316a"><span style="color:#000"><span style="font-size:15px">马克思的P图表情包。</span></span></li>
+</ol>
+</td>
+<td id="b-73bc77ebfad74535bdf52abcaf1ab14c">
+<p id="b-483da3d7dc99460c9615c1cee627716d">1.马克思主义负面</p>
+<ul id="b-2fd08f95817840c1bf74ca4bf5171a98">
+<li id="b-a1796a88e6dc43cb81e5536b20598d74"><span style="color:#000"><span style="font-size:15px">马克思主义卖淫论：劳动者卖淫是一种特殊劳动表达方式。</span></span></li>
+<li id="b-c416751c2e07483e959defb9795a1dd2"><span style="color:#000"><span style="font-size:15px">马克思曾预言当人类出现瘟疫大流行，资本主义就会暴露出弊端，意味社会主义要开始取代资本主义，瘟疫也将会成为资本主义世界的丧钟，结果呢。。。。。嘻嘻嘻。</span></span></li>
+</ul>
+<p id="b-fed16450ff184bf2a654dbb0c55ab87b">2.篡改马克思主义名称</p>
+<ul id="b-b062303f6ff3436c803589f71fa32b7f">
+<li id="b-dfeb41fc99714dfeb3eae4413aa8e924"><span style="color:#000"><span style="font-size:15px">鹿克思主义</span></span></li>
+</ul>
+<p id="b-1c7b705d1a1a4a718b7015e1f1981acb">3.对马克思攻击诋毁、歪曲否定</p>
+<ul id="b-885b8682a1754b2e8ce921ea43033e8d">
+<li id="b-9cd061551df444319380f1205c92bc6f"><span style="color:#000"><span style="font-size:15px">马克思，今天撕，明天死，信了马克思，不被撕也得死。</span></span></li>
+</ul>
+</td>
+<td id="b-3562f13150c74a3bb766628a3366a4a0">
+<ol id="b-3f6ae35f09dd40919c88afe246c868d4">
+<li id="b-caa57d08e7f84788b6eb2fa5c0f11e12">马克思主义负面</li>
+</ol>
+<ul id="b-2b5631cd736c4879b6ebc4209f5d6c28">
+<li id="b-793e4646d4f649b3878859256ba05df6"><img src="https://km.sankuai.com/api/file/cdn/1625262121/234826588249?contentType=1&amp;isNewContent=false" width="132" height="132" id="b-9de700abd1c64877b6fe9d7291653198" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1625262121/234826906726?contentType=1&amp;isNewContent=false" width="132" height="50" id="b-d02f0eb20d4b42d89065a168e2a77337" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1625262121/234828069282?contentType=1&amp;isNewContent=false" width="416" height="55" id="b-fc56514df3284c649703fd88f786de0b" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1625262121/234829316446?contentType=1&amp;isNewContent=false" width="416" height="76" id="b-418048c99dfa43ccb17dc91f90eaa6c5" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1625262121/234827505591?contentType=1&amp;isNewContent=false" width="374" height="112" id="b-dd517ec17e684e7f8a1fde0d0d440e45" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1625262121/234829275704?contentType=1&amp;isNewContent=false" width="326" height="79" id="b-3ad9376318cc43f596c138ad55b6764f" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1625262121/234827704315?contentType=1&amp;isNewContent=false" width="380" height="196" id="b-04a1e20b648e4a2f8471e0f3df4a8f95" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1625262121/234829316443?contentType=1&amp;isNewContent=false" width="416" height="76" id="b-cbcef573e7414d1ea54382f55fe3527a" alt="原文图片（需学城权限）"></li>
+</ul>
+<p id="b-cb10bee09bd34ca9ad3ef29d4a9a19c8">2.对马克思攻击诋毁、歪曲否定</p>
+<ul id="b-d67c8222a8694c0ab8172c43bf851c4f">
+<li id="b-abd2c5674eeb4695870100a1949fb253"><img src="https://km.sankuai.com/api/file/cdn/1625262121/234829038910?contentType=1&amp;isNewContent=false" width="62" height="93" id="b-2d84e6ea505347a78f4c433b775b73b1" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1625262121/234826708292?contentType=1&amp;isNewContent=false" width="86" height="64" id="b-c80627feda8a40feb748c9d9119f8ecd" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1625262121/234829236366?contentType=1&amp;isNewContent=false" width="51" height="51" id="b-f5941f05356a423984496c0146725c72" alt="原文图片（需学城权限）"></li>
+</ul>
+</td>
+<td id="b-2a972674b7954411ab735ddd3ff5eb8f">
+<ol id="b-dd03098800434cd9b6eee687382d04bf">
+<li id="b-4ec80d44bbc5429d9f307d094fa03605">马克思的P图表情包</li>
+</ol>
+<ul id="b-bda4d1da0faf4b56b95da2dfad321198">
+<li id="b-113b36e88b0a44e79fa0026d90f79417"><img src="https://km.sankuai.com/api/file/cdn/1625262121/234826708291?contentType=1&amp;isNewContent=false" width="74" height="74" id="b-36c572bdab9d4d119f26a4c24d14c999" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1625262121/234827106428?contentType=1&amp;isNewContent=false" width="71" height="71" id="b-8f1a9b7ed14c4f9ca16f28fb793e0a1f" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1625262121/234827353517?contentType=1&amp;isNewContent=false" width="71" height="73" id="b-76b93d7151984cbfb1d9e172e56d648f" alt="原文图片（需学城权限）"></li>
+</ul>
+</td>
+</tr>
+</table>
+<p id="b-6f1c2d6b2f194278b8d4daafd0768596"></p>
+<p id="b-71550de80cc644bd9eb7c50628d22206"></p>
+<p id="b-2fba89fe34be4b26a8ab6c9dccce6b62"></p>
+<p id="b-2b9eb8b8cbb14ef5815bd4d9399e46cb"></p>
+<p id="b-bdbaabb3934b47fba1194d2ced52e548"></p>
+<p id="b-3a343320f0c843f9bd363307dbd46f93"></p>
+</div>

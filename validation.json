@@ -1,0 +1,22 @@
+{
+  "documents": 138,
+  "saved": 76,
+  "no_permission": 60,
+  "restricted_environment": 2,
+  "source_files_verified": 152,
+  "structure": {
+    "table": 359,
+    "tr": 5383,
+    "td": 21666,
+    "th": 1307,
+    "img": 11841
+  },
+  "merged_cells_verified": 1407,
+  "local_link_errors": 0,
+  "browser_checks": [
+    "目录展示",
+    "搜索按安全屋状态筛选",
+    "汇总表布局与合并单元格"
+  ],
+  "media_storage": "source_url_only"
+}

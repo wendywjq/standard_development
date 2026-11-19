@@ -1,0 +1,2286 @@
+# 内容低质审核标准
+
+[返回目录](../../README.md) · [学城原文](https://km.sankuai.com/collabpage/1627767469) · 已保存正文 · 2026-11-19
+
+> 正文保留表格和折叠结构。图片和媒体仅保留原始链接，需要学城访问权限。完整源数据见同目录 source 文件。
+
+<div>
+<h1 id="b-3e682700cafa42188ddc209fe22ceac4">内容低质审核标准</h1>
+<details id="b-adbcd903c8c94d5b8b3caf0795dec36d">
+<summary>更迭日志</summary>
+<div>
+<ol id="b-f4726bc9c53945bf9569232240910007">
+<li id="b-82f8d58a5e3b41d3941f3388ab8fa3cf">23/11/27 10:13，根据<a href="https://km.sankuai.com/collabpage/1892016059" title="生态低质标签 v3规划" id="b-0703c1ac82714f079e1c1c5c1b27ee63">生态低质标签 v3规划</a>行文低质更名为内容低质。</li>
+</ol>
+<table id="b-d9da59f92bd44821a236b5bd0fb64d6b">
+<tr id="b-630ba03b7d9c49ae92739e3c61701f60">
+<th id="b-20783447ab3b41d59df64a8e876956bd">
+<p id="b-5deefef7d2f04aaa90fb52eb44632e13">优化日期</p>
+</th>
+<th id="b-8f58dcec85d34da7b8061408636d0654">
+<p id="b-38f4a492246b47b199fce32fc20027f8">原标准</p>
+</th>
+<th id="b-6ca6d1590bc0437da4734abee4043168">
+<p id="b-021e30c57b4c46e3aa08110af4d10501">优化标准</p>
+</th>
+</tr>
+<tr id="b-c31d788d326f43b291824940c319d6b2">
+<td id="b-834bb6e5366c49e69298ccb3d7d62a9b">
+<p id="b-76a339365fc6404b97460eb16063df77">11.12</p>
+</td>
+<td id="b-1ffa400007294764a251204fef59e241">
+<p id="b-6a38733ac88d46908c2ff6e46a0eb21e"><span style="color:rgb(255, 74, 71)"><span style="font-size:14px"><strong>打标 </strong></span></span><span style="font-size:14px">——（此条主要针对所有评论业务。）</span></p>
+<ul id="b-6bbda4ee078242f6810e7d5ad290595a">
+<li id="b-35421deb833d448988e7e8f7fbf921d0"><span style="font-size:14px">与业务场景体验无关的内容</span></li>
+<li id="b-fabc925ebcae4b579780fae7a3741232"><span style="color:rgb(255, 74, 71)">模版+评价，仅对评价内容审核，如果涉及违规则打标</span></li>
+</ul>
+<p id="b-c3323bca52e14ef895a1ce239eaf1b12"></p>
+<p id="b-690becefd39a43caadccc175faed8675"><strong>打击场景</strong>：</p>
+<ul id="b-4ff42fce920e403b94b9912fe5960d7e">
+<li id="b-2f758a9b90b7453c9329519c9dcf225e"><span style="font-size:14px">催债、拖欠工资等。</span></li>
+<li id="b-247ea6ce5d0d4b62ab9754bbf1a31f49"><span style="font-size:14px">针对个人进行人身攻击</span><span style="color:rgb(255, 74, 71)"><span style="font-size:14px">（包括：造谣吸毒、走私犯罪等内容，及暴露个人隐私的做小三等攻击类内容，侮辱谩骂类按照辱骂标准管控。）</span></span></li>
+<li id="b-72ecb836c15344dc97eceaf10652631e"><span style="font-size:14px"><del>受到骚扰、偷拍等。</del></span></li>
+<li id="b-4c8fd81f32114fe397b26d9cbf7c282e"><span style="font-size:14px">谴责类内容。内容整体为对某社会形态和事件的谴责，无其他含义。</span></li>
+<li id="b-45ab1e8cbc6945c4ba9ccfc6f6d7fa73"><span style="color:rgb(255, 74, 71)"><span style="font-size:13px">无明确语境的纯表情/符号/字母/数字等无意义内容也视为无关</span></span></li>
+<li id="b-61417585bbc74e0f9f15b530ec79d74f"><span style="font-size:14px">etc . 以上只是对几种常见无关的列举，其他无关在评论里也要打。</span></li>
+</ul>
+<p id="b-7107fb3337fa46a686da6d7403b63c3c"></p>
+<p id="b-cb7039bba7174e478441e6df8ba0f4cf"><span style="color:rgb(0, 186, 115)"><span style="font-size:14px"><strong>通过 </strong></span></span><span style="font-size:14px">——</span></p>
+<ul id="b-0da162591eb243f68ca46b4103a3acc5">
+<li id="b-55367da666554ed48d1997a317a35d11"><span style="font-size:14px">与商家体验有关的骚扰内容</span></li>
+<li id="b-7043d3b0343a4c2cb56825c25c0a27ab"><span style="color:#FF4A47"><span style="font-size:14px">空白进审内容不打击</span></span></li>
+<li id="b-722223a93348465cb293208da89fd44d"><span style="color:rgb(255, 74, 71)">纯模版内容不打击</span></li>
+</ul>
+<p id="b-dc3b9a7c5cb545fd80a9d12756760e68"></p>
+</td>
+<td id="b-09b9b440becf4b19b1499e8b42a7a4f0">
+<p id="b-ee8c62f32cd64d9b8f1df918118ce17e"><span style="color:rgb(255, 74, 71)"><span style="font-size:14px"><strong>打标 </strong></span></span><span style="font-size:14px">——（此条主要针对所有评论业务。）</span></p>
+<ul id="b-8d456a4983654dc5a66a99f122edb0ba">
+<li id="b-b007e1a9e1964509bb9d3372cd50065a"><span style="font-size:14px">与业务场景体验无关的内容</span></li>
+<li id="b-78181f0e10c04047b2ba75421c1b39cd"><span style="color:#000">模版+评价，仅对评价内容审核，如果涉及违规则打标</span></li>
+</ul>
+<p id="b-95b8085da6264b74827ae310ec5a34c2"></p>
+<p id="b-a9bbddbef7fd4ed58f15d15b4fe053c0"><span style="color:#000"><strong>打击场景</strong></span><span style="color:#000">：</span></p>
+<ul id="b-5249d8fbd2a24521aa080b30f08b1398">
+<li id="b-6c725ff91cee4e0db840e0a88567f867"><span style="color:#000"><span style="font-size:14px">催债、拖欠工资等。</span></span></li>
+<li id="b-3563078cc3874d4eb0eec7b65970b26a">
+<p id="b-e41721ed43824821ab6215034ddd1b48"><span style="color:#FF4A47"><span style="font-size:14px">针对个人进行人身攻击</span></span></p>
+<details id="b-0f951c854b3347a798f18b357f2bca42">
+<summary><span style="color:#FF4A47">人身攻击（可泛化）</span></summary>
+<div>
+<p id="b-ecfa42765d6748889e7ed9c66b432e9d"><span style="color:#FF4A47"><span style="font-size:14px">造谣犯罪：吸毒、走私、诽谤</span></span></p>
+<p id="b-ce943e7d5c904a128fa7e9bf6a3a94de"><span style="color:#FF4A47"><span style="font-size:14px">暴露个人隐私：做小三、当小姐</span></span></p>
+</div>
+</details>
+</li>
+<li id="b-67266310919346aaa4e793523bc8ff76"><span style="color:#000"><span style="font-size:14px"><del>受到骚扰、偷拍等。</del></span></span></li>
+<li id="b-81e17a645bc647d7b0da7d57bb2f2bee"><span style="color:#000"><span style="font-size:14px">谴责类内容。内容整体为对某社会形态和事件的谴责，无其他含义。</span></span></li>
+<li id="b-78b7129a83ab429991e919c035ace369"><span style="color:#000"><span style="font-size:13px">无明确语境的纯表情/符号/字母/数字等无意义内容也视为无关</span></span></li>
+<li id="b-f085f294af9a456e83b5ce8355c9a38a"><span style="color:#000"><span style="font-size:14px">etc . 以上只是对几种常见无关的列举，其他无关在评论里也要打。</span></span></li>
+</ul>
+<p id="b-3a373c648129461bba440f4256e77ea0"></p>
+<p id="b-dae94f53db094b3aae8b30f94bbf2c2e"><span style="color:#000"><span style="font-size:14px"><strong>通过 </strong></span></span><span style="color:#000"><span style="font-size:14px">——</span></span></p>
+<ul id="b-b5088d3a96784203a5530a2b7f3ccc00">
+<li id="b-a8234493549e466980c1b22baa91244c"><span style="color:#000"><span style="font-size:14px">与商家体验有关的骚扰内容</span></span></li>
+<li id="b-877f40b6376b40e1b11e016d49e71b3d"><span style="color:#000"><span style="font-size:14px">空白进审内容不打击</span></span></li>
+<li id="b-47ea726e1ae84ae589e31ed5e566aa84"><span style="color:#000">纯模版内容不打击</span></li>
+</ul>
+</td>
+</tr>
+<tr id="b-a1c017f9be8c4c58a656f5fc85d27941">
+<td id="b-cd071fffcfb841408d5c3aa963b29ac9">
+<p id="b-4d7ee970bbd74932811aefe933e6fac2">11.4</p>
+</td>
+<td id="b-9c704f7e161b4c8c96775af96c8a40aa" style="vertical-align:top">
+<p id="b-867fff18abb342c2b159fe6195f9c322"><span style="color:#FF4A47"><span style="font-size:15px"><strong>打标 </strong></span></span><span style="color: "><span style="font-size:15px">——</span></span></p>
+<ul id="b-216a7ff4a371463cb301b048b9551d85">
+<li id="b-b8396d1677ab4980a155c61c8fcdaa41">文本内容仅为纯字母/纯数字/纯标点符号/纯特殊符号，且无实际意义</li>
+<li id="b-ee15eeaa0d7849df8f18d24099d39038">文本内容为上述四种形式（纯字母/纯数字/纯标点符号/纯特殊符号）的任意排列组合，且无实际意义</li>
+<li id="b-1b51df148378488d9aacf79907f5f1c7">
+<p id="b-e2d0b90aae77477e82a27d8a50b99087">大于3个的纯表情符号打击</p>
+<p id="b-b729d2e8e2de4f92944c6cfc41f26bd0"></p>
+</li>
+</ul>
+<p id="b-6b7655d7e8144c33b7518d4da20b0752"><span style="color:#000"><span style="font-size:15px">注：</span></span></p>
+<ul id="b-6e51dbabbda345a883422a859a0093ff">
+<li id="b-5aa04566e5644d8cbade64fc07afabc6"><span style="color:#000"><span style="font-size:15px">用户昵称不用这条规则，用户个人昵称可以用数字加字母组合。</span></span></li>
+<li id="b-b7e621bdc6454a1c999e6ea835bdd33c"><span style="color:rgb(0, 0, 0)"><span style="font-size:15px">用户回应，多模回应业务，打击4个以及4个以上无意义</span></span>文字、数字、符号、英文字母和<span style="color:rgb(255, 74, 71)">表情符号</span>或者组合<span style="color:rgb(0, 0, 0)"><span style="font-size:15px">内容，纯表情组合可通过。（有意义的1111，2333，5555，6666不打标）。</span></span></li>
+<li id="b-e1d5a7c14e9d4022afd5692d04a39835"><span style="color:rgb(212, 30, 33)">回复贴有意义不打，非回复贴乱打需要打击。</span></li>
+</ul>
+</td>
+<td rowspan="3" id="b-0a91554922c44e438629e1e1ba1a3631">
+<p id="b-23afe96b78b544a7aef47d3873cdd3ed"><span style="color:#FF4A47"><span style="font-size:15px"><strong>打标 </strong></span></span><span style="color: "><span style="font-size:15px">——</span></span></p>
+<p id="b-81f4e4e2119242aab65f60ae65d2d492">1.文本内容仅为纯字母/纯数字/纯标点符号/纯特殊符号，且无实际意义</p>
+<p id="b-9e1b6d66fa764262b71be4c0f1775452">2.文本内容为上述四种形式（纯字母/纯数字/纯标点符号/纯特殊符号）的任意排列组合，且无实际意义</p>
+<p id="b-fab6d64ced2a46758986a4efa4639d83">3.大于3个的纯表情符号打击</p>
+<p id="b-e47706fe02fa48969fdc9b18f4571886">4.<span style="font-size:15px">无任何体验，整句都是看不懂的、无意义的内容。</span></p>
+<p id="b-c1a45ee024534593838985fde6484c9d"><span style="font-size:15px">5.</span><span style="color:#000"><span style="font-size:15px">乱打内容&gt;体验内容</span></span></p>
+<p id="b-3199d23383c84e78b8d04af134a0c706">6.<span style="color:rgb(0, 0, 0)"><span style="font-size:15px">用户回应，多模回应业务，打击≥4个无意义</span></span>文字、数字、符号、英文字母和<span style="color:#000">表情符号</span>或者组合<span style="color:rgb(0, 0, 0)"><span style="font-size:15px">内容。</span></span></p>
+<p id="b-de0d2093484843298d9d603e83330a91"></p>
+<p id="b-ac453c470eca4b4da58386f0aa935694"><span style="color:#FF4A47"><span style="font-size:15px"><strong>需注意：</strong></span></span></p>
+<ul id="b-b4c70813d44e441582639019f60d7185">
+<li id="b-6145454acf0a42d1ba33ec910efba3ad"><span style="color:#000"><span style="font-size:15px">用户昵称不用这条规则，用户个人昵称可以用数字加字母组合。</span></span></li>
+<li id="b-c9eadd56d2da4adf888885664151f78f">
+<p id="b-2419d1fbf6e4441f9ef4030971b922d6"><span style="color:rgb(212, 30, 33)">颜文字需整体看，无需单独查标点符号个数</span></p>
+<details id="b-a05206056839442f91c169ac2a5b60ab">
+<summary><span style="color:#FF4A47">颜文字</span></summary>
+<div>
+<p id="b-5ab9e116216d4d46aeff73dadd3ab4b2">颜文字列表可参考：‘<span style="color:#FF4A47">win+；</span>’中的表情符号面板</p>
+<p id="b-28cfa50fe2e94d90acdac089cd1eeac5">以下仅列举部分组合形式</p>
+<table id="b-73024734d41d488098a52755aee49701">
+<tr id="b-d57dcc5b48b543cdabf5b28158ef0e1e">
+<th id="b-d2defc26d9214c0094ee84aa1ccc9a17">
+<p id="b-1d5cea90e761476e9f77f5002554c137">分类</p>
+</th>
+<th id="b-f7d08cd01bab4e8dadf15b38166366d0">
+<p id="b-4fc9ccc945e24a5f937071f0a9c8ab9c">举例</p>
+</th>
+<th id="b-c5d7d036031c4e48a890f91ac1caab1e">
+<p id="b-88451d5ba94a46a5b0d734aa4e74d069">举例</p>
+</th>
+<th id="b-4d251a2ec4f844b88ffafd06716f2ae2">
+<p id="b-27bc9176f84042b0ad2dd2c695c2bdfd">举例</p>
+</th>
+</tr>
+<tr id="b-b0bcb0a3f1c14b7bb88ad3157efbf7c5">
+<td id="b-2891a97b74d04d7a91470128f9af9b06">
+<p id="b-6142139761b44e5799f9fcea54e62a89">简易符号</p>
+</td>
+<td id="b-ee9754e7074540d6833ade63365be9a4">
+<p id="b-be4389c5ccf84ea49eaa557c9762ad75">;_;</p>
+</td>
+<td id="b-10d9fb76f9a34574a3240d805002d6ef">
+<p id="b-4b6c245b2f7448478b9beb523544ced2">:-)</p>
+</td>
+<td id="b-f20ff36dc983488799c8728e87a394ec">
+<p id="b-0abb8231c5f24dbeacc2e1d6e4b318dc">:-3</p>
+</td>
+</tr>
+<tr id="b-486e1710e09a4cd1851683487af28495">
+<td id="b-2f57fa1a96314d978f35fa018b091309">
+<p id="b-495c96e4740147488f72e69f4e3e0561">复杂符号</p>
+</td>
+<td id="b-224fb625b2a74d7ea359708f871a9a5c">
+<p id="b-b6dc0d46afad41398297049f44f10363">☆*: .｡. o(≧▽≦)o .｡.:*☆</p>
+</td>
+<td id="b-2d2eaf6b5ca347259e91320fb7f3ab9a">
+<p id="b-dbdc10a3e3fc456cb9abbec9c9219dba">இ௰இ</p>
+</td>
+<td id="b-e3c2728d2a0743f89c695d6b5a23a7c2">
+<p id="b-37148460c4e241b9af635ce97d5f76aa">\(@^0^@)/</p>
+</td>
+</tr>
+<tr id="b-0e98a66aaf1d4bbc81efbb6807bf4cf2">
+<td id="b-c47ce45fa1564066a744e68f8c410f16">
+<p id="b-69c754da2e0444d0a037d55e5ed451ce">符号+表情</p>
+</td>
+<td id="b-64220835e3044a98af5619bec4744c0b">
+<p id="b-4a9b85acfe574c1ba141c1dbe66c86ae">（づ￣3￣）づ╭❤️～</p>
+</td>
+<td id="b-47b0ef7f25164bdeaad2447d6c23ac61">
+<p id="b-8153a31c19554bbebf45d268e3972896">(❤️´艸｀❤️)</p>
+</td>
+<td id="b-bb452fa649c04c35a50f6691ae78dfa2">
+<p id="b-27db324f4e0a4e4090a8d556cad86f52">(👉ﾟヮﾟ)👉</p>
+</td>
+</tr>
+<tr id="b-b3dc0f185ee14416a2837953cd740066">
+<td id="b-f20521a24d8444839c1ffeb2077de552">
+<p id="b-50ab83b3f3f949f6926eeec914fe5631">符号+文字</p>
+</td>
+<td id="b-9c243269b3cd4ae8a308320444f76717">
+<p id="b-f783499d6f5b4208b92c73e015b3b6fd">(｡･∀･)ﾉﾞ嗨</p>
+</td>
+<td id="b-a412fdba000a4020a74fd4d72747a846">
+<p id="b-6c7faa9b4dce44d880f845d722a29626">(o-ωｑ)).oO 困</p>
+</td>
+<td id="b-fc66b584d57e424aa38f6969f50067d4">
+<p id="b-f9940b5cd3be47698faa6a78c542c9b2">嗯~ o(*￣▽￣*)o</p>
+</td>
+</tr>
+<tr id="b-78117c9390c7404c96b602224227563d">
+<td id="b-5cbf14a017ce4ebcbf564ccd934d32bc">
+<p id="b-6190b33a51d34fe2a2756ae5c1f0fece">符号+英文</p>
+</td>
+<td id="b-3257097bbdca4cd1ad406a6d8430fa80">
+<p id="b-8a8189dffa154a9c998311b384c76609">&lt;(￣︶￣)↗[GO!]</p>
+</td>
+<td id="b-1f0276197dcc4996a08dcc86632fb640">
+<p id="b-d8b9e9d1fb2747908ed61279e7357ab3">○( ＾皿＾)っHiahiahia…</p>
+</td>
+<td id="b-733e3ed801dc45728eca2466d34ca196">
+<p id="b-05c3a7443bdd418ca9a7ce4ff534fe7b">(￣y▽￣)╭ Ohohoho.....</p>
+</td>
+</tr>
+</table>
+<p id="b-f9109ed113764d6bbfdb54e022b70937"></p>
+</div>
+</details>
+</li>
+<li id="b-c696dab07fb444fab522ae9aa46943ea"><span style="color:#000"><span style="font-size:15px">“好”、“好的”、“行”等字词+乱打内容，不属于体验内容。</span></span></li>
+</ul>
+<p id="b-7f733758ae614f31ab390d8ff83fd4d4"></p>
+<p id="b-dfaa23bb84fd4e7eb71f52424bf3384f"><span style="color:#00BA73"><span style="font-size:15px"><strong>不打标 </strong></span></span><span style="font-size:15px">——</span></p>
+<ul id="b-66f94ddf72134b928a3171475d667ec7">
+<li id="b-284d1ab74a5c48ce8d6e195f510e26d2"><span style="font-size:15px">外语&amp;方言，翻译后为有意义内容</span></li>
+<li id="b-9c76e28f919a4f869c6f0f4d6a84b8cd"><span style="color:#000">出现各种代码乱码的情况，先豁免</span></li>
+<li id="b-72f23578c58142a89b2455ec2a2f3b92">
+<p id="b-581333941a8c4248850fbea0edda6bec"><span style="color:#FF4A47"><span style="font-size:15px">回复贴</span></span><span style="color:#FF4A47">有意义、</span><span style="color:#FF4A47"><span style="font-size:15px">纯表情组合无需打击</span></span></p>
+<details id="b-5a25997c782d4897833cca8039edff38">
+<summary><span style="color:#FF4A47">回复贴有意义</span></summary>
+<div>
+<ul id="b-d64b36adac96479096ba55bc15f76cc6">
+<li id="b-029920812f214f1391ecb23dcc7a8be6"><span style="color:#FF4A47">有意义的数字：</span><span style="color:#FF4A47"><span style="font-size:15px">1111（收到/同意），2333（笑），5555（哭），6666（表示赞同）</span></span></li>
+<li id="b-eedff4d5663d44da9985b5c53f3d69b9"><span style="color:#FF4A47">不限字数的‘哈’（哈哈哈、哈哈哈哈哈哈）</span></li>
+<li id="b-dab32f7e666f427889169e675b78c371"><span style="color:#FF4A47">表情符号+不限字数的‘哈’</span></li>
+<li id="b-4c7d19b85d534744b30aaad7ba2140c0"><span style="color:#FF4A47">与主贴有交互内容</span></li>
+</ul>
+</div>
+</details>
+<p id="b-c39d43d08d224d55b360e5884f2eadec"></p>
+</li>
+</ul>
+</td>
+</tr>
+<tr id="b-373ab395b17a4bf99eafedf3b1e821c7">
+<td id="b-2486a640ed5447a0a6b01ae427f7f159">
+<p id="b-a9e019aa4288497f98a09b5d82406dda"></p>
+</td>
+<td id="b-3d69156efc2c4aff9616557ede643f10" style="vertical-align:top">
+<p id="b-ce124b0fd96947f08202d61e6d59014d"><span style="color:#FF4A47"><span style="font-size:15px"><strong>打标 </strong></span></span><span style="font-size:15px">——</span></p>
+<ul id="b-f21dc2522c8b439db0aa419d37f1dd6c">
+<li id="b-d8d2924bf12c4f99ab841958a6caa651"><span style="font-size:15px">无任何体验，整句都是看不懂的、无意义的内容。</span></li>
+</ul>
+<p id="b-b25d5e0737d545f0953edd0e7c41639b"></p>
+<p id="b-7968efc310d343b5bda421a9f3f8b7b3"><span style="color:#000"><span style="font-size:15px">注：</span></span></p>
+<ul id="b-d9080199175d40d9955e93145ed87f3b">
+<li id="b-f703cc8a7dbb4a58afe7754c60662744"><span style="color:#000"><span style="font-size:15px">乱打&gt;体验内容，也认为是乱打。</span></span></li>
+</ul>
+<ul id="b-75e8c9e702ae410799629125a2915400">
+<li id="b-0b1a40a503ed4fd99bdfb646d7c846f0"><span style="color:#000"><span style="font-size:15px">“好”、“好的”、“行”等字词+乱打内容，不属于体验内容。</span></span></li>
+</ul>
+</td>
+</tr>
+<tr id="b-be695f0c1ed8449c8c6b1e4f84eb3b95">
+<td id="b-48d2958736364f4689b07e0ad7892e70">
+<p id="b-b0421d3d6c52467b8272523fbba1bdab"></p>
+</td>
+<td id="b-47fd2cb77d8b429b9e3609eb8e6333e5" style="vertical-align:top">
+<p id="b-bba6eae218aa47408cf0ed492e5c5a17"><span style="color:#00BA73"><span style="font-size:15px"><strong>通过 </strong></span></span><span style="font-size:15px">——</span></p>
+<ul id="b-d414fb322b2942a3b824c561396601ae">
+<li id="b-b504ebb1ca114cef90a0c58b96b54631"><span style="font-size:15px">外语&amp;方言，翻译后为有意义内容</span></li>
+<li id="b-34352d9166594c7ca31d142455b21d1e"><span style="color:rgb(255, 74, 71)">出现各种代码乱码的情况，先豁免</span></li>
+</ul>
+</td>
+</tr>
+</table>
+<p id="b-54359983bcce48b7bd889cee46559d97"></p>
+</div>
+</details>
+<table id="b-fec6d62553be4d19b7db3d90d9880298">
+<tr id="b-2cb036dca5084b80ace701c30e581093">
+<th id="b-630d1e4d1ff14fa4bbc6ed4c89cd8b37">
+<p id="b-e7688e9dbeae450191d31adc9091467a"></p>
+</th>
+<th colspan="3" id="b-8359a0195d874218ab32c39ca978609a" style="background-color:rgb(246, 246, 246);vertical-align:middle">
+<p id="b-e642b554fbae4a25ad418ef4fe0ec67b" style="text-align:center"><span style="font-size:16px"><strong>V3标签体系</strong></span></p>
+</th>
+<th colspan="3" id="b-8cce1196ecf945d18f49bf81a602ac35" style="vertical-align:middle">
+<p id="b-b700d80de55141a3ae9ee4da0f3d0169" style="text-align:center"><span style="font-size:16px"><strong>V2标签体系</strong></span></p>
+</th>
+<th colspan="2" id="b-0f48b457666a43e7bfd49ebde1acd4be" style="vertical-align:middle">
+<p id="b-3b344d18e2f24afc81bebe46659205b4" style="text-align:center"><span style="font-size:16px"><strong>V1标签体系</strong></span></p>
+</th>
+<th rowspan="2" id="b-06c0cd92c1e34b2ca50f85e0204f228b" style="background-color:rgb(246, 246, 246);vertical-align:middle">
+<p id="b-bedd2531fd5745548943ef6657b1ac21" style="text-align:center"><span style="font-size:16px"><strong>风险点</strong></span></p>
+</th>
+<th rowspan="2" id="b-722971b4dd3948ebaf5a873c16e0c8b4" style="background-color:rgb(246, 246, 246);vertical-align:middle">
+<p id="b-31bc43e4052b439584e03aa0aa6b8456" style="text-align:center"><span style="font-size:16px"><strong>细则和具体定义</strong></span></p>
+</th>
+<th rowspan="2" id="b-b31886c8584042788cccb3c56808c3c4" style="background-color:rgb(246, 246, 246);vertical-align:middle">
+<p id="b-6d02b43ba5554f258475c57e43fdd8b3" style="text-align:center"><span style="font-size:16px"><strong>文字样本</strong></span></p>
+</th>
+<th rowspan="2" id="b-6844a24d780f437baefc7b3876e8d284" style="background-color:rgb(246, 246, 246);vertical-align:middle">
+<p id="b-34adee12857f4de3a78f5a5d5d1f7175" style="text-align:center"><span style="font-size:16px"><strong>图片样本</strong></span></p>
+</th>
+<th rowspan="2" id="b-b1b16cecb0d94565b90910d6b6e94e2f" style="background-color:rgb(246, 246, 246);vertical-align:middle">
+<p id="b-2bf1f843adaa4129aa369110340481b8" style="text-align:center"><span style="font-size:16px"><strong>豁免样本及备注</strong></span></p>
+</th>
+</tr>
+<tr id="b-6885ff714bd14502b4363bd30eeb7cb5">
+<td id="b-b55fc0082c714273a1e7b0261085b32e">
+<p id="b-f8a89f11ef91432482070bd8d0a960d3"></p>
+</td>
+<td id="b-cfc71d4507d8463bbeba5302bd8ac526" style="background-color:rgb(244, 245, 247);vertical-align:top">
+<p id="b-223c73d8d9824dee8e403774ea6517a4" style="text-align:center"><span style="color:rgb(0, 0, 0)"><span style="font-size:16px"><strong>一级标签</strong></span></span></p>
+</td>
+<td id="b-ddab3192f6c34eed993adc61c3b8a933" style="background-color:rgb(244, 245, 247)">
+<p id="b-f7d5d3e17022472284fa6622e0a68a93" style="text-align:center"><span style="color:rgb(0, 0, 0)"><span style="font-size:16px"><strong>二级标签</strong></span></span></p>
+</td>
+<td id="b-109130e7941b41e6b8e7a8598c502ceb" style="background-color:rgb(244, 245, 247)">
+<p id="b-f5a2150855bb46648184291a89a632b7" style="text-align:center"><span style="color:rgb(0, 0, 0)"><span style="font-size:16px"><strong>三级标签</strong></span></span></p>
+</td>
+<td id="b-88a8ad6e394144b3bff1bdd79dd7be2f" style="background-color:rgb(244, 245, 247);vertical-align:middle">
+<p id="b-f83d441a8ee142b1a2edaadf27b2f184" style="text-align:center"><span style="font-size:16px"><strong>一级标签</strong></span></p>
+</td>
+<td id="b-8edb464c0c3648149de782fd0b7cdb8c" style="background-color:rgb(244, 245, 247);vertical-align:middle">
+<p id="b-2b24c5cc8f724c44afb0e3a83d95e183" style="text-align:center"><span style="font-size:16px"><strong>二级标签</strong></span></p>
+</td>
+<td id="b-7ff551b538ef478598549074cf3b5858" style="background-color:rgb(244, 245, 247);vertical-align:middle">
+<p id="b-b1a3e1d2ac924b2a97597b4589253a4a" style="text-align:center"><span style="font-size:16px"><strong>三级标签</strong></span></p>
+</td>
+<td id="b-8d842fce5c9a46c48a7f4cc525bd4eb5" style="background-color:rgb(244, 245, 247)">
+<p id="b-02461297d0974a5bb510fe2281c2990c"><span style="font-size:16px"><strong>一级标签</strong></span></p>
+</td>
+<td id="b-8c1e7750ab7446898954d86a723b03ed" style="background-color:rgb(244, 245, 247);vertical-align:middle">
+<p id="b-22dddb02ea734daebc1c235074842d93" style="text-align:center"><span style="font-size:16px"><strong>二级标签</strong></span></p>
+</td>
+</tr>
+<tr id="b-60f5e321484541bd978d737b015e8952">
+<td id="b-914abdf201414e409d7b7e704de42b0c">
+<p id="b-e3f562de8a0c4f0487870cdf9a2be24e"></p>
+</td>
+<td rowspan="4" id="b-a6406d270c4e45d0b615e26e04215124">
+<h2 id="b-a032b38279a942e6a41ea6bade943c7e" style="text-align:center">内容低质</h2>
+</td>
+<td id="b-14631538d357466682d1611923a6a1cd">
+<h3 id="b-ca56a3c978f24adea250223e1caba029" style="text-align:center">观感低质</h3>
+</td>
+<td id="b-344c9df9526e49e6b65719bda25c36e2" style="background-color:rgb(237, 250, 244)">
+<h4 id="b-17bb56c3e28645728e08326b7c6f99df" style="text-align:center">题文不符</h4>
+</td>
+<td id="b-3a14779aef62468c8090a7ea9cc366c2">
+<p id="b-49bfc3db38f549d6816edb6c504a3817">垃圾内容</p>
+</td>
+<td id="b-fef5e9f2f8dd4fbdb1244189eac1be47">
+<p id="b-52512adc70df4a22b19dbe10150cc57c">内容不匹配</p>
+</td>
+<td id="b-26945ccd562e47699f7f3b63af34656e">
+<p id="b-b9a12a4e1a3a4708916fe9df94add42f"></p>
+</td>
+<td id="b-5745a2cdeaf54fa5a8af27ae300aeb36">
+<p id="b-a1980bac1f114b6ebbb7787b1cc9761d">垃圾文字</p>
+</td>
+<td id="b-da27229c9ae7431eafeac8a880231ada">
+<p id="b-dc5ca46b1614444aba5431aed7643dd5">「文」- 无关</p>
+<p id="b-6d4186f180f24f9da91199f9c2228821"></p>
+</td>
+<td id="b-92eb86649d72438388d445cba8877578">
+<p id="b-70efba134e544d1d8e31782eed5d12ce"></p>
+</td>
+<td id="b-34c3ef52012f4934a759d75e65357c02" style="vertical-align:top">
+<p id="b-5fc86bd01fda4be99bd219cbc6af68f4"><span style="color:rgb(255, 74, 71)"><span style="font-size:15px"><strong>打标</strong></span></span></p>
+<p id="b-4e1db794925f4cf39fa7f8430b0e62db"><span style="font-size:15px">【文】</span></p>
+<ol id="b-e8f1a96a33a14a40b24a8759846396da">
+<li id="b-bb27e21371f64c42b32a6a15724db93c"><span style="color:#000"><span style="font-size:15px">催债、拖欠工资等。</span></span></li>
+<li id="b-aa0fd7df75544fd584ef25e884193ebe">
+<p id="b-460ddfc6ae4f426081a63279d2923bb9"><span style="font-size:15px">针对个人进行</span><span style="font-size:15px"><strong>人身攻击</strong></span></p>
+<details id="b-c23de359506f45c281c778496ce75fd1">
+<summary><span style="font-size:15px"><strong>人身攻击（可泛化，适用于定义2）</strong></span></summary>
+<div>
+<p id="b-6d37559890894a5b8f02691a0dc00a28"><span style="color:#000">个人私生活与道德方面：</span></p>
+<p id="b-13baf52daf9c4dfa9c21e8a6fc51b68a"><span style="color:#FF4A47">出轨、劈腿、做小三、当小姐、一夜情、私生活混乱、性骚扰、不赡养老人、特殊性取向、特殊性癖；</span></p>
+<p id="b-d352744887354ba49e7ac3a939ce7eaf"><span style="color:#000">违法犯罪行为方面：</span></p>
+<p id="b-6e162d0be7be481d830a1b8992e355b9"><span style="color:#FF4A47">盗窃、抢劫、贪污受贿、吸毒与贩毒、杀人、诈骗、老赖、虐待儿童/动物等严重违法犯罪行为；</span></p>
+</div>
+</details>
+</li>
+<li id="b-8eab511bebe84d2ab9deb16741448c38">
+<p id="b-9cf1c6d25b964fedba7a66f1e675880b"><span style="color:#000"><span style="font-size:15px">谴责类内容。内容整体为对某社会形态和事件的谴责，无其他含义</span></span></p>
+<p id="b-99a5d72bdd564bd6ad3ff302bf8cf8b9"></p>
+</li>
+</ol>
+<p id="b-13454546cbb0499a9b412b377e2d9064"></p>
+<p id="b-e47e4c5c982543af9cdf22a10eda7d59"><span style="color:#00BA73"><span style="font-size:15px"><strong>豁免</strong></span></span></p>
+<ol id="b-f91650c303824508894f5899e8409b71">
+<li id="b-d024b78ffdda49a1ad2854027624a2fc"><span style="color:#000"><span style="font-size:15px">与商家体验有关的骚扰内容</span></span></li>
+<li id="b-ae51f84ad166485a91a8373c7de8c5e2"><span style="color:#000"><span style="font-size:15px">空白进审内容不打击</span></span></li>
+<li id="b-b0ab8ed6402545a28df2779c367d8e23"><span style="color:#000"><span style="font-size:15px">纯模版内容不打击，</span></span><span style="color:#FF4A47"><span style="font-size:15px">若模版+评价，仅对评价内容审核</span></span></li>
+</ol>
+<p id="b-af173f3dc0c3437a97e61987ac53d1a9"></p>
+</td>
+<td id="b-8d86ba14e26e4e5f8ceae2d34efdbcfd">
+<ol id="b-f0ea43802d0b428d8abb1a88cc7e3e00">
+<li id="b-c22298bdfedf4a02b7428d5237db6359">
+<p id="b-58b106645eed47729fa4a5f7cc704cf0"><span style="color:#000"><span style="font-size:15px">催债、拖欠工资等。</span></span></p>
+<details id="b-4672e0574cf644268d3c934857da6c50">
+<summary>案例</summary>
+<div>
+<ul id="b-851be61c16a04708b87bb59e1708a460">
+<li id="b-5cf99b2ad772439d8eae6f47c475ee32"><span style="color: "><span style="font-size:15px">让你们店里那个</span></span><span style="color:#D41E21"><span style="font-size:15px">林某海</span></span><span style="color:rgb(245, 35, 45)"><span style="font-size:15px">老赖还钱</span></span><span style="color: "><span style="font-size:15px">，三百多块钱都还不起，林泽海小屁孩，还钱还钱还钱。</span></span></li>
+<li id="b-bc8a59bb25094e3aaec23e9e5d96133a"><span style="color:rgb(245, 35, 45)"><span style="font-size:15px">狗医院还钱</span></span><span style="font-size:15px">，狗医院还钱。</span></li>
+<li id="b-cfde15be3eb84939b63dffd016f74249"><span style="color: "><span style="font-size:15px">大家小心 这家店的一位 小姐姐，她叫</span></span><span style="color:#D41E21"><span style="font-size:15px"> 郝某涵</span></span><span style="color: "><span style="font-size:15px">。</span></span><span style="color:rgb(245, 35, 45)"><span style="font-size:15px">借钱不还。</span></span></li>
+<li id="b-b0d3c640813644cda07211b2d38e2ae0"><span style="font-size:15px">老板</span><span style="color:rgb(245, 35, 45)"><span style="font-size:15px">拖欠员工工资</span></span><span style="font-size:15px">，辞职后老板</span><span style="color:#D41E21"><span style="font-size:15px">彭某</span></span><span style="font-size:15px">主动删除员工微信扣一个月工资不给。</span></li>
+</ul>
+</div>
+</details>
+</li>
+<li id="b-0bbc0fa690f340cf913a23b88d3c261f">
+<p id="b-93ac3e63027a4ba1a52734351f8ec809"><span style="font-size:15px">针对个人进行</span><span style="font-size:15px"><strong>人身攻击</strong></span></p>
+<details id="b-5a01e51781be483fbababea7091851df">
+<summary>案例</summary>
+<div>
+<ul id="b-3fc51591d1f44a1ca67d31f388939619">
+<li id="b-c35a09b2557a45e7ba279748a54923b7"><span style="font-size:15px">姓刘的常年</span><span style="color:rgb(245, 35, 45)"><span style="font-size:15px">当小三、破坏别人家庭、生私生子</span></span><span style="font-size:15px">，还理直气壮，有正义感的人都抵制这样的人渣。</span></li>
+<li id="b-eb7591bf3ebc41539d05b682d09f863d"><span style="color: "><span style="font-size:15px">该老板</span></span><span style="color:rgb(245, 35, 45)"><span style="font-size:15px">胡某丽，勾引男人，不幸换上艾滋</span></span><span style="color: "><span style="font-size:15px">，心存报复心里，大家别去他店买东西了。</span></span></li>
+</ul>
+</div>
+</details>
+</li>
+<li id="b-e4ef7407b1a14cc5be1627b77d51199e">
+<p id="b-add4d82ab7d84821b10287b2bbdd76dd"><span style="color:#000"><span style="font-size:15px">谴责类内容。内容整体为对某社会形态和事件的谴责，无其他含义</span></span></p>
+<p id="b-e0de132a317d4002ae6c85be201974e5"><span style="color: "><span style="font-size:15px">老板 都是骗子 又是违法 又是走私 又是黑钱洗白的 谁还敢去？？？ 有钱没处花了？</span></span></p>
+<p id="b-fa26bb8120a94303b6348c7f0de8c73d"></p>
+</li>
+</ol>
+</td>
+<td id="b-2c2b119002514a7cb5241d1d53553514" style="vertical-align:top">
+<p id="b-b18910ba35c14257af773ae0af2db4c1"></p>
+</td>
+<td id="b-e79b2e0828fe4662b048f653885d335e">
+<ol id="b-39e10646668142938616fc3a9cf24ccb">
+<li id="b-6adb3f519f534d63b5b63f9907eca6b5"><span style="color:#000"><span style="font-size:15px">与商家体验有关的骚扰内容</span></span></li>
+</ol>
+<ul id="b-68e27e6212724d378d24ad7e7c142ac1">
+<li id="b-24aedd60ec0e4ce88ea4704d60073156"><span style="color: "><span style="font-size:14px">低能健身房真的是无休无止的打电话骚扰，不停打电话让你办卡。</span></span></li>
+<li id="b-4a0944212a00455d8aae879842afa6a1"><span style="font-size:14px">垃圾商户，黑心商家。</span></li>
+</ul>
+</td>
+</tr>
+<tr id="b-a436ff5b468d4df99f3e9df25363de5d">
+<td id="b-ad611fd7ddab43929abeb378e72ac9be">
+<p id="b-56cd52acadb84e6d97c9259c41ae4494"></p>
+</td>
+<td rowspan="3" id="b-e278c18948804a0f92639aa0bb8c7647">
+<h3 id="b-3bdbe87cace84c1ea26c311b97a5b706" style="text-align:center">低信息量</h3>
+</td>
+<td rowspan="3" id="b-edc85d1d6b5e4de39ec48169870e4537" style="background-color:rgb(255, 246, 224)">
+<h4 id="b-fcef338a417d4da4b1a82388fa434bb7" style="text-align:center">乱打</h4>
+</td>
+<td rowspan="3" id="b-dd807cc9e45e40638b3d5f9f16d685c6">
+<p id="b-884807e93bb248cbbc68d2c918015d72" style="text-align:center">垃圾内容</p>
+</td>
+<td rowspan="3" id="b-eaae441d3d4049de842bdade0d91cea3">
+<p id="b-89163487bb704f75a8aabee2735b479e" style="text-align:center">乱打</p>
+</td>
+<td rowspan="3" id="b-c7636886c66647fc8cad9e61b266dd65">
+<p id="b-24d531c7bdd54d21bb5436ef31caa397" style="text-align:center"></p>
+</td>
+<td rowspan="3" id="b-765f8b25ba8147e295a35180da374eff">
+<p id="b-171888796c2243f380bf36ef430f4524" style="text-align:center">垃圾文字</p>
+</td>
+<td rowspan="3" id="b-7abe67577af24c87be078d71db758498">
+<p id="b-29ad978009e0440eaf2c3ef5ea15ffa9">「文」- 乱打</p>
+<p id="b-d10cd645be074f3d8ab1e6ddb2bff70b">「图&amp;视频」- 垃圾图片 - 无关</p>
+</td>
+<td rowspan="3" id="b-d960d6dbba8045f7867408d19953edef">
+<p id="b-22b9d3c1d5084c5d957cf5cda964275d" style="text-align:center"><span style="font-size:15px">乱打</span></p>
+</td>
+<td rowspan="3" id="b-e2960e9cd2734b898e176c45ea89dad4" style="vertical-align:top">
+<p id="b-ce2326656b714855ad54199054b0ac9f"><span style="color:#FF4A47"><span style="font-size:15px"><strong>打标 </strong></span></span></p>
+<p id="b-c79a71c576c24681a5219ad4b9925f13"><span style="font-size:15px">【文】</span></p>
+<ol id="b-61c860f7fb5c4e1c95002df29b33bff1">
+<li id="b-c18a634859b2415f8daf1fbbfd9e8546"><span style="font-size:15px">文本内容仅为</span><span style="color:#FF4A47"><span style="font-size:15px">大于3个的</span></span><span style="font-size:15px">纯字母/纯数字/纯标点符号/纯特殊符号，且无实际意义</span></li>
+<li id="b-6a50987115944f758b7801c0b9a2fe52"><span style="font-size:15px">文本内容为</span><span style="color:#FF4A47"><span style="font-size:15px">大于3个的</span></span><span style="font-size:15px">上述四种形式（纯字母/纯数字/纯标点符号/纯特殊符号）的任意排列组合，且无实际意义</span></li>
+<li id="b-56a99c7e6d704dc186636cd6be9a35d7"><span style="color:#FF4A47"><span style="font-size:15px">文本内容为</span></span><span style="font-size:15px">大于3个的纯表情符号打击</span></li>
+<li id="b-1f5d301aec034986baa894eb565e4553"><span style="font-size:15px">无任何体验，整句都是看不懂的、无意义的内容。</span></li>
+<li id="b-fe66502d2ee5469b861fb5a7c5cbb0f0"><span style="color:#000"><span style="font-size:15px">乱打内容&gt;体验内容</span></span></li>
+<li id="b-a2bfe9be5da540869ae8ccd0c63df6e2"><span style="color:#FF4A47"><span style="font-size:15px"><del>用户回应，多模回应业务，打击≥4个无意义文字、数字、符号、英文字母和表情符号或者组合内容。</del></span></span></li>
+</ol>
+<p id="b-a4dd9455ad1146eebedc40f396e7eb2b"></p>
+<p id="b-fc91b1dd7b364e51bb0e2192621cc3f1"><span style="color:#FF4A47"><span style="font-size:15px"><strong>需注意：</strong></span></span></p>
+<ol id="b-f65669b4a94f4673bf1d2dce60a78300">
+<li id="b-1281ba4d537546b8877b1d8c5c386f00"><span style="color:#000"><span style="font-size:15px">用户昵称不用这条规则，用户个人昵称可以用数字加字母组合。</span></span></li>
+<li id="b-29e73315ebde4b028b09e60f5916cc2a">
+<p id="b-ca913d6a22df414a94bcd5a0d189372a"><span style="color:#000"><span style="font-size:15px"><strong>颜文字</strong></span></span><span style="color:#000"><span style="font-size:15px">需整体看，无需单独查标点符号个数</span></span></p>
+<details id="b-e1ac69ab37744d34bf2caf04a4994958">
+<summary><span style="color:#000"><span style="font-size:15px"><strong>颜文字（适用于定义2）</strong></span></span></summary>
+<div>
+<p id="b-1cf9f0277de245748f1eb977119a002b"><span style="color:#000"><span style="font-size:15px">颜文字列表可参考：‘win+；’中的表情符号面板</span></span></p>
+<p id="b-abf375ae9c744697a5d3cd46ec7720c0"><span style="color:#000"><span style="font-size:15px">以下仅列举部分组合形式</span></span></p>
+<table id="b-3403471f6aec4fc28b6cae24799139d6">
+<tr id="b-93f2b268fb604738893222ccdfa354fe">
+<th id="b-3aba54a512214b5c9645ec6acf77bfa9">
+<p id="b-db92595657b941f7b6a3d0a714989f49"><span style="color:#000"><span style="font-size:15px">分类</span></span></p>
+</th>
+<th id="b-75474edcb03042afb028846d9eb33a66">
+<p id="b-c44ebe81d2304e9381abfff6810072f2"><span style="color:#000"><span style="font-size:15px">举例</span></span></p>
+</th>
+<th id="b-c4307a32811d4355afb222cfb78beafc">
+<p id="b-cc57f9e7e4b946f09b28849117fe9923"><span style="color:#000"><span style="font-size:15px">举例</span></span></p>
+</th>
+<th id="b-39a9f209486c4690a35f7c5749111d6d">
+<p id="b-36dcfc398a6447ba93552550c8fbc461"><span style="color:#000"><span style="font-size:15px">举例</span></span></p>
+</th>
+</tr>
+<tr id="b-e318135ade494b3fbb4d52fd395cd5bb">
+<td id="b-c806d6ce426a458fba735c7c32088bfc">
+<p id="b-21031435d78146f580007ccdee9c3991"><span style="color:#000"><span style="font-size:15px">简易符号</span></span></p>
+</td>
+<td id="b-72c498d46c5f4098958603507161c2b8">
+<p id="b-f5b1b6f7cf604c78845c880de94b64cc"><span style="color:#000"><span style="font-size:15px">;_;</span></span></p>
+</td>
+<td id="b-e48a5aebe6244f8f97f8c43bb8ff8997">
+<p id="b-77406b145b77416abcc98dcd7d6aa8fe"><span style="color:#000"><span style="font-size:15px">:-)</span></span></p>
+</td>
+<td id="b-6b6552c5492049b6aceef8252faf5a49">
+<p id="b-b782ed8ba0ed48aebb730a35987a32a6"><span style="color:#000"><span style="font-size:15px">:-3</span></span></p>
+</td>
+</tr>
+<tr id="b-40a4c197a19c483b9877b669a7ca8547">
+<td id="b-9f35ceb27248479c9d9e4a167c0fa591">
+<p id="b-5268e9bc416e4d0d9c8bbd67226961c8"><span style="color:#000"><span style="font-size:15px">复杂符号</span></span></p>
+</td>
+<td id="b-28e886d8abe64d50886af872912a4982">
+<p id="b-4d3f49cad51a4dc48f88208a4220aab2"><span style="color:#000"><span style="font-size:15px">☆*: .｡. o(≧▽≦)o .｡.:*☆</span></span></p>
+</td>
+<td id="b-be45cd3701e84cb48812ecfa2614485c">
+<p id="b-310c4b8b0da84662a9864bc78e2b1c28"><span style="color:#000"><span style="font-size:15px">இ௰இ</span></span></p>
+</td>
+<td id="b-11b230785521472f8d4980f4e1ff4487">
+<p id="b-0ad604afc3574be8a1ba25fb7421bb48"><span style="color:#000"><span style="font-size:15px">\(@^0^@)/</span></span></p>
+</td>
+</tr>
+<tr id="b-98c0979f37544c0fbada09e87761c81e">
+<td id="b-fb62d3b42d344703a891a27da08ea09b">
+<p id="b-06759568db0e48f68c4354f95245fd34"><span style="color:#000"><span style="font-size:15px">符号+表情</span></span></p>
+</td>
+<td id="b-1ab3c7d21c3648918d9e8b23fbe10dd3">
+<p id="b-7a924b228f98443193a4788dd0913fef"><span style="color:#000"><span style="font-size:15px">（づ￣3￣）づ╭❤️～</span></span></p>
+</td>
+<td id="b-0a97709604304b26b1171e04115680b0">
+<p id="b-50932f34f5544c9bbd9ea5530ccfbcfb"><span style="color:#000"><span style="font-size:15px">(❤️´艸｀❤️)</span></span></p>
+</td>
+<td id="b-29273dbd59424b8ba1daf97f704be93f">
+<p id="b-0eb005ef2c9a4b0b9674e1db0815f970"><span style="color:#000"><span style="font-size:15px">(👉ﾟヮﾟ)👉</span></span></p>
+</td>
+</tr>
+<tr id="b-e7e92c3961de4449b8c2e16927180a65">
+<td id="b-31305d1c02e04f4b9b7da2c0339ac2bc">
+<p id="b-b8cf5ace1e444b5c84080f136033cf3a"><span style="color:#000"><span style="font-size:15px">符号+文字</span></span></p>
+</td>
+<td id="b-5188e9ff08a44765a4716f1c259aa9b1">
+<p id="b-c324c4258e8f41b69a396734caf62d2c"><span style="color:#000"><span style="font-size:15px">(｡･∀･)ﾉﾞ嗨</span></span></p>
+</td>
+<td id="b-832220d9d05644a69a09a8d61bd5fb27">
+<p id="b-8a8d3fa09f304ae1b6a2398a56e5b369"><span style="color:#000"><span style="font-size:15px">(o-ωｑ)).oO 困</span></span></p>
+</td>
+<td id="b-012592bbc34248acae978543cc9b800a">
+<p id="b-a77c441a44d7452db5961693f39ac4e0"><span style="color:#000"><span style="font-size:15px">嗯~ o(*￣▽￣*)o</span></span></p>
+</td>
+</tr>
+<tr id="b-c7581a3f4bf2404e9652891cdc6f2533">
+<td id="b-1876eb9f15ec4b8e841e1acc877c83d2">
+<p id="b-72c174ba51a04c23ba45decff1c543ea"><span style="color:#000"><span style="font-size:15px">符号+英文</span></span></p>
+</td>
+<td id="b-3bfdd4860fd447b59a7d9cea78995d4b">
+<p id="b-daa2a7ddd7554f03ae4857c1f5447dcf"><span style="color:#000"><span style="font-size:15px">&lt;(￣︶￣)↗[GO!]</span></span></p>
+</td>
+<td id="b-167f30b9cee24cd5a0c2dc4c342059af">
+<p id="b-cb6854fcd970491c983f55ee65ebdafb"><span style="color:#000"><span style="font-size:15px">○( ＾皿＾)っHiahiahia…</span></span></p>
+</td>
+<td id="b-c02cf9e9426d48c792b1ba518600a963">
+<p id="b-d01e47d256d24c07b1488f2112540681"><span style="color:#000"><span style="font-size:15px">(￣y▽￣)╭ Ohohoho.....</span></span></p>
+</td>
+</tr>
+</table>
+<p id="b-0ad9ad203e274656a2287e9d4c62c366"></p>
+</div>
+</details>
+</li>
+<li id="b-43cd73fe683d47359a0e6910fc4112eb"><span style="color:#000"><span style="font-size:15px">“好”、“好的”、“行”等字词+乱打内容，不属于体验内容。</span></span></li>
+</ol>
+<p id="b-21bf9c22d07d4cb1b84a0aa24fd6b30e"></p>
+<p id="b-9cbde2ba9ad149d2871760a63d339a37"><span style="color:#00BA73"><span style="font-size:15px"><strong>豁免</strong></span></span></p>
+<ol id="b-bed0fbe55b564285942696e9be424f80">
+<li id="b-7a9386ddbd17433cb8be1d07ca44cae9"><span style="font-size:15px">外语&amp;方言，翻译后为有意义内容</span></li>
+<li id="b-4919bffe9fce49398d8afdbe8f4fb7db"><span style="color:#000"><span style="font-size:15px">出现各种代码乱码的情况，先豁免</span></span></li>
+<li id="b-8fe5838ee449440885235b0db82cf7bb">
+<p id="b-0d8754ea045f458c8d2bde9b54dedf50"><span style="font-size:15px"><strong>回复贴有意义</strong></span><span style="font-size:15px">、纯表情组合无需打击</span></p>
+<details id="b-eaadb8af36864e729c95de7f10a80b04">
+<summary><span style="font-size:15px"><strong>回复贴有意义（适用于定义3）</strong></span></summary>
+<div>
+<ol id="b-1b74f9e4358b4a6ab9c6e6c6128524b0">
+<li id="b-48f53c807a2243acaaaed868435e77f0"><span style="font-size:15px">有意义的数字：1111（收到/同意），2333（笑），5555（哭），6666（表示赞同）</span></li>
+<li id="b-73b2d3d4089f4637bc559538724ee008"><span style="font-size:15px">不限字数的‘哈’、“啊”（啊啊啊啊；哈哈哈哈哈）；以及表情符号+不限字数的‘哈’、“啊”</span></li>
+<li id="b-1b0503de12274fa7b589c3141bffeb0e"><span style="font-size:15px">与主贴有交互内容</span></li>
+<li id="b-30765ad6e1f24aedae44754d36a21d23">不限个数的“？”“！”“？！”“......”，表达疑问、震惊、无语等情绪</li>
+<li id="b-b11ab174741d4038a631ab7a19275da3"><span style="font-size:15px">回复贴中包含任何与业务体验、主贴内容相关的图片</span>（文案无意义，图片有信息量也可通过）</li>
+</ol>
+</div>
+</details>
+</li>
+<li id="b-7ca19a1786fc4126a09b21a7162a096d">
+<p id="b-e9ff0ce1ccd845fca35e47c01c3407b6"><span style="font-size:15px">以0-9开头的</span><span style="font-size:15px"><strong>日期</strong></span><span style="font-size:15px">、时间</span></p>
+<details id="b-889e194dae964695b9b42e2308355946">
+<summary><span style="font-size:15px"><strong>日期示例（适用于定义4）</strong></span></summary>
+<div>
+<p id="b-8562d3a3a09043acaf93d475988d8e0f"><span style="font-size:15px">年月日：2025-12-01、20251201、2025.12.01、2025/12/01、</span></p>
+<p id="b-426c27e76e9b49679f631f0e38e114ad"><span style="font-size:15px">日月年：01/12/2025</span></p>
+<p id="b-c096f27e88024a409ad5402d2100963b"><span style="font-size:15px">月日年：12/01/2025</span></p>
+<p id="b-62e7fc30004c4161a9ed6ce5e3927dd8"><span style="font-size:15px">月日时间：12.01 13：20</span></p>
+</div>
+</details>
+</li>
+<li id="b-e734bd296578424a996a20df91356f53">“啊”“哈”作为语气词，重复的“？”“！”“？！”“......”，出现在体验内容后，通过重复来加强语气时，不属于乱打/无意义内容</li>
+<li id="b-33c8c0a37fbf448b88a3a5efb284d149"><span style="color:#FF4A47">【交互类信息,问题/回答】类内容只进审回答部分，审核页面只有简短的答复文字，不属于无意义内容，可正常通过。</span></li>
+</ol>
+</td>
+<td rowspan="3" id="b-d30cc574964b4b3bb7b36b26df839d46">
+<ol id="b-3d760df879b84ffba23ce0421eacc373">
+<li id="b-4ba29c9c56054872ab83362ded74ef0d">
+<p id="b-b72fa8a9b44e4090b39609461753241d"><span style="font-size:15px">纯字母/纯数字/纯标点符号/纯特殊符号：</span></p>
+<details id="b-d7aa7397379f491993c590b05f31ca1e">
+<summary>案例</summary>
+<div>
+<ul id="b-8fc4a36d49d44e2dbd8292efb2e02abe">
+<li id="b-d76d128c0a634aa7af078e40831340af"><span style="color: "><span style="font-size:15px">。。。。</span></span></li>
+<li id="b-fa5e7640b2b948bfacc74169ac14b903"><span style="color: "><span style="font-size:15px">。。。。。。。。。。。。。</span></span></li>
+<li id="b-7cac98929bb046cba46feeaaa601b4ad"><span style="color: "><span style="font-size:15px">289，666，333，999</span></span></li>
+<li id="b-080d02f7549744c3ab24c3eb75f80050"><span style="color: "><span style="font-size:15px">18372927482926489</span></span></li>
+</ul>
+</div>
+</details>
+</li>
+<li id="b-d92c8a12bb4c4431a7beec8a31eaad58">
+<p id="b-814a611235c44b64974fcb2649090ece"><span style="font-size:15px">纯字母/纯特殊符号或文字的任意排列组合，且无实际意义</span></p>
+<details id="b-5e4aa478be4749cb9ec891c93db48a71">
+<summary>案例</summary>
+<div>
+<ul id="b-e8250dca9345417a86195975f448a70b">
+<li id="b-e3b3705823f94ee7bbae07c6c58ff51a"><span style="color: "><span style="font-size:15px">JQK161，fzmhyy1314佳</span></span></li>
+<li id="b-51cd03f000594cdfb791e9850c01ba42"><span style="color: "><span style="font-size:15px">1.5.8.6.2.4.1😄3.5.4.5</span></span></li>
+<li id="b-c45f46a184304c41b6921cc0bd25d4db"><span style="color: "><span style="font-size:15px">132***4245+++8849</span></span></li>
+<li id="b-61adf3051a134e06ae4c10beee207b0a"><span style="color: "><span style="font-size:15px">^quCYkpfnQq^eyJwMSI6IjEwMjM5MDh6IiwicDIiOiIiLCJwMyI6IjEwMjM5MD</span></span></li>
+</ul>
+</div>
+</details>
+</li>
+<li id="b-a275e3f04a1d4fb3bae17c9df974380e">
+<p id="b-7f4b0b23342d41d6899f21dca4b9b46c"><span style="font-size:15px">无任何体验，整句都是看不懂的、无意义的内容</span></p>
+<details id="b-9c42410cd2294bb49f02216cea100903">
+<summary>案例</summary>
+<div>
+<ul id="b-526314b2b3724e73b48be8bcea64ae26">
+<li id="b-2aaebc3016304edba8eea9522b7531d0"><span style="color: "><span style="font-size:15px">一叁柒贰零叁肆</span></span></li>
+<li id="b-1ba9ed8a603f47a4b516ee83d6544b08"><span style="color: "><span style="font-size:15px">好的时候了吗？开户磨砂来啊路HIIT咯恩济葫无聊了</span></span></li>
+<li id="b-fbdca4c65d224b7782c27f3a3c3e14f9"><span style="color: "><span style="font-size:15px">嗯嗯嗯嗯嗯嗯嗯嗯嗯嗯嗯嗯#7元小菜拼盘#</span></span></li>
+<li id="b-403813dec25c476a9df16ebfbfbea6cf"><span style="color: "><span style="font-size:15px">脆皮鸡饭套餐#大家都叫解放军队觉得基督教京东快递基督教</span></span></li>
+<li id="b-841bf9f891294aa1ae78970c6cb62d72"><span style="color: "><span style="font-size:15px">[调皮][调皮][调皮][调皮][调皮]啊啊啊啊啊</span></span></li>
+</ul>
+</div>
+</details>
+</li>
+<li id="b-eec7761f066e413db9f0a76f7328387d">
+<p id="b-98eebb5f98534e6ca365ebca88932bfc"><span style="color:#000"><span style="font-size:15px">乱打内容&gt;体验内容</span></span></p>
+<details id="b-bb0b40740677428684f45d3246daa01b">
+<summary>案例</summary>
+<div>
+<ul id="b-69d00f49a0b24575bd652a70c610bdbe">
+<li id="b-92b7110c44fa484d8201ce4aef029919"><span style="color: "><span style="font-size:15px">好红红火火恍恍惚惚哈哈哈哈哈</span></span></li>
+<li id="b-d6807c7293a44c2380fb440adbec84d8">好吃，1122+w334421</li>
+</ul>
+</div>
+</details>
+</li>
+</ol>
+</td>
+<td rowspan="3" id="b-4d35e92242ef4c12a5dc013511bd80c1" style="vertical-align:middle">
+<p id="b-082545836af24288abde943b5903b927"><img src="https://km.sankuai.com/api/file/cdn/1627767469/236659396014?&amp;isNewContent=false&amp;contentType=1" width="479" height="101" id="b-5df0dd23ce414adeaae632935644a553" alt="原文图片（需学城权限）"></p>
+</td>
+<td rowspan="3" id="b-778e964e042145559cb3e30fb20a2c73">
+<ol id="b-1a4cfb6394e54e67a7c2c8d940ffa7bb">
+<li id="b-dc6b03362c2f4c3a943d96c651436638">
+<p id="b-ce118d0823d948b1bd2914652e7bcfd3"><span style="font-size:15px">正常文字+数字组合</span></p>
+<details id="b-9dda5344de014fb6b76fbf0a30f4e10b">
+<summary>案例</summary>
+<div>
+<ul id="b-5928956ac44444e99c53e6ec5e2629f9">
+<li id="b-db7d0277d9c24485b9e984fdce1c86b4"><span style="font-size:15px">价格289</span></li>
+<li id="b-17d30e35c26342ffad079759fc33a599"><span style="font-size:15px">太666了</span></li>
+<li id="b-3abfc798859143bba142ce2ea6533ff7"><span style="font-size:15px">38每公斤</span></li>
+</ul>
+</div>
+</details>
+</li>
+<li id="b-61b42bea545f40b49abf5fe73fca90ec">
+<p id="b-ffff07bb74ac44349183a83feea6c41b">回复贴有意义纯字母</p>
+<details id="b-913dc52eb10b437ead2026f319979a6d">
+<summary>案例</summary>
+<div>
+<p id="b-74c0db9a205d4cf080ac0edbae5ae7ba">原帖：一个人去A套餐划算还是B套餐</p>
+<p id="b-3e1bf01a7e934a2c897e54dfb254db88">回复贴：a</p>
+</div>
+</details>
+</li>
+<li id="b-71989705d51b42d297d3615f613c3657">
+<p id="b-7da73dd0d1284731a44ecb705cf995f2">相关话题+体验评价</p>
+<details id="b-da289e99bfce4a68abce7451113b98a4">
+<summary>案例</summary>
+<div>
+<p id="b-6dbc06032c3b490d887f71ad2a37e6c4"><span style="font-size:15px">把把骚鸭心（30串）# #把把骚鸭心（30串）# #把把骚鸭心（30串）#</span><span style="font-size:15px"><strong>很好吃</strong></span></p>
+</div>
+</details>
+</li>
+<li id="b-a8b1bd79ad2e49658dc926f2720f4a33">
+<p id="b-7cb752bf087f41da814abee891edf66a"><span style="font-size:15px">外语&amp;方言，翻译后为有意义内容</span></p>
+<details id="b-a111fb6d14f54f11b650f9da7a02d80c">
+<summary>案例</summary>
+<div>
+<ul id="b-95a6ebcd0275434ebc3c93c829a1e063">
+<li id="b-b156946a8bcf4122b3a31eea0745ea55"><span style="font-size:15px">点评内容：地址市二宫地铁站上边就係喇交通其实都几方便嘅但係呢间商场个卖场唔係好大架咋佢好细，而且佢裏边呢主要哩都係买啲海鲜啊同埋嗰啲其他嗰啲熟食呢佢而家都有啲但係唔係话好多蔬果吖水果之类但係又早瞓呢就好少啦同埋啲酸奶呢佢啲品种呢唔係咁，超级多，有啲可惜嘅就係要扮佢哋个会员呢係要畀钱先至有架，希望下次佢哋啲会员呢可以免费唔使畀钱就可以做到佢哋会员噉就好喇。</span></li>
+</ul>
+<p id="b-47091592034a4b0bbad1ef0b2fa0da2f"><span style="font-size:15px">喜欢的菜：香满楼酸奶纤维</span></p>
+<hr id="b-f265f090fabc40229967e039f74b1e03">
+<ul id="b-4db3f2330a814e4a8a5babaa3f4b3e51">
+<li id="b-6e4faf85140b438e874c809b22f6c925"><span style="font-size:15px">في المرة الأولى التي كنت تأكل هذا  ، قليلا مكلفة ولكن ضخمة لذيذالكورية التعليق قبل مثيرة جدا للاهتمام  ، تريد التعليق على اللعب فقط لم أفكر حتى لذيذ هههه</span></li>
+</ul>
+<p id="b-69099031462644afa744a9cfa3bc7fa1"><span style="font-size:15px">翻译后：我第一次吃这个，有点贵，但巨大的美味的朝鲜的评论之前，很有趣，你想玩的评论只是没有想到这么美味的哈哈</span></p>
+<hr id="b-669f10aa6cc0460b8f6a6b60add19e6c">
+<ul id="b-2f81c3de5a04408a95c71c6696b59672">
+<li id="b-5f812ffd788f4b998b455839705d338e"><span style="font-size:15px">Ämnet som kommer naturligt, följer med dess naturliga trend, åtföljer lämpligt, naturligt kärlekstal naturligt.När du ser något som du gillar, tänker du på att köpa det åt dig och när du träffar något intressant, tänker du på att dela det med dig.Jag ringer när som helst när jag saknar dig, och när jag är tröt t säger jag att jag inte behöver stanna hos dig hela tiden.</span></li>
+</ul>
+<p id="b-3786ed5aacfe43bf917ea26c8368f9b0"><span style="font-size:15px">翻译后：当你看到你喜欢的东西，你会想买给自己，当你遇到有趣的事情，你会想和你分享。我想你的时候会给你打电话，当我累了，我说我不必一直和你在一起。</span></p>
+<ul id="b-6df39061c3574937bb47c114845964e9">
+<li id="b-f1a447f3d4f84623a2ce7ca517bc2f89">
+<p id="b-85164863f853478cb7acd16bd8de29c8"><span style="font-size:15px">Have a fling with a friend</span></p>
+<p id="b-1bc5e48066054b9ca359732e1b48e880"><span style="font-size:15px">翻译后：</span>与一个朋友有一段短暂恋情</p>
+</li>
+</ul>
+</div>
+</details>
+</li>
+<li id="b-11a7aeb2ccb9478ebf7aed34a91c0ec5">
+<p id="b-be10fdffc6a84fe5bac6edd131664116"><span style="color:#000"><span style="font-size:15px">代码乱码</span></span></p>
+<details id="b-dfdd6b16908f40d8810994c398e861a7">
+<summary>案例</summary>
+<div>
+<p id="b-192da236c525463f9717eed3ec2a2693"><img src="https://km.sankuai.com/api/file/cdn/1627767469/254171256162?&amp;contentType=1&amp;isNewContent=false" width="179" height="78" id="b-94544e3c353f467abc144f257fd6ce62" alt="原文图片（需学城权限）"></p>
+<p id="b-95fbfa2cd0974c349000c2587347c307"><img src="https://km.sankuai.com/api/file/cdn/1627767469/254170490873?&amp;contentType=1&amp;isNewContent=false" width="239" height="85" id="b-d61f9a39c34b45ee93ab3cf4cd1ac5ea" alt="原文图片（需学城权限）"></p>
+</div>
+</details>
+</li>
+<li id="b-4c00b10e20594ad1aec2d48a4373f729">
+<p id="b-7cea8005aed5479e9322d5c5d15118d9">“啊”、“哈”作为语气词，重复的“？”重复出现在句尾来加强语气</p>
+<details id="b-6caff91bce2b40cba830754a32c3542c">
+<summary>案例</summary>
+<div>
+<ul id="b-9c0c2d2af25b4ae392f688c49c3916ee">
+<li id="b-989177145f1d46ac92c5e8367a9faab0">怎么还不开门啊啊啊啊啊啊啊</li>
+</ul>
+<ul id="b-8d613a81555f4dcb86251e25dd428e9b">
+<li id="b-b676290a83f942ceb4c6a6244ea371d5">笑不活了哈哈哈哈哈哈</li>
+<li id="b-d32dfbe17b4c4ecaacf92dff6306b3b2">这么离谱？？？？？</li>
+</ul>
+</div>
+</details>
+</li>
+<li id="b-91d8dcbe31cf4346b23ecc07057a8560">
+<p id="b-9a514b761c254c268f33be823fcba2cc">回复贴中不限字数的“啊”及重复的“？”“！”“？！”</p>
+<details id="b-ceb334df74814a4682696e6653215f9c">
+<summary>案例</summary>
+<div>
+<ol id="b-330a81389fa84513869bed5937c225d2">
+<li id="b-af00f37ec6cb48b8a0631b0004ecaa50">
+<p id="b-5f16b5b9568840c59addc6e62cf3a423">回复贴中重复的“啊”表示兴奋、激动的含义</p>
+<p id="b-ca6f7bce4be24ec5870b23fd73e4656a"><img src="https://km.sankuai.com/api/file/cdn/1627767469/256289338809?contentType=1&amp;isNewContent=false" width="358" height="179" id="b-b9ff28caa1f64c33a1dfacf73ea02132" alt="原文图片（需学城权限）"></p>
+</li>
+<li id="b-23f58299e5ca4ce09afacf3440aac914">
+<p id="b-b5ac6d78a91b43b99c8e05e35faf26c5">回复贴中用重复的“？”表示疑惑</p>
+<p id="b-7a6870dfa2eb4a45b25a45ad159f42ff"><img src="https://km.sankuai.com/api/file/cdn/1627767469/256289224113?contentType=1&amp;isNewContent=false" width="457" height="251" id="b-56aa100b13304a0a88b685f24261dccc" alt="原文图片（需学城权限）"></p>
+</li>
+</ol>
+</div>
+</details>
+</li>
+<li id="b-ef5688a4c3eb4d4a84945550a8ec76b8">
+<p id="b-90ae2e5fed5c45dd9dae72587ea4c4dd">【交互类信息,问题/回答】类内容只有如：“好的”“嗯”“可以”等简单回答文字：</p>
+<details id="b-848243e2074148969f68b373368fa961">
+<summary>案例</summary>
+<div>
+<p id="b-1da2dda6d61849f9934a72d138e5997b"><img src="https://km.sankuai.com/api/file/cdn/1627767469/263651108566?contentType=1&amp;isNewContent=false" width="1753" height="496" id="b-6b52be9edcb6405cb65c0617b4277d0c" alt="原文图片（需学城权限）"></p>
+</div>
+</details>
+</li>
+<li id="b-3f13b3b5bc614d3984d28f488ccaa719">
+<p id="b-72aad49b68b44dffb5fdec4719de4774"><span style="font-size:15px">回复贴中包含任何与业务体验、主贴内容相关的图片</span></p>
+<details id="b-8959cf44dd904b7885c23728217a31f8">
+<summary>案例</summary>
+<div>
+<ul id="b-ed82aecf735648c7ba8fffe69d95884e">
+<li id="b-af5328b33340427e91859f877a63798c">
+<p id="b-1619b17a10d944d0871add46da782ad1">餐饮评论下回复就餐环境相关的照片</p>
+<p id="b-f936577984ff4a4ebe8b43b437b44915"><img src="https://km.sankuai.com/api/file/cdn/1627767469/256287958587?contentType=1&amp;isNewContent=false" width="452" height="258" id="b-513723b6c201479eaa198a7904dd2f2c" alt="原文图片（需学城权限）"></p>
+</li>
+</ul>
+</div>
+</details>
+</li>
+</ol>
+</td>
+</tr>
+<tr id="b-6a7e3786b81b43f1904f99d2a4b2c239">
+<td id="b-36b793e6757e4120bbdd259c9ee0e1b3">
+<p id="b-1e4960c1264d4322ad8048022d842909"></p>
+</td>
+</tr>
+<tr id="b-06c8904e814c4f0bab6dd519322bb2c9">
+<td id="b-b13b0837e83e4d079a3176b9a8afc156">
+<p id="b-eddb13b4d1c74e978bad0010e118cc1e"></p>
+</td>
+</tr>
+<tr id="b-8122b70d2fab4da2b6b47750c0a30e0f">
+<td id="b-17adce6336824aaebbd87008e2c4cb68">
+<p id="b-875dc3c371734c52893abef9dd1079c2"></p>
+</td>
+<td id="b-2ecb4cbd3f734b779a1eb8e15fbed3ca">
+<p id="b-43d82d6125a74aa1afde57c231faaaaa"></p>
+</td>
+<td id="b-aba51e31cf1f42deaa55310d7252526e">
+<h3 id="b-a39931d6e03e42219c3b3375b0418ac9">无法识别语言</h3>
+</td>
+<td id="b-fa8487fcae564b31a09fe48edc70ac9a">
+<p id="b-74e67e9ef8d94e899ce31a1cefe82a08"></p>
+</td>
+<td id="b-1287658b60f04e4d81fecb9f17e9bffa">
+<p id="b-32b4606ef4534408b35daa6079973b55"></p>
+</td>
+<td id="b-3c0c44dc84ff444489af4b0b50d7a9b6">
+<p id="b-29da4b5678da469e9c5c1b570bec885a"></p>
+</td>
+<td id="b-7a1e9e2ea0644c8595e5b866f2fc2481">
+<p id="b-4a9fc400a7aa4a5d82a5e5a196062ae1"></p>
+</td>
+<td id="b-0ed8e4dd40a941968efb9c7c283ac13f">
+<p id="b-31c13ee62aa44c68b8abc172154efdb6"></p>
+</td>
+<td id="b-a4a4a8d1f82243b68323169fce8f3619">
+<p id="b-20882c13574740949a2d37ce8a54332b"></p>
+</td>
+<td id="b-d637171b117e42aeaae3fb6710c76b7a">
+<p id="b-a33859a69008467bbbb0be495233f6a6"></p>
+</td>
+<td id="b-b988a743440b4388bcb0ac3017ab0897">
+<p id="b-d6c513ca6ff248beb94585a169772427"><span style="color:#FF4A47"><span style="font-size:15px"><strong>打标</strong></span></span></p>
+<p id="b-c307c6b626a7485296979ff6e1b503bd"><span style="font-size:15px">【音】</span></p>
+<ol id="b-56b78b15be1640519cf5953fd73f80c3">
+<li id="b-6e811a7defc34f29a41fcf7ab4d3de38">
+<p id="b-0fd80f06ccd74e908162072fdca45c13"><span style="font-size:15px">非普通话见删</span></p>
+<p id="b-03e0938c85a64ad482247556a49b3cf3"><span style="font-size:15px">非普</span><span style="font-size:15px"><blockquote>通话范畴：除上述外其他方言、少数民族语言、外文。</blockquote></span></p>
+</li>
+<li id="b-22c76f4ad0dd4e1ebae8795df00b6648">
+<p id="b-5ace5c636e94445ca10f924bbc6be60d"><span style="font-size:15px"><blockquote>普通话无违规，正常通过；若违规，按照听懂后的内容打标对应违规点标签。</blockquote></span></p>
+<p id="b-df4c9e87877b40f8a550a00971dd72d6"><span style="font-size:15px"><blockquote>普通话范畴：仅普通话、北京话、河北话、东北话。</blockquote></span></p>
+<details id="b-bef8abe54ce140b5975dc56c121bb398">
+<summary><span style="color:#000"><span style="font-size:15px"><blockquote>南方话黑词词表</blockquote></span></span></summary>
+<div>
+<table id="b-566356c0389e40b0914d8b37029e826f">
+<tr id="b-40608305e19c49aca3081acbb5d0e910">
+<th id="b-d95f7da128f94ea6891f387947fa405b" style="vertical-align:middle">
+<h2 id="b-e98533228d4e4c74bb4e72334bbea2d2" style="text-align:center"><blockquote>黑词</blockquote></h2>
+</th>
+<th id="b-e3bbb0ff97a6456eacbe0075cee5ef11" style="vertical-align:middle">
+<h2 id="b-2b0552fbd7dc466a84a9c6cb5751046e" style="text-align:center"><blockquote>含义</blockquote></h2>
+</th>
+</tr>
+<tr id="b-19104d739bda4131b1dd5871d3ae5c90">
+<td id="b-7989d0a97ec545f09bf974602634a15b" style="vertical-align:middle">
+<p id="b-73f8472da47f443d8a9380374f3c4cd2" style="text-align:center"><span style="font-size:15px"><blockquote>碌葛‌、茂利、成碌葛、痴线/黐线、人头猪脑</blockquote></span></p>
+</td>
+<td id="b-10147c10cd4648acbb61b6ebe8ab05f7" style="vertical-align:middle">
+<p id="b-000079357f3a4709a702a9ea5bd5df35" style="text-align:center"><span style="font-size:15px"><blockquote>呆笨</blockquote></span></p>
+</td>
+</tr>
+<tr id="b-eaec554c2ad24fc7812adf757615a12c">
+<td id="b-5fc0fa65dddb46828073e2684990b032" style="vertical-align:middle">
+<p id="b-7c4b3c6ede514a60ba216d0e21af8390" style="text-align:center"><span style="font-size:15px"><blockquote>茂利</blockquote></span></p>
+</td>
+<td id="b-f791a85ae39641f3ba676f2f3949e23e" style="vertical-align:middle">
+<p id="b-d2f961b5560b4085a354b1b78643658d" style="text-align:center"><span style="font-size:15px"><blockquote>愚钝‌</blockquote></span></p>
+</td>
+</tr>
+<tr id="b-a3155d51046f4a83b34016cc93a010fb">
+<td id="b-bc3ccc8c339842398133ff72ca5c047d">
+<p id="b-c9ee6bc95a454e5e87c5dca5fbd646ff" style="text-align:center"><span style="font-size:15px"><blockquote>‌四六货</blockquote></span></p>
+</td>
+<td id="b-a0ce019099ef45e3a69b5a2db36a80ae">
+<p id="b-af2a4a8c757e4f1cb2c29b8d846ee7d5" style="text-align:center"><span style="font-size:15px"><blockquote>愚蠢、荒唐</blockquote></span></p>
+</td>
+</tr>
+<tr id="b-819d0b62d6b642af9d05ee2ee2c2e11d">
+<td id="b-9b645579a4e94a70904e6d417b511465" style="vertical-align:middle">
+<p id="b-14a2277b4ee140dd9274c7f68e717624" style="text-align:center"><span style="font-size:15px"><blockquote>密柴头</blockquote></span></p>
+</td>
+<td id="b-7ac33e21c42b41e9972cb0413564dfdb" style="vertical-align:middle">
+<p id="b-69e44ac5aac44f229c8d9dffb8352890" style="text-align:center"><span style="font-size:15px"><blockquote>废物</blockquote></span></p>
+</td>
+</tr>
+<tr id="b-6b5c04d03176412b8f9b6de93e090806">
+<td id="b-d92e65fd95d74a5581091048a793ca2d" style="vertical-align:middle">
+<p id="b-4ee952d52f734eecb48cbca245a7ef98" style="text-align:center"><span style="font-size:15px"><blockquote>出贼里</blockquote></span></p>
+</td>
+<td id="b-6ee26cb521664704a3bdb8fc0aac7dfa" style="vertical-align:middle">
+<p id="b-bf0015a12a134d259cab2a6771708aae" style="text-align:center"><span style="font-size:15px"><blockquote>怪胎</blockquote></span></p>
+</td>
+</tr>
+<tr id="b-dcfa71fc04394bf680384c54a37834c9">
+<td id="b-b499d6091653477788410a39e6c047f0" style="vertical-align:middle">
+<p id="b-315f4be12de44516a4036a8d991ab921" style="text-align:center"><span style="font-size:15px"><blockquote>养哀家</blockquote></span></p>
+</td>
+<td id="b-b641ee1ee4024478bed5b2bcf57506b1" style="vertical-align:middle">
+<p id="b-1a37ab69133e4e90bb4a121dcda07dda" style="text-align:center"><span style="font-size:15px"><blockquote>丢脸</blockquote></span></p>
+</td>
+</tr>
+<tr id="b-9db620827cc04e3385cd1b297344feda">
+<td id="b-ab53c40f09c24ed4be508da76613c43f" style="vertical-align:middle">
+<p id="b-01b359371d884232a76f970393aab37d" style="text-align:center"><span style="font-size:15px"><blockquote>鳄鳄倒</blockquote></span></p>
+</td>
+<td id="b-03a4ee494b2045238330e481a8238251" style="vertical-align:middle">
+<p id="b-d9b3c4d3b1924508892cf9ddc6f2b0d6" style="text-align:center"><span style="font-size:15px"><blockquote>糊涂</blockquote></span></p>
+</td>
+</tr>
+<tr id="b-cf23b02130744f3fae1d41c3ab424f1d">
+<td id="b-fc66dde337844c1eae74f2d9419ad134">
+<p id="b-b2652e6109c94b9da53392dd378b1376" style="text-align:center"><span style="font-size:15px"><blockquote>叼惹咩</blockquote></span></p>
+</td>
+<td id="b-e924f37348d245b786b4b4a2ba00c2fd">
+<p id="b-c548f40b16c2453c8cdb5b6f4ea52c4f" style="text-align:center"><span style="font-size:15px"><blockquote>混账</blockquote></span></p>
+</td>
+</tr>
+<tr id="b-9a54d0151a194333a1a1b48d47ea6711">
+<td id="b-0b1944ca86774dbd9a2545609e92fb2d" style="vertical-align:middle">
+<p id="b-23d3d19f485a49e5abe98a928e4ff4ee" style="text-align:center"><span style="font-size:15px"><blockquote>糙岗鬼</blockquote></span></p>
+</td>
+<td id="b-84932a2b0d5e4ec7b810cf7cf54737d6" style="vertical-align:middle">
+<p id="b-6ace3066cce9434295ca1fd756e68eb3" style="text-align:center"><span style="font-size:15px"><blockquote>多动</blockquote></span></p>
+</td>
+</tr>
+<tr id="b-244dc1b1180a422d90bf0221d8a21910">
+<td id="b-aa55f945c7df463c9f925927d0879ad0" style="vertical-align:middle">
+<p id="b-2f0e66aea7ad40ad9498d490a8ebebbf" style="text-align:center"><span style="font-size:15px"><blockquote>猴头鼠目</blockquote></span></p>
+</td>
+<td id="b-a014454744134e7e8c968aa1a091efbd" style="vertical-align:middle">
+<p id="b-9f7ce6f5e5a94f6ea4648c3734b03a6d" style="text-align:center"><span style="font-size:15px"><blockquote>丑陋</blockquote></span></p>
+</td>
+</tr>
+<tr id="b-c1ae42a895d24e968df4a07e714170e0">
+<td id="b-5d11655fe9af45c4b63e909c260ccf0b" style="vertical-align:middle">
+<p id="b-a711639e62db46eaaaf7750de1ab7973" style="text-align:center"><span style="font-size:15px"><blockquote>臭头鸡仔</blockquote></span></p>
+</td>
+<td id="b-c2f6184fe3e44c36b79bcdbbbb7f17f6" style="vertical-align:middle">
+<p id="b-432951af88c74320822edf523e60d94c" style="text-align:center"><span style="font-size:15px"><blockquote>惹人厌</blockquote></span></p>
+</td>
+</tr>
+<tr id="b-dafda63b82b34b648f2b6ada1f66eff3">
+<td id="b-d25aceebe19041009ce69ac0c1e8f914">
+<p id="b-6170b60f5764495f8f805011e8afd6b6" style="text-align:center"><span style="font-size:15px"><blockquote>颠头鸡、温婆、温佬、颠婆</blockquote></span></p>
+</td>
+<td id="b-5beadc51f898443daab67ee356de8a9b">
+<p id="b-d3d0e142457c4805b07b804bead7b25a" style="text-align:center"><span style="font-size:15px"><blockquote>疯子</blockquote></span></p>
+</td>
+</tr>
+<tr id="b-0c2141de4f5b4a91acfe9885aa166e4d">
+<td id="b-d1413e15fd25472da1f16d96f6daf3ec" style="vertical-align:middle">
+<p id="b-ad39449650e64725816ee42800551626" style="text-align:center"><span style="font-size:15px"><blockquote>赛林木、丢你母、甘霖老母</blockquote></span></p>
+</td>
+<td id="b-afdf8d69706f4b38b77f479f94d94a9b" style="vertical-align:middle">
+<p id="b-b215784f918d4fabb5294e09196aab64" style="text-align:center"><span style="font-size:15px"><blockquote>操你妈</blockquote></span></p>
+</td>
+</tr>
+<tr id="b-87883aeaa98f4a4fb2f66037f0f8a6b5">
+<td id="b-d6c3bd30c0ff4b12bef44fbcdf46a47f" style="vertical-align:middle">
+<p id="b-d0bba05802d04472b4404cc1f8065cbf" style="text-align:center"><span style="font-size:15px"><blockquote>亥（hai）</blockquote></span></p>
+</td>
+<td id="b-131492e72124442c91c4301d0b77110f" style="vertical-align:middle">
+<p id="b-8620373d559a407a9ebeb021a7508241" style="text-align:center"><span style="font-size:15px"><blockquote>逼</blockquote></span></p>
+</td>
+</tr>
+<tr id="b-32d8dfb9b060483ba3da4023c7c712c3">
+<td id="b-e91d6d379653430e9bad8018faf50f0d" style="vertical-align:middle">
+<p id="b-9cd5621838f44a388b24ec8c274da288" style="text-align:center"><span style="font-size:15px"><blockquote>三八</blockquote></span></p>
+</td>
+<td id="b-1fa075259ff642d5af25bddd16a80b8a" style="vertical-align:middle">
+<p id="b-1c957d34ecce447c953ec07bca2fb8bc" style="text-align:center"><span style="font-size:15px"><blockquote>二百五</blockquote></span></p>
+</td>
+</tr>
+<tr id="b-c0d9589b8f8a4306bcf46f3c5c384109">
+<td id="b-96c12d569b594aa9aa52b1bb4f840984">
+<p id="b-281ec588427d49369fea8684c2922312" style="text-align:center"><span style="font-size:15px"><blockquote>老举嫲</blockquote></span></p>
+</td>
+<td id="b-7a1dd8117e054be2a2d0917e76c407bc">
+<p id="b-03876a2b221146f0ad06187d28e466fe" style="text-align:center"><span style="font-size:15px"><blockquote>娼妓、婊子</blockquote></span></p>
+</td>
+</tr>
+<tr id="b-fa521fb48b2644c6bbdc41713f9e05ef">
+<td id="b-69d0d39b247343a18220217885b894d8" style="vertical-align:middle">
+<p id="b-6cf1cc058f444acb850b6c85af9c7dc0" style="text-align:center"><span style="font-size:15px"><blockquote>鲈鳗</blockquote></span></p>
+</td>
+<td id="b-43cdcfcd9c714bbc8ca7c0ae43ede993" style="vertical-align:middle">
+<p id="b-1503ec617bdb41378e6e9258f2b1b663" style="text-align:center"><span style="font-size:15px"><blockquote>流氓</blockquote></span></p>
+</td>
+</tr>
+<tr id="b-2d7251a71ffc49eb9f283074031534fb">
+<td id="b-fd244aa19d4a4ff797e33cf40768312f" style="vertical-align:middle">
+<p id="b-2d1947c8e8cd44cc82fc07898f16ae3b" style="text-align:center"><span style="font-size:15px"><blockquote>冚家铲</blockquote></span></p>
+</td>
+<td id="b-f379979446b6439ab998e0aaafb6cb63" style="vertical-align:middle">
+<p id="b-eb34ab285d8b437d84b823f1fc1fe84a" style="text-align:center"><span style="font-size:15px"><blockquote>死全家</blockquote></span></p>
+</td>
+</tr>
+<tr id="b-a576e712dbe346dc97767c00cd8f7bb1">
+<td id="b-b7a17a2c47fd43deb02d6371485661ff" style="vertical-align:middle">
+<p id="b-dfc43b18248a4985bacb4a7ac5c3f092" style="text-align:center"><span style="font-size:15px"><blockquote>仆街、‌死仆街</blockquote></span></p>
+</td>
+<td id="b-b5a3f5e812cd44f1b4525fbe74500a6a" style="vertical-align:middle">
+<p id="b-1971521e35484e01b3b1d27e9484aeb3" style="text-align:center"><span style="font-size:15px"><blockquote>惨了、死定了</blockquote></span></p>
+</td>
+</tr>
+<tr id="b-2c30d788c7d7437480b5416afa20bf52">
+<td id="b-a41e934a73f14da9be75142ccd0e9371" style="vertical-align:middle">
+<p id="b-d01d8055ede545b2968561d9a4795b50" style="text-align:center"><span style="font-size:15px"><blockquote>‌顶你个肺</blockquote></span></p>
+</td>
+<td id="b-dac62184b0b1432a973fe578bc147bb5" style="vertical-align:middle">
+<p id="b-a9e58ebdc3a746ffaddc75362a0ac9b5" style="text-align:center"><span style="font-size:15px"><blockquote>我削你</blockquote></span></p>
+</td>
+</tr>
+<tr id="b-5f88a82eecc64f9789fff516ee970aa4">
+<td id="b-d56ee6736a034bf48187544d117bc30f" style="vertical-align:middle">
+<p id="b-380b431e895f4b7a8666b1a259006666" style="text-align:center"><span style="font-size:15px"><blockquote>‌食蕉</blockquote></span></p>
+</td>
+<td id="b-ad3ffb94c54f4fb1880b46421e96894e" style="vertical-align:middle">
+<p id="b-921925e91d5e4e338ad5aaafce5af62b" style="text-align:center"><span style="font-size:15px"><blockquote>吃屎</blockquote></span></p>
+</td>
+</tr>
+<tr id="b-cf9cf2530eed41ab8e0852fde84aa1aa">
+<td id="b-fe97b8ced51549b8b4e103468de0c556" style="vertical-align:middle">
+<p id="b-7c0c960aa7ea44deb7e53e3c2a293438" style="text-align:center"><span style="font-size:15px"><blockquote>水鱼</blockquote></span></p>
+</td>
+<td id="b-44a1ee18a7204a13a56526fd4adb2a1a" style="vertical-align:middle">
+<p id="b-b882dc7da7ec42009d9fa2cce327d493" style="text-align:center"><span style="font-size:15px"><blockquote>冤大头</blockquote></span></p>
+</td>
+</tr>
+<tr id="b-628d355e3f574583b5723ad1308cec14">
+<td id="b-9ab879d08b4c4344a20889df2dd27289">
+<p id="b-0065d11dd22a4b5eb656389ff5e3199d" style="text-align:center"><span style="font-size:15px"><blockquote>‌龟孙</blockquote></span></p>
+</td>
+<td id="b-ef17734097474ad0adc2e1c7dee21eee">
+<p id="b-5cf1e3c3f071448f8fc997b41aff4241" style="text-align:center"><span style="font-size:15px"><blockquote>瘪三、禽兽</blockquote></span></p>
+</td>
+</tr>
+<tr id="b-e2b279a93834492dbc3a4fddb532b600">
+<td id="b-988b8bb527db4c49a96ab84009041fe4">
+<p id="b-c1fa082ba8534b1998c6f8fd30691872" style="text-align:center"><span style="font-size:15px"><blockquote>躝尸趷路</blockquote></span></p>
+</td>
+<td id="b-1d2c0b140f524890a1940a04c031a7a2">
+<p id="b-aa10343bccd5496ebdb184052986cf10" style="text-align:center"><span style="font-size:15px"><blockquote>滚开</blockquote></span></p>
+</td>
+</tr>
+<tr id="b-9925917505094c30b9116c81387c1d3d">
+<td id="b-a37973be7c384dd78bfe4d6215f022bc">
+<p id="b-55f682d5de534ad88ef3e70c0c80d993" style="text-align:center"><span style="font-size:15px"><blockquote>‌歌魔绝代</blockquote></span></p>
+<p id="b-ca71abc5db0e4e41aba96d0afb1b9db2" style="text-align:center"><span style="font-size:15px"><blockquote>‌死哥死绝</blockquote></span></p>
+</td>
+<td id="b-5a3fd7289ff84ccc842c8594a81b5f1e" style="vertical-align:middle">
+<p id="b-6dc37793185340eaa5bfc00db139a202" style="text-align:center"><span style="font-size:15px"><blockquote>绝代</blockquote></span></p>
+</td>
+</tr>
+</table>
+</div>
+</details>
+</li>
+</ol>
+<p id="b-fb83809f1fa449988a7f344b887ba401"></p>
+<p id="b-8e5ece6eb02e45b7a7949c25bba944d6"><span style="color:#00BA73"><span style="font-size:15px"><strong><span><blockquote>豁免：</blockquote></span></strong></span></span><span style="color:#FF4A47"><span style="font-size:15px"><span><blockquote> </blockquote></span></span></span></p>
+<ol id="b-490e6aa9ebe34be0a30ce32a4357850b">
+<li id="b-9b055aa5c77d48b3ae92f047ccdb80db"><span style="color:#000"><span style="font-size:15px"><span><blockquote>粤语无违规可正常通过；若违规，按照听懂后的</blockquote></span></span></span><span style="color:#000"><span style="font-size:15px"><span>内容打标对应违规点标签。（仅组内专审粤语同学使用）</span></span></span></li>
+<li id="b-e8387b82b7054c339806667975ee9f15">
+<p id="b-f219ce02f95c441784e53a6ab912ed36"><span style="color:#FF4A47">外文内容为</span><span style="color:#FF4A47"><strong>专有名词或常用简单词汇</strong></span></p>
+<details id="b-d614dbfe58514b47908b427734c36aae">
+<summary><span style="color:#FF4A47"><strong>专有名词（不可泛化，适用于定义2）</strong></span></summary>
+<div>
+<p id="b-c9ee75c64481482d99e5562164cdfa09"><span style="color:#000">表示特定的、独一无二的人或物，与普通名词相对：</span><span style="color:#FF4A47">人名、地名、国家名、景观名、品牌/产品名、平台名、店铺名、固定缩写</span></p>
+</div>
+</details>
+<details id="b-170f157b2cd946008c24f84d1ea6c916">
+<summary><span style="color:#FF4A47"><strong>常用简单词汇（同义变体可泛化，适用于定义2）</strong></span></summary>
+<div>
+<p id="b-cda7a19f0dac481691db233b59abb892"><span style="color:#FF4A47">OK、Yes、No、Hello、Thank you、Good 、Nice</span></p>
+</div>
+</details>
+</li>
+</ol>
+<p id="b-50d3c7253cfa494fb6fffd6ce54d4639"></p>
+<p id="b-45868a557ba743dcb224a9bca20aa477"><span style="color:rgb(0, 0, 0)"><span style="font-size:15px">type：100187</span></span></p>
+</td>
+<td id="b-d5f6fc098c404bd79f56db848f46e3c6">
+<p id="b-0703b8ded3804c38b06cede2f5a37b85"></p>
+</td>
+<td id="b-db0ac6ac713a4215b7518fa728079cd6">
+<p id="b-0c20e62676f64e02b8354695b2a8be39"></p>
+</td>
+<td id="b-5f0b1565b4cf421ebb343988e50745dd">
+<ol id="b-cb83d672a6fe418e9f8436903bb0e229">
+<li id="b-fba06d6918be4120a8a69394778998eb"><span style="color:#FF4A47">外文内容为</span><span style="color:#FF4A47"><strong>专有名词</strong></span><span style="color:#FF4A47">或</span><span style="color:#FF4A47"><strong>常用简单词汇</strong></span></li>
+</ol>
+<details id="b-def10e87cf7d46148acef9d1758f059a">
+<summary>案例</summary>
+<div>
+<ol id="b-128438f95f4a424595e748466c1ad93f">
+<li id="b-dd6c6e0fa97a431ebe09143cb0e8cc59">产品名：<span style="color:#FF4A47">OPPO A7 PRO MAX</span>万级大电池</li>
+<li id="b-b1479958d6de44b7849af39bac97dd6e">店铺名：<span style="color:#FF4A47">Super miami</span> 气氛很好/<span style="color:#FF4A47"> MOMOPARK</span>应该是附近最大的商场了</li>
+<li id="b-e08a83210a154875abe4cd7831cbfd60">人名：<span style="color:#FF4A47">Pony</span> 一直是老板</li>
+<li id="b-c6c2f1f1edb0462c9d088f69f6b00c6e">地名：欢迎来到<span style="color:#FF4A47">New York</span></li>
+<li id="b-051c43d8802140a698e3a3cdc876b5ea">固定缩写：<span style="color:#FF4A47">CEO、HRBP</span>、业务BD都需要参加这次会议</li>
+<li id="b-6ee08de4826d47218335a6e8046d6ec9"><span style="color:#000">常用简单词汇：环境很</span><span style="color:#FF4A47">nice</span><span style="color:#000">，菜品很</span><span style="color:#FF4A47">good</span></li>
+</ol>
+</div>
+</details>
+</td>
+</tr>
+</table>
+<p id="b-41d8909588a546869604c84f8215d6d2"></p>
+<details id="b-0ea0b0b4dc56406886db7d1c91da9bd7">
+<summary>3.23变动留档</summary>
+<div>
+<p id="b-bb5d74bcced84cafb19bedfe5a1b4483">此次变动留档不涉及标准变动，仅对上方表格内无相应标准或未使用标准进行删除留档</p>
+<table id="b-005bedb549274b9ca4ab565b9dba4755">
+<tr id="b-8b4634e3a44f48aab02662123262e0ac">
+<th id="b-4c103f5cb7c74d04b5d7050bfa4f73e1">
+<p id="b-2fa95cd1b68c42c2ad2c41456ac7edc8"></p>
+</th>
+<th colspan="3" id="b-c782da8cfaf240fe979fae1df35e56e2" style="background-color:rgb(246, 246, 246);vertical-align:middle">
+<p id="b-6295a59e1c334949b9a4623ccf553fae" style="text-align:center"><span style="font-size:16px"><strong>V3标签体系</strong></span></p>
+</th>
+<th colspan="3" id="b-4813c4b1fca2471fadabc2c04c875079" style="vertical-align:middle">
+<p id="b-e2eea387d20a417f9ee4a3affa60cdb1" style="text-align:center"><span style="font-size:16px"><strong>V2标签体系</strong></span></p>
+</th>
+<th colspan="2" id="b-e359e06ac5104a3b8d56f86ec010d0b2" style="vertical-align:middle">
+<p id="b-700714abf36a49b288cdde3172127da5" style="text-align:center"><span style="font-size:16px"><strong>V1标签体系</strong></span></p>
+</th>
+<th rowspan="2" id="b-fb9ac2c893524f6d8554806c11282877" style="background-color:rgb(246, 246, 246);vertical-align:middle">
+<p id="b-011e1d6ddf9741d0b1c804ca0f465d20" style="text-align:center"><span style="font-size:16px"><strong>风险点</strong></span></p>
+</th>
+<th rowspan="2" id="b-2df8f6efd7f6422ea6493c8be691e011" style="background-color:rgb(246, 246, 246);vertical-align:middle">
+<p id="b-82e0286f9a87423ebd5b9c0cc7340e74" style="text-align:center"><span style="font-size:16px"><strong>细则和具体定义</strong></span></p>
+</th>
+<th rowspan="2" id="b-00c5890270ba4be2a998b441b9ce60f1" style="background-color:rgb(246, 246, 246);vertical-align:middle">
+<p id="b-fe94b349edb6451c81d8d2e09cea1712" style="text-align:center"><span style="font-size:16px"><strong>文字样本</strong></span></p>
+</th>
+<th rowspan="2" id="b-656bfb3403cc49bc9773175dd4654e10" style="background-color:rgb(246, 246, 246);vertical-align:middle">
+<p id="b-230e669a868e40eabf54070d54429810" style="text-align:center"><span style="font-size:16px"><strong>图片样本</strong></span></p>
+</th>
+<th rowspan="2" id="b-eb31dcc9ca30451bb428fd49badf9341" style="background-color:rgb(246, 246, 246);vertical-align:middle">
+<p id="b-798c7966a43a428688148bd4601af1f8" style="text-align:center"><span style="font-size:16px"><strong>豁免样本及备注</strong></span></p>
+</th>
+</tr>
+<tr id="b-bd2a748f18f64cfc9556ff7c874d364e">
+<td id="b-223f6826e9bf4f46829529f2f403e46b">
+<p id="b-af6cfe9666c649bc9c8ddbf1873b437f"></p>
+</td>
+<td id="b-cef0784e09f84b4e9b1a4fd7f9ac0a08" style="background-color:rgb(244, 245, 247);vertical-align:top">
+<p id="b-a67b1d2180ee4d61be755a61ae9b6cdc" style="text-align:center"><span style="color:rgb(0, 0, 0)"><span style="font-size:16px"><strong>一级标签</strong></span></span></p>
+</td>
+<td id="b-e15819f88af94982bd474f6922ffb9e8" style="background-color:rgb(244, 245, 247)">
+<p id="b-9be976cbfbbf41dda2fb8fd6f7771cbb" style="text-align:center"><span style="color:rgb(0, 0, 0)"><span style="font-size:16px"><strong>二级标签</strong></span></span></p>
+</td>
+<td id="b-3c4dbf4702574fc79f67c18120827083" style="background-color:rgb(244, 245, 247)">
+<p id="b-b21fdae6477246e99f625ca717154279" style="text-align:center"><span style="color:rgb(0, 0, 0)"><span style="font-size:16px"><strong>三级标签</strong></span></span></p>
+</td>
+<td id="b-ee1291ca93b4457b8be982f8b62c5b1d" style="background-color:rgb(244, 245, 247);vertical-align:middle">
+<p id="b-0f0f7e3aba5c40abbb04cc9d02d84ad1" style="text-align:center"><span style="font-size:16px"><strong>一级标签</strong></span></p>
+</td>
+<td id="b-2a6cc1c8c56f4576841896f069a66d4d" style="background-color:rgb(244, 245, 247);vertical-align:middle">
+<p id="b-eb6fac1b66544e1d9221992b7fb90170" style="text-align:center"><span style="font-size:16px"><strong>二级标签</strong></span></p>
+</td>
+<td id="b-872845f69b124fb58f2cdce6e098387b" style="background-color:rgb(244, 245, 247);vertical-align:middle">
+<p id="b-46840a76667746929407153974a9e0e3" style="text-align:center"><span style="font-size:16px"><strong>三级标签</strong></span></p>
+</td>
+<td id="b-90d502706ef54d1db992b5d81e229b73" style="background-color:rgb(244, 245, 247)">
+<p id="b-ae28ad8bc4a6485184d4b16b0e8b54d0"><span style="font-size:16px"><strong>一级标签</strong></span></p>
+</td>
+<td id="b-88a4866b6c2a42b48060f5d7c2f492c3" style="background-color:rgb(244, 245, 247);vertical-align:middle">
+<p id="b-5a50625d9211461b898f69b88a5356c1" style="text-align:center"><span style="font-size:16px"><strong>二级标签</strong></span></p>
+</td>
+</tr>
+<tr id="b-973bab9125814b448bb35a69b4b65ac5">
+<td id="b-2a809dab45dd451a97a319d754086f5d">
+<p id="b-394d4a923c224147a72cb8cd8525a871"></p>
+</td>
+<td rowspan="29" id="b-26d2075658194f4a9b0e99f9bb387b22">
+<h2 id="b-3c5823d86eca4e9eb14f95d0742467e2" style="text-align:center">内容低质</h2>
+</td>
+<td rowspan="6" id="b-5aeef366b3974e7fa763a6c6d5882259">
+<h3 id="b-1424f1c61f3f4117a66e4e99b0f9d74b" style="text-align:center">观感低质</h3>
+</td>
+<td rowspan="2" id="b-e321c0ba13f444988d55c2e1570bab9a">
+<h4 id="b-9ae397bd6f7d41219ece9c2035b5bd60" style="text-align:center">视频严重模糊</h4>
+</td>
+<td id="b-8d63020c44c34b4e9132b32c2aeff612">
+<p id="b-da1c3cedcf484b1fa5b9902837a87192"></p>
+</td>
+<td id="b-0294cb497e6f4daf9986050502a60825">
+<p id="b-c9e700dffb0d45a1af5ac4cadea46a3b"></p>
+</td>
+<td id="b-f8f0074912004da688db5a87a3567584">
+<p id="b-8abf315c10024725994d52df6baa6362"></p>
+</td>
+<td id="b-f119429263a44f51b590454ab0207f59">
+<p id="b-40b14a0b6c3846e38c0b2a8a9d71b483"></p>
+</td>
+<td id="b-5d91330e48144b3facd173c50fb1406d">
+<p id="b-fe682130e7fd4cc5b28236d9e558edc5"></p>
+</td>
+<td id="b-4c8915e4df8c43a582309193c05d939a">
+<p id="b-65b183f8d6734bd8b1afb25d4af0690f" style="text-align:center">黑屏</p>
+</td>
+<td id="b-9a5d6925b0504b7ea1f7fc51d3a8c388">
+<p id="b-bc58f0e2db344deda30baef71dbc4e97"></p>
+</td>
+<td id="b-d648a4041f574dc5bb39363a7b12cc6a">
+<p id="b-9e5904fb947548fe991d85c94ac265f7"></p>
+</td>
+<td id="b-898d5dbe01f848e79c31b55b9f777de5" style="vertical-align:top">
+<p id="b-674169fdad634ece8f0a1d0a271a492e"></p>
+</td>
+<td id="b-5f0a88dcf1ce42fc94fd3c669dded607">
+<p id="b-a3e8466909034efcb6846dbd9372b25a"></p>
+</td>
+</tr>
+<tr id="b-88f89f9f13fb43a391aed95e7d1f65fa">
+<td id="b-8ad45158c6554d4f9cc5afb220babb9c">
+<p id="b-2fc8de6a4ff94144918ecdd91cca166f"></p>
+</td>
+<td id="b-fe0a61c4060049ba818020b80762d25f">
+<p id="b-accd4b00ab3245aebad9400a0df1d312"></p>
+</td>
+<td id="b-c898144c641e4ce1beb7c6af2b12eabf">
+<p id="b-22dfe80ea7514dc3a2c275ba1cdc0ca8"></p>
+</td>
+<td id="b-ab4ad06e3bd84dc78c0478068d5b08e4">
+<p id="b-4f974c0610e24327a9a1f6dc8ad72b08"></p>
+</td>
+<td id="b-787f8ab070654e0297c65da85168e6db">
+<p id="b-3cdf5fa0468047c0b080177b2621ef3f"></p>
+</td>
+<td id="b-cfb15ca004444030bba8d09425700fdf">
+<p id="b-3f23a191208b428691923b23fd2fcf76"></p>
+</td>
+<td id="b-dc1164ef6d1742f581a76cf647f25462">
+<p id="b-7fba394f161d4f1d8fe64f9fb2de9eb7" style="text-align:center">白屏</p>
+</td>
+<td id="b-ed5d5b9786f84e1692f641b8bdc093b7">
+<p id="b-d949e76c0c684a16bc8446b0f73e38f7"></p>
+</td>
+<td id="b-6d14621467514fb0ac162d23341d6a16">
+<p id="b-f8c12854c4994fd9a2eccc357f432e2b"></p>
+</td>
+<td id="b-07f6368d33d94064b32f9551a2203444">
+<p id="b-39c30957d1d743458a970185e7658d4f"></p>
+</td>
+<td id="b-8745e6d50d744cef97082a561082cef6">
+<p id="b-b47f04e4bbec4bb7b0e51f763846ce56"></p>
+</td>
+</tr>
+<tr id="b-ed32b611fa3c4f2a827866e386d1ef45">
+<td id="b-f4f1f04dc3c649ed931c42d663ddfae6">
+<p id="b-11a599c6a3cf40a09cb9425bd31e8418"></p>
+</td>
+<td id="b-07e8d2467450445484d4d37ba381b172">
+<h4 id="b-f3d568c3fcd24a3199bd963ceb92fbfb" style="text-align:center">大面积马赛克</h4>
+</td>
+<td id="b-733abb6546f6455d9ccd260df1eeec33">
+<p id="b-8a43a2343bff4df59fa136f3719f1f3d"></p>
+</td>
+<td id="b-457120cf417845a4915d666a94e41fcb">
+<p id="b-0116eb301f214212958a44eee352751c"></p>
+</td>
+<td id="b-c7a3db551af34931b984ca02d4982273">
+<p id="b-8dfeffd538f24869a53db6895717d646"></p>
+</td>
+<td id="b-289cabc551f740009345019a2dc12a18">
+<p id="b-04c57243476c4285892ed98f4b3a74c2"></p>
+</td>
+<td id="b-74a698003b3b460081302657968de79f">
+<p id="b-ea938cb23ec7489a8a7131aa34e762a2"></p>
+</td>
+<td id="b-c065741ef66d4e4ca3f1601e774d6e79">
+<p id="b-60472d6a01fc4f31a969deed3372245f"></p>
+</td>
+<td id="b-7ea7d201c70b432e84512d37b98be9bb">
+<p id="b-cf9de4d81ebb4b9fafeab1773dedec5c"></p>
+</td>
+<td id="b-fb8faa3242ab43158cc7cb820c8d93ce">
+<p id="b-c2df8f778a7a436daf811a00bbd0e465"></p>
+</td>
+<td id="b-aea9b486d2d84e2f990243d99a647fb4" style="vertical-align:top">
+<p id="b-7b2f83763ac243b3bc6c6e064f3300fe"></p>
+</td>
+<td id="b-a9da1970d1a3442fbf52956b77e8515f">
+<p id="b-4b2b8f847f3e4a3cb80a0ecbd3f59570"></p>
+</td>
+</tr>
+<tr id="b-f493ab9e233a4c9492f1358dc7251a05">
+<td id="b-ba4cc97aa9c14060962f9996b3e692c0">
+<p id="b-58fcb2b590d1435fae7a3d63b1510ad8"></p>
+</td>
+<td id="b-d76beccfc4b14f7187a6fe48a4a89e76">
+<h4 id="b-18c9515c83624406a77b8a16a44388c8" style="text-align:center">内容不完整</h4>
+</td>
+<td id="b-c5e8e09dcc734ee1a9fde005f92793c3">
+<p id="b-7f8af13f291646d796f15a5aea95ad9c"></p>
+</td>
+<td id="b-545a2b468350445dbf04dfeee4ff0c05">
+<p id="b-b2523a27c0e34da8ac67cdff903d3b8e"></p>
+</td>
+<td id="b-01d63e838ca041b3b480fa5f8da317cc">
+<p id="b-396480286451423d8e7feed37fab1ca4"></p>
+</td>
+<td id="b-d84d11adf9394f2882d4acee15d6c432">
+<p id="b-ec162539a2344ccba97d753bdc81115b"></p>
+</td>
+<td id="b-1195898cfabb43baa36be817a951e632">
+<p id="b-e9618eb1639444b5bc1890e404d58d69"></p>
+</td>
+<td id="b-8d66693a53204cc69c75adbaf0d22849">
+<p id="b-1a5730c7631a4070b3bf732b27635f73"></p>
+</td>
+<td id="b-d45b3d78359c4bad8023021291441109">
+<p id="b-c2cac5fcd75d4c94aaf583544b037011"></p>
+</td>
+<td id="b-36450ef5754e4a879049c341ecf79d5e">
+<p id="b-2a0e859e5aa04c46a490b9287e5b0b26"></p>
+</td>
+<td id="b-23ede7b0ca704377add9b55d9c9008ee" style="vertical-align:top">
+<p id="b-a46d259bee5741eaa32d0c0fae72797a"></p>
+</td>
+<td id="b-d7dc36ed701f4d169e07b70ac72b905c">
+<p id="b-bd18c1dfab3f4d0d8491149cbc420bec"></p>
+</td>
+</tr>
+<tr id="b-bbcf3d66afa64499af2efc04c6dfc7f3">
+<td id="b-3185f2146ef742ccb5b5f9d0f8a94ee2">
+<p id="b-c30796d9c53546f7b2d7401f2ff6def8"></p>
+</td>
+<td id="b-61e64e3c7fef4ac1a1b756fcad056315">
+<h4 id="b-d4d976c0406d45fd8d7fde8c5b95e125" style="text-align:center">音画不同步</h4>
+</td>
+<td id="b-1d0460d9eab343fc9efb070876363bb8">
+<p id="b-e64c219cac03443186c6cfd916c1148c"></p>
+</td>
+<td id="b-700c10a6f10146f1936eab4570448aa5">
+<p id="b-5c07777d306d45aab110a6b55796735b"></p>
+</td>
+<td id="b-400525e5d67a4bb3aaa9a2a83e460f57">
+<p id="b-d8d7e66b65cf403aa2165b4a2944d191"></p>
+</td>
+<td id="b-ba4e6c6165a94083abf903dac87d2770">
+<p id="b-ad685041b15746bf8665243d56824edf"></p>
+</td>
+<td id="b-6387ef34158646aebc6d8296bc982bbc">
+<p id="b-039652fca99045b2bca66cd201b9370d"></p>
+</td>
+<td id="b-b49ec97b982a4e55a90315d510e29e45">
+<p id="b-cb55afb2ddba48d99ba2deef47963bbc"></p>
+</td>
+<td id="b-990189c8adfb472292c517bc523bb9b2">
+<p id="b-2515b806a99444b5bc8c561856d9657d"></p>
+</td>
+<td id="b-0fa3dfbc4ed74145956b99ac24d25c7f">
+<p id="b-b775974fc00141949f7ccd9c380a84bc"></p>
+</td>
+<td id="b-9200075ed54c450a82614b631e1c1ab3" style="vertical-align:top">
+<p id="b-6f06bc2a749947eabfe03961eec1c4d9"></p>
+</td>
+<td id="b-6f2aba4338064c27afe436f9ae428d1f">
+<p id="b-589117f2a3fb45029a37bb79de180b4a"></p>
+</td>
+</tr>
+<tr id="b-9ddddbb6598c4f25aca74e485a7fdeaa">
+<td id="b-1f09c9670390464dbadd421e50f7d0e3">
+<p id="b-8f523c036b3946dea25e14a69a98ab8c"></p>
+</td>
+<td rowspan="8" id="b-cbd7045e930f4ec295543f173e32a0a8" style="background-color:rgb(237, 250, 244)">
+<h4 id="b-cad7ac504e71483dbb636b21b4a1aa15" style="text-align:center">题文不符</h4>
+</td>
+<td rowspan="5" id="b-a8f5dc0b61a4440fb935b3c6a6798497">
+<p id="b-499bdbee310a4886b869de5f04f0a4ec">垃圾内容</p>
+</td>
+<td rowspan="5" id="b-b93aed8f2202495796b303cfc98a7dc8">
+<p id="b-61d20733f6cc4740a829eb7ca42f8ae0">内容不匹配</p>
+</td>
+<td rowspan="5" id="b-5365e23ab002417fbe3fa2b9fb83cbaa">
+<p id="b-0152ce6b483d4556939235daed76671e"></p>
+</td>
+<td rowspan="5" id="b-df957ddcb5814eefb335af17a71f1a7e">
+<p id="b-98c8ed863f614813b11385d561bc95ee">垃圾文字</p>
+</td>
+<td rowspan="5" id="b-1db1924aafb24895a910762dddb0e510">
+<p id="b-9bcdaf95f594433c8405fb274e0c9bbd">「文」- 无关</p>
+<p id="b-e4bc69e8d2654eedaf47e9099c0e9735"></p>
+</td>
+<td id="b-d595be352487455783ec868fd7caed11">
+<p id="b-f3b3287346d64a24856ea5f0a22eaca2"></p>
+</td>
+<td id="b-b5af2e9291674eea9310b502f5c4ac77" style="vertical-align:top">
+<p id="b-f6b9e02d1a3f4afc91814d927784b52a"></p>
+</td>
+<td id="b-50f2fd94f269437e8975307ce5cd25bc">
+<p id="b-f350b0cf4b7446659f421183f76bea1d"></p>
+</td>
+<td id="b-dcdeddf93b484f549abbfd125a145585" style="vertical-align:top">
+<p id="b-622b3b3578a74781813ebebe2f615683"></p>
+</td>
+<td id="b-95cb78e3b70141e2bfd2709daf07cee2">
+<p id="b-3b551c40d58d4ea9906f349cb7f49d1e"></p>
+</td>
+</tr>
+<tr id="b-bba42ed124ab477888c7ec8894a81ff2">
+<td id="b-a4eb994217f7409abb0f08546b2a9a96">
+<p id="b-36d60ba354464160a51f33270f40a482"></p>
+</td>
+<td id="b-e77a7b6810d84ef08e9655ccebc60d97">
+<p id="b-9506e40773754a70bf424d3d01d3af28" style="text-align:center"></p>
+</td>
+<td id="b-888966b8148c4abdb1e7908a1f9310b6">
+<p id="b-beee458ae0b04687b6831aa0743b55d7"></p>
+</td>
+<td id="b-06dd14ec49c948be9c9919b02b3d68ca" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-f762e402eccb4435be7e9cf48d178bba"></p>
+</td>
+<td id="b-085d2716dd2a4ed4b84adba6b0ee0fc4">
+<p id="b-2396d6ec507d4825a2a8375990663d96"></p>
+</td>
+<td id="b-d0dbf12c8c9849e88f383d9e8fe3563d" style="vertical-align:top">
+<p id="b-746cc7a1605f4da6ad200b3482fed74e"></p>
+</td>
+<td id="b-587b09cd6b6748aba1ea9b7f330f3deb">
+<p id="b-822eec834d5e447dab462709383f293b"></p>
+</td>
+</tr>
+<tr id="b-8357dd36a95c4533a69c55c65a61d1b6">
+<td id="b-484d968fa5c64fa4a6b9527dd3183b48">
+<p id="b-257314c4f1154e6f933d0f9076746b34"></p>
+</td>
+<td id="b-6b19f42f1721417fa94f9596843471f6">
+<p id="b-aa10ca596a764589a9ac6c52cd1e2ecb" style="text-align:center"></p>
+</td>
+<td id="b-abe8cb2beedb4848a9ef0aaf3aaf209a">
+<p id="b-c4d8ec307ec34a60ac2b5f3da636409d"></p>
+</td>
+<td id="b-1da0ffb11e9e4578b83917db48b04656" style="vertical-align:top">
+<p id="b-e3c6b7420c5c445ea151af3dd7ef0a78"></p>
+</td>
+<td id="b-12c44a55b84f440696f66104b14d9157">
+<p id="b-bcf42ba2562a4631abe7c45fcbc606af"></p>
+</td>
+<td id="b-8a23cac06e3340359c76fac952141168" style="vertical-align:top">
+<p id="b-b225b211d09f4cf697b403300bb9154b"></p>
+</td>
+<td id="b-051155b2247048299adfc8ca4b8112be">
+<p id="b-dab2085a45524525ad67d34a14afe0a4"></p>
+</td>
+</tr>
+<tr id="b-f6656d69d4c04760abcdfd3b8b675f3f">
+<td id="b-a9e06f67320e44c18db7c5e6393d6b7b">
+<p id="b-e4e61fa46deb499cb4fd62bff01fc185"></p>
+</td>
+<td id="b-ca4347f7efa74358b16b4a171c8a651c">
+<p id="b-be6b34bf5e7d432da0487db12930b00f" style="text-align:center"></p>
+</td>
+<td id="b-2675fd59cf154318b6f01d72b5e65272">
+<p id="b-3020a49f06b64f9095692a07125a5031"></p>
+</td>
+<td id="b-82046565579b4671b93f5bee93a46fff" style="vertical-align:top">
+<p id="b-01db008860bb4dce8b8a94c11d10e97d"><span style="color:#FF4A47"><span style="font-size:14px"><strong><del>打标 </del></strong></span></span><span style="font-size:14px"><del>——</del></span></p>
+<ul id="b-593cbfefe02b495594aac04f81b7a0bf">
+<li id="b-0e78b180548148219f4985b9c8857ad9"><span style="font-size:14px"><del>与商户经营无关的内容。</del></span></li>
+</ul>
+</td>
+<td id="b-41ec88b31f3d49bf8a907fb4bc594fef">
+<p id="b-a85f4b6adbe34bb093fabc2236fd0f32"><strong><del>评论内容与商家经营无关</del></strong><del>：</del></p>
+<p id="b-11be0f90bd704f06b0271a4e774bbc0e"></p>
+<p id="b-832a284ba5b3453795324eafb4e2f327"><span style="font-size:14px"><del>商户名：明光国际商务会所KTV</del></span></p>
+<p id="b-0f8d317f1fb54adea2760b07a01ef371"><span style="font-size:14px"><del>点评内容：而随着天荒国的不断发展，还能拥有无数神奇的仙道灵宝，如太极图，混沌钟，乾坤鼎，天地玄黄玲珑塔等先天至宝镇压国家气运。更有阿鼻元屠双剑，番天印，斩仙飞刀等仙家灵宝杀敌立功。</del></span></p>
+<hr id="b-9a0e0379f5284b1299923c281ba7aabc">
+<p id="b-275f582016d74957a4f3a0ff9a1853f9"><span style="font-size:14px"><del>商户名：纯K</del></span></p>
+<p id="b-8abc6296c4334096a34e7a6d46a98347"><span style="font-size:14px"><del>【杭州14家美食打卡】💥 🔹福缘居 本地人 推荐的杭帮菜！脆皮大肠好好吃！咸蛋黄南瓜咸香下饭，油淋鸡也很不错！说好喝的我真的晕！ #杭州美食# @一根瘦肉丝儿 @丸子安利菌</del></span></p>
+</td>
+<td id="b-1c28923f2fb84fb2a226a273d94e5471" style="vertical-align:top">
+<p id="b-c44b2ee0a3d44522999cc023dff0e948"></p>
+</td>
+<td id="b-b3d95910f4554a0a84832995be7a918b">
+<p id="b-03d1dbedd1b042abb1c1ca720805936d"></p>
+</td>
+</tr>
+<tr id="b-4b43e7ccc7284f1f886b870c37de5e13">
+<td id="b-eaa2bed80e6646c7b6f3e7e1957d02de">
+<p id="b-393dcf99d11145f699d597a4ef0c49b3"></p>
+</td>
+<td id="b-0f83f102483f4303a3609554ae2cf7df">
+<p id="b-6f0eb123e1ae40e5a8f4fca7a2c6cec6" style="text-align:center"></p>
+</td>
+<td id="b-516c3e88055f40a1ae5ac4ff5581fde3">
+<p id="b-dde046308d924c6f8eab34c8b93219cf"></p>
+</td>
+<td id="b-3fc7aed09dbe4de0990e4c6049efa8d5">
+<p id="b-9c99bd10270447f49774edd3b005c76b"></p>
+</td>
+<td id="b-150047cadf6941b5b4ff636000caa0e0">
+<p id="b-92ac5531d01649759efac7e37482473b"></p>
+</td>
+<td id="b-076621df4cfd4c38a19c3f0f27c02b11" style="vertical-align:top">
+<p id="b-902934734f044b189e0ab2f491a67a99"></p>
+</td>
+<td id="b-094652e8d70d4ea29ed11ebfa05325fe">
+<p id="b-af984408bd5a43b4a06570ff5110653c"></p>
+</td>
+</tr>
+<tr id="b-9b78a8ab2edd41a481d4c4ce05109d7a">
+<td id="b-519c30295f824ea4845b87d62cc23bdc">
+<p id="b-8e05e48603ab420089f0a45685b092f0"></p>
+</td>
+<td id="b-ca15ac418c51486ab7f7e73dc608c230">
+<p id="b-443549fffc2f49c192a79044aacf5548"></p>
+</td>
+<td id="b-c3826c3935744d359796aa8685afe383">
+<p id="b-deaeab502ca84c80965147b5f17206a3"></p>
+</td>
+<td id="b-d09f5f9fbfc247f9b37d8e8da9f18995">
+<p id="b-b6d96bab750f4546b67380dcb1fd2edb"></p>
+</td>
+<td id="b-a001cad539ad4ac2979be92b287e13af">
+<p id="b-3d8b2a9c05eb4f5bb4feb17f6a37c56d"></p>
+</td>
+<td id="b-791a979aed274306848ba04f1b73ee02">
+<p id="b-dd49978d5e724cfbb36a971520a49654"></p>
+</td>
+<td id="b-284ab7bdfa8a4ac7aed471062e5c628d">
+<p id="b-c37b53d651b940b1902ab13f8a05f707"></p>
+</td>
+<td rowspan="3" id="b-5df2c150a67d415b8b99e8f94d247756">
+<p id="b-b619ce469c8c4bafab91ecd93e430100"></p>
+</td>
+<td id="b-5a28247f1353425fab0abf0d6eaa5826" style="vertical-align:top">
+<p id="b-17fafb16909640358b5923859d7349eb"></p>
+</td>
+<td id="b-b77ebb77193948ddae9296f30a5626af">
+<p id="b-a0603c3ad29f428a992576b903a723cc"></p>
+</td>
+<td id="b-3c2e33905317439c86ad73ce3ea5e369" style="vertical-align:top">
+<p id="b-f705010dfb4b4de2a0cec49c9ec4da78"></p>
+</td>
+<td id="b-0401c04b890741d28aa8e5c029fac7cb">
+<p id="b-62cfcc5be70f409d9716ddc69b9e87fb"></p>
+</td>
+</tr>
+<tr id="b-f8bf6decdd73457a89bcfa0a2eec8175">
+<td id="b-4c0f03fce9a44db2ab4fade15a5371ad">
+<p id="b-129e6c276aa34f66a906183e851379de"></p>
+</td>
+<td id="b-3e75a0347113489f9f0ed055cebc0e32">
+<p id="b-c3e98800fe184833adb5214e656c10cf"></p>
+</td>
+<td id="b-326b523c3c1b4570984eed2c45a2acad">
+<p id="b-a2ac27a1c8dc438693af9cd3453049d2"></p>
+</td>
+<td id="b-f0e29ca9bd104c25828435428d4dc3d8">
+<p id="b-af7fe11d2a5b4f1a9219302a9626c18f"></p>
+</td>
+<td id="b-7578a84f855648daa561ddc0a14ec709">
+<p id="b-802dd855e8e24baf95f836e9b9f8ee54"></p>
+</td>
+<td id="b-6a9e70a0e28942bb8b73762542467e22">
+<p id="b-dd96797328544007a31679b340d0d1bb"></p>
+</td>
+<td id="b-fd943808af954ecd8695338c7067b934">
+<p id="b-6ce0b50a2bf4415bb954b4931e3d185d"></p>
+</td>
+<td id="b-625e7b635459495eb47ad0c821787ff2" style="vertical-align:top">
+<p id="b-85657ffcffe34a2da5ee45ee23070b75"></p>
+</td>
+<td id="b-79b388aa9b624059a96b255329233718" style="vertical-align:middle">
+<p id="b-fcbccc0fca9141b790d496a15bc3e9f8"></p>
+</td>
+<td id="b-69fa440ab5cc4358bc2f957d9d3c977c" style="vertical-align:top">
+<p id="b-147a47a623b849a4a4e62bcd47c47800"></p>
+</td>
+<td id="b-850cb3c3930341ff9a919d7ca17ae9e9">
+<p id="b-5e95d69a501a418e8c40d5746237783a"></p>
+</td>
+</tr>
+<tr id="b-9d5fd538e66843508510057c45dd5a7b">
+<td id="b-a30a2020b8804dd48f633954c856857e">
+<p id="b-d38e04557fef4066a101b98852261388"></p>
+</td>
+<td id="b-62ce79a7f42f482b97c80f9dc352fa4e">
+<p id="b-fd0285b70929490e9088562a08559682"></p>
+</td>
+<td id="b-c6b3ff2856644db6a4626ff5f2dc1fdd">
+<p id="b-79c41ace78454e96b1b06e9aafed46a1"></p>
+</td>
+<td id="b-4f7b4bdef911408291e96f4b4e7dc7ed">
+<p id="b-805f30c2b37f4528a368d84605d6f177"></p>
+</td>
+<td id="b-b7b8584c04334e9db464a63e2b3ee759">
+<p id="b-0c32e377e513485dbbb90eab90787adb"></p>
+</td>
+<td id="b-dd58d0675c0f417b8df8371552c1bdc5">
+<p id="b-28e01d2979b14c3f9b866f36d143ecd8"></p>
+</td>
+<td id="b-d5b5817d314547a3894d706d57c44d59">
+<p id="b-8b3355223b684cbfbe2ab797203f81f7"></p>
+</td>
+<td id="b-0559aebf99ae43e5a29237e7d2e80108" style="vertical-align:top">
+<p id="b-5538cacd38c84108b9b7fdf79b650284"></p>
+</td>
+<td id="b-a8b7914ce90146d399ff4fcebceb00b8">
+<p id="b-acea76453659414d9628c3b83a693674"></p>
+</td>
+<td id="b-7e5b1c2fd0f0405a8fbcd16fa838d929" style="vertical-align:top">
+<p id="b-1484cf2c049b49b38bac06f831b5d3b4"></p>
+</td>
+<td id="b-9978bb91549b4b92bfbbb882aca1bb8f">
+<p id="b-ffba3876e2894f0a8632fe9a3181e646"></p>
+</td>
+</tr>
+<tr id="b-1141970dc9f14cd8bb8cf0ea0e6f118b">
+<td id="b-918192521e5f473486c52319d1fe8d56">
+<p id="b-8fe2828cdd124937a0ac475e9cf8c740"></p>
+</td>
+<td id="b-bb8b3f3425ab43fea641ae6d7488a16e">
+<h3 id="b-89f752fa759f4eedb220956743ffd0f0" style="text-align:center">黑边低质</h3>
+</td>
+<td id="b-4a3770ea0bfc494e878f520754607458">
+<p id="b-0dfe3b0e78364c7eb3de91430ebfc1ac"></p>
+</td>
+<td id="b-263e74c2541643bab8b4af87ab2df214">
+<p id="b-1a40fb76802a457cbab68136f829afe0"></p>
+</td>
+<td id="b-17c919c9e1474b5caa051e7bddcfbc7f">
+<p id="b-4a033de3fca748d9b4fd2a828e6ce5f6"></p>
+</td>
+<td id="b-0f80d64900c7445e8d3776f6ae8229bf">
+<p id="b-42375c2ae7864f04bb46c0347347249a"></p>
+</td>
+<td id="b-8abc88d915c445d8ad6efa6d73aaeb93">
+<p id="b-3d17bbde6f7e428c861bb2bdc416bce9"></p>
+</td>
+<td id="b-3bcf74d262d842e28d7b70aed70e0911">
+<p id="b-ac919d7295ab422bb4fa92f2cc014ddc"></p>
+</td>
+<td id="b-e011bc3a237149a68c514a2b8ab162f3">
+<p id="b-94009b63cc6e406787b7b1156cad1405">视频黑边</p>
+</td>
+<td id="b-3febfa2842bc4111b071d5a1b31b5e5a">
+<details id="b-abdfb99cef4e4ddca309ed53716e9485">
+<summary>黑边审核标准（for<span style="color:#FF4A47"><strong><u>团视频&amp;交易</u></strong></span>视频初审）</summary>
+<div>
+<p id="b-03bd08ba6b004b35a5f04fd76aeb62a6"><span style="font-size:12px">1、抽帧图片中：画面/字体等存在压缩、拉伸、旋转等扭曲形式（</span><span style="color:rgb(212, 30, 33)"><span style="font-size:12px"><u>通过抽帧其他图片辅助判断，如果是转场的抽帧导致 则豁免，如果其他抽帧图无法辅助判断是转场 则打击</u></span></span><span style="font-size:12px">）</span></p>
+<p id="b-3c75d306a5084d3fb1b98199ca6e954b"><span style="font-size:12px">2、视频抽帧图片中存在黑边/条/块等内容，长度或宽度或占比大于视频抽帧图片本身1/3及以上（即观感将近画面）同时该黑边/条/块占比整个视频抽帧图片总数的1/2及以上（即时长占比视频抽帧图片总数量）</span></p>
+<p id="b-061a401dae124b23a7e02a46df471c30"><span style="font-size:12px">注：竖屏横版视频：</span></p>
+<p id="b-e7ff4545a90e415bad67915961e3f3d5"><span style="font-size:12px">a,</span><span style="color:rgb(0, 88, 219)"><span style="font-size:12px">非缩小或放大等正常</span></span><span style="font-size:12px">视频抽帧图片整体趋近于视觉中心，上下有黑边</span><span style="color:rgb(0, 88, 219)"><span style="font-size:12px">或用户自填充其他纯色，且视频</span></span><span style="color:rgb(255, 74, 71)"><span style="font-size:12px">有实质画面的内容</span></span><span style="color:rgb(0, 88, 219)"><span style="font-size:12px">≥整体的1/3</span></span><span style="font-size:12px">可豁免</span></p>
+<p id="b-654b312298d24fd994bac715a41fc38b"><span style="font-size:12px">b,视频抽帧图片整体未趋近于视觉中心（即视频在边侧）如此时黑边范围≥视频内容本身大小，需打击</span></p>
+<p id="b-840ec73bd097485ba0c748a91fbc5d99"><span style="font-size:12px">c,视频抽帧图片本身缩小，（即上下存在黑边的同时，左右也有黑边）此时如左右黑边约占整体的1/3，则打击。</span></p>
+<p id="b-60655b55d2224e32bd5c5393bc6c0c46"><span style="font-size:12px">3、抽帧图片为：主体以非常规形式的视频（除正方形/长方形比例视频外其他所有）如圆形、三角形。【豁免：短时转场剪辑手法，若：转场形式抽帧图片数量占比超过视频总抽帧数量一半及以上仍需打击】</span></p>
+</div>
+</details>
+</td>
+<td id="b-280b622478c24d46b1355601a3107329">
+<p id="b-e836b09e0a2140679c0fbc8ea7fac89c"></p>
+</td>
+<td id="b-72c48c8560cd4c459d1179e74ecf3a49">
+<details id="b-66498dc70c40406f8570e44111784ecc">
+<summary>参考分析案例</summary>
+<div>
+<ul id="b-5c8453159a7944fe9edbd41ee6e24991">
+<li id="b-cce3ebe1c24c48dfb371e3002f604dff">如图，用户自填的无任何字体或图案等的纯色（非黑色），可视作为黑边，此图可视为等比例缩小</li>
+</ul>
+<p id="b-b24aecabfd3b4ee7a53381bb36b7e212"><img src="https://km.sankuai.com/api/file/cdn/1627767469/102714634552?contentType=1" width="125" height="67" id="b-4d02b49540a14f159a3015541e9fa134" alt="image.jpeg"><img src="https://km.sankuai.com/api/file/cdn/1627767469/102725031793?contentType=1" width="101" height="75" id="b-2fe863b8434544bd94018589a788147f" alt="image.jpeg"><img src="https://km.sankuai.com/api/file/cdn/1627767469/102725568230?contentType=1" width="128" height="92" id="b-afaa4185a6c64d02b4bc03fe806f0713" alt="image.jpeg"></p>
+<p id="b-d63ea78139914392ae353e7b8f7d11bf"></p>
+<ul id="b-c6491d21d8da47818604d9e082931d4a">
+<li id="b-be30db704ad4492581d4e2d598c68dce">如图，用户自己填充其他纯色边，但视频本身的黑边有文字/图案覆盖，可视为整体的主体，可以放宽<img src="https://km.sankuai.com/api/file/cdn/1627767469/102720064005?contentType=1" width="183" height="242" id="b-bb4354dc0a7f4696aeea500dcc95e330" alt="image.jpeg"></li>
+</ul>
+</div>
+</details>
+</td>
+<td id="b-87a0deb521d04f81826bdfd66e682e56">
+<p id="b-d6057051f9d34509ae5c24fd10f9ec82"></p>
+</td>
+</tr>
+<tr id="b-ad168693ecc047d8bb1d947a0acd2e70">
+<td id="b-6759e1d5f01e4c3f924b89c35472cfbf">
+<p id="b-dd95bb6e246f4353a214b16437807ae8"></p>
+</td>
+<td id="b-e83101be14014b2b9805068ad3a82187">
+<h3 id="b-2ddec96418fa431aaf37eb8d17d53909" style="text-align:center">过时效</h3>
+</td>
+<td id="b-5c7cdcbfd7d54d7080547f23148ed042">
+<p id="b-26530d2cf5be460eab02d7ee8442aa60" style="text-align:center"></p>
+</td>
+<td id="b-4c5416212cfa4922804d921b8367e118">
+<p id="b-bc595686a4a348ce97ec93ab32b36173"></p>
+</td>
+<td id="b-576cd7eb34ba416584b7d500f67b8d59">
+<p id="b-9a04a8f944bc4f96af4724513667e220"></p>
+</td>
+<td id="b-e28f500635374e328a18a88f52b0f715">
+<p id="b-ce69fa11cef74b64893739c8e4782423"></p>
+</td>
+<td id="b-564e29d0766e43c58e029aee77f4eb80">
+<p id="b-07355eb6b079432db507e74f12a704a1"></p>
+</td>
+<td id="b-ab0cf0f0937f454d856b1dc441a04db4">
+<p id="b-2a94ad775125404c84345f62798c8414"></p>
+</td>
+<td id="b-c4910c9e3f0c42c0ac108745933a000a">
+<p id="b-8d2a21fd2d2347a8b6b2b0cca17d7568"></p>
+</td>
+<td id="b-8defee1915454afdba40c1288eb49528">
+<p id="b-15a894abe2ca405faaf57bda51894605"></p>
+</td>
+<td id="b-7a62b927d9cc4eae9f8e72e8f92ee1c9">
+<p id="b-1b6f85ac602f452abf277691a8b13689"></p>
+</td>
+<td id="b-794938a724644509a9064446e8197190" style="vertical-align:top">
+<p id="b-ee9d1d8c92694fbe805156d4183b2528"></p>
+</td>
+<td id="b-d3637e20e1bf42fb9a14736714139ca0">
+<p id="b-4043193aa1004affb4f1de3968100bab"></p>
+</td>
+</tr>
+<tr id="b-f3272c8684414f03b0e1b0878dabfeee">
+<td id="b-e66e4a0f1cb94d729673ac4579f7e2e5">
+<p id="b-92d7890b04aa4948971e2bfd419d9102"></p>
+</td>
+<td rowspan="9" id="b-5a7883acb83e4c868546f93793c2a2e4">
+<h3 id="b-451e5126149846aa84d2ce2e8ddd56ce" style="text-align:center">低信息量</h3>
+</td>
+<td id="b-be86080dda1c4170a694a19547513ee5">
+<p id="b-d2cf0316680d4d4ba39c276f0ca6601e"></p>
+</td>
+<td id="b-6950906c2fbc481e835901f10ca2726e">
+<p id="b-35190ac284814aa28f9811c4e2ffe041"></p>
+</td>
+<td id="b-ecd8a6c346e3496abe79d79e5adff8dd">
+<p id="b-dd5c36a3b1c044daa550e4e157a2dad7"></p>
+</td>
+<td id="b-91d4cfddb4e3438da0cff3b8c4d7beff">
+<p id="b-16a6b26ad2ce4b96a5ee2bf0e655d1bb"></p>
+</td>
+<td id="b-fdd1012ead9e4b9e9a6a6f91148bff73">
+<p id="b-46ba7f7fec434ada819b99789902921e"></p>
+</td>
+<td id="b-5e4b12da221141c28896ffc00246686d">
+<p id="b-11fa8ea32e95424faddf725a648ce138"></p>
+</td>
+<td id="b-b410f3a0c3f2471c9ea564287a85166d">
+<p id="b-0c069503241c4ea5a67c2c06d2fba055"></p>
+</td>
+<td id="b-9beb7661605a4fa7ab995ed6d602cf11">
+<p id="b-fa8b7d84e905473eb08a8afcac435c63"></p>
+</td>
+<td id="b-75518e67ea794df9980c8d2af1bde9e3">
+<p id="b-ec480880ccb5482f9405c6d2b4d621a0"></p>
+</td>
+<td id="b-c3b0a83abafe47eb8f214b6f3afccb71" style="vertical-align:top">
+<p id="b-7c70fda05c47473b8b3b28a04a439d42"></p>
+</td>
+<td id="b-ea3da046857a4c65bef522e0213d5c2b">
+<p id="b-14775e9f9f8c4ac2b3397636f439fb22"></p>
+</td>
+</tr>
+<tr id="b-5af0448a1339418dbe47aa4f17b55611">
+<td id="b-d9ba104f83344122bd79ed52064122f8">
+<p id="b-54b2cbef198848afaab1784b3765eb00"></p>
+</td>
+<td rowspan="3" id="b-9174bc74bdce43f981201afd2b4b4c7f" style="background-color:rgb(255, 246, 224)">
+<p id="b-1e2468a16f434ef4afc7876fd489be74"></p>
+</td>
+<td rowspan="3" id="b-9eb18905278347c8b0ef0553a8544210">
+<p id="b-6b04904cd8dc4e5ba69a84c799d1e2de"></p>
+</td>
+<td rowspan="3" id="b-39ccfa50c9a744618dac8d366306ba3c">
+<p id="b-34dadc63bc454a0d8a449dbe9d6d0f63"></p>
+</td>
+<td rowspan="3" id="b-37f10cbe645f4ebeb2909118260165c5">
+<p id="b-94994a816bd7434c822b208694fa5fc9"></p>
+</td>
+<td rowspan="3" id="b-3000c8356de54d6c93feb0d695b76c0d">
+<p id="b-c4f3364103384a5d8cfc301335b97ead"></p>
+</td>
+<td rowspan="3" id="b-4b7dd8309e264290825fbfa758792272">
+<p id="b-2996cb41cc44466f8dc093cc23e09239"></p>
+</td>
+<td rowspan="3" id="b-bace960a6da048ccabb2bafdb2fe905f">
+<p id="b-c89ed9ac4f974fd49d686df4b9bae148"></p>
+</td>
+<td rowspan="3" id="b-b0fd404eee7042ddb76f49932dd5638b" style="vertical-align:top">
+<p id="b-c9d12c309b5d40808c88eeac2c017c74"></p>
+</td>
+<td id="b-cc6bd424f2ef4ec9867936ab0e8aa7b3">
+<p id="b-376ddd1312c94a819941c9b749505a96"></p>
+</td>
+<td id="b-848b56ba81b74c728972ac4bd5e43c6c" style="vertical-align:top">
+<p id="b-b0a06229bc364bc387a8d5562fb991f9"></p>
+</td>
+<td id="b-a21a04aa56c7481289539ad996917a23">
+<p id="b-372d813afcc74d8ebf73ed5afb3155fc"></p>
+</td>
+</tr>
+<tr id="b-4b766f70a8f04a56910a39c1f60b161c">
+<td id="b-889012d179a644d7bfd7d3d72e199a51">
+<p id="b-f9b4a54002ff465ea76962ab4cbd3f8e"></p>
+</td>
+<td id="b-7839090d114d4c7ab3ad885b63213758">
+<p id="b-d4c74dbdac8a4e7aba35101ed17ef845"></p>
+</td>
+<td id="b-6482ae9f1f6643faba37513272fccc0e" style="vertical-align:top">
+<p id="b-da3a026d7ad946a38fb857fdec4829af"></p>
+</td>
+<td id="b-8eb4fb13bd97455ebf35c9617770a9f6">
+<p id="b-55c8d34c3e384c6ebeb91ce539e35b2a"></p>
+</td>
+</tr>
+<tr id="b-391abb1a72df42958ee32070e1002aa2">
+<td id="b-fd913a99f90e4adc8371806a2ac54e8e">
+<p id="b-12886814e33241ee9a4e3efee3af9132"></p>
+</td>
+<td id="b-2dd7049f2cf64def9aa2cdcfdade36a0">
+<p id="b-c27e3811a1154162958f40cfcd9db6a3"></p>
+</td>
+<td id="b-1369739bb2284127b111c70007638def" style="vertical-align:top">
+<p id="b-8016fe223a654d3c8341aa9826ae6470"></p>
+</td>
+<td id="b-499ca5b08fa548faabbbc7ae00994839">
+<p id="b-27024b16014b4674b29c572457b6ec93"></p>
+</td>
+</tr>
+<tr id="b-4470740313a1442f9aa988120942f628">
+<td id="b-e69fc266b35d4e00b13f01da2192abf0">
+<p id="b-583475fffe1b439ea710eb7f83cab88b"></p>
+</td>
+<td id="b-6d1c43250a184bcbb100cb70b8386bc5">
+<h4 id="b-e22852dc000b478791574161f0d18b2b" style="text-align:center">心灵鸡汤</h4>
+</td>
+<td id="b-1d83c3c3685a4818891d7a6e2d7e8807">
+<p id="b-68cc9bba159e45f0a7177846bf0f539a"></p>
+</td>
+<td id="b-b7108af06c344ae98ae05442098b142a">
+<p id="b-993fa57ced2f4edead4b78710aa0400a"></p>
+</td>
+<td id="b-1d5f4f48a4ba4858be10a4ea3b5b6e32">
+<p id="b-7dc89eedec83448f946df2081bcb9814"></p>
+</td>
+<td id="b-15e31987169441cb9cc90cc0f3015ff0">
+<p id="b-a9ee8e92e53f4784b8f6f0c7d32abfe6"></p>
+</td>
+<td id="b-9bba087f567c4d34b5f8fc959bc2a867">
+<p id="b-0fb150d47b1f4899b16e26c9d221b9c7"></p>
+</td>
+<td id="b-6d7c294ec4cb4c8583b097694096d82c">
+<p id="b-42d862dfbbfa4e07b4898c23a858f5e2"></p>
+</td>
+<td id="b-882bf165ef554bfea0c6394bb5030df6">
+<p id="b-2f45ad17d3da445d9051bc79ac8a86dd"></p>
+</td>
+<td id="b-6bc1b55c6bf94f58bb1acd7f89665bce">
+<p id="b-15661b7a1b6040f08f2582682485e466"></p>
+</td>
+<td id="b-6ff2e981955f4bf3af6d88e3b8c7654c" style="vertical-align:top">
+<p id="b-49106a74a16647f6818ab86ef52778ad"></p>
+</td>
+<td id="b-821bb6e4efdb48148119c13e980cff3e">
+<p id="b-314f24176d6448b2a4b6144d9fc59300"></p>
+</td>
+</tr>
+<tr id="b-d1d82ce06b184733bbf38588340e5c90">
+<td id="b-e63569440ceb43b28638505549068f1b">
+<p id="b-11089a75eec349678ef7e2450408573f"></p>
+</td>
+<td id="b-b6fc43dddc9842edb7633c85fd40906f">
+<h4 id="b-96426fb26faf44ab8c578ced137e45f3" style="text-align:center">心理测试</h4>
+</td>
+<td id="b-ea7910b13d5c4c6ea443ea62d7cab455">
+<p id="b-5e19a277d0834cf388c7cb76fa5fa7df"></p>
+</td>
+<td id="b-5472c548071145dd879b72a068a0b15c">
+<p id="b-2b26f27ef9a7448da36e365163e24655"></p>
+</td>
+<td id="b-a3a6ae20176e4ff994e95013f9b08333">
+<p id="b-d44d8ebe908746dbb25d2da26aa03d4b"></p>
+</td>
+<td id="b-a606acc4adac46498555356b61e3b243">
+<p id="b-e62073eda5a94e5983ea5cd6e1caef04"></p>
+</td>
+<td id="b-5122c88b8bfd472cac973220926ed047">
+<p id="b-13be72773aa34819bbf164f06530db70"></p>
+</td>
+<td id="b-ba3549709f2842f6968d03d631662848">
+<p id="b-be278390ac6548048c613af7e36223be"></p>
+</td>
+<td id="b-36acfe22dbb1469da0a493d4161e2fac">
+<p id="b-cabca9764e104100873fb3cf991e1bf2"></p>
+</td>
+<td id="b-0e4e3e5e4329471c9569fa9ad9e59744">
+<p id="b-a0dc1effa3594d1e8cad7771151086e3"></p>
+</td>
+<td id="b-18922acca02d4b6695a41cee21a615be" style="vertical-align:top">
+<p id="b-27389fc252d849be84484d9af71241aa"></p>
+</td>
+<td id="b-203c0c7b05c044f4bf02364e511f0a4a">
+<p id="b-2ccd1de2a49c4a749161ca8ff15c907f"></p>
+</td>
+</tr>
+<tr id="b-6f7019f19802461d9ce9ed6bb83b0137">
+<td id="b-f274e5e62b7a416a8df14c7699d3c109">
+<p id="b-f4231cad639c4009a27b7437533d09a0"></p>
+</td>
+<td id="b-bc49d8d503024e13b5a2a942d9eaa680">
+<h4 id="b-408dd87f887a418989cd76e2a92afbab" style="text-align:center">星座塔罗</h4>
+</td>
+<td id="b-825d15c3247544a3b0c0eac64984ea68">
+<p id="b-d51b5bf2e0c842aa81d223a6fcd2028b"></p>
+</td>
+<td id="b-9ebae0401d054d30af124aa91819feb2">
+<p id="b-e47dda97c0a24f21a6d61ca305839096"></p>
+</td>
+<td id="b-f00957f727e2488581fe96465b4006c7">
+<p id="b-a8847f2bf7194e98aa05e7467b61a825"></p>
+</td>
+<td id="b-137a0ed5cb7e4476b0fb227864e70864">
+<p id="b-a7917ee8e73f4e65ace2c79538acad12"></p>
+</td>
+<td id="b-ea127a287b80466da09d4bd2f3f71661">
+<p id="b-35f0bc2c55094eb98f085d8061714bfd"></p>
+</td>
+<td id="b-621e55bca874481eafea79d76b2d70ac">
+<p id="b-bde14e5792494997a1e3f2d8d0326788"></p>
+</td>
+<td id="b-09da6efe9f734848866a8126d35f55ac">
+<p id="b-db5d1ff891ab4a638b0c7bc13f186c79"></p>
+</td>
+<td id="b-7e6b712c09294962991b518aad68d7f9">
+<p id="b-9a40f3769dd14e91871b8ec992db63ac"></p>
+</td>
+<td id="b-97bfdd3b05034944bb7d9c4fa31b2f24" style="vertical-align:top">
+<p id="b-2dacb09e46444ded8005d1eb4e826260"></p>
+</td>
+<td id="b-1a5dc9afb29f4ca69af2952bb78ba836">
+<p id="b-19d4373d69d640ff9f13cb51ffc36e49"></p>
+</td>
+</tr>
+<tr id="b-ccb9c719c36a4f0a8a2e31cd4c0c4bbe">
+<td id="b-99bd92c3425d4f5f9470b77b57ffa1aa">
+<p id="b-e5643d0c679a40cda76ac9917bc7968d"></p>
+</td>
+<td rowspan="2" id="b-493b832975f4419599204f9faea628e9">
+<h4 id="b-b7a5ea91615a4a868aaa4bcee04bcd43" style="text-align:center">利己咨询</h4>
+</td>
+<td id="b-c99d6485dff9464bb0e64ccf29b48a1c">
+<p id="b-6c5520bfae5c42be9d0aea287e2f701f"></p>
+</td>
+<td id="b-7d283a7b714a45d6bfce3185c139a9ae">
+<p id="b-94f51cbd93454898b35702e83273f2fd"></p>
+</td>
+<td id="b-729f85fdbb5b4e7985d4bef36ffb95b5">
+<p id="b-e8c9ef5a5dd147fa85ccbc6ca5b7c18a"></p>
+</td>
+<td id="b-6a9fdf6aac2b4a3d9c5c3432159528ce">
+<p id="b-bc4c38e67b0f4f7f8036e249eda58a2a"></p>
+</td>
+<td id="b-13dec213b43b42a0bc083b253c82c664">
+<p id="b-718917325fc0422e91a65abb928c7185"></p>
+</td>
+<td id="b-2c4b753e62314c8aae68ff25c86c252c">
+<p id="b-d1ccd815512c4df2af13c38f167919bd">求助</p>
+</td>
+<td id="b-d970aeb844c24fbb922862c5c70d5de6">
+<p id="b-945e9bdc80a94e348860d4438b60b0f1"></p>
+</td>
+<td id="b-eb9cdbbfd210435d941a483cbafc0f5f">
+<p id="b-da38c10e935e49f6a9a3e4a098991431"></p>
+</td>
+<td id="b-95d27abbea7b4f79952ac10a1d8e7de5" style="vertical-align:top">
+<p id="b-69a33ef0857a4191a3b805471e2a84a0"></p>
+</td>
+<td id="b-e2bc3a3e36804f4f883c7ec7f4bd30ef">
+<p id="b-deaa3f0255b04baca87a2a4be4c97d65"></p>
+</td>
+</tr>
+<tr id="b-57c2edf9753d4279bee3670d3e7d886f">
+<td id="b-c12306c2b2ea4236970e2a5be8e788a2">
+<p id="b-fa2f164fd9b84c31b661a12963663850"></p>
+</td>
+<td id="b-d05d521aa9394f53883c385ced7005ff">
+<p id="b-d4395d03927d402abb8c79451eda0182"></p>
+</td>
+<td id="b-1ead749fcc8e479ba5fcd155bd057e0f">
+<p id="b-64e1f2648d5b40778060cb53f6866847"></p>
+</td>
+<td id="b-cb594bc0cb1f4db3a212560ec60a0bf3">
+<p id="b-2b2010ec32584d53b960c852b906fefb"></p>
+</td>
+<td id="b-dc8ffcea6ee44a25bab16e914e81f4d7">
+<p id="b-4018293a95a94bebbbe40ed0b57763d9"></p>
+</td>
+<td id="b-2de1b6a633ae423e9a935a0484467912">
+<p id="b-2cffdc3f1c1149ce83abf4f0aa4a8f99"></p>
+</td>
+<td id="b-0844c9e96e684af0bae51297a823b377">
+<p id="b-29d90d7489be4a069158ee1879f63866">社交</p>
+</td>
+<td id="b-aaebbb9d647940f8bd5cad24d0560f76">
+<p id="b-150d3ab7aff44e229008fa9c6133b542"></p>
+</td>
+<td id="b-0a7b979c09954801b750c49a5be8cbe1">
+<p id="b-d8748946eb7c439986d9e02c1fad10d2"></p>
+</td>
+<td id="b-be4a3a6adca44ffd9109265da7f5c88d">
+<p id="b-34ce94e869f04e509c69285b35f908eb"></p>
+</td>
+<td id="b-38a0e0d7dfd441458d253b8b354d7879">
+<p id="b-a6b450a153c0463ebe681ec927b23ad7"></p>
+</td>
+</tr>
+<tr id="b-0dd3d5c9d4e14a40a894a321011ae72d">
+<td id="b-a1858583dcdc457a80ff84c1b737fad3">
+<p id="b-64f7adb81fdf4f078ae443480f305bac"></p>
+</td>
+<td rowspan="5" id="b-41e35be0640c4f64b6bb3057cc2f9dcf">
+<h3 id="b-69eb5148caeb4d59b13394efc258e0fc" style="text-align:center">低成本创作</h3>
+</td>
+<td id="b-12e6cbbd1911411c8e8f5fc0f1d56ce5">
+<h4 id="b-7d692205555d4c11896c4bb8ae087c67" style="text-align:center">图片二创</h4>
+</td>
+<td id="b-99c5852aed124e9a97db221a45247d2e">
+<p id="b-b7cf0858fde34a19a90219fe9cddcf84"></p>
+</td>
+<td id="b-7928ad33c4434337807a675b45cd7957">
+<p id="b-3a1e0cfe81444f8183fe64fb0d9f01e4"></p>
+</td>
+<td id="b-dd4b15f0bc42473780dec31e5fbb2a45">
+<p id="b-bc0c965f4204444cb8dcf406b02a64ed"></p>
+</td>
+<td id="b-f9a74c70415e402bbeaa421fe8796dea">
+<p id="b-92d427880434409c96d9cfa2c3aa9543"></p>
+</td>
+<td id="b-5e1da9e41f874e37ada2f78febd176cf">
+<p id="b-3d6c284fd624464dadb0393e942ef49d"></p>
+</td>
+<td id="b-7790f0622c5549e295707adc74eac0fd">
+<p id="b-2222aa72a8c4435bb2ebd21f04cf0b82"></p>
+</td>
+<td id="b-cbfbd11de7b343299cdf9cd15c6168d4">
+<p id="b-938bdb08e56f45468a3d5e015c10ed2d"></p>
+</td>
+<td id="b-b3a12a0a1bbc49dfb4530375bc0407a8">
+<p id="b-547589def09149db9ed8c325c891d7b6"></p>
+</td>
+<td id="b-8c073235962341ebad225866a445f58e" style="vertical-align:top">
+<p id="b-a2393df59d1047f9b60b90cbc4718a36"></p>
+</td>
+<td id="b-4133ea0d5ca6433ca6ae34a35d1c0779">
+<p id="b-9ee4c9fcdbb3487e97ae548f599a10b2"></p>
+</td>
+</tr>
+<tr id="b-d1703d8a91864309a5bb3a1e1cd35c73">
+<td id="b-21f82e6df5c34e98bdcb212e0bc27857">
+<p id="b-3c9f5b458dbb4cc29a0cf2afdb9cbb1d"></p>
+</td>
+<td id="b-3b930501c7b84eea931c792a4e50b3d9">
+<h4 id="b-25f2dbff2b144ec9be2e18b681b4e820" style="text-align:center">低质引导互动</h4>
+</td>
+<td id="b-ba8e0f5839ae46bd83e3b261adaf731d">
+<p id="b-790ca7ac6a0342f783965c4e9ecfc284"></p>
+</td>
+<td id="b-2244f54f9a3a40d49f4fe50a64d88b4b">
+<p id="b-2c290f238065499da64284e3225eaa5b"></p>
+</td>
+<td id="b-bf046eb889da44c1b0a67236d11a0e24">
+<p id="b-0db69ba4f00d42629e99a9bcc48b833e"></p>
+</td>
+<td id="b-c5a06b27b48f4a4c98bdac5e20d2ac8a">
+<p id="b-88600cf252f04f87884dc429efb9900b"></p>
+</td>
+<td id="b-bfbfeef9415842cfb6e634dd1cac9c29">
+<p id="b-e56f4a8dcec740bc913a396fb2b969d7"></p>
+</td>
+<td id="b-3a88e83b9223489ea9d720b488aa61f4">
+<p id="b-38fb2be7d01242c98a915014da4f13b8"></p>
+</td>
+<td id="b-be603c7a30574229988f97d27875e9fb">
+<p id="b-dba2ef8cee8c400982c59d0464e49ee5"></p>
+</td>
+<td id="b-e69f3354f4214344b20c4393582e35a3">
+<p id="b-66358440da1c471b8e9e80f7a46e0a19"></p>
+</td>
+<td id="b-44b9f8df5d4a4f9f9e01c941e4c3f1dc" style="vertical-align:top">
+<p id="b-e7883f09e9364c868dbab06d52442730"></p>
+</td>
+<td id="b-19f170e320b44938b3ec26efebb8a47c">
+<p id="b-20bcac5997294f8498444a0c20dc54ed"></p>
+</td>
+</tr>
+<tr id="b-312c4368a6d547829b54a9212c7b084a">
+<td id="b-3a43e22a862143039edf8e114dc15771">
+<p id="b-846a4c72526f4b07b7e0734b1cd1946d"></p>
+</td>
+<td id="b-45efc959cff3455a8cf30da457760aed">
+<h4 id="b-2a4a69e78b9d485896df17b5a4d3aa3f" style="text-align:center">低质拼凑小说</h4>
+</td>
+<td id="b-0b15e1ff8200444a94365e9267edb626">
+<p id="b-26fa9511f3a64f8c930b12ab4cddf7f7"></p>
+</td>
+<td id="b-b00066cce6fa400c85babd703b9e7045">
+<p id="b-b5ba6ffb70234df493faf7e2fc698608"></p>
+</td>
+<td id="b-898de9c2dcd440b0b97496020c878b8b">
+<p id="b-bdcfd4f363584b88a0c756cc23f4b9c0"></p>
+</td>
+<td id="b-8dd3e8c6c6184a5fa9fbffdd1fadc4a8">
+<p id="b-b4c596e6a53b4d5094281987687fa66d"></p>
+</td>
+<td id="b-ded87269916c43cfa5ef6027bb5b3d8f">
+<p id="b-96f999eece4e473ca1812fc0212e4e6b"></p>
+</td>
+<td id="b-723abb3329e0493cbb98854c4bb789e2">
+<p id="b-1ff9e3c64ad44c6292a976b95551cb4d"></p>
+</td>
+<td id="b-21effd8fec924a81a6dc786cf3681952">
+<p id="b-aa1876ec39a944fd81764d64605ad564"></p>
+</td>
+<td id="b-72ebc651bb394685a011b5ac60565016">
+<p id="b-c58109b2f3a9451cbfa00b2288606ca1"></p>
+</td>
+<td id="b-65b52cc641f042c8aa9665e62097e84b" style="vertical-align:top">
+<p id="b-44eb1fcb24124a7db0048eab70835b6b"></p>
+</td>
+<td id="b-d5f3ac8d2d5a4e8aa31df0d0c070b960">
+<p id="b-e87d699c9fb245619e61ba7fdee826f1"></p>
+</td>
+</tr>
+<tr id="b-5fff09edeeee4dd8b9a21c4fb621553f">
+<td id="b-6149d0dbfdbd4e3b8e79c52f6a3689f2">
+<p id="b-2c150b82fc4f45b491587feb85b03a33"></p>
+</td>
+<td id="b-867e7e7f67eb4c76b8195436295fda5f">
+<h4 id="b-983125ff20a249ba9ef11c4d9e6ae972" style="text-align:center">无关拼凑演绎</h4>
+</td>
+<td id="b-9da8dd9c3e154765b509ad79cb6bf125">
+<p id="b-99e2ffeda37348a5abdd1c3235b53e5c"></p>
+</td>
+<td id="b-fa6bdb2030094b24abd34a28cbe5b832">
+<p id="b-14c0a4993fe14680bde2fdef6ea2c0a3"></p>
+</td>
+<td id="b-19d8cf9d1a7040c1add05117e27169a6">
+<p id="b-54bc3b26fbca45c894b7e5b65b15182b"></p>
+</td>
+<td id="b-88c3f638447b4436987a9e1ee66febab">
+<p id="b-d5af011b7dbe4380b83b29e9bbcf491d"></p>
+</td>
+<td id="b-58c8f9265aed492d9c1c81a0a08784e0">
+<p id="b-5d96fd4144844c42b7b832c82ea80745"></p>
+</td>
+<td id="b-19d8f0c7bc4d4c01a368bb78befa89a6">
+<p id="b-347a31f501544ca2b1ad96951893209e"></p>
+</td>
+<td id="b-4f11f4a1e5db4194a371bb4ad19dbac6">
+<p id="b-c96010132e964c72880539cde1954306"></p>
+</td>
+<td id="b-9f7961881df4417f98ffa16098d9bbf8">
+<p id="b-845f96b46ad94ffab771b2af38f2ddc8"></p>
+</td>
+<td id="b-1fb394e2b20f431980675f964240749f" style="vertical-align:top">
+<p id="b-cf7a8c92bd444440a1032e71fe03db86"></p>
+</td>
+<td id="b-d8398f1ec46041d59854546681629c9d">
+<p id="b-11e24d7f9ad34d279baab917298cb7d7"></p>
+</td>
+</tr>
+<tr id="b-aea0929a6d6940d98dede9200d0925a2">
+<td id="b-9e7cf360e5054aa3acc57311e75122f7">
+<p id="b-bf40fa330f9949a09d8b53bd32dfa011"></p>
+</td>
+<td id="b-4b35025d865049f193d52f2f105d2669">
+<h4 id="b-395fc376cc404f5bb32d0237df661e86" style="text-align:center">低质随手拍</h4>
+</td>
+<td id="b-9709bf6ec1ff4b379f5809d90e2d29f9">
+<p id="b-8f1ab468311b4185a556f1c025c97d45"></p>
+</td>
+<td id="b-12114bb20faf4ab09d16ad3c79cc03b2">
+<p id="b-ec02630f74784dcbbf23f6d06666bdb1"></p>
+</td>
+<td id="b-6e62b39422ee424b9300717a7f143b0b">
+<p id="b-2572600d177740b5822d87a0699edb6e"></p>
+</td>
+<td id="b-cc15d93f3c7940189e2e60a4f78512fb">
+<p id="b-93796afa73ed4f1cb81a8009264f2efa"></p>
+</td>
+<td id="b-a76dd863b2634f9aa112c8e594b7bd88">
+<p id="b-f90fa5dafd8f4957b0c4c762723a7352"></p>
+</td>
+<td id="b-027546e8667a46e996f75f73a8d2ea9c">
+<p id="b-4407c9d60646464a93edc3e54ef92d7b"></p>
+</td>
+<td id="b-7d0208a7cd1b4eaeb53776cc7802771f">
+<p id="b-4e2b503294094074a36dfb7aede72fc4"></p>
+</td>
+<td id="b-ff8d0ed8753e4808bd4fb9219c22ac8c">
+<p id="b-a7f577ecbe344c1eb649fd0e3f8bd941"></p>
+</td>
+<td id="b-0d86201a7c0c4ff6b20a2d91b58f7438" style="vertical-align:top">
+<p id="b-17e6737848fc4832a101235b5d1da989"></p>
+</td>
+<td id="b-606005659f8f498db554bc0755890619">
+<p id="b-d73c8503b5da4e1b9dd577e880faa6e3"></p>
+</td>
+</tr>
+<tr id="b-2b0241a382d749cd840c2084f454b140">
+<td id="b-8f1ed784765643bb826884c2a41e3b7b">
+<p id="b-9d9e9bc713764b8a86311389897e8a0a"></p>
+</td>
+<td id="b-509198a2ca0348d79202406167805475">
+<p id="b-2becdaa1f7e846c39afa9c11697449c9"></p>
+</td>
+<td id="b-0a7e0e9270ff4bb896320950cf40e34e">
+<p id="b-b67f777653fb4e4f8e7ad769f6d30b63"></p>
+</td>
+<td id="b-08542169893e459f8eb13065d1a9045e">
+<p id="b-bc1e8a7d930a49bd9fc2d6b7903919d4"></p>
+</td>
+<td id="b-f0316f53bdca44689bbc17e063168f57">
+<p id="b-90795f5b6a3d4cff8216a56be21bbcc3"></p>
+</td>
+<td id="b-925d31c0c1ae473d88abc96b0d68e1c6">
+<p id="b-2f1d214a543642c298768a342185555b"></p>
+</td>
+<td id="b-1700d32002174f178b6cd95a5897d3cd">
+<p id="b-f83b3d771f864c40bb4a50756a75f4ed"></p>
+</td>
+<td id="b-c6afbced88d94cb997f194ce462e3510">
+<p id="b-7f38568855de4561bc4e86df9b01c1b3"></p>
+</td>
+<td id="b-c1f244b063a444829f88d3333a663bc7">
+<p id="b-8f86ac331ab94139bb4c4b43b39b4372"></p>
+</td>
+<td id="b-e9540ba666a048cbac389f5dad9d111d">
+<p id="b-157d3e98ea0e46a89bba1a5f4ed7ad93"></p>
+</td>
+<td id="b-c4fe40c7d7264b75b49d49aba0a4561a">
+<p id="b-dddd4a1c2ff8494ab862c2308db1fb70"></p>
+</td>
+<td id="b-25288fb2f00d46bea5a1c35cc989d3d0">
+<p id="b-49fe77645ca14d3480877b189da225a2"></p>
+</td>
+<td id="b-f0575290b31746fcaf2fe1a2b80ed882">
+<p id="b-33573bcd7b6b4ab38b0df6e9427863c3"></p>
+</td>
+<td id="b-0d4ea776a71843f1a658b216223eb690">
+<p id="b-ef2805e8534c4477ba9fb97e9a2f6581"></p>
+</td>
+</tr>
+</table>
+</div>
+</details>
+<p id="b-47d883b76740419e9481176c22b61438"></p>
+</div>

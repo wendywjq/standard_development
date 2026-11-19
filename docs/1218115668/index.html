@@ -1,0 +1,463 @@
+<!doctype html><html lang="zh-CN"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="referrer" content="no-referrer"><title>3、接入-美团feeds现有type整理</title><link rel="stylesheet" href="../../archive.css"></head><body><header><h1>3、接入-美团feeds现有type整理</h1><p>已保存正文 · 文档 ID 1218115668 · 保存日期 2026-11-19</p><div class="toolbar"><a href="../../index.html">全部文档</a><a href="https://km.sankuai.com/page/1218115668">学城原文</a><a href="README.md">GitHub 阅读版</a></div></header><main><p class="notice">正文与表格已保存；图片、附件、音视频、思维导图及流程图保留原始链接，可能需要学城登录和对应权限。未展开保存正文中的二级引用链接。</p><article><div>
+<h1 id="b-ee329671d1674847ae9ebbe1509cdf5f">3、接入-美团feeds现有type整理</h1>
+<table id="b-b60f0da881b14cc4b7b8ecc1c9a969eb">
+<tr id="b-6a14f8fc2ff74743954265e508356426">
+<th id="b-502be431b7ac43f6bb167921f0cb1a3e" style="vertical-align:middle">
+<p id="b-dad92f2cddf346bd8268064d27eea878" style="text-align:center"><span style="font-size:14px">业务</span></p>
+</th>
+<th id="b-2247f06f80504fbca713b86b4b4779bd">
+<p id="b-334ee7919ebe4dba897956a41ccb6d16" style="text-align:center"><span style="font-size:14px">来源</span></p>
+</th>
+<th id="b-86a6cace79ce4997bb8a4cf55c5c397d">
+<p id="b-07aa8d955075488ab1afe493e014713e" style="text-align:center"><span style="font-size:14px">实时or批量</span></p>
+</th>
+<th id="b-5e8dace2fa1542f78c1de92088d7081e">
+<p id="b-dbd42ea1b6a3400a8f66f169991ed2c1" style="text-align:center"><span style="font-size:14px">type</span></p>
+</th>
+<th id="b-b5d3a6669c3f49808ef22e0703946d09" style="background-color:rgb(247, 247, 247);vertical-align:top">
+<p id="b-4aaa544edfa344b8a63272919c9034f7" style="text-align:center"><span style="font-size:14px"><strong>type名称</strong></span></p>
+</th>
+<th id="b-b7c90c53333849d3a965cd050dad6c3a" style="background-color:rgb(247, 247, 247);vertical-align:top">
+<p id="b-6eca07b56d764c259e2914e9a8cfa7ec" style="text-align:center"><span style="font-size:14px">内容形态</span></p>
+</th>
+<th id="b-7abeb26bc1bb403196e0815e1a1a6afc" style="vertical-align:top">
+<p id="b-9a16ac712dbc4c0eb2e598be4adbb326" style="text-align:center"><span style="font-size:14px">审核方式</span></p>
+</th>
+<th id="b-d680266637a943719fa19b9fce0d8df9" style="vertical-align:top">
+<p id="b-5a3f794c75de49c880d9bfc063bc8aba" style="text-align:center"><span><span style="font-size:14px">标准</span></span></p>
+</th>
+<th id="b-2fb864ddc08440f1b87f8c476663a985">
+<p id="b-e16d5e2376224542bcd8a5fef8261930"><span style="font-size:14px">备注</span></p>
+</th>
+</tr>
+<tr id="b-bc704eea96134a25b23ae0a7c36f262a">
+<td rowspan="3" id="b-4f7a20992765482baf9c468edb9afddb">
+<p id="b-ec953444bbfd4f22b4313575e5b64c21"><span style="font-size:14px">交易视频化</span></p>
+</td>
+<td id="b-fbd38888ea3b46858e48867d3ea1a234">
+<p id="b-ab3e483c1330446f9af432aa36a4f880" style="text-align:center"><span style="font-size:14px">采买</span></p>
+</td>
+<td id="b-0eaa29ab7bc044beb63720c8d7bb3935">
+<p id="b-531ccddc264049a0b5b818c08080f668" style="text-align:center"><span style="font-size:14px">实时</span></p>
+</td>
+<td id="b-5704911507d341678e881da01b0020b4">
+<p id="b-ab03936559a44278b3879bb4d2cc94c1"><span style="font-size:14px">11747</span></p>
+</td>
+<td id="b-38602a13e96a4e569699da74cc1d4065">
+<p id="b-e9dfd8c7995e4effa43795945092b863"><span style="font-size:14px">平台猜喜-文字</span></p>
+</td>
+<td id="b-e68d8de90e7b450cbb5f3a871d321ea2" style="color:rgb(0, 0, 0);vertical-align:middle">
+<p id="b-93583073ad0b41ce9b27d2e126190828" style="text-align:center"><span style="font-size:14px">文字</span></p>
+</td>
+<td id="b-c26b330877ec4da8855293d4613943e1">
+<p id="b-08cd9fbd1bc14b94a5c3a2dd67b0c81f" style="text-align:center"><span style="font-size:14px">机➕人</span></p>
+</td>
+<td rowspan="3" id="b-7fce9eb34420409181100f1c8f8a4018">
+<p id="b-4f531aceb4224e09a30f6dfad5fd9519"><a href="https://km.sankuai.com/page/1218300139" title="https://km.sankuai.com/page/1218300139" id="b-85a878b1deb6453ebb3e0bef911837e4"><span style="font-size:14px">https://km.sankuai.com/page/1218300139</span></a><span style="font-size:14px">+</span></p>
+</td>
+<td rowspan="3" id="b-7721428229014cd3b2d4bdd299d93afd">
+<p id="b-cca4f779c0a44ee6be7de4f06782bfcd"><span style="font-size:14px">搜推交易视频化，视频都从这三个type送审</span></p>
+</td>
+</tr>
+<tr id="b-8420dd820c3d4c2397a2d6e24734064e">
+<td id="b-f95c30b963cc42d4af9c4e2f32eb5e27">
+<p id="b-09819405911442d79d4086f3b23a44d9" style="text-align:center"><span style="font-size:14px">采买</span></p>
+</td>
+<td id="b-d8864150caf04e05bdae9a07060b01f6">
+<p id="b-b61f7979264047b08f9e8fd19c0542bb" style="text-align:center"><span style="font-size:14px">实时</span></p>
+</td>
+<td id="b-7befcd5e59ce469f96dceee3ac9b6157">
+<p id="b-3e07d141372040ee8f77a4f1a921b2e9"><span style="font-size:14px">21100</span></p>
+</td>
+<td id="b-41fb7a2952404c57ab25aa937e620777">
+<p id="b-5a9d0b90f8af4e169834db5a6fd6f3a7"><span style="font-size:14px">平台猜喜-封面图片</span></p>
+</td>
+<td id="b-e7a80e4e62374e389288da7e21008bee" style="color:rgb(0, 0, 0);vertical-align:middle">
+<p id="b-ebe01a51afee4734b645f26f727cda4e" style="text-align:center"><span style="font-size:14px">图片</span></p>
+</td>
+<td id="b-7b2ae9cdee174ef29570b06b5938d899">
+<p id="b-170cf5b8c38545d9aa3e427a185e0b57" style="text-align:center"><span style="font-size:14px">机➕人</span></p>
+</td>
+</tr>
+<tr id="b-28ebc9c91a944283ad3f346d98cf1129">
+<td id="b-5318815fa2c84ed3af437f7839d9ffed">
+<p id="b-2876ca055e974e459e870b8ce75fc28a" style="text-align:center"><span style="font-size:14px">采买</span></p>
+</td>
+<td id="b-8e3c29a80ec24c4a9c7fd11152404afc">
+<p id="b-be501901b41a4e1593792339fab8519f" style="text-align:center"><span style="font-size:14px">实时</span></p>
+</td>
+<td id="b-25ca77c834a64a6f88829003e847a50a">
+<p id="b-c5a3e7802d5946f9bbba6baf1055d5ee"><span style="font-size:14px">40290</span></p>
+</td>
+<td id="b-572f6a7f56884af8b784eb12925308e7">
+<p id="b-b529c93f36ed4c39a90a260750a350df"><span style="font-size:14px">平台猜喜-视频</span></p>
+</td>
+<td id="b-0777c75779ae4ac4973f0adf26645a95" style="color:rgb(0, 0, 0);vertical-align:middle">
+<p id="b-48fcd133fb474fe2adc60d7f8b28e1ab" style="text-align:center"><span style="font-size:14px">视频</span></p>
+</td>
+<td id="b-a0e4c54f96d94256b5e506607b426461">
+<p id="b-af3f83ed93134528af4f0d3b9e754bcc" style="text-align:center"><span style="font-size:14px">机➕人</span></p>
+</td>
+</tr>
+<tr id="b-cfa61a6a35f046b59d312d3202c6b486">
+<td rowspan="4" id="b-efd971179fa0486f86fc6f72adc1edfe" style="color:rgb(0, 0, 0);vertical-align:middle">
+<p id="b-db8e46b2592b44e4a25ece1a759371b2" style="text-align:center"><span style="font-size:14px">交易</span></p>
+</td>
+<td rowspan="2" id="b-096f2d5d64c14830bbbd104a730c2bac" style="color:rgb(0, 0, 0);vertical-align:middle">
+<p id="b-b1e8a214f4ad40cb985e731823c2958b" style="text-align:center"><span style="font-size:14px">交易卡存量（先发后审）</span></p>
+<p id="b-760c5a5f5857492292cf28b1f38087b3"></p>
+<p id="b-adb8420cfb6e4f0fb3fda0050c835c79" style="text-align:center"></p>
+</td>
+<td id="b-566332a961a74c1b9728d8c948dc9fe9">
+<p id="b-13623aaf7777451aaa974ed20aff4ab9" style="text-align:center"><span style="font-size:14px">批量</span></p>
+</td>
+<td id="b-0fba188ebd62477eb7919d9871182aae" style="color:rgb(0, 0, 0);vertical-align:middle">
+<p id="b-9d8fd97c304342c2bddcab5a6639457c" style="text-align:center"><span style="font-size:14px">11129</span></p>
+</td>
+<td id="b-cec8b94250b84a04813357df0869fb87" style="color:rgb(0, 0, 0);vertical-align:middle">
+<p id="b-69dcd9bb98694a7aa25b9ccfaceba342" style="text-align:center"><span style="font-size:14px">首页推荐title存量</span></p>
+</td>
+<td id="b-2f6ba004d208481a9e6698fa9a20c824" style="color:rgb(0, 0, 0);vertical-align:middle">
+<p id="b-5b28fcd2495d4db9abe00e5ff6fdf289" style="text-align:center"><span style="font-size:14px">文字</span></p>
+</td>
+<td id="b-d74e018bbc1449d8bf3747e624f897c1">
+<p id="b-1d8e57882e6946138aa3667dcdddbe46" style="text-align:center"><span style="font-size:14px">机➕人</span></p>
+</td>
+<td rowspan="15" id="b-d9cd1c641f224c4d9a984e1c58276b9e">
+<p id="b-88025743f99f420d811520f87bdad4ee" style="text-align:center"><a href="https://km.sankuai.com/page/1218300139" title="https://km.sankuai.com/page/1218300139" id="b-6922ed2a6cdd45a3b0caa71114c309e0"><span style="font-size:14px">https://km.sankuai.com/page/1218300139</span></a></p>
+</td>
+<td rowspan="4" id="b-f0171dea18f74b7b8eaffe246006b4c1">
+<p id="b-2dc2b5e79ad7470db0bf2a69f0ea2a9e"><span style="font-size:14px">交易数据走先发后审，api落数据送审，无视频</span></p>
+</td>
+</tr>
+<tr id="b-bf1c11f27866405c935a5d757c9c2761">
+<td id="b-f4800342b4d04fe6aeca7725d579aeda">
+<p id="b-105e3c6026874ee3b8994191e37b455f" style="text-align:center"><span style="font-size:14px">批量</span></p>
+</td>
+<td id="b-eb80151b95b94fb99135d2654dda7779" style="color:rgb(0, 0, 0);vertical-align:middle">
+<p id="b-58165051188945308181831bdadec9dd" style="text-align:center"><span style="font-size:14px">20760</span></p>
+</td>
+<td id="b-d0c6855bdec04888b50f0097ce3dde09" style="color:rgb(0, 0, 0);vertical-align:middle">
+<p id="b-80bbe4a78c724769b4de95c30f63dfa5" style="text-align:center"><span style="font-size:14px">首页推荐picture存量</span></p>
+</td>
+<td id="b-6a217e5069de48b0940099299b35f171" style="color:rgb(0, 0, 0);vertical-align:middle">
+<p id="b-fc924229fbae44c5a04a49b81e89a28d" style="text-align:center"><span style="font-size:14px">图片</span></p>
+</td>
+<td id="b-2a67e6f363e64c388802d1ab1945ccc8">
+<p id="b-f33f89fd9c13495395ed0ecd0bbe5235" style="text-align:center"><span style="font-size:14px">机➕人</span></p>
+</td>
+</tr>
+<tr id="b-6f1332759fc34b0294258da2d83d4078">
+<td rowspan="2" id="b-57a4a89d096740d7b1079c0b3c174323" style="color:rgb(0, 0, 0);vertical-align:middle">
+<p id="b-7bcbf15b27d94244ae505685cd1042a9" style="text-align:center"><span style="font-size:14px">交易卡增量（先发后审）</span></p>
+</td>
+<td id="b-02b114d6467f4847add29df9a98075ab">
+<p id="b-89f92fa745d44913a8c1dbb0966f7474" style="text-align:center"><span style="font-size:14px">实时</span></p>
+</td>
+<td id="b-a74d27acc82548a0b930c8fb5801bf21" style="color:rgb(0, 0, 0);vertical-align:middle">
+<p id="b-4ef41385d8cc400a98eccf2baa79e41c" style="text-align:center"><span style="font-size:14px">11130</span></p>
+</td>
+<td id="b-92670681161e419c88482fae835a1315" style="color:rgb(0, 0, 0);vertical-align:middle">
+<p id="b-1bdc39e1fd4e41a7a98a9486bdb824dd" style="text-align:center"><span style="font-size:14px">首页推荐title增量</span></p>
+</td>
+<td id="b-a2334129cea74ab4abee31ab4c1584c7" style="color:rgb(0, 0, 0);vertical-align:middle">
+<p id="b-702e8b1ffbed4f35843ada831fe7d757" style="text-align:center"><span style="font-size:14px">文字</span></p>
+</td>
+<td id="b-98fddef770e246458c77da399cbd9310">
+<p id="b-46c8c95474ac414a9a40dccbe3dd956b" style="text-align:center"><span style="font-size:14px">机➕人</span></p>
+</td>
+</tr>
+<tr id="b-6385119f49e245e0a487676a7961b1bd">
+<td id="b-fca08526975544cda8dd78ef07b4d51e">
+<p id="b-81e2e7e8d9bd4b16a518924f30f9d579" style="text-align:center"><span style="font-size:14px">实时</span></p>
+</td>
+<td id="b-5cd6707332f64754a473f3637e205fee" style="color:rgb(0, 0, 0);vertical-align:middle">
+<p id="b-e14412e14de24c198467dd0c30a981a5" style="text-align:center"><span style="font-size:14px">20761</span></p>
+</td>
+<td id="b-1e9b4cdfd3b14e60ae2c30571e33c43a" style="color:rgb(0, 0, 0);vertical-align:middle">
+<p id="b-89df23098dbb4912966c7a529b9e19f4" style="text-align:center"><span style="font-size:14px">首页推荐picture增量</span></p>
+</td>
+<td id="b-9889f4455344476fb2f5030dd0167f99" style="color:rgb(0, 0, 0);vertical-align:middle">
+<p id="b-f4c9c09fc63a466aa3c6cd24839f87ff" style="text-align:center"><span style="font-size:14px">图片</span></p>
+</td>
+<td id="b-16fec52c2408414dafd06323f865ce5e">
+<p id="b-56e4d5dabf764b8cb1a63ab99b025c6d" style="text-align:center"><span style="font-size:14px">机➕人</span></p>
+</td>
+</tr>
+<tr id="b-7923abe6401048e1a406f7dc0c2e6cf8">
+<td rowspan="9" id="b-0dd402a70097491a98fa5c980fb7b50f" style="color:rgb(0, 0, 0);vertical-align:middle">
+<p id="b-d5a4f73a06694bb78b204d8c129bbfba" style="text-align:center"><span style="font-size:14px">内容</span></p>
+</td>
+<td rowspan="3" id="b-cac33e2ee2fc4aa3b4c3d9be69479bf8" style="color:rgb(0, 0, 0);vertical-align:middle">
+<p id="b-e1d26d54970e4aaf96006a6d36dd58b7" style="text-align:center"><span style="font-size:14px">内容增量</span></p>
+</td>
+<td id="b-800253cf45de4dee9dd8dd05f3ca1029">
+<p id="b-28f60ccedfa847cb9f9dc79f48946d54" style="text-align:center"><span style="font-size:14px">实时</span></p>
+</td>
+<td id="b-1542ade351ae46bd9e7c303d253ddd9e" style="color:rgb(0, 0, 0);vertical-align:middle">
+<p id="b-1ff6497f5eaf4480b9b8a9d9eb91111e" style="text-align:center"><span style="font-size:14px">11104</span></p>
+</td>
+<td id="b-05b46b2b001c443bbcdc118c44b8e982" style="color:rgb(0, 0, 0);vertical-align:middle">
+<p id="b-dbd39902d2dd445ebb87dc04b649cbfc" style="text-align:center"><span style="font-size:14px">点评评论+文字</span></p>
+</td>
+<td id="b-ecd04153034a48e3a4263603f57bdf76" style="color:rgb(0, 0, 0);vertical-align:middle">
+<p id="b-966b3cdec53c4ef0ad941b2273e99cc8" style="text-align:center"><span style="font-size:14px">文字</span></p>
+</td>
+<td id="b-1f689e1bfa4e4c829d9d5440fbb18c74">
+<p id="b-8879fcd2bb294d4abd330d183dc7967e" style="text-align:center"><span style="font-size:14px">机➕人</span></p>
+</td>
+<td rowspan="3" id="b-95829656926e4795884847b50a074a4a">
+<p id="b-16360c4572cb46518a8eba1260e5b643"><span style="font-size:14px">因为点评视频增长，量级有增长；后续内容视频化可能走这三个接入点</span></p>
+</td>
+</tr>
+<tr id="b-91d27557b65f475b8ddabb06aeaa6a55">
+<td id="b-e2df327af64d40a6bbde6b89f1789652">
+<p id="b-34fdaeeb07a344449e8ed317ffb52ee2" style="text-align:center"><span style="font-size:14px">实时</span></p>
+</td>
+<td id="b-cf28cc7b015c47b19a7a85f0288ddedb" style="color:rgb(0, 0, 0);vertical-align:middle">
+<p id="b-c50722a911b3472d8d5ec96c6f2ac4a2" style="text-align:center"><span style="font-size:14px">20750</span></p>
+</td>
+<td id="b-a4b4024b7f1140ba9af0f3efa864ac04" style="color:rgb(0, 0, 0);vertical-align:middle">
+<p id="b-07833042d14e492e99e05e211f018d2b" style="text-align:center"><span style="font-size:14px">点评评论 - 图片</span></p>
+</td>
+<td id="b-a1890b7eb3404db7bbdb85496ad0d20a" style="color:rgb(0, 0, 0);vertical-align:middle">
+<p id="b-f2b43d8b9fe341ecb41474bd3c8aeda4" style="text-align:center"><span style="font-size:14px">图片</span></p>
+</td>
+<td id="b-e73d325e8b9444e89fe64951a65ea642">
+<p id="b-1606856bf5954bbcb791fcc6f6a1430e" style="text-align:center"><span style="font-size:14px">机➕人</span></p>
+</td>
+</tr>
+<tr id="b-01707fdcb54c49b8a3f5c2ea619ed3c2">
+<td id="b-40e1beff431e4b3cad172fc5e7040b6b">
+<p id="b-e455aaaf730944bebc6e00b41010e70a" style="text-align:center"><span style="font-size:14px">实时</span></p>
+</td>
+<td id="b-e3ddc56aaf304964b9e74b2bcbb92323" style="color:rgb(0, 0, 0);vertical-align:middle">
+<p id="b-8c5e8092c8bb4da19696a5500f9a160c" style="text-align:center"><span style="font-size:14px">40174</span></p>
+</td>
+<td id="b-d3983c23b7fc44a99bd05176dc4888fe" style="color:rgb(0, 0, 0);vertical-align:middle">
+<p id="b-356fc9be1c6340649bbd7730910c49be" style="text-align:center"><span style="font-size:14px">点评评论- 视频</span></p>
+</td>
+<td id="b-05653fc84fb04cdb8496e63df68645d1" style="color:rgb(0, 0, 0);vertical-align:middle">
+<p id="b-86110a7e9e0e4c45862b70db7b84faeb" style="text-align:center"><span style="font-size:14px">视频</span></p>
+</td>
+<td id="b-a6adcbd0234b484e97eb725311c4d382">
+<p id="b-5a0d3556d8b647ac84faa75c81f2dd09" style="text-align:center"><span style="font-size:14px">机➕人</span></p>
+</td>
+</tr>
+<tr id="b-1efa280419104b45b5f80f269462bd0b">
+<td rowspan="3" id="b-0fa92ce94bf0466c8f7b9e9fb63954a9" style="color:rgb(0, 0, 0);vertical-align:middle">
+<p id="b-a14dacd4ce134cf1a6de933d01cb3e7b" style="text-align:center"><span style="font-size:14px">内容存量</span></p>
+</td>
+<td id="b-c5c5e712065c417989355b1eb5dab3ae">
+<p id="b-94ef2f8ce1264e87a2f26911f83390c0" style="text-align:center"><span style="font-size:14px">批量</span></p>
+</td>
+<td id="b-d610b37cb15547f9842c2e0a1c6b8aac" style="color:rgb(0, 0, 0);vertical-align:middle">
+<p id="b-c5046eeb825a45e7884ce50a18977497" style="text-align:center"><span style="font-size:14px">11157</span></p>
+</td>
+<td id="b-4da6f4bdb22f4ac18d25ac8ec5eadfc5" style="color:rgb(0, 0, 0);vertical-align:middle">
+<p id="b-050fdb90136d4d9bae12b0ba7d717365" style="text-align:center"><span style="font-size:14px">首页内容数据-文字</span></p>
+</td>
+<td id="b-4578d5cd59fe4e459fd721db9c6077e1" style="color:rgb(0, 0, 0);vertical-align:middle">
+<p id="b-d0450be65b84452b996244e279ed9678" style="text-align:center"><span style="font-size:14px">文字</span></p>
+</td>
+<td id="b-c18a4eab00eb44b991db5a4f48e232a9">
+<p id="b-862d56eb13b046f7895069f417f0c8db" style="text-align:center"><span style="font-size:14px">机➕人</span></p>
+</td>
+<td rowspan="8" id="b-5c0eb815ecd04405ab22cd580252f7cf">
+<p id="b-eb328738f247443681880a1ec742bb74"><span style="font-size:14px">与视频化无关</span></p>
+</td>
+</tr>
+<tr id="b-5678a2c384a74b1c800a00c67881ce56">
+<td id="b-d04fdc05012d46998fc4c57f6646edc2">
+<p id="b-2293b8124f3d4480b6a289b33e475fdf" style="text-align:center"><span style="font-size:14px">批量</span></p>
+</td>
+<td id="b-74e23e235655438e97f2852e7ccf4f16" style="color:rgb(0, 0, 0);vertical-align:middle">
+<p id="b-208e81946ea747e4a29c867cb214025b" style="text-align:center"><span style="font-size:14px">20778</span></p>
+</td>
+<td id="b-4c1dee4b964e4994bc8eea8c525a86cd" style="color:rgb(0, 0, 0);vertical-align:middle">
+<p id="b-9bc32a15f75f4c769364f1e61fa7fa4d" style="text-align:center"><span style="font-size:14px">首页内容数据-图片</span></p>
+</td>
+<td id="b-c6554ee4bd8f41d49e5ed10657a6f279" style="color:rgb(0, 0, 0);vertical-align:middle">
+<p id="b-e5495d5e285f43009af1ded13bf16831" style="text-align:center"><span style="font-size:14px">图片</span></p>
+</td>
+<td id="b-fe31a068e6aa4effa8096c4963f704a9">
+<p id="b-c6cd4e8dac6d47df9c8466914d792a8f" style="text-align:center"><span style="font-size:14px">机➕人</span></p>
+</td>
+</tr>
+<tr id="b-e4cd8469cae14693ac1a67299d212faa">
+<td id="b-c03b6c9bcf1f4a9caa7c7a14efdb1967">
+<p id="b-d84c5ccd445a42eabb523ee532831622" style="text-align:center"><span style="font-size:14px">批量</span></p>
+</td>
+<td id="b-8fe9fd522a3c4d599782e3be5f2396f4" style="color:rgb(0, 0, 0);vertical-align:middle">
+<p id="b-6c23335453204a718793fcba8b2275b3" style="text-align:center"><span style="font-size:14px">40181</span></p>
+</td>
+<td id="b-ef470e3985e24f2c862b38be27b94ca1" style="color:rgb(0, 0, 0);vertical-align:middle">
+<p id="b-d58e4417bcc64a6aad78c1af0fcc73ca" style="text-align:center"><span style="font-size:14px">首页内容数据-视频</span></p>
+</td>
+<td id="b-87b8cb7577e54a409391e6e1052a7ba1" style="color:rgb(0, 0, 0);vertical-align:middle">
+<p id="b-ffcc5f1a7fa8431b8c006f166a683dd5" style="text-align:center"><span style="font-size:14px">视频</span></p>
+</td>
+<td id="b-7034e6c317364a9d871ddbf9ef048311">
+<p id="b-c4fe01b25af0415ab7e28c43b751eced" style="text-align:center"><span style="font-size:14px">机➕人</span></p>
+</td>
+</tr>
+<tr id="b-74b9273927b34969a6389e67d814cde8">
+<td rowspan="3" id="b-e1b2b67926d5452198de867a4544f9cc" style="color:rgb(0, 0, 0);vertical-align:middle">
+<p id="b-124f2cb8b61b400ea60738ce09a6fcf2" style="text-align:center"><span style="font-size:14px">外卖/酒旅/猫眼</span></p>
+</td>
+<td id="b-462d2a83998d4ae8b12da333bd28f3a1">
+<p id="b-7d277f6a5f8b4da39c867925867beb00" style="text-align:center"><span style="font-size:14px">实时</span></p>
+</td>
+<td id="b-0344dc57686c4a1f85f69086df19ebc2" style="color:rgb(0, 0, 0);vertical-align:middle">
+<p id="b-fc31677bcbef4722bf75a747fd24478f" style="text-align:center"><span style="font-size:14px">11055</span></p>
+</td>
+<td id="b-e4c2304d437241bd9125378331d54871" style="color:rgb(0, 0, 0);vertical-align:middle">
+<p id="b-47d92baaef36420f80f0b9eee2eeeab0" style="text-align:center"><span style="font-size:14px">外卖吃啥内容-文字</span></p>
+</td>
+<td id="b-bebfb4bdd263447b83e5e3e5991aca43" style="color:rgb(0, 0, 0);vertical-align:middle">
+<p id="b-a4302870cddd45dba3c9f029f2d2846f" style="text-align:center"><span style="font-size:14px">文字</span></p>
+</td>
+<td id="b-0e31098ac587487595bb00e41db98a7b">
+<p id="b-5c64e8b8053a49deafd996364dfdffba" style="text-align:center"><span style="font-size:14px">机➕人</span></p>
+</td>
+</tr>
+<tr id="b-14a13857b53d4e0697d3e10951c9ded4">
+<td id="b-9c5902856b0f4a059d8a5e7ee3f8aed2">
+<p id="b-0621ce707b3f443995c419def2a9d42a" style="text-align:center"><span style="font-size:14px">实时</span></p>
+</td>
+<td id="b-a122316678d8444d9af32c73dfe4ba16" style="color:rgb(0, 0, 0);vertical-align:middle">
+<p id="b-35c0c213d1e0422a901facabd4952465" style="text-align:center"><span style="font-size:14px">20716</span></p>
+</td>
+<td id="b-21f59ef76165428ca889352a00df9320" style="color:rgb(0, 0, 0);vertical-align:middle">
+<p id="b-f83b2e5f6628437fac0da5ee6f3e8c6b" style="text-align:center"><span style="font-size:14px">外卖吃啥内容-图片</span></p>
+</td>
+<td id="b-2da581544a944c80ad4dc9d14037ea69" style="color:rgb(0, 0, 0);vertical-align:middle">
+<p id="b-528c6b6530394201ae1aed616d15402d" style="text-align:center"><span style="font-size:14px">图片</span></p>
+</td>
+<td id="b-a007d5480274482e89636738a04c636c">
+<p id="b-da8bca0754ad4595b30c6db03c433b52" style="text-align:center"><span style="font-size:14px">机➕人</span></p>
+</td>
+</tr>
+<tr id="b-d734b5657eea44f1971d0b36962f683e">
+<td id="b-481d4c67f8ca4601a1b4c99eb2558ff1">
+<p id="b-71ce8bd39ad24d6fbbaf382f0a13ce5b" style="text-align:center"><span style="font-size:14px">实时</span></p>
+</td>
+<td id="b-be0967b9da4e4b6ba6fb185d6e917e62" style="color:rgb(0, 0, 0);vertical-align:middle">
+<p id="b-d2eea3b6918049da9ed19d89667d70bb" style="text-align:center"><span style="font-size:14px">40160</span></p>
+</td>
+<td id="b-f53b7e4bae314eaa8e3523c154e97c94" style="color:rgb(0, 0, 0);vertical-align:middle">
+<p id="b-1219ace57e27496daa4cf0fd4e83319b" style="text-align:center"><span style="font-size:14px">外卖吃啥内容-视频</span></p>
+</td>
+<td id="b-d9e9d3bfc6e642fdace923a4603f6339" style="color:rgb(0, 0, 0);vertical-align:middle">
+<p id="b-a68e2ecce8b04b9f871f2eca377afda4" style="text-align:center"><span style="font-size:14px">视频</span></p>
+</td>
+<td id="b-a61a5e274a444120a4568a661111ba9d">
+<p id="b-4bd02e53a8874c7893b74f3b9be58bcc" style="text-align:center"><span style="font-size:14px">机➕人</span></p>
+</td>
+</tr>
+<tr id="b-cbdbf85155d247b5958c5cae79d8e48d">
+<td rowspan="2" id="b-1a262555647e42f1b994857fc8885b8a">
+<p id="b-3aee96f65590477584213bbab7b378aa" style="text-align:center"><span style="font-size:14px">推荐语</span></p>
+</td>
+<td rowspan="2" id="b-e2a85cbe9d6d4a90b36c993abe25cd2c">
+<p id="b-36d89b5973a14c259c62e1fe6d00a8c4" style="text-align:center"><span style="font-size:14px">推荐语</span></p>
+</td>
+<td id="b-520b42e64ea245628cdb74a7429c2f19">
+<p id="b-777331b79b4645429b07c0c97af3fffd" style="text-align:center"><span style="font-size:14px">实时</span></p>
+</td>
+<td id="b-bf04ffa921c94a4fbaa1310e37cd382b">
+<p id="b-bb3f0e90177d4e5ab3f8199b979bb3e4" style="text-align:center"><span><span style="font-size:14px">10841</span></span></p>
+</td>
+<td id="b-6f9280581aa9459a80d65c817f2023f3">
+<p id="b-e83ad886604b44629d0fbde7480d000d" style="text-align:center"><span style="color:rgb(96, 98, 102)"><span style="font-size:14px">美团首页推荐语</span></span></p>
+</td>
+<td id="b-c2549c12e09f4df391be374502a3989a">
+<p id="b-650977d4ad674258a6131a20d01615b5" style="text-align:center"><span style="font-size:14px">文字</span></p>
+</td>
+<td id="b-b2434bbd7d574d379b7d6ab1f752feae">
+<p id="b-464a795541f4408ea06643044e090a22" style="text-align:center"><span style="font-size:14px">纯机审</span></p>
+</td>
+</tr>
+<tr id="b-76f2b7f1135f48f49dc999d7bd2e0b28">
+<td id="b-07c49d130908403e97db0cb7c192351c">
+<p id="b-6342de4141a2445aadf5b2a99f2eb248" style="text-align:center"><span style="font-size:14px">实时</span></p>
+</td>
+<td id="b-23c1f2fb698b4d06a850eeb469b5f40e">
+<p id="b-56f47d6acf644c5e9b2527caeab6e6f7" style="text-align:center"><span style="color:rgba(0, 0, 0, 0.87)"><span style="font-size:14px">11315</span></span></p>
+</td>
+<td id="b-1c2f517dc9bc4c6e9f2205f64965a3e9">
+<p id="b-ee2fb51ae1174f3a99cd30b4b2f56d75" style="text-align:center"><span style="color:rgb(96, 98, 102)"><span style="font-size:14px">美团推荐推荐语</span></span></p>
+</td>
+<td id="b-f0b862ce96c4407fb36fadec0fda2394">
+<p id="b-985a5754458341faa455f5f532d59e17" style="text-align:center"><span style="font-size:14px">文字</span></p>
+</td>
+<td id="b-478b0f1d745e4e3d8cd7ee4ecaa28349">
+<p id="b-40a2841b9c914383be86c4cae38f0118" style="text-align:center"><span style="font-size:14px">纯机审</span></p>
+</td>
+</tr>
+<tr id="b-6c1dc5720d7348b7bd5ec39472122326">
+<td rowspan="3" id="b-353d8df0fb3c4aab96559a816059e1de" style="vertical-align:middle">
+<p id="b-b9ba2a7280c14a17b91da178173b7bf0" style="text-align:center"><span style="font-size:14px">回应</span></p>
+</td>
+<td rowspan="3" id="b-4f497e93e8964720a3aba861875b7b39" style="vertical-align:middle">
+<p id="b-fb0bac0ee4114ce3863c3bae19aa1a63" style="text-align:center"><span style="font-size:14px">笔记回应</span></p>
+</td>
+<td id="b-d3ec73a7956649f6855d551645947e4a" style="vertical-align:middle">
+<p id="b-d5486b8312ff4898bb53b2caedfb682c" style="text-align:center"><span style="font-size:14px">实时/批量</span></p>
+</td>
+<td id="b-a70adccdbcd54f49beaffc3143bc22e9" style="vertical-align:middle">
+<p id="b-592b96b50eea4c3ca8fe7cecbaac4cfb" style="text-align:center"><span style="font-size:14px">11514</span></p>
+</td>
+<td id="b-0c911b7c23104a779c8ae9680c653c20" style="vertical-align:middle">
+<p id="b-e10c8e0b4a6f4c65adaa330ff80b7a98" style="text-align:center"><span style="color:rgb(96, 98, 102)"><span style="font-size:14px">首页猜喜内容评论</span></span></p>
+</td>
+<td id="b-9bead862dddf409b839f500fa2234c2d" style="vertical-align:middle">
+<p id="b-38cfef2296cf4d89bd44635638420a7b" style="text-align:center"><span style="font-size:14px">文字</span></p>
+</td>
+<td id="b-18fc514c7562414fb5d8d3589d101904" style="vertical-align:middle">
+<p id="b-6f443c36458f4f16aaa303b04f41049d" style="text-align:center"><span style="font-size:14px">机➕人</span></p>
+</td>
+<td rowspan="3" id="b-65a01a07b0004a33bd4be824c5bdc0e7" style="vertical-align:middle">
+<p id="b-bbf062d53e2b454d847b82391db631dd" style="text-align:center"><a href="https://km.sankuai.com/page/1218229787" title="https://km.sankuai.com/page/1218229787" id="b-d2553b5d13a44e14854fef2236ea91bb"><span style="font-size:14px">https://km.sankuai.com/page/1218229787</span></a></p>
+</td>
+<td rowspan="3" id="b-9e01e376e7014aa8afc3a33cf52aa618">
+<p id="b-29198aab89e44184b8a82f1873c7b82b"><span style="font-size:14px">回应</span></p>
+</td>
+</tr>
+<tr id="b-d8bfa79ae96a4ad2ae19200f9d6d7e22">
+<td id="b-461a23d26f38400ab455efc60fe7838a" style="vertical-align:middle">
+<p id="b-ee2c3227ea6148abadcc204892d1af7e" style="text-align:center"><span style="font-size:14px">实时</span></p>
+</td>
+<td id="b-11880111a56f4ef6accd65ab522c1dc4" style="vertical-align:middle">
+<p id="b-3d072102d0f84f6c958765caf60d8f62" style="text-align:center"><span style="font-size:14px">11334</span></p>
+</td>
+<td id="b-030362e7788b42aa9e63d4979f951272">
+<p id="b-2d963afca49d4452b4a5f1e2269920d3"><span style="font-size:14px">首页猜喜内容评论-文字</span></p>
+</td>
+<td id="b-7ed557f4119b428fb79e6f0878e6bdf4" style="vertical-align:middle">
+<p id="b-ca2ff9010a194016ab60b1bf86ed1afb" style="text-align:center"><span style="font-size:14px">文字</span></p>
+</td>
+<td id="b-955a8e31251e455897bfec0ea7012cab" style="vertical-align:middle">
+<p id="b-7f933bbac32741b3bc3427c710f457b2" style="text-align:center"><span style="font-size:14px">机➕人</span></p>
+</td>
+</tr>
+<tr id="b-327163363cf14ff7a098e96b96a92ae7">
+<td id="b-1aa16355b6a14d55b3a1be81032b7057" style="vertical-align:middle">
+<p id="b-348d6b7970844c4f9941a8b0d6a94c6f" style="text-align:center"><span style="font-size:14px">实时</span></p>
+</td>
+<td id="b-dea18bbd070342218dc699002a685e6a" style="vertical-align:middle">
+<p id="b-729ed7c5d9c04a0baea06c18a35f795c" style="text-align:center"><span style="color:rgba(0, 0, 0, 0.84)"><span style="font-size:14px">11361</span></span></p>
+</td>
+<td id="b-7c9b978c3496410d866c0e4594bc81f8">
+<p id="b-15da63639a1245a49f4de23ef7bc21b7" style="text-align:center"><span style="color:rgba(0, 0, 0, 0.84)"><span style="font-size:14px">美团猜喜评论-文字（前置）</span></span></p>
+</td>
+<td id="b-c6be95a9e57a40b589ba961687e209cc" style="vertical-align:middle">
+<p id="b-54963146287f4fda857f45389844b418" style="text-align:center"><span style="font-size:14px">文字</span></p>
+</td>
+<td id="b-d019b50f1b2a4cb4a7c5a6b8ff08ece2" style="vertical-align:middle">
+<p id="b-b1254fb56d294913a8327aff2d924994" style="text-align:center"><span style="font-size:14px">纯机审</span></p>
+</td>
+</tr>
+</table>
+<p id="b-3917c65b4b43436a90577aaaa019a198"></p>
+</div></article></main></body></html>

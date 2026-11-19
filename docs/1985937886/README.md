@@ -1,0 +1,566 @@
+# 平台保护审核标准
+
+[返回目录](../../README.md) · [学城原文](https://km.sankuai.com/collabpage/1985937886) · 已保存正文 · 2026-11-19
+
+> 正文保留表格和折叠结构。图片和媒体仅保留原始链接，需要学城访问权限。完整源数据见同目录 source 文件。
+
+<div>
+<h1 id="b-71e03e3966b74970abb182459bfe2d3c">平台保护审核标准</h1>
+<details id="b-4f85ee31661744cb83f181379d9b9a5a">
+<summary>更迭日志</summary>
+<div>
+<ol id="b-fe61120756414edfbb12c6a0118d994a">
+<li id="b-42f1ce672e1d42de83fa70d618e5343d">迁移自原不当言论-负面评价-公司负面&amp;其他差评2个三级标签。</li>
+</ol>
+</div>
+</details>
+<p id="b-6311ac75aa274a37abb4b3b1c0121852"><span style="color:rgb(245, 35, 45)"><strong>此文档内【平台保护-友商广告、平台负面】标准生效</strong></span></p>
+<table id="b-6142791251d64aa0b0c7266930513f71">
+<tr id="b-2cb036dca5084b80ace701c30e581093">
+<th colspan="3" id="b-8359a0195d874218ab32c39ca978609a" style="background-color:rgb(246, 246, 246);vertical-align:top">
+<p id="b-e642b554fbae4a25ad418ef4fe0ec67b" style="text-align:center"><span style="font-size:16px"><strong>V3标签体系</strong></span></p>
+</th>
+<th colspan="3" id="b-8cce1196ecf945d18f49bf81a602ac35" style="vertical-align:top">
+<p id="b-b700d80de55141a3ae9ee4da0f3d0169" style="text-align:center"><span style="font-size:16px"><strong>V2标签体系</strong></span></p>
+</th>
+<th colspan="2" id="b-0f48b457666a43e7bfd49ebde1acd4be" style="vertical-align:middle">
+<p id="b-3b344d18e2f24afc81bebe46659205b4" style="text-align:center"><span style="font-size:16px"><strong>V1标签体系</strong></span></p>
+</th>
+<th rowspan="2" id="b-06c0cd92c1e34b2ca50f85e0204f228b" style="background-color:rgb(246, 246, 246);vertical-align:middle">
+<p id="b-bedd2531fd5745548943ef6657b1ac21" style="text-align:center"><span style="font-size:16px"><strong>风险点</strong></span></p>
+</th>
+<th rowspan="2" id="b-722971b4dd3948ebaf5a873c16e0c8b4" style="background-color:rgb(246, 246, 246);vertical-align:middle">
+<p id="b-31bc43e4052b439584e03aa0aa6b8456" style="text-align:center"><span style="font-size:16px"><strong>细则和具体定义</strong></span></p>
+</th>
+<th rowspan="2" id="b-b31886c8584042788cccb3c56808c3c4" style="background-color:rgb(246, 246, 246);vertical-align:middle">
+<p id="b-6d02b43ba5554f258475c57e43fdd8b3" style="text-align:center"><span style="font-size:16px"><strong>文字样本</strong></span></p>
+</th>
+<th rowspan="2" id="b-6844a24d780f437baefc7b3876e8d284" style="background-color:rgb(246, 246, 246);vertical-align:middle">
+<p id="b-34adee12857f4de3a78f5a5d5d1f7175" style="text-align:center"><span style="font-size:16px"><strong>图片样本</strong></span></p>
+</th>
+<th rowspan="2" id="b-b1b16cecb0d94565b90910d6b6e94e2f" style="background-color:rgb(246, 246, 246);vertical-align:middle">
+<p id="b-2bf1f843adaa4129aa369110340481b8" style="text-align:center"><span style="font-size:16px"><strong>豁免样本及备注</strong></span></p>
+</th>
+</tr>
+<tr id="b-6885ff714bd14502b4363bd30eeb7cb5">
+<td id="b-cfc71d4507d8463bbeba5302bd8ac526" style="background-color:rgb(244, 245, 247);vertical-align:top">
+<p id="b-223c73d8d9824dee8e403774ea6517a4" style="text-align:center"><span style="color:rgb(0, 0, 0)"><span style="font-size:16px"><strong>一级标签</strong></span></span></p>
+</td>
+<td id="b-ddab3192f6c34eed993adc61c3b8a933" style="background-color:rgb(244, 245, 247);vertical-align:top">
+<p id="b-f7d5d3e17022472284fa6622e0a68a93" style="text-align:center"><span style="color:rgb(0, 0, 0)"><span style="font-size:16px"><strong>二级标签</strong></span></span></p>
+</td>
+<td id="b-109130e7941b41e6b8e7a8598c502ceb" style="background-color:rgb(244, 245, 247);vertical-align:top">
+<p id="b-f5a2150855bb46648184291a89a632b7" style="text-align:center"><span style="color:rgb(0, 0, 0)"><span style="font-size:16px"><strong>三级标签</strong></span></span></p>
+</td>
+<td id="b-88a8ad6e394144b3bff1bdd79dd7be2f" style="background-color:rgb(244, 245, 247);vertical-align:top">
+<p id="b-f83d441a8ee142b1a2edaadf27b2f184" style="text-align:center"><span style="font-size:16px"><strong>一级标签</strong></span></p>
+</td>
+<td id="b-8edb464c0c3648149de782fd0b7cdb8c" style="background-color:rgb(244, 245, 247);vertical-align:top">
+<p id="b-2b24c5cc8f724c44afb0e3a83d95e183" style="text-align:center"><span style="font-size:16px"><strong>二级标签</strong></span></p>
+</td>
+<td id="b-7ff551b538ef478598549074cf3b5858" style="background-color:rgb(244, 245, 247);vertical-align:top">
+<p id="b-b1a3e1d2ac924b2a97597b4589253a4a" style="text-align:center"><span style="font-size:16px"><strong>三级标签</strong></span></p>
+</td>
+<td id="b-8d842fce5c9a46c48a7f4cc525bd4eb5" style="background-color:rgb(244, 245, 247)">
+<p id="b-02461297d0974a5bb510fe2281c2990c"><span style="font-size:16px"><strong>一级标签</strong></span></p>
+</td>
+<td id="b-8c1e7750ab7446898954d86a723b03ed" style="background-color:rgb(244, 245, 247);vertical-align:middle">
+<p id="b-22dddb02ea734daebc1c235074842d93" style="text-align:center"><span style="font-size:16px"><strong>二级标签</strong></span></p>
+</td>
+</tr>
+<tr id="b-2923d372cfd443bd8907835154d00655">
+<td rowspan="7" id="b-2bbc627235c64b4f8f8ef5c8f095fc6d">
+<h1 id="b-092aeb2deebe453c8701ea33c3c24f89" style="text-align:center">平台保护</h1>
+</td>
+<td id="b-121b4133fc1f46b8a8805c23d07796e5" style="background-color:#FFD4CC">
+<h2 id="b-27aff2bf35ff493387d7f8c6eb1f3b3e" style="text-align:center">友</h2>
+<h2 id="b-299e9b10f8ae435cb676785484d58e9d" style="text-align:center">商</h2>
+<h2 id="b-e1f5b3840f944a41863dfbbf0ff590b9" style="text-align:center">广</h2>
+<h2 id="b-41b79aa0f9084e70913bf58f05ae4d6c" style="text-align:center">告</h2>
+</td>
+<td id="b-02a1d758e7644470bd89f540197bffba">
+<p id="b-af00ccaf9f2a4a64bc6b7363bea60685"></p>
+</td>
+<td id="b-a82329c9b237469e803da11935793c94">
+<p id="b-62515569c2144795aa3b3567642f78ec"></p>
+</td>
+<td id="b-fe317f88b2dc456ea8c1d0d07a2d76d4">
+<p id="b-cbe2ccee20c746538c33da9dc248ee79"></p>
+</td>
+<td id="b-71ebc577462f4fc2b3fc09364a005c35">
+<p id="b-b75b3a77eeed4d39bf247b697bef2316"></p>
+</td>
+<td id="b-eabc0f04c2f949e9bfb4d785f2ce21a3">
+<p id="b-0cfced9bdbb24ef3af6b1c782dde4a4e"></p>
+</td>
+<td id="b-731313ccdc724551a4f41a770afb09fc">
+<p id="b-4eb5b27a75654605bc00b19af8655712"></p>
+</td>
+<td id="b-c851862950344ef4815caeed83ad69d1">
+<p id="b-dfa62cd8ab904fe2a23a7330588c5d20">针对“京东”相关内容进行舆情监管需求管控。</p>
+</td>
+<td id="b-52f51b349817440bb1c8d7e533e710d3">
+<p id="b-36f120ad26e748af9d0e010a2fe86201"><span style="color:rgb(255, 74, 71)"><span style="font-size:15px"><strong>打标：</strong></span></span></p>
+<p id="b-bf625fa7a2234b8392113188d4e33f14"><span style="font-size:15px">【文/图/视/音】</span></p>
+<ol id="b-0cca41dc0e324daba2a2cc7f4bfec493">
+<li id="b-5196949a68cc4e029c1cdd93120524c7"><span style="font-size:15px">线上涉刘强东、强东、狗东、京东外卖、京东秒送、王兴、张一鸣、马云、马爸爸、蒋凡、程维的字样/拼音内容。</span></li>
+<li id="b-41f9f25b5294454ab73167a2d49091c6"><span style="font-size:15px">涉京东刘强东、王兴、张一鸣、马云、蒋凡、程维的真人或动漫形象。</span></li>
+<li id="b-e46b010235054010a7ff933d0a990f6b">
+<p id="b-47824373767a47c9a2d4da32f7cd7be0"><span style="font-size:15px">线上涉京东、京东外卖、京东秒送的logo或者水印。</span></p>
+<details id="b-c80d2035cc874211be3fcce37b735e2d">
+<summary><span style="font-size:15px"><strong>京东logo&amp;水印（样本不泛化、变体可泛化，</strong></span><strong>适用于定于3</strong><span style="font-size:15px"><strong>）</strong></span></summary>
+<div>
+<p id="b-91ca8c5baa144680b8bbab6b324abe19"><span style="font-size:15px"><strong>logo</strong></span></p>
+<p id="b-c88b6764a8974afc9ca0952a01854500"><img src="https://km.sankuai.com/api/file/cdn/1985937886/237674944499?contentType=1&amp;isNewContent=false" width="110" height="106" id="b-9686eb4e05e941f79b6385d57e04ce09" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1985937886/237677164838?contentType=1&amp;isNewContent=false" width="102" height="107" id="b-c216f01764fb4d9b9a4c07d50388709a" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1985937886/237674944500?contentType=1&amp;isNewContent=false" width="107" height="107" id="b-718a723d9ecd4b17810990f5ae3afc59" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1985937886/237678438921?contentType=1&amp;isNewContent=false" width="160" height="48" id="b-c50e3dd057b94bd8bec22336e49e8968" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1985937886/237671854020?contentType=1&amp;isNewContent=false" width="175" height="136" id="b-aa63dd8e95ae4f9c8561e9318f08546a" alt="原文图片（需学城权限）"></p>
+<p id="b-859f67cfffa746ba9153727b5ea6ee6d"><span style="font-size:15px"><strong>水印</strong></span><br><img src="https://km.sankuai.com/api/file/cdn/1985937886/237677802577?contentType=1&amp;isNewContent=false" width="219" height="54" id="b-d1d87dd75d0c4a1c89fec0c864b6f75e" alt="原文图片（需学城权限）"></p>
+<p id="b-971ca45cab494cc292676d6a7afb04f7"><img src="https://km.sankuai.com/api/file/cdn/1985937886/237677164817?contentType=1&amp;isNewContent=false" width="227" height="227" id="b-85a0bde86da04f848d5037f61fc45eb3" alt="原文图片（需学城权限）"></p>
+<p id="b-30f62fc670954d32968e1ab4cc1147b9"><span style="font-size:15px">京东秒送</span></p>
+<p id="b-ed7c2e8d190e491d8924c70e31baeb38"><img src="https://km.sankuai.com/api/file/cdn/1985937886/237678827777?contentType=1&amp;isNewContent=false" width="177" height="158" id="b-7e49a5c675004c5c8bef44a50865d2f6" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1985937886/237675886095?contentType=1&amp;isNewContent=false" width="205" height="148" id="b-d268888d78ad43a8b719d2c9dcc60fde" alt="原文图片（需学城权限）"></p>
+<p id="b-6b9cb116df8f470a976ac2e1fc9746d1"><span style="font-size:15px">京东外卖</span></p>
+<p id="b-db18caee0bdd4923bc0bdec3aa490087"><img src="https://km.sankuai.com/api/file/cdn/1985937886/237679229039?contentType=1&amp;isNewContent=false" width="179" height="103" id="b-64eafeee04ea434a9597d5735440dca3" alt="原文图片（需学城权限）"></p>
+</div>
+</details>
+<p id="b-8ca3e7d2322543ed9b9d569e38407d67"></p>
+</li>
+</ol>
+<p id="b-8f19fec82e224d4381583db96ebf3f9c"><span style="color:rgb(0, 186, 115)"><span style="font-size:15px"><strong>豁免：</strong></span></span></p>
+<ol id="b-255940c2286b4038815c42af17effc58">
+<li id="b-ff36fff9444d427b86155e8f98a6070f"><span style="font-size:15px">提及商家店铺名称且与关联信息的商户名完全一致的。</span></li>
+<li id="b-85f78c84a34b4643b3af6788866d4fdd"><span style="font-size:15px">商品外包装上的产品名称。</span></li>
+<li id="b-8055b46865b9441cbe46eccb19e495dc"><span style="font-size:15px">出版物中的书名、作者、编者等涉及刘强东、王兴、张一鸣、马云、蒋凡、程维的姓名无需打标。</span></li>
+</ol>
+</td>
+<td id="b-9b1e1f5cf13845cfb39f50cad3d7dfa8">
+<ul id="b-a6113c8afb5e4cffbc13ec583a1642c8">
+<li id="b-02a7b949d7f14b4caca902a843a01002">强东：不奋斗的不是我兄弟</li>
+<li id="b-a6c5ed14788c425b9c10557c2636520e">狗东还挺便宜啊</li>
+<li id="b-8292439d69b64df38e0b5ecc246ad846">王兴 你妈逼你回家吃饭</li>
+<li id="b-fecea5b152ed4eee906ac53692b3e3d2">我是王兴他爸爸</li>
+<li id="b-cba6148577bf4374b7b3a93cf3397742">早上点餐的，去马云app下单，有骑手，这个平台太Lou了</li>
+<li id="b-27bd651ba6e347d48ca30eccca2bc226">下单送彩票！不中没关系，多一个机会实现财富自由！梦想还是要有的，万一实现了呢——马云</li>
+<li id="b-b428bc4792d0447d8b6312e567aba6e6">马云最爱的小卷饼</li>
+<li id="b-e494dcef6b424679afe9843b9654d6ac">
+<p id="b-7bfc89f6a45d43f0af924a2c98f80afc">纯人名（其他老板人名同理）：</p>
+<ol id="b-71a53a6d94f74c528f9771d229951c29">
+<li id="b-0adfe9add4784975b714f955a59b24a8">王兴</li>
+<li id="b-a196fb0f26e14c478ebb77c81cbc0e42">马云</li>
+<li id="b-1a4ef3686611456e8d2277d33ea88abb">马爸爸</li>
+<li id="b-93387b2c106747e99af57cabc0f85826">张一鸣</li>
+</ol>
+</li>
+<li id="b-bfdc055dd2cf435eae57839b970a503f">你们宁可熬夜凌晨给马爸爸送钱，也不愿意中午12点点一杯小规模，我的眼泪PradarPrada的往下Dior...</li>
+<li id="b-edfc51a9004244528dcb8a84a80f3605">美团被关一天，想吃的在马爸爸平台下单</li>
+<li id="b-4374efe5b4974bb0b4b427ba3a1557d0">可在“e了？”“马爸爸支付”🔍《魏家凉皮武都路店》下单，配送费更低，配送更快捷，期待你们的光临！谢谢🙏</li>
+</ul>
+</td>
+<td id="b-981f8d3809444cfbb749a5dcf495519d">
+<ol id="b-615238fc8bfe41d0bcedb494f0c07624">
+<li id="b-fb87154f2aed4975aa345222c761ebb7">
+<p id="b-f7eaae1f1a034a87b2201a299e844230"><span style="font-size:15px">刘强东</span></p>
+<p id="b-33a4b07d7c1d4d04ac9aff2026b87653"><img src="https://km.sankuai.com/api/file/cdn/1985937886/237680994330?contentType=1&amp;isNewContent=false" width="77" height="146" id="b-1c38ebb12d2c4129a81c2ea719a316d6" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1985937886/237678467392?contentType=1&amp;isNewContent=false" width="103" height="143" id="b-2e8ac04f309640909fa4fcdcffc97ebe" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1985937886/237675914555?contentType=1&amp;isNewContent=false" width="184" height="129" id="b-216305da80fb4ede94461f533e43eccf" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1985937886/237677511481?contentType=1&amp;isNewContent=false" width="102" height="133" id="b-f6fd9841fc044fa3bdd8f5ee0c194f2c" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1985937886/237680515852?contentType=1&amp;isNewContent=false" width="195" height="113" id="b-507b87e2677d4e578ebf0adaef6d8241" alt="原文图片（需学城权限）"></p>
+</li>
+<li id="b-9696c7cc4e514e30925a38b967e142ad">
+<p id="b-46a72bcbd1484bc39dff226b2d00ea3e">王兴</p>
+<p id="b-b420ab7246f04701a2eb7b6ca65f511b"><img src="https://km.sankuai.com/api/file/cdn/1985937886/237679250742?contentType=1&amp;isNewContent=false" width="128" height="143" id="b-f21aa6a4d2ee4d7392d1d318628ccf33" alt="原文图片（需学城权限）"></p>
+</li>
+<li id="b-bb4f964ddc234088997ccab45c6d6062">
+<p id="b-38ab926f91e14d83848c532f4ff49a23">张一鸣</p>
+<p id="b-0b4f63a5395c4ad58cbc04623ad41fc5"><img src="https://km.sankuai.com/api/file/cdn/1985937886/237679412142?contentType=1&amp;isNewContent=false" width="107" height="136" id="b-fd00f69c4f7d4bef90f4f4476af0ad8b" alt="原文图片（需学城权限）"></p>
+</li>
+<li id="b-41fa4be042e74ebd8cd2704e77b96607">
+<p id="b-9bd3f911d4ce417485984b565c912056">马云</p>
+<p id="b-4c05aa1f2d0947369299feb3ab10bd61"><img src="https://km.sankuai.com/api/file/cdn/1985937886/237676873001?contentType=1&amp;isNewContent=false" width="101" height="148" id="b-32dd71889e6046518dc6ebd2670bf902" alt="原文图片（需学城权限）"></p>
+</li>
+<li id="b-5da16c22bcf547fc8799ff3082cb4689">
+<p id="b-0431491ca9c842b7bd99de88f1ec9224">蒋凡</p>
+<p id="b-339e3504bbb44b2baad961cd1e79e200"><img src="https://km.sankuai.com/api/file/cdn/1985937886/237680676531?contentType=1&amp;isNewContent=false" width="126" height="188" id="b-f9f828f6b9a04df2a0bdf20bf4d05a9a" alt="原文图片（需学城权限）"></p>
+</li>
+<li id="b-5960104f10b04d04bc56a12be12da648">
+<p id="b-c813c2be3794462eb27bd44df4c0492f">程维</p>
+<p id="b-c61a5119305b480ba8ec4c3f43a926d0"><img src="https://km.sankuai.com/api/file/cdn/1985937886/237673379480?contentType=1&amp;isNewContent=false" width="126" height="84" id="b-cb272099db9d46038ec1b1f5bed5ea16" alt="原文图片（需学城权限）"></p>
+</li>
+</ol>
+<p id="b-e8f0be3bd2d04ea6836521b1934ad8a3"></p>
+</td>
+<td id="b-aa975ecdc60e4dd1b655845020737bf4">
+<p id="b-30a62a71f4434c10b21d2ecddc7b56f5">辣菜王兴城店（指的是兴城店）<br>炒粉王兴华街店（指的是兴华街店）<br>饺子王兴才食堂店（指的是兴才食堂店）</p>
+<p id="b-7681731a0d1e447595ae1b88391b4656">海王兴辣白菜<br>马云烧烤</p>
+<p id="b-ccf62e31bc8043deb098277b966ac2d0"><span style="color:#000">书名：《滴滴(分享经济改变中国)》，定价: 58元，ISBN: 9787115425034，出版社: 人民邮电出版社，作者:作者:程维//柳青|编者:张晓峰，出版日期:2016-07-01，版次:1，印次:1，</span></p>
+<p id="b-a891dcfc9d944be8935dc92d12ae095d">商品外包装上的产品名：</p>
+<p id="b-71338360833b47c78089e3ee1738397d"><img src="https://km.sankuai.com/api/file/cdn/1985937886/237676233745?contentType=1&amp;isNewContent=false" width="169" height="155" id="b-1a2b651fd62e44859bcd21a2f02d0d7b" alt="原文图片（需学城权限）"></p>
+<p id="b-3e59358c8de642509f07139601cc4078"><img src="https://km.sankuai.com/api/file/cdn/1985937886/237675914485?contentType=1&amp;isNewContent=false" width="107" height="146" id="b-223a67437856423e85c765bf58f96ee9" alt="原文图片（需学城权限）"></p>
+</td>
+</tr>
+<tr id="b-70db622cb5494d3f99ad1065ed09e9e1">
+<td rowspan="5" id="b-e0d9fce4db454e33852e8ac9b74b185f" style="background-color:#FFDBC7;vertical-align:top">
+<h2 id="b-3f160a3da1a2409ca31fa47cf7c62448" style="text-align:center">平</h2>
+<h2 id="b-8f6f8d5f078346daa03458e54fb22e3f" style="text-align:center">台</h2>
+<h2 id="b-38ab82c7f8a0453fa89c0dddc4363d24" style="text-align:center">负</h2>
+<h2 id="b-cedc542eb69840cd9a3ea5cdb169fc94" style="text-align:center">面</h2>
+</td>
+<td id="b-a47f9c76558b4096ba640cbad03ad7f5" style="vertical-align:top">
+<p id="b-a755e8dfd4914609b0d0978ac3a29215" style="text-align:center"></p>
+</td>
+<td id="b-18e8465fda214e21a261837a1866f96f" style="vertical-align:top">
+<p id="b-f5ca2a2c444c4b46a5c4fe86e7386273" style="text-align:center">低质标签</p>
+</td>
+<td id="b-ced8a65470d540db8474f3a10187b3f8" style="vertical-align:top">
+<p id="b-4ae50c27a7bb466083d629e9312fbe1c" style="text-align:center">负面评价</p>
+</td>
+<td id="b-25c931a84039448e9dece30671094af5" style="vertical-align:top">
+<p id="b-1802acb3b94346268924c3bda210be70" style="text-align:center"></p>
+</td>
+<td id="b-1739055a6d17459a9ee554fdbd210dd0">
+<p id="b-7c8c69b5a3144115a8a7d0425e05fcb0">不当语言</p>
+</td>
+<td id="b-15038f277935415ea66f7c117161450f">
+<p id="b-78da9042024f474499b92d1489b42617">「文」- 辱骂</p>
+<p id="b-88e45f0c48a84fada3d70f3c86b6a039">「图&amp;视频」- 图片中文字违规 - 图片中文字违规</p>
+</td>
+<td rowspan="5" id="b-19555ce6f97a4fda8dcd460140f9742d" style="background-color:#FFF">
+<p id="b-ca74348f855c4dfdbde13a8289b3a362"></p>
+</td>
+<td id="b-f16f7d0b6ea24ab4863715734b8eac32" style="background-color:#FFF">
+<p id="b-be9d24453c4449a9a7a7a341d67c7daa"><span style="color:#D41E21"><span style="font-size:15px"><strong>打标：</strong></span></span></p>
+<p id="b-061fa9b96fe24b7e91aa56977f8a9af6"><span style="font-size:15px">【文/图/视/音】</span></p>
+<ol id="b-e4bf2e8a2b364f0c8fca3de9d9f6ded0">
+<li id="b-d4ee8d2878b247f2842f89c794a32513"><span style="font-size:15px">外卖员集体罢工。</span></li>
+<li id="b-1a834bb8a0264d3fa58c1df7e869d672"><span style="font-size:15px"><blockquote>美团</blockquote></span><span style="font-size:15px">外卖卫生问题。</span></li>
+<li id="b-8c4ea9907689485e8a213f7c013efd88"><span style="font-size:15px">关联美团“疑似用Ai虚拟为人工客服回应用户”等负面内容。</span></li>
+<li id="b-f783ec7e1aec46b68b87b8a5e1ecd6e3"><span style="font-size:15px">美团自营产品的品控质量问题。</span></li>
+</ol>
+<p id="b-859d104e81844906bdb9223f1a4417b2"></p>
+<p id="b-538eafa7f9b844d4a1c8c80ad2b6dd1b"></p>
+</td>
+<td id="b-285ca1ef71d34fad8d80ed00e8141618">
+<p id="b-c02a43cf5faa4bbaa9e7724942f96f5d">打标文字案例</p>
+<details id="b-b562d71615bb43ca8b646ae5fccd97da">
+<summary>点击展开内容</summary>
+<div>
+<p id="b-20db268160e4475eac78828f3df4c255">白跑，白跑招人白跑，白跑招人白跑，白跑招人进白跑可以加速签约畅跑（确认完提报白跑，即可报名畅跑），拿金牌可以签约乐跑，（一周出勤8天以上，每天250单以上一个星期没差评即可拿金牌🥇）进白跑白跑白跑可以联系我天河南250队wx电话同号138-3838-438白跑时刻，轮渡的单，千万别接白跑计划</p>
+</div>
+</details>
+<p id="b-b654d4a7b02043e8994bcd5533722dab"></p>
+</td>
+<td id="b-b52e31bb685c4e858a807d5be754514d">
+<ol id="b-273858e969ab4a64bcb10b31c79c4617">
+<li id="b-2295bbd0b9da4cbd9699ec3013a8f8af">
+<p id="b-47f69ea15b924c569bb0a60ed9b86e03"><span style="font-size:15px">外卖员集体罢工</span></p>
+<ul id="b-55189a2fe54149bfb90eb44ac4747e19">
+<li id="b-6ea88ea36c1440409f62d4772b1522d8">
+<p id="b-af8a3aa3257146b2bd3148bfeb48979d"><img src="https://km.sankuai.com/api/file/cdn/1985937886/237673698172?contentType=1&amp;isNewContent=false" width="334" height="116" id="b-fec3c310b038469c9ab3f479a9fa9bf7" alt="原文图片（需学城权限）"></p>
+<p id="b-3d0d68092b2b445cb8e0a4fd088ab34d"><img src="https://km.sankuai.com/api/file/cdn/1985937886/237680835603?contentType=1&amp;isNewContent=false" width="148" height="128" id="b-75b987c895b04dddb467bc54e21ecbf1" alt="原文图片（需学城权限）"></p>
+</li>
+</ul>
+</li>
+<li id="b-83b00978b4f14aa3ab73326139dffaa0">
+<p id="b-31e7316aa53e4c3a9cc37f1bb373753f"><span style="font-size:15px">疑似用Ai虚拟为人工客服回应用户</span></p>
+<ul id="b-cca6a992b73044c99e2d5aba4b5b64a9">
+<li id="b-04d89ed311e94a0fba424f60bdc16826"><img src="https://km.sankuai.com/api/file/cdn/1985937886/237676872935?contentType=1&amp;compress=@645w_1l&amp;isNewContent=false" width="504.56" height="600" id="b-5a82887d4974477aa8a17cb2aabebd31" alt="原文图片（需学城权限）"></li>
+</ul>
+</li>
+<li id="b-c94b785a5c784f768325e6de1ccdbe4b">
+<p id="b-8dd1ac91f1864350a8aea66b18555f82"><span style="font-size:15px">品控质量问题</span></p>
+<ul id="b-59f0d38f2e9349ab8a64f6be978d71a3">
+<li id="b-528f8f87cb83476795bbde1a494a11d1"><img src="https://km.sankuai.com/api/file/cdn/1985937886/237677193207?contentType=1&amp;isNewContent=false" width="120" height="92" id="b-54d42a3ad9b04b2e953d421975edff5c" alt="原文图片（需学城权限）"></li>
+</ul>
+</li>
+</ol>
+</td>
+<td id="b-db5baceee1d74057937be6b132ba2770">
+<p id="b-b00250ae2c5f4860aa2907a5f70830d1"><img src="https://km.sankuai.com/api/file/cdn/1985937886/237674337312?contentType=1&amp;isNewContent=false" width="336" height="190" id="b-f948bf5452ca40cd8b534f1d96d0b27d" alt="原文图片（需学城权限）"></p>
+<p id="b-5c875d34c03b4bc7b981e0c7a25878b2">外卖员个人行为与想法，可通过</p>
+<p id="b-3f2c33f4bd7c4373a68866a73debfa0a"><img src="https://km.sankuai.com/api/file/cdn/1985937886/237676233697?contentType=1&amp;isNewContent=false" width="137" height="239" id="b-4fa9d5c8e2fc4aad974500c3b08277bb" alt="原文图片（需学城权限）"></p>
+<p id="b-0b05445b3f404c51909bcd4c8d071bc0">非美团公司内容，可通过</p>
+</td>
+</tr>
+<tr id="b-c6ef599210824a7e850ef98b04235fd4">
+<td id="b-a7433b5fb3ce473c9a01be4f90a13523">
+<p id="b-c0a35fa938e140d6983a93cb0e9f823b"></p>
+</td>
+<td id="b-316ab0d58a7543f7944e0a1209cc0941">
+<p id="b-21fdf0da4ac7479a86eb6587ead8739c"></p>
+</td>
+<td id="b-a4d68c54828e4978a2740da84832e475">
+<p id="b-69b2e6b93184446986b1eb2ddcaffdf3"></p>
+</td>
+<td id="b-68548f1c854142278c9dcd51fda4f347">
+<p id="b-ac5d9e22b18240a4bbd18a674df6bd8c"></p>
+</td>
+<td id="b-8f77c491f12c4697a2ce83c90d0e1d01">
+<p id="b-8cf4067c1fbe4940adc7652c09902cc4"></p>
+</td>
+<td id="b-18c6858aa7af43f3a2911e464721d2b4">
+<p id="b-15f493d21385443daf196a9bd87850f0"></p>
+</td>
+<td id="b-d90b3bf67633468fa1164842adbb93ef">
+<p id="b-b3fae348b1a64a4db3e0c7d7935fea09"><span style="color:#D41E21"><span style="font-size:15px"><strong>打标：</strong></span></span></p>
+<p id="b-f4d581c9170e4dc2a1610d2f0329e678"><span style="font-size:15px">【文/图/视/音】</span></p>
+<ol id="b-9d3fbacc55824081b8640c0b35064161">
+<li id="b-10a32cc20f404879b91146576c0ef77f"><span style="font-size:15px">标明美团价格高/服务差。</span></li>
+<li id="b-dabcdaa3890b4c62959b24b3f1c2910e"><span style="font-size:15px">引流至京东平台的内容。</span></li>
+</ol>
+</td>
+<td id="b-5b903f6674984ff98cbdde19a0c1242d">
+<p id="b-f005d53a3cd34bbe98f7839d8ee916fc"></p>
+</td>
+<td id="b-1a59a9d5e7be448db2b615a9c24ffebd">
+<ol id="b-cf376a4d14994c28affac9dc3440a581">
+<li id="b-62447a0fae9b44608dd46388acda1cc2"><span style="font-size:15px">标明美团价格高/服务差。</span></li>
+</ol>
+<ul id="b-c545c08198eb4e22a97310286a6d886b">
+<li id="b-010eb353a6ec4756b05181e9e2878251"><img src="https://km.sankuai.com/api/file/cdn/1985937886/237676233698?contentType=1&amp;isNewContent=false" width="75" height="146" id="b-a62d623b16e7414da487de2b0e17de22" alt="原文图片（需学城权限）"></li>
+</ul>
+</td>
+<td id="b-09d187b05b1141d3b48ff4711dc6e640">
+<p id="b-29587642edda4c3b80af9b05dcf8afeb"></p>
+</td>
+</tr>
+<tr id="b-085cacf674ac4740a07211d50d5875cb">
+<td id="b-443f5bcc28464684b527aa5d98a81926">
+<p id="b-eb3fba55b34845e1a0a68b69c00cbb4f"></p>
+</td>
+<td id="b-3bdc608a451140748967679a00cd25b6">
+<p id="b-f3e71a538c074afd81abc44edcd8b156"></p>
+</td>
+<td id="b-3ce4eb9051c24de693b69aeef1ef6730">
+<p id="b-77ed7f89f2e047fd81961a7ec62373ee"></p>
+</td>
+<td id="b-66fcec5845f6449eba3f058e4546a731">
+<p id="b-cd9a8349a0174bffa623d4bc361f8c87"></p>
+</td>
+<td id="b-ba192159ccdf4ba5bfde62db306c7c70">
+<p id="b-8fd18662188d4b20a95918b016a3faab"></p>
+</td>
+<td id="b-affaff7eb52a429487e232ed653341c9">
+<p id="b-604ee355b4424a7d8d69e42e163cfd83"></p>
+</td>
+<td id="b-6b556e8164184cc7ab576306692a663d">
+<p id="b-cbbd5003e9704a06976e0c4ecc941e71"><span style="color:#D41E21"><span style="font-size:15px"><strong>打标：</strong></span></span></p>
+<p id="b-2e56a0e93702419c985cf916c16e1767"><span style="font-size:15px">【文/图/视/音】</span></p>
+<ol id="b-ab5a7b13293f4aa2ab3b287790e79ffd">
+<li id="b-cd28cfb1bd624ad180f0f2224ce29dfb"><span style="font-size:15px">发布诋毁、曲解平台官方活动的信息。（“乐跑计划”异化为“白跑计划”）</span></li>
+</ol>
+</td>
+<td id="b-1e4ffb2e21ea4846bcc0d62fb7363642">
+<p id="b-c36fdb2646eb4aa5a8be1a1ea41a4bef"></p>
+</td>
+<td id="b-d0bd1d109eee4e4c9b1b629a13d83241">
+<details id="b-1ea4dba9ab1c45ef9a878a508de3d898">
+<summary>白跑计划</summary>
+<div>
+<p id="b-fffd844e638b48e1bad5b99bcc882855"><img src="https://km.sankuai.com/api/file/cdn/1985937886/237679888694?contentType=1&amp;isNewContent=false" width="84" height="175" id="b-69d4ad0ec0e341f09f052539b832affb" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1985937886/237680047975?contentType=1&amp;isNewContent=false" width="79" height="169" id="b-20ac4e5738ea46bf8ce86fd336dddee7" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1985937886/237673072939?contentType=1&amp;isNewContent=false" width="196" height="208" id="b-4a00d0012dbd47a1ba7d9c1b99d85fce" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1985937886/237679569674?contentType=1&amp;isNewContent=false" width="183" height="193" id="b-e7564fbb89d14302a6ccad6f8d483dc7" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1985937886/237674654923?contentType=1&amp;isNewContent=false" width="132" height="144" id="b-1f6e22b64fb24428ad5ef9885adeab44" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1985937886/237673698169?contentType=1&amp;isNewContent=false" width="177" height="187" id="b-640763857d1149dba949955aa3c1b03a" alt="原文图片（需学城权限）"></p>
+</div>
+</details>
+<p id="b-11bb8663399d456b942b0629fb109821"></p>
+</td>
+<td id="b-02b05cfebbaa46ca876760dc3d3d458b">
+<p id="b-a9bb3ec7f1ec471babc67870529d4471"></p>
+</td>
+</tr>
+<tr id="b-04440fa1bb4b49ed8ef98942dfba0e4d">
+<td id="b-30e3938763424c359ffd4344f3de224a">
+<p id="b-e665ba05b0f74090ae18dfbcf12c658c"></p>
+</td>
+<td id="b-82c64e17211c4d34a856d0dfb167f1ea">
+<p id="b-77fa1d59e2004b1ab8391b05be987e4f"></p>
+</td>
+<td id="b-9cc78cf3140a4ab0884b3a8ee1e4b1b6">
+<p id="b-b2e5f8750b684fbfb25a180c6a06e8ef"></p>
+</td>
+<td id="b-bb85e578200045f79e758ca1d25988d6">
+<p id="b-1d2bd4c0f48047ac8273d2eb0a70bb11"></p>
+</td>
+<td id="b-8bf5135180d6468796955c83bb3470d2">
+<p id="b-7fc197ae9ca14131829d8df11430d7b7"></p>
+</td>
+<td id="b-6ce94a7302e04c1a858ef3080514e61e">
+<p id="b-ac751621894e4b80a74a3bda9517ab6e"></p>
+</td>
+<td id="b-bf70ce6a406f41f894722bb54c568589">
+<p id="b-c5ba77cb8bc34cf896adc2c040fdd637"><span style="color:#D41E21"><span style="font-size:15px"><strong>打标：</strong></span></span></p>
+<p id="b-ace4ea6f5f27410a90fb2544a824fbfa"><span style="font-size:15px">【文/图/视/音】</span></p>
+<ol id="b-e8ca2b7ebdf84b749d8460324f814cc8">
+<li id="b-50e8d8c5bf644f07b501342fa909b202">
+<p id="b-43e45fb8fa774b7abcb4d84566310858"><span style="font-size:15px">展示</span><span style="font-size:15px"><strong>平台</strong></span><span style="font-size:15px">形象的定制类、二创类物品或元素，关联</span><span style="font-size:15px"><strong>负面</strong></span><span style="font-size:15px">形式的内容。</span></p>
+<details id="b-a47ca479c60d40c19701a9d5364f4dda">
+<summary><span style="font-size:15px"><strong>平台+负面（可泛化，适用于定于1）</strong></span></summary>
+<div>
+<p id="b-8d0a92473e21442bba9b315bbfe70f92"><span style="font-size:15px">平台形象：</span></p>
+<p id="b-d5430202fc8e4f638e9b7003455a87f8"><span style="font-size:15px">可识别我司相关元素：代表色、标识、口号、主IP（袋鼠）等</span></p>
+<p id="b-d767f34028284243a97ea5b4bf26caae"><span style="font-size:15px">相关物品：骑手服、头盔等</span></p>
+<p id="b-0955ee979cf14e5c82e26bc2ad1fceac"><span style="font-size:15px">负面形式：玩梗</span><span style="color:rgb(0, 0, 0)"><span style="font-size:15px">恶搞、低级趣味、涉黄擦边、虚假摆拍、剧情演绎、隐晦表达涉性相关、交通事故、骑手与顾客冲突、剧本骑手“悲惨”生活、编造虚假信息等</span></span></p>
+<details id="b-87bdc90aa0be4960ad31d3a582d83d5e">
+<summary><span style="font-size:15px">玩梗恶搞、低级趣味（可泛化）</span></summary>
+<div>
+<p id="b-6dbbc3bb0b744dd7b23eb18bed3a9ef6"><span style="font-size:15px">龙袍、满清服饰、囚服、日伪军、各国军装</span></p>
+</div>
+</details>
+<details id="b-3ff9a7f67a9d4c4fb5168a390e92a2f5">
+<summary><span style="font-size:15px">涉黄擦边（可泛化）</span></summary>
+<div>
+<p id="b-e4a4ccc4d62946f285faada678a9ff45"><span style="font-size:15px">衣着裸露、情趣服饰、吊带袜、丝袜、紧身突出身体曲线</span></p>
+</div>
+</details>
+<p id="b-4b64f275eaa14df69adb36a350a21fb3"><span style="font-size:15px">负面形式</span><span style="color:rgb(0, 0, 0)"><span style="font-size:15px">名词：找/点情人、找/点二奶、找/点小蜜、找/点伴游、找/点外围、找/点嫩模、找/点网红、找/点玩伴、找/点床伴、找/点金主、找/点干爹、找/点干妈、找/点包养、找/点夜场、找/点花魁 、找/点牛郎、找/点鸭子、找/点姐夫、找/点小白脸、找/点富婆、找/点男模、找/点女模等</span></span></p>
+</div>
+</details>
+</li>
+</ol>
+<p id="b-3b8cd3381c0c4419b134a93cf6266bbc"></p>
+</td>
+<td id="b-64ad708b5b30481a8b71a5c5aedfc5cf">
+<p id="b-131affdec5244a5281cc4eec89d56a27"></p>
+</td>
+<td id="b-aefe2d7c579a405280417fa83a554602">
+<details id="b-dfdc21010e744caa9ccfe6cdc7f7a186">
+<summary>平台形象的定制类、二创类物品或元素，关联负面形式的内容。</summary>
+<div>
+<p id="b-290df19b3be84aaeaf1d7b7a3f4bb983"><img src="https://km.sankuai.com/api/file/cdn/1985937886/237674654925?contentType=1&amp;isNewContent=false" width="73" height="121" id="b-174c6c4674fa48d8aa9f607f80b886ea" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1985937886/237678150034?contentType=1&amp;isNewContent=false" width="88" height="116" id="b-43ac2d3fa2c84d2b979f3eed670afeff" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1985937886/237679569677?contentType=1&amp;isNewContent=false" width="86" height="116" id="b-ada159e4dbab41deb1d525abd5bbfb8c" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1985937886/237677193205?contentType=1&amp;isNewContent=false" width="112" height="149" id="b-4b046391f2d443da99ed50a86d941df2" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1985937886/237680047971?contentType=1&amp;isNewContent=false" width="105" height="138" id="b-d7f54c2048874d258b47b1e6c7059070" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1985937886/237676233696?contentType=1&amp;isNewContent=false" width="92" height="124" id="b-aa1cedcfb84047d68651be7c7da88041" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1985937886/237679888689?contentType=1&amp;isNewContent=false" width="158" height="118" id="b-5b8221749496490fa23db716d5506dae" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1985937886/237676551984?contentType=1&amp;isNewContent=false" width="92" height="125" id="b-b1c2a00732b24954814f27eb8aed65c6" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1985937886/237675594679?contentType=1&amp;isNewContent=false" width="154" height="137" id="b-434eb6104be141eeb3d7a56533af322c" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1985937886/237674337305?contentType=1&amp;isNewContent=false" width="97" height="127" id="b-20acf3467c0645a4ac008dbaede7fa26" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1985937886/237673072931?contentType=1&amp;isNewContent=false" width="125" height="168" id="b-d8b332812f36446aad42e865057a0e72" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1985937886/237679888686?contentType=1&amp;isNewContent=false" width="213" height="177" id="b-6d911ba9abd14afd8ef6d9d124bb5754" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1985937886/237674972758?contentType=1&amp;isNewContent=false" width="115" height="148" id="b-081ff26a6f0446188fd9f5f370071bf2" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1985937886/237678467309?contentType=1&amp;isNewContent=false" width="104" height="160" id="b-c571ba4bc39b4c3b92f37c178b9b79ba" alt="原文图片（需学城权限）"></p>
+<p id="b-e81b2d66b0c74fcfba661f27699aab86"><img src="https://km.sankuai.com/api/file/cdn/1985937886/237679569670?contentType=1&amp;isNewContent=false" width="118" height="123" id="b-a6c1ea688e1e464a9bbd844e3b476229" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1985937886/237673379431?contentType=1&amp;isNewContent=false" width="787" height="484" id="b-2cfda8ca521a459ba1eab8f263b1a28c" alt="原文图片（需学城权限）"></p>
+</div>
+</details>
+<p id="b-05a65433d5c84fa2a96809e27b40aae8"></p>
+</td>
+<td id="b-447fcb27797e4fd0b8f6c73980b43b63">
+<p id="b-ae6235472d354f93ae46012000c5acb9"></p>
+</td>
+</tr>
+<tr id="b-3302218ce9954f6aafd4bd1c6aa9c617">
+<td id="b-84335e12d0d0466f8a97e30dbb9b2148">
+<p id="b-d799eb94290147ed8c977d4ef9ef7f5c"></p>
+</td>
+<td id="b-7db7afecf7174f1299286786b7169a93">
+<p id="b-9674d9b0db634f659c11401f9d719cbf"></p>
+</td>
+<td id="b-7ed71d592dbd4b2ab6cf6bfdf542a991">
+<p id="b-c340b2fa43924c78977e18a5378e7285"></p>
+</td>
+<td id="b-215c2a1279304f0eb188e8de38722d8c">
+<p id="b-374ad90b61374f9a85c197c10725c644"></p>
+</td>
+<td id="b-288815dbf0ca41e8b1922a0f211a7437">
+<p id="b-d81f0e308dbd4a32b41a2ee7b0bfb2fb">平台负面内容</p>
+</td>
+<td id="b-9a6ea69df8234bbbb21680c894127491">
+<p id="b-71afbc01f1694d0eb40510dfe75fcaf0"></p>
+</td>
+<td id="b-853495b3064f4a17936a4297d9af223f">
+<p id="b-ad647c4c77144ac4bbb55eabb0b61e66"><span style="color:#D41E21"><strong>打标：</strong></span></p>
+<p id="b-0426d6e13d1b4a23b176145e338e67d3"><strong>【文/音】</strong></p>
+<ol id="b-c4df91a7f4454401b60c9fa77aea03b8">
+<li id="b-14f8efb9cc6f404ebe7ff1196f9113c5"><strong>抵制点评/美团</strong>；</li>
+<li id="b-a41b97effa1f43f78284f3f8a4a63370">针对<strong>点评/美团</strong>的<strong>负面表述</strong>。</li>
+</ol>
+<details id="b-f8eb93565a984b138538eef0fa071a81">
+<summary><strong>美团、点评（样本不泛化、变体可泛化，适用于定于1、2）</strong></summary>
+<div>
+<p id="b-64af9208826440c79e9e613ccb025b3f">MT、某团、黄团、开水团、黄袋鼠、外卖帝国、团、小美（需根据语义判断是代指美团）、美国团子、dianping、点言平、大众点评</p>
+</div>
+</details>
+<details id="b-02f3739708ed495cbfa1839077f57bb4">
+<summary><strong>抵制（样本不泛化、变体可泛化，适用于定于1）</strong></summary>
+<div>
+<p id="b-e96b2ace203e4754a266875aa3339a09">定义：阻止、排斥或对抗，以表达反对态度。</p>
+<p id="b-3957af251bd24f90963e1a4d57d76c94">唾弃、抵制</p>
+</div>
+</details>
+<details id="b-90295e6d475f44bf824468993a6088e9">
+<summary><strong>负面表述（定义不泛化、样本可泛化，适用于定于2）</strong></summary>
+<div>
+<p id="b-341dd2e010cd4f88a9bda61822bb4f6c">定义：对点评/美团以直接或间接方式进行否定、贬低、抹黑，带有明确负面导向且区别于客观合理批评的表述。</p>
+<p id="b-d6aa2c6654494efba35eb0470e17687d"><strong>对 “点评/美团” 的负面表述，不限以下举例</strong></p>
+<ul id="b-78b0d57dbf0148f3b0d766ac3ea26198">
+<li id="b-0c596f77f8034bedb1de5945b07c3f60">将点评/美团<span style="font-size:15px">比喻成动物，或直接和动物进行对比。（动物不包含美团logo、吉祥物）</span></li>
+<li id="b-9809884752aa4ec889ad77308188b956">对点评/美团进行侮辱、道德谴责。</li>
+</ul>
+</div>
+</details>
+<p id="b-ad89f7d290de4b318b8a91df850c7e4b"></p>
+<p id="b-24c892d9595843f984aa122b29a59c92"><span style="color:rgb(0, 186, 115)"><span style="font-size:15px"><strong>豁免：</strong></span></span></p>
+<ol id="b-eb13be547aa84cd29a84de0d8febd444">
+<li id="b-4bfa3c581bea4ef489f70e96d6baa9c4">不喜欢点评/美团、不习惯使用点评/美团、对点评/美团不感兴趣等仅描述个人喜好类。</li>
+</ol>
+</td>
+<td id="b-cbc0325f2d9a41f39775dd4402c36918">
+<ul id="b-1577d48fc54b4765a57ee8dd5927ff78">
+<li id="b-31c43f1423ef41cbbfb21cbfa540dcdf">本店抵制点言平</li>
+<li id="b-c5c8ada6023d418cb575112a644d9f32">大众点评滋养了一群白piao的蠹虫</li>
+<li id="b-8f1afaa19c05435eb692cde6308d23e6">点评真是垃圾</li>
+<li id="b-407d104e326843e49b72cfaf7a6e425c">抵制点评恶势力</li>
+</ul>
+</td>
+<td id="b-3ff504d20afa43fab985fab0158d1751">
+<p id="b-be56ed07ff2f4a87b6c379eb77f314a0"></p>
+</td>
+<td id="b-40fb8e161aeb45d5b33d0f97d7ac64b9">
+<ul id="b-ae97ec3ed15649ad8ab0c1a8e565a37a">
+<li id="b-ebf09883e64e4447b0da6fc3c45fe382">来这里千万别用点评导航地点，否则会给你导航到村里，直接搜天坛小艾就好了。</li>
+<li id="b-c5ea8c014a5c486d81e1e1b516b2fdc0">这家店别用美团团，用其他平台团比较优惠。</li>
+<li id="b-2cdcc5901a58447db4d48a72048dc5a9"> 核心槽点：公然拒绝使用点评VIP套餐 提前在点评购买了VIP套餐，到店后商家直接翻脸不认账，态度极其恶劣，说“系统问题用不了”“我们不承认这个套餐”，完全无视平台规则，毫无契约精神，花钱买气受！ </li>
+</ul>
+</td>
+</tr>
+<tr id="b-f646f1e421da45ec8e7128c14b03e09b">
+<td id="b-11ec82bb4f0247b196c487425db7a0a2" style="vertical-align:top">
+<p id="b-73a13d9908104a489002a3f2f2494866" style="text-align:center">商家负面</p>
+</td>
+<td id="b-b7296df5cf2e4c4ea5fbb65d2ec4f6e8" style="vertical-align:top">
+<p id="b-f70e0b9569274500affff2050c3617c6"></p>
+</td>
+<td id="b-0f775a641b1e463397c12b1ab6fb1e71" style="vertical-align:top">
+<p id="b-c54a84b2ca584be3a693415015ad9b80"></p>
+</td>
+<td id="b-73ac6abc2e734b028c2e5d5efb256602" style="vertical-align:top">
+<p id="b-f061cb9716cf477b98b80188ef356945"></p>
+</td>
+<td id="b-ffeb1f8a8ecf467a884545045ab86433" style="vertical-align:top">
+<p id="b-e42067e92b104955b1477243596be777"></p>
+</td>
+<td id="b-ea347f4149fc415e8c976814b0673f02">
+<p id="b-925a5291845b49f79ebf8cbc48cf667d"></p>
+</td>
+<td id="b-0c0f3ba21f80433bbd466038d80dac47">
+<p id="b-99130fb578cf4e7886461978c1b21513"></p>
+</td>
+<td id="b-ee4467f7e38d4c5a949c1fbc4be08a38" style="background-color:rgb(250, 225, 235)">
+<p id="b-bc5c122b9d9b4bd1a518e02684e6720c">号召维权</p>
+</td>
+<td id="b-aa58c5e824c2431382965bf0150fd8bf" style="background-color:rgb(250, 225, 235)">
+<p id="b-b6554e75752f4b09bd4d0902305d0655">网民非正规渠道询问维权方法或途径的，需跟进打击。包括不限于:</p>
+<ul id="b-434efc4beb124a849295149e0a32eaf1">
+<li id="b-b48fe8fdd6a8460d96e0f1d9653581c0">
+<p id="b-c80e0cd32c2e4149b4924bac2d4e98fb">针对商家的线下维权活动，邀请其他用户私聊进群等行为。</p>
+<p id="b-1d878eba4eb14e1d9f7aac30870e9cca"></p>
+</li>
+</ul>
+<p id="b-a7ad1686db12400b8d7999c77eea5dbc"><span style="color:rgb(0, 186, 115)">豁免项</span>: </p>
+<ul id="b-41b75993828141d9a36f79cda038db0e">
+<li id="b-67d4829f574647a4a6f924628b57c93b">整体没有号召组织聚集倾向，只发布正规渠道倡议理智维权信息的，可豁免。如12345与12315维权、<a href="https://ipr.meituan.com/#/guide" title="美团平台知识产权维权" id="b-6aa84a6e68114e4a90c116ddfe0c58cb">美团平台知识产权维权</a>。</li>
+</ul>
+</td>
+<td id="b-df8d5c5236f540de928b05757f451117">
+<ul id="b-7e46faa2f94348c8acfb9214bd77ec9f">
+<li id="b-acb0a1f37f824523a6944f077a0d8431"><span style="font-size:14px">tiger是假的 我们有维权群 要进的话私我</span></li>
+<li id="b-d75ad822eb754a6fa91ab19219bdb358"><span style="font-size:14px">因私教离职，又换私教又离职，申请退款，被告知要扣原合同30%，我还剩5500要被扣3300，谁给你们权利扣30%的手续费？付完卡才给签合同，卖卡的时候说的很好，退卡的时候一个比一个大爷。有没有维权的，私信我。</span></li>
+<li id="b-7a18337fcd9844c9ad08c3481bb73ccc"><span>有维权群的请加我</span></li>
+<li id="b-7a34fb464b4344b5a4ed47690dafdeb7">
+<p id="b-a116e0addd6e406db5c99cc2a75b2b80">[问题]:怎么进维权群</p>
+<p id="b-c5cba950a4c0427cad86867db2f8cbdf">怎么进群维权</p>
+</li>
+</ul>
+</td>
+<td id="b-d73383cb29964eb1b0ded508ff7af660">
+<p id="b-42910fdf84bc4c3197dd79fe9fc64c0b"></p>
+</td>
+<td id="b-04f30b4b60d646ad90695f94996a4818">
+<ul id="b-ff8746eeb46c4005b8a81cb397285457">
+<li id="b-a4317c90b0e744d787876bbd325e69b0">觉得被坑了，不想花冤枉钱，可以打市民热线12345维权哦。</li>
+<li id="b-d64d5b0018e94d21bc86e6c787cec7cc"><span>黑龙江皓日环保科技有限公司第三方维权CMA检测</span></li>
+</ul>
+<p id="b-76a15f4654a84b389a804cbf7150c75d"></p>
+<p id="b-e2e73ba154a3409281e1b0752c73f0f0"></p>
+</td>
+</tr>
+</table>
+</div>

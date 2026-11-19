@@ -1,0 +1,2216 @@
+# 一号审核标准
+
+[返回目录](../../README.md) · [学城原文](https://km.sankuai.com/collabpage/1624802712) · 已保存正文 · 2026-11-19
+
+> 正文保留表格和折叠结构。图片和媒体仅保留原始链接，需要学城访问权限。完整源数据见同目录 source 文件。
+
+<div>
+<h1 id="b-1bc429192e864cf0bc68e56402c7ce88">一号审核标准</h1>
+<p id="b-7932de67129748e2a5967c7dad3c6861"><strong>标签优先级：一号负面＞一号主体正面＞一号非主体正面</strong></p>
+<p id="b-98f80f59e2b946d8bae9eb0252dd9650">知识库：<a href="https://km.sankuai.com/page/278343570" title="一号家庭关系" id="b-86e82fd1f9f64dc69db876f9a1635513">一号家庭关系</a>、<a href="https://world.people.com.cn/n/2015/0105/c1002-26325141.html" title="一号正面变体漫画卡通形象" id="b-151c992279284da991270aae2d139a87">一号正面变体漫画卡通形象</a>、<a href="https://km.sankuai.com/page/269737350" title="一号相关负面" id="b-1953c1422275401ebaf3a7f07db1ebf3">一号相关负面</a>、<a href="https://ebook.dswxyjy.org.cn/ebooks/list/73?pageNumber=3" title="习近平著作" id="b-294929ca5c2a4006a97d5ee533115ba5">习近平著作</a>、<a href="http://xinhuanet.com/politics/leaders/xijinping/xxdb.htm" title="新华社一号学习读本" id="b-96ad034e131146e19fca82416b7ef311">新华社一号学习读本</a></p>
+<p id="b-86af1716f8134a908cef301c1e18690b">标准原则：</p>
+<ol id="b-72e76a1bf63841368757177d4dbc8d96">
+<li id="b-e04edb3664d64da0babe3721ec58d720">图片无法判断是否有线下载体（物理实体）时，可判断为线上。</li>
+</ol>
+<table id="b-ce426912bc3a468b94f33e1e222ec76a">
+<tr id="b-3ea0b6f9fc87468c852571eb6becff82">
+<th id="b-35d20754d9c445febb9d22dc84d0e972" style="vertical-align:middle">
+<p id="b-09e408d90b324f249c8f00e079088a6e" style="text-align:center"><strong>序号</strong></p>
+</th>
+<th id="b-bdb4a758a3114dff821d6f96cea7df25" style="vertical-align:middle">
+<p id="b-50acf7944bb14c5e954b70edc28070db" style="text-align:center"><strong>一级标签</strong></p>
+</th>
+<th id="b-3e988042eace40b58e205e6bd84077f0" style="vertical-align:middle">
+<p id="b-5d8a8335319041db92c731082c1d0db8" style="text-align:center"><strong>二级标签</strong></p>
+</th>
+<th id="b-eee93c1d82694a2ca6333b980e546e65" style="vertical-align:middle">
+<p id="b-0c61c6ea94be4224a92cda00b6f72f19" style="text-align:center"><strong>三级标签</strong></p>
+</th>
+<th id="b-ced956adbd584948abc1cf4a37bac2f4" style="vertical-align:middle">
+<p id="b-5acf85cd1f8a486c8d3ef16b9508882c" style="text-align:center"><strong>定义</strong></p>
+</th>
+<th id="b-d40f3529848148ce94232cc428709d65" style="vertical-align:middle">
+<p id="b-2313112916714dbfb67554db516c25ea" style="text-align:center"><strong>打标文字样本</strong></p>
+</th>
+<th id="b-ca12cbb513454a22b4f0a87f615b3397" style="vertical-align:middle">
+<p id="b-fadf72297eb74cfab5bfca004017b722" style="text-align:center"><strong>打标图片样本</strong></p>
+</th>
+<th id="b-2de623db5d1d4649ab8e85fa42b566bf" style="vertical-align:middle">
+<p id="b-271bfda359b24beb86da54ccba6bae8e" style="text-align:center"><strong>豁免样本</strong></p>
+</th>
+<th id="b-b3b40ebf03064fc2855bc25ae79c3020" style="vertical-align:middle">
+<p id="b-da89a7a95804412eaec8472a90330c19" style="text-align:center"><strong>打标原因（规则）</strong></p>
+</th>
+<th id="b-5a4fc1b6eb934d949b1416fc504c41da" style="vertical-align:middle">
+<p id="b-e177f6492aae42a094d78f3dcc42a5a2" style="text-align:center"><strong>FACT表达式</strong></p>
+</th>
+</tr>
+<tr id="b-de952ef1a73f49aa90acb0eb718236b3">
+<td id="b-725888e720594515bd9071151cb312c4">
+<p id="b-cc0fcd3e569e4fb49073933252fc1907"></p>
+</td>
+<td rowspan="7" id="b-6cbc4559f9c9441cbe50499d24fa81e5">
+<h1 id="b-f5ee58216ec3461d93355125e5190920" style="text-align:center">一号违规</h1>
+</td>
+<td id="b-a6d384260ea94f7fa9d1fc7341ad968f" style="background-color:rgb(255, 212, 204)">
+<h2 id="b-c0c15bf264e04e75aeb63b652887658a" style="text-align:center">一号主体正面</h2>
+</td>
+<td id="b-37e1b4c811d344fb9f336e3136b254cb">
+<h3 id="b-336c4723fdee45769c7fe31c17f5e5f7" style="text-align:center">一号主体正面</h3>
+</td>
+<td id="b-45b5d43a4ec94b349afee500e0b29636">
+<p id="b-8de29f86921c4ac5875fb7f93ab26cc0"><span style="color:rgb(255, 74, 71)"><strong>打标</strong></span></p>
+<p id="b-c9aa59f183f8439baa725bf43fb0b3f4">【图/视】（ 生效范围： 线上，画面占比≥1/4/时长 ≥5秒，或≥1/3时长）</p>
+<ol id="b-707402608dc14335a2e13e90e824d840">
+<li id="b-90c6b6746ac04c10be9830fb6623c79c">涉及一号或官方家属行程、报道（报纸报刊、媒体新闻报道）的。</li>
+</ol>
+<details id="b-5b7cedb89e1b42e1a15141b1d8f4341a">
+<summary><strong>一号官方称谓</strong></summary>
+<div>
+<ul id="b-411e8ca7e1f14bc2b1a68bffa7cb4bd6">
+<li id="b-1175291ac55047e08c9c837c0a798983"><span style="color: "><span style="font-size:14px">姓名：习近平</span></span></li>
+</ul>
+<ul id="b-1e1ed0fd254c4d8ba2d7b2f4a54d3c33">
+<li id="b-7085f5bf01844e4197a3f180b1f88388"><span style="color: "><span style="font-size:14px">繁体：</span></span><span style="font-size:14px">習近平</span></li>
+<li id="b-0d5fbc7a0d474eaf990b3619cb090cb7"><span style="font-size:14px">英文：</span>President Xi Jinping</li>
+<li id="b-98de1989fa8949f7bde3e7e1bcacfd51">拼音：<span style="font-size:14px">xijinping</span></li>
+<li id="b-7db29ef22611457780db84dc63e702f0"><span style="font-size:14px">官媒正式翻译：</span><span style="color: "><span style="font-size:14px">日（</span></span><span style="font-size:14px">習近平</span><span style="color: "><span style="font-size:14px">）、</span></span>俄（Си Цзиньпин）、蒙（ ᠰᠢ ᠶᠢᠨ ᠫᠢᠩ᠃）、藏（ཞིས་ཅིན་ཕིང་གིས།）、韩（시진핑）、维（شى جىنپىڭ）</li>
+<li id="b-71ada9925ffc4c168d62170b6000b81f"><span style="color: "><span style="font-size:14px">笔名：哲欣</span></span></li>
+</ul>
+<ul id="b-2abc90d379d54e7bb933f2f79b788a40">
+<li id="b-0fb2cb648b4444a6959dc6e645ed9240"><span style="color: "><span style="font-size:14px">职务：</span></span>总书记、军委主席、国家主席、习主席。</li>
+<li id="b-67ce64a02a224cf18beaf5ce935af897">台湾注音拼音：ㄒㄧˊㄐㄧㄣˋㄆㄧㄥˊ</li>
+<li id="b-2ac52b6dba404354b7582a379cb085fd">习近平主席说：绿水青山就是金山银山，我们要爱护环境，为后代造福。</li>
+</ul>
+</div>
+</details>
+<details id="b-97d51ee60bac42068790f37b95f8839d">
+<summary><strong>一号官方正面变体称谓</strong></summary>
+<div>
+<ul id="b-d7342b8bd57643ed8172f582f6c66777">
+<li id="b-0d87f571fca74632bdf004bec2cf83d2">民间敬称: 习大大、习总、习爷爷、习叔叔。</li>
+<li id="b-c65d54b871c042d28264f4a83d399fad">习大大表扬过的包子。</li>
+<li id="b-3a9c036a88fb437da5934ba367e13b44">简写: （请结合上下文语境）大大</li>
+<li id="b-f945956b71514c5abdac4c57837c686a">拼音: xidada</li>
+<li id="b-1cc97f8af37f4e78ab0a9cdccd87715b">英文: Xi Dada、Uncle Xi</li>
+<li id="b-d35c5be178174fee8969f1d5f57fa804">繁体: 習大大、習总</li>
+</ul>
+</div>
+</details>
+<details id="b-c1d11fda37b54e849321767b7ed927d4">
+<summary><strong>一号官方家属官方称谓、正面变体</strong></summary>
+<div>
+<ul id="b-e595b8c485f74b6fa6cc9eb878c311db">
+<li id="b-1c662ad9e9ab4805ad77cb4fdf974def">
+<p id="b-9d96a4583c73479d84814ad9cdaff833">姓名：彭丽媛</p>
+<ul id="b-800d2b9329fd4ec6aeee33840bcc697f">
+<li id="b-22a3a79fa82e4be395b56d2b6b74a763">职务：（请结合上下文语境）彭院长/教授。</li>
+<li id="b-9d70c9254e48437e84f9c54bf66bd003">别称：（请结合上下文语境）第一夫人、主席妻子/夫人、总书记夫人/妻子、元首夫人/妻子。</li>
+<li id="b-e8e0c2afee4943678a2292d6e58dffec">民间敬称：彭妈、彭麻麻。</li>
+<li id="b-9d18f1fa7dc64ff4b5047a6cc8a8107a">彭麻麻同款大衣飒美。</li>
+</ul>
+</li>
+<li id="b-648d0aabf99a4329abc2b41b444808bf">
+<p id="b-a778f5e5d8cc4ad6b970b989545acec9"><span style="color:#000">姓名：习仲勋</span></p>
+<ul id="b-e80b3ffd049349e6b802d860209e4ce4">
+<li id="b-4ec44bda7773471185fb2ff7738fa621"><span style="color:#000">职务：国务院原副总理，中国共产党第十一届中央委员会书记处书记，第十二届中央政治局委员、书记处书记，第五届、第七届全国人民代表大会常务委员会副委员长。</span></li>
+<li id="b-43a9fd45564546d2bda6c6c0e6366fa0"><span style="color:#000">别称：习主席父亲</span></li>
+</ul>
+</li>
+<li id="b-fc1df1efde874270994a4532c963c40d">
+<p id="b-1ff885c5a9804d81a3d8d7f93a66d4f3"><span style="color:#000">姓名：齐心</span></p>
+<ul id="b-8e06029444df499da52297254af5583a">
+<li id="b-e449a8ef23c8430d8f03b9f546a11288"><span style="color:#000">政治面貌：中国无产阶级革命家</span></li>
+<li id="b-4954bf7ecf2a47699984825d2061753b"><span style="color:#000">别称：习主席母亲、（请结合上下文语境）中共元老夫人</span></li>
+</ul>
+</li>
+</ul>
+</div>
+</details>
+<p id="b-3a200a8b447b409c81560c19ac9dcca2"></p>
+<p id="b-7dad8cf645ac45cdbcbe66017657ca27">【文/图】（生效范围：文，线上；图，线上）</p>
+<ol id="b-e127058522f44418908e7054f93fb777">
+<li id="b-b19acc0c5985429fb1c1c67066a995b7">涉及一号或官方家属官方称谓（原名）、正面变体（官方正面变体称谓）的，不区分明示暗示，统一打一号主体正面。</li>
+<li id="b-0217727a357d4be982ec7da497410782">涉一号或官方家属模糊指代（结合上下文语境判定），关联其正面语料言论（题字、金句、重要讲话精神、正面经历）的，统一打标一号主体正面。</li>
+</ol>
+<details id="b-0bbd70bcfa1044178e52d069ebb9d034">
+<summary><strong>一号官方称谓</strong></summary>
+<div>
+<ul id="b-86b310543bf34145b35a104617fa1114">
+<li id="b-1af0766851c641c3a820c09a1ec66e7d"><span style="color: "><span style="font-size:14px">姓名：习近平</span></span></li>
+</ul>
+<ul id="b-7f4c209b1cc547bdaa251f876c02c4dc">
+<li id="b-3a925b06bb6440dca730c5837070d131"><span style="color: "><span style="font-size:14px">繁体：</span></span><span style="font-size:14px">習近平</span></li>
+<li id="b-0d67d3420ea24cb8b98590f95c60b8f1"><span style="font-size:14px">英文：</span>President Xi Jinping</li>
+<li id="b-de68185286c9424b9a1abcc62d82cfee">拼音：<span style="font-size:14px">xijinping</span></li>
+<li id="b-15dc9454f9ba495794bf7cf6f53a9af3"><span style="font-size:14px">官媒正式翻译：</span><span style="color: "><span style="font-size:14px">日（</span></span><span style="font-size:14px">習近平</span><span style="color: "><span style="font-size:14px">）、</span></span>俄（Си Цзиньпин）、蒙（ ᠰᠢ ᠶᠢᠨ ᠫᠢᠩ᠃）、藏（ཞིས་ཅིན་ཕིང་གིས།）、韩（시진핑）、维（شى جىنپىڭ）</li>
+<li id="b-d8c2c41dca844744b34c03c961eb92c0"><span style="color: "><span style="font-size:14px">笔名：哲欣</span></span></li>
+</ul>
+<ul id="b-199b24968cfd4ea7aaa18e8aad6a70ca">
+<li id="b-b39dc8b09035451e850c907ef23a8468"><span style="color: "><span style="font-size:14px">职务：</span></span>总书记、军委主席、国家主席、习主席。</li>
+<li id="b-77ea22dd39f54bc3897776b1e0363a5c">台湾注音拼音：ㄒㄧˊㄐㄧㄣˋㄆㄧㄥˊ</li>
+<li id="b-4e7b4fea1cac47ddb3414071f5775fe6">习近平主席说：绿水青山就是金山银山，我们要爱护环境，为后代造福。</li>
+</ul>
+</div>
+</details>
+<details id="b-a45361293d9a463d9675bcdd7a9762da">
+<summary><strong>一号官方正面变体称谓</strong></summary>
+<div>
+<ul id="b-c74412753585480492993fe57bcddfbc">
+<li id="b-0e33f1ea3b1f4587ad47fbfb8361f96b">民间敬称: 习大大、习总、习爷爷、习叔叔。</li>
+<li id="b-6400d5d82c5147e7b0621d709b20659a">习大大表扬过的包子。</li>
+<li id="b-077280cce5b0489d82994deae753d57e">简写: （请结合上下文语境）大大</li>
+<li id="b-25efee1b62a04d169832624a4c9ccf18">拼音: xidada</li>
+<li id="b-5323f9604e754c03b4afc912650dd699">英文: Xi Dada、Uncle Xi</li>
+<li id="b-451f65faf9424bf9a645daad569863e7">繁体: 習大大、習总</li>
+</ul>
+</div>
+</details>
+<details id="b-9002297d8c364c94b50b4d1d2a0c5166">
+<summary><strong>一号官方家属官方称谓、正面变体</strong></summary>
+<div>
+<ul id="b-77bbf8f9abca40af993fae6c1b845d77">
+<li id="b-f9b5576763374e61bc8775fc846ca2f9">
+<p id="b-00d4576a1b0f480ba0eea2fdf01fd864">姓名：彭丽媛</p>
+<ul id="b-ad0334166d8845d585926b8c43a86953">
+<li id="b-dfaeda9334ef4459a7e028b697a4f472">职务：（请结合上下文语境）彭院长/教授。</li>
+<li id="b-2849d7beb95648af9deebdec76f5201b">别称：（请结合上下文语境）第一夫人、主席妻子/夫人、总书记夫人/妻子、元首夫人/妻子。</li>
+<li id="b-29e513546d13423caba1f2dff7053e2a">民间敬称：彭妈、彭麻麻。</li>
+<li id="b-068f64ccdc5c416f894b1a61d842f116">彭麻麻同款大衣飒美。</li>
+</ul>
+</li>
+<li id="b-b4cb6a96dd6f4c9abab2113d8566fab5">
+<p id="b-963fd76258ba48018b024ba12bb3fd6a"><span style="color:#000">姓名：习仲勋</span></p>
+<ul id="b-12043d0a8429482e9967332776c94749">
+<li id="b-247d34a6ceb445fe8d841e9a28668947"><span style="color:#000">职务：国务院原副总理，中国共产党第十一届中央委员会书记处书记，第十二届中央政治局委员、书记处书记，第五届、第七届全国人民代表大会常务委员会副委员长。</span></li>
+<li id="b-5ebf19310056429bb4f92104dfca2d73"><span style="color:#000">别称：习主席父亲</span></li>
+</ul>
+</li>
+<li id="b-38dfd6a26ec84ab68827b6eed575897a">
+<p id="b-1a70883b808c4db79bb8f31aaec508f3"><span style="color:#000">姓名：齐心</span></p>
+<ul id="b-4ed08eb633ca4e9d84d3eeb6d5d8db5a">
+<li id="b-f45aaf2826844b49a4252596dea4356a"><span style="color:#000">政治面貌：中国无产阶级革命家</span></li>
+<li id="b-91d4cf4dac724a4e9e669403d524f094"><span style="color:#000">别称：习主席母亲、（请结合上下文语境）中共元老夫人</span></li>
+</ul>
+</li>
+</ul>
+</div>
+</details>
+<p id="b-5b1ea3f872d24aebb8f7a356b2e86e4e"></p>
+<p id="b-e06938ee99784d8ba6e5ed8056bf0357">【图】（生效范围：线上，画面占比≥1/4）</p>
+<ol id="b-465820072d8c419e978dbf169c67f7e4">
+<li id="b-c8f99918a8ec436a90ffbdc7e43447a4">涉及一号或官方家属主体正面形象（真人）、<strong>正面变体形象（漫画、卡通）</strong>的。</li>
+<li id="b-d96c286d670a47d39b8721b1b169e5cd">涉及一号或官方家属模糊指代（结合上下文语境判定），关联其正面经历（吃过、去过、喝过）、正面语料言论（题字、金句、重要讲话精神）的，统一打标一号主体正面。</li>
+</ol>
+<details id="b-8aebb170b46b44c5abd4039b6ec83e45">
+<summary><strong>正面变体形象（漫画、卡通）(适用于定义1）</strong></summary>
+<div>
+<p id="b-14b02771ebaa4ff98f808ce3fa4e5a19"><img src="https://km.sankuai.com/api/file/cdn/1624802712/234953831663?contentType=1&amp;isNewContent=false" width="521" height="300" id="b-581c259cd0c943b8a191484818a0a7f8" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1624802712/234952713943?contentType=1&amp;isNewContent=false" width="58" height="72" id="b-c584297f81c040c999ef675f570aed7c" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1624802712/234956530299?contentType=1&amp;isNewContent=false" width="77" height="71" id="b-86b17b9bfa944100b5f93abbbe445356" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1624802712/234953672444?contentType=1&amp;isNewContent=false" width="72" height="69" id="b-35f8ecd6930d4f0f80ca3613a8b9e4c2" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1624802712/234956608855?contentType=1&amp;isNewContent=false" width="88" height="78" id="b-4374f946ce0f47358c73b6b99f3ab0eb" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1624802712/234955820268?contentType=1&amp;isNewContent=false" width="119" height="68" id="b-68bb2dc2ef9d4a6c808b1709e1358db4" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1624802712/234953672429?contentType=1&amp;isNewContent=false" width="76" height="111" id="b-a6928d20b1594597b4e3c6b6a1486944" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1624802712/234956096561?contentType=1&amp;isNewContent=false" width="121" height="106" id="b-7a23584f5a1044b6a3d4c2ae29a79d66" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1624802712/234953194381?contentType=1&amp;isNewContent=false" width="68" height="106" id="b-ee1067c1ee5645fb969e34e9c58c9522" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1624802712/234952555190?contentType=1&amp;isNewContent=false" width="92" height="84" id="b-1af803201f594781816a3c99a4c04b96" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1624802712/234953194394?contentType=1&amp;isNewContent=false" width="90" height="58" id="b-16b7e2d76580439db70202911bc4e246" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1624802712/234955858224?contentType=1&amp;isNewContent=false" width="75" height="68" id="b-edb428480e2f4bb2b659370a91953050" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1624802712/234952713925?contentType=1&amp;isNewContent=false" width="83" height="65" id="b-cfe48716dc41476dbc1ebcd513768994" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1624802712/234952240732?contentType=1&amp;isNewContent=false" width="73" height="63" id="b-62f83a562abb4a14b48ae12b5ed2e939" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1624802712/234953512204?contentType=1&amp;isNewContent=false" width="91" height="78" id="b-34918f574aee48d7b978d414da6a8ff3" alt="原文图片（需学城权限）"></p>
+</div>
+</details>
+<details id="b-b78dd7bc4b6e4f0aa12585f83566932c">
+<summary><strong>一号官方称谓</strong></summary>
+<div>
+<ul id="b-9a6f91f1c13f4e67a827ecd35125ac71">
+<li id="b-87ddc9db7dec4fa796c6816698f1af04"><span style="color: "><span style="font-size:14px">姓名：习近平</span></span></li>
+</ul>
+<ul id="b-40a5015104e4488db3144de39f7bb313">
+<li id="b-3077c70d07984c73b1f4d2791e4e3486"><span style="color: "><span style="font-size:14px">繁体：</span></span><span style="font-size:14px">習近平</span></li>
+<li id="b-391a51379d484c74b74820f2f3612f7b"><span style="font-size:14px">英文：</span>President Xi Jinping</li>
+<li id="b-95148005f7ac479abae4be792bf7871b">拼音：<span style="font-size:14px">xijinping</span></li>
+<li id="b-3dd8c6c8c9c346daafebb201ba5235dd"><span style="font-size:14px">官媒正式翻译：</span><span style="color: "><span style="font-size:14px">日（</span></span><span style="font-size:14px">習近平</span><span style="color: "><span style="font-size:14px">）、</span></span>俄（Си Цзиньпин）、蒙（ ᠰᠢ ᠶᠢᠨ ᠫᠢᠩ᠃）、藏（ཞིས་ཅིན་ཕིང་གིས།）、韩（시진핑）、维（شى جىنپىڭ）</li>
+<li id="b-cdff011320f648fea832e7127c01a380"><span style="color: "><span style="font-size:14px">笔名：哲欣</span></span></li>
+</ul>
+<ul id="b-d7e381898964405e95b5f8475c13bca6">
+<li id="b-a5a7a894468f4af8817bf834c0592786"><span style="color: "><span style="font-size:14px">职务：</span></span>总书记、军委主席、国家主席、习主席。</li>
+<li id="b-5344537337eb4500b43b58945995ac20">台湾注音拼音：ㄒㄧˊㄐㄧㄣˋㄆㄧㄥˊ</li>
+<li id="b-aa46a33db9644324895473787e00e44e">习近平主席说：绿水青山就是金山银山，我们要爱护环境，为后代造福。</li>
+</ul>
+</div>
+</details>
+<details id="b-a5661c4b26af4bec9e38aeeed70a8f85">
+<summary><strong>一号官方正面变体称谓</strong></summary>
+<div>
+<ul id="b-a41c8d9293274733b15244e3101306de">
+<li id="b-25caf7bb38bf49d498b6fb058bbd8e7f">民间敬称: 习大大、习总、习爷爷、习叔叔。</li>
+<li id="b-ecc2c28c9dc142c28afe3f7547568583">习大大表扬过的包子。</li>
+<li id="b-815457e52686436e9c3704620b745af6">简写: （请结合上下文语境）大大</li>
+<li id="b-799cd1f4739343e5b9ae09b22b387a84">拼音: xidada</li>
+<li id="b-0c80fdc256fb4401a1a1365dea699a74">英文: Xi Dada、Uncle Xi</li>
+<li id="b-24a09fb810944c1e8a48aea3bfdd1463">繁体: 習大大、習总</li>
+</ul>
+</div>
+</details>
+<details id="b-fab11e882f0245bbae4f444c6fe03cf3">
+<summary><strong>一号官方家属官方称谓、正面变体</strong></summary>
+<div>
+<ul id="b-f3f8390a5b4542d0a377ae2ea084c783">
+<li id="b-fbc2ad9b90204c45a186f2c18c0a1ffc">
+<p id="b-3a38ef30f9144a9e83a803e76be785d0">姓名：彭丽媛</p>
+<ul id="b-dac8230e7da4421da570e38820834832">
+<li id="b-497334b81867493a945f41be2c9e1299">职务：（请结合上下文语境）彭院长/教授。</li>
+<li id="b-98f0befedc4247c886d3f822f7adced4">别称：（请结合上下文语境）第一夫人、主席妻子/夫人、总书记夫人/妻子、元首夫人/妻子。</li>
+<li id="b-787d6c1888164974959d93615f5e4af7">民间敬称：彭妈、彭麻麻。</li>
+<li id="b-d968b0b065974b93bed23b930fa7a1bc">彭麻麻同款大衣飒美。</li>
+</ul>
+</li>
+<li id="b-a81a098dbe1942c6bf482d30c5593ee7">
+<p id="b-8ca2405c8df44b24b71166bbee9e628e"><span style="color:#000">姓名：习仲勋</span></p>
+<ul id="b-0ad1fe5c356c4ab0bbb6b8b272238a1b">
+<li id="b-6def1f668b9f4e80807b69ba652dea4f"><span style="color:#000">职务：国务院原副总理，中国共产党第十一届中央委员会书记处书记，第十二届中央政治局委员、书记处书记，第五届、第七届全国人民代表大会常务委员会副委员长。</span></li>
+<li id="b-0eb61f0d0c64401b8747695d32f1291c"><span style="color:#000">别称：习主席父亲</span></li>
+</ul>
+</li>
+<li id="b-0d9fdb3fb71a4fa482f43f25894741b7">
+<p id="b-a3052069d57748919c1a8dcd32f290c4"><span style="color:#000">姓名：齐心</span></p>
+<ul id="b-338bd6974be74dd5878223915d4cf3ee">
+<li id="b-198d29068a814df5875a2688070e0923"><span style="color:#000">政治面貌：中国无产阶级革命家</span></li>
+<li id="b-9657c8ae39ca452ca10a5b36683d6fd9"><span style="color:#000">别称：习主席母亲、（请结合上下文语境）中共元老夫人</span></li>
+</ul>
+</li>
+</ul>
+</div>
+</details>
+<p id="b-5506cbc1d376421b8429b90074bf643c"></p>
+<p id="b-1d0d3d62c847416d8e8e64faa49cde95">【视】（生效范围： 线上，时长 ≥ 5秒，或1/3时长）</p>
+<ol id="b-5650bbfc4f954f4fa8c7ee9aa68c7194">
+<li id="b-f1c4a3398e5b4582bbadd18ad18745dc">涉及一号或官方家属主体正面形象（真人）、<strong>正面变体形象（漫画、卡通）</strong>的。</li>
+<li id="b-56d4430c08564979a0eacea43dec3826">涉及一号或官方家属本人官方称谓（原名）、正面变体形象（官方正面变体称谓），不区分明示暗示。</li>
+<li id="b-3aaa051b99a34421bf9b9cd0801d4d16">涉及一号或官方家属模<span style="color:rgb(0, 0, 0)">糊指代（结合上下文语境判定），关联其正面经历（吃过、去过、喝过）、正面语料言论（题字、金句、重要讲话精神）的。</span></li>
+</ol>
+<details id="b-c245a78b0bf74f139fad7c7cf4a44ef4">
+<summary><strong>正面变体形象（漫画、卡通）(适用于定义1）</strong></summary>
+<div>
+<p id="b-4e98bfe8539c41eab0e778856ec1fbbb"><img src="https://km.sankuai.com/api/file/cdn/1624802712/234953034262?contentType=1&amp;isNewContent=false" width="521" height="300" id="b-5131198cc1b24cc0a2cae94a84856bfd" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1624802712/234951790177?contentType=1&amp;isNewContent=false" width="58" height="72" id="b-16366de711a64982b2376ac0b680626a" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1624802712/234953831618?contentType=1&amp;isNewContent=false" width="77" height="71" id="b-ff1f31b0f1eb4bd8ba05f86f1a419e25" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1624802712/234955938194?contentType=1&amp;isNewContent=false" width="72" height="69" id="b-ff22b306ec7b4d5f8b2c765f7a7912f4" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1624802712/234956134700?contentType=1&amp;isNewContent=false" width="88" height="78" id="b-d707a9cd2a284a76a8082171c817d5db" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1624802712/234952395710?contentType=1&amp;isNewContent=false" width="119" height="68" id="b-d31a0b5319bb4e1db313143ef9491164" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1624802712/234950025831?contentType=1&amp;isNewContent=false" width="76" height="111" id="b-642f64ed9ea54dc999f47dc98397e386" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1624802712/234956608848?contentType=1&amp;isNewContent=false" width="121" height="106" id="b-166d4052b58c4457b35e5a60fd74796e" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1624802712/234955820261?contentType=1&amp;isNewContent=false" width="68" height="106" id="b-4dfbc46acc71431e92c8b96af1b6f364" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1624802712/234953991539?contentType=1&amp;isNewContent=false" width="92" height="84" id="b-1c953fa4c600487fb65018028f356397" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1624802712/234956215272?contentType=1&amp;isNewContent=false" width="90" height="58" id="b-4e3771e1f8aa40f59f187ad0d13b2145" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1624802712/234952395694?contentType=1&amp;isNewContent=false" width="75" height="68" id="b-fc05371580084520b9328b1a2f151f32" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1624802712/234955898409?contentType=1&amp;isNewContent=false" width="83" height="65" id="b-a9318c411092450298d2ebc06b21c48c" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1624802712/234952103944?contentType=1&amp;isNewContent=false" width="73" height="63" id="b-ce4dc4cfd7d84446834ccb965dde51ad" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1624802712/234948751696?contentType=1&amp;isNewContent=false" width="91" height="78" id="b-ea9a8cdc4c994c0bbc13dfa321f28bad" alt="原文图片（需学城权限）"></p>
+</div>
+</details>
+<details id="b-5de46211e5a94530a282c7d9161e3572">
+<summary><strong>一号官方称谓</strong></summary>
+<div>
+<ul id="b-0a4d8d46025948eca7e990592d96c234">
+<li id="b-9f0a0046afe445c8b5c772b4bf5ed3f8"><span style="color: "><span style="font-size:14px">姓名：习近平</span></span></li>
+</ul>
+<ul id="b-db7d0bb6d72241bc88cb2f3f48ae9c47">
+<li id="b-e6258fe9485f420fb3bddba0558c9e52"><span style="color: "><span style="font-size:14px">繁体：</span></span><span style="font-size:14px">習近平</span></li>
+<li id="b-5a1836a0a3514f78a003c85ef52a5c91"><span style="font-size:14px">英文：</span>President Xi Jinping</li>
+<li id="b-94360c5120234bd68342062d5de0019f">拼音：<span style="font-size:14px">xijinping</span></li>
+<li id="b-ff2b64042ebb44e58dc375c222e1db6c"><span style="font-size:14px">官媒正式翻译：</span><span style="color: "><span style="font-size:14px">日（</span></span><span style="font-size:14px">習近平</span><span style="color: "><span style="font-size:14px">）、</span></span>俄（Си Цзиньпин）、蒙（ ᠰᠢ ᠶᠢᠨ ᠫᠢᠩ᠃）、藏（ཞིས་ཅིན་ཕིང་གིས།）、韩（시진핑）、维（شى جىنپىڭ）</li>
+<li id="b-d71d7e8d7f524c438842e32993e08d9e"><span style="color: "><span style="font-size:14px">笔名：哲欣</span></span></li>
+</ul>
+<ul id="b-92e7f015efe24920ae6103582798a0a2">
+<li id="b-da739d0b29e34cdab3fe5e03a5e38c93"><span style="color: "><span style="font-size:14px">职务：</span></span>总书记、军委主席、国家主席、习主席。</li>
+<li id="b-a94edf1288ef41e8b333c1ca78e249d8">台湾注音拼音：ㄒㄧˊㄐㄧㄣˋㄆㄧㄥˊ</li>
+<li id="b-eaf58a9f87f542a9b16849bf8624f456">习近平主席说：绿水青山就是金山银山，我们要爱护环境，为后代造福。</li>
+</ul>
+</div>
+</details>
+<details id="b-d94826f6a9c64618ab2b617ee0382049">
+<summary><strong>一号官方正面变体称谓</strong></summary>
+<div>
+<ul id="b-fc02409c65b742e0bcbefb8ea633af25">
+<li id="b-27813d056c6c4088a3ce5dc10f70f35a">民间敬称: 习大大、习总、习爷爷、习叔叔。</li>
+<li id="b-c9bdf3b0f5fa4dbd91f34ee97937c803">习大大表扬过的包子。</li>
+<li id="b-2dada6de9dce4982a86a1a7788cd15f9">简写: （请结合上下文语境）大大</li>
+<li id="b-1dbe3d841a5b461497a6929ecaa01bfa">拼音: xidada</li>
+<li id="b-2dad3ac3a7f843e9bf5f66a788f8b5a6">英文: Xi Dada、Uncle Xi</li>
+<li id="b-f3c6082fe2ce4820ad15e995782285c0">繁体: 習大大、習总</li>
+</ul>
+</div>
+</details>
+<details id="b-b33320b258d34c7fb71c528376acbc86">
+<summary><strong>一号官方家属官方称谓、正面变体</strong></summary>
+<div>
+<ul id="b-37769e0198a94228bf8adeb2ab61b68e">
+<li id="b-3c6f2db848e349ebb31704cd98250828">
+<p id="b-e71893f10f3e41aba1b337f67c85b7a9">姓名：彭丽媛</p>
+<ul id="b-9f5e35fa50d942ff8c4324ac6fdeda2c">
+<li id="b-60b163d3af224bb086dc9a537afc3bc2">职务：（请结合上下文语境）彭院长/教授。</li>
+<li id="b-4152007725584e5fb75c2571538a23ea">别称：（请结合上下文语境）第一夫人、主席妻子/夫人、总书记夫人/妻子、元首夫人/妻子。</li>
+<li id="b-c4b0be87604843a8b4b3467d54eb590c">民间敬称：彭妈、彭麻麻。</li>
+<li id="b-13f770bdee924b05b9c17d39a6d9072e">彭麻麻同款大衣飒美。</li>
+</ul>
+</li>
+<li id="b-356ba9057d9d4506a59102650834ddea">
+<p id="b-c10ffe86370f4749b088a9300b3a43fa"><span style="color:#000">姓名：习仲勋</span></p>
+<ul id="b-da8360f7a7e1440e844f56668a7316a4">
+<li id="b-0e689c7df675461fa6e1eb675ac40110"><span style="color:#000">职务：国务院原副总理，中国共产党第十一届中央委员会书记处书记，第十二届中央政治局委员、书记处书记，第五届、第七届全国人民代表大会常务委员会副委员长。</span></li>
+<li id="b-495232327a7c4b9ea078f012210541f5"><span style="color:#000">别称：习主席父亲</span></li>
+</ul>
+</li>
+<li id="b-56a70417474646ffbcfc00e9e52165dd">
+<p id="b-4f7b990fef01453a94d7a56f264f63e5"><span style="color:#000">姓名：齐心</span></p>
+<ul id="b-cc35aa7b724c436fbb912fa7d0a35a1d">
+<li id="b-0d7dd3199fea4d9abbfb01bdf7df7a9e"><span style="color:#000">政治面貌：中国无产阶级革命家</span></li>
+<li id="b-502aaa3c469e4221bca3f2ad4c672906"><span style="color:#000">别称：习主席母亲、（请结合上下文语境）中共元老夫人</span></li>
+</ul>
+</li>
+</ul>
+</div>
+</details>
+<p id="b-069da5c4390a4742a239064d5041e742"></p>
+<p id="b-e3fd332e22e84d43b783b1c91db4fe26"></p>
+<p id="b-c081cf5ee366421c88bbc9d612c7d890">【音】（生效范围：线上，时长 ≥ 5秒，或1/3时长)</p>
+<ol id="b-96c2f587e53f4096b621d4267f088345">
+<li id="b-f0a4458d9b174c5e97a868973b3bd5a9"><span style="color:rgb(0, 0, 0)">涉及一号</span>或官方家属声纹信息（本人原声、合成音）的。</li>
+<li id="b-aa8fc3f2066d4943a111eefd9945cd85">涉及一号或官方家属官方称谓（原名）、正面变体（官方正面变体称谓）的，不区分明示暗示。</li>
+<li id="b-350ba8edf99d4216ad04fbca25fceaab">涉一号或官方家属模糊指代（结合上下文语境判定），关联其正面语料言论（题字、金句、重要讲话精神、正面经历）的。</li>
+</ol>
+<details id="b-5eb1b6b7a6bd4168aa58ab6cf9056872">
+<summary><strong>一号官方称谓</strong></summary>
+<div>
+<ul id="b-bc3dd600e4e448098b996d7d28b61227">
+<li id="b-ee7c5066fea445e48e88652bdbece210"><span style="color: "><span style="font-size:14px">姓名：习近平</span></span></li>
+</ul>
+<ul id="b-6b34baed8562438e837b22d4044b20ab">
+<li id="b-babacc6ffb674f3187b240de23fc5882"><span style="color: "><span style="font-size:14px">繁体：</span></span><span style="font-size:14px">習近平</span></li>
+<li id="b-0033920cd27443e8a39e0241370b40aa"><span style="font-size:14px">英文：</span>President Xi Jinping</li>
+<li id="b-b628cf6c39ea49cba087b08cb662ac8c">拼音：<span style="font-size:14px">xijinping</span></li>
+<li id="b-06e856975c704c7fb612952251a31af6"><span style="font-size:14px">官媒正式翻译：</span><span style="color: "><span style="font-size:14px">日（</span></span><span style="font-size:14px">習近平</span><span style="color: "><span style="font-size:14px">）、</span></span>俄（Си Цзиньпин）、蒙（ ᠰᠢ ᠶᠢᠨ ᠫᠢᠩ᠃）、藏（ཞིས་ཅིན་ཕིང་གིས།）、韩（시진핑）、维（شى جىنپىڭ）</li>
+<li id="b-54b5e2311b364140a63468a4cc4bb1b4"><span style="color: "><span style="font-size:14px">笔名：哲欣</span></span></li>
+</ul>
+<ul id="b-fc78b3d46d1c4792b23c04372441145f">
+<li id="b-b334a4de57984454bdba9a76bdbb4163"><span style="color: "><span style="font-size:14px">职务：</span></span>总书记、军委主席、国家主席、习主席。</li>
+<li id="b-b3c974a4d76242e6a7e38cd9b71d19b9">台湾注音拼音：ㄒㄧˊㄐㄧㄣˋㄆㄧㄥˊ</li>
+<li id="b-8fc28e53735e49d594f3641954b03fb4">习近平主席说：绿水青山就是金山银山，我们要爱护环境，为后代造福。</li>
+</ul>
+</div>
+</details>
+<details id="b-2b50e08ef3e2410d82fb522a41b96aaa">
+<summary><strong>一号官方正面变体称谓</strong></summary>
+<div>
+<ul id="b-e4acd926dc6547e09aa371ae53b0155e">
+<li id="b-78c2255a23924ce59887ee5262659f71">民间敬称: 习大大、习总、习爷爷、习叔叔。</li>
+<li id="b-21247f8da21f42e7936f235959f49166">习大大表扬过的包子。</li>
+<li id="b-b3ccd18b28b94fdca89272a77da3e6cb">简写: （请结合上下文语境）大大</li>
+<li id="b-d1348805bc7247a3a8f830d7b16e1513">拼音: xidada</li>
+<li id="b-51a5249fa2624bc19177a35af4ea37b9">英文: Xi Dada、Uncle Xi</li>
+<li id="b-d2f97cd1679346d585658dcb9a031665">繁体: 習大大、習总</li>
+</ul>
+</div>
+</details>
+<details id="b-5395d571310b464c9d3e17955ea9e242">
+<summary><strong>一号官方家属官方称谓、正面变体</strong></summary>
+<div>
+<ul id="b-fbf933ea9aba4c6f8b8e95161767aa4b">
+<li id="b-aefacc37672d472099d17b8479401ebb">
+<p id="b-f78effd09b684b4da5345aba72f348e7">姓名：彭丽媛</p>
+<ul id="b-846284357c904c3b839a53d174d56d92">
+<li id="b-57c52c137a934547a7ad39d10da21938">职务：（请结合上下文语境）彭院长/教授。</li>
+<li id="b-ea0d34a1600c4198a52384c0e4978ed4">别称：（请结合上下文语境）第一夫人、主席妻子/夫人、总书记夫人/妻子、元首夫人/妻子。</li>
+<li id="b-5d48ccbf4629426ebfa54e288b3e2893">民间敬称：彭妈、彭麻麻。</li>
+<li id="b-11c663ca5beb417889960267241a62f4">彭麻麻同款大衣飒美。</li>
+</ul>
+</li>
+<li id="b-1ee67dd34d934f41a14c07b7336efab0">
+<p id="b-ece86237ee0d45a09f150e66d9a84e55"><span style="color:#000">姓名：习仲勋</span></p>
+<ul id="b-40fb88125b6e4f29acc05e0a8cf57864">
+<li id="b-9eb03ce553ff460c8174db1ae1a098e3"><span style="color:#000">职务：国务院原副总理，中国共产党第十一届中央委员会书记处书记，第十二届中央政治局委员、书记处书记，第五届、第七届全国人民代表大会常务委员会副委员长。</span></li>
+<li id="b-5067e91305894bc090e6022ee83f2ba7"><span style="color:#000">别称：习主席父亲</span></li>
+</ul>
+</li>
+<li id="b-642e33cd8ebb4cac95522b464b82e787">
+<p id="b-4c6e9e94cf9b4713948e70b1a2d68c73"><span style="color:#000">姓名：齐心</span></p>
+<ul id="b-a67a0350b4584cbf9addbaa6e92eb79c">
+<li id="b-519a4586e878456eba3ba0931ebb12da"><span style="color:#000">政治面貌：中国无产阶级革命家</span></li>
+<li id="b-3e0154d830264b5bb2c6a3392433e241"><span style="color:#000">别称：习主席母亲、（请结合上下文语境）中共元老夫人</span></li>
+</ul>
+</li>
+</ul>
+</div>
+</details>
+<p id="b-ab1fd1bd9563440aa000d924ac9f3297"></p>
+<p id="b-a79bdcf5d74a418ab1e1d292fa44e4aa"><span style="color:rgb(0, 186, 115)"><strong>豁免</strong></span></p>
+<p id="b-20255cf4a6e7460d8491ecf08fc36a5b">【文/图/视】（ 生效范围：线上）</p>
+<ol id="b-87bd23c20ddc4008b217127ed84e02db">
+<li id="b-db0fe724e8d74588825e388a96d69d61">
+<p id="b-2162e121ab624627a83db7bbe250081e"><strong>一号或官方家属同名商户</strong>（白名单）。</p>
+<details id="b-30a2ea714c0f4c0d8a1e85ab7c84d376">
+<summary><strong>一号或官方家属同名商户</strong></summary>
+<div>
+<ul id="b-85f579f73f944e469ccbc96fc0b9bf75">
+<li id="b-acbab1e6edc84ce0a5d35c3538dd2322"><span style="color:#000">齐心办公文具（COMIX）</span></li>
+<li id="b-9d28c71dd8b14a04a71b38a103cab105">齐心老弄堂面馆(湖滨店)</li>
+</ul>
+</div>
+</details>
+</li>
+</ol>
+</td>
+<td id="b-d95011bdbe1c40c8844393bdd1a50ec5">
+<ol id="b-3f77c0f4047b4b2d9ed40300d0f3ad74">
+<li id="b-b4dd877074e349ea8bb1315bef9f99e2">
+<p id="b-8bf87589f4db481eacc3f25ca553fb43">一号行程、报道</p>
+<ul id="b-b910aa9cfe254c0dae919365a8323006">
+<li id="b-1fdc34f8ea0e464a9632617e2c56805f">习大大明天来我们学校啦。</li>
+</ul>
+<ul id="b-980e738ed7d44d3d8a21c7c8d1c508e8">
+<li id="b-905a830433544f55aa28fde6aa97484c">中央外事工作会议在北京举行习近平发表重要讲话。</li>
+</ul>
+</li>
+<li id="b-918ba420788b4803a564dc0d9ae72ad6">
+<p id="b-63ac38b80bbc44e0a3117d769b21814e">一号官方家属行程、报道</p>
+<ul id="b-522bacbff8074c8188eca86ac2991a60">
+<li id="b-0f20f13d1fdb4df5b6c5efa434b871b9">据悉10月20日齐心女士下榻清华大学宾馆，后天来我校视察。</li>
+<li id="b-f7ebe739b765415782646e3b464618dc">齐心（习仲勋夫人）为母校榆林学院绥德师范校区题词“西北革命策源地”。</li>
+</ul>
+</li>
+<li id="b-5f14f5ebefed4de681424f78ca31b28a">
+<p id="b-6548f527b1b64da89aeeb85b2ece1fb5">一号模糊指代</p>
+<ul id="b-df7bd746f22b4588a2668808d9e53f05">
+<li id="b-d1aae40580264021b7b6d6cf6ff46e9a">习哥出访喝过这个</li>
+<li id="b-a76d856b6e4f42f0825204cc7d670dcd">dd曾去县里下乡扶贫过，是人民的希望</li>
+<li id="b-60fe36a0886b4efc95c75110297aeb4c">xdd是党的希望</li>
+</ul>
+</li>
+</ol>
+<p id="b-74866f20b0a34249b1bed9518c594c1d"></p>
+</td>
+<td id="b-e1808cebc440412587a2c4f8e2a892c3">
+<ol id="b-11cfe069930d4c39a534a88885484395">
+<li id="b-7f0145af773a426ebc5c019385ab2482">
+<p id="b-898caafb67d44dbf874eb02ed3ae2e6f">一号行程、报道</p>
+<ul id="b-23f3ba5c2de24ab2b88452ef8a7721c5">
+<li id="b-9e63580c3dea4407ac96362541595ab5"><img src="https://km.sankuai.com/api/file/cdn/1624802712/234955938116?contentType=1&amp;compress=@132w_1l&amp;isNewContent=false" width="34" height="92" id="b-f979150b36c14589a94bc16931befea1" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1624802712/234956491137?contentType=1&amp;isNewContent=false" width="141" height="87" id="b-d902977717e84aa5ace6fca62b548037" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1624802712/234952240579?contentType=1&amp;isNewContent=false" width="124" height="88" id="b-0ebab0587ac54e13ba747ae3f7559155" alt="原文图片（需学城权限）"></li>
+</ul>
+</li>
+<li id="b-49942e75e56d40c1831496587b7511b7">
+<p id="b-6263aa03387047aa90a159ebdfdc58c3">一号官方称谓</p>
+<ul id="b-f614f67fcf164a8488551f64cdae9f4c">
+<li id="b-1c2ddc67a07c44269da3374d3364fc79"><img src="https://km.sankuai.com/api/file/cdn/1624802712/234955938131?contentType=1&amp;isNewContent=false" width="93" height="93" id="b-5269e42038ed4e4da5dd4712d6e8127d" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1624802712/234953512078?contentType=1&amp;isNewContent=false" width="62" height="97" id="b-931750b87d1742949af0efd58be8009f" alt="原文图片（需学城权限）"></li>
+</ul>
+</li>
+<li id="b-bdc08ac923ce4d4a8709c006baf9c20e">
+<p id="b-023a651a27f648c599eb538dd78575c5">一号官方家属官方称谓</p>
+<ul id="b-a3b3cfea63684e2eb425a6e355ee6057">
+<li id="b-bcacacb9706d48d4a571d0acbd1d1db2"><img src="https://km.sankuai.com/api/file/cdn/1624802712/234952873422?contentType=1&amp;isNewContent=false" width="76" height="96" id="b-3180a1bc01c2470ba65ba34b5200b71f" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1624802712/234952555036?contentType=1&amp;isNewContent=false" width="79" height="91" id="b-d800ce515cca4b1caeac08f6fecc6195" alt="原文图片（需学城权限）"></li>
+</ul>
+</li>
+<li id="b-e4753b8005434a02a83546c8cbad1f84">
+<p id="b-4cceb1cd9fa04341a22443cfe862ea20">一号主体正面形象</p>
+<ul id="b-2302471f5e6b4c6bbd153196e988c641">
+<li id="b-5a58ceb374e2430694271ec1d6aa6f27"><img src="https://km.sankuai.com/api/file/cdn/1624802712/234953672274?contentType=1&amp;isNewContent=false" width="44" height="61" id="b-ecf4fead01df4f69bfd5c19d530ce81b" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1624802712/234956451887?contentType=1&amp;isNewContent=false" width="49" height="58" id="b-a2e33c343b9f4496b732198784f509a7" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1624802712/234956332645?contentType=1&amp;isNewContent=false" width="83" height="55" id="b-ceeac09014c741508cf030b74eb6cad7" alt="原文图片（需学城权限）"></li>
+</ul>
+</li>
+<li id="b-1af48b19784f4107bc648d740b6c27e1">
+<p id="b-6383e226d87c48d0ab49c7359129e2ce">一号官方家属主体正面形象</p>
+<ul id="b-36da0d775efa47c2a25e52da1cfda710">
+<li id="b-8dd3ef17d1a74aeeae8d1b59a9092fc2"><img src="https://km.sankuai.com/api/file/cdn/1624802712/234955977195?contentType=1&amp;isNewContent=false" width="106" height="63" id="b-445c48dc60d54a5d8d48c18c8f9fbbd1" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1624802712/234949389389?contentType=1&amp;isNewContent=false" width="40" height="55" id="b-2f6fb93ed1664f38babef9cb5fc3666a" alt="原文图片（需学城权限）"></li>
+</ul>
+</li>
+<li id="b-d96968c8c8904868bc5ce036f44aa0ca">
+<p id="b-00b48824a1364140a32df7b8e896bae3">一号<span style="color:rgb(0, 0, 0)">正面变体形象</span></p>
+<ul id="b-28d1fcae4a734705913f6ed82a5e80b3">
+<li id="b-c6c68481a9134065a9e7463adf63cd89"><img src="https://km.sankuai.com/api/file/cdn/1624802712/234952240573?contentType=1&amp;isNewContent=false" width="100" height="58" id="b-2f02ef3790a648d3a665e709ab40bfe2" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1624802712/234956451882?contentType=1&amp;isNewContent=false" width="53" height="69" id="b-62d8a4184f794c6895d24af0b0a2899b" alt="原文图片（需学城权限）"></li>
+</ul>
+</li>
+<li id="b-757cbcace51d40e9b6970cbaa277e40f">
+<p id="b-f837862a640a492a9018f88b0449a51d">一号官方家属<span style="color:rgb(0, 0, 0)">正面变体形象</span></p>
+<ul id="b-71784ef406c540daa3f361222f83f889">
+<li id="b-b6db228101d541ab88f66a2353fc3087"><img src="https://km.sankuai.com/api/file/cdn/1624802712/234952240571?contentType=1&amp;isNewContent=false" width="78" height="119" id="b-4041883df8914863a6a195a9047bcda0" alt="原文图片（需学城权限）"></li>
+</ul>
+</li>
+<li id="b-0cc2489b197c45d5940a43d136b228b5">
+<p id="b-c2f02c26337646b698e18936308373fa">一号主体正面形象【视】</p>
+<details id="b-5e2b488e019b450d823cabe0836b54b1">
+<summary>案例</summary>
+<div>
+<ul id="b-be18f9f6e17d430c893a0b4aad5bb568">
+<li id="b-c8fce7d597d94b4684ef683c11cd308e">
+<p id="b-b454fa7bf709482385de8b4ff1a84046">视频类，一号本人出镜连续出现超过5s。(1min50s - 2min07s)</p>
+<p id="b-f55829a994774f87ab723433187f74d5"><img src="https://km.sankuai.com/api/file/cdn/1624802712/234956055858?contentType=1&amp;isNewContent=false" width="88" height="43" id="b-d54505aa0769488c8d725aba832371f2" alt="原文图片（需学城权限）"></p>
+</li>
+</ul>
+<ul id="b-12ae8db88ea24c0885087fccafcfa549">
+<li id="b-3df637ee0abf4c56a2c502164557e8ba">
+<p id="b-e639c4a4f1fa4469971948a0641c54f3">视频类，一号出镜超过1/3视频时长。</p>
+<p id="b-decf749990624735a26d850ccf46a7ba"><img src="https://km.sankuai.com/api/file/cdn/1624802712/234953991348?contentType=1&amp;isNewContent=false" width="100" height="42" id="b-f2f19c44273149c1a6e36ed7c035f4fd" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1624802712/234951948011?contentType=1&amp;isNewContent=false" width="44" height="51" id="b-6ec046f08ae54347bfcd8e739686e203" alt="原文图片（需学城权限）"></p>
+</li>
+</ul>
+</div>
+</details>
+</li>
+<li id="b-8a5f6ac2f35d4e57bdbcf84646f983ac">
+<p id="b-63b3cbbc6f594d1586de3d19a9780cca">一号官方称谓【视】</p>
+<ul id="b-d3e75f79d217474eaa1bc85818cfe148">
+<li id="b-4957dfa7b63a49e19e951ac45a52ce37">
+<p id="b-a600615640674af58596a1d528108cb6">视频中提及一号本人全名超过5s。</p>
+<p id="b-058e2d624a5348ef98e5abf961bbb09a"><img src="https://km.sankuai.com/api/file/cdn/1624802712/234956372190?contentType=1&amp;isNewContent=false" width="47" height="82" id="b-6edda3388c6f4db4b5c0509606d5ceb4" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1624802712/234953351812?contentType=1&amp;isNewContent=false" width="52" height="87" id="b-664f4952e0d44b7aa26074850c926422" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1624802712/234949389323?contentType=1&amp;isNewContent=false" width="50" height="86" id="b-3ab589741a67464d884f798510c63482" alt="原文图片（需学城权限）"></p>
+</li>
+</ul>
+</li>
+<li id="b-d3fea2580cad46258dd689531e055f56">
+<p id="b-839a521abe0045a6abb5abf6760f4183">一号声纹【音】</p>
+<details id="b-816412f503b345e1888c125fe2f21425">
+<summary>案例</summary>
+<div>
+<figure src="https://km.sankuai.com/api/file/cdn/1624802712/234956530352?contentType=1" width="499" height="290" id="b-27406e42bd6542c1ac2ae1ca96aae480"><figcaption>视频：2020年2月4日 [dtq_8jVMuOE].mp4（原始链接，可能需要学城权限）</figcaption><a href="https://km.sankuai.com/api/file/cdn/1624802712/234956530352?contentType=1">在原文服务中查看</a></figure>
+</div>
+</details>
+</li>
+<li id="b-670efe4e667f4e3bb45e9466437ffa80">
+<p id="b-4e90b75d18884e8884a650317a265874">一号官方家属声纹【音】</p>
+<details id="b-d62b58cd439b47ac88e2b10273f19d2c">
+<summary>案例</summary>
+<div>
+<figure src="https://km.sankuai.com/api/file/cdn/1624802712/234951948358?contentType=1" width="499" height="290" id="b-727a92d1b7ec4f8ca94b81a4af7b1942"><figcaption>视频：66d102e30750493cbdc091dfe65df1c1f83b425b.mp4（原始链接，可能需要学城权限）</figcaption><a href="https://km.sankuai.com/api/file/cdn/1624802712/234951948358?contentType=1">在原文服务中查看</a></figure>
+</div>
+</details>
+</li>
+</ol>
+</td>
+<td id="b-de7a23d66eba404c8f52891546e8c3d4">
+<ol id="b-dbc925cfc75e42ebaa7e7062202288c0">
+<li id="b-c75afec648a24ee68919521c6d26e41b">
+<p id="b-d901228243a34f23a48621a38e442ea1">不带一号或其家属姓名的正面题字、金句。</p>
+<ul id="b-1ec7bc9c29fe40d393df4f5d45aa617b">
+<li id="b-54b9a39cacf14838bd3d222769414786">振兴陕菜</li>
+<li id="b-2b54b49717ba4a6f9d41789a8e7056a7">绿水青山就是金山银山</li>
+<li id="b-6ad9e891ddf44c3cb5ca1562b1d9eaec"><img src="https://km.sankuai.com/api/file/cdn/1624802712/234956570189?contentType=1&amp;isNewContent=false" width="84" height="84" id="b-a720327c86de48d1b0b96d82570bbd21" alt="原文图片（需学城权限）"></li>
+</ul>
+</li>
+<li id="b-24e3f95a0d5a485da015c36b319cb835">
+<p id="b-36a5ad1bce194513be7f35412c5a7b12">总统概念不在中国领导人职务之内。</p>
+<ul id="b-3200a79b2d3c413aa64b6c592ecc22ca">
+<li id="b-e5857ac2e46c40c7ab5608f6a5b2c892">chairman suite、chairman套房</li>
+</ul>
+</li>
+</ol>
+</td>
+<td id="b-57d54548c54a4903b3034fe3cbcad69b">
+<p id="b-d7468d8b992340fabf67fd1de6425da6"><span style="color:rgb(0, 0, 0)">互联网用户注册、使用和互联网信息服务提供者管理互联网用户账号信息，应当遵守法律法规，遵循公序良俗，诚实信用，不得损害国家安全、社会公共利益或者他人合法权益。</span></p>
+<p id="b-7a52cc6cdf81404ebdbd2d813226092b">（Bak: 易被监管判定为新闻报道的一号主体内容。请参见<a href="https://mp.weixin.qq.com/s?__biz=MzIyMjk3MzIzMg==&amp;mid=2247496846&amp;idx=4&amp;sn=2cc71177dd9e05e245cc81c1a9ec9bdd&amp;chksm=e827e8d1df5061c790a882ad9cd90292d7110fe2b654a4410c67165de16a28fd7edf19769d8a&amp;scene=27" title="擅自开展互联网新闻采编活动" id="b-9b2125c0890c420ab1b3ed66a6683cc3">擅自开展互联网新闻采编活动</a>。</p>
+</td>
+<td id="b-b44adc9c929e48528f5b06642a0ac263">
+<p id="b-10dee20c9c924b419ba492a308ea09a9">【一】</p>
+<p id="b-fa813b4883714c2786bae8e9b882063c"></p>
+<p id="b-72dbf7e4d2dd47d9a6eb00307169d4cd">【fact表达式】</p>
+<ul id="b-a254896a9a404608a7b008a90675d5c4">
+<li id="b-c115ed40cb8c4f92921bd449a22f5dc3">文：<span style="color:rgb(0, 0, 0)">一号或</span><span style="color:rgb(255, 74, 71)">官方</span><span style="color:rgb(0, 0, 0)">家属行程报道</span>[文] </li>
+<li id="b-648e03cb7079401dbed8abc649657862">图/视：<span style="color:rgb(0, 0, 0)">一号或</span><span style="color:rgb(255, 74, 71)">官方</span><span style="color:rgb(0, 0, 0)">家属行程报道</span>[文] or <span style="color:rgb(0, 0, 0)">一号或</span><span style="color:rgb(255, 74, 71)">官方</span><span style="color:rgb(0, 0, 0)">家属行程报道</span>[图] </li>
+</ul>
+<ul id="b-bda6166a84734bb99d66ccdd1bf1b272">
+<li id="b-8f9ad887de0b4106b097ca241ffee541">音：<span style="color:rgb(0, 0, 0)">一号或</span><span style="color:rgb(255, 74, 71)">官方</span><span style="color:rgb(0, 0, 0)">家属行程报道</span>[文] </li>
+</ul>
+<p id="b-8d8eeb7aeb9247fab8156f953bd9f78f"></p>
+<p id="b-867f4ea1ed0946adba57504eb0852216">【二】</p>
+<p id="b-804653a826af4eefa00ffeb7667a61c3"></p>
+<p id="b-0721e6b47e054633a7a29712949fc617"><span style="color:rgb(0, 0, 0)"> 【fact表达式】</span></p>
+<ul id="b-e7f7ec6a79904bc891e286bd2a9f1745">
+<li id="b-c1a07227bd3d453e9dd8bebb9ad7e980"><span style="color:rgb(0, 0, 0)">文：一号或</span><span style="color:rgb(255, 74, 71)">官方</span><span style="color:rgb(0, 0, 0)">家属官方称谓[文] or 一号正面变体[文]or一号家属正面变体[文]</span></li>
+<li id="b-4a8f6a7ee3bb4167a0b5049e33d3d59f"><span style="color:rgb(0, 0, 0)">文：一号或</span><span style="color:rgb(255, 74, 71)">官方</span><span style="color:rgb(0, 0, 0)">家属模糊指代[文] and 一号或</span><span style="color:rgb(255, 74, 71)">官方</span><span style="color:rgb(0, 0, 0)">家属正面语料言论[文] </span></li>
+</ul>
+<p id="b-8256a64fad35450f977c7a73e13dc550"></p>
+<p id="b-115a600f9ea94e889f43aa3036cef881">【三】</p>
+<p id="b-f9c8fcc4029245af89150d0795492465"></p>
+<p id="b-70649d5810fa43a89f8aa6bb85053eb8"><span style="color:rgb(0, 0, 0)"> 【fact表达式】</span></p>
+<ul id="b-713437eba1d54043a53d1dd6d7265d41">
+<li id="b-ecce94dfe3c84f5088be7948016e822d"><span style="color:rgb(0, 0, 0)">图：一号或家属官方称谓[文] or  一号正面变体[文] or 一号家属正面变体[文]  or 一号或家属官方称谓[图] or 一号主体正面形象[图] or 一号家属主体正面形象[图]or  一号正面变体[图] or 一号家属正面变体[图]</span></li>
+<li id="b-6b9a054f94a44e5db84e53fedfea0aab"><span style="color:rgb(0, 0, 0)">图：一号或家属模糊指代[文] and 一号或家属正面语料言论[文] </span></li>
+<li id="b-3357a2524f7f4b9e82c3dc9ae7b84e61"><span style="color:rgb(0, 0, 0)">图：一号主体正面形象[图] or 一号家属主体正面形象[图]  or 一号正面变体[图]  or 一号家属正面变体[图]</span></li>
+</ul>
+<p id="b-b3b2c2a4e73d40beb59113a212235578"></p>
+<p id="b-446180e7286c47268e59d472898c5501">【四】</p>
+<p id="b-f1623c8929ce4b70aff852ad596b3a5d"></p>
+<p id="b-5bd272fcb78340829ac4608f3a949971"><span style="color:rgb(0, 0, 0)">【fact表达式】</span></p>
+<ul id="b-aee2c4ea0bb244b4ab118d613fe5cd61">
+<li id="b-7909d733ab0344e9b14fd689d271934f"><span style="color:rgb(0, 0, 0)">视：（一号或家属官方称谓[文] or  一号正面变体[文]or一号家属正面变体[文]or一号或家属官方称谓[图]or 一号主体正面形象[图] or 一号家属主体正面形象[图] or 一号正面变体[图]or一号家属正面变体[图]) or （一号或家属模糊指代[文] and 一号或家属正面语料言论[文]）</span></li>
+</ul>
+<ul id="b-77f1253c13684f1682ab7defeda77e3c">
+<li id="b-9b03b38f134c4d28ac9b88df738847a2"><span style="color:rgb(0, 0, 0)">音：一号或家属声纹[音]</span></li>
+</ul>
+</td>
+</tr>
+<tr id="b-cdfcc2528b31460381db9a75e49d0d76">
+<td id="b-d32523499ffc4171ac97f572bd0637b6">
+<p id="b-bac5a11d6076488baf3e92072515407e"></p>
+</td>
+<td id="b-f0996a8453f44d3bbb46bdc5f3148f45" style="background-color:rgb(255, 219, 199)">
+<h2 id="b-95696edd78f549f092596e7cf1863281" style="text-align:center">一号非主体正面</h2>
+</td>
+<td id="b-ad0aae727a324a9a9261dfd86d06ce95">
+<h3 id="b-19109eac3f9d4ffa819f8e530be429b5" style="text-align:center">一号非主体正面</h3>
+</td>
+<td id="b-34a01c8b98a940c7a33429f63ea6d84f">
+<p id="b-35d3adb29186401b8a8a8f860f853988"><span style="color:rgb(255, 74, 71)"><strong>打标</strong></span></p>
+<p id="b-94a92fd5852b47a6965c7144f66978d2">【图/视】（ 生效范围： 线上，画面占比＜1/4/时长 &lt;5秒，或&lt;1/3时长）</p>
+<ol id="b-4c7521aaf52b4a9b969f862136138936">
+<li id="b-c1b2f6e692ee44359b4fe0cd8046da48">涉及一号或官方家属真人正面形象、官媒发布过的正面变体形象（生活装饰品/生活用品/装修内饰中常见的漫画、卡通），包含五官模糊但可辨识图像。</li>
+<li id="b-480ef654995c40b6bdc7481849136cce">涉及一号或其家属行程、报道（报纸报刊、媒体新闻报道）的。</li>
+</ol>
+<details id="b-132e3b25244a4b46a0f82a8d84ea0260">
+<summary><strong>一号官方称谓</strong></summary>
+<div>
+<ul id="b-6e31324cbf1c4ef1b75279914a0e5c35">
+<li id="b-87950d47618a4bad995a7fa4e7c67da8"><span style="color: "><span style="font-size:14px">姓名：习近平</span></span></li>
+</ul>
+<ul id="b-efa1eb331d1346c882c11793082e940e">
+<li id="b-b84c8a2731284730905f7398129ad8fd"><span style="color: "><span style="font-size:14px">繁体：</span></span><span style="font-size:14px">習近平</span></li>
+<li id="b-e7bc7b09b6d34feba201ee14a8f5b2c8"><span style="font-size:14px">英文：</span>President Xi Jinping</li>
+<li id="b-d48ff53858494df4a63ae596476685e2">拼音：<span style="font-size:14px">xijinping</span></li>
+<li id="b-04416b081d414142acc82ed3f31172e8"><span style="font-size:14px">官媒正式翻译：</span><span style="color: "><span style="font-size:14px">日（</span></span><span style="font-size:14px">習近平</span><span style="color: "><span style="font-size:14px">）、</span></span>俄（Си Цзиньпин）、蒙（ ᠰᠢ ᠶᠢᠨ ᠫᠢᠩ᠃）、藏（ཞིས་ཅིན་ཕིང་གིས།）、韩（시진핑）、维（شى جىنپىڭ）</li>
+<li id="b-27c9ae130e9a47c9a592939ab5c79901"><span style="color: "><span style="font-size:14px">笔名：哲欣</span></span></li>
+</ul>
+<ul id="b-0b3963a67bba429cb1b04559a051b6b2">
+<li id="b-a4d65f88051949de9e687d89be4ce05e"><span style="color: "><span style="font-size:14px">职务：</span></span>总书记、军委主席、国家主席、习主席。</li>
+<li id="b-9a12929c382749a3971a69027bd64475">台湾注音拼音：ㄒㄧˊㄐㄧㄣˋㄆㄧㄥˊ</li>
+<li id="b-93d00f73222140a18b28ca7706a845b8">习近平主席说：绿水青山就是金山银山，我们要爱护环境，为后代造福。</li>
+</ul>
+</div>
+</details>
+<details id="b-b846f1ae728f43768d679d50b9f63ee7">
+<summary><strong>一号官方正面变体称谓</strong></summary>
+<div>
+<ul id="b-d3c14057e4214b76bf984a1e58f0c60b">
+<li id="b-9b49b4f0c9c04c878037ec252438cf76">民间敬称: 习大大、习总、习爷爷、习叔叔。</li>
+<li id="b-ebaf5f9f60c24e75bf25ec8056b9f25f">习大大表扬过的包子。</li>
+<li id="b-f135a8b8d1d447e5bb835545e90c55d7">简写: （请结合上下文语境）大大</li>
+<li id="b-e61b41ee9e574ed49ebe20f2cff007e0">拼音: xidada</li>
+<li id="b-1f7be5e56eaf416fb89ec127e1fb0dcf">英文: Xi Dada、Uncle Xi</li>
+<li id="b-a03fe224afd540e8ae52b29dd0fd1a2b">繁体: 習大大、習总</li>
+</ul>
+</div>
+</details>
+<details id="b-a034829137b745b08783a036de687b3e">
+<summary><strong>一号官方家属官方称谓、正面变体</strong></summary>
+<div>
+<ul id="b-03ca64352b754a5aa3e1c091f47aa141">
+<li id="b-b4e3c4777058405e80853af2b48ebb93">
+<p id="b-c3539cb5bb5d422786b9bbc24c34e902">姓名：彭丽媛</p>
+<ul id="b-9a0dcc6bd0cf471889dea0badaadff99">
+<li id="b-6ff4ec657b9644b1ad7f6e008451be8d">职务：（请结合上下文语境）彭院长/教授。</li>
+<li id="b-f8c7c29fbe5847a19e5498ddf44e7912">别称：（请结合上下文语境）第一夫人、主席妻子/夫人、总书记夫人/妻子、元首夫人/妻子。</li>
+<li id="b-cb84e56bd1b44eaf826012af93c19042">民间敬称：彭妈、彭麻麻。</li>
+<li id="b-b9fbdcc5cea644a7a50899375ae5c33f">彭麻麻同款大衣飒美。</li>
+</ul>
+</li>
+<li id="b-3a1c611dcd7a4f919307b2cfaad2adbc">
+<p id="b-fe298f589aa149ab87f9425724499f05"><span style="color:#000">姓名：习仲勋</span></p>
+<ul id="b-7fed9a9c48bf444ea332eb52abbf5b69">
+<li id="b-10269b5accdf45fd881e27151c30234f"><span style="color:#000">职务：国务院原副总理，中国共产党第十一届中央委员会书记处书记，第十二届中央政治局委员、书记处书记，第五届、第七届全国人民代表大会常务委员会副委员长。</span></li>
+<li id="b-29f98dd2705e417ea54c76d869d0f735"><span style="color:#000">别称：习主席父亲</span></li>
+</ul>
+</li>
+<li id="b-df1b9b4fcb84472f9dad6498acf5fb82">
+<p id="b-adff62babc384b1e9834818d2722eaab"><span style="color:#000">姓名：齐心</span></p>
+<ul id="b-b7b6ddcd84d14fc7bcbf5696b754b4b2">
+<li id="b-00ed1425eb884e52815a107e2ef2ba3d"><span style="color:#000">政治面貌：中国无产阶级革命家</span></li>
+<li id="b-318a1fc6b2454eb8a3557ba49b9a6ae8"><span style="color:#000">别称：习主席母亲、（请结合上下文语境）中共元老夫人</span></li>
+</ul>
+</li>
+</ul>
+</div>
+</details>
+<p id="b-fcb614aec0d5492099cee1bb65a6d857"></p>
+<p id="b-b503b2b74630482e84d8d8bc7a1a8e55">【视】（ 生效范围： 线上，时长 &lt;5秒，或&lt;1/3时长）</p>
+<ol id="b-a8d1a6b4a4374f25ab3a383acacd124a">
+<li id="b-eafe648e34ed4d83936eec45a1ef1090">涉及一号或官方家属本人官方称谓（原名）、正面变体形象（官方正面变体称谓），不区分明示暗示。</li>
+</ol>
+<details id="b-5dfca6f6ca8b4457bfab8bfed683033e">
+<summary><strong>一号官方称谓</strong></summary>
+<div>
+<ul id="b-d11346379db64ba690bca21368aa5b3b">
+<li id="b-df2551257a2540ac8b5f0af93d11466f"><span style="color: "><span style="font-size:14px">姓名：习近平</span></span></li>
+</ul>
+<ul id="b-597ca5fb8fb04412957839ee1ceeb64f">
+<li id="b-d565d9fa96214268a9655fba1f3e3cf2"><span style="color: "><span style="font-size:14px">繁体：</span></span><span style="font-size:14px">習近平</span></li>
+<li id="b-1be1450d6d35473c98e56b5d9cc4f474"><span style="font-size:14px">英文：</span>President Xi Jinping</li>
+<li id="b-dd377002ce2f4408a7e84e6248676e01">拼音：<span style="font-size:14px">xijinping</span></li>
+<li id="b-fc78a18ef92940d4a5211bc866bc4bc8"><span style="font-size:14px">官媒正式翻译：</span><span style="color: "><span style="font-size:14px">日（</span></span><span style="font-size:14px">習近平</span><span style="color: "><span style="font-size:14px">）、</span></span>俄（Си Цзиньпин）、蒙（ ᠰᠢ ᠶᠢᠨ ᠫᠢᠩ᠃）、藏（ཞིས་ཅིན་ཕིང་གིས།）、韩（시진핑）、维（شى جىنپىڭ）</li>
+<li id="b-f15cc927f4aa4138ad59ce3157b7cb60"><span style="color: "><span style="font-size:14px">笔名：哲欣</span></span></li>
+</ul>
+<ul id="b-db2556f4c65f4918adee788c9d3dba4a">
+<li id="b-9bab3f5cd43e43238421cd49f8139b7f"><span style="color: "><span style="font-size:14px">职务：</span></span>总书记、军委主席、国家主席、习主席。</li>
+<li id="b-29abe5bbf64f43a1bfd7bcf090ff9521">台湾注音拼音：ㄒㄧˊㄐㄧㄣˋㄆㄧㄥˊ</li>
+<li id="b-2db9195731204f0ea6a581a146c620fc">习近平主席说：绿水青山就是金山银山，我们要爱护环境，为后代造福。</li>
+</ul>
+</div>
+</details>
+<details id="b-54e0221046494f1d860e2745edac92ca">
+<summary><strong>一号官方正面变体称谓</strong></summary>
+<div>
+<ul id="b-89b014f5039242878ade2afd276c976f">
+<li id="b-6629f058525442bcb87e5dfdd1c7f176">民间敬称: 习大大、习总、习爷爷、习叔叔。</li>
+<li id="b-31e649c8e3c14bf2a44c890436cb26a4">习大大表扬过的包子。</li>
+<li id="b-a599af09c4dc454ba0afaaafe66eb25d">简写: （请结合上下文语境）大大</li>
+<li id="b-0d59d31c74c44d32a78ec36773cae9fe">拼音: xidada</li>
+<li id="b-8a2ee2f20f9741d98bec6ae9111bd2e2">英文: Xi Dada、Uncle Xi</li>
+<li id="b-a1c05dd842c64d339187d0d2176da91c">繁体: 習大大、習总</li>
+</ul>
+</div>
+</details>
+<details id="b-80ba7394b5bc4967a033659883eed961">
+<summary><strong>一号官方家属官方称谓、正面变体</strong></summary>
+<div>
+<ul id="b-6b928aa407ee4d6f91a52bc04a9f04e7">
+<li id="b-0c9bd8762b5843f7b7f15b6344c0ef99">
+<p id="b-acef101c130b4238974289951a30a6f6">姓名：彭丽媛</p>
+<ul id="b-3829502c010b46679fdba7f17bb2c8b0">
+<li id="b-0570921fac464c51a2a5d805c833f598">职务：（请结合上下文语境）彭院长/教授。</li>
+<li id="b-ab840fdd78224c0e8a91c7a1c94139a3">别称：（请结合上下文语境）第一夫人、主席妻子/夫人、总书记夫人/妻子、元首夫人/妻子。</li>
+<li id="b-964b1d736cf842f2a84de8c213e4d2e3">民间敬称：彭妈、彭麻麻。</li>
+<li id="b-a63e5f4e7d7f488c8caeb463960871fc">彭麻麻同款大衣飒美。</li>
+</ul>
+</li>
+<li id="b-cc85ac585b0d4d4983a2eedbac6203b8">
+<p id="b-32fbf5cde4ae4b88a329c696e2ee2fe4"><span style="color:#000">姓名：习仲勋</span></p>
+<ul id="b-86a19a927ca141bf958e92542f9388eb">
+<li id="b-f60e2bd6ec964617902910c5e5bf41c9"><span style="color:#000">职务：国务院原副总理，中国共产党第十一届中央委员会书记处书记，第十二届中央政治局委员、书记处书记，第五届、第七届全国人民代表大会常务委员会副委员长。</span></li>
+<li id="b-62e6485475c9489986eb285aea68fe33"><span style="color:#000">别称：习主席父亲</span></li>
+</ul>
+</li>
+<li id="b-4e41caac6ef44331b0e659c0b44097d5">
+<p id="b-3d8b645b5fb0473098a95e91d65ffbed"><span style="color:#000">姓名：齐心</span></p>
+<ul id="b-b53c73ebff76475190f5589121a3e4f3">
+<li id="b-224d902021d24b679aa06cab7aaa66a6"><span style="color:#000">政治面貌：中国无产阶级革命家</span></li>
+<li id="b-e5426e5fbcdb4c54b6527b38dac0841e"><span style="color:#000">别称：习主席母亲、（请结合上下文语境）中共元老夫人</span></li>
+</ul>
+</li>
+</ul>
+</div>
+</details>
+<p id="b-783e89e6086a4a0c9ee0108ed68f85dd"></p>
+<p id="b-a7d6d12a47d34740a6c096fe87980691">【音】（生效范围：线上，时长 &lt;5秒，或&lt;1/3时长)</p>
+<ol id="b-fa720fc5ca884982a3d1717be70a87ff">
+<li id="b-ac37e551c07c4d579a40273db6d77b12">涉及一号或官方家属声纹信息（本人原声、合成音）的。</li>
+<li id="b-36edb561ab9542848493980dd9ebebcd">涉及一号或官方家属官方称谓（原名）、正面变体（官方正面变体称谓）的，不区分明示暗示。</li>
+<li id="b-b4bc116793c44f44a7676a59abe66f7b">涉一号或官方家属模糊指代（结合上下文语境判定），关联其正面语料言论（题字、金句、重要讲话精神、正面经历）的。</li>
+</ol>
+<details id="b-a49bc714ca6949c08d86d6006f85ba8e">
+<summary><strong>一号官方称谓</strong></summary>
+<div>
+<ul id="b-a283f20cd49a4faba0146c7608e0367e">
+<li id="b-c2e5022ae58b4124a14498add58f25a3"><span style="color: "><span style="font-size:14px">姓名：习近平</span></span></li>
+</ul>
+<ul id="b-b67d8cc4058e41fb983338238fa33832">
+<li id="b-c48c6d23af13418e8b9798a1f145398d"><span style="color: "><span style="font-size:14px">繁体：</span></span><span style="font-size:14px">習近平</span></li>
+<li id="b-c60392d601f249f6881ae66e2130cc60"><span style="font-size:14px">英文：</span>President Xi Jinping</li>
+<li id="b-edd24926d6004daa8e85dbc53a55e0fc">拼音：<span style="font-size:14px">xijinping</span></li>
+<li id="b-88a4f8d663554e138f3ca288dbb955d5"><span style="font-size:14px">官媒正式翻译：</span><span style="color: "><span style="font-size:14px">日（</span></span><span style="font-size:14px">習近平</span><span style="color: "><span style="font-size:14px">）、</span></span>俄（Си Цзиньпин）、蒙（ ᠰᠢ ᠶᠢᠨ ᠫᠢᠩ᠃）、藏（ཞིས་ཅིན་ཕིང་གིས།）、韩（시진핑）、维（شى جىنپىڭ）</li>
+<li id="b-7bf635c163b5401b93f9f867681efd60"><span style="color: "><span style="font-size:14px">笔名：哲欣</span></span></li>
+</ul>
+<ul id="b-0e9b9f0fd8904477a366ab1a1883ccc7">
+<li id="b-0c8612bdfd4148b093a3b06200ecfe88"><span style="color: "><span style="font-size:14px">职务：</span></span>总书记、军委主席、国家主席、习主席。</li>
+<li id="b-2e69ad196c784157b8360292c22ed289">台湾注音拼音：ㄒㄧˊㄐㄧㄣˋㄆㄧㄥˊ</li>
+<li id="b-98a85dcb914b4d35ace850ad824c2808">习近平主席说：绿水青山就是金山银山，我们要爱护环境，为后代造福。</li>
+</ul>
+</div>
+</details>
+<details id="b-c17c17d556334496aa23a5cda70d32e3">
+<summary><strong>一号官方正面变体称谓</strong></summary>
+<div>
+<ul id="b-534c4bd588c94378943883302ea87ac6">
+<li id="b-244452d66e894607a72d6d53f47c18ad">民间敬称: 习大大、习总、习爷爷、习叔叔。</li>
+<li id="b-8bc9454b70e44449b628b3dbcf0859d6">习大大表扬过的包子。</li>
+<li id="b-2feee97e83344cb392db3e686772c9a2">简写: （请结合上下文语境）大大</li>
+<li id="b-e61d4e3965544aeb839b7357174d79ed">拼音: xidada</li>
+<li id="b-2339ecbb0d274ae1a20f4fadecec30c6">英文: Xi Dada、Uncle Xi</li>
+<li id="b-00c118fe64cb4a679d3e7d2f4a26ef5b">繁体: 習大大、習总</li>
+</ul>
+</div>
+</details>
+<details id="b-d59cd2a0a5a94c8cbb0a912dd2dc109e">
+<summary><strong>一号官方家属官方称谓、正面变体</strong></summary>
+<div>
+<ul id="b-1ba9d299f52c456aaeb098d12b697fc7">
+<li id="b-ab965950044a421a853c845fe2b0f15b">
+<p id="b-32b3d36469b84a91b747c6c3c0b48a02">姓名：彭丽媛</p>
+<ul id="b-ad864ae5ce6f40539a8d5f88151ee08b">
+<li id="b-184b7328356a4f14b169da316de610a9">职务：（请结合上下文语境）彭院长/教授。</li>
+<li id="b-28867f612f9d47958c9f5d08780b3034">别称：（请结合上下文语境）第一夫人、主席妻子/夫人、总书记夫人/妻子、元首夫人/妻子。</li>
+<li id="b-8731963bdf4c4bd3a66788c18ab08e25">民间敬称：彭妈、彭麻麻。</li>
+<li id="b-a8a006f363894934b246fd61ea9a9a9b">彭麻麻同款大衣飒美。</li>
+</ul>
+</li>
+<li id="b-be929469d083434e8ce26117699c5182">
+<p id="b-10ed19d12c754a1d93256f9d82ab29a4"><span style="color:#000">姓名：习仲勋</span></p>
+<ul id="b-0d16a119f8154296a5b11e6a159e259b">
+<li id="b-c9d9b144b12c4becadf6c85befb69196"><span style="color:#000">职务：国务院原副总理，中国共产党第十一届中央委员会书记处书记，第十二届中央政治局委员、书记处书记，第五届、第七届全国人民代表大会常务委员会副委员长。</span></li>
+<li id="b-10100cd6e9684654a16ce5412925529f"><span style="color:#000">别称：习主席父亲</span></li>
+</ul>
+</li>
+<li id="b-2536d0bc24c344508da785bdcf1bb506">
+<p id="b-856e42050307459f93032f3e227d33e3"><span style="color:#000">姓名：齐心</span></p>
+<ul id="b-eec37c385ed245a79311d0dabd44f254">
+<li id="b-a5796960cc844ba883c1cc3c63a858e3"><span style="color:#000">政治面貌：中国无产阶级革命家</span></li>
+<li id="b-5af64f940e0744be813eb0001722dc5e"><span style="color:#000">别称：习主席母亲、（请结合上下文语境）中共元老夫人</span></li>
+</ul>
+</li>
+</ul>
+</div>
+</details>
+<p id="b-e53da0f221d742e3bda20c0093d954d8"></p>
+<p id="b-85f2996442754d738e45aee6a5d5fd69">【图/视】（ 生效范围： 线下）</p>
+<ol id="b-f5a358a0c6e346a8ba133051a0b144e4">
+<li id="b-24ba6b5288de4afd888ba3f3867df4af">涉及一号或官方家属真人正面形象、官媒发布过的正面变体形象（生活装饰品/生活用品/装修内饰中常见的漫画、卡通），包含五官模糊但可辨识图像。</li>
+<li id="b-56fcd335663141218f341575a88c1d1d">涉及一号或其家属行程、报道（报纸报刊、媒体新闻报道）的。</li>
+<li id="b-c2ebfc04f5eb4755aaaea33107655f04">涉及一号或其家属本人官方称谓（原名）、正面变体（官方正面变体称谓）的，不区分明示暗示，统一打标一号非主体正面（包含图片中出现一号相关的文字信息）。</li>
+<li id="b-f02fb833f08e4c929f5d928cc06a65ca">涉及一号相似人物。</li>
+</ol>
+<details id="b-85726b1894704cfcbbb2641b9fbde2e4">
+<summary><strong>一号官方称谓</strong></summary>
+<div>
+<ul id="b-6af09c1410c4405b803185450dcea9f2">
+<li id="b-1dd12f2bf1df423f9a28c8713eefee50"><span style="color: "><span style="font-size:14px">姓名：习近平</span></span></li>
+</ul>
+<ul id="b-e7a47da421724a82892b19720cd5c662">
+<li id="b-bcf85b0a69f14ff6a32e389f10c90358"><span style="color: "><span style="font-size:14px">繁体：</span></span><span style="font-size:14px">習近平</span></li>
+<li id="b-593180d9589947b49af381c051b8bd8c"><span style="font-size:14px">英文：</span>President Xi Jinping</li>
+<li id="b-e3f2595e563b4bb5979316c0f0257e16">拼音：<span style="font-size:14px">xijinping</span></li>
+<li id="b-6442073fc18c44a7b864ec8dbbff648b"><span style="font-size:14px">官媒正式翻译：</span><span style="color: "><span style="font-size:14px">日（</span></span><span style="font-size:14px">習近平</span><span style="color: "><span style="font-size:14px">）、</span></span>俄（Си Цзиньпин）、蒙（ ᠰᠢ ᠶᠢᠨ ᠫᠢᠩ᠃）、藏（ཞིས་ཅིན་ཕིང་གིས།）、韩（시진핑）、维（شى جىنپىڭ）</li>
+<li id="b-1e0f074fd08b4d32944509bede1fe7c6"><span style="color: "><span style="font-size:14px">笔名：哲欣</span></span></li>
+</ul>
+<ul id="b-83f25cc7714a46a095df5b66865a443b">
+<li id="b-cb9868e528e24b9fb07823c63b38e534"><span style="color: "><span style="font-size:14px">职务：</span></span>总书记、军委主席、国家主席、习主席。</li>
+<li id="b-e569efb78aa84d8fa770082cd155de00">台湾注音拼音：ㄒㄧˊㄐㄧㄣˋㄆㄧㄥˊ</li>
+<li id="b-fe0598e69ecf4e629fe0cbbf582e7ac3">习近平主席说：绿水青山就是金山银山，我们要爱护环境，为后代造福。</li>
+</ul>
+</div>
+</details>
+<details id="b-95f71a6d515443fa82f90e8cb375199d">
+<summary><strong>一号官方正面变体称谓</strong></summary>
+<div>
+<ul id="b-b2f2b40085ff4d3c8f27e9aa8bd70638">
+<li id="b-a40e6e894beb4143b8339960216cb974">民间敬称: 习大大、习总、习爷爷、习叔叔。</li>
+<li id="b-cef0ef7e0d5b4c5db20c2b3244ea6327">习大大表扬过的包子。</li>
+<li id="b-8dcabae73fa24b3991922f7b583a6940">简写: （请结合上下文语境）大大</li>
+<li id="b-6d974d25d49a42bb8fd0b394b49c40de">拼音: xidada</li>
+<li id="b-fbf5ab3ceaa24fcfaf92bf5d55e3b4c7">英文: Xi Dada、Uncle Xi</li>
+<li id="b-0eb1ed1fa9004875b8d6754afef3f23e">繁体: 習大大、習总</li>
+</ul>
+</div>
+</details>
+<details id="b-5a2f2e60f034487cb8721254e1aa0736">
+<summary><strong>一号官方家属官方称谓、正面变体</strong></summary>
+<div>
+<ul id="b-9ceb494612df40ec8ac0c2c29d10239b">
+<li id="b-4a471b0eda3247d3adc645535a483bbf">
+<p id="b-a10ec46c23844c88acc3046988eeda68">姓名：彭丽媛</p>
+<ul id="b-3531663f035746d099f702553fae47f2">
+<li id="b-61d0f8254cc94625ba1611c033b9fb81">职务：（请结合上下文语境）彭院长/教授。</li>
+<li id="b-38cef4798fde45b1bbf96fc87c2478e5">别称：（请结合上下文语境）第一夫人、主席妻子/夫人、总书记夫人/妻子、元首夫人/妻子。</li>
+<li id="b-fa051a1d9e13423bb7b21a08d7f0a32f">民间敬称：彭妈、彭麻麻。</li>
+<li id="b-3276d81a70124111af85975c2ac8c255">彭麻麻同款大衣飒美。</li>
+</ul>
+</li>
+<li id="b-f08fa00d36214f62b633045d2842613f">
+<p id="b-bb4e6872b04e4a7294e6f4d109b2c637"><span style="color:#000">姓名：习仲勋</span></p>
+<ul id="b-7a6f2b9ddf0a463596c55fcc48f76983">
+<li id="b-46a601a0d6c7455c93f816fde734eb81"><span style="color:#000">职务：国务院原副总理，中国共产党第十一届中央委员会书记处书记，第十二届中央政治局委员、书记处书记，第五届、第七届全国人民代表大会常务委员会副委员长。</span></li>
+<li id="b-ce1abfaf95dd4c019671f5b17151610a"><span style="color:#000">别称：习主席父亲</span></li>
+</ul>
+</li>
+<li id="b-4ca7efe821924a66aa6f15564154800e">
+<p id="b-61c6349296bf4453bde535714984fd4d"><span style="color:#000">姓名：齐心</span></p>
+<ul id="b-cf904388330c4e7a8ae260521e94e0b3">
+<li id="b-3ad03c905c804a4cb18f6e5ee2627c18"><span style="color:#000">政治面貌：中国无产阶级革命家</span></li>
+<li id="b-1f974412a9b146b6aaeab121cd1bbb58"><span style="color:#000">别称：习主席母亲、（请结合上下文语境）中共元老夫人</span></li>
+</ul>
+</li>
+</ul>
+</div>
+</details>
+<p id="b-2f01c59f7e6f40209306670c22477885"></p>
+<p id="b-8c4f0617157d4118ad8576648e30019c">【音】（ 生效范围： 线下）</p>
+<ol id="b-fdf15b3c5e69401ca0ab22c7a08d7d7c">
+<li id="b-709de431dd404fc6973798caba7d6513">涉及一号或官方家属声纹信息（本人原声、合成音）的。</li>
+<li id="b-b417374a71c849e794cbf7f08b57a16e">涉及一号或官方家属官方称谓（原名）、正面变体（官方正面变体称谓）的，不区分明示暗示。</li>
+<li id="b-dd4adb3e3f814efb9846b969ecbea248">涉一号或官方家属模糊指代（结合上下文语境判定），关联其正面语料言论（题字、金句、重要讲话精神、正面经历）的。</li>
+</ol>
+<details id="b-3f2f6a8db02740aa97a0c7777ddc954c">
+<summary><strong>一号官方称谓</strong></summary>
+<div>
+<ul id="b-818c5be3a2c0497d8b49965335619a82">
+<li id="b-22364d550b7640a6a83a4e1aabf1c5ed"><span style="color: "><span style="font-size:14px">姓名：习近平</span></span></li>
+</ul>
+<ul id="b-a14e7511b77a411f8e3b6473dba0ac24">
+<li id="b-83adfd24b46f4cf399e11c84f2e7840c"><span style="color: "><span style="font-size:14px">繁体：</span></span><span style="font-size:14px">習近平</span></li>
+<li id="b-a35664269ee04c7c9d4d6313be8b4c0e"><span style="font-size:14px">英文：</span>President Xi Jinping</li>
+<li id="b-93d9bec93ea84f6993aacdca472d52c8">拼音：<span style="font-size:14px">xijinping</span></li>
+<li id="b-2572968c9e2b4e7386744934cadfd48e"><span style="font-size:14px">官媒正式翻译：</span><span style="color: "><span style="font-size:14px">日（</span></span><span style="font-size:14px">習近平</span><span style="color: "><span style="font-size:14px">）、</span></span>俄（Си Цзиньпин）、蒙（ ᠰᠢ ᠶᠢᠨ ᠫᠢᠩ᠃）、藏（ཞིས་ཅིན་ཕིང་གིས།）、韩（시진핑）、维（شى جىنپىڭ）</li>
+<li id="b-6fd4916fcf12415f8ecf58a93039dd62"><span style="color: "><span style="font-size:14px">笔名：哲欣</span></span></li>
+</ul>
+<ul id="b-b324bafaed184f859f37a8a3d40484bb">
+<li id="b-548247e334ba4d96abb6ae4aff8cbc61"><span style="color: "><span style="font-size:14px">职务：</span></span>总书记、军委主席、国家主席、习主席。</li>
+<li id="b-8f8c80bce0494ab9bdcb94447f11ee2d">台湾注音拼音：ㄒㄧˊㄐㄧㄣˋㄆㄧㄥˊ</li>
+<li id="b-6d45f084ab11435db3c10a3f819e43e3">习近平主席说：绿水青山就是金山银山，我们要爱护环境，为后代造福。</li>
+</ul>
+</div>
+</details>
+<details id="b-c5447e2b2463495cacb3ce8ecae187e2">
+<summary><strong>一号官方正面变体称谓</strong></summary>
+<div>
+<ul id="b-ce6e9a487a764fb6885b751593d4eddb">
+<li id="b-1b8e5b86719e4264a356a71d2d12daf8">民间敬称: 习大大、习总、习爷爷、习叔叔。</li>
+<li id="b-866088bbf60e4fa78af58d68ceb21528">习大大表扬过的包子。</li>
+<li id="b-110346a2244e411a8c6d75aa64cded99">简写: （请结合上下文语境）大大</li>
+<li id="b-e22325d8bcde489ca462c69e200a047e">拼音: xidada</li>
+<li id="b-da5205a5cfdb4825990abf1293b6a95f">英文: Xi Dada、Uncle Xi</li>
+<li id="b-9b2618a6939c4ede8bd46b29ba276a74">繁体: 習大大、習总</li>
+</ul>
+</div>
+</details>
+<details id="b-107f7c903a0a44b8ace0005b85a3a961">
+<summary><strong>一号官方家属官方称谓、正面变体</strong></summary>
+<div>
+<ul id="b-9678f032029f442a90e9f0c95d121908">
+<li id="b-9d66cf357ea44bce81bb0bfbd75097c7">
+<p id="b-939bf5cf48f64039bd7e9be4eaa0f10b">姓名：彭丽媛</p>
+<ul id="b-545f3f351a6b4c5d87621690de5b12e4">
+<li id="b-bdf525232bb7432cbc303ad9569895c1">职务：（请结合上下文语境）彭院长/教授。</li>
+<li id="b-4045607e956e460a939e6244dd103f67">别称：（请结合上下文语境）第一夫人、主席妻子/夫人、总书记夫人/妻子、元首夫人/妻子。</li>
+<li id="b-4c2088c6777e4a10a9a5e8fae6d04178">民间敬称：彭妈、彭麻麻。</li>
+<li id="b-6625f6a4dbdc42a7897ec04403aaaa4c">彭麻麻同款大衣飒美。</li>
+</ul>
+</li>
+<li id="b-edc61a49646744c1ba2a6b0369b851f0">
+<p id="b-33edda19798b4f2895e1d0bfb0553848"><span style="color:#000">姓名：习仲勋</span></p>
+<ul id="b-c940a5e033dc49cc99f7379f26418413">
+<li id="b-485cf280dc9646408ad5a029506d417d"><span style="color:#000">职务：国务院原副总理，中国共产党第十一届中央委员会书记处书记，第十二届中央政治局委员、书记处书记，第五届、第七届全国人民代表大会常务委员会副委员长。</span></li>
+<li id="b-412f15eb784c4831927aaccd7169cb8e"><span style="color:#000">别称：习主席父亲</span></li>
+</ul>
+</li>
+<li id="b-2c938c2d684447a3958728d77eb0450f">
+<p id="b-5924c0f6d85543b0be9ae46132e209ef"><span style="color:#000">姓名：齐心</span></p>
+<ul id="b-579c1f1bb8c64c18a7e9244f71c6448c">
+<li id="b-2871ce98bd0443bf9df14ae634d175a2"><span style="color:#000">政治面貌：中国无产阶级革命家</span></li>
+<li id="b-086009666d6942678d4ede7c4b41c990"><span style="color:#000">别称：习主席母亲、（请结合上下文语境）中共元老夫人</span></li>
+</ul>
+</li>
+</ul>
+</div>
+</details>
+</td>
+<td id="b-20b73b066ef349bf8510ba63a1a28c2d">
+<p id="b-7f31d7d7045c4d07b4c219bfc8dac81b">文字类，不区分主体非主体，同一号主体正面文字管控样例。</p>
+</td>
+<td id="b-b059620bfbaa428e92568229878f37e2">
+<ol id="b-39e55a7f129a46b6ae9a098637a1bf7f">
+<li id="b-6bc8118db4944b85b3a043d746244f6d">
+<p id="b-9a8d976f652a4337b692e18f6b4fc779">一号线下正面形象</p>
+<details id="b-13811e80ae7a41a2a508680a14bf5eb4">
+<summary>案例</summary>
+<div>
+<ul id="b-f8e81fff0a4e45ae87e44340e380e696">
+<li id="b-8c4997558b7f47a7bb8ed49241a9a4c1">
+<p id="b-8b1b18aeb38d4bfba926b61692a94f2b">生活装饰品/生活用品</p>
+<p id="b-f628c94960424c6e9126763047d3e520"><img src="https://km.sankuai.com/api/file/cdn/1624802712/234956608715?contentType=1&amp;isNewContent=false" width="77" height="55" id="b-cfa9887cd68f48c09761ce931ff268e5" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1624802712/234952713709?contentType=1&amp;isNewContent=false" width="42" height="58" id="b-3c2cefde80394ca199da6cdc87522d88" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1624802712/234956175222?contentType=1&amp;isNewContent=false" width="72" height="55" id="b-cbc84ee07ff14c05848b0f108d1f661f" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1624802712/234949070362?contentType=1&amp;isNewContent=false" width="75" height="58" id="b-15dc64bd308347c9a41a3480061db1d3" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1624802712/234953512018?contentType=1&amp;isNewContent=false" width="89" height="57" id="b-30f26f05972c4942a19fa44fa79dd580" alt="原文图片（需学城权限）"></p>
+<p id="b-05cbf147b5d3476c9bdfc78cba987cff"><img src="https://km.sankuai.com/api/file/cdn/1624802712/234955898293?contentType=1&amp;isNewContent=false" width="43" height="59" id="b-430f35bae0444ce0bb83a19554a995e3" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1624802712/234953831429?contentType=1&amp;isNewContent=false" width="78" height="57" id="b-5e4335ae6c9f4079b8d6f5f6e4f987d0" alt="原文图片（需学城权限）"></p>
+</li>
+<li id="b-d88dbc9cf8d944e693535f51c62d3b2b"><span style="color:#000">线下实物载体出现一号正面形象，一号五官未被反光遮挡</span><img src="https://km.sankuai.com/api/file/cdn/1624802712/234956411833?contentType=1&amp;isNewContent=false" width="85" height="113" id="b-ff29baec2b5c4899909ef5a246fd027e" alt="原文图片（需学城权限）"></li>
+<li id="b-e6e4fdb365d9491086dc98a949dc8fc7">
+<p id="b-1a754e0d364e4046be610860d9bac7cf"><span style="color:#000">线下实物载体出现一号证明形象，五官没有被遮挡，模糊身形可辨认</span></p>
+<p id="b-da8a4e284350460eb0bc774d2d21b931"><img src="https://km.sankuai.com/api/file/cdn/1624802712/234956055675?contentType=1&amp;isNewContent=false" width="93" height="67" id="b-e644c1662dc34af4955695c841a86a5f" alt="原文图片（需学城权限）"></p>
+</li>
+</ul>
+</div>
+</details>
+</li>
+<li id="b-4aaef04e08824c2e91e09fa0e40deea4">
+<p id="b-f11e35801da943bf8c5ee3ca67ba0c9a">一号正面变体形象</p>
+<ul id="b-3fc6c3d189fb4153854f28866c8fb128">
+<li id="b-7cfdd2c33e2b462ba9d0c3c53524eec0">
+<p id="b-523139833ef144a2bdcd0ca8dd87110b">线下拍摄生活装饰品/日用品</p>
+<p id="b-7a21fdabe84f4f6fb67efec99d037a85"><img src="https://km.sankuai.com/api/file/cdn/1624802712/234949070225?contentType=1&amp;isNewContent=false" width="150" height="85" id="b-6aa6b0af54be4a03a485c934089acf9b" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1624802712/234955857973?contentType=1&amp;isNewContent=false" width="39" height="95" id="b-2b73af49395a4e46b1635c26f1de0507" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1624802712/234948751406?contentType=1&amp;isNewContent=false" width="85" height="85" id="b-55cfaf637cc044b48ff8742dc8700e67" alt="原文图片（需学城权限）"></p>
+</li>
+</ul>
+</li>
+<li id="b-e4bf051c8a3341c7abd6f7e22d2f4039">
+<p id="b-8e316297cb7f4212b2e6ccd11c83764d">一号行程、报道</p>
+<details id="b-726c2d2c111d4ae6a2372b2e2aa6602b">
+<summary>案例</summary>
+<div>
+<ul id="b-47a55fad38f442728f74f725a215d8c8">
+<li id="b-0878a46d71d94ce28d20edf8f49a31eb">
+<p id="b-cccf47724433403986e5f9820309f3c6">线下手机拍摄一号电视新闻报道</p>
+<p id="b-62bbd993c16d42758019861595fc4f76"><img src="https://km.sankuai.com/api/file/cdn/1624802712/234956096302?contentType=1&amp;isNewContent=false" width="83" height="62" id="b-f41f7d90f9a745888790e7950f83f7fd" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1624802712/234953831277?contentType=1&amp;isNewContent=false" width="81" height="61" id="b-cb09ec991b42499da895dbeff136b022" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1624802712/234955857970?contentType=1&amp;isNewContent=false" width="82" height="62" id="b-57a27ecfeeb14fe0a332a7fa7110acfd" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1624802712/234952554782?contentType=1&amp;isNewContent=false" width="79" height="61" id="b-ec9db4e42d744e1faa18d46c9571a3fd" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1624802712/234956490920?contentType=1&amp;isNewContent=false" width="47" height="66" id="b-e73af61b1fdb41749134813c861e5967" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1624802712/234952240322?contentType=1&amp;isNewContent=false" width="46" height="62" id="b-c1ae352f9c0843c992ef112b0453353e" alt="原文图片（需学城权限）"></p>
+</li>
+</ul>
+</div>
+</details>
+</li>
+<li id="b-97a04b4996c449f19fca4259e2eaffa1">
+<p id="b-9b80517b22884ec7b0d61ecd5ed7e22e">一号官方家属行程、报道</p>
+<details id="b-263c6316d3fd478da4a1d030ab9112f3">
+<summary>案例</summary>
+<div>
+<ul id="b-278592377b8b4851b66eb268ba20dab5">
+<li id="b-d3b0c17f62d243daab90da6e5d57b43d">
+<p id="b-0277b2eb35ad473eaae841c1362deff1">线下载体海报图片</p>
+<p id="b-f174825860f5456684d628b14138a7a3"><img src="https://km.sankuai.com/api/file/cdn/1624802712/234956016476?contentType=1&amp;isNewContent=false" width="47" height="61" id="b-b3dbd68a71bd4e2281b49d9367490d6e" alt="原文图片（需学城权限）"></p>
+</li>
+</ul>
+</div>
+</details>
+</li>
+<li id="b-f00dca4fa8ad4838975e196151954e8d">
+<p id="b-e7a974f120f342409bf853a810f87990">一号官方称谓</p>
+<details id="b-a504e2e3b9454b0692c44b0b962b7012">
+<summary>案例</summary>
+<div>
+<ul id="b-242efe71f83d4bc6a1ba4652e4ace491">
+<li id="b-7030488b49cf479daad7ba2a85e47810">
+<p id="b-8aaa3e2e747945d3bbf64983cc1c6969">线下实物载体上含一号官方称谓</p>
+<p id="b-daaa20afecc541f1b243d3b413b35a62"><img src="https://km.sankuai.com/api/file/cdn/1624802712/234956254327?contentType=1&amp;isNewContent=false" width="92" height="72" id="b-7d92e52480664da78df9a8a240463869" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1624802712/234956411649?contentType=1&amp;isNewContent=false" width="52" height="75" id="b-d0c1992156f342fc9dc9a519bc1d0c2b" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1624802712/234952873080?contentType=1&amp;isNewContent=false" width="54" height="73" id="b-e0c545a8bc5a41c8a14e725ccfafbbaf" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1624802712/234956214924?contentType=1&amp;isNewContent=false" width="95" height="70" id="b-b9971909bc10495ba77d7695b995e7c7" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1624802712/234952395232?contentType=1&amp;isNewContent=false" width="51" height="69" id="b-8df2cea2216a4072a240ab85e624bc45" alt="原文图片（需学城权限）"></p>
+</li>
+</ul>
+</div>
+</details>
+</li>
+<li id="b-eca742beffe9432ea39f7d15a8cf1c00">
+<p id="b-a0b23f834a3246b7b1bbc92c65fddc05">一号相似人物</p>
+<ul id="b-c301c72629804f549bfacee56a96cbc2">
+<li id="b-b03bb67601c54eb799889b4d9d0f50db"><img src="https://km.sankuai.com/api/file/cdn/1624802712/234955937828?contentType=1&amp;isNewContent=false" width="54" height="106" id="b-afa4491c15074c3799b32666f78cb313" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1624802712/234953193835?contentType=1&amp;isNewContent=false" width="103" height="103" id="b-a193632ae417448f9203a04017a0f44a" alt="原文图片（需学城权限）"></li>
+</ul>
+</li>
+<li id="b-0140d4cd91b144f3851c3832f2f5a8fc">
+<p id="b-1f5484030a07423a813e94b6c01caeee">一号声纹【音】</p>
+<figure src="https://km.sankuai.com/api/file/cdn/1624802712/234956412054?contentType=1" width="499" height="290" id="b-e153889db91d4430987ef405df08aee6"><figcaption>视频：out_merge2.mp4（原始链接，可能需要学城权限）</figcaption><a href="https://km.sankuai.com/api/file/cdn/1624802712/234956412054?contentType=1">在原文服务中查看</a></figure>
+</li>
+</ol>
+</td>
+<td id="b-8f815d3855c9486d81a43e6f09bbafaa">
+<p id="b-27feb0b188034bd195a2df11928fe562"></p>
+</td>
+<td id="b-cceea9de04c54c02a3f8f14a7bd9799f">
+<p id="b-163366c373cb409b9a3bc0e6ddbbb11f">涉政营销</p>
+<p id="b-3b310553e31e43a394ea3c8e445de6dd">网络信息内容服务使用者和网络信息内容生产者、网络信息内容服务平台不得利用党旗、党徽、国旗、国徽、国歌等代表党和国家形象的标识及内容，或者借国家重大活动、重大纪念日和国家机关及其工作人员名义等，违法违规开展网络商业营销活动。<br>（Bak：发布涉一号及家属营销内容。请参见国家工商行政管理总局颁布的<a href="http://scjgj.zhangzhou.gov.cn/cms/siteresource/article.shtml?id=620420362411030001&amp;siteId=60456039315100001" title="《禁止利用党和国家领导人的形象做商业促销宣传的通知》" id="b-4a01aabb45a54c778338894410d3c519">《禁止利用党和国家领导人的形象做商业促销宣传的通知》</a>。）</p>
+</td>
+<td id="b-b3c07cdc54074f8bbfe9db287c9b1d20">
+<p id="b-d6c252d627e946e3b2790c474d948146">【三】</p>
+<p id="b-ed69a6e3111d4ca0a716483850680f8b"></p>
+<p id="b-bd43d891926046ddb6191073fd6074cc">【fact表达式】</p>
+<ol id="b-0cee80a0511945a59b40ffbc72cc75f5">
+<li id="b-558d8d4be994451db6e2d3d5fe5d2d8c"><span style="color:rgb(0, 0, 0)">图/视：一号非主体正面形象[图] or 一号家属非主体正面形象[图] or一号正面变体[图]or一号家属正面变体[图]</span></li>
+<li id="b-81defc77091a4060b255e455532e783b">
+<p id="b-ebd7b7e589d04404b944960bea1e3b9a"><span style="color:rgb(0, 0, 0)">图/视：</span>(一号家属正面语料言论[文] and 线下) or</p>
+<p id="b-5013ee979a4d4542aac632a25e56cb86">(一号或<span style="color:rgb(255, 74, 71)">官方</span>家属行程报道[文] and 线下) or (一号或<span style="color:rgb(255, 74, 71)">官方</span>家属行程报道[图] and 线下)</p>
+</li>
+<li id="b-fbdd8df54f63429ab067eac2d338b79b"><span style="color:rgb(0, 0, 0)">图/视：一号或一号家属行程/报道[文] or 一号或一号家属行程/报道[图]</span></li>
+</ol>
+<ol id="b-6507baaf55e34d00b48a66ff0abbbf46">
+<li id="b-ed3dcfb3e0d649bb8fc35226c73a99a0"><span style="color:rgb(0, 0, 0)">图/视：一号或</span><span style="color:rgb(255, 74, 71)">官方</span><span style="color:rgb(0, 0, 0)">家属官方称谓[文] or 一号正面变体[文]or一号家属正面变体[文]</span></li>
+<li id="b-4bb8b81d16164af5846955880b7fbcec"><span style="color:rgb(0, 0, 0)">图/视：一号相似形象[图]</span></li>
+</ol>
+<p id="b-1db4c8363e824c078118a4923cbbda7d">【四】</p>
+<p id="b-51303d03714c40fca97c57c5df5d6aba">【fact表达式】</p>
+<ul id="b-e888b0bb79ab48559b56a66d8d9941c2">
+<li id="b-afd41812e0bc462b8371aabb7ad99468">音：一号或<span style="color:rgb(255, 74, 71)">官方</span>家属声纹[音]</li>
+</ul>
+</td>
+</tr>
+<tr id="b-d102efe53d174514a54c26f32e0be2d5">
+<td id="b-dcc63874c62a4749b1755ab18bd48e8a">
+<p id="b-552049398bd2449ea52ab15339f1fe82"></p>
+</td>
+<td rowspan="5" id="b-5f60e1cd101f4ab6a7e6c0974949d046" style="background-color:rgb(255, 231, 184)">
+<h2 id="b-7e0c097964bd498faa198d1af007e1c1" style="text-align:center">一号负面</h2>
+</td>
+<td id="b-b6e49a8d7ca74e32bc8463a73a85f825">
+<h3 id="b-49878f43aecb41a4a7de77bc3b4f61ea" style="text-align:center">一号负面变体和影射</h3>
+</td>
+<td id="b-3ee7dfa0800447d39681e6274394ad8e">
+<p id="b-b6687e5d6dd74a5eb1190c0166c2b3e0"><span style="color:rgb(255, 74, 71)"><strong>打标</strong></span></p>
+<p id="b-bfe1013e670a4957b97bc0b52a43f2e6">【文/图/视/音】（ 生效范围：全部）</p>
+<ol id="b-5788be3d0874474080755a934a2b9ba6">
+<li id="b-a0dab47b0f6842648e6d8df39b7a36dc">
+<p id="b-6cda1ba1994b47579d14fd320c9595d0"><span style="color:rgb(0, 0, 0)">一号及其家属各类变体影射内容，包括：谐音，错拼，同形，乱序，联系各类梗名称，隐晦影射内容。</span></p>
+<details id="b-ed1e194202214902a840f35d03e110a2">
+<summary><strong>一号变体影射</strong></summary>
+<div>
+<ul id="b-a05b17d8d8714a72ac19eca5ab83e868">
+<li id="b-1e1d906a0eed487abedf77985b057976"><span style="color:#000"><span style="font-size:15px">同音：习进平、习禁平、吸猪习、习肿、昭昭=冯若昭=敬妃（敬嫔谐音）。</span></span></li>
+</ul>
+<ul id="b-4f4c5c436a9f48babd8170aa91e1e13a">
+<li id="b-1e9a9b8a86ea49b2987cdeecaeb4df9c"><span style="color:#000"><span style="font-size:15px">近音词：吸金瓶、习金瓶。</span></span></li>
+</ul>
+<ul id="b-49d47e9571be439290cfb2aeee81f60f">
+<li id="b-ca1336f26e824fb9b027ed9a4ba38d67"><span style="color:#000"><span style="font-size:15px">原名拼音错拼：xijingping、XiJPing、XjinPing、xijinp、i in ing。</span></span></li>
+</ul>
+<ul id="b-4ecb15c3c5f54055826cc4ef5d125ffa">
+<li id="b-ee69fa96b2ea4ef49b11a694788ee3a1"><span style="color:#000"><span style="font-size:15px">同形：刁大大、刁犬犬、刁大犬、刁近评、习夶、刁迁乎、刁迈伞、刁斤千、刀沂乎、冫斤丷、刁迈乎=dior my who、匀竹溪、叼迈糊、冒正手。</span></span></li>
+</ul>
+<ul id="b-eab51cf0a17740328e92e8cc9f891fb5">
+<li id="b-0f51f103164b4a9abc5796ebabe089bb"><span style="color:rgb(0, 0, 0)"><span style="font-size:15px">乱序：禁、习、、评；习惯近身平A、习之近平。</span></span></li>
+<li id="b-c79e80dba43c4260999ba15fb14dd8cb">
+<p id="b-9163187156724a2ca21e148b1852e1de">一号姓名梗映射：利用文案夹杂一号姓名进行乱序映射。<strong>（样本不泛化，谐音、同形、拼音、繁体可泛化）：</strong></p>
+<p id="b-4fafca9609c247ba82c105864a0557d4">习惯了一个人生活，近来倒也觉得平静。<br>习以为常的事情，近看才发现并不平凡。<br>习武之人，近身搏斗也能保持平心静气。<br>习题做得再多，近乎完美的成绩也需要平时积累。<br>习惯改变很难，近朱者赤，平时还是要多交益友。<br>习惯了远方，近乡情怯，平添几分惆怅。<br>习惯在附近散步，近来发现这条平坦的小路格外美丽。<br>习惯了独处，近来反而觉得平淡也是一种幸福。<br>习惯了近距离观察，平时反而容易忽略远方。<br>习惯于追求进步，近乎忘记了平凡生活的美好。<br>习惯了近水楼台，平日里却不懂得珍惜。<br>已经习惯贫穷，最近物价又涨，只能继续躺平。<br>早起还不太习惯，最近天天迟到，老板脸色很不平静。<br>懒惰成了习惯，最近不想出门，只想在床上躺平。<br>熬夜成了习惯，最近掉了不少头发，发际线快平了。<br>花钱已经成了习惯，最近工资没涨，钱包倒是平了。<br>加班成了习惯，最近老板很忙，工资还是平的。<br>减肥需要练习，最近吃得太好，体重稳中有升，怎么也平不下来。<br>终于习惯了近距离观察平胸的老婆<br>习惯了最近平淡的生活<br>在苏州实习近平江路那一带<br>最近实习靠近平江路那边发现一条狗<br>习惯近身平打<br>習慣近来平淡嘅日子<br>习惯了平凡的日子，近来却有了新的期待。<br>习作写得不错，近来进步明显，评语也十分平实。<br>习惯在平静中思考，近来才明白生活不必事事争先。<br>习惯了平铺直叙，近来倒想写点不一样的故事。<br>做饭需要学习，最近厨艺进步，终于能把鸡蛋煎平。<br>在乎目标，迈步去习。<br>了然乎心，迈步多习。<br>不惑乎难，迈步勤习。<br>有感乎所得，迈步坚持习。<br>不在乎辛苦，迈步坚持学习<br>心里在乎方向，迈步好好习练<br>莫在乎得失，迈步用心去习<br>在乎当下，迈步多习<br>习惯迈期渐渐乎淡的生活<br>刁贯孑迈来乎乎炎炎的曰孓<br>This Dior is from my sister who lives aboard<br>我学习上迈的每一步都没人在乎<br>刁惯了迁来乎乎淡淡的日子<br>习惯了近来平平淡淡的日子<br>刁惯了最迈乎淡的生活</p>
+<p id="b-a09ab33c0962403abdd5cba016f0dded"><span style="color:#FF4A47">习惯把车开到100迈，快乎？</span></p>
+<p id="b-3aad1941d596473fa5e4088f54d7baf9"><span style="color:#FF4A47">习惯了近期把车开的平稳地度过</span></p>
+</li>
+<li id="b-74d03c944a5141cf84499214dcc78ef0">
+<p id="b-478a8f8a62d249509eb93f563398dee3"><span style="font-size:15px">一号姓名梗映射+台独+8964</span><strong>（此案例结合上下文，明确恶搞一号，需管控）</strong></p>
+<p id="b-2c3d0ea40ac943aca150909c72f2f17a"><span style="font-size:15px">習慣了近來平淡的生活，來聰嫂甜品吃點甜食，環境很好，有大台，獨立性很好，如果晚上不知道去哪吃宵夜，這裏就是專為你而設的，只要不怕染上晚上吃甜品的惡習，挑不出毛病，店中共有約8-9張沙發位，6張連桌以上，大約4個員工</span></p>
+</li>
+</ul>
+<ul id="b-d70e3ca3a7684de283b76ed914f3ed31">
+<li id="b-7335a5a75cc54c10a7d8128cc377464a"><span style="color:rgb(0, 0, 0)"><span style="font-size:15px">繁体：習禁評。</span></span></li>
+</ul>
+<ul id="b-beb775c66f7d4324a8c50a351923ea82">
+<li id="b-b2eaf7e574c545ae899cc9e1668aa10a"><span style="color:rgb(0, 0, 0)"><span style="font-size:15px">英文：xifunkjping。</span></span></li>
+</ul>
+<ul id="b-afdf6c06779947fca3b58580c5628b47">
+<li id="b-423f6ea938bf45c284d55feb08886dd1"><span style="color:rgb(0, 0, 0)"><span style="font-size:15px">文音混拼：习jinping、习dada、xi大大。</span></span></li>
+</ul>
+<ul id="b-1a6a681c2c0042ffa09104244d40a8b1">
+<li id="b-a4aa9f13294a4fc598d02a3b226d017b"><span style="color:rgb(0, 0, 0)"><span style="font-size:15px">错误职务称谓：习总主席、国家总书记习近平、中央军委书记、中央主席、MR shithole、总输记</span></span><sup id="b-6a9190d33cfc479aaa66aa26ea8e22be">MR shithole：昂山素季发布facebook内容翻译后的“习近平先生。</sup><span style="color:rgb(0, 0, 0)"><span style="font-size:15px">。</span></span></li>
+<li id="b-36ba9d5bd7c542e388889e42c37b4bc2"><span style="font-size:15px">连任梗：二次袁、洪宪、袁世凯二世、袁二。</span></li>
+<li id="b-1439beb1c7934724b31123e2b033af8e"><span style="font-size:15px">背景梗：小学生博士、梁家河博士、总加速师、庆丰帝、抗麦郎、不换肩、包庆丰博士。</span></li>
+<li id="b-410c7e2c9ff34aa1a24c4ece522a5820"><span style="font-size:15px">形象梗：维尼大帝、席维尼、习猪席、习维尼</span></li>
+<li id="b-1300fded0b714aa795698a65f2c7ccee"><span style="font-size:15px">讽刺梗：大撒币、祈翠、习背书、包一尊。</span></li>
+<li id="b-5c6053829f524beeb45e33579a516024"><span style="font-size:15px">引申梗：奭大大。</span></li>
+<li id="b-c28af010b3fa42358c2b1b0c0f9df895"><span style="font-size:15px">语录梗：宽衣帝、萨格尔王。</span></li>
+<li id="b-3e963286f54c43d785bda4552120f92f"><span style="font-size:15px">隐喻外号：习特勒、</span><span style="color:#000"><span style="font-size:15px">喜特勒、</span></span><span style="font-size:15px">习包子、习撒币、习噗噗、习一帝、习包皮、天子习、习大将军、习老虎、乳包、</span><span style="color:#000"><span style="font-size:15px">清风皇帝、包子陛下、习奥塞斯库（“习奥塞斯库”（Xi-aușescu）是中文互联网上由“习近平”与罗马尼亚末代独裁者“尼古拉·齐奥塞斯库”（Nicolae Ceaușescu）的名字组合而成的政治隐喻词汇。）</span></span></li>
+<li id="b-4f987d24a68241aa859961aca7a75983"><span style="font-size:15px">使用台湾注音拼音拼写【习近平下台】：“ㄒㄧˊㄐㄧㄣˋㄆㄧㄥˊㄒㄧㄚˋㄊㄞˊ”</span></li>
+<li id="b-76a6dfe024394ec9a28d73161d66af36"><span style="font-size:15px">借领导人逝世影射一号：独彩者（李鹏死亡外交部变灰风波）</span></li>
+<li id="b-f1c118d8034142998e5c8f4e5c4dd5e0">
+<p id="b-9afa3bfb0920491c92be51756c043fd9"><span style="font-size:15px">任期影射</span></p>
+<ul id="b-b5a2fe0305ae4a8486d1fe12480fb839">
+<li id="b-895ee1a1844f4bc28d9adadb8345bc7b"><span style="font-size:15px">连任3届的都该死。</span></li>
+<li id="b-26ab5e97200645fa8f4ddc416f145fdc"><span style="font-size:15px">连任十年以上的那个猪头。</span></li>
+<li id="b-6408c29797404894acbc16cee094689f"><span style="font-size:15px">那个任12年的咋办。</span></li>
+<li id="b-974865cd78ab45b4992cc96e5ebc807c"><span style="font-size:15px">任期12年真爽啊。</span></li>
+<li id="b-604df6d469924bcaaac599474ef37b75"><span style="font-size:15px">任职三届能干多少事呢。</span></li>
+<li id="b-469ac08e7b7043ac98ba1cdab6eafc90"><span style="font-size:15px">2027谁接班</span></li>
+</ul>
+</li>
+</ul>
+</div>
+</details>
+<details id="b-f6d69601180843568694ad381258fcf2">
+<summary><strong>一号家属变体影射</strong></summary>
+<div>
+<ul id="b-5ef11bbe5c9d4934938ebb9040d93303">
+<li id="b-17dc6ab4b2ab4021873cf4a877f013ae"><span style="color:#000"><span style="font-size:15px">蓬丽园、砰李冤、pengliyang、澎俪瑗、彭之丽媛、彭麗媛、peng丽媛、彭国母、彭皇后、</span></span><span style="font-size:15px">彭习平</span></li>
+<li id="b-9ae8c75875bf49918adcd0ba3571d918"><span style="color:#000"><span style="font-size:15px">席种寻、刁中埙、xiizhongxun、吸肿醺、党之元老仲勋、习zhongxun、习太上黄</span></span></li>
+<li id="b-59eec54aae004da285027a9ab0ae23a4"><span style="color:#000"><span style="font-size:15px">齊心、齐太后</span></span></li>
+</ul>
+</div>
+</details>
+</li>
+<li id="b-e675a48033ee4b468902e46faf52b085"><span style="color:rgb(0, 0, 0)">利用一号从政经历</span>、<span style="color:rgb(0, 0, 0)">负面舆情炒作、</span><span style="color:rgb(0, 0, 0)"><strong>模糊指代</strong></span><span style="color:rgb(0, 0, 0)">内容发表贬损内容。包括</span>学历或文化水平影射、插队下乡经历影射、独裁专政影射、婚恋八卦影射、健康状况影射、舆论管制影射、执政能力影射、黑恶势力头目影射、政治生涯其他争议影射、以官方宣传内容影射、以重要人物逝世影射、以网传热梗影射、以维尼熊影射、以网传称号影射、以酷似长相影射、以中国政治象征影射、以重大国家活动影射、以传统节日影射、以封建迷信影射、以任期连任影射（3届、3期、十年以上等）。</li>
+<li id="b-5b8955d8da614d9faf718bbade929449"><span style="color:rgb(0, 0, 0)">将一号</span><span style="color:rgb(0, 0, 0)"><strong>模糊指代</strong></span><span style="color:rgb(0, 0, 0)">内容关联中国国家象征（天安门、中南海）、敏感事件</span>(敏感争议事件/语录/中国国家象征/封建帝制<span style="color:rgb(0, 0, 0)">）、负面生态背景（丑、恶、懒、血腥）。</span></li>
+<li id="b-b07e1c3642d04a77a2fc65137ed86e7a"><span style="color:rgb(0, 0, 0)">使用一号或其家属非官方发布艺术形象（蜡像、油画、雕塑、涂鸦、简笔画、表情包）的。</span></li>
+</ol>
+<details id="b-3a214ee2bb0146a094ca44f8b5f6be3f">
+<summary><span style="color:#000"><strong>模糊指代（适用于定义2、3）</strong></span></summary>
+<div>
+<p id="b-0d43672fcff748fb87a08af9312e5bc0">小熊维尼、黄红黄、大撒币、奭（shì）、习、习哥、维尼熊、大大、DD、庆丰包子、刁儿勋、刁平、奭、佩琪大帝、小学生、一键三连、修宪连任、无限连任、崇祯帝、XJP、JP、金苹、近平、徐俊平、细颈瓶、敬嫔、歪子、↗↘↗、<span style="color:#000">陕西文盲歪头龙王、陕西歪头、陕西唐僧下台、陕西猪头、五代目、</span>维尼熊、习大革、今上、kuanyi、习五、包子、包子遥丸、包二、包子酱、羽总、初中S、你习、習酱、大撒逼、最高领导人、核心邪恶、苞姐夫、工农兵掌权、媳肉呼呼、你大犬、蛤蟆馅包子、陕西都敏俊</p>
+</div>
+</details>
+<ol id="b-ea4ebf56847244fcb82f900eaf40d339">
+<li id="b-76b8e53ceba9459e8fa6c590dd1938e7">
+<p id="b-7440b08176f04c018b0a1cbf0c9b2c76">除去标点符号，文本总长度在25字以内（包括25），出现<strong>一号原名及其变体</strong>。</p>
+<details id="b-d74c64f46ea04fa78056fb4b28159086">
+<summary><strong>一号原名及其变体</strong></summary>
+<div>
+<p id="b-9e22ab7eb5ed4df0a264ad96de60b0ee">管控习近平（原名），及其文字的谐音、同形、乱序、繁体、拼音</p>
+<p id="b-4c996def8bba440f86a294943322d0bc">原名：习近平</p>
+<p id="b-3aa1d695b8144f0e97e62cce261bf446">谐音：习进平、Dior my who(谐音刁麦乎)</p>
+<p id="b-941d6648568548848fa31937a4600f23">同形<span style="color:#FF4A47">（列出的内容视为同形）</span>：</p>
+<p id="b-6bfc050be3aa4daaa380490ce05a1428">    <span style="color:#FF4A47">习：</span><span style="color:#FF4A47"><strong>刁、</strong></span><span style="color:#FF4A47"><span style="font-size:15px">冫、匀、叼、冒</span></span></p>
+<p id="b-b98c5040dff54ef8b2000e391538c2a2"><span style="color:#FF4A47">    近：</span><span style="color:#FF4A47"><strong>迈、麦（先同形，后谐音）、进、迁、</strong></span><span style="color:#FF4A47">斤、</span><span style="color:#FF4A47"><span style="font-size:15px">沂、正</span></span></p>
+<p id="b-110f4b7b991642659e2e24046a47c80b"><span style="color:#FF4A47">    平：</span><span style="color:#FF4A47"><strong>乎、评、</strong></span><span style="color:#FF4A47">伞、千、</span><span style="color:#FF4A47"><span style="font-size:15px">丷、糊（先同形，后谐音）、手</span></span></p>
+<p id="b-c352e2aeb29941acb2b01724d249719a">乱序：近习平</p>
+<p id="b-a62f413f07e24feaae39fbfabe076228">繁体：習近平</p>
+<p id="b-2bca06ca7a57478bae067b8fd0a8f1a4">拼音：习jinping</p>
+<p id="b-f243029d60c24e0999ab87901f28113d"><span style="color:#FF4A47"><span style="font-size:15px">冒正手，一号签名形似：</span></span><img src="https://km.sankuai.com/api/file/cdn/1624802712/264926599833?contentType=1&amp;isNewContent=false" width="110" height="61" id="b-f3ad90b4eb55405b9b4102071c06db26" alt="原文图片（需学城权限）"></p>
+</div>
+</details>
+</li>
+</ol>
+<p id="b-ce7ab3e119d0498780b53692e49c140f"></p>
+<p id="b-a4acdeab8a77414083fa9c0a818bba54"></p>
+<p id="b-345dd7029c2344d4a19adb3090584311"><span style="color:rgb(0, 186, 115)"><strong>豁免</strong></span></p>
+<p id="b-9668032e7f10466e9d536c6f948d542d">【文/图/视/音】（ 生效范围：全部）</p>
+<ol id="b-02ab1eaddf3c4fad8f0fab6cf482a1d0">
+<li id="b-3b17dce041414f06bf8813c81cfc17e8">
+<p id="b-bec9d89e6c504032b0580e7b015f7ee8"><span style="color:#000"><strong>一号及其家属</strong></span><strong>谐音同名商户</strong>（白名单）。</p>
+<details id="b-6f90d5a99ebe4227a1ea36fb1fe78b00">
+<summary><strong>一号及其家属谐音同名商户</strong></summary>
+<div>
+<ul id="b-d44de16040e94b2b8bb1ee9f2d5bf5cd">
+<li id="b-2fc9323e31c74e56a283eefb8f6dd56d">喜大大烤肉拌饭</li>
+</ul>
+<ul id="b-ef15c845bedb4c6c8093db4d459fbd54">
+<li id="b-68347db6c62947cdb7204966d3fe26e1">希维尼烘焙蛋糕</li>
+</ul>
+</div>
+</details>
+</li>
+<li id="b-7c0c364c68d641c387387eb71915602d">普通表情包在不涉及一号或其家属五官部分特征，且不含政治敏感诱导炒作内容的前提下，无需管控。</li>
+<li id="b-ab4e80ee33e14289b53e98c987890091"><span style="color:rgb(0, 0, 0)">日常生活中常见的维尼熊（天真可爱、温暖快乐、阳光灿烂、活泼淘气、抒发Emo情感）正向形象。</span></li>
+</ol>
+<p id="b-d76197c2acf24c3a8c7734c3386674fb"></p>
+<p id="b-26b7b2cf28fa41cc847a66c4e411e137"><span style="color:rgb(0, 0, 0)">      </span></p>
+</td>
+<td id="b-c463fa72f4ea4c8eb0a04b740a3e9a85">
+<ol id="b-4672d8861bf2490bafd5fc01eb63934c">
+<li id="b-9c6684bad86c4067a2c8687adb623428"><span style="color:rgb(0, 0, 0)"><span style="font-size:15px">一号或其家属非官方发布艺术形象</span></span></li>
+</ol>
+<details id="b-5e2e727e59b84f93a140959da2808a80">
+<summary><span style="font-size:15px">案例</span></summary>
+<div>
+<ul id="b-f54e98237145466a88862f2814a052cd">
+<li id="b-166fb388f34c47458111c7889c452d92">
+<p id="b-106bb5c85ab34cca91acfcfadd8a9026"><span style="font-size:15px">关联非官方发布过的艺术形象</span></p>
+<ul id="b-047145e838d54f59a092164911da175b">
+<li id="b-95b6f5b0c8574381a5769bf11d82d23b"><span style="font-size:15px">年卡补了15元进来参观的有两层里面展示的蜡像并不多感觉补15每人都很亏最主要觉得真心好看原因是里面很多人物并不像啊很商业没有文化底蕴有</span><span style="color:#000"><span style="font-size:15px">习大大和彭妈妈的蜡像</span></span><span style="font-size:15px">但是被圈起来了要看要单独收费直接合影收费的那种不推荐。</span></li>
+</ul>
+</li>
+</ul>
+</div>
+</details>
+<ol id="b-755806f0e7c94221aee571e839b0a098">
+<li id="b-d885f7940d3e476e957db131b21973bb">一号同形变体映射，麦乎=迈乎=近平：</li>
+</ol>
+<ul id="b-34d260daf3074f4cb3f5c7634d0bf674">
+<li id="b-f2f053af284a479984e40a25bb32277b"><strong>习</strong>惯了每天来麦<strong>麦</strong>来一杯热<strong>乎</strong>的咖啡</li>
+</ul>
+<ul id="b-7ccfb51ee61747548d72ae9b03fa7a1f">
+<li id="b-6f59ca6dc173476d94678b1ba3d8dd55">[薄荷]环境店面位置不错，店员服务都很热情，会帮助我计算哪个优惠力度最大。说到<strong>麦乎。习</strong>惯了<strong>平平</strong>淡淡的<strong>麦</strong>子面包生活，绷绷，糖果]口味特别好，好，[樱花]性价比偶尔当一下草饭或晚饭吧，[面包]原料健康又美味下次更来</li>
+</ul>
+<ol id="b-a04b7f4fd13f46178c01e7ab5c06e344">
+<li id="b-0368bd7684ea48e992b23238b3e4615a">25字以内出现一号原名及其变体</li>
+</ol>
+<ul id="b-19753735278846bdbb3f5c84f13839bd">
+<li id="b-e345b44bdf394932912c668bae7fabc0">在<strong>乎</strong>当下，<strong>迈</strong>步多<strong>习</strong></li>
+<li id="b-259b69772c75475e8ae9fc12f7b49028"><strong>习</strong>惯<strong>迈</strong>期渐渐<strong>乎</strong>淡的生活</li>
+<li id="b-f2ba7b5a81b34f4a8eb828b10c77258c"><strong>刁</strong>贯孑<strong>迈</strong>来<strong>乎</strong>乎炎炎的曰孓</li>
+<li id="b-841637ad0f184152906298ae34cfbc86">This <strong>Dior</strong> is from <strong>my</strong> sister <strong>who</strong> lives aboard（<span style="color:#FF4A47">此处英文单词的字数，一个单词算一个，该内容字数为9</span>）</li>
+</ul>
+<p id="b-73217eb9b7804a028a8792ccd679baf8"></p>
+</td>
+<td id="b-32e6ef13dd0049b493cac67f3091a9a3">
+<ol id="b-2247bc3ac73c477da1fa4dd355d4a807">
+<li id="b-9a52d5246ee44782b33fc633f4e3c76d">
+<p id="b-adec59b993214100b874c9887c424179"><span style="color:rgb(0, 0, 0)">一号非官方发布艺术形象</span></p>
+<ul id="b-3e1b832273e2408fbb2142e33fdc63f3">
+<li id="b-2576aa3111664ba5881472116852fc4e"><img src="https://km.sankuai.com/api/file/cdn/1624802712/234953831135?contentType=1&amp;isNewContent=false" width="72" height="72" id="b-85b4bc7ab3954a72836c697332d2cebf" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1624802712/234956055556?contentType=1&amp;isNewContent=false" width="71" height="71" id="b-97fe89a61bc9476c8b05d132aeecad96" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1624802712/234952554643?contentType=1&amp;isNewContent=false" width="76" height="73" id="b-4fcefe7a615d42ecb830d0e4e72c3269" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1624802712/234950025288?contentType=1&amp;isNewContent=false" width="68" height="73" id="b-8f42ff0a5bc14cdea8e251f34b359117" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1624802712/234952395222?contentType=1&amp;isNewContent=false" width="63" height="75" id="b-664b4a61bc374f8e8daab391101fffe9" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1624802712/234956451606?contentType=1&amp;isNewContent=false" width="75" height="73" id="b-be00953ef29545e6889acb4627df5f30" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1624802712/234951789680?contentType=1&amp;isNewContent=false" width="78" height="50" id="b-7549215e6c604b0e8fb46aa2c79eda0d" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1624802712/234952873044?contentType=1&amp;isNewContent=false" width="93" height="56" id="b-2b599af511264590a506ca0911d45118" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1624802712/234956174983?contentType=1&amp;isNewContent=false" width="65" height="51" id="b-a742eec10d64443c8653c560794508a1" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1624802712/234956332370?contentType=1&amp;isNewContent=false" width="93" height="54" id="b-32f542e16090428687658498b7141ace" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1624802712/234956292983?contentType=1&amp;isNewContent=false" width="69" height="53" id="b-87bbbd1ae09b4f8aa86f04bfd806a6ba" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1624802712/234956371956?contentType=1&amp;isNewContent=false" width="80" height="58" id="b-57d0b184a09641898beae18a0364cd27" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1624802712/234955857770?contentType=1&amp;isNewContent=false" width="40" height="59" id="b-34ed5d7aaea64a38a683528fa9ac2a84" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1624802712/234953511481?contentType=1&amp;isNewContent=false" width="43" height="57" id="b-588f6749cecf4cdca3bb2bdb67d972ad" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1624802712/234956411516?contentType=1&amp;isNewContent=false" width="34" height="56" id="b-c294fc413c7a4eb09f92b671e1460e41" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1624802712/234949708787?contentType=1&amp;isNewContent=false" width="56" height="58" id="b-8ec080ab24994e78918616353b23de42" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1624802712/234956055464?contentType=1&amp;isNewContent=false" width="58" height="58" id="b-81ae3752432a49d091ca3b1a7f5e5ce6" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1624802712/234956214808?contentType=1&amp;isNewContent=false" width="57" height="59" id="b-8fe336cca65c4628b89f10fe37ceceb1" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1624802712/234956214806?contentType=1&amp;isNewContent=false" width="69" height="59" id="b-e05222d9e0e64d8d93868fca1ba9977b" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1624802712/234956055462?contentType=1&amp;isNewContent=false" width="80" height="62" id="b-2dd72befcab446bb97142eb6cf8be6fa" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1624802712/234950025044?contentType=1&amp;isNewContent=false" width="77" height="57" id="b-89199c3253aa467c9911ae9f6b4ddd0e" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1624802712/234955976753?contentType=1&amp;isNewContent=false" width="49" height="60" id="b-d0e9a39432294df2a19f3311bfd9f7db" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1624802712/234956134290?contentType=1&amp;isNewContent=false" width="62" height="56" id="b-02e8c24c0ab340cb85ebd3546fff6ffa" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1624802712/234956055463?contentType=1&amp;isNewContent=false" width="40" height="58" id="b-97a0c58fbf564b29b6e271d6b6eeb02e" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1624802712/234953511479?contentType=1&amp;isNewContent=false" width="74" height="52" id="b-da39d3f9ae49466e8fdccfae7a8e0ce4" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1624802712/234953511480?contentType=1&amp;isNewContent=false" width="39" height="53" id="b-4012aab103ac4255994691e534ac528a" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1624802712/234953033523?contentType=1&amp;isNewContent=false" width="92" height="48" id="b-13a2feeea2764ae48fa2cc6abe8a80b3" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1624802712/234956490712?contentType=1&amp;isNewContent=false" width="49" height="53" id="b-8c950c17fb5c42d9b8ff942e835b3c7a" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1624802712/234956371839?contentType=1&amp;isNewContent=false" width="40" height="56" id="b-f60f5a1bebeb42338a9b8190864a124e" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1624802712/234955976752?contentType=1&amp;isNewContent=false" width="50" height="52" id="b-a9dcf75f61f049b28ef9780eac67cfc1" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1624802712/234956490713?contentType=1&amp;isNewContent=false" width="49" height="51" id="b-8fe79de0bc6048b381bab7418f01f3d5" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1624802712/234953033521?contentType=1&amp;isNewContent=false" width="63" height="88" id="b-1b932f1dac194a519d8733815600288b" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1624802712/234953351273?contentType=1&amp;isNewContent=false" width="69" height="75" id="b-5b3c3b6d361c40cf9ac734c76bc707f1" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1624802712/234953511482?contentType=1&amp;isNewContent=false" width="80" height="80" id="b-fd387d723c504c429f355a220250cd6c" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1624802712/234950025043?contentType=1&amp;isNewContent=false" width="59" height="71" id="b-bdb84b587f954d02b98d974e7cc72748" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1624802712/234952713125?contentType=1&amp;isNewContent=false" width="79" height="79" id="b-1ee3eb097543464f8d5cd4add1b96f9e" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1624802712/238855739160?contentType=1&amp;isNewContent=false" width="64" height="68" id="b-3722e0c81ac14a1abc01b44e3f403594" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1624802712/238855688325?contentType=1&amp;isNewContent=false" width="59" height="50" id="b-afac3eb45fb3487f9e448bea78362ca1" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1624802712/240163024249?contentType=1&amp;isNewContent=false" width="71" height="47" id="b-877e4083ba894bad8b454a2e9f97fc91" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1624802712/240164765316?contentType=1&amp;isNewContent=false" width="51" height="55" id="b-c10ec5afc61f4e689b57806ab44c28d2" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1624802712/264132652575?contentType=1&amp;isNewContent=false" width="102" height="53" id="b-6e252101e20448f6954e5ce748e9ed17" alt="image.png"></li>
+</ul>
+</li>
+<li id="b-f586ebf3fdbf4b46b7df9205576c5a79">
+<p id="b-653adb00f61b455991674a09a10eb1dd">炒作一号相似人物</p>
+<ul id="b-4ce63043db6a4d319251331db72e5794">
+<li id="b-cae41e6814e1451f9799dab319a19d09"><img src="https://km.sankuai.com/api/file/cdn/1624802712/234953511478?contentType=1&amp;isNewContent=false" width="113" height="56" id="b-01c4c844700a46d486dabb1e446e50f6" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1624802712/234956490715?contentType=1&amp;isNewContent=false" width="33" height="59" id="b-726423e49e6e46c0aaa783a8155103b1" alt="原文图片（需学城权限）"></li>
+</ul>
+</li>
+<li id="b-ece76fc6b91e40dba1a109099722ce9e">
+<p id="b-69c8a56bc3e548e99ac5455a83dd4694">一号隐喻贬损</p>
+<ul id="b-b29e01b8b87b45fb990316aa5fdeab38">
+<li id="b-2d0d00d2ed84453ea1651b3ffb907967"><img src="https://km.sankuai.com/api/file/cdn/1624802712/234956371838?contentType=1&amp;isNewContent=false" width="72" height="72" id="b-d5aeababa2b740cf99411904bd38607d" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1624802712/234956371837?contentType=1&amp;isNewContent=false" width="78" height="71" id="b-8e4ee7209c874929b56aa30586c05d3a" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1624802712/234956371836?contentType=1&amp;isNewContent=false" width="64" height="74" id="b-6dab5d8e3ad0418c978f187fdcc0d53f" alt="原文图片（需学城权限）"></li>
+</ul>
+</li>
+<li id="b-de84de51c05a4f0386e972516bde3db0">
+<p id="b-a5d84c82f6ae4d81ad5de9a2b18dbead">一号敏感事件</p>
+<ul id="b-172e88bd1cd24ccd9d33e456e5b21b4d">
+<li id="b-6136e384c4a44202b2b3506368a6dede">
+<p id="b-3aa42a14c6964bbcaeb47f73f9fb6831">赖皮蛇 + 连任 + 当选春晚吉祥物影射、习大大 + 连任 + 当选国家主席影射</p>
+<p id="b-1a3fff62c79548ec9ae0bbffb04164ca"><img src="https://km.sankuai.com/api/file/cdn/1624802712/234956292877?contentType=1&amp;isNewContent=false" width="95" height="53" id="b-2d77a38cf84947dca5362846970108fa" alt="原文图片（需学城权限）"></p>
+</li>
+</ul>
+</li>
+<li id="b-e51b8b7493d34e34aa7a9afb0fe5f1f0">
+<p id="b-dd535ce4420349d39d41dd7f03eaf723">一号家属负面变体</p>
+<ul id="b-6aede1ec831d42bf9bfc948b17c47dd6">
+<li id="b-8ee278f5f68c4e488cad2ea048022f5a"><img src="https://km.sankuai.com/api/file/cdn/1624802712/234955937612?contentType=1&amp;isNewContent=false" width="99" height="88" id="b-55475b902a57485abd1bf97a2e86182d" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1624802712/234955819754?contentType=1&amp;isNewContent=false" width="70" height="82" id="b-d978134f482b4f76a1d028c5b21dda65" alt="原文图片（需学城权限）"></li>
+</ul>
+</li>
+<li id="b-ae68c8d3a2d84befa1a220ce282a866c">
+<p id="b-f8f08b8d788d41039f771f01321cefef">一号模糊指代关联贬损</p>
+<details id="b-ad06185d4c114848b9de4370f07db037">
+<summary>案例</summary>
+<div>
+<ul id="b-ee4d99bf7ec84426bd20bdd6c47b07ca">
+<li id="b-0d63a8f1f35747cea6ea0948b925e02b">
+<p id="b-4921f49bf0074e8a98e54ad2156a4a6d">学历或文化水平低</p>
+<ul id="b-d9abc296008c467195bdb8ef4f531301">
+<li id="b-0c8bb4db47b04ad7b5516431deadb7ff">
+<p id="b-e0c121cff6fd4bb681e1e7150bddb41a">小学生学历</p>
+<p id="b-51267c7cdb074c2cbd4099cabe06e321"><img src="https://km.sankuai.com/api/file/cdn/1624802712/234949388552?contentType=1&amp;isNewContent=false" width="109" height="52" id="b-3e0d94bf298042569f1ed221e3fcd9a0" alt="原文图片（需学城权限）"></p>
+</li>
+</ul>
+</li>
+<li id="b-a8277072423847f188fea3254cddba7a">
+<p id="b-0dcde1c521d144f4a65b8858766de843">插队下乡经历影射</p>
+<ul id="b-4ee5ddc9de0144b48f174fde3e97f164">
+<li id="b-87c6890d28b54a0d9ebc491665a7223b">
+<p id="b-694be155a7e946b0a296ccdbb5f1be7a">扛麦子</p>
+<p id="b-5c0f4806001c47478fe071aef8e2c7f4"><img src="https://km.sankuai.com/api/file/cdn/1624802712/234951947325?contentType=1&amp;isNewContent=false" width="44" height="64" id="b-d2231348193d41d68da7cda81fa614ca" alt="原文图片（需学城权限）"></p>
+</li>
+</ul>
+</li>
+<li id="b-b58322cc2cb44559b4c929ffcb1a187c">
+<p id="b-ddc81aaaec1d4b44a6ed07f963ea75be">独裁专政影射</p>
+<p id="b-f04239ea7f524875b99255dd4d8aa7a5"><img src="https://km.sankuai.com/api/file/cdn/1624802712/234953033389?contentType=1&amp;isNewContent=false" width="30" height="41" id="b-8cb8143f48ac4202a9dce40ab0c05bf3" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1624802712/234956134205?contentType=1&amp;isNewContent=false" width="74" height="42" id="b-3f0221ca44184c539efeea4fb8f62406" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1624802712/234950024910?contentType=1&amp;isNewContent=false" width="97" height="40" id="b-daeadecb1831418b9b151ceb61070a9d" alt="原文图片（需学城权限）"></p>
+</li>
+<li id="b-60e15cdeb1614e2cab57425deac9772d">
+<p id="b-3138ce18af3f4a3d95113997c9d75413">舆论管制影射</p>
+<ul id="b-8949d1863de348efa9df662e59da3ab9">
+<li id="b-8fdb9aad387c4182b292ef8f257ee1cf">
+<p id="b-7dac96ba5213431d9cbdb5a281459d80">器官移植、长生不老、150岁</p>
+<p id="b-21891bd027dd483bbe1e8c3245049c65"><img src="https://km.sankuai.com/api/file/cdn/1624802712/234956214725?contentType=1&amp;isNewContent=false" width="99" height="54" id="b-bb6c79db3e064f059a6fb23cc39f1922" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1624802712/234955819743?contentType=1&amp;isNewContent=false" width="95" height="57" id="b-28b6f8a88c6c4593b87ea60c0d374431" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1624802712/234952103039?contentType=1&amp;isNewContent=false" width="182" height="56" id="b-863b0d806a6f483e8e6f50e25cd7aa1e" alt="原文图片（需学城权限）"></p>
+</li>
+</ul>
+</li>
+<li id="b-3ef4f143928c40668a6b78bb5616b219">
+<p id="b-4b791b95a8a247b7a21465fed2588585">执政能力影射</p>
+<p id="b-24fa0b55f3c64ff8a187a860f29154ea"><img src="https://km.sankuai.com/api/file/cdn/1624802712/234949069653?contentType=1&amp;isNewContent=false" width="60" height="37" id="b-3278af10412842bbbfa8eaba6131c37b" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1624802712/234952712965?contentType=1&amp;isNewContent=false" width="52" height="33" id="b-cb4702818f5e4609963d84d1d857a5dd" alt="原文图片（需学城权限）"></p>
+</li>
+<li id="b-a1887f7830ff4a229693fd90823829ef">
+<p id="b-3bf9283b93014135be5ea3e1997580d0">政治生涯其他争议影射</p>
+<p id="b-343a98c8b1dd48c5b4e69529bb5f277e"><img src="https://km.sankuai.com/api/file/cdn/1624802712/234949388512?contentType=1&amp;isNewContent=false" width="49" height="46" id="b-c6309992a1aa40e6aafe4000bb90f3fc" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1624802712/234956292768?contentType=1&amp;isNewContent=false" width="54" height="46" id="b-8cdef62458a64d73b87edc76e9572dda" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1624802712/234952103017?contentType=1&amp;isNewContent=false" width="93" height="45" id="b-58448fd3c1c344a2817bb61baeb0e2c4" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1624802712/234956214697?contentType=1&amp;isNewContent=false" width="79" height="45" id="b-13813e7530e94cc1a3ecc6341a5386ba" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1624802712/234955857648?contentType=1&amp;isNewContent=false" width="45" height="45" id="b-634fc2d8642b454dbe97798a9f0065d3" alt="原文图片（需学城权限）"></p>
+</li>
+<li id="b-7380f9d4a37e43dc93fa8284b45ec147">
+<p id="b-7ca0359354ec4cdd9556510ccdd0a8cc">以中国政治象征影射</p>
+<p id="b-aa8b23911e524757ab03ef4da410eec6"><img src="https://km.sankuai.com/api/file/cdn/1624802712/234953193356?contentType=1&amp;isNewContent=false" width="52" height="51" id="b-af23ef3ba5814989b67f5fed199696fc" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1624802712/234948750813?contentType=1&amp;isNewContent=false" width="141" height="47" id="b-0f4cb8b7b3664bcc8c742b060bf12ab1" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1624802712/234953990555?contentType=1&amp;isNewContent=false" width="54" height="47" id="b-0994ddef314b472b9a40652d3793c8e1" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1624802712/234953830669?contentType=1&amp;isNewContent=false" width="45" height="52" id="b-5317cbcb702a4119a12d73453df0fe32" alt="原文图片（需学城权限）"></p>
+</li>
+<li id="b-04ddfb96d624463fb5783d15f0357d85">
+<p id="b-60cc784425014e089844e60aa2a24a3a">以本人部分身份信息影射</p>
+<p id="b-09005b63075f4c3b9f20809b26917a92"><img src="https://km.sankuai.com/api/file/cdn/1624802712/234956332176?contentType=1&amp;isNewContent=false" width="54" height="49" id="b-1761f4e5fb274a8e8a70c676b24fdbdd" alt="原文图片（需学城权限）"></p>
+</li>
+<li id="b-b6893541cd824b59b493889c875cd49f">
+<p id="b-c3d4ac1823854464b45c34508cb0f0d4">经历映射：习近平体验C919客机样机要求把大飞机搞上去，下方案例利用一号语录发表讽刺内容。</p>
+<p id="b-2a189f92f4d14a11860c139bf66b23ab"><img src="https://km.sankuai.com/api/file/cdn/1624802712/258253779963?contentType=1&amp;isNewContent=false" width="99" height="69" id="b-6d38017b10fd43e28d2403e571e9157b" alt="f2cdf8f4-5f00-42ae-9954-fa09bb4daa30.png"></p>
+</li>
+</ul>
+</div>
+</details>
+</li>
+</ol>
+</td>
+<td id="b-6198ca36635f4889b30453c473ed232d">
+<ol id="b-db667026831b4662830db7fb2064ebd2">
+<li id="b-005101f26d144b319113968a5c096950">
+<p id="b-0cc620ced42145bb93baafd8fb084bbd">一号模糊指代关联无关语境</p>
+<details id="b-06300377f61b4a94addc40aa36f9d377">
+<summary>案例</summary>
+<div>
+<ul id="b-c092c31d521447d7a59bdd135f9f8184">
+<li id="b-2008f136d1614947809c798ba01cd493"><span style="color:rgb(0, 0, 0)">小熊维尼好可爱。</span></li>
+<li id="b-f09cafd87f8348b58f0f7890b6658c6d">xidd无线蓝牙耳机1对</li>
+<li id="b-c6316f7c891f4ef891aeb51aa4bb8d95">xi总</li>
+<li id="b-1d7244faa73a455fadaa3ad2eef5ffa3">xjp</li>
+<li id="b-ac5095b1b54443b18488d2a86dd6f129">x习习</li>
+<li id="b-427617379799434cb6fdad080d49dbc3">包子成精啦包子代言人包子姐夫ovo</li>
+<li id="b-b3455347fd694d888fd3f91b832820a8">包子是条汪包子学小学</li>
+<li id="b-01cbdf72d1b64ff9b40f14504674eecd">大大包子</li>
+<li id="b-aa9e463a3ccb4675bc8553d5ba014485">维尼的化身</li>
+<li id="b-0928c3941b6b4074980784b8e1c6ce8f">习爱ypl</li>
+<li id="b-627f8b9802b449038850063b8fbbba60">习某某</li>
+<li id="b-4cb828729d1745959e477b074c04fc22">小学生大王</li>
+<li id="b-b33549c6f73e40f1b297a149c180e09e"><img src="https://km.sankuai.com/api/file/cdn/1624802712/234949388487?contentType=1&amp;compress=@1584w_1l&amp;isNewContent=false" width="528" height="542" id="b-c9e1b76f08c044b9b1f0575d3733e438" alt="原文图片（需学城权限）"></li>
+</ul>
+</div>
+</details>
+</li>
+<li id="b-8317b95fb0b94a7f975aaaaeb527b784">
+<p id="b-f20ffecf85294f5cb6e738fb521c9e76">不关联一号五官特征，其次不含政治敏感引导炒作内容</p>
+<ul id="b-81d192d7119f4d67b7680ea48abdc8c9">
+<li id="b-c07b931dff8044b78b49b61023d7d075"><img src="https://km.sankuai.com/api/file/cdn/1624802712/234953511303?contentType=1&amp;isNewContent=false" width="69" height="69" id="b-0ec50c4880cc44e4bc72d4b8b5a76983" alt="原文图片（需学城权限）"></li>
+</ul>
+</li>
+<li id="b-c151c70945204fc992fccdf59752375b">
+<p id="b-0eba2d2ea7214431bb2031664291ffb8">明确语境下不指代一号</p>
+<ul id="b-04bc1430b8094b31995209d542880ea3">
+<li id="b-73c1bf4d8ae84993b5c25f5d02f87e40"><img src="https://km.sankuai.com/api/file/cdn/1624802712/234956451371?contentType=1&amp;isNewContent=false" width="48" height="84" id="b-27208b23cc734344a9f4ed0d8b58b61f" alt="原文图片（需学城权限）"></li>
+</ul>
+</li>
+<li id="b-2eb3120fac1a40afb714529784d757ff">
+<p id="b-3a87e0cad99d4273a21544af583873f9">维尼熊正面形象</p>
+<ul id="b-530ba47bb68b46d093dbead5192a8981">
+<li id="b-c7df3a66c7844df38a43233ee39d0645"><img src="https://km.sankuai.com/api/file/cdn/1624802712/234956254092?contentType=1&amp;isNewContent=false" width="104" height="83" id="b-b62078c11d6b44a2a56a9a32c69aad31" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1624802712/234952394795?contentType=1&amp;isNewContent=false" width="62" height="83" id="b-9369cad4c75243d6b1a3c5f1144081fe" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1624802712/234952239767?contentType=1&amp;isNewContent=false" width="82" height="82" id="b-34c0f316ebf24d629ee330448795d779" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1624802712/234951947259?contentType=1&amp;isNewContent=false" width="80" height="82" id="b-d859c00700c34aeb89432ff4a1639821" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1624802712/234955819721?contentType=1&amp;isNewContent=false" width="61" height="79" id="b-7a9b885a34264139b8ac798306dfdf76" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1624802712/234952712840?contentType=1&amp;isNewContent=false" width="77" height="82" id="b-2d8834e36f894db09633503a55830a79" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1624802712/234956055144?contentType=1&amp;isNewContent=false" width="38" height="84" id="b-e2c26b79a48d4274ba60f0806a43bf77" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1624802712/234956569625?contentType=1&amp;isNewContent=false" width="79" height="79" id="b-a851195749b0418e80913b9730c92c26" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1624802712/234952712829?contentType=1&amp;isNewContent=false" width="83" height="81" id="b-1cdd5f0318c1452080d15a0d9983038c" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1624802712/234952102889?contentType=1&amp;isNewContent=false" width="115" height="75" id="b-f788d9d2b22d42539dbb77c71225cafd" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1624802712/234955897719?contentType=1&amp;isNewContent=false" width="66" height="76" id="b-1d1a2ac3661e41f1a1e75a6cccd9aff4" alt="原文图片（需学城权限）"></li>
+</ul>
+</li>
+</ol>
+</td>
+<td id="b-b92a3279bff0457d96ba2b9de863243e">
+<p id="b-abd860e88fc04917b5b9f597d499a4ba">利用诋毁领导人</p>
+<p id="b-1e75db9e82a94de38c2f5319eb9373aa">损害国家荣誉和利益的内容。</p>
+</td>
+<td id="b-2da3e331fb19430082d6581296f57e77">
+<p id="b-da20df9eb46a464caf3260042003c974"><strong>打标</strong></p>
+<p id="b-7bf661e540f5489fa6c064c2b1eb1275"></p>
+<p id="b-6dd32d599b624020a1686b2ab7fd85aa">【一】</p>
+<p id="b-368e3c3b20c74ec4a0d665d2db4d7d64"></p>
+<p id="b-cfa8d16dd02540d1a962bf34b32fcbb8">【fact表达式】</p>
+<ul id="b-f6b54cd0b52341d9805d267ba7b7c062">
+<li id="b-a4a188148a3f4331af836a6e0a4ed79a">一号负面变体[文]or一号影射[文]or一号家属负面变体[文]or一号家属影射[文]or一号负面变体[图]or一号影射[图]or一号家属负面变体[图]or一号家属影射[图]</li>
+</ul>
+<p id="b-5d6a09a7b8924fa098cf26eec3994072"></p>
+<p id="b-fce5a281aa4d4ee292ffb02bc33caebf"><strong>不打标</strong></p>
+<p id="b-9eaa37cb367f4089996b9ac5c4ac90f3"></p>
+<p id="b-3c634e91be4141b88404c602d24b951f"><span style="color:rgb(0, 0, 0)">【fact表达式】</span></p>
+<ul id="b-beac4538e32441ba9a9e8fd6bff00223">
+<li id="b-34bb82863b184f3790ee3feed74db15c"><span style="color:rgb(0, 0, 0)">文/图/视：一号或家属白名单[文]。</span></li>
+</ul>
+</td>
+</tr>
+<tr id="b-4addd6e253b94835a555f7d98d4aedd1">
+<td id="b-635e5ad874724625a177aaf68ecb2be9">
+<p id="b-c9a5d27e57864828b7e017f5c5633730"></p>
+</td>
+<td id="b-2f660ba7668648709f56c51771db8b45">
+<h3 id="b-832426c9926d436f97aa8d74d1a186ac" style="text-align:center">一号负面讨论</h3>
+</td>
+<td id="b-5a02cfc39eb942d983af9b5b24e688ee">
+<p id="b-76c52f108d8840e381edf25d0883b94f"><span style="color:rgb(255, 74, 71)"><strong>打标</strong></span></p>
+<p id="b-5aae4dbb3b8c451d9963a73c03c6f90c"><span style="color:rgb(0, 0, 0)">【文/</span>图/视/音<span style="color:rgb(0, 0, 0)">】（ 生效范围：全部）</span></p>
+<ol id="b-937bb50143f6420d87e91783c196999f">
+<li id="b-8ccd55ec80a543ecb35bd343f5829b1f"><span style="color:rgb(0, 0, 0)">提及一号或家属身份信息（官方称谓、身份证号）、正面变体（官方正面变体称谓）、</span><span style="color:rgb(0, 0, 0)"><strong>模糊指代</strong></span><span style="color:rgb(0, 0, 0)">（结合上下文语境判定），对其负面语料言论(口误、夸张口语、争议言论)展开讨论的。</span></li>
+<li id="b-ef8a2b9702414385ad4d966e7443d80d">
+<p id="b-cf166fb397194b08a1ddae1a96e0caf0"><span style="color:rgb(0, 0, 0)">提及一号或家属身份信息（官方称谓、身份证号）、正面变体（官方正面变体称谓）、</span><span style="color:rgb(0, 0, 0)"><strong>模糊指代</strong></span><span style="color:rgb(0, 0, 0)">（结合上下文语境判定），发表批评、辱骂、讽刺、引战、泄露或非议隐私（非公开婚姻、恋爱、人际关系、财产、家庭住址、起居生活、兴趣喜好）、制谣传谣（人事安排、身体状态、权斗内幕、内部机密）负面观点，或关联猪展开负面讨论的。</span></p>
+<details id="b-1cbee99ef7ae43dcaaa9917b6b72a150">
+<summary><strong>模糊指代（适用于定义1、2）</strong></summary>
+<div>
+<ul id="b-7661860c78954702be2688d9b42c865a">
+<li id="b-333aa06b1a3c466796503f01900b1d9a">
+<p id="b-9dd771d0beff44f6b918c67ff6b53964">敏感事件</p>
+<ul id="b-bb782ba927fb49478bcebbce2db6d956">
+<li id="b-5577ad4d0bcb47818b922e8a688ab7c0">十里山路不换肩，庆丰包子铺，到居民家里掀锅盖，六四，阅兵，出访，节日贺词讲话</li>
+<li id="b-c5dfcb3c5a7a4b699a612ddb6755df65"><span style="color:#000">援助非洲507亿美元/3600亿人民币</span></li>
+</ul>
+</li>
+<li id="b-13ee46673e164d2fabfbe848ba1c7fcb">
+<p id="b-1e56440cc7f848b19e0a25c27d4a4fae">身体状态</p>
+<ul id="b-778a771ef90c409a98aac5acfb33bd5f">
+<li id="b-08d27895c6a74433bcbab8cdddeb22f5">中风，脑梗，面瘫，糖尿病，精神类疾病，落枕</li>
+</ul>
+</li>
+</ul>
+</div>
+</details>
+</li>
+<li id="b-7f6f61f8eef84e5ba176fed4926bac99">
+<p id="b-dfd34eb1056c4552a2b8c09a65b05c33"><span style="color:#000">涉及一号</span><span style="color:#000"><strong>非官方家属称谓</strong></span><span style="color:#000">。</span></p>
+<details id="b-15a1d23ad69141aa91e1dbe46bf717b0">
+<summary><span style="color:#000"><strong>非官方家属称谓（不可泛化，适用于定义3）</strong></span></summary>
+<div>
+<table id="b-91e9b6394c374f879c2c07492fd9fef8">
+<tr id="b-f81b01da3ce54d049be3270bfdc4c908">
+<th id="b-8590751debc74a85bbfedba71bea3165">
+<p id="b-be1ff6d11dfc4b1caea1e80e0eed6367">非官方家属称谓</p>
+</th>
+<th id="b-85270b8a855c46329399f63355c2fe76">
+<p id="b-6cb675ea526a468b86a16607d7f67278">正面形象<span style="color:rgb(0, 0, 0)">（</span><span style="color:rgb(255, 74, 71)">管控原图</span><span style="color:rgb(0, 0, 0)">）</span></p>
+</th>
+<th id="b-b5cbfbd499ac4b87ac26cf62a4a1ce69">
+<p id="b-a888eb14295a4c1aaacf1dd98387151b">与一号关系</p>
+</th>
+</tr>
+<tr id="b-590e27ecb1814664bfdad1648da1498f">
+<td id="b-1863a30257134be9a20ed744c6a3ca00">
+<p id="b-e67c2703dbaa4111ba221d1a6ed46da5"><span style="color:rgba(0, 0, 0, 0.9)">习宗德</span></p>
+</td>
+<td id="b-483eddbd9b1b4de29bbcfc0bf8533307">
+<p id="b-64442b6a12a54ff28ba1be96626d31c1">暂无</p>
+</td>
+<td id="b-c6475dc279424aaf8928fb39722bbf93">
+<p id="b-34ffe1b5870849eaa43615b0d8256035">祖父</p>
+</td>
+</tr>
+<tr id="b-d97ae0bebe7646dbb0078ded89c7678c">
+<td id="b-e05a5cc344d246b781445559c4b293a1">
+<p id="b-42c4a175385f4e1db21027a0ec17d8af"><span style="color:rgba(0, 0, 0, 0.9)">柴菜花</span></p>
+</td>
+<td id="b-1c847f07f5c04ffd96230f182f57e1e8">
+<p id="b-da085caf37c84a39910a74428c35b10e">暂无</p>
+</td>
+<td id="b-0b29653acb0f44cabbb1bff6854e021c">
+<p id="b-ed2f7028b4e8400680f7383cd9f191ad">祖母</p>
+</td>
+</tr>
+<tr id="b-38288896578547f285b638680f634387">
+<td id="b-b5733aa8a00f494c9380a6eb00c1bd55">
+<p id="b-3d0440a3855a4f05bcec783740cc2cd2">习和平</p>
+</td>
+<td id="b-7bdb1c063cc14d579c551321754e1d0e">
+<p id="b-d9d5c750b5a746749a5feaaccaf8713c">暂无</p>
+</td>
+<td id="b-2016a583303340ffa6a777895e953bcf">
+<p id="b-4fb3653bd49949f39909f33473777465">姐姐</p>
+</td>
+</tr>
+<tr id="b-eb943b68c1eb42e689d81a6be589fa81">
+<td id="b-37d7ee21ab514634a07291f287f31312">
+<p id="b-7c05df8d56c644d6a605a38067b60a27">习乾平</p>
+</td>
+<td id="b-d6330ec093c645c691c653601418706c">
+<p id="b-def44d81511f440f8a942d284ac69fb4"><img src="https://km.sankuai.com/api/file/cdn/1624802712/234956411306?contentType=1&amp;isNewContent=false" width="32" height="46" id="b-11ce61c212b64e3e950b29d6f05613b2" alt="原文图片（需学城权限）"></p>
+</td>
+<td id="b-249e3dc790ae4a3fb8c92974b0a00e6a">
+<p id="b-fca9de33549245ff9a1a9278b8b871a0">姐姐</p>
+</td>
+</tr>
+<tr id="b-9119f4f573254810b96f08cb6e14d042">
+<td id="b-13fc9043cb1b411597b1c21d80b41db0">
+<p id="b-4e6f7db3114646e69c80f276f98a57f5">习正宁</p>
+</td>
+<td id="b-cdba75f608494126a9c5ec6a558683ce">
+<p id="b-1ae796afab564b22a385af6f65fe8f60"><img src="https://km.sankuai.com/api/file/cdn/1624802712/234955857539?contentType=1&amp;isNewContent=false" width="35" height="49" id="b-abbab7ad99e64159adaee30b8b2d2ee3" alt="原文图片（需学城权限）"></p>
+</td>
+<td id="b-9343992fe46c4405b3fd6038e77cad5a">
+<p id="b-419977c11f2f4024b8328957227a84a5">哥哥</p>
+</td>
+</tr>
+<tr id="b-b22c4907cfbb42269f3a9e223853be3e">
+<td id="b-60b01979d3a2428ba14b2261662d5f5d">
+<p id="b-ff5d4835d26642b6aae43a61887a6169">齐桥桥</p>
+</td>
+<td id="b-75feae57f3164f67bee51b093476b7e1">
+<p id="b-4d182bf9f079480b8620f08ce6ea9151"><img src="https://km.sankuai.com/api/file/cdn/1624802712/234956253991?contentType=1&amp;isNewContent=false" width="45" height="55" id="b-facd65fa6cf64e12b47c5ca1208fbed1" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1624802712/234952872473?contentType=1&amp;isNewContent=false" width="41" height="53" id="b-9c3b6a8b31ab47afac8e00c10799e176" alt="原文图片（需学城权限）"></p>
+</td>
+<td id="b-d5296a77a6f348878ac33214e5bb34dd">
+<p id="b-ff01ba023ffb4b11a6c085ee7999c682">姐姐</p>
+</td>
+</tr>
+<tr id="b-b5a6220561284d17ba2a1f271f4ef23b">
+<td id="b-25c6370437e34e72b473d00e2d8bf7c6">
+<p id="b-db6f8721b51f48f7a5c839665b0cb3f8">齐安安</p>
+</td>
+<td id="b-84b1657cbc6748dd8190360e78ee2e34">
+<p id="b-d1f0882f2fb74d20a7553af5b5e4337c"><img src="https://km.sankuai.com/api/file/cdn/1624802712/234956016039?contentType=1&amp;isNewContent=false" width="40" height="52" id="b-df7086b7542d4487bae71541a612c958" alt="原文图片（需学城权限）"></p>
+</td>
+<td id="b-a0dd0a71d60f432987c3adbd12517d0d">
+<p id="b-c1e571b4b1174567a30b789fa1b65b07">姐姐</p>
+</td>
+</tr>
+<tr id="b-58dbf2819d844a4ab9eed689d889f78c">
+<td id="b-d4a7601e3ba04da2a812a3045e94af32">
+<p id="b-6eeb7402a45b48c8b88bd69fc8b45f4e">习远平</p>
+</td>
+<td id="b-df0ac30a3c364d95a716196042049843">
+<p id="b-b3235c0dece747a18dbdd22a3bf089c8"><img src="https://km.sankuai.com/api/file/cdn/1624802712/234956332052?contentType=1&amp;isNewContent=false" width="47" height="55" id="b-30610e3633de49d6a2d129cfecc17e09" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1624802712/234956174664?contentType=1&amp;isNewContent=false" width="58" height="51" id="b-18b8cbfa5a53464b84c41702b7c0fe1e" alt="原文图片（需学城权限）"></p>
+</td>
+<td id="b-aab479b22fa94e15a243178d2aafc78a">
+<p id="b-32ee3032372349ec81645fcecb83c00b">弟弟</p>
+</td>
+</tr>
+<tr id="b-72d89c629f2144e08e7d59bf5e42ffdd">
+<td id="b-c95153a440564ed8aa31252221095dcc">
+<p id="b-0874490b465649088e9419e843290f19">柯玲玲</p>
+</td>
+<td id="b-488e0b0c102e4990aa431063938e7f10">
+<p id="b-daf7822ea3cc4e328799c5593511dd72"><img src="https://km.sankuai.com/api/file/cdn/1624802712/234952394690?contentType=1&amp;isNewContent=false" width="33" height="41" id="b-aa8f1bebc8ad4cc8ab148fa531bf551c" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1624802712/234953671309?contentType=1&amp;isNewContent=false" width="36" height="40" id="b-8dcb960d145149e09f53018158c54011" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1624802712/234953033207?contentType=1&amp;isNewContent=false" width="44" height="45" id="b-8a0f0964f84541db91ccd2773ecaaa78" alt="原文图片（需学城权限）"></p>
+</td>
+<td id="b-d9ffdf21f2984d90adc8d863139e3043">
+<p id="b-9b077ce5f5af47c4b5935e122ccc3e83">前妻</p>
+</td>
+</tr>
+<tr id="b-acc4934cc12146eeb523db2d6ba3892a">
+<td id="b-3d3da8a1a37c4e77a04d931011b26079">
+<p id="b-5124ec1b21624f00aa73c6c57f53421c">褚宸</p>
+</td>
+<td id="b-87bb4460931e46149edf2a4f2a1af338">
+<p id="b-5c202dc521114b6bb5e389e5444ab3fe"><img src="https://km.sankuai.com/api/file/cdn/1624802712/234956371603?contentType=1&amp;isNewContent=false" width="42" height="53" id="b-278e4aa6120343989d166f6b7f28fb3b" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1624802712/234951789119?contentType=1&amp;isNewContent=false" width="54" height="55" id="b-7be57aab1daa4be9816ed1abc3f4aa01" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1624802712/234956095800?contentType=1&amp;isNewContent=false" width="42" height="56" id="b-53253f5fd28f47138bede9608ef263e5" alt="原文图片（需学城权限）"></p>
+</td>
+<td id="b-ddf82d55c6f24210acf33c47b30eadfc">
+<p id="b-94131b63a87d47c4b71bff42e3f53a61">私生子之母</p>
+</td>
+</tr>
+<tr id="b-08f30b8738b84422a3deed2154022f3f">
+<td id="b-aa93811e712c4511b533c2fd16ecbdcd">
+<p id="b-3fa0b972c4e94f73846fb28d1b549a2c">褚阳（习明德）</p>
+</td>
+<td id="b-befa18168b094e5ba364776dc4351fd5">
+<p id="b-71713767849344d597ed5bbf516318f0"><img src="https://km.sankuai.com/api/file/cdn/1624802712/234952554102?contentType=1&amp;isNewContent=false" width="74" height="40" id="b-cbb2d4a5b79a470ba902df8b3ed1a610" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1624802712/234956134053?contentType=1&amp;isNewContent=false" width="57" height="38" id="b-f9ea0e50ff8843cda36053593bb23a9f" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1624802712/234951789114?contentType=1&amp;isNewContent=false" width="71" height="39" id="b-ca56f2596fd34828993c5bc15075f48a" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1624802712/234953033206?contentType=1&amp;isNewContent=false" width="42" height="49" id="b-40e290453bb646c9ab843e9e9447e6a7" alt="原文图片（需学城权限）"></p>
+</td>
+<td id="b-12b80c1ca9e94ef1a497bd1da55e52b9">
+<p id="b-de1b6d17b52140ef99c15c32785206fd">私生子</p>
+</td>
+</tr>
+<tr id="b-e5a67b4f02ac49f7909d6c90472a13f0">
+<td id="b-b1f61b22fddb4e78b274b87d978c28b3">
+<p id="b-2fc0ea3bc7844be1bc5985f47a3ae50f">习明泽</p>
+</td>
+<td id="b-243946d2aa434919b534f1493dbb45fa">
+<p id="b-5a3adf34d20f4cb3ad55f27e55d6c083"><img src="https://km.sankuai.com/api/file/cdn/1624802712/234956095797?contentType=1&amp;isNewContent=false" width="65" height="81" id="b-cf31a09521264a119d479ade5af8128e" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1624802712/234956371601?contentType=1&amp;isNewContent=false" width="63" height="71" id="b-14e7e92d15cf4a5fa4c8c2234ae1ce8f" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1624802712/234949388348?contentType=1&amp;isNewContent=false" width="167" height="73" id="b-287ec55bcea44364842461683ddb4886" alt="原文图片（需学城权限）"></p>
+</td>
+<td id="b-ccaa4f514d7545ebbcff4663fa56beba">
+<p id="b-825e15d181ad4f8d878e18842d828b31">独生女</p>
+</td>
+</tr>
+<tr id="b-552d376c5d924997afc2fd50ce41add7">
+<td id="b-46abe8ed9dbc465680cc5e9db197916e">
+<p id="b-8d869e56284e4a8190219d7808e2e82b">于小红</p>
+</td>
+<td id="b-fbe82051a667473f84c5d6b85e6de77b">
+<p id="b-9ad2661cc2724870a9321b64228f6be2"><img src="https://km.sankuai.com/api/file/cdn/1624802712/234956411302?contentType=1&amp;isNewContent=false" width="59" height="62" id="b-d8e72c5a5aee4bbfa1d12e0e6012aa0f" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1624802712/234956569613?contentType=1&amp;isNewContent=false" width="54" height="56" id="b-2fc2a3fe71844bf5825300b917a30eab" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1624802712/234956253982?contentType=1&amp;isNewContent=false" width="44" height="47" id="b-8bab736575f74b1b8f84d302b7bd3d3e" alt="原文图片（需学城权限）"></p>
+</td>
+<td id="b-5d7eaa7454684bcea37a8e05ee2784f2">
+<p id="b-fe2beaeae39c477fb0d51cc58ed58eef"> 网传初恋</p>
+</td>
+</tr>
+<tr id="b-79afce238ff64e08b1729e394c8724d0">
+<td id="b-9169d5c81a6d4d6dbaa4592d3a78252d">
+<p id="b-092e6e486c894f35b52b3a3f14efea96">梦雪</p>
+</td>
+<td id="b-c8321ce5eb1044f6a2b6b7d42a4c4dd9">
+<p id="b-e8ab1acc16f24cbfbe35fcb42b3d7eea"><img src="https://km.sankuai.com/api/file/cdn/1624802712/234956569612?contentType=1&amp;isNewContent=false" width="39" height="41" id="b-1d900f36d8a44df2920c8f47077a70df" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1624802712/234949388215?contentType=1&amp;isNewContent=false" width="50" height="37" id="b-594c9ffb9b214be29ef9eaa4719288f5" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1624802712/234956095726?contentType=1&amp;isNewContent=false" width="30" height="36" id="b-aef66818fe4a48a1a1bc566be4cac84a" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1624802712/234956331979?contentType=1&amp;isNewContent=false" width="36" height="37" id="b-71993dcff3234b8784d9c705dd351f18" alt="原文图片（需学城权限）"></p>
+</td>
+<td id="b-6b99e38319a7490a96dae0810c404c0d">
+<p id="b-7c64958ea244494e8e35589fe920490f">网传情人</p>
+</td>
+</tr>
+</table>
+</div>
+</details>
+</li>
+</ol>
+<p id="b-4bde6a47aed7486794409ad65a1654ba"><span style="color:#00BA73"><strong>豁免</strong></span></p>
+<ol id="b-1ffada23fe9e4e7885bc61ad649f5f4c">
+<li id="b-911c768d9f67486e90dee8457a11431b">非官方家属称谓，若明确不指向一号家属相关可不打标。</li>
+</ol>
+<p id="b-896781381d8b4552a95203621e8cb42d"></p>
+<p id="b-841ccb52fd3f4a539f512dbf129011c1">【图/视】</p>
+<p id="b-690bb98fe3b3433cbc0667e05d41204c">维尼熊本体正向形象关联负向行为描述：</p>
+<ol id="b-afb9ea44dea34c218617ebe61766d2cf">
+<li id="b-ca2c411a8f9f4d21ba9f0be5cd7192ee">涉维尼熊主动实施违法犯罪行为</li>
+</ol>
+<p id="b-318c9732cf9b44a9ba977828feab138a">如：偷窃、抢劫、贪污、斗殴、纵火。</p>
+<p id="b-038c02a2602a413081a3f3ea286c2a3d"><blockquote> 2. 涉维尼熊被动遭受攻击、惩罚、贬义评价</blockquote></p>
+<p id="b-792d812a75054d18b714a2ede8bd6da7"><blockquote>如：被殴</blockquote>打、焚烧、牢笼囚禁、惩罚性行为、冠以侮辱性名称、侮辱性标语。</p>
+<p id="b-90015f67e35a4f2e8899174ee79f39ee">维尼熊本体负面状态： </p>
+<p id="b-7c093fa7a3834a5cb8351f9fa4d66f45"> 1. 涉维尼熊本体实施争议行为，如：持械、抽烟、纹身、坐坦克、匪气表情姿势。</p>
+<p id="b-35eaaae7a2644649a0155b4860391255"> 2. 涉维尼熊本体遭受损害，如：受伤、断肢、焚烧、囚禁（非商品包装类）。</p>
+</td>
+<td id="b-35e5b29d913c4c7d99b246c2ce0b88ca">
+<ol id="b-da13febe35444672a67b4fb5a7082a23">
+<li id="b-6007e62bd5c14439b13e88e736765e4d">
+<p id="b-dc06bbd13f1f428b9fb336d051e9c8f1">一号或家属身份信息<span style="color:rgb(0, 0, 0)">关联负面</span></p>
+<details id="b-90cbdf5fb141460bbb8b52f13c204da2">
+<summary>案例</summary>
+<div>
+<ul id="b-a15b47a853604019a2da59146e787151">
+<li id="b-4bcf991eb635405085af72fa44ec0748">
+<p id="b-6e87f2a3ac7641f4981743fb4e0e38cf"><span style="color:rgb(0, 0, 0)">批评、辱骂、讽刺、引战、泄露、个人主张</span></p>
+<ul id="b-e134bde60f92439fbc2c3edee9e47ceb">
+<li id="b-24e91aebf0fd4b3f840466765c6a6a2f">习近平河北视察灾后重建 网友质疑不第一时间前往灾区。</li>
+<li id="b-daa6eff1be6444ad91f8b99af4fa3c8f">无界公开信：要求习近平辞任总书记</li>
+<li id="b-d9d39746a124454faa9e97d98944b9ea">操，习大大来过的包子铺，怎么做的这么难吃。</li>
+<li id="b-8c9c1fabe1ce44c8a1a3db2b8ad9f666">杂种书记<span style="font-size:14px">（习总书记粤语谐音）。</span></li>
+<li id="b-620b74d428fc43ad9d9177719198e689">不难意识到这是必须重视的。刁大犬满脸喷粪，发生了会如何，不发生又会如何。刁大犬满脸喷粪的存在，固然有一定的合理性。辩证地看待刁大犬满脸喷粪，不难意识到不难注意到，不难注意到，一般来说，习大大曾经强调：要坚持总体国家安全观，走中国特色国家安全道路。这似乎解答了我的疑惑。</li>
+<li id="b-ebffea92d55d4701b279a43fdd80479d">中国20年都姓习。</li>
+<li id="b-50f24f9599b644a58d14291a3cefd58c">小熊维尼SB/去死/下台，习SB/去死/下台。</li>
+<li id="b-ddbc5395eddb4a93999c0367b5dac5f9">小熊维尼2025年之后还能继续连任吗？</li>
+<li id="b-86f47172425b4f16b23d2fcb79c5751b">彭丽媛都脱离演艺圈这么久了，唱歌不会跑调吧？</li>
+<li id="b-e8aec17e456b4b11b67517de1500df00">身份证号：110101195306153019. 户籍地址：北京市西城区西华门大街28号. 文化程度：小学未毕业. 血型：B型.</li>
+<li id="b-058bd7f73e234bfeb9b1a93e76f7e982">你这么忙比习大大还忙。</li>
+<li id="b-c4ba6f4ebdad4799b6875754bd024f82"><span style="color:#000">你好我是习近平。</span></li>
+</ul>
+</li>
+</ul>
+</div>
+</details>
+</li>
+<li id="b-77e07f099d6546bd9b609329432d3d06">
+<p id="b-83ef8ac7f3714b98b23ef71606fe3e68">一号模糊指代关联负面</p>
+<details id="b-7ffef7c254a349a5ace0a8011f12f6ad">
+<summary>案例</summary>
+<div>
+<ul id="b-7fa82b6b2fa942b7863de8139cc791e0">
+<li id="b-739872b4b1dc48d8b3af1fdd13add0ad">习怎么还不死呀。</li>
+<li id="b-58b8055d1c1d4345bb4c8e0fefce39b8">我请你去奭，抗麦子走山路不怕累的家伙。</li>
+<li id="b-12830ec47f0645d5bb0bb15052cbda2a"><span style="color:#000">包子兴中国亡。</span></li>
+<li id="b-56ba73d7ff674f30a0f2266d7d519a28">《致知了》“闭嘴！说你呢，高高在上，一片聒噪声，平添几分燥热。自以为聪明，肥头大耳。土堆里，蛰伏，5年以上，才爬出阴间，却只会用屁股，唱夏日里的赞歌，不知人间疾苦酷暑。”</li>
+<li id="b-c7edb7188f7841d4b1b6f3626837bbc1">无论在中国还是在外国，越来越多的人对他的言行感到困惑。许多人都在问同一个问题，他究竟想干什么？他要把中国和世界带到哪里去？</li>
+<li id="b-46bd07a1a463432db2078c03a6b377bf">“但‘一尊’还是可以做一件事历史留名，令后人称颂的，这就是隐退、辞职!”“自己下台，总比被人家赶下台要好，也比把国家彻底搞砸后被逼下台要好。”</li>
+</ul>
+</div>
+</details>
+</li>
+<li id="b-8bf2b088d143412bb78be3a5bb1906ec">
+<p id="b-d332e5c9e20c4cdda6086871aa63f712">一号非官方家属称谓</p>
+<p id="b-55ce661731fd4adfacb0731fa4712dad">齐安安丨丶×÷丶丨104</p>
+</li>
+</ol>
+</td>
+<td id="b-71d2c082fd7b47469c3ad4fad3a0ceac">
+<ol id="b-fc0db6147114456b8bb07a47342ce8a2">
+<li id="b-57de1d1f45904d2c8a3b4a31180fb22c">
+<p id="b-69a6e655f941449db8d17e835010af9a">一号或家属身份信息<span style="color:rgb(0, 0, 0)">关联负面</span></p>
+<details id="b-34686a71e3694bc4a602f6d076e3fb51">
+<summary>案例</summary>
+<div>
+<ul id="b-c19e76d172704117af18aa6c59811200">
+<li id="b-10e7374d9cbe4d92958f7f22e68fbdd0">
+<p id="b-6025202425a64a2a9b54325a8e5ead6c">贬损一号形象的文字干扰</p>
+<p id="b-6ea6c63f682c4d66a1ae4a6fcf945aa2"><img src="https://km.sankuai.com/api/file/cdn/1624802712/234952553990?contentType=1&amp;isNewContent=false" width="43" height="56" id="b-4f3b15e802c44ace865ee77c6247eab3" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1624802712/234952394579?contentType=1&amp;isNewContent=false" width="41" height="51" id="b-e4def042b3514d0aaac3df650ee1b226" alt="原文图片（需学城权限）"></p>
+</li>
+<li id="b-7e028a1549574ee8bcf0baa34d3289b2">
+<p id="b-0c81d4d8f70247b2a3449102c7fbdc23">泼墨、焚烧</p>
+<p id="b-0fbb52e3b60148a8959737326ce9acbb"><img src="https://km.sankuai.com/api/file/cdn/1624802712/234949388209?contentType=1&amp;isNewContent=false" width="70" height="47" id="b-ce6439c6dd4148df9b037650b94e0856" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1624802712/234956015958?contentType=1&amp;isNewContent=false" width="52" height="48" id="b-bad91f25211b4ee4a1a0e66705c4a45a" alt="原文图片（需学城权限）"></p>
+</li>
+<li id="b-3ece1c1ba0104c658c8a97bbb00eac14">
+<p id="b-afa808fc5e1e468b9c7f3b810c22f801">批评、辱骂、讽刺</p>
+<p id="b-e25001db86684b31b925bbb7e472c4ae"><img src="https://km.sankuai.com/api/file/cdn/1624802712/234952239517?contentType=1&amp;isNewContent=false" width="96" height="53" id="b-b1da1fa12cf54b1f85ce44980843a11d" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1624802712/234955976443?contentType=1&amp;isNewContent=false" width="100" height="51" id="b-e2a9b2e9e6034fff8b9c224cd21e1e65" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1624802712/234956371520?contentType=1&amp;isNewContent=false" width="45" height="55" id="b-ffbea9e82b744290b6003583ed06ee15" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1624802712/234955976444?contentType=1&amp;isNewContent=false" width="61" height="50" id="b-80d14b9c0d8949c1aac01e7a2898e456" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1624802712/234950024592?contentType=1&amp;isNewContent=false" width="206" height="52" id="b-e884864cfa8d4b6f8ce994dfeb2fb0f3" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1624802712/234956133988?contentType=1&amp;isNewContent=false" width="100" height="53" id="b-e5259cd990844b738e2f676ea2f9725f" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1624802712/244994340597?contentType=1&amp;isNewContent=false" width="37" height="64" id="b-7b894e7ffb00463eb90f6595be7c4245" alt="90c9e872-6ce8-4ded-b589-66635528effd.png"></p>
+</li>
+<li id="b-35ce3d47eb1e4ab5be31d7ec668b5ca5">
+<p id="b-c447cd1913494fafbb26afcda2035fec">人际关系</p>
+<p id="b-abbb9f576ec74e5b9b91c5f9b6e57103"><img src="https://km.sankuai.com/api/file/cdn/1624802712/234952102745?contentType=1&amp;isNewContent=false" width="309" height="82" id="b-19c61c1b2bf44471834302a94598f9d8" alt="原文图片（需学城权限）"></p>
+</li>
+<li id="b-a1b485eb0e874c92b4d8c82c577d3d60">
+<p id="b-1279bdf32a5144ce972ba9b54caec9a3">财产身家</p>
+<p id="b-a023a4114b7c4f4091640ef7384af1de"><img src="https://km.sankuai.com/api/file/cdn/1624802712/234955819533?contentType=1&amp;isNewContent=false" width="71" height="71" id="b-e39e8bf438e4478babac91b05bafdb6a" alt="原文图片（需学城权限）"></p>
+</li>
+</ul>
+</div>
+</details>
+</li>
+<li id="b-d52f912366094bb6a8ac659dc6dbef31">
+<p id="b-613e0d567d2a492e9ae675732f5b1c25">一号模糊指代关联负面</p>
+<details id="b-3c259f7fa3294b289756bef442fd08ac">
+<summary>案例</summary>
+<div>
+<ul id="b-0b54b5e3f8b947f491ec9a9c665eb389">
+<li id="b-7915562338bc4ae29fc555ac49f8ebae">
+<p id="b-747c7d51a7d64b3a993efc40d279df1a">意图刺杀一号</p>
+<p id="b-2348302c4e5b4c39a663275e9938136b"><img src="https://km.sankuai.com/api/file/cdn/1624802712/234956055062?contentType=1&amp;isNewContent=false" width="25" height="62" id="b-352354c2434d4970a2703135ecbc5e0a" alt="原文图片（需学城权限）"></p>
+</li>
+<li id="b-557ce97618c640f5a7072b73ffaab02f">
+<p id="b-33533835eeb24e2b9d3138e000c65c7c">口误</p>
+<p id="b-68a65381686a4b0e9535d4c628e85341"><img src="https://km.sankuai.com/api/file/cdn/1624802712/234952239513?contentType=1&amp;isNewContent=false" width="45" height="72" id="b-15fea80669704cc1a1c88cfe882011f0" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1624802712/234955976442?contentType=1&amp;isNewContent=false" width="66" height="66" id="b-7688da6119934aacbccdebe54da45937" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1624802712/234953990297?contentType=1&amp;isNewContent=false" width="46" height="70" id="b-f83637fc0dba42f1a4a8dbea1436810f" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1624802712/234952712667?contentType=1&amp;isNewContent=false" width="100" height="66" id="b-5bcb10240229455e86f7da1438e7ad23" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1624802712/234951788973?contentType=1&amp;isNewContent=false" width="67" height="62" id="b-81a76cc459154ef7a966645b80a77d99" alt="原文图片（需学城权限）"></p>
+</li>
+</ul>
+</div>
+</details>
+</li>
+<li id="b-b7d8f22384774d028dd1e4bb94bae099">
+<p id="b-c976b123b5fe46c39c6579614902bfec"><span style="color:#000">维尼熊本体正向形象关联负向行为</span></p>
+<details id="b-b1e3fa84a69145ec9c8c48be434a355d">
+<summary>案例</summary>
+<div>
+<ul id="b-2ac95acff5ed412f9b09b4416220adaf">
+<li id="b-d8257284e1d84de7aadc95025e70d3b0">
+<p id="b-a2550b00f618437e92499c39d667ebda">偷窃/被惩罚/囚禁</p>
+<p id="b-7fc3a19d85604892a34742b7d5c6f1a8"><img src="https://km.sankuai.com/api/file/cdn/1624802712/234952872319?contentType=1&amp;isNewContent=false" width="47" height="93" id="b-c9acc03eb9c84455b048de7a51871f36" alt="原文图片（需学城权限）"></p>
+</li>
+</ul>
+</div>
+</details>
+</li>
+<li id="b-ead8a309c13948ebb6d5f5ad7e72e311">
+<p id="b-f58b8f7ce5c24230a4675ad4926839d6"><span style="color:#000">维尼熊本体负面状态</span></p>
+<details id="b-f0e612b27ac14ab9af39131cba92b55c">
+<summary>案例</summary>
+<div>
+<ul id="b-e6ed3414040640198cf87536e65b1fa7">
+<li id="b-5754ef3c4fda4e3696528dc75a69cb02">
+<p id="b-e9d0d4f8f85f4acab442f43584420721">争议行为</p>
+<p id="b-59dfb00b82c44b2a8b862f573b4eceac"><img src="https://km.sankuai.com/api/file/cdn/1624802712/234953830388?contentType=1&amp;isNewContent=false" width="70" height="70" id="b-c7a91d5482f042e69fb98e8ad53556a8" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1624802712/234956608060?contentType=1&amp;isNewContent=false" width="76" height="70" id="b-7b40696058f242c3ac3eefbadd7d6bbd" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1624802712/234951946970?contentType=1&amp;isNewContent=false" width="65" height="67" id="b-ce1986e4d5ac47d4b1dbc223f0940b17" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1624802712/234956095719?contentType=1&amp;isNewContent=false" width="58" height="69" id="b-c8b264c3f46e41b291cacaae3caca76b" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1624802712/234953193074?contentType=1&amp;isNewContent=false" width="65" height="63" id="b-de94f8c93dcc48a7829992ba521f00b7" alt="原文图片（需学城权限）"></p>
+</li>
+<li id="b-5c58ad360c4d467abf65119ab3379b1c">
+<p id="b-7c0d014265be4090b084827ba9f97deb">遭受损害</p>
+<p id="b-8ad7e325c44649e69f89d4cb315cd762"><img src="https://km.sankuai.com/api/file/cdn/1624802712/234956529483?contentType=1&amp;isNewContent=false" width="55" height="55" id="b-d84effe791954216a315b12d12187661" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1624802712/234952394550?contentType=1&amp;isNewContent=false" width="72" height="53" id="b-807e0be1f6ef48cdb21c644de9fda093" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1624802712/234956095714?contentType=1&amp;isNewContent=false" width="92" height="51" id="b-1c79222ee0dd49dda421152d8ee75555" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1624802712/234956054821?contentType=1&amp;isNewContent=false" width="82" height="51" id="b-bf4fd024fc62437e88788f51b5f029ac" alt="原文图片（需学城权限）"></p>
+</li>
+</ul>
+</div>
+</details>
+<p id="b-d5086849569e4c5e99f6f83ebfd98726"></p>
+</li>
+</ol>
+</td>
+<td id="b-662af1f30d744e36a536d2ef8b1b5282">
+<ol id="b-3522620226b94f95a0c8cf1c973c505d">
+<li id="b-2a931cafad1d4ae5a82b8164e31cf2b1">
+<p id="b-0c0c7596bfd7439899fb870037a355cd">提醒：非维尼熊负面内容</p>
+<ul id="b-2c1a166430c54954acf5dea9ae743cc5">
+<li id="b-08a4509a9b5247099a2c94f1c15582dd"><img src="https://km.sankuai.com/api/file/cdn/1624802712/234956214279?contentType=1&amp;isNewContent=false" width="100" height="101" id="b-2eeb6655a089447c843ab6c46a9a0a33" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1624802712/234956253665?contentType=1&amp;isNewContent=false" width="106" height="104" id="b-dea73fabb88d4a83bfb645365ba9b816" alt="原文图片（需学城权限）"></li>
+</ul>
+</li>
+</ol>
+</td>
+<td id="b-47c5289cfe0c45fb8d56594d68f9ab85">
+<p id="b-63e38da0fdf844bd8f62a92fc0d75ce6"></p>
+</td>
+<td id="b-02007e2ec7eb466d83f38b7ce6e3be68">
+<p id="b-127dc90b55ec48eb9292c6bf5dc78a15">【一】</p>
+<p id="b-a6a1dfbc3f95495ababaaa7d0a31080a"></p>
+<p id="b-6614076dedcd4216af04da013965aeca"><span style="color:rgb(0, 0, 0)">【fact表达式】</span></p>
+<ul id="b-a2e79b11892a4d50b2a7bb6fc4020c07">
+<li id="b-e342da2fcca64c129a453fbafe8d27aa"><span style="color:rgb(0, 0, 0)">文：(一号或家属身份信息[文] or 一号正面变体[文] or 一号家属正面变体[文] or 一号或家属模糊指代[文]) and 一号或家属负面语料&amp;言论[文] </span></li>
+<li id="b-c2cacee746914754adb812e1ef0dee4d"><span style="color:rgb(0, 0, 0)">文：(一号或家属身份信息[文] or 一号正面变体[文] or 一号家属正面变体[文] or 一号或家属模糊指代[文]) </span>and敏感事件[文</li>
+<li id="b-35257ae05ea649cab42388fc5710eac0"><span style="color:rgb(0, 0, 0)">文：(一号或家属身份信息[文] or 一号正面变体[文] or 一号家属正面变体[文] or 一号或家属模糊指代[文]) </span>and身体状态[文]</li>
+</ul>
+</td>
+</tr>
+<tr id="b-e92c454092194b3cab68c36bc6834f1f">
+<td id="b-0f88da21357c41fc84054d4d6ca58e84">
+<p id="b-00e2754246a543119fdd3befcf34cea4"></p>
+</td>
+<td id="b-e8956ddb974747e1a4d1001dd47f9b69">
+<h3 id="b-d4b2b90e3da049dfa117a20e101c86a9" style="text-align:center">一号负面形象</h3>
+<h3 id="b-7be5472cd863411fa0372f24efd46946" style="text-align:center"></h3>
+</td>
+<td id="b-bb1287bd522749c9b2acbb4639f2fbe2">
+<p id="b-48e24d56d4064840b4cd676133e6894f"><span style="color:rgb(255, 74, 71)"><strong>打标</strong></span></p>
+<p id="b-52f38c76ce564a9f92ad8485fdd2475e">【图/视】（ 生效范围：全部）</p>
+<ol id="b-631cd07f1fa74369b923899b95694d17">
+<li id="b-c9c1453cb7bd489289a693d3485b1075">与官媒正面宣传基调不符，展示一号或家属负面表情（<span style="color:rgb(55, 65, 81)">皱眉、嘟嘴、怒视、挑眉</span><span style="color:rgb(55, 65, 81)"><blockquote>、板着脸、蔑视、</blockquote></span><blockquote>咧嘴笑、哭泣、闭眼）、负面肢体动作（左手礼）</blockquote>、残缺面容（五官残缺、断头）。</li>
+<li id="b-dd8f01da986b4894967a9f967e49ce85">一号或家属官方称谓、<span style="color:rgb(0, 0, 0)">正面变体（官方正面变体称谓）</span>、正面形象、正面变体形象关联主体负面场景的。包括作为垫物（即含一号称谓、形象的载体被遮挡，如含一号称谓、形象的桌面报纸上有碗遮挡）<span style="font-size:14px">。</span></li>
+<li id="b-da31aaeb62a447d98185cee262245f2f"><span style="color:#000">涉及一号</span><span style="color:#000"><strong>非官方家属正面形象</strong></span><span style="color:#000">。</span></li>
+</ol>
+<details id="b-8469d26bb60842f4961a704bab99381b">
+<summary><span style="color:#000"><strong>非官方家属正面形象（不可泛化，适用于定义3）</strong></span></summary>
+<div>
+<table id="b-d2dbfe1f7f044576af2fae37e3521fee">
+<tr id="b-f6d30530796e4a6dadcd5cce42ac5140">
+<th id="b-4dedf91b980b403ba30758b032362d92">
+<p id="b-fc6b5ea2bc974d06a1624c98d6d4dbc0">非官方家属称谓</p>
+</th>
+<th id="b-ab44a8b3dea64037813ad55a7c7c6620">
+<p id="b-dafb7b78b9434a3186b8b6ee6ebf0997">正面形象<span style="color:rgb(0, 0, 0)">（</span><span style="color:rgb(255, 74, 71)">管控原图</span><span style="color:rgb(0, 0, 0)">）</span></p>
+</th>
+<th id="b-0119422f5a084b9395fe6031bbfc4579">
+<p id="b-efdbe0d4e2ca4a348351bd1a1fef08dc">与一号关系</p>
+</th>
+</tr>
+<tr id="b-4189c8452f7248eb8ddf31d6a4b3b082">
+<td id="b-ddbccfb2a0484c88bff87a9b843728b4">
+<p id="b-22bcf889af1f4a25a726f33b5f51f872"><span style="color:rgba(0, 0, 0, 0.9)">习宗德</span></p>
+</td>
+<td id="b-4f43237bd3434fd4bdf15619ce57558d">
+<p id="b-8a913db70dcf48a288b74688fc77ae56">暂无</p>
+</td>
+<td id="b-e5f13638c053441c856e3513f6738188">
+<p id="b-2a6e73bd502e4e19902805cca669abcb">祖父</p>
+</td>
+</tr>
+<tr id="b-b0012b3744af4293a1f623cbdb5ba176">
+<td id="b-31f524c39d9e471c9c37f97bd5bedc59">
+<p id="b-622fc9d446dc4ff7ae3a115df2a52344"><span style="color:rgba(0, 0, 0, 0.9)">柴菜花</span></p>
+</td>
+<td id="b-0a8a89157e804c1990259f15c6f27ba8">
+<p id="b-7c98c229360f47a8add98430a2ec5f76">暂无</p>
+</td>
+<td id="b-3c468227f80d483d81caa473b86701b2">
+<p id="b-18a38aa0836245939d8f4286fb26b7c6">祖母</p>
+</td>
+</tr>
+<tr id="b-2990854f2fbf425ca1513c8792aa6185">
+<td id="b-d88f712793484c5eb1dd3e8e98b09c12">
+<p id="b-47bc16c5eb694741939d6cfe3c884eb2">习和平</p>
+</td>
+<td id="b-60ccee94b88e46998ed131c0b40f2f13">
+<p id="b-848a99a14ae847a68d8df324500a4eb8">暂无</p>
+</td>
+<td id="b-7f8638923ca14ece9404fdf48973a1ad">
+<p id="b-97a3db6b48e74723b800e42f430c2c3d">姐姐</p>
+</td>
+</tr>
+<tr id="b-4b622839ca4d4827bdc95357a6d05fa1">
+<td id="b-7b1e66cc2857415c8238cd36e0db9101">
+<p id="b-b0a39861a7ea4bfdbebc6e8a2a35a7a9">习乾平</p>
+</td>
+<td id="b-30d39613cbf643f285cef839de7cfe7e">
+<p id="b-685f5cc3ec204774830c930dccd0cfb7"><img src="https://km.sankuai.com/api/file/cdn/1624802712/234956214278?contentType=1&amp;isNewContent=false" width="32" height="46" id="b-0cba3d4eb3c94af4aef6a495da09b93f" alt="原文图片（需学城权限）"></p>
+</td>
+<td id="b-e4bed10c87cb4307892253640e149a6f">
+<p id="b-3b10596ba828410ca3efa10a79f9459b">姐姐</p>
+</td>
+</tr>
+<tr id="b-3c0ca6186db745178c91b65b5b03ed48">
+<td id="b-221191678a3b404b93af73aeedd2ed97">
+<p id="b-6cd8b3135b8b425baddd94a9cdbfd464">习正宁</p>
+</td>
+<td id="b-bd34e5fb70da4cc7a17df8528a269a57">
+<p id="b-b8cc9ca30e4e4ba092faa6b99e76d8aa"><img src="https://km.sankuai.com/api/file/cdn/1624802712/234956411030?contentType=1&amp;isNewContent=false" width="35" height="49" id="b-aaa2a71373fa4c3fa9a3093bc7802bec" alt="原文图片（需学城权限）"></p>
+</td>
+<td id="b-6b3d610ea88e447f82a0529812e4e3d0">
+<p id="b-a56469d48a8c4512a67460de823f743c">哥哥</p>
+</td>
+</tr>
+<tr id="b-5881977b487f4da4b1da79e840e42fe2">
+<td id="b-07b4792ab4c64864a9b93529c0358e6e">
+<p id="b-e91cc4d68ce8487ebb16d1fad1a2f8d0">齐桥桥</p>
+</td>
+<td id="b-c4329695a648410f838b226f386ffa49">
+<p id="b-d37d2b00e5c84569b87e8fc73845e0bf"><img src="https://km.sankuai.com/api/file/cdn/1624802712/234953192771?contentType=1&amp;isNewContent=false" width="45" height="55" id="b-aba0800bef044c8aa90a0f4aebb38087" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1624802712/234953032712?contentType=1&amp;isNewContent=false" width="41" height="53" id="b-0d84aa0484d24b208a9dd020ba7dae60" alt="原文图片（需学城权限）"></p>
+</td>
+<td id="b-ec057b47ee1b43abb8ca00d3849dbc22">
+<p id="b-29efed12a9d04855a68392b09f488510">姐姐</p>
+</td>
+</tr>
+<tr id="b-5dbce3f94691468a82cc0b7c4ec260a5">
+<td id="b-d5c8754bdb0c43e4a0b6a34dc021d59d">
+<p id="b-57ad622ec47b444ea987d703f8042e63">齐安安</p>
+</td>
+<td id="b-19fd6d90775f4d5da486ac68d4166588">
+<p id="b-4546d403024e4e33ab62b80ff79fd032"><img src="https://km.sankuai.com/api/file/cdn/1624802712/234953670712?contentType=1&amp;isNewContent=false" width="40" height="52" id="b-e198940562094e29bfcc8a859b2b6ba7" alt="原文图片（需学城权限）"></p>
+</td>
+<td id="b-1a66a7376210479686082266b9dd3edb">
+<p id="b-81fa10cb48af47ef8297eb81fb6f92d2">姐姐</p>
+</td>
+</tr>
+<tr id="b-2f86263e87674e8ea8ab939765cee8f9">
+<td id="b-bd73b52970d044099135e408a1a285d4">
+<p id="b-d9ff2223a7f34a139e522cd0a5774b99">习远平</p>
+</td>
+<td id="b-36ca65ef8486417b89dee60d589e2e0e">
+<p id="b-469853c7d13f4e5b8c3cb48e2027fc25"><img src="https://km.sankuai.com/api/file/cdn/1624802712/234951946526?contentType=1&amp;isNewContent=false" width="47" height="55" id="b-96a995d7cf904efdbe964daceac97208" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1624802712/234949068890?contentType=1&amp;isNewContent=false" width="58" height="51" id="b-3b2a5456898f4a7d98f29e00ab92bf99" alt="原文图片（需学城权限）"></p>
+</td>
+<td id="b-1f7476acfdc44c348d3d52b40ffe6d1a">
+<p id="b-b2d08a057f2c4c0c985c5ff30287af1e">弟弟</p>
+</td>
+</tr>
+<tr id="b-ff633a33864149ebaf4d30aed2e0167c">
+<td id="b-70f3274fdd7b4013ba57d64a45378bcc">
+<p id="b-1a48dc291f594e65b5dd74db0f5c5306">柯玲玲</p>
+</td>
+<td id="b-d8f0b13febbd4c5a8968852caf4cae63">
+<p id="b-7ecc7e0a140047a0840b31b1a9358c25"><img src="https://km.sankuai.com/api/file/cdn/1624802712/234956253626?contentType=1&amp;isNewContent=false" width="33" height="41" id="b-eacbc2be1cf645019cd9293edebc6783" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1624802712/234955897327?contentType=1&amp;isNewContent=false" width="36" height="40" id="b-adf8e1ec799d498fb69cbb569dc59fa7" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1624802712/234956214160?contentType=1&amp;isNewContent=false" width="44" height="45" id="b-a1d31ccbf7f04735b225f0d58c350206" alt="原文图片（需学城权限）"></p>
+</td>
+<td id="b-f2d4cf7c58ec4859bfdb0057cb08338e">
+<p id="b-8e05a63b8edd4828a465601dc38e85c3">前妻</p>
+</td>
+</tr>
+<tr id="b-47f908cfd7024db3b235b0f47e1c033c">
+<td id="b-1c855d9cee5c4119a3b80ff52d1baf2f">
+<p id="b-d02e287b53a84ea29b7cee8f353505b6">褚宸</p>
+</td>
+<td id="b-0761a871574e40a68bfd20760601549e">
+<p id="b-15bc2abafc9b4e358088a0cac06c4125"><img src="https://km.sankuai.com/api/file/cdn/1624802712/234949387680?contentType=1&amp;isNewContent=false" width="42" height="53" id="b-6ecaef7b789c4962ae6d7f55befa6391" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1624802712/234953350326?contentType=1&amp;isNewContent=false" width="54" height="55" id="b-21b4f7248d54481784de22e6d05a9f85" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1624802712/234953510574?contentType=1&amp;isNewContent=false" width="42" height="56" id="b-ca0918b0d6654d16b5e9b5a7c7de61c9" alt="原文图片（需学城权限）"></p>
+</td>
+<td id="b-faaea50a990a45f580f7c561eb7bc42e">
+<p id="b-b6e42d137963486fac485574a3d3cc69">私生子之母</p>
+</td>
+</tr>
+<tr id="b-99f156a680bd4ef7878f4de4c7680054">
+<td id="b-8d8d522287ed485abf37fe6dbc3166b4">
+<p id="b-107befd8999c44ce9c9883369f6fe9a6">褚阳（习明德）</p>
+</td>
+<td id="b-de99f0549a4f4320a47d6d9030afa595">
+<p id="b-e88a756f47dc4158b7c76a1ed730f2e0"><img src="https://km.sankuai.com/api/file/cdn/1624802712/234956371185?contentType=1&amp;isNewContent=false" width="74" height="40" id="b-9f4694a64b1f4c6cb18752c609227f63" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1624802712/234953510567?contentType=1&amp;isNewContent=false" width="57" height="38" id="b-d1d03a54ef3541b1b2622038e419a40a" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1624802712/234952102241?contentType=1&amp;isNewContent=false" width="71" height="39" id="b-d21566b3e5ed4f028b70bb256831b2be" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1624802712/234956174204?contentType=1&amp;isNewContent=false" width="42" height="49" id="b-2063917525ab4c818051460c01509f97" alt="原文图片（需学城权限）"></p>
+</td>
+<td id="b-bfb31c444f45470c89dba767f79d6599">
+<p id="b-d3a8d3c8ca474f338771bd0ed21e37cc">私生子</p>
+</td>
+</tr>
+<tr id="b-2c49ed436554477b9daa3ec0b894ae5d">
+<td id="b-220d4fe697534f0a829176df6f70a952">
+<p id="b-fde6d14c42cc47cdbc6003e41a2b6816">习明泽</p>
+</td>
+<td id="b-716bd59db9a34a69b60f69e413c8d56b">
+<p id="b-0d013896a225488eb100db3520e8495f"><img src="https://km.sankuai.com/api/file/cdn/1624802712/234955976035?contentType=1&amp;isNewContent=false" width="65" height="81" id="b-c579f76a9dc24e5bbe6a2d2831250521" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1624802712/234955976023?contentType=1&amp;isNewContent=false" width="63" height="71" id="b-9b720bfc6bc3433eafb35daba59a0678" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1624802712/234956133591?contentType=1&amp;isNewContent=false" width="167" height="73" id="b-7a238968c451466ea4def28415d73410" alt="原文图片（需学城权限）"></p>
+</td>
+<td id="b-137f51ef89964759a66de11e53221e0e">
+<p id="b-d5166055be6043c5b3d64fbd57838ffe">独生女</p>
+</td>
+</tr>
+<tr id="b-140aed27b55440d8b8b93319bca5edbb">
+<td id="b-3f242f4377eb48df995ba06d536bfc97">
+<p id="b-29de11c8a9864ace9dfe871c429fed45">于小红</p>
+</td>
+<td id="b-37e76503914a4955bacbc12a4b788de2">
+<p id="b-e50e9b9a88884f4396ace1a5b3b1451d"><img src="https://km.sankuai.com/api/file/cdn/1624802712/234956450777?contentType=1&amp;isNewContent=false" width="59" height="62" id="b-60e85f2d7b4f4e53af47f765739a2237" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1624802712/234955857007?contentType=1&amp;isNewContent=false" width="54" height="56" id="b-615924d6c0ec4555948ccb536b134dee" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1624802712/234956331546?contentType=1&amp;isNewContent=false" width="44" height="47" id="b-e534d768966a472e89194c2280d48053" alt="原文图片（需学城权限）"></p>
+</td>
+<td id="b-157393c56ccb44b381c03e00d3d8c8ba">
+<p id="b-73865d6219724b3d8b33c3dfee27e25d"> 网传初恋</p>
+</td>
+</tr>
+<tr id="b-2d8f18478a154bf9a5f9244ef38e1dc8">
+<td id="b-5a6b74754efc41ef8b233c23e5b8280e">
+<p id="b-f85750ae7cc14c40a145445d81f1c9ee">梦雪</p>
+</td>
+<td id="b-9633648386f34a6992c43df290573eff">
+<p id="b-b4248dfb595445feb1f94bed3393d380"><img src="https://km.sankuai.com/api/file/cdn/1624802712/234955897229?contentType=1&amp;isNewContent=false" width="39" height="41" id="b-4865649dd83f4c61b2f5592e267afd48" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1624802712/234948749842?contentType=1&amp;isNewContent=false" width="50" height="37" id="b-93c8bf3a1261428286e690173c3bd1e5" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1624802712/234951946273?contentType=1&amp;isNewContent=false" width="30" height="36" id="b-6c385549e64c4f1299a6b742b2460d6c" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1624802712/234948749841?contentType=1&amp;isNewContent=false" width="36" height="37" id="b-48825cd07f81407cb1c0bed165bc4a95" alt="原文图片（需学城权限）"></p>
+</td>
+<td id="b-fafbe73356fb4ca894c8ab42f5a1be44">
+<p id="b-a7b72716720d4e63a01234019abd87da">网传情人</p>
+</td>
+</tr>
+</table>
+<p id="b-9924fe56aed041a8a57e20fa051b57ba"></p>
+</div>
+</details>
+<p id="b-e07e64fc284e41ea8e36994d8b3f47f3"></p>
+<p id="b-5c99f3fc700847a1a069ea0de1275bb6">【文/图/视/音】（ 生效范围：全部）</p>
+<ol id="b-04ace2ec2bb1403787699b1aa8b1f6e3">
+<li id="b-e9276d31025b4667bd3dd91ab0db9af9">一号或家属官方称谓、正面变体（官方正面变体称谓）、正面形象、正面变<span style="font-size:15px">体形象关联主体负面场景的。主体负面场景包括引人不适环境（厕所、垃圾桶、丧葬场所等）、娱乐场所（成人用品店、情趣宾馆、按摩、女仆馆、酒吧、演绎酒吧、清吧、夜店、迪厅、KTV）。</span></li>
+</ol>
+</td>
+<td id="b-804276461ab04490abfc290c6f0356ce">
+<p id="b-c8f2c946e49549fe9f26898fbfb32044"></p>
+</td>
+<td id="b-25faebe701754188a4fe9e01b94408ee">
+<ol id="b-5c6f5e9708724e71be60696dcc1f4a87">
+<li id="b-7febd6691b5c42439c71e37b4517aab1">
+<p id="b-d476819f605a4d388d8ffd451cd1d71a">一号负面表情</p>
+<details id="b-e04c737d76a14549b407070c62f467bf">
+<summary>案例</summary>
+<div>
+<ul id="b-a3779954f0b04be69b1367ea904ed7ad">
+<li id="b-399b81514d8e4673a1e3bfa3b761a9b3">
+<p id="b-4f7447114dcf46f88c0d7311c438817c">负面表情</p>
+<p id="b-b77beb4e69634f08bcb1221637248ac8"><img src="https://km.sankuai.com/api/file/cdn/1624802712/234949387118?contentType=1&amp;isNewContent=false" width="70" height="62" id="b-a89064f36eda4f3c9732916ef492f0bc" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1624802712/234956568797?contentType=1&amp;isNewContent=false" width="56" height="63" id="b-b315a7763309430f882d0993dec93213" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1624802712/234956607199?contentType=1&amp;isNewContent=false" width="62" height="61" id="b-e599aaf05ed347988a4cbb23821c422e" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1624802712/234955818787?contentType=1&amp;isNewContent=false" width="100" height="59" id="b-102609f1cfbc4ca1a48d32bea2d22b28" alt="原文图片（需学城权限）"></p>
+</li>
+<li id="b-f96381bf55e247429f148a073052c99d">
+<p id="b-319b1364828f47d6bca197fcaaaa9aab">负面肢体动作（抽烟、左手礼）</p>
+<p id="b-1f34f9c061114c3d9f1938c5bd5c938c"><img src="https://km.sankuai.com/api/file/cdn/1624802712/234952552964?contentType=1&amp;isNewContent=false" width="82" height="60" id="b-b1510922d0cb4ac6882ed87a1dddaa2c" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1624802712/234955856661?contentType=1&amp;isNewContent=false" width="83" height="63" id="b-13186389d57a4c62993c5d5ee9c5d59b" alt="原文图片（需学城权限）"></p>
+</li>
+<li id="b-71fe4d04e61f490a822501d49fc27cd1">
+<p id="b-b79336d7d2be48c48d8cd21c65e31f7b">残缺面容（五官残缺、断头）</p>
+<p id="b-43217b7957a04454ad5891c0a94db6d7"><img src="https://km.sankuai.com/api/file/cdn/1624802712/234953670083?contentType=1&amp;isNewContent=false" width="63" height="63" id="b-a8b648b400c848ed919d417c71e834ab" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1624802712/234956253110?contentType=1&amp;isNewContent=false" width="83" height="63" id="b-693959b7ad2e4567b3f64bd074db1ecb" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1624802712/234956331233?contentType=1&amp;isNewContent=false" width="134" height="59" id="b-976644d083a747e6bb5aeb10b9233726" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1624802712/234952871277?contentType=1&amp;isNewContent=false" width="81" height="59" id="b-845c6aaca73b4609999b172ec70b282f" alt="原文图片（需学城权限）"></p>
+<p id="b-21321a53ca4a402d9ee2dd97b414bb53"><img src="https://km.sankuai.com/api/file/cdn/1624802712/234956607198?contentType=1&amp;isNewContent=false" width="60" height="106" id="b-cd2f4429ebc8408da624b07d23435f80" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1624802712/234955818779?contentType=1&amp;isNewContent=false" width="61" height="106" id="b-2c6f8646a62440b79d46024597932d08" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1624802712/234952101696?contentType=1&amp;isNewContent=false" width="80" height="106" id="b-3a2e89645f5f41a488889cf6574fa94e" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1624802712/234949707284?contentType=1&amp;isNewContent=false" width="79" height="106" id="b-cb35e9facf1a4d718e38ee6ac389e361" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1624802712/234953510075?contentType=1&amp;isNewContent=false" width="79" height="105" id="b-8177c51368234ee1895e426f4d9e33c3" alt="原文图片（需学城权限）"></p>
+</li>
+</ul>
+</div>
+</details>
+</li>
+<li id="b-3b008def0e09456abffcbcd9d90e50cd">
+<p id="b-c100f7ae7d00468ca90adeee224044e0">一号关联负面场景</p>
+<details id="b-6c19d57f758a4781ae4587bd08c27a36">
+<summary>案例</summary>
+<div>
+<ul id="b-e0b48ad384f44636b3d51c9b9d42b2b8">
+<li id="b-144160d862874e57b02238603699478d">
+<p id="b-ea4b359047484ddba0f5e68ca7dc98a6">引人不适环境</p>
+<p id="b-3ee186e43b604b8ea134e03b1e6b6fca"><img src="https://km.sankuai.com/api/file/cdn/1624802712/234952552963?contentType=1&amp;isNewContent=false" width="62" height="83" id="b-a1f884414ec44f98ac9619bdb6d9561f" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1624802712/234956331228?contentType=1&amp;isNewContent=false" width="107" height="77" id="b-5d69d1a6217248e49b1e16a8de52e507" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1624802712/234956370763?contentType=1&amp;isNewContent=false" width="60" height="81" id="b-9202c0fec6454ef0b0d15e99bd77abd3" alt="原文图片（需学城权限）"></p>
+</li>
+<li id="b-12373f368fae48b1ae5a169f88d6b2b0">
+<p id="b-03b875dd17ee48df89fac324ded4c79e">作为垫物</p>
+<p id="b-1468b205d23f4e6d87664a2b9d73aa53"><img src="https://km.sankuai.com/api/file/cdn/1624802712/234953510071?contentType=1&amp;isNewContent=false" width="68" height="91" id="b-37f1f0115c2a4f1f9116a097c04f7fdf" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1624802712/234956607190?contentType=1&amp;isNewContent=false" width="69" height="92" id="b-e3fbe066a59647909f3adc07940c61a0" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1624802712/234956213711?contentType=1&amp;isNewContent=false" width="68" height="90" id="b-2c59c33fb21e477aa7a739e72bb570f4" alt="原文图片（需学城权限）"></p>
+</li>
+<li id="b-e508f8b3e42b4826b826c5bcfe41e5e8">
+<p id="b-d8f3b683d8f841d9a25f1a30418c4e51">图片中识别娱乐场所，并出现一号正面形象</p>
+<p id="b-c2d6c5a39b2e49c1ab4d59f6fce91219"><img src="https://km.sankuai.com/api/file/cdn/1624802712/234955856671?contentType=1&amp;isNewContent=false" width="63" height="77" id="b-1547e4274563425fb8aebc535686b26b" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1624802712/234956094956?contentType=1&amp;isNewContent=false" width="57" height="76" id="b-13eade71915e4f8cbfa7c771490804bb" alt="原文图片（需学城权限）"></p>
+</li>
+</ul>
+</div>
+</details>
+<p id="b-4075b201fc364ec891ee5135ff5b62be"></p>
+</li>
+</ol>
+</td>
+<td id="b-94233a08077347a6817790d519620b7d">
+<ol id="b-270956bcc2804cf4afd008ed053c1aac">
+<li id="b-a49e7fb25e1043c8942001346ed8533a">图片不能识别娱乐场所，不参考品类</li>
+</ol>
+<ul id="b-0525d4a182a24d039e105afc5866b368">
+<li id="b-9b64611105b04b948a71529713325c27"><img src="https://km.sankuai.com/api/file/cdn/1624802712/234953510068?contentType=1&amp;isNewContent=false" width="61" height="72" id="b-86643e081f9248a1b311e9fe92ab42c3" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1624802712/234956489681?contentType=1&amp;isNewContent=false" width="61" height="80" id="b-2624fe6f6bde40fe83a78de976593a92" alt="原文图片（需学城权限）"></li>
+</ul>
+</td>
+<td id="b-4b83784c637b41009d6d020c651b2bc9">
+<p id="b-20d48caba66c42ed8388e5e4dda80aea"></p>
+</td>
+<td id="b-dd4462e7d6e940e7bdc24cbfcc0846d9">
+<p id="b-a12ef5049fbe414584a58b3d29fe9e40">【一】</p>
+<p id="b-6ee57209274041ca92be3439958975d4"></p>
+<p id="b-97d8f1cf8d9749f88fe951f85a451138"><span style="color:rgb(0, 0, 0)">  【fact表达式】</span></p>
+<ol id="b-13f98fe830fe4207914f5a30bf4f2ca4">
+<li id="b-0857f560022e47d8ab938f6755ab5017"><span style="color:rgb(0, 0, 0)">图/视：一号负面形象[图] </span></li>
+<li id="b-d99d09ae2fd94ba0adaebac52de26735"><span style="color:rgb(0, 0, 0)">图/视：(一号或家属官方称谓[文] or 一号家属官方称谓[图] or 一号正面形象[图] or 一号家属正面形象[图] or 一号正面变体[图]or一号家属正面变体[图] ) and 主体负面场景[图]</span></li>
+</ol>
+</td>
+</tr>
+<tr id="b-e3935483bac443a8a37b6374bd1fd812">
+<td id="b-fa2de63faa68470384b979524a089a8b">
+<p id="b-ba21afc3ede744d1b74130ee11111ebf"></p>
+</td>
+<td id="b-e73c26ccd0e6492c993279868161487b">
+<h3 id="b-9e9757c188034cf2b0c518ec95bd3499" style="text-align:center">一号负面物料</h3>
+</td>
+<td id="b-df4376ccd1db44038a8ec5cfae741cac">
+<p id="b-8c89c4d712e5409a8e36253f68d4a047"><span style="color:rgb(255, 74, 71)"><strong>打标</strong></span></p>
+<p id="b-1f9edc7e4f5c4cce958b4e3cfe40da9a">【文/图/视/音】（ 生效范围：全部）</p>
+<ol id="b-59efd513ce2241a98a651002e2c6291b">
+<li id="b-cb5de5caa7f945a2829ee1919fdc1688">一号或家属违禁出版物（反宣书籍、纪录片、影视剧集、动漫）。</li>
+</ol>
+</td>
+<td id="b-ba867fb166a743108aab1f24a9df4900">
+<ol id="b-ae8a086a8bda489584747436190090a3">
+<li id="b-4335076eab47474397b5cb5386c93261">
+<p id="b-ba8c2194d8694d768b0243bca3743446">一号违禁出版物</p>
+<ul id="b-3aa1d177ede94a31bc40cca25d7a6d4d">
+<li id="b-789ac03a930c4972b82243cec72cf71f">《习近平与他的情人们》</li>
+</ul>
+</li>
+</ol>
+</td>
+<td id="b-eac0be7a02904e48829b624621cb5c48">
+<ol id="b-5c6ee5e57d4f4449a1fb084306faada0">
+<li id="b-e278d5b7822a47a7ad9ac03e5add4451">
+<p id="b-4c610beb72834ee9806089bfc1738fd9">一号违禁出版物</p>
+<ul id="b-ac2f4f807d1c42a19864fec53dc6fb22">
+<li id="b-5fd6633cf97646b895f1148879a69cae"><img src="https://km.sankuai.com/api/file/cdn/1624802712/234956015222?contentType=1&amp;isNewContent=false" width="66" height="89" id="b-b9e1038d52d24ce2b39baff21b1c4f2a" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1624802712/234951787944?contentType=1&amp;isNewContent=false" width="170" height="84" id="b-e6aeaed17c2d4f12aa0c14a34e85b4f8" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1624802712/234953192048?contentType=1&amp;isNewContent=false" width="61" height="83" id="b-a5edf37dea0b4453b5a8d11aacf4b583" alt="原文图片（需学城权限）"></li>
+</ul>
+</li>
+</ol>
+</td>
+<td id="b-725ee3713ea5442f8fd1b1e2d814f2ec">
+<p id="b-a2e3fb4a348f40b7a06d01b5b722ab12"></p>
+</td>
+<td id="b-950b45ba17d64408980db3d504dc498a">
+<p id="b-56a8f6e12b504226b33537bb4c3fcd2d"></p>
+</td>
+<td id="b-96e7fa8b7cbf4122b01dbf8ce656a8bb">
+<p id="b-79eca9bc37d14d0e9b65f4636dbe936e">【一】</p>
+<p id="b-75c8dff9cf8e4025b6e5d156d5c617e3"></p>
+<p id="b-fd55ce6901c84f038595a4c91d4e2a39">  【fact表达式】</p>
+<ol id="b-890c3dd078f54dccaf609e361bb4ab80">
+<li id="b-b4498e44a7f7439fbc6ff9d397e8140d">
+<p id="b-e14847a715374c18803b83be8a4104a0">文/图/视/音：一号或家属政治有害出版物[文] or 一号或家属违禁视听作品[文]</p>
+<p id="b-20cc5122c5014137990ad9c53ffecf0c">图/视：一号或家属政治有害出版物[图] or 一号或家属违禁视听作品[图]。</p>
+</li>
+</ol>
+</td>
+</tr>
+<tr id="b-e5f5de49bf3c486c8d7fb8eaeb4be012">
+<td id="b-9e49c3e2f95340379cf0e96a6211d33f">
+<p id="b-1e474b9ea38645dab6790afd9ffa081c"></p>
+</td>
+<td id="b-f8220e3e48e8459e8b45438c1b439f83">
+<h3 id="b-682369ee7b114a7385446dd12310dd80" style="text-align:center">一号正面出版物负面</h3>
+</td>
+<td id="b-e7c1da54b6444ffe98f821d99fd6c423">
+<p id="b-8eb7d82feddf4c11aa9bcd1266be4e4a"><span style="color:rgb(255, 74, 71)"><strong>打标</strong></span></p>
+<p id="b-a4ad12a3c4044019982c45b6bb67883f">【文/图/视/音】（ 生效范围：全部）</p>
+<ol id="b-cea95f21baac4aa9b44f2a6810d1b04a">
+<li id="b-38bdaae3bfb0457988d2b4fff46886bf">
+<p id="b-2182423eb989403d93ce73d3e43433e7"><strong>一号或家属正面出版物</strong>（著作名称或形象）被修改。</p>
+<details id="b-da8efbe6fb2d431bbb847a14f1edd449">
+<summary><strong>一号或家属正面出版物（适用于定义1）</strong></summary>
+<div>
+<ul id="b-784b3d5d045b49c9be9447f9b32d5d08">
+<li id="b-b7b34e2393984869bc35a1eb39715d0e">定义：一号或家属有关的官方展览书籍〔可泛化〕。</li>
+<li id="b-fe7b696ed36c4dfdaf447e7c76a84fa8">参考：<a href="https://ebook.dswxyjy.org.cn/ebooks/list/73?pageNumber=3" title="习近平著作" id="b-323b0e7564104afa8a3c1eafa8760ab3">习近平著作</a><a href="http://xinhuanet.com/politics/leaders/xijinping/xxdb.htm" title="新华社一号学习读本" id="b-21917ea271d444dc92b8279c3008e088">新华社一号学习读本</a></li>
+</ul>
+</div>
+</details>
+</li>
+</ol>
+</td>
+<td id="b-bb4d9f77eb3241e8ab94ecdb71c9d90f">
+<ol id="b-0c1c1479e7c949cdb9a9e33b91964d09">
+<li id="b-a42588eed0084847a6f566072ea0d615">
+<p id="b-5b27552320634412b55a5a229e0f3c6d">一号正面出版物被修改</p>
+<ul id="b-ab0f9f5bb253460c92f35cc6b0c7065f">
+<li id="b-4c776e6be19a4a209c59adfd4a590256"><a href="https://www.youtube.com/watch?v=ySM6FE2X7d4" title="喜讯：《王志安谈治国理政》正式出版！" id="b-c2b99062394144cfa46749f5243e43aa">喜讯：《王志安谈治国理政》正式出版！</a></li>
+</ul>
+</li>
+</ol>
+</td>
+<td id="b-62fb62129deb454e86b931beaf1b42fd">
+<ol id="b-83b92e68d3564a77ab4c809f526c5a1b">
+<li id="b-a98e88055b26407d8d8641145bc2390f">
+<p id="b-68795d31e79a47c1a4546cb38e351104">一号正面出版物被修改</p>
+<ul id="b-8d1fb2a64e864824b2e922cd7bee81b7">
+<li id="b-b9f4d4b9a91f4eda8d38d2c2fc1bbf6d"><img src="https://km.sankuai.com/api/file/cdn/1624802712/234956450450?contentType=1&amp;isNewContent=false" width="60" height="89" id="b-c1454d872a0349ea9a5f9d50f192ebb0" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1624802712/234956489676?contentType=1&amp;isNewContent=false" width="79" height="84" id="b-018a3efd35fc45e086842e0d6ba5bdb1" alt="原文图片（需学城权限）"></li>
+</ul>
+</li>
+</ol>
+</td>
+<td id="b-487b568bee7746189649488825fd0420">
+<p id="b-f05086f8d6ea498a852a788b15448ec2"></p>
+</td>
+<td id="b-40645304b33347a1b514657b4b5a2a53">
+<p id="b-0144f1a901cf494ea7fffc838b443e8b"></p>
+</td>
+<td id="b-313ab0c0ee474c8ba8fc312fa36a5987">
+<p id="b-318ee4d442264ef9921941573ed12e54"></p>
+</td>
+</tr>
+</table>
+<section id="b-907d4bd336304a89b6ca216c6e854261">
+<p id="b-08b6aa325058464bb17a4dda17b9e4ab"><p id="b-6a6a70030da0470cb915d17127c13287">MR shithole：昂山素季发布facebook内容翻译后的“习近平先生。</p></p>
+</section>
+</div>

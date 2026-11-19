@@ -1,0 +1,1380 @@
+# 暂不使用-广告合规风险审核标准
+
+[返回目录](../../README.md) · [学城原文](https://km.sankuai.com/collabpage/1627288283) · 已保存正文 · 2026-11-19
+
+> 正文保留表格和折叠结构。图片和媒体仅保留原始链接，需要学城访问权限。完整源数据见同目录 source 文件。
+
+<div>
+<h1 id="b-a9232e01ed7644fdb6b6c70950537a70">暂不使用-广告合规风险审核标准</h1>
+<p id="b-7b088ce7a7ac47f588d1a679804c589c">一级标签：1</p>
+<p id="b-3f29c38f31be4623b76e3f6c3180c5a2">二级标签：5</p>
+<p id="b-0aca7c2b16804b13b88b1436be74de9d">三级标签：叠加二级22</p>
+<p id="b-ecd50eaee7b746a59eaaeaede89c2809">风险点：31</p>
+<p id="b-034936abdd2e47088958d901556c0cd4">识别能力：47</p>
+<p id="b-3eda327e720b48f0ac562218afd9913c"></p>
+<table id="b-e6fe82786b634e69b98c436bd6848d84">
+<tr id="b-b06fade9a68b472b8a391297cb7f25a5">
+<th id="b-81066b66e0924b9a86b1253d0fc1047d" style="vertical-align:middle">
+<p id="b-5a7b82a6c1604330becf84b949ce762b" style="text-align:center"></p>
+</th>
+<th colspan="3" id="b-224f89eaa1614ad9845feb895976ab62" style="background-color:rgb(246, 246, 246);vertical-align:middle">
+<p id="b-55f856461355408781fe77120f76012d" style="text-align:center"><span style="font-size:16px"><strong>V3标签体系</strong></span></p>
+</th>
+<th colspan="3" id="b-31cdb5ed950944ac8920a2d8799afc16" style="vertical-align:middle">
+<p id="b-4b531d21c3ac4e96a76f1726b99b30d1" style="text-align:center"><span style="font-size:16px"><strong>V2标签体系</strong></span></p>
+</th>
+<th colspan="2" id="b-5307db0f769e4844b9a75f92af0f3a5d" style="vertical-align:middle">
+<p id="b-44ee6c1ec8b94c0a9de1fee513387581" style="text-align:center"><span style="font-size:16px"><strong>V1标签体系</strong></span></p>
+</th>
+<th rowspan="2" id="b-6c34da403abe42bc91e54919e07261ac" style="background-color:rgb(246, 246, 246);vertical-align:middle">
+<p id="b-b7b0c9515b6543539eaf26404f6ce25d" style="text-align:center"><span style="font-size:16px"><strong>风险点</strong></span></p>
+</th>
+<th rowspan="2" id="b-d45cdc3abffb4bee8bfbe08c5c567c30" style="background-color:rgb(246, 246, 246);vertical-align:middle">
+<p id="b-5c999a13280e4bb8a9a39f7b2fa5145a" style="text-align:center"><span style="font-size:16px"><strong>具体定义</strong></span></p>
+</th>
+<th rowspan="2" id="b-016ef41451f84269a71e2a3b85e49ea5" style="background-color:rgb(246, 246, 246);vertical-align:middle">
+<p id="b-73e5da7f2a1e4b5fa3f17175665fd84a" style="text-align:center"><span style="font-size:16px"><strong>文字样本</strong></span></p>
+</th>
+<th rowspan="2" id="b-867ae23487a2496884a192941869eda0" style="background-color:rgb(246, 246, 246);vertical-align:middle">
+<p id="b-2724b9a319f9496bbaa1354930a76408" style="text-align:center"><span style="font-size:16px"><strong>图片样本</strong></span></p>
+</th>
+<th rowspan="2" id="b-fd4cc3627d68467eac36a7942f42fbd1" style="background-color:rgb(246, 246, 246);vertical-align:middle">
+<p id="b-cf8c98994434454d938584cdc351f047" style="text-align:center"><span style="font-size:16px"><strong>豁免（通过）样本</strong></span></p>
+</th>
+</tr>
+<tr id="b-63d15da98d57464cad450edcbfab3738">
+<td id="b-061834aa8534490b99ab88ab3fe1f19f" style="vertical-align:middle">
+<p id="b-ec8d92878ab1465f84fc338ea016cd9a" style="text-align:center"></p>
+</td>
+<td id="b-3c3970b2c20e49e3a2770e15df7fa53b" style="background-color:rgb(246, 246, 246);vertical-align:middle">
+<p id="b-477fe71ccd0044899956f8bbf5896f91" style="text-align:center"><span style="font-size:16px"><strong>一级标签</strong></span></p>
+</td>
+<td id="b-ad5eb9447def458ba8c9681d40a72572" style="background-color:rgb(246, 246, 246);vertical-align:middle">
+<p id="b-91f4e00f79b94ff6b20bf920c4969a2d" style="text-align:center"><span style="font-size:16px"><strong>二级标签</strong></span></p>
+</td>
+<td id="b-cc4a0ad2188f4115b41db4f5dbe84a12" style="background-color:rgb(246, 246, 246);vertical-align:middle">
+<p id="b-7981e357cf9349fc8193faaefd24ec16" style="text-align:center"><span style="font-size:16px"><strong>三级标签</strong></span></p>
+</td>
+<td id="b-3d7f38734ae743bfa65c0b8ff1c11761" style="background-color:rgb(246, 246, 246);vertical-align:middle">
+<p id="b-7ca09bf25e4d47b1b799c3ebc1f71831" style="text-align:center"><span style="font-size:16px"><strong>一级标签</strong></span></p>
+</td>
+<td id="b-2b6a051718b44232ab1af5a21fc539a2" style="background-color:rgb(246, 246, 246);vertical-align:middle">
+<p id="b-649f8525e25c498bbd7747b407f95317" style="text-align:center"><span style="font-size:16px"><strong>二级标签</strong></span></p>
+</td>
+<td id="b-4fc9f4f36eb140a0b67004530a684003" style="background-color:rgb(246, 246, 246);vertical-align:middle">
+<p id="b-4774652d3ce34be08c1f5d2301df2d25" style="text-align:center"><span style="font-size:16px"><strong>三级标签</strong></span></p>
+</td>
+<td id="b-08439f2d3b0a46a4ab74b09b72725579" style="background-color:rgb(246, 246, 246);vertical-align:middle">
+<p id="b-c875aafeeb134af38da7fede45dad479" style="text-align:center"><span style="font-size:16px"><strong>一级标签</strong></span></p>
+</td>
+<td id="b-e3a7799403064d05b4da69e22e3985bf" style="background-color:rgb(246, 246, 246);vertical-align:middle">
+<p id="b-1b289b730dca464da872160451a6dbc6" style="text-align:center"><span style="font-size:16px"><strong>二级标签</strong></span></p>
+</td>
+</tr>
+<tr id="b-5a05af1609c946cbaad627b133f8030a">
+<td id="b-eb75031de1544ecbb1b56775a87c39fb">
+<p id="b-6e5286ae88d1405794ac5f4acb7dd90d"></p>
+</td>
+<td rowspan="46" id="b-0dc0fbc4b6c245119a4d3a1a64e71cdb">
+<h1 id="b-afa74a27475246cab7b98b72bd056b90">广告合规风险</h1>
+</td>
+<td rowspan="2" id="b-26696ed0a0bc4d0ba3aba45a21adbd48">
+<h2 id="b-f97b1380eda6463796bc05432b648d81">禁投广告</h2>
+</td>
+<td id="b-18df76c2a0584baa8260b6e91a820d26" style="background-color:#EDFAF4">
+<h3 id="b-45230af0897847b481f7a19be99617d2">禁投行业</h3>
+</td>
+<td rowspan="46" id="b-be1cca864d644068a790e21a72fc3b25">
+<p id="b-a62deb618a3b42fcad7a2a30bffb1356">广告法违规</p>
+</td>
+<td rowspan="2" id="b-99cfb0de8a97485e95628665956546cb">
+<p id="b-4be80c1113c3499a8c510879db994b32">禁投广告</p>
+</td>
+<td id="b-da41e2dc20254b7b942c45216e6fd174">
+<p id="b-db0896c18f2147fe95d4ff2b72f4b24e">禁投行业</p>
+</td>
+<td rowspan="5" id="b-c59e0940a0054b5798801ccfb37d7b75">
+<p id="b-23aaef16727842248a0b946a3379d1aa">广告法违规</p>
+</td>
+<td rowspan="46" id="b-9886823e5d8a46ceab2aa40f16d652cb">
+<p id="b-1990db89c483489da153d3754d45e912">「文」- 用词违规</p>
+<p id="b-d8eee91834404c73a5835c9418e2bb37"></p>
+<p id="b-81b0d9edb14f4412b9749fb180cbc815">「图&amp;视频」- 图片中的文字违规 - 图片中的文字违规</p>
+</td>
+<td id="b-82d5c85000b24151aac61427530dce00" style="vertical-align:top">
+<p id="b-63c145fedf2a488ca9c2fe1fe7d276ca" style="text-align:center"><a href="https://km.sankuai.com/collabpage/1657020334" title="https://km.sankuai.com/collabpage/1657020334" id="b-223e935c92d9496ba9e53c4642c38ded">https://km.sankuai.com/collabpage/1657020334</a></p>
+</td>
+<td id="b-23198c87ef1149dfa9ffa321984a5944">
+<p id="b-203dcadc5e3a466aaaee4cf17618c80e"></p>
+</td>
+<td id="b-2e4b4b123ad84d5ba34604ea49a79a3c">
+<p id="b-244c7e08f3b34097aedc6c6442cc9f20"></p>
+</td>
+<td id="b-95e7122785f34fb6bf959466272fe508">
+<p id="b-3e22418df5c14986a0ce4877d268b5e9"></p>
+</td>
+<td id="b-0654c169f6ff4b64acd29f79b61b74d9">
+<p id="b-321bf74c8c8f440bb6cbe2833ae5fe84"></p>
+</td>
+</tr>
+<tr id="b-dcc061647ed34418bcec544fe7e9ecfd">
+<td id="b-ae8b589999c54181ad7e82b2927a344e">
+<p id="b-13fced87f7034bf9b5dfe15e9f4026a1"></p>
+</td>
+<td id="b-a78004e724074c0b9f6581dcf7ed971d" style="background-color:#E8F1FF">
+<h3 id="b-8d967404b57447ac8211a8adea462e2b">禁投商品</h3>
+</td>
+<td id="b-9f8a48ac5bb04ea1b684f0ae9a43e60b">
+<p id="b-b44460dba93a4c4f8202cf0af582faa3"><span style="font-size:14px">禁投商品</span></p>
+</td>
+<td id="b-89d326f3ec7e40b3a0a0e2b54266f82c" style="background-color:#FFF;vertical-align:top">
+<p id="b-ea7fac44d668470885c54f38566a92c7" style="text-align:center"><span><span style="font-size:14px">禁投行业产品</span></span></p>
+</td>
+<td id="b-45ef1135755c46c9b72f223e2aa17a99">
+<p id="b-e0853f52218c44d2b567d1443294c730"><span><span style="font-size:14px">含以下情况不得进行投放：</span></span></p>
+<ul id="b-f6416b95f88e48949f45a8b39f646c48">
+<li id="b-bec65df884aa47aa9200631d77636555"><span><span style="font-size:14px">产品属于禁止投放的行业，如烟草相关、成人体验等；</span></span></li>
+<li id="b-c0007510a1b84aa7bf72d7e5728183ee"><span style="font-size:14px">人流作为禁投项目，需要打击。</span></li>
+</ul>
+</td>
+<td id="b-7fa3aca3f6c64deea11c069b9ccfb046">
+<p id="b-b56114f173c14944b451a0e2093f7c5a"></p>
+</td>
+<td id="b-c19e2a9e691343918e6004cf9be81e6e">
+<p id="b-5676d5b167d84499ac53b0b15533cf03"></p>
+</td>
+<td id="b-00b46bb3f28f49218f5e42b76b640b97">
+<p id="b-fdb7b4f998b542bda56b19958e6d6089"></p>
+</td>
+</tr>
+<tr id="b-fe9c1cd35bb544f1b3c595ec02d5f2f8">
+<td id="b-94dd50f6e3f249119508eecceec21a08">
+<p id="b-b4521b7503434f5399636ba0e9f7967a"></p>
+</td>
+<td rowspan="2" id="b-aca9a4f28e47479d8c03c5fdc22c5269">
+<h2 id="b-eb7337e5987842dd9f5f5c0012652eeb">资质不全</h2>
+</td>
+<td id="b-a05f2a1c92714019b6d6c25d5cd900b5" style="background-color:#FAE1EB">
+<h3 id="b-3e0bbe32acf34359bd2365cb7e6e0d68">行政许可</h3>
+</td>
+<td rowspan="2" id="b-b2cbc8e0f9c643ddbee18b0b14a1fc40">
+<p id="b-43eca61288d74110bcf01016e1c00707">资质不全</p>
+</td>
+<td id="b-112f312e901947df9338f71164ad299b">
+<p id="b-c64cf9e3118944cca1939021157535e9">行政许可</p>
+</td>
+<td id="b-6c082e4e2b8a4280a23495fff24983e4" style="vertical-align:top">
+<p id="b-d39fdc23dc47432da2d5e3f0c524b8cb" style="text-align:center"></p>
+</td>
+<td id="b-131d28b6d3784a40889d0c04e231eb27">
+<p id="b-a4b295671c2145ba883ec131ee791a70"></p>
+</td>
+<td id="b-cf3abd2a6d9a4b7eb65276f41250a916">
+<p id="b-5fc7693777574576a40692526b8b91e8"></p>
+</td>
+<td id="b-9ce48bd3354945389f3fa1170d7490af">
+<p id="b-152a0a76d52942c29c30b908d9db5fc4"></p>
+</td>
+<td id="b-896281f0be3d4037bf1d8a08db8324d3">
+<p id="b-f1081679ad94475a87e539349a5dfb99"></p>
+</td>
+</tr>
+<tr id="b-1b8378398b6c4edc830a04d3aa812fa8">
+<td id="b-75713d95eab34ae4b0624b753fe4f95e">
+<p id="b-25ffc6ac28124edca1b4268ccdc87565"></p>
+</td>
+<td id="b-80092ad4d4ad468f92b6206f8c03fefe" style="background-color:#FFF2F0">
+<h3 id="b-77f21270f86c4746873abbd234bc3170">广告审查</h3>
+</td>
+<td id="b-2dc1fce161404ae2a09d2ad61a7c5c2c">
+<p id="b-57e244d6dee144738e60cb8b9b17579b">广告审查</p>
+</td>
+<td id="b-5ac5c2adf313431c8a3557f12a3bf6ee" style="vertical-align:top">
+<p id="b-bb896a8c301a4b8799a20f6c7da74878" style="text-align:center"></p>
+</td>
+<td id="b-b3d961ffc6924f12a67f399b39d367ec">
+<p id="b-b6ce9a4e7059418891aa9f67e66abe9b"></p>
+</td>
+<td id="b-52ff3abad3a34175a6b93884f1e0d2a1">
+<p id="b-4ea175d9e1be4f2cb041fed9411d034c"></p>
+</td>
+<td id="b-e265f4747c544d90872cf3d043e44f16">
+<p id="b-01ee8a1be8ba469d927582247821e217"></p>
+</td>
+<td id="b-38566538cb8340b480de498f823b43bb">
+<p id="b-95d7afeae2f64fc1aeb72165039420ca"></p>
+</td>
+</tr>
+<tr id="b-bc7a82b99f834889988c83b1638f03b1">
+<td id="b-0aca2b63dd744efdb688a347457802ff">
+<p id="b-4040d9a03a3342478bb3fb01490b5e8d"></p>
+</td>
+<td rowspan="6" id="b-f065561e04354b978f8b9f01db47bb83">
+<h2 id="b-a51519b9034542f59c009d1b2496f78d">用词违规</h2>
+</td>
+<td rowspan="2" id="b-d6785dd07f7b45fa87bf0b4ab25f271f" style="background-color:#FFF9DE">
+<h3 id="b-6e4c2c89940d4d8e9266c3978db0df63">绝对化用语</h3>
+</td>
+<td rowspan="2" id="b-65ff58edd5544a358540ac905dfcf95e">
+<p id="b-ed63604621dd4bdf9e1d22aa165494ff">用词违规</p>
+</td>
+<td rowspan="2" id="b-0f7fc3106d1949d9919ca08fe3021866">
+<p id="b-dcfc458952084ef9ac0eb2956d217906">绝对化用语</p>
+</td>
+<td id="b-011fd4f74f2d4454a0d9d71f1c306232" style="vertical-align:top">
+<p id="b-c1871461a9ce49489cfbd45131a09eff" style="text-align:center">绝对化用语</p>
+</td>
+<td id="b-eb70bd740ece4811b37d8598e13a23d2">
+<p id="b-fe88e41b45204940a07b651b8beebe85"><span style="font-size:14px">不得涉及绝对化用语，如</span><span style="color:rgb(102, 102, 102)"><span style="font-size:14px">使用“国家级”、“最高级”、“最佳”等用语以及相关表示最高程度的用语，如“独一无二”“顶级”“top”“极品”。</span></span></p>
+<p id="b-10775a15bcf94238aaacdf5fce3202a3"><span style="color:rgb(245, 35, 45)"><span style="font-size:14px">1、指对于没有限定范围或者限定范围无法通过客观事实证据证明的描述，形容事物达到某种极致状态的夸张性语言。容易给用户造成误解，不客观的描述。</span></span></p>
+<p id="b-c7735dafbe2c496595f8b25d468df931"><span style="color:rgb(245, 35, 45)"><span style="font-size:14px">可使用</span></span></p>
+<p id="b-1dafa5f303de44d08445c0920c73316c"><span style="color:rgb(245, 35, 45)"><span style="font-size:14px">广告主内部产品描述，不存在贬低他同行的描述，如我们公司首例整形手术。</span></span></p>
+<p id="b-16169b0236254d038408d93e99ce1e74"><span style="color:rgb(245, 35, 45)"><span style="font-size:14px">真实客观事实描述，如：本保健食品记载于我国古代最具权威的中草药典《本草纲目》，珠穆拉玛峰是最高的山峰。</span></span></p>
+<p id="b-68bfe52b033b4d60a8edf85144ecf1e0"><span style="color:rgb(245, 35, 45)"><span style="font-size:14px">品牌名称本身包含绝对化描述，如第一夫人婚纱摄影。</span></span></p>
+<p id="b-a1ce866e8916453d958c1dfb47baa30e"><span style="color:rgb(245, 35, 45)"><span style="font-size:14px">表达经营理念或目标追求，如我们公司的目标是追求极致，行业top1</span></span></p>
+<p id="b-613ea289d7744faeb89ef19a384959f3"><span style="font-size:14px">2.“解决”、“消除”在涉及疾病、病状等涉及医疗效果相关情境下禁止使用，如出现以下情景（但不限于）可正常通过：</span></p>
+<p id="b-48435aa010b4430ca46c104448d528f2"><span style="font-size:14px">（1）若对“解决”、“消除”的内容范围进行限制，例如：“解决/消除十大肌肤问题”、“解决/消除部分困难”等（“解决/消除所有、不同肌肤问题”属于绝对化的表达，不予通过）；</span></p>
+<p id="b-c83faf34291b4a5ba0060db70569a214"><span style="font-size:14px">（2)  若内容本身为人为主观上的问题，例如：“解决/消除您的选择烦恼”、“解决/消除多余顾虑”等； </span></p>
+<p id="b-7ff0e36b1b5547f5ac5403ebd9e8b527"><span style="font-size:14px">（3)  若内容本身指代的是某一抽象内容，例如：“解决/消除的方式/方法是xxx”等；</span></p>
+<p id="b-d3f860bbbfad4bb597b9667d99fac7a0"><span style="font-size:14px">（4）若内容本身表达的是某一种专有名词，例如：“无痛胃镜”等。</span></p>
+</td>
+<td id="b-ab70c47e47c14cec9d7b2604b08cbac3" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-7b3440af6ae442e2bd9303eb7620e362"><span style="font-size:14px">全国/北京/望京最好吃的饭店。❌——限定范围没有客观事实依据</span></p>
+<p id="b-2c9bf7a3fcd24c0cabb93df229625ce1"><span style="font-size:14px">最好吃的饭店。❌——没有限定范围</span></p>
+</td>
+<td id="b-161632faa00a4664a59d4cadb32f1a47">
+<p id="b-5657ea16b0114ffe853bf8ace74bab99"></p>
+</td>
+<td id="b-9f68c7944c4c4b0599b5d5fb87f516eb">
+<p id="b-89a51c2c406e40378b1124ff812466f1" style="text-align:start"><span style="font-size:14px">1、结合内容和综合语境，不属于绝对化用语的情形，归纳列举（但不限于此）如下： </span></p>
+<p id="b-bcc5d5e30b794dc8ab06a24b3effc2ca"><span style="font-size:14px">（1）明示</span><span style="color:rgb(255, 77, 79)"><span style="font-size:14px">商家的经营理念和追求目标</span></span><span style="font-size:14px">的，如“顾客第一”、“力求完美品质”等用语，客观上没有造成误导的可能，可正常通过；</span></p>
+<p id="b-55dd06c1791e4c36b5455fc6d4ad0e39"><span style="font-size:14px">（2）明确表示为</span><span style="color:rgb(255, 77, 79)"><span style="font-size:14px">自我比较</span></span><span style="font-size:14px">的程度分级，例如：某商品广告称“为消费者提供舒适、高端、顶级三款高品质的商品”，其中的“顶级”不具有排除其他同类商品的可能，可正常通过。此类情形还例如：最大户型、最小尺码、顶配车型等；</span></p>
+<p id="b-3f7be655eab64339999515524edd1f33"><span style="font-size:14px">（3）若语境中有</span><span style="color:rgb(255, 77, 79)"><span style="font-size:14px">表示个人立场</span></span><span style="font-size:14px">做限制</span><span style="color:rgba(0, 0, 0, 0.87)"><span style="font-size:14px">（我觉得、我认为、（我）老公说，（我）儿子说等）</span></span><span style="font-size:14px">，是适用于发表者自身的绝对化词汇可视为非绝对，</span><span style="color:rgb(245, 35, 45)"><span style="font-size:14px">可通过</span></span><span style="font-size:14px">案例如“这是我使用过最好用的乳液”、“我觉得这个是最适合我肤质的”、“我认为这款产品绝对是我的福音”；</span><span style="color:rgb(245, 35, 45)"><span style="font-size:14px">不可通过</span></span><span style="color:rgba(0, 0, 0, 0.87)"><span style="font-size:14px">的反例：“最喜爱的轻食餐厅，舒服的空间，饱腹感强又没负担的菜” “他们家的水果都是当季最好的水果哦”“环境应该是太湖边最好的一家了“”相对于价格来说，真的做到了最好”；</span></span><span style="font-size:14px">对他人情况的推荐及认定需要作为绝对化用语驳回，反例：“我认为这款产品绝对是减肥女生的福音” </span></p>
+<p id="b-b0f5352e76d34cc9895c9ff11043068b"><span style="color:rgb(245, 35, 45)"><span style="font-size:14px">ps：必须有个人的立场作为前缀，明确是个人的，不看口吻</span></span><br><span style="color:rgb(245, 35, 45)"><span style="font-size:14px">，如果没有明确的个人立场，则不算做是个人的</span></span></p>
+<p id="b-2d606fd26a6f4b9aa696d26920b48b03"><span style="font-size:14px">（4）在某行业领域由相关标准认定的分级，或者已被公众广泛接受的分级，搜索信息有相关展示，可正常通过。 </span></p>
+<p id="b-cb414e36e9d34f54bd97de4d284838a6"><span style="font-size:14px"> </span></p>
+</td>
+</tr>
+<tr id="b-f00d5404b78046f396e7bf8ae2bd3aeb">
+<td id="b-1737372bbe244a0aace471b34971772b">
+<p id="b-ac8382d2fe224f0e89cdce86737fa2ed"></p>
+</td>
+<td id="b-cae036166272485abbb4aa0a7f50171f">
+<p id="b-2f019d422a2741a78b0310873c90116b"></p>
+</td>
+<td id="b-27b51f6769da49abae0ba285d30a70c5" style="vertical-align:top">
+<p id="b-5f388ee0e796400480988c78232710d5" style="text-align:center"><span><span style="font-size:14px">禁用顶级词汇、绝对化词汇、权威夸张用语、禁止宣传词语</span></span></p>
+</td>
+<td id="b-4ddacc4a994e4968957d710a95b5d94c">
+<p id="b-baa51911abb447308ed9d71f9ad272c5"><span><span style="font-size:14px">1、绝对化、顶级禁用词汇：“最”、“第一”、“最高级”等相关词汇；</span></span><a href="https://km.sankuai.com/page/1050510675" title="广告禁用词" id="b-8941319df7024739aa4feac1911e130c">广告禁用词</a><br><span><span style="font-size:14px">2、医疗保健相关词汇（适用于普通商品，不含特殊用途化妆品、保健食品、医疗器械）；</span></span><br><span><span style="font-size:14px">3、承诺保证词汇；</span></span><br><span><span style="font-size:14px">4、不属于夸张词汇的词库（将不定期更新）：</span></span><br><span><span style="font-size:14px">百变、百搭、精品、必读、高档、高端、豪华型、神器、镇店必买、最新资讯、超细纤维、超大、超好、高能、随时断货</span></span></p>
+</td>
+<td id="b-e530326828e54a9995c025111ed6789d">
+<p id="b-9fa6382ce7004dad864a5775f2e71566"></p>
+</td>
+<td id="b-437769915e7f490a81c1c0a8f2c9f5a2">
+<p id="b-c35a300ab17844d18122f2ecf8152c3f"></p>
+</td>
+<td id="b-6635ed63902348f18c2c0d7dda578568">
+<p id="b-0d56039ed04241c2bbdbdafe41414d31"></p>
+</td>
+</tr>
+<tr id="b-a3e053a35a5f470aafc9ecfb1307c176">
+<td id="b-d63a6c09d8ea43afbde959ec6df8099c">
+<p id="b-3cdfafeeaf774ccda6af2751424c75e6"></p>
+</td>
+<td rowspan="4" id="b-a55dc1dcb97d40ad80852f1305bd401b" style="background-color:#EFE1FA">
+<h3 id="b-585307a413444024b7b79937ea2a2b9d">其他违规用词</h3>
+</td>
+<td rowspan="4" id="b-7e7526d6076d4418acd138689c686405">
+<p id="b-0fe336a163884a1f9922705e7425336e">用词违规</p>
+</td>
+<td rowspan="4" id="b-823a259c78b44e5faf1cb3b412e0bd13">
+<p id="b-fa36b3ace6594b63bc4c20ca099860bd">其他违规用词</p>
+</td>
+<td id="b-b1f9e7a4cfcc45b482c021469d9967fa">
+<p id="b-befc366f7fa84436b4c494c682dfad18"></p>
+</td>
+<td rowspan="3" id="b-da1a269b28b642eaac29cbafe80cef0b" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-25214009d9904eacb0d30acac0fdd8cd" style="text-align:center">化妆品</p>
+</td>
+<td id="b-757804e17e0248edaa2356af29ee53f1" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-67417bb9183e4f18a87c9f7caa22b381"><span style="font-size:14px">涉及夸大性词意的表述（“专业”）不予通过。</span><br><span style="font-size:14px">（其他词语暂不限制，后续将根据监管动向不定时更新）</span></p>
+<p id="b-d77fbb80be654ad1ada3d6b949296a1b"><span style="font-size:14px">（1）“专业”应用于日常使用场景描述单个或多个产品时，均属于涉及夸大，不可通过，一种情况除外，即：“专业”可应用于描述在专业门店使用，或由经过专业培训的人员操作使用的产品（即染发/烫发、指/趾甲类）。</span><br><span style="font-size:14px">（2）“专业”在描述品牌（品牌历史、品牌形象等）时，可以使用，例如：</span><br><span style="font-size:14px">a. 描述某品牌专门做/只做某一类产品且描述属实</span><br><span style="font-size:14px">b. “专业”用于描述品牌或品牌形象，不涉及具体产品，如：某品牌专业靠谱的品牌形象深入人心、A品牌是一个专业的彩妆品牌等，可通过</span><br><span style="font-size:14px">（3）“专业”用于描述品牌创始人、KOL等人物，可以通过。</span></p>
+</td>
+<td id="b-c733d2e86c04402aa565b52e407ce0e2" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-fe65ac94bc8b45c28940ba989be72767"></p>
+</td>
+<td id="b-da1827782621472aa965c4b1ba770fc7">
+<p id="b-11a7191f99fc4e29bf3415bb0445e3f1"></p>
+</td>
+<td id="b-6544ba80587a414f8e119c1b82e21123">
+<p id="b-6918bee01e5642dcae15b285df9a9f01"></p>
+</td>
+</tr>
+<tr id="b-dfdb25cd785e40e28670b7c9342d3353">
+<td id="b-7b208051b0f344c497db5ff0a0ab0352">
+<p id="b-88943149005742d58c5098de80f329ae"></p>
+</td>
+<td id="b-d9d95f0deb1840cf8cea6f788e59a509">
+<p id="b-0f58026e376346c4b0daf6d27c651ec2"></p>
+</td>
+<td id="b-3780d65f8bac4544ae86699c2f2accc0" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-a4f3e0b95c7449e185e9a087d61ca8b1"><span style="font-size:14px">涉及医疗相关的描述不予通过。</span></p>
+<p id="b-127e8b5f4cb448858be337d2b889cad6"><span style="font-size:14px">（1）涉及医疗术语、明示或暗示医疗作用和效果的词语不予通过。如线雕、超声刀、医美护肤、医学护肤品、药妆、EGF（表皮生长因子）、胎盘组织液、干细胞、细胞提取液、处方、药用、治疗、解毒、抗敏、除菌、无斑、祛疤、生发、溶脂、瘦身及各类皮肤病名称、各种疾病名称等医疗相关术语，祛痘产品和祛痘美容院不得涉及治、治疗、治愈、疗愈、疗效、疗程等。</span><br><span style="font-size:14px">（2）涉及医学名人的姓名不予通过。中国医学名人：扁鹊、华佗、张仲景、李时珍；外国医学名人：希波克拉底、巴甫洛夫、南丁格尔、摩尔根、白求恩、科赫。未列举的人名暂不限制，后续将根据监管动向不定时更新。</span><br><span style="font-size:14px">（3）涉及已经批准的药品名不予通过。如肤螨灵等。（国家药品监督管理局</span><a href="https://www.nmpa.gov.cn/datasearch/search-result.html" title="查询网址" id="b-d556cb36645e4be89c1df2454506d86f">查询网址</a><span style="font-size:14px">）</span></p>
+</td>
+<td id="b-403eb6f03ba84124adab5ea2a25ed3f8" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-935b66785b3a4aeebeb86e584a7ac320"><span style="font-size:14px">医美类用语：</span><br><span style="font-size:14px">1、否定语境下，不得宣传其他医美产品及效果，不得出现不正当竞争类的否定，可正常通过。如“不推荐医美”、“之前做了超声刀，对皮肤有伤害”</span><br><span style="font-size:14px">2、不得对医美有任何宣传或者正面肯定。如“很多人都希望依赖医美做个急救”</span><br><span style="font-size:14px">3、任何语境下，不得将医美用语与产品功效挂钩。如使用之后“像打了玻尿酸一样水润”、“像做了超声刀一样”、“这不就是“热玛吉”的功效吗”</span></p>
+</td>
+<td id="b-1151eedf6f5d4c74bc1350cf04f6a528">
+<p id="b-8a01cd501105465f99a533b37558d379"></p>
+</td>
+<td id="b-c74259f81d754d6a89491db989ffd79d">
+<p id="b-9b19ca38a6ee4b29b7812866685df629"></p>
+</td>
+</tr>
+<tr id="b-6195524cd10d4203a71116256edcafd3">
+<td id="b-be8a67a1feb74a10bd97657a72d271b0">
+<p id="b-c4cf8fad762543109c20dbcd56bb649d"></p>
+</td>
+<td id="b-ac5266911e7549ed87498708e5ea113f">
+<p id="b-00f369139c9c418f83a3a901c83fecdf"></p>
+</td>
+<td id="b-0a06ade679d9471d9c0a8d5af4f9c2b5" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-8c34344ce1534d3eb825aec21e2d2178"><span style="font-size:14px">涉及与产品的特性没有关联，消费者不易理解的词意不予通过。</span></p>
+<p id="b-d2916ae0bf8d4f29aa554efa3b52d0b6"><span style="font-size:14px">在涉及推广产品的描述时，解码、数码、智能、红外线不得使用，未列举的词语暂不限制，后续将根据监管动向不定时更新。</span></p>
+</td>
+<td id="b-eb95e1c65b9a4603a8c18909ae04962e">
+<p id="b-041a151ca9f34247b6cf64c9b4f68225"><span style="font-size:14px">医美类用语：</span><br><span style="font-size:14px">1、否定语境下，不得宣传其他医美产品及效果，不得出现不正当竞争类的否定，可正常通过。如“不推荐医美”、“之前做了超声刀，对皮肤有伤害”</span><br><span style="font-size:14px">2、不得对医美有任何宣传或者正面肯定。如“很多人都希望依赖医美做个急救”</span><br><span style="font-size:14px">3、任何语境下，不得将医美用语与产品功效挂钩。如使用之后“像打了玻尿酸一样水润”、“像做了超声刀一样”、“这不就是“热玛吉”的功效吗”</span></p>
+</td>
+<td id="b-d4ddec0aed3d416f9f3fb4b3ae2e2e14">
+<p id="b-ba78cb5b4446462887223eb909919b9f"></p>
+</td>
+<td id="b-6086054c532747dcb02ddde8e897b9a2">
+<p id="b-8bc8bd5add0240618c347275dea029cf"></p>
+</td>
+</tr>
+<tr id="b-2f24498de1c7472497e9a1a8b4fd0c84">
+<td id="b-8501fe939c8d4ebd901f6c6700eb5e7e">
+<p id="b-3c309483a79e4e78841a9ca28226d388"></p>
+</td>
+<td id="b-f6d76089368043e89e65db742aa93046">
+<p id="b-d0ccc99159204a03a970f3f3d011f777"></p>
+</td>
+<td id="b-f70c73c34751467f9813c68efd1f8768">
+<p id="b-c3af0033fb344595b5277583d527f413" style="text-align:center">平台背书</p>
+</td>
+<td id="b-ba1f9eb9895940dd98fe21e19c74863f">
+<p id="b-796cbb1bbbef410fac83264e6c250656">1、涉及以美团平台作为主语进行证明/推荐，易造成用户误解为美团官方平台在为产品/人/店铺做背书，不予通过，如“美团推荐/安利的XX”、“美团专属福利”等；</p>
+<p id="b-e74c1c859b1347cb8eae5d4cfe7d8a73">2、不以美团平台作为主语的，分以下情况：</p>
+<p id="b-d3dff3fa783a4144b2d3694d86b008cc">  ① 描述表达为在使用美团APP的过程中被其他用户种草，不会令人误解为美团官方进行推荐证明的，可通过，如：逛美团时看到的眼霜、刷美团时被安利的耳机、被美团博主或达人种草的面膜等。</p>
+<p id="b-9ae2f17e7f344023bb3710f00d6f0387">  ② 如描述涉及形容推荐该产品/服务的用户数量多，如：美团N多人/无数人/巨多人/超级多人推荐，美团达人推荐等，审核时不予通过。</p>
+<p id="b-1b6a676c80a3417f875438d9639f3bbb">  ③ 涉及无法证实的夸张表述不予通过，如火遍美团、美团爆款、大众点评10w+等。</p>
+</td>
+<td id="b-a07b7ebe22374ffbb53cb476c2a892d0">
+<p id="b-231c5ce561c94db5a809828b19908b32"></p>
+</td>
+<td id="b-2b32a4b0144d41759195b5791872c3f4">
+<p id="b-77b29f954c554ec6ad6f6db626c8efd9"><span style="color:rgba(0, 0, 0, 0.87)"><span style="font-size:14px">美团推荐/美团官方推荐/美团认证/美团人气商户 /美团品质商户</span></span></p>
+<p id="b-b8339f55d3af4a8ca301092f17995acd"><img src="https://km.sankuai.com/api/file/cdn/1627288283/36453266168?contentType=1&amp;isNewContent=false" width="184" height="105" id="b-b8b9429ea6cf4805b218aefbefcfae9d" alt="image.jpeg"><img src="https://km.sankuai.com/api/file/cdn/1627288283/36454193166?contentType=1&amp;isNewContent=false" width="186" height="104" id="b-070b73c65064422caf87f6345ca86324" alt="image.jpeg"></p>
+</td>
+<td id="b-79463e4ff6a748de952a8cff4289a4c7">
+<p id="b-42740c21042540d5b2664764c88819a0"></p>
+</td>
+</tr>
+<tr id="b-6af4b3b48f8743269de7b4f85c3d7f7d">
+<td id="b-dfb1d0b0b2474f6891580e5a1a80e0ea">
+<p id="b-e0e6908fa2ca469a81d0425d11dfae96"></p>
+</td>
+<td rowspan="13" id="b-9443407c0b58457f9446962b1774a194">
+<h2 id="b-6b81bf93ece6442aa0769bbdd8df170d">虚假诱导</h2>
+</td>
+<td id="b-3fa4d7863cba40459cb45e635f20ba4a" style="background-color:#FAE1EB">
+<h3 id="b-d37d0efd36fa4f29b77ef7d5a1d1e987">虚假宣传</h3>
+</td>
+<td rowspan="13" id="b-10c3fe553fe740ee91314cb1b12dd2f3">
+<p id="b-1039214aa3f142d694740eb242b30233">虚假诱导</p>
+<p id="b-88e982ae652f4a659555b4432337744c"></p>
+</td>
+<td id="b-776f2bdff2df45ce943532a95e86dfa1">
+<p id="b-c767ae1d53954a1fafe75da4809aa5d6">虚假宣传</p>
+</td>
+<td id="b-fc2aba58f83548dfb2030d89d0f52894">
+<p id="b-d97ba8a5fd6440de94f0c2a57d7e9015"></p>
+</td>
+<td id="b-6c9f790e233c40018bdf9cdc87222edc" style="vertical-align:top">
+<p id="b-1e532c3b45bc44548973e67f37e6d893" style="text-align:center">价格虚构</p>
+</td>
+<td id="b-99b439697530461380430dcd41bba074">
+<p id="b-7cbcb8acf9c04977ab7597005b8a0fcb"><span><span style="font-size:14px">涉及价格描述时不得使用“原价”表述。</span></span></p>
+</td>
+<td id="b-ef301dbf5c6b4ea59d3558f18f27a3f8">
+<p id="b-afc6c80952b54c12b2dd33578eda594d"></p>
+</td>
+<td id="b-79eabd641aa44ed6903f128564864b85">
+<p id="b-1e3418de8d5245a7bc8d44a4f1dc877e"></p>
+</td>
+<td id="b-51096a825eca439e85930672243813b9">
+<p id="b-6b844e2113834bcf8b847faad8b84524"></p>
+</td>
+</tr>
+<tr id="b-6c32f10993a4493498182e0f76f5af20">
+<td id="b-5eb3ef3e2dcc4a548905b8acfb22525a">
+<p id="b-f55f1828b9044176b56ee776d29b34b5"></p>
+</td>
+<td rowspan="8" id="b-3da53aa68869400489614bf0279d522a" style="background-color:#FFF6E0">
+<h3 id="b-8540abfb7e5749a7a1bf18a509b7a2cf">诱导言论</h3>
+</td>
+<td rowspan="8" id="b-a478a48aa72742cb902a7103fd69734e">
+<p id="b-f27cfc6d487844d8b823d71a3213245e">诱导言论</p>
+</td>
+<td id="b-a86d667b11714b61b66f578ce832fa63">
+<p id="b-ece51ade0f304ca3a8d145140d77ac2d"></p>
+</td>
+<td rowspan="8" id="b-257ed6f35e98413ebbbbbaca9c1f77a3" style="vertical-align:top">
+<p id="b-60023593ada64eee860bf8bcbe33ddd0" style="text-align:center">容貌焦虑</p>
+</td>
+<td id="b-01f2bd5880934721a1fa2ae387928247">
+<p id="b-ee6cbf7d04434b9eafbd1fb70cefedef"><span style="font-size:14px">物化女性，认为女性价值在于容貌。</span></p>
+</td>
+<td id="b-661a5865254545a585772431f81bb542" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-f443e7d01d274b57b4ec6d80acc45612"><span style="color:rgb(0, 0, 0)"><span style="font-size:14px">颜值即正义；</span></span></p>
+<p id="b-2b7f028d854f41318ad3edfc4fa1efb0"><span style="color:rgb(0, 0, 0)"><span style="font-size:14px">女人就要美美美，</span></span><span><span style="font-size:14px">女人美了，才完整，做女人整好；</span></span></p>
+<p id="b-b779b6e9169c4ae9b34dafacb6693ba4"><span><span style="font-size:14px">颜值打分，如7分女、4分女等；</span></span></p>
+<p id="b-0c84737c20e549b8b979d36b9bcd866f"><span style="color:rgb(0, 0, 0)"><span style="font-size:14px">没有丑女人只有懒女人</span></span></p>
+</td>
+<td id="b-a730fdc8077f4781b9d61c0b7ce5ef3f">
+<p id="b-b99845701e61467f890a7eac3171e01e"></p>
+</td>
+<td id="b-63f328b79f03475eae3bf596af7c7833">
+<p id="b-7fe5b3dd4b6740408ab6e05990da6ad0"></p>
+</td>
+</tr>
+<tr id="b-1b30e2b6f73044f189aa8eb65e8de085">
+<td id="b-c02605db556141f09dbf4a83b94d9947">
+<p id="b-5f57823c6a1845ad9e923dbba74dc776"></p>
+</td>
+<td id="b-df5dd07a4c2f4dfcb39f3e66ec6ce86a">
+<p id="b-ca9e8b59a56a4c8eb8416ec97b3efb77"></p>
+</td>
+<td id="b-6ce402d61a714c72b49b021f1c47e48b">
+<p id="b-4dbd65adbe53470ebb968754bd89d860"><span style="font-size:14px">性别不平等，认为女性需要改善容貌取悦男性。</span></p>
+</td>
+<td id="b-1f092720b2d84495a7604dadf8d95077" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-83154ea534b44978a66668f9f3cc4dec"><span style="color:rgb(69, 69, 69)"><span style="font-size:14px">做了手术很漂亮，嫁了大款，升职加薪；</span></span></p>
+<p id="b-80ff0d834a5c4a0f82370a8db4b740a3"><span><span style="font-size:14px">长得好才能嫁得好；</span></span></p>
+<p id="b-a800213e632e48cf8beedefbb19fe351"><span><span style="font-size:14px">不整容找不到男朋友/老公</span></span></p>
+<p id="b-211f9c4c34f9471eb6066c48f9fbaf4a"><span><span style="font-size:14px">老公出轨、男朋友分手是因为不够好看，需要整容</span></span></p>
+</td>
+<td id="b-954519fab5304ee396e4d0edd6e13331">
+<p id="b-52ae401c2c524052980b9a68f39c9afd"></p>
+</td>
+<td id="b-44e1d0eebdd24460a4ca350e46ba22b1">
+<p id="b-1f136669b0df49358b6f5006374bb801"></p>
+</td>
+</tr>
+<tr id="b-fa1b7a4a44a442ddaf2b6e8d73a5eaea">
+<td id="b-47f5ff27c20049268aebc2c1a70d3181">
+<p id="b-9ad39ac5e8274958ae63e8fd89775d37"></p>
+</td>
+<td id="b-93d7e6c962f4437189590222177253c2">
+<p id="b-5f9b37a27cb4423fa7c44f5ac18033b1"></p>
+</td>
+<td id="b-f483649a15fd4577b575b0542f294b57" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-664d93066c0a4cc39a98cedf9c712c63"><span style="font-size:14px">诱导未成年人/大学生等相对低龄用户</span></p>
+</td>
+<td id="b-14039b9793f9460196eec1cecd7ffbba" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-5634f2b3a44342ec8abc9635219bc2b5"><span style="color:rgb(0, 0, 0)"><span style="font-size:14px">做不了学霸，做校花，整容要趁早；</span></span></p>
+<p id="b-5175098e6ad54bc4b248ec713b40b7e1"><span style="color:rgb(0, 0, 0)"><span style="font-size:14px">高考结束，给大学同学来个一见钟情的感觉吧！</span></span></p>
+</td>
+<td id="b-5a6e4f23f46a44f4a6114f485959bcff">
+<p id="b-7198e7365c3e437b9ea4e46b5cc5b9bd"></p>
+</td>
+<td id="b-0b73448cfc3d45e786c38e5709d51d94">
+<p id="b-c1971c572e7948f4939a075da8662f8b"></p>
+</td>
+</tr>
+<tr id="b-f0d61908ed844e84bbf186207e21d220">
+<td id="b-92829f0f7dbc4509adfcbdea50660259">
+<p id="b-c3f1e0d4de7844d3a90ebe6514d7eb4d"></p>
+</td>
+<td id="b-a747c21087c74c0b9dfe9452081071e7">
+<p id="b-b53d030b2b38463b8e9b6321c18ebc18"></p>
+</td>
+<td id="b-7d0960a0604b49b6abb24a3975af8ee9" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-2bd07fd507904aeea378830b502d2ce1"><span style="font-size:14px">用风水面向等迷信观点进行诱导或“恐吓”</span></p>
+</td>
+<td id="b-50f29d05abaa442cbd0ea7c2ac3244fc" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-f3b4871af994408ea931988c1728f413"><span style="color:rgb(69, 69, 69)"><span style="font-size:14px">印堂发黑影响财运；</span></span></p>
+<p id="b-58c019f1a5964831a0d793d2dd183b8c"><span style="color:rgb(69, 69, 69)"><span style="font-size:14px">整成“桃花眼”招桃花</span></span></p>
+</td>
+<td id="b-b87b8ee4d49c480ca4a53e2adce7182e">
+<p id="b-2978b384d08245d6b04d6b914806f305"></p>
+</td>
+<td id="b-9009d2e21f6647e7956a97a104018dec">
+<p id="b-dd3d3daced514ecea17d7df2788892c7"></p>
+</td>
+</tr>
+<tr id="b-2000433a6b23472d8ae73044160c257c">
+<td id="b-9ce19504e9084a87981adf9f3737a68b">
+<p id="b-32673becdf1444ed85be896b4ad0721c"></p>
+</td>
+<td id="b-4e329d48084c4a3f9e24af8fc0761851">
+<p id="b-39416cc9428e42f6b0b1a9a4f6bcdf73"></p>
+</td>
+<td id="b-022e0ff261f24721aa68d526d8823fa8" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-ddf36bfd5c1c424e8750e1492a25ae88"><span style="font-size:14px">夸张猎奇的容貌外形概念或医美项目</span></p>
+</td>
+<td id="b-4b11c6b718744cd8a0d67b125f848348" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-9de2c2a4999649ac9e47745028d7763d"><span style="color:rgb(0, 0, 0)"><span style="font-size:14px">容貌外形概念：A4腰、精灵耳、漫画腿、小鸟腿、</span></span><span style="color:rgb(64, 64, 64)"><span style="font-size:14px">蚂蚁腰、筷子腿、</span></span><span style="color:rgb(0, 0, 0)"><span style="font-size:14px">直角肩</span></span></p>
+<p id="b-c8e1e85d5657442baf851f8ccec24246"><span><span style="font-size:14px">医美项目：小腿肌肉神经阻断术、切胃、</span></span><span style="color:rgb(0, 0, 0)"><span style="font-size:14px">颅顶增高术、断骨增高术、</span></span><span style="color:rgb(39, 40, 45)"><span style="font-size:14px">直腿术</span></span></p>
+<p id="b-d9caee92e8fe43b288e89539e24c025f"><span style="color:rgb(0, 0, 0)"><span style="font-size:14px">精灵耳真的太香了！没想到耳朵对颜值还有这么大的影响，看到身边姐妹打了以后效果很好，真的被惊艳到了，耳朵一出来脸都小了一圈……</span></span></p>
+</td>
+<td id="b-b8003c96d7e84d17bfd6efd82b0b420d">
+<p id="b-3d3b2aded0844dc9841de2f1e8e3b1ae"></p>
+</td>
+<td id="b-b82cd3a6b97a4150bb82acb27b239873">
+<p id="b-7049c3b4a5ca42e8a8913e3f120d959b"></p>
+</td>
+</tr>
+<tr id="b-8afa5799e17c4ec5b96ec932e0b5a119">
+<td id="b-f3f618f569724fd9bb2bcd24b784f8f9">
+<p id="b-f41af5dbe29b4700a42aa4865e725e71"></p>
+</td>
+<td id="b-5d8e982196f045ae81cb5d07ff173c2b">
+<p id="b-498439187a0649579905b1ebc999c656"></p>
+</td>
+<td id="b-a9d835adca084be088d3b074380f4eec" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-2203ea1d7972482ca8f2926aceb36f81"><span style="font-size:14px">刻板、单一的审美标准</span></p>
+</td>
+<td id="b-58cc2e6edc584581951ef5ae50d4fd33" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-bfd674d5d6d841788d941a68779fc49c"><span style="color:rgb(0, 0, 0)"><span style="font-size:14px">鼻子再高一点，眼睛再大一点；</span></span></p>
+<p id="b-2cf78c4d23464b4d86a0c25c084bcc18"><span style="color:rgb(0, 0, 0)"><span style="font-size:14px">标准眉间距、标准脸型；</span></span></p>
+<p id="b-f5209d56a3d44aa7ba71146f1cd3bd39"><span style="color:rgb(0, 0, 0)"><span style="font-size:14px">像XX明星一样；</span></span></p>
+<p id="b-214e7b272a2a4f79874a63d6240dfe5f"><span style="color:rgb(0, 0, 0)"><span style="font-size:14px">“</span></span><span><span style="font-size:14px">双眼皮”“高鼻梁”“尖下巴”“肤白”“瘦”</span></span></p>
+</td>
+<td id="b-323c81819f00435aaa9395d2102993ed">
+<p id="b-9f3ce2a5dd6b46b68da793887cc43cee"></p>
+</td>
+<td id="b-ea13ddbba1c247ee8b80a66f878ecea7">
+<p id="b-a02c3991d24d4439a3da41193f645166"></p>
+</td>
+</tr>
+<tr id="b-eef50e81367d468390faf962775f7099">
+<td id="b-74530c4f2e6b4352858dff78be5b7cf2">
+<p id="b-c06fa99971574aacbcdd9a52399a476f"></p>
+</td>
+<td id="b-79cd1a7524154fb9aab5c2a1c9ec52f8">
+<p id="b-d23ce790a6744b66bfaa067f11bd92f6"></p>
+</td>
+<td id="b-eeed08f3925246caa7fa7d6673f79774" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-f8c286aeffed4644afee308f835cd90d"><span style="font-size:14px">过分夸大医美效果、夸张描述无恢复期/不良反应</span></p>
+</td>
+<td id="b-f5d9dd1b693a4233b6e6bb141d848a3b" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-c955b058822f470fad0b37cae6530962"><span style="color:rgb(0, 0, 0)"><span style="font-size:14px">轻医美七天拆线，无须请假；</span></span></p>
+<p id="b-28785c68eacc41a39391e3480ab91aad"><span style="color:rgb(0, 0, 0)"><span style="font-size:14px">马上化妆，美美出门。</span></span></p>
+<p id="b-92e892324c9d475ab7ae7de765d6107f"><span style="font-size:14px">打麻药睡了就好了，没啥感觉；</span></p>
+<p id="b-06558ade41c04cf981e3ecd9e95df4b5"><span style="font-size:14px">什么都怕，什么都改变不了，根本不用担心。</span></p>
+</td>
+<td id="b-e18555388b17400dbfcab95f12e4d22b">
+<p id="b-5022a514ae734612922bf554a6f7cf5d"></p>
+</td>
+<td id="b-8fe138bc698140df892ef75b16b0637f">
+<p id="b-4000e5d8d0a74e7ba9e9cdff7b2a1d0f"></p>
+</td>
+</tr>
+<tr id="b-21a113d64cdc42ca8d2112d181e88d60">
+<td id="b-e4b03792145448fb8e724e085fd213f5">
+<p id="b-cb1ccacf4b46496ca3b77e225a5c212e"></p>
+</td>
+<td id="b-e7ca7f2488cf48ad8b5453bae343ac68">
+<p id="b-0f84ddb38a8a473dbd5ca6bc43dc6313"></p>
+</td>
+<td id="b-2776a4ff59af4dcb8f1012e23fb4ac84" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-c6deb7d16d22499f8047635d7d76f190"><span style="font-size:14px">过于推销，强烈夸张的诱导倾向</span></p>
+</td>
+<td id="b-a203a06e2de94b69bc141c89c6b608c4" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-b949b5368c9840f8b912522fd9a8623d"><span style="color:rgb(0, 0, 0)"><span style="font-size:14px">可做可不做的一定要做，不能做的也要创造条件做；</span></span></p>
+<p id="b-213b49e79d464f2096d05c15f16b40f9"><span><span style="font-size:14px">想翻身，得重生；</span></span></p>
+<p id="b-0fbad10ddf074b8d841a4ec29b331362"><span><span style="font-size:14px">想变美，先变鬼；</span></span></p>
+</td>
+<td id="b-5ceffde2d5a442f4b75cff2ef53fadcb">
+<p id="b-0e82e19a15ea4553a84deda99f73703a"></p>
+</td>
+<td id="b-6e7485715cd945fbb3fb8636f5b16222">
+<p id="b-b87caa06e5084e14a29f54c1af23e6c3"></p>
+</td>
+</tr>
+<tr id="b-675340529eb4434497347727ad10b4eb">
+<td id="b-03919fb2448842c2ab36ebf112956985">
+<p id="b-982bf9d0a3ce4665bd37cb060e43ced0"></p>
+</td>
+<td id="b-9b2ce59c5f324641a2b85ba3ae59846c" style="background-color:#E8EDFF">
+<h3 id="b-174b5d812d9e4f3cbc971e9927abdbe2">效果保证</h3>
+</td>
+<td id="b-70fd55aa74fc4db58a43b30954cb5d90">
+<p id="b-1f8acd96d5694f85b58fe2a8f610d5db">效果保证</p>
+</td>
+<td id="b-3938015b28ea4bf6a80f1928b65e7934">
+<p id="b-0a7c4eb6b68f43b19f9728c8f8a906f7"></p>
+</td>
+<td id="b-7b5a0943e59b4e0db2fad2200759b2c1" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-b216720702414b7287b924c544be2480" style="text-align:center"></p>
+</td>
+<td id="b-f811e0a6da744f7db74ed89088488672" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-cd009e3853d84be8b2bbdaa62b6e7e41"></p>
+</td>
+<td id="b-cef68acbb3b14d35b04a890abc15b6d9" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-9d4b2220147b4575b94acbe2881cea02"></p>
+</td>
+<td id="b-5895d5c6ba2449b68607c096b96fbab7">
+<p id="b-12470ea011ae4f4288fd0c6ccb2502d6"></p>
+</td>
+<td id="b-9790189b6a4349119c792ac37ee34ad8">
+<p id="b-aa7dedec1f114c9fbd01d57296b8b774"></p>
+</td>
+</tr>
+<tr id="b-226b026e92074fefbc10370a66bbd771">
+<td id="b-b80079ac511e4499967d1eaee22346ca">
+<p id="b-651d6ce919074ef09bac743e4e93cab9"></p>
+</td>
+<td id="b-d57d2c32204840a0882df89eafb9bddb" style="background-color:#FFCCE3">
+<h3 id="b-189c9bc4faa6492eab93b66d0f1bb107">专家受益人描述</h3>
+</td>
+<td id="b-6f5b2237be704754a8599509366c1e48">
+<p id="b-f9abfdfadf494e6ab54dea93f92a4199">专家受益人描述</p>
+</td>
+<td id="b-2135b3c1462647169196b538e397128b">
+<p id="b-f599e346791149f886db8cbd1b3ccb04"></p>
+</td>
+<td id="b-763e83462870456c883d799e321e5e5e" style="vertical-align:top">
+<p id="b-839d02f7d2e749cbb8adbf2f1d871796" style="text-align:center"></p>
+</td>
+<td id="b-91874c4c1a144387870866c8267bbd16">
+<p id="b-a8ff58ba53554a5aa18e52865ee0a98f"></p>
+</td>
+<td id="b-d9e6b16f59534d539ab4e3a95a1e67a6">
+<p id="b-ee9c14632a8b48ae854014328694fc37"></p>
+</td>
+<td id="b-0056e2fba1174f5ab3cb62a74c3d86ea">
+<p id="b-c0a418a30a954e7ea86c2122da034db5"></p>
+</td>
+<td id="b-8f2ca2260c8e49828e247dfc0e057d33">
+<p id="b-8f8372324fa449cab0b0216c1907543e"></p>
+</td>
+</tr>
+<tr id="b-ab21c95e4a1b4386a12f473b7e483223">
+<td id="b-4f2ef6bfe80e40088a2008759520ff91">
+<p id="b-f74dfba621e4436889cc5488cef742bd"></p>
+</td>
+<td id="b-30e5f892fc9b41d38d07437d04063337" style="background-color:#FFF9DE">
+<h3 id="b-8b78e776f3ab4be8a39ecf94a35dba7e">不当医疗保健描述</h3>
+</td>
+<td id="b-c9da7cfe5bba4026a72c5ad27c7911bd">
+<p id="b-0671c670621540a2b062f42541039727">不当医疗保健描述</p>
+</td>
+<td id="b-c4d32aa68439454fb33d7529f1f2e170">
+<p id="b-2bf04ab729734e3bb15351a20d9ad302"></p>
+</td>
+<td id="b-c5536d02ec7d4ec09ffd92b72544767d" style="vertical-align:top">
+<p id="b-ce31ca80824c451086d96b7ccc255aaa" style="text-align:center"></p>
+</td>
+<td id="b-7ac700faab424da9aea0c974fc275a36">
+<p id="b-da11a3d75de5466f95ac170ad4a43fd1"></p>
+</td>
+<td id="b-7afca58a2675491f8923b15ce0340a77">
+<p id="b-a619d2736b25456f9e9c9a8ed3bd0710"></p>
+</td>
+<td id="b-0a924a4277e44f53b6b890cfaaa8a5db">
+<p id="b-19ecfe6aac0d40c596a0027501c1e227"></p>
+</td>
+<td id="b-afd8dd9f733a4d37ad9137ee2e926e99">
+<p id="b-e2f87c2b3c7f460fb5a22951b42abbcb"></p>
+</td>
+</tr>
+<tr id="b-42acae5574fb418ebde36eb131ba81ed">
+<td id="b-92940595f31d4e3487c8ba6a3c41678b">
+<p id="b-574c91177b484bb6a60b7aed07a794cc"></p>
+</td>
+<td id="b-044e288a42c543d893326d2bef19bedd" style="background-color:#FFECE0">
+<h3 id="b-f83c63b3e51f417081949d3ba95ac35a">其他虚假</h3>
+</td>
+<td id="b-9f7da9cd501840428b2625499beb3f09">
+<p id="b-f02636eb669544e688ac1facbc2dee83">其他虚假</p>
+</td>
+<td id="b-54c9daffd95449e39a10c49d5114c75f">
+<p id="b-da5443c120f041ada1517e0389f235e0"></p>
+</td>
+<td id="b-0a1ea9272f10407d9b04169700dc8a99" style="vertical-align:top">
+<p id="b-6b19ca5f80f344c4af47fd82f636c7c9" style="text-align:center"></p>
+</td>
+<td id="b-fc740a6cd704456e956e5173623cc5f5">
+<p id="b-9fc5d57220994b09b09ced11179ce220"></p>
+</td>
+<td id="b-085a6127299d48bb88d8e024ab47ae50">
+<p id="b-7662ceb553dd4b5c8674bc222293159b"></p>
+</td>
+<td id="b-7401afd5fce148618adee62359c3bea4">
+<p id="b-64b8fee115f34b459ca41733040a20dc"></p>
+</td>
+<td id="b-a571178f83214f979fb7926da43170b8">
+<p id="b-5c2bbd7fffb1451e887107c0321d8498"></p>
+</td>
+</tr>
+<tr id="b-7b24ec9edd56485da550b0603c05d836">
+<td id="b-71ad563f0b30471aa31e5ee58bdff945">
+<p id="b-b2e04a7f994f4343818abd21ca96ec1f"></p>
+</td>
+<td rowspan="4" id="b-eb121bcb320e4daba507e5444b9472b3">
+<h2 id="b-4d116b925aba4e55b44b9c5d9c37af2a">广告侵权</h2>
+</td>
+<td id="b-d7c61daa24e143b38500c61c58a4121e" style="background-color:#FAE1EB">
+<h3 id="b-7cc6222d69314db0a49ccacece577dd9">商标侵权</h3>
+</td>
+<td rowspan="4" id="b-44fdaa813997401d8804b54f13e7c402">
+<p id="b-1ce540101a364bdd9f014a48b13d70b4">侵权</p>
+</td>
+<td id="b-c2f2cd2f9434465c8fafeb5c84ff2dd6">
+<p id="b-0175745b17034c008765f88e0ec36051">商标侵权</p>
+</td>
+<td id="b-e86c8242c5c64b87bf4dcce210e91216">
+<p id="b-6d01e93fbc674815a73ec7baf92f2e60"></p>
+</td>
+<td id="b-1f0665a0c6f947768ce120204569cc11" style="vertical-align:top">
+<p id="b-db6678c6decc481a86c8ae9082236ae2" style="text-align:center"></p>
+</td>
+<td id="b-45f06d653bbb4a458c17318e1d5ad631">
+<p id="b-e5bf01b37e4d45f2bab97997d6dc9acb"><span style="color:rgba(0, 0, 0, 0.87)"><span style="font-size:14px">未经授权，不得使用第三方已注册商标等（商标图形及文字），包括但不限于双十一、双十二文字和图形，如：双十二”，“XX双十二” ，“双12”，“XX双12，“双十一”，“XX双十一”，“双11”，“XX双11”等。</span></span><br><span style="color:#00BA73"><span style="font-size:14px">可使用</span></span><span style="color:rgba(0, 0, 0, 0.87)"><span style="font-size:14px">：11.11、12.12、11月11日、12月12日、11月11号、12月12号。</span></span></p>
+</td>
+<td id="b-85f1427266c1469c89943580fbe11d20">
+<p id="b-39923cfed70e4e63b54c03173387251b"></p>
+</td>
+<td id="b-1ce2ae4d85364bd88c2613ece484194f">
+<p id="b-12e6eb9dc17a4a81895cf01323a6998d"><img src="https://km.sankuai.com/api/file/cdn/1627288283/33258651282?contentType=1&amp;isNewContent=false" width="137" height="73" id="b-8c29ce7992c048188beba4765551d2d1" alt="image.jpeg"><img src="https://km.sankuai.com/api/file/cdn/1627288283/33259449610?contentType=1&amp;isNewContent=false" width="134" height="72" id="b-86290a99df4445c2a8f0080cf43b97e4" alt="image.jpeg"></p>
+</td>
+<td id="b-121bd0b4a78648f5ba51d4bb1849c827">
+<p id="b-61289badd120425886c0246863bdfecd"><img src="https://km.sankuai.com/api/file/cdn/1627288283/33259449631?contentType=1&amp;isNewContent=false" width="155" height="81" id="b-5daca997b5aa4f43a1f4c572ad83bd47" alt="image.jpeg"></p>
+</td>
+</tr>
+<tr id="b-f59d374e109f4011aff867ecc7a7bccb">
+<td id="b-d0a36084d35f488da6d43c43d361ae0c">
+<p id="b-15da4be795d94177be56d61a3b3b0486"></p>
+</td>
+<td id="b-e69323d8dd0b44edbebc2f29a4236839" style="background-color:#FFDBC7">
+<h3 id="b-4dac1bcd28fd4d62b7198d8340f2cb59">著作侵权</h3>
+</td>
+<td id="b-1fb77e70c5164fecb16884aadfd4a565">
+<p id="b-b04497310420443e91442930a79039ce">著作侵权</p>
+</td>
+<td id="b-747a9e7e724d4b5bb037c05eaa66e51a">
+<p id="b-a2322eaef0904bdea2f96ca45f3fcb13"></p>
+</td>
+<td id="b-c1c2624210694c7e99e751d152a074c3" style="vertical-align:top">
+<p id="b-643023bd74c347db920d599f4a9a6c55" style="text-align:center">游戏</p>
+</td>
+<td id="b-3fd78d1bc7d746f6a4df23e30855e9eb">
+<p id="b-ca94c42cb49c472fba57dcaa82046442"><span style="font-size:14px">游戏素材未经授权不得使用或模仿第三方游戏的人物形象、场景、标志性logo或代表性图标等作为素材或素材元素。包括但不限于：</span><br><span style="font-size:14px">（1）人物形象：指游戏内特有的人物形象;</span><br><span style="font-size:14px">（2）场景、道具：可明确辨识的游戏场景；</span><br><span style="font-size:14px">（3）标志性LOGO或代表性图标：游戏logo、游戏内代表性内容的图标等</span></p>
+</td>
+<td id="b-8e2fad3321584ba3b7a62c0b4d86dd85">
+<p id="b-ea018556833742259da7f30582079852"></p>
+</td>
+<td id="b-3f339884781c437883a3611683e93b65">
+<p id="b-e662469449b54fff8266a5174943f576"></p>
+</td>
+<td id="b-7482495666bf46e3b97b0c553b31e1c1">
+<p id="b-521bf842e02d4e10942dfd4c17705c98"></p>
+</td>
+</tr>
+<tr id="b-4d1046c50c6b4fa5adb9c3cf3c8e3076">
+<td id="b-15f3fd122ff84a6786e29c18e60dad36">
+<p id="b-b6c1fd4e630a4a09927d21bcf4f3e4c1"></p>
+</td>
+<td id="b-4dac9ac505f5433283cb3d54f884c196" style="background-color:#FFF2F0">
+<h3 id="b-44cfd4d1c1b04f60a120ac5dc5e3606c">肖像侵权</h3>
+</td>
+<td id="b-7c1c17478ea7460c825f0bea714bcdf6">
+<p id="b-92a77e9050c34c02826d23f80bad0ccd">肖像侵权</p>
+</td>
+<td id="b-4c8d9b7f522a466f895cc480a05e18c2">
+<p id="b-1473092ca09e4e809675e1fcf6cf7007"></p>
+</td>
+<td id="b-f0a5844b43b64964ae30f76c986636e2" style="vertical-align:top">
+<p id="b-2d7c2f891f024bab9ef00bba55d24df0" style="text-align:center"></p>
+</td>
+<td id="b-54420760a9c74544bf3e62a8e7baccd6">
+<p id="b-7315b4d7a20e4ddab82f81ebd116b200"></p>
+</td>
+<td id="b-ff0eb33a3ab04a33b649b721f4ab1802">
+<p id="b-65025ee3387b4724a76d55e5f0354ff8"></p>
+</td>
+<td id="b-17087a4063804381981c168e32265687">
+<p id="b-fb7ba5efbe3b431da15c026eca3b59e6"></p>
+</td>
+<td id="b-08aa2abaf30e4b138f0f258c22d5420d">
+<p id="b-9463384f672b44cbb52bb0a70732e2da"></p>
+</td>
+</tr>
+<tr id="b-1e709d5942c3495daedf5f2f17b8329d">
+<td id="b-83775a0dceed48839acbadcb97b84801">
+<p id="b-0077676269de49d188904da4badc6105"></p>
+</td>
+<td id="b-4d2cc16d926743a9be56556957ae34b2" style="background-color:#FAE1EB">
+<h3 id="b-d2a2956689b04e828f17209aa8894bde">其他侵权</h3>
+</td>
+<td id="b-91715fb5bd2d4b06aab07474ca89a083">
+<p id="b-eac4a97cd2d5489892fad19eda5db11b">其他侵权</p>
+</td>
+<td id="b-cf923bea01814edaa6b4ba6261a1f990">
+<p id="b-54c3ef5d9b634812b87be1193fc3d73b"></p>
+</td>
+<td id="b-1918356e69e94603957d26f6b82ad66a" style="vertical-align:top">
+<p id="b-44b5659655ec4423836864812199e0c0" style="text-align:center"></p>
+</td>
+<td id="b-03a4efe6d3d14b699f3968c0b80e0522">
+<p id="b-684f5a5af01f4b13ace9c61f40c62aad"></p>
+</td>
+<td id="b-e92b4a9a7f7e4de5b88b5d6b55adc1e0">
+<p id="b-eb8ae54bc8d041488dc06ec8ec429cd6"></p>
+</td>
+<td id="b-547a29fdcf34411dae80ec9afc6322be">
+<p id="b-2d59a2c4ca2d419cb01ca73922bfe170"></p>
+</td>
+<td id="b-b3149dbfa4e84cab943d7bd7b2dc18b4">
+<p id="b-c89c5d5fcd584435b0343eec55f2d35c"></p>
+</td>
+</tr>
+<tr id="b-b5ea3f3aa5f046b3a25b0e4c20cd7d34">
+<td id="b-a4b5ac7e49034d06a257195d07518661">
+<p id="b-7c3d0046d58c42d18626e5c8ec5e6af1"></p>
+</td>
+<td rowspan="19" id="b-24c002f44a4c49bcb15a02f7628c460a">
+<h2 id="b-fb3b431cc9fe48ff8c28a8a68a611d57">违规营销</h2>
+</td>
+<td rowspan="2" id="b-fece4ce778a245e18e136b70fb9bad2d" style="background-color:#FFF6E0">
+<h3 id="b-f4e656803ad744269bd1e33018d290a7">贬低竞对</h3>
+</td>
+<td rowspan="19" id="b-102dd3db027f4589ab2cd687a3c1f6c6">
+<p id="b-76ad0de60b174a9f909a61f779778061">违规营销</p>
+</td>
+<td rowspan="2" id="b-4bc4119b32094c0e84032723d5480493">
+<p id="b-22b973295d5f48efab8ce1030080dcb7">贬低竞对</p>
+</td>
+<td id="b-b59831e84b06411d9fe825973a98ebee">
+<p id="b-1c59209f0fc14e6daf52183910bb8e42"></p>
+</td>
+<td id="b-e2c343baca2a45d08cafc15cc7b9e3a0" style="vertical-align:top">
+<p id="b-e6186e88e0bc4438b747a79ea672c14b" style="text-align:center">贬低攀附</p>
+</td>
+<td id="b-d856e70e54154034a01b27991d1edea3" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-32b97b7b017d4682aaf7d63e9e8b23ca"><span><span style="font-size:14px">1、通过比较表示己方产品优于其他第三方产品。 </span></span><br><span><span style="font-size:14px"> 2、广告不得直接捏造、虚构事实，从而对竞争对手的产品或者服务进行诋毁、贬低。</span></span><br><span><span style="font-size:14px"> 3、广告不得间接贬低竞争对手的产品、服务，如声称自己的产品、服务的质量、价格等都比竞争对手好；</span></span><br><span><span style="font-size:14px"> 4、广告不得攀附其他品牌产品及服务，如杨树林同款，平价神仙水</span></span><br><span><span style="font-size:14px"> 5、若在比较时未特指某品牌/产品，则可使用。如“比市面部分油炸薯片更低脂”；</span></span></p>
+</td>
+<td id="b-e70b5c20603441faaaa9e1b71828daae" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-7ef6724c3aa848a8a82ff33b4458fd69"><span><span style="font-size:14px">素材方面： </span></span><br><span><span style="font-size:14px">（1）仅支持KOL（品牌合作人）发布测评内容进行推广，品牌官方账号发布的涉及第三方产品的测评合集类内容不支持推广； </span></span><br><span><span style="font-size:14px">（2）素材内容不得涉及贬低、诋毁，不得使用评星打分类型的素材形式； </span></span><br><span><span style="font-size:14px">（3）进行测评时，不得涉及不同品牌的产品之间直接或间接的比较行为，针对某一产品的测评内容，不可涉及除本品牌外的其他产品，例如：“我试过晓姿和pola的抗糖丸，两个产品都不错”等。</span></span></p>
+</td>
+<td id="b-803f4767d22043498689dc8abca74db0">
+<p id="b-d5511384956c4057bbb38ca54a3d34fa"></p>
+</td>
+<td id="b-4a73e1fe720749f7b5a1b4b58c293eff">
+<p id="b-90c15de28b8848d5b2bfb5d65520e828"></p>
+</td>
+</tr>
+<tr id="b-be337b88e28542138051c5aa6f191922">
+<td id="b-72b629cdd8ca4c478581c66e018f1af1">
+<p id="b-6c0e86560aee43e79355e7766dd146f2"></p>
+</td>
+<td id="b-e100a11426e9473e81c2794ecb960b1e">
+<p id="b-901dba2e7f5b4f8fa4cbad3fa03c90e6"></p>
+</td>
+<td id="b-2ce9bc1283744929bf6cda9b0dc1797e" style="vertical-align:top">
+<p id="b-cbdc2daa0ce54419a1ee21773c881bca" style="text-align:center"><span><span style="font-size:14px">不正当竞争</span></span></p>
+</td>
+<td id="b-1cf33ebfd2134604b6f36298f2436f31">
+<p id="b-dda6eb55e45a43009dbce97445304dfe"><span><span style="font-size:14px">1、不得与其他商家价格或服务进行对比，从而直接或间接贬低竞争对手的产品、服务。</span></span></p>
+</td>
+<td id="b-acf2a828d36e4e50b59c8f7d0ddceb74">
+<p id="b-7957dfd5f249427fa39a822e3ae8e13b">​</p>
+</td>
+<td id="b-e0dc40cd94f84147890b9886ba528a7f">
+<p id="b-2f98ad2e9c064ea3ac40a66b9274f5a8"><img src="https://km.sankuai.com/api/file/cdn/1627288283/33290145444?contentType=1&amp;isNewContent=false" width="156" height="133" id="b-b84bc6968cb942f38adec4a8e49f8554" alt="image.jpeg"></p>
+</td>
+<td id="b-c580597ac1f246b58ae2084a6c70da87">
+<p id="b-70c44c7f7b5447a29eccc0cab7fabe2c"></p>
+</td>
+</tr>
+<tr id="b-1a372fc1315447c7bc26bce28b81a13c">
+<td id="b-00f5bcdf357c4ee78458d3e73c54f930">
+<p id="b-198cf8aef06b47b3bf7e2c86643845be"></p>
+</td>
+<td id="b-00d216b28a1f4c2fa894d6dc629b67b5" style="background-color:#EFE1FA">
+<h3 id="b-2e4d9e02aee64d97964fcf7ad9d74b98">引证专利不规范</h3>
+</td>
+<td id="b-801c6a3624734b1e8bb3f81356f5b275">
+<p id="b-dfe27dcab12544a6bfb91e3a0c7d3276">引证专利不规范</p>
+</td>
+<td id="b-7f21ce3dc6d7491788c2839f5bace82e">
+<p id="b-d66c01b6560343ce9f9685991ccbd5da"></p>
+</td>
+<td id="b-0c947740e8244e4b97f79ffa2799c63b" style="vertical-align:top">
+<p id="b-4715d76d17eb4bb3bb11b5d8e57ac5d4" style="text-align:center"></p>
+</td>
+<td id="b-661c23887255474da3130b44259b8019">
+<p id="b-2ad866e66baa47baa7aee335e3cf2a80"></p>
+</td>
+<td id="b-c8ab52bfa7434c3f9e707759adf3b708">
+<p id="b-4557bf64f1fd4f8b86446b49af05b282"></p>
+</td>
+<td id="b-c640426af71f4c718beb66fda24f1d89">
+<p id="b-dc36566f8b5f4365a97bc02c4dca82e1"></p>
+</td>
+<td id="b-a502234e59ae4da7857535f1339471e4">
+<p id="b-fdfafe3fa9874b4f91836a4ed6cdca4c"></p>
+</td>
+</tr>
+<tr id="b-460e4428eb1147c9b6f8a31bc96ff563">
+<td id="b-b49d4718eeb248ba8251849668578397">
+<p id="b-929484dc1129458fbf590a5d7ba965c6"></p>
+</td>
+<td rowspan="10" id="b-1326b5c6ffa94c2ca4136987213347ec" style="background-color:#FFF9DE">
+<h3 id="b-63d5b61300304362b2b9f9eda31a7505">活动宣传不当</h3>
+</td>
+<td rowspan="10" id="b-c8d0e0ed621144738eb75815eb593725">
+<p id="b-c687836c9247432baba5318e2ed6f429">活动宣传不当</p>
+</td>
+<td id="b-a01acbbcb85844dfbc0efb391d7e214b">
+<p id="b-3246c61c0e9b4cef99e309a6e4624375"></p>
+</td>
+<td rowspan="2" id="b-97c844850a99421d9cd5c53fc4666c5f">
+<p id="b-363009ecb14f4a8db6e21d3607e0393c" style="text-align:center"><span style="font-size:14px">三品一械</span></p>
+</td>
+<td id="b-d8a869542b3943edb0a2c3651ffa6d87">
+<ol id="b-0e35dd5ef6c64365a97237b0eb1afe7a">
+<li id="b-a040875a86d0423a87467ff8918464c7"><span style="font-size:14px">使用或者变相使用国家机关、国家机关工作人员、军队单位或者军队人员的名义或者形象，或者利用军队装备、设施等从事广告宣传；</span></li>
+<li id="b-63fd0fdfc52046eb978d82df10df09df"><span style="font-size:14px">使用科研单位、学术机构、行业协会或者专家、学者、医师、药师、临床营养师、患者等的名义或者形象作推荐、证明；</span></li>
+<li id="b-efaafd179af64a69884e2ca714107468"><span style="font-size:14px">违反科学规律，明示或者暗示可以治疗所有疾病、适应所有症状、适应所有人群，或者正常生活和治疗病症所必需等内容；</span></li>
+<li id="b-1805a238e94042f38586e1b66e0700bd"><span style="font-size:14px">引起公众对所处健康状况和所患疾病产生不必要的担忧和恐惧，或者使公众误解不使用该产品会患某种疾病或者加重病情的内容；</span></li>
+<li id="b-916d002b43e745ddae3f4a8f3f09339b"><span style="font-size:14px">含有“安全”“安全无毒副作用”“毒副作用小”；明示或者暗示成分为“天然”，因而安全性有保证等内容；</span></li>
+<li id="b-a5e4aa60505f4e41975d2be22b1a7ad8"><span><span style="font-size:14px">含有</span></span><span><span style="font-size:14px"><strong>“热销、抢购、试用”“家庭必备、免费治疗、免费赠送</strong></span></span><span><span style="font-size:14px">”等诱导性内容，“</span></span><span><span style="font-size:14px"><strong>评比、排序、推荐、指定、选用、获奖</strong></span></span><span><span style="font-size:14px">”等综合性评价内容，“</span></span><span><span style="font-size:14px"><strong>无效退款、保险公司保险</strong></span></span><span><span style="font-size:14px">”等保证性内容，怂恿消费者任意、过量使用药品、保健食品和特殊医学用途配方食品的内容;</span></span></li>
+<li id="b-eb3bdd0243964233a0a2879d0934220d"><span style="font-size:14px">含有</span><span style="font-size:14px"><strong>医疗机构的名称、地址、联系方式、诊疗项目、诊疗方法</strong></span><span style="font-size:14px">以及有关义诊、医疗咨询电话、开设特约门诊等医疗服务的内容。</span></li>
+<li id="b-57e7741340f140078079374577bf7ee2"><span><span style="font-size:14px">使用产品后体现治疗XX病，消除XX病，疗效、疗程等医疗描述；</span></span></li>
+<li id="b-c30624dd884f4daf9be195272333dd6f"><span><span style="font-size:14px">利用广告代言人作推荐、证明；</span></span></li>
+<li id="b-3db958718c454e2fb3d0b8857d47437f"><span><span style="font-size:14px">法律、行政法规规定不得含有的其他内容。</span></span></li>
+</ol>
+</td>
+<td id="b-f0e070cdd9d14885b79e7c4a9ce034c0">
+<p id="b-5b7405b3cc8440e992782fee897d5336"></p>
+</td>
+<td id="b-850a7a1c5a4040989fe75e281e38cb97">
+<p id="b-68c2a1e4b3734a3c868197feb1e85064"></p>
+</td>
+<td id="b-b49655bb475344abae848ced9f39021f">
+<p id="b-d4be3bfbcfb646e6b7ae08d8eb58e50a"></p>
+</td>
+</tr>
+<tr id="b-1bc875fd50a74677b2ba79e06cac2153">
+<td id="b-473321e2954d4fd7bc04fe6927344e9c">
+<p id="b-9327994e78bd41b28f7da608cf363fb1"></p>
+</td>
+<td id="b-1a09faeb15fd4053a42d6912bcfbbf2f">
+<p id="b-e19191663cdf42659f0ed3e5dd41747b"></p>
+</td>
+<td id="b-d6e95349014f46d18b86af69361d2841">
+<p id="b-00d83b4825494e72a72d780cf085e823">美容仪器不得宣称医疗功效；</p>
+</td>
+<td id="b-1dc4e93059f34ff5a3b89550cc1229c2">
+<p id="b-0a7a0386c6744fed99f99aef0f9e9cec"></p>
+</td>
+<td id="b-028ef072049a4ae0a0a3be92a019a1c0">
+<p id="b-622b5153bf1042b98e3af523f96999b4"></p>
+</td>
+<td id="b-19da9cc9a7ec464f8f2c25f92db12774">
+<p id="b-61233a9750ba4db3bb3deb90903d8aab"></p>
+</td>
+</tr>
+<tr id="b-5a3e1448f2b641bab3886c73582ab433">
+<td id="b-f4ad356e01544d0cbb556000893422ca">
+<p id="b-f18d13f88e38419d8298f9ea68158bba"></p>
+</td>
+<td id="b-07cf51f9569c4a19be12e397c019a094">
+<p id="b-6134de98047d47ca97916908c0246d50"></p>
+</td>
+<td rowspan="2" id="b-be81a142ad62410db7bb74f545ffdbf4">
+<p id="b-1bb4aa3d10054d66882727e06c1d5c61" style="text-align:center">化妆品</p>
+</td>
+<td id="b-548ce01913164755badc76548430f752">
+<p id="b-bcc280e7e4e042028dd899f2f970c547">涉及有不良导向的庸俗性词意不予通过。</p>
+<p id="b-f2525c0ed8e54abebdc867f7a4861293">如“失贞香”，以及“裸”用于“裸体”时属庸俗性词意，不得使用（未列举的词语暂不限制，后续将根据监管动向不定时更新），“裸”用于“裸妆”、“裸肌”、“裸肤”（如彩妆护肤类化妆品）时可以使用。</p>
+</td>
+<td id="b-e6824d19eb744378944b33bc8cf316df">
+<p id="b-5b9c330f53d34b81bec662f71b29cc05"></p>
+</td>
+<td id="b-bbdbc40f9a964e8a85f2cbe3b8952c3d">
+<p id="b-07faed03555b4ee2a9fa7d348795aafb"></p>
+</td>
+<td id="b-2d4fec6d826a4f01b38ab1e1ba7bbc40">
+<p id="b-c43df045bca34b61ad8a5ccb4048b814"></p>
+</td>
+</tr>
+<tr id="b-ad63fb96dfd14e8e8e57435d8817a0be">
+<td id="b-84a13d3581eb4779a7b75bcc04fe1691">
+<p id="b-712f32ba6d654000b3a9bc5058f3e667"></p>
+</td>
+<td id="b-72c2310130404b17896f9667b7f8e81a">
+<p id="b-9973210d5c544cdcae934efcc2bb6c52"></p>
+</td>
+<td id="b-d80130e5f2df4013827d2b4d2cc65529">
+<p id="b-ee0591980f9e4ddaa5737c2923b17355">涉及封建迷信词意不予通过。</p>
+<p id="b-6bc6a98d4cf946c18b681bdcabcbff12">如鬼、妖精、卦、邪、魂、神（“神”用于“神灵”时属封建迷信词意，用于“怡神”，如芳香化妆品时可以使用），未列举的词语暂不限制，后续将根据监管动向不定时更新。</p>
+</td>
+<td id="b-80527b19dd0a4861bc75dbab54852cce">
+<p id="b-9327875b2c4740be8797edafa2485ddb"></p>
+</td>
+<td id="b-56e4ca4c340544359ca1697e85e56cfa">
+<p id="b-7bc980a8dd6143319ba46cb7b7f52766"></p>
+</td>
+<td id="b-28b0885cbad640c7bb1ef211f5c7da97">
+<p id="b-5c1ca68d9e234596a284c0ba8c215e88"></p>
+</td>
+</tr>
+<tr id="b-d25d13ab049f4310b5d2a202632cb396">
+<td id="b-d2c2f8c4749c4a28a1ba4fdd706e8c1f">
+<p id="b-ab5f631abc18452eacbf5f2ddc0cf5fe"></p>
+</td>
+<td id="b-59f9c1770a6a4ec4a0abb0d7634e426f">
+<p id="b-caf265f97b3f4cceab33823bcc868be1"></p>
+</td>
+<td id="b-73fd8477c2954e13a18baf680268a849" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-bdb1912a5e4248e0babae830b8b1bcaf" style="text-align:center"><span style="font-size:14px">游戏</span></p>
+<p id="b-69a9bf4361874adc89b1eec9db425236" style="text-align:center"></p>
+</td>
+<td id="b-42b1fc8be2534cd1a6305c362c24bdd1">
+<p id="b-4013b225ab6b424f8060cbd76195a3e7"><span style="font-size:14px">游戏行业素材中不得涉及以下内容：</span></p>
+<ol id="b-fb177fafa83647bdbbc21114fe3b0d55">
+<li id="b-1e3d0d8ac3ef463a9395ee862a53daf5"><span style="font-size:14px">现代战争、捕鱼、棋牌、暗黑类、封建帝制（升官、后宫等）类内容。</span></li>
+<li id="b-2907ba40fbc5406dae231600be5f93ac"><span style="font-size:14px">不得使用不良导向文案及素材元素。包括但不限于：两性相关（结婚生子、管好老公/老婆、老公/老婆不在才敢玩等）、赚钱相关（RMB或人民币等、金币提现等）、具体百分比数据（99%爆率等）、沉迷相关（通宵玩、玩一晚上、上瘾、停不下来、肝通宵）、挑衅或叫嚣类（敢不敢XXX、XXX算我输、XXX当爷、XX当爸爸等）；</span></li>
+<li id="b-8b1d66ecfc414392b612cdd4ccc9dbc2"><span style="font-size:14px">虚假倒计时；</span></li>
+<li id="b-17e4f5c133774d5f9b93d1ad7c2cd489"><span style="font-size:14px">不利于未成年人身心健康相关的广告内容（“在网吧看到小学生玩这款游戏，想起了当年的自己”、“来XXX游戏吊打小学生”）；</span></li>
+<li id="b-9ec919dc4ed342b9b49a2617280a0736"><span style="font-size:14px">虚假按钮（包括但不限于虚假翻页箭头、方向和技能操作按钮等）；</span></li>
+<li id="b-63476086b1424902a08043ffbee0b49e"><span style="font-size:14px">挂机相关内容（如挂机、离线挂机等）。</span></li>
+</ol>
+</td>
+<td id="b-2d238756023449a190c25685cdfe81de">
+<p id="b-0bbac1d33be24f05be4a31df0d4f042a"></p>
+</td>
+<td id="b-12737401d4e743afaa4e88e243c94aa6">
+<p id="b-9cdd046a050f4b8f81bd0f2a97608591"></p>
+</td>
+<td id="b-4ebb1dca92604dbf8f7f021a5796a863">
+<p id="b-2c9c50b142ce49c2a9b004acec6c68ae"></p>
+</td>
+</tr>
+<tr id="b-a3b1ba1daa8742e2bb8d9e59f9a2b1aa">
+<td id="b-b42d20badd264988ad4c55221c0e2c7f">
+<p id="b-ec60bee7a3b64ca89af77b086e871899"></p>
+</td>
+<td id="b-a66dcd692bd4480faaf46a072b2b0022">
+<p id="b-7657ec63c3074d7db5acce5c5c8c71b7"></p>
+</td>
+<td id="b-a8847c193a8043388ca7122f29dac533" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-c3a1dd8ba8c7404bbd80e4e5cf86edd9" style="text-align:center"><span style="font-size:14px">婴幼儿奶粉、婴幼儿食品禁止宣传可以部分或全部替代母乳（禁止宣传1/2段奶粉），不得贬低母乳喂养或与母乳做比较</span></p>
+</td>
+<td id="b-dc6c1ec2fc38487881a97b10d2e48458" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-5ec7736ae90d400c84b1cce11da254fc"><span style="font-size:14px">婴幼儿配方奶粉的功效宣称标准：</span><br><span style="font-size:14px">1、素材方面：</span><br><span style="font-size:14px">（1）只能说某种成分具有某种功效，不能说产品本身具有某种功效；</span><br><span style="font-size:14px">例：XX奶粉可以增强宝宝体质（不可）；XX奶粉可以增强宝宝体质是得益于它含有的天然乳蛋白（可）、XX奶粉含有的天然乳蛋白可以增强宝宝体质（可）</span><br><span style="font-size:14px">（2）素材不可涉及医疗功效或27种保健食品功效，可以涉及提高保护力/抵御力、增强体质、呵护肠道健康、维护肠道平衡、促进有益菌生长、促吸收等。</span></p>
+</td>
+<td id="b-676237716c9a462f963537434c9f5fa8" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-940b12f8e45b45b78673f6611a97c3b3"><span style="font-size:14px">婴儿奶粉的禁止宣称的功效用语：</span><br><span style="font-size:14px">提高/增强免疫力、提高/增强抵抗力；</span><br><span style="font-size:14px">促进大脑发育、促进/改善/提升大脑发育；</span><br><span style="font-size:14px">促进视网膜发育、促进/改善/提升视敏度；</span><br><span style="font-size:14px">调节肠道菌群、促进消化、改善肠道功能/消化功能、改善肠道功能/环境、改善消化不良、促进消化、抑制有害菌、；</span><br><span style="font-size:14px">缓解便秘/腹胀/腹泻/腹痛、缓解便秘/腹胀/腹泻/拉肚子/腹痛、通便；</span><br><span style="font-size:14px">改善睡眠；</span><br><span style="font-size:14px">改善生长发育；</span><br><span style="font-size:14px">以及其他医疗用语或保健食品功效用语。</span></p>
+</td>
+<td id="b-6ef9f2ec17c04b31ab5438c3e79c86d9">
+<p id="b-4de02b9f540b47909ee50682244e4a9d"></p>
+</td>
+<td id="b-b5feaac044114c4ba57ad235049a0f19">
+<p id="b-828f4eec5c914435a746b374fa8e305f"></p>
+</td>
+</tr>
+<tr id="b-10103c9452f140948a978ba328caf9fd">
+<td id="b-95d07404c4974e2ea3eaf48cccb0fd0c">
+<p id="b-b38381ed14f94de2885438f97b1e514b"></p>
+</td>
+<td id="b-26e703fdb40d4f169bb312642c5203bc">
+<p id="b-fd6a69f1ed794eda9a10435bf16c0acf"></p>
+</td>
+<td id="b-f8a57594ebf1405fb24f25c4d20f957b" style="vertical-align:top">
+<p id="b-b57a3df55e17480fbac6c892dcf72e1a" style="text-align:center"><span style="font-size:14px">近视矫正</span></p>
+</td>
+<td id="b-c2634911c15a45b4a5883ade51505eac">
+<p id="b-5f53bc413c0c44a683e2bfbba320ac26"><span style="color:rgb(255, 74, 71)"><span style="font-size:14px">打击</span></span></p>
+<ul id="b-e8f293246ae74d9783c135156d891b30">
+<li id="b-fd728e6b4bc8499f8d31f567a4472f44"><span style="font-size:14px">商品中包含但不限于“康复”“降低度数”“近视治愈”等误导性表述，让人产生“可以治疗近视”的误解的表述，需清理。</span></li>
+<li id="b-465a159e97d144749b4b9b8c757d6c81"><span style="font-size:14px">宣传、推荐等广告语中包含但不限于</span><span style="color:rgba(0, 0, 0, 0.87)"><span style="font-size:14px">“恢复”“康复”“降低度数”等误导性标识的，需清理。</span></span></li>
+<li id="b-8c18693b8c564bd29b4500a8ed0cbdba"><span style="color:rgba(0, 0, 0, 0.87)"><span style="font-size:14px">假借科普名义宣传近视矫正相关商品，内容中明确包含误导性行表述的，需清理。</span></span></li>
+<li id="b-32dd562fcc174f84bf9380ac51bf8b5f"><span style="font-size:14px">声称操课、运动等训练方法可治疗近视的，需清理。</span></li>
+</ul>
+<p id="b-deb97b16646546ed9d2523c577c10746"><span style="color:rgb(0, 186, 115)"><span style="font-size:14px">通过</span></span></p>
+<ul id="b-bbac0c0772694fbbb3f3000da33cb46e">
+<li id="b-a7c4452acd6c43a29b2441c326f9fc06"><span style="font-size:14px">近视矫正手术（如激光飞秒手术），可通过。</span></li>
+<li id="b-6f689d33415941fcb623b475b13ebce9"><span style="font-size:14px">正规医院类涉及眼科治疗的内容，可通过。</span></li>
+<li id="b-8d090dbaa0504d75b0a94878eb5f188c"><span style="font-size:14px">商品中以“缓解眼疲劳”“减轻干涩”等非误导性、模糊性的表述，可通过。</span></li>
+<li id="b-712eca405fdc430a8f7cbcd938b08a72"><span style="font-size:14px">商品中以预防性、保护视力的表述，可通过。</span></li>
+</ul>
+</td>
+<td id="b-cd36db1fb1ca484796e60c32be3a098c">
+<p id="b-3f395b5e959047f799768917c6f4befc"></p>
+</td>
+<td id="b-46bf39c1ba94474f9d8a391e62eb9129">
+<p id="b-ee0ed788204744dd970600697131dd62"><img src="https://km.sankuai.com/api/file/cdn/1627288283/36361768988?contentType=1" width="91" height="91" id="b-fdb12df170684c2493b2247523b79ff4" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1627288283/36361172313?contentType=1" width="90" height="90" id="b-a11699fc40e9449588d7017f22681295" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1627288283/36361172314?contentType=1" width="89" height="89" id="b-bad9c3def4d64df089e908c468bfb0a2" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1627288283/36361172317?contentType=1" width="85" height="85" id="b-7544ab5ceb6545748cd99b21265fce65" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1627288283/36361172318?contentType=1" width="89" height="89" id="b-8aa92a155f9c470a978862a78cce293d" alt="原文图片（需学城权限）"><img src="https://km.sankuai.com/api/file/cdn/1627288283/36361172319?contentType=1" width="76" height="76" id="b-c99dcf194da9415baa407483ed98a26d" alt="原文图片（需学城权限）"></p>
+</td>
+<td id="b-be2aa4fb3efb47b3a5217fd5e77f97b8">
+<p id="b-bd58d882450c4d12aa69023e0f7bc8b4"></p>
+</td>
+</tr>
+<tr id="b-bb3a287131bd4e79b80d5ab761a1fe9e">
+<td id="b-a7d65f8a92c44bdbb1f3feee2584363e">
+<p id="b-acf081c2c6264733bf894b81245e66dd"></p>
+</td>
+<td id="b-fd3c5b9809794c7cbada04ce4a94add4">
+<p id="b-a7110df145de4c91acfb317bee4bfe71"></p>
+</td>
+<td id="b-465c238e9d194c279c65a290b5d30cdc">
+<p id="b-697f4a7eaee34f4da5d38a309a9386df" style="text-align:center"><span style="font-size:14px">抗衰、除皱</span></p>
+</td>
+<td id="b-b7baf3c7f36447cb9019a8676dd319be">
+<p id="b-f300b5bb5bfd48d4bbe95f73f28808f3"><span style="font-size:14px">抗衰无需管控。</span></p>
+<p id="b-1d92390ebfbb4f009cbaa4eaf6264d89"><span style="font-size:14px">除皱：医美不管控；美容美体和化妆品部分出现除皱需要打击。</span></p>
+</td>
+<td id="b-7e8d6da7bc6d4290acb33dbbb413af64">
+<p id="b-f472ba0d1acf462ebb413aa684c1e3f7"></p>
+</td>
+<td id="b-38d8eabe65b64a8bb2daf658d99fb6e8">
+<p id="b-7b2dbc86a58c448baf1fc4b243c15402"></p>
+</td>
+<td id="b-77d3eef813b345a299e8dd78f36a23dd">
+<p id="b-65783fe6635e45f1bff146e7e7343517"></p>
+</td>
+</tr>
+<tr id="b-049467dbe237405f8463e94d44d77120">
+<td id="b-fae840c8e2e34c1e8d7f3a9056d32d1d">
+<p id="b-f1076294c7bc4eea805659e3d78c469e"></p>
+</td>
+<td id="b-89010dc8cb734fce931cb84ef849694e">
+<p id="b-f256308ae2734f1a847f7ea862b9950c"></p>
+</td>
+<td id="b-7b52b7241a534fe782853b4866eb5c88">
+<p id="b-21ce55cf67a84b6aae05442d015b968a" style="text-align:center">广告用语用字</p>
+</td>
+<td id="b-3fee44a7736c4347922d824dbe218a31">
+<p id="b-ca75712428ab427c810b57612871425b">1、广告用语用字应当使用普通话和规范汉字，用语清晰准确，用字规范标准；</p>
+<p id="b-e071549f368b4932b2d0461798770912">2、广告用语用字，不得出现错别字、违反国家法律法规规定使用的繁体字、已废止的异体字和简化字及印刷字形、其他不规范使用的语言文字；</p>
+<p id="b-02f2de186b4e40b2941fbe9f22b765bc">3、广告中数字、标点符号的用法和计量单位等，应当符合国家标准和有关规定；</p>
+<p id="b-85413ab03b974b66893dc4fe2169dab5">4、广告中不得单独使用外国语言文字，如因特殊需要配合使用外国语言文字时，应当采用以普通话和规范汉字为主、外国语言文字为辅的形式。广告中的外国语言文字所表达的意思，与中文意思不一致的，以中文意思为准；</p>
+<p id="b-731efc146560434a8c4be50124ad87c7">5、广告用语用字（成语、手书字、美术字）应当符合国家有关规定，易于辨识，不得引起误导，对社会造成不良影响。</p>
+</td>
+<td id="b-1c02c5a2888046038751a0f8334e6e50">
+<p id="b-18bb430a7d624d29a5faebb5b8e402a4"></p>
+</td>
+<td id="b-33ddfb28699f48cfb00196ab7d709bfe">
+<p id="b-40b23c3b807f4ca28f23d4f32a3add70"></p>
+</td>
+<td id="b-09f80d67195a4676a50daf84e23fcb9a">
+<p id="b-c0d9507ffa0f441dbec92a3d7046fe7c"></p>
+</td>
+</tr>
+<tr id="b-ba0a43e1d0dd434a896dd4a3e697768f">
+<td id="b-f15d445dd511497982f302c196aa8789">
+<p id="b-0414db75857748a4bbb0ad3a10c5c4e0"></p>
+</td>
+<td id="b-1a9a46c1296448cd9a8cc2fd17cd322d">
+<p id="b-c45172585d64470590730d6954986657"></p>
+</td>
+<td id="b-1cdb788ab54045b89dc08551be69b26f">
+<p id="b-6bfc37e7d39b41ab80f30448490e4020" style="text-align:center">外文翻译</p>
+</td>
+<td id="b-f3985400de90447ea45bda8bacb75543">
+<p id="b-833dd378f2a44208afa220d324263577">1、若视频使用外文歌曲，需在视频或者内容正文中标明外文歌曲名称；</p>
+<p id="b-3250f44015794fa194b4cb1d2e754cad">2、若视频中口播/旁白内容全部为外语，需增加对应中文字幕翻译；</p>
+<p id="b-64d0319fd11b40a5b6cdecc8696c9703">3、若视频中的口播/旁白中，或视频人物使用的语言中，部分为英语（其余为中文普通话）：</p>
+<p id="b-9d17e9fd8c7249d48967aa0a0d6b70a6">（1）若英文口播/旁白若与其推广的产品/服务无关，出现的英语部分无需翻译成中文，如：hi guys、hello everyone、oh my god、it’s a nice day等。</p>
+<p id="b-a5848570997148229c38bddd897fe78d">（2）若英文口播/旁白与其推广的产品/服务相关，则需增加对应中文字幕翻译，如：只要用了这盘高光，I’m the party queen tonight ！</p>
+<p id="b-f3490bfa13bb4dab850e42c2114938e3">4、歌曲/口播/旁白若涉及中国少数民族语言（如藏语、维语等）或涉及与普通话差别较大、非方言区居民无法理解的方言（如粤语、闽南语、客家话等），涉及歌曲需在视频或内容正文中标明歌曲名称，涉及口播/旁白需增加对应的普通话字幕翻译。</p>
+</td>
+<td id="b-5895b9ed7b934c6087c8655ed7f4d4ef">
+<p id="b-0338fd61fabe4eeaa51764e197858384"></p>
+</td>
+<td id="b-b552c0c25ed045faaf607884abddc851">
+<p id="b-c0fff9ed651b4cc98ce226ea5ae7a848"></p>
+</td>
+<td id="b-62469824b4aa49fba8f9112367932967">
+<p id="b-e2c293c37f0746c69b7aec388564d74a"></p>
+</td>
+</tr>
+<tr id="b-d3b65efd3ef7490ca444c834ab6c186f">
+<td id="b-8d4ee81b9349411f9eff0fb02d302695">
+<p id="b-7d71dcc932a24b03a73fea5a93d2ed08"></p>
+</td>
+<td rowspan="2" id="b-d34450efe57f42dea757207685e39116" style="background-color:#EDFAF4">
+<h3 id="b-39daf521589e476da3f0640a31a2c676">缺少风险提示语</h3>
+</td>
+<td rowspan="2" id="b-76dbf01c90e747db85cd99405ad150b5">
+<p id="b-6dc88a8bda964760916f56c644ee64e8">缺少风险提示语</p>
+</td>
+<td id="b-1ac0494797234da5b202f51f0bbfe214">
+<p id="b-4b9fc07b2c2945939580394b8183ae6c"></p>
+</td>
+<td id="b-7c9141f639394669ac48b627178b90f3">
+<p id="b-ff92c48d751549b8a03a0fb21e7963e7" style="text-align:center">酒</p>
+</td>
+<td id="b-5c477ae3d06d49f39d72d122d2c89dce">
+<p id="b-9d3caaea2a99455295897243a97c26db"><span style="font-size:14px">不得出现以下内容：</span></p>
+<ol id="b-75c01effed6245cfa22b9c36fd06b32e">
+<li id="b-784782106a944b419976b76d7eb8e1d1"><span><span style="font-size:14px">鼓动、倡导、引诱人们饮酒或者宣传无节制饮酒；</span></span></li>
+<li id="b-5ac41e41af2c4709aa5832f498a96df9"><span><span style="font-size:14px">饮酒的动作；</span></span></li>
+<li id="b-4ee55220c6154d47af3dad9882861732"><span><span style="font-size:14px">未成年人的形象；</span></span></li>
+<li id="b-94142e864f9042c5a1f12133dc94e059"><span><span style="font-size:14px">表现驾驶车、船、飞机等具有潜在危险的活动；</span></span></li>
+<li id="b-cc128b8d53064a79b338c39ec4620e82"><span><span style="font-size:14px">诸如可以“消除紧张和焦虑”、“增加体力”等不科学的明示或者暗示；</span></span></li>
+<li id="b-8c433eab240d484f942610ec6a5d2226"><span><span style="font-size:14px">把个人、商业、社会、体育、性生活或者其他方面的成功归因于饮酒的明示或者暗示；</span></span></li>
+<li id="b-df4db21419fa4166b8fe5d9260554ba3"><span><span style="font-size:14px">不符合社会主义精神文明建设的要求，违背社会良好风尚和不科学、不真实的其他内容。</span></span></li>
+</ol>
+</td>
+<td id="b-128fbe16e7ef4ef4aa8c8d7eba86788a">
+<p id="b-1436bfe6c8504703a8d66c746b22d564"></p>
+</td>
+<td id="b-1c9c495bb699446892d46b70615d0d6a">
+<p id="b-373d05cc2ac0432e9695e8c249c137c3"><img src="https://km.sankuai.com/api/file/cdn/1627288283/36460629966?contentType=1&amp;isNewContent=false" width="273" height="186" id="b-cbd3e0d511c34fb2a947a7f93d02922f" alt="image.png"></p>
+</td>
+<td id="b-c5d16f8af99443ec93240725fc9fcdb5">
+<p id="b-f32b30b156324e7cbd54dd99f9af8b0b"><img src="https://km.sankuai.com/api/file/cdn/1627288283/36457634324?contentType=1&amp;isNewContent=false" width="318" height="192" id="b-def9798fa61a4bf7b402b09dec3746f1" alt="image.png"></p>
+</td>
+</tr>
+<tr id="b-05f7c62e5e9645498fd07e9d97b70f46">
+<td id="b-87da2c2d260243beacab4aa47c8c4600">
+<p id="b-248f68da00c84ddab970fb8d57f5bb96"></p>
+</td>
+<td id="b-69ddc3f051cc42768ef033c830a19af1">
+<p id="b-4a6dd92b05f6441eaf980d9ee791240b"></p>
+</td>
+<td id="b-86e4f1d1a47f4321907ac0dd05a6c3d2" style="vertical-align:top">
+<p id="b-332acc6fd2414c2ea07df1aa13b32a4b" style="text-align:center">金融类</p>
+</td>
+<td id="b-0d68974dee804fe48b1d89d6218cfa5d">
+<p id="b-b2bc04179afe49d490df9b683d01179f"><span style="font-size:14px">1.不得含有下列内容：</span></p>
+<p id="b-7366f7fbd2774c36a00c9e3761e55484"><span style="font-size:14px">（1）对该融资活动收益前景的评论和建议，或比照其他证券和投资的收益； </span></p>
+<p id="b-a0b2df1ce4d945cea782c48f1aa2dc3a"><span style="font-size:14px">（2）说明或暗示任何付还本金或应支付的任何利息是有保证的； </span></p>
+<p id="b-6aed8227975743e49b3819d29bf66970"><span style="font-size:14px">（3）对未来效果、收益作出承诺，明示、暗示保本、无风险或者保收益等； </span></p>
+<p id="b-5c995dc803394e84bc015c0af2164913"><span style="font-size:14px">（4）</span><span><span style="font-size:14px">招商等有投资回报预期的商品或者服务、教育、培训广告不得利用科研单位、学术机构、教育机构、行业协会、专业人士、受益者的名义或者形象作推荐、证明；</span></span></p>
+<p id="b-5facb9fcc09d45d1a82fe0253aec44e8"><span style="font-size:14px">（5）不可出现”0利息”,”分期”,”担保”,”0首付“等文字；</span></p>
+<p id="b-37f15a1dcdfe4e29988ebd1c039cf2c0"><span style="font-size:14px">2.</span><span style="color:rgba(0, 0, 0, 0.87)"><span style="font-size:14px">信用卡广告不得涉及承诺信用额度；</span></span></p>
+<p id="b-17acc0700acc472e9757d81b3a557584"><span style="color:rgba(0, 0, 0, 0.87)"><span style="font-size:14px">3.</span></span><span><span style="font-size:14px">投资理财类广告中需有明显风险提示语“理财有风险，投资需谨慎”；</span></span></p>
+</td>
+<td id="b-f10cb6cf78854472b575e512bc3a7204">
+<p id="b-ad5f655b12b24f7db93eaddbfc95cafa"></p>
+</td>
+<td id="b-cfa725e9afb3402784e938fe3d1affb5">
+<p id="b-8be2cf7c474247b8bbfd3371fc3ae2e0"></p>
+</td>
+<td id="b-87542fa559da43c297c5d68ac946d9d9">
+<p id="b-ead7bf2c18e24cc38791825da31eb537"></p>
+</td>
+</tr>
+<tr id="b-00d56d605cbf454abf2c8c8626eb4df6">
+<td id="b-816b8d09401b4ba5934065e474ae8bb7">
+<p id="b-40ae26383c7a4577a337943beb3365d0"></p>
+</td>
+<td rowspan="2" id="b-48c98d5e191344149304d5a2c1c98953" style="background-color:#E8EDFF">
+<h3 id="b-c2c227ac2fbe4d5f8b7913cc63e2ba70">违法代言</h3>
+</td>
+<td rowspan="2" id="b-c8d78071e2b5454d9c57788ff2ecbaad">
+<p id="b-d78c4a95f5a14e1c9c0e33c5f0efa666">违法代言</p>
+</td>
+<td id="b-c07c22b252c14d09bab2e868222ffc38">
+<p id="b-1235a8a23a3549a2a9a80dae3616c35e"></p>
+</td>
+<td id="b-b08d6e40bbf24be2a88d4bc4561564cb" style="vertical-align:top">
+<p id="b-c840f5babd8748d0967e1b6408ec5d05" style="text-align:center"></p>
+</td>
+<td id="b-385b06db9e124929abde0863b67f15b3">
+<p id="b-8274cb6988c540b88fd18accc176dd12"></p>
+</td>
+<td id="b-39c70e4a8e2a401795ffc4cb74647622">
+<p id="b-e0fc3cb984714fee982e7ab7ad67107f"></p>
+</td>
+<td id="b-032aa57348d04558b234a28e5b92c934">
+<p id="b-51413cd3b94948b9915938cb473c7af5"></p>
+</td>
+<td id="b-a6b584cabf454df5be30315c525758aa">
+<p id="b-3f162b329fdc4287bd822d3ecab4b078"></p>
+</td>
+</tr>
+<tr id="b-408b3bdf26714d39be21374d44e9a43e">
+<td id="b-7c370c53dde14841b1c9640a3c7458b6">
+<p id="b-4e2f69bb90044a67b9fedef470656ae7"></p>
+</td>
+<td id="b-4edfcc0d91344118a37bd7e07a46dc2c">
+<p id="b-d57fbc53c7e644febac5948204c5bd1b"></p>
+</td>
+<td id="b-5b0e9eea34e0433a9e9a549756effc99" style="vertical-align:top">
+<p id="b-97e9a5a2282b4be99cd141bd5077ae2e" style="text-align:center"></p>
+</td>
+<td id="b-d57b7b88fae24d1192a991a465b467cf">
+<p id="b-d6490bf0ec0d4216afa1588a8449f6ce"></p>
+</td>
+<td id="b-c4bcaaa6606b4ca49ef88ac34ef5d13b">
+<p id="b-368d7a52a4fa4b8aa7ff8f15edc9bc5a"></p>
+</td>
+<td id="b-99e121c76b4f430cb44a79d375110395">
+<p id="b-c7ada4cb9b664f398af4e88eb904de77"></p>
+</td>
+<td id="b-cc3b0d16010240a88c57a154571d552a">
+<p id="b-ce2699de9f3d43b2a4e1afe186feff14"></p>
+</td>
+</tr>
+<tr id="b-9a8e517d9d91444287197eb386ccb16e">
+<td id="b-9eb70f2273d6466ea80bad4c01fcd485">
+<p id="b-9629da8c71ca48b29bb5a77469180623"></p>
+</td>
+<td rowspan="2" id="b-32193b5771494562a90620b6a4d5c54b" style="background-color:#FFF6E0">
+<h3 id="b-8a17f5cd39254662be16a656bbda2214">侵犯未成年人权益</h3>
+</td>
+<td rowspan="2" id="b-40edb5316b8743a9a0bd895c33ab7d32">
+<p id="b-c1590b4c071344ccb70d630e52b3f9e3">侵犯未成年人权益</p>
+</td>
+<td id="b-3d2a74daec054545be8e6ea28531591f">
+<p id="b-12923d1512534a8fb546487da0abcfd1"></p>
+</td>
+<td id="b-d28eeae7fe0f41d08c17123a49633433" style="vertical-align:top">
+<p id="b-be0799e5849340e4924d6c73796f88eb" style="text-align:center"></p>
+</td>
+<td id="b-5ff461544e8a4002aad758279670fb07">
+<p id="b-2c9457b53b4b4c17a00cf2c668424241"></p>
+</td>
+<td id="b-4865cb33cace41b0a9080ae2fedbce76">
+<p id="b-8ad8018973c8475ab589b928eec915e4"></p>
+</td>
+<td id="b-faac4f49c24848b993431928308a3caf">
+<p id="b-8ccdbafec6cc447e8470be5ad5f175f2"></p>
+</td>
+<td id="b-09bd66735a7e40218ed05e8218742a65">
+<p id="b-f4742cfb66d54e3fb39d4edc86695867"></p>
+</td>
+</tr>
+<tr id="b-9cdb8eba04024b15ba37c10c0a12d653">
+<td id="b-c33d0e3346e247849aa3e2f5d8b934bc">
+<p id="b-e3dc787c77db4685923d27450359464f"></p>
+</td>
+<td id="b-b8357cab7f79449f959c0b68b5919f9a">
+<p id="b-4500bf41071743e2a3f6a9e3fc6d7cea"></p>
+</td>
+<td id="b-ee4e4dd1c4e9428a91da6cfb919aaf49" style="vertical-align:top">
+<p id="b-d3ca53d44b9348eeb974ea761f50207c" style="text-align:center"></p>
+</td>
+<td id="b-5213e255a60b44f28e934decbc08cf44">
+<p id="b-8af81670444f40d8868bff6b57d69b1c"></p>
+</td>
+<td id="b-82dc1f798f0144e891fe3cc722f52d39">
+<p id="b-11dc46fe55e34f43b982df3255ad27f6"></p>
+</td>
+<td id="b-aac6ffd229744062ac108fb385bf287a">
+<p id="b-d95c94c6a2034ec9ae8176922d9d82bb"></p>
+</td>
+<td id="b-ebabb2e3a0b441079f5b65f10a3cbf6b">
+<p id="b-1b1ade02508a43059cd0d1ea50dc6b81"></p>
+</td>
+</tr>
+</table>
+</div>

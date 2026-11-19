@@ -1,0 +1,1325 @@
+{
+  "source": "https://km.sankuai.com/collabpage/1637005052#b-921650b1a29b4bd2bd2f815014f77623",
+  "scope": "root_and_direct_links",
+  "date": "2026-11-19",
+  "permissions_requested": false,
+  "documents": [
+    {
+      "id": "1637005052",
+      "title": "05-标准汇总表 V3.0",
+      "url": "https://km.sankuai.com/collabpage/1637005052#b-921650b1a29b4bd2bd2f815014f77623",
+      "status": "saved",
+      "format": "2.0",
+      "relationship": "root",
+      "saved_date": "2026-11-19"
+    },
+    {
+      "id": "1527805496",
+      "title": "学城文档 1527805496（标题未读取）",
+      "url": "https://km.sankuai.com/collabpage/1527805496?from=citadel_collabpage",
+      "status": "restricted_environment",
+      "relationship": "direct_link",
+      "reason": "当前内容含高密文档，需在安全屋环境中访问",
+      "saved_date": "2026-11-19"
+    },
+    {
+      "id": "1664494579",
+      "title": "现行标准适用TYPE索引",
+      "url": "https://km.sankuai.com/collabpage/1664494579?from=citadel_space_tree",
+      "status": "saved",
+      "relationship": "direct_link",
+      "format": "2.0",
+      "deleted": false,
+      "saved_date": "2026-11-19"
+    },
+    {
+      "id": "1624802712",
+      "title": "一号审核标准",
+      "url": "https://km.sankuai.com/collabpage/1624802712",
+      "status": "saved",
+      "relationship": "direct_link",
+      "format": "2.0",
+      "deleted": false,
+      "saved_date": "2026-11-19"
+    },
+    {
+      "id": "1667755862",
+      "title": "A类 | 通用标准适用任务流",
+      "url": "https://km.sankuai.com/collabpage/1667755862",
+      "status": "saved",
+      "relationship": "direct_link",
+      "format": "2.0",
+      "deleted": false,
+      "saved_date": "2026-11-19"
+    },
+    {
+      "id": "1625179508",
+      "title": "重要人物审核标准",
+      "url": "https://km.sankuai.com/collabpage/1625179508",
+      "status": "saved",
+      "relationship": "direct_link",
+      "format": "2.0",
+      "deleted": false,
+      "saved_date": "2026-11-19"
+    },
+    {
+      "id": "1229067305",
+      "title": "POI名称涉领导人敏感词处置流程",
+      "url": "https://km.sankuai.com/page/1229067305",
+      "status": "saved",
+      "relationship": "direct_link",
+      "format": "1.0",
+      "deleted": false,
+      "saved_date": "2026-11-19"
+    },
+    {
+      "id": "1625441222",
+      "title": "国家实体形象审核标准",
+      "url": "https://km.sankuai.com/collabpage/1625441222",
+      "status": "saved",
+      "relationship": "direct_link",
+      "format": "2.0",
+      "deleted": false,
+      "saved_date": "2026-11-19"
+    },
+    {
+      "id": "1200479693",
+      "title": "涉政poi审核标准",
+      "url": "https://km.sankuai.com/page/1200479693",
+      "status": "no_permission",
+      "relationship": "direct_link",
+      "reason": "学城接口明确返回当前账号无阅读权限",
+      "saved_date": "2026-11-19"
+    },
+    {
+      "id": "1668032171",
+      "title": "B类 | 业务+业态独立标准适用任务流",
+      "url": "https://km.sankuai.com/collabpage/1668032171",
+      "status": "saved",
+      "relationship": "direct_link",
+      "format": "2.0",
+      "deleted": false,
+      "saved_date": "2026-11-19"
+    },
+    {
+      "id": "1625830379",
+      "title": "涉政言论审核标准",
+      "url": "https://km.sankuai.com/collabpage/1625830379",
+      "status": "saved",
+      "relationship": "direct_link",
+      "format": "2.0",
+      "deleted": false,
+      "saved_date": "2026-11-19"
+    },
+    {
+      "id": "1625262121",
+      "title": "历史虚无主义审核标准",
+      "url": "https://km.sankuai.com/collabpage/1625262121",
+      "status": "saved",
+      "relationship": "direct_link",
+      "format": "2.0",
+      "deleted": false,
+      "saved_date": "2026-11-19"
+    },
+    {
+      "id": "1625559625",
+      "title": "反动分裂审核标准",
+      "url": "https://km.sankuai.com/collabpage/1625559625",
+      "status": "saved",
+      "relationship": "direct_link",
+      "format": "2.0",
+      "deleted": false,
+      "saved_date": "2026-11-19"
+    },
+    {
+      "id": "227441053",
+      "title": "【涉港独专题】",
+      "url": "https://km.sankuai.com/page/227441053",
+      "status": "no_permission",
+      "relationship": "direct_link",
+      "reason": "学城接口明确返回当前账号无阅读权限",
+      "saved_date": "2026-11-19"
+    },
+    {
+      "id": "1348371312",
+      "title": "涉政营销专项标准（持续迭代中）",
+      "url": "https://km.sankuai.com/collabpage/1348371312",
+      "status": "saved",
+      "relationship": "direct_link",
+      "format": "2.0",
+      "deleted": false,
+      "saved_date": "2026-11-19"
+    },
+    {
+      "id": "1625845476",
+      "title": "社会事件审核标准",
+      "url": "https://km.sankuai.com/collabpage/1625845476",
+      "status": "saved",
+      "relationship": "direct_link",
+      "format": "2.0",
+      "deleted": false,
+      "saved_date": "2026-11-19"
+    },
+    {
+      "id": "1069806961",
+      "title": "推荐菜价格审核标准",
+      "url": "https://km.sankuai.com/page/1069806961",
+      "status": "no_permission",
+      "relationship": "direct_link",
+      "reason": "学城接口明确返回当前账号无阅读权限",
+      "saved_date": "2026-11-19"
+    },
+    {
+      "id": "1625624952",
+      "title": "民族宗教违规审核标准",
+      "url": "https://km.sankuai.com/collabpage/1625624952",
+      "status": "saved",
+      "relationship": "direct_link",
+      "format": "2.0",
+      "deleted": false,
+      "saved_date": "2026-11-19"
+    },
+    {
+      "id": "1625921575",
+      "title": "邪教迷信审核标准",
+      "url": "https://km.sankuai.com/collabpage/1625921575",
+      "status": "saved",
+      "relationship": "direct_link",
+      "format": "2.0",
+      "deleted": false,
+      "saved_date": "2026-11-19"
+    },
+    {
+      "id": "645660874",
+      "title": "用户昵称标准",
+      "url": "https://km.sankuai.com/page/645660874",
+      "status": "saved",
+      "relationship": "direct_link",
+      "format": "2.0",
+      "deleted": false,
+      "saved_date": "2026-11-19"
+    },
+    {
+      "id": "447399954",
+      "title": "用户昵称",
+      "url": "https://km.sankuai.com/page/447399954",
+      "status": "no_permission",
+      "relationship": "direct_link",
+      "reason": "学城接口明确返回当前账号无阅读权限",
+      "saved_date": "2026-11-19"
+    },
+    {
+      "id": "1625309615",
+      "title": "暴恐极端审核标准",
+      "url": "https://km.sankuai.com/collabpage/1625309615",
+      "status": "saved",
+      "relationship": "direct_link",
+      "format": "2.0",
+      "deleted": false,
+      "saved_date": "2026-11-19"
+    },
+    {
+      "id": "681272360",
+      "title": "骑手社区",
+      "url": "https://km.sankuai.com/page/681272360",
+      "status": "no_permission",
+      "relationship": "direct_link",
+      "reason": "学城接口明确返回当前账号无阅读权限",
+      "saved_date": "2026-11-19"
+    },
+    {
+      "id": "1625446939",
+      "title": "色情违规审核标准",
+      "url": "https://km.sankuai.com/collabpage/1625446939",
+      "status": "saved",
+      "relationship": "direct_link",
+      "format": "2.0",
+      "deleted": false,
+      "saved_date": "2026-11-19"
+    },
+    {
+      "id": "1646837733",
+      "title": "到综类目定制化标准-业务版",
+      "url": "https://km.sankuai.com/collabpage/1646837733",
+      "status": "saved",
+      "relationship": "direct_link",
+      "format": "2.0",
+      "deleted": false,
+      "saved_date": "2026-11-19"
+    },
+    {
+      "id": "1680237627",
+      "title": "到综高危类目审核标准",
+      "url": "https://km.sankuai.com/collabpage/1680237627",
+      "status": "no_permission",
+      "relationship": "direct_link",
+      "reason": "学城接口明确返回当前账号无阅读权限",
+      "saved_date": "2026-11-19"
+    },
+    {
+      "id": "1625783291",
+      "title": "未成年人违规审核标准",
+      "url": "https://km.sankuai.com/collabpage/1625783291",
+      "status": "saved",
+      "relationship": "direct_link",
+      "format": "2.0",
+      "deleted": false,
+      "saved_date": "2026-11-19"
+    },
+    {
+      "id": "1733332918",
+      "title": "违规商品和行为审核标准",
+      "url": "https://km.sankuai.com/collabpage/1733332918?from=citadel_space_tree",
+      "status": "saved",
+      "relationship": "direct_link",
+      "format": "2.0",
+      "deleted": false,
+      "saved_date": "2026-11-19"
+    },
+    {
+      "id": "1626795020",
+      "title": "资质合规审核标准",
+      "url": "https://km.sankuai.com/collabpage/1626795020",
+      "status": "no_permission",
+      "relationship": "direct_link",
+      "reason": "学城接口明确返回当前账号无阅读权限",
+      "saved_date": "2026-11-19"
+    },
+    {
+      "id": "270693398",
+      "title": "昵称",
+      "url": "https://km.sankuai.com/page/270693398",
+      "status": "no_permission",
+      "relationship": "direct_link",
+      "reason": "学城接口明确返回当前账号无阅读权限",
+      "saved_date": "2026-11-19"
+    },
+    {
+      "id": "1627285663",
+      "title": "内容侵权违规审核标准",
+      "url": "https://km.sankuai.com/collabpage/1627285663",
+      "status": "saved",
+      "relationship": "direct_link",
+      "format": "2.0",
+      "deleted": false,
+      "saved_date": "2026-11-19"
+    },
+    {
+      "id": "1627288283",
+      "title": "暂不使用-广告合规风险审核标准",
+      "url": "https://km.sankuai.com/collabpage/1627288283",
+      "status": "saved",
+      "relationship": "direct_link",
+      "format": "2.0",
+      "deleted": false,
+      "saved_date": "2026-11-19"
+    },
+    {
+      "id": "2732811577",
+      "title": "广平标准--生态+广告合规审核标准",
+      "url": "https://km.sankuai.com/collabpage/2732811577",
+      "status": "saved",
+      "relationship": "direct_link",
+      "format": "2.0",
+      "deleted": false,
+      "saved_date": "2026-11-19"
+    },
+    {
+      "id": "1221522260",
+      "title": "餐饮saas豁免标准",
+      "url": "https://km.sankuai.com/page/1221522260",
+      "status": "saved",
+      "relationship": "direct_link",
+      "format": "1.0",
+      "deleted": false,
+      "saved_date": "2026-11-19"
+    },
+    {
+      "id": "1210906933",
+      "title": "广平涉政涉黄分级标准",
+      "url": "https://km.sankuai.com/page/1210906933",
+      "status": "saved",
+      "relationship": "direct_link",
+      "format": "1.0",
+      "deleted": false,
+      "saved_date": "2026-11-19"
+    },
+    {
+      "id": "1203773217",
+      "title": "教育行业审核规范",
+      "url": "https://km.sankuai.com/page/1203773217",
+      "status": "saved",
+      "relationship": "direct_link",
+      "format": "1.0",
+      "deleted": false,
+      "saved_date": "2026-11-19"
+    },
+    {
+      "id": "1200937670",
+      "title": "医疗行业审核规范",
+      "url": "https://km.sankuai.com/page/1200937670",
+      "status": "saved",
+      "relationship": "direct_link",
+      "format": "1.0",
+      "deleted": false,
+      "saved_date": "2026-11-19"
+    },
+    {
+      "id": "1306276853",
+      "title": "广告落地标准标签映射",
+      "url": "https://km.sankuai.com/page/1306276853",
+      "status": "saved",
+      "relationship": "direct_link",
+      "format": "1.0",
+      "deleted": false,
+      "saved_date": "2026-11-19"
+    },
+    {
+      "id": "1758533467",
+      "title": "学城文档 1758533467（标题未读取）",
+      "url": "https://km.sankuai.com/collabpage/1758533467",
+      "status": "no_permission",
+      "relationship": "direct_link",
+      "reason": "学城接口明确返回当前账号无阅读权限",
+      "saved_date": "2026-11-19"
+    },
+    {
+      "id": "1626385610",
+      "title": "违禁买卖内容风险审核标准",
+      "url": "https://km.sankuai.com/collabpage/1626385610",
+      "status": "saved",
+      "relationship": "direct_link",
+      "format": "2.0",
+      "deleted": false,
+      "saved_date": "2026-11-19"
+    },
+    {
+      "id": "1148772952",
+      "title": "生活服务烟草治理",
+      "url": "https://km.sankuai.com/page/1148772952",
+      "status": "no_permission",
+      "relationship": "direct_link",
+      "reason": "学城接口明确返回当前账号无阅读权限",
+      "saved_date": "2026-11-19"
+    },
+    {
+      "id": "271275612",
+      "title": "菜品商品名",
+      "url": "https://km.sankuai.com/page/271275612",
+      "status": "no_permission",
+      "relationship": "direct_link",
+      "reason": "学城接口明确返回当前账号无阅读权限",
+      "saved_date": "2026-11-19"
+    },
+    {
+      "id": "455537357",
+      "title": "商户名",
+      "url": "https://km.sankuai.com/page/455537357",
+      "status": "no_permission",
+      "relationship": "direct_link",
+      "reason": "学城接口明确返回当前账号无阅读权限",
+      "saved_date": "2026-11-19"
+    },
+    {
+      "id": "270704960",
+      "title": "昵称",
+      "url": "https://km.sankuai.com/page/270704960",
+      "status": "no_permission",
+      "relationship": "direct_link",
+      "reason": "学城接口明确返回当前账号无阅读权限",
+      "saved_date": "2026-11-19"
+    },
+    {
+      "id": "270654786",
+      "title": "办证",
+      "url": "https://km.sankuai.com/page/270654786",
+      "status": "no_permission",
+      "relationship": "direct_link",
+      "reason": "学城接口明确返回当前账号无阅读权限",
+      "saved_date": "2026-11-19"
+    },
+    {
+      "id": "1624851807",
+      "title": "一号正面审核标准",
+      "url": "https://km.sankuai.com/collabpage/1624851807",
+      "status": "saved",
+      "relationship": "direct_link",
+      "format": "2.0",
+      "deleted": false,
+      "saved_date": "2026-11-19"
+    },
+    {
+      "id": "1678985687",
+      "title": "「团视频」高曝复审标准",
+      "url": "https://km.sankuai.com/collabpage/1678985687",
+      "status": "saved",
+      "relationship": "direct_link",
+      "format": "2.0",
+      "deleted": false,
+      "saved_date": "2026-11-19"
+    },
+    {
+      "id": "1625721500",
+      "title": "重要人物正面",
+      "url": "https://km.sankuai.com/collabpage/1625721500",
+      "status": "saved",
+      "relationship": "direct_link",
+      "format": "2.0",
+      "deleted": false,
+      "saved_date": "2026-11-19"
+    },
+    {
+      "id": "1626314236",
+      "title": "重要事业单位正面审核标准",
+      "url": "https://km.sankuai.com/collabpage/1626314236",
+      "status": "saved",
+      "relationship": "direct_link",
+      "format": "2.0",
+      "deleted": false,
+      "saved_date": "2026-11-19"
+    },
+    {
+      "id": "1626306793",
+      "title": "重要国际事件正面审核标准",
+      "url": "https://km.sankuai.com/collabpage/1626306793",
+      "status": "saved",
+      "relationship": "direct_link",
+      "format": "2.0",
+      "deleted": false,
+      "saved_date": "2026-11-19"
+    },
+    {
+      "id": "2714031307",
+      "title": "不良价值观审核标准",
+      "url": "https://km.sankuai.com/collabpage/2714031307",
+      "status": "saved",
+      "relationship": "direct_link",
+      "format": "2.0",
+      "deleted": false,
+      "saved_date": "2026-11-19"
+    },
+    {
+      "id": "2719399744",
+      "title": "软色情违规审核标准（通用）",
+      "url": "https://km.sankuai.com/collabpage/2719399744",
+      "status": "saved",
+      "relationship": "direct_link",
+      "format": "2.0",
+      "deleted": false,
+      "saved_date": "2026-11-19"
+    },
+    {
+      "id": "1284047684",
+      "title": "女仆治理标准-文字",
+      "url": "https://km.sankuai.com/page/1284047684",
+      "status": "saved",
+      "relationship": "direct_link",
+      "format": "1.0",
+      "deleted": false,
+      "saved_date": "2026-11-19"
+    },
+    {
+      "id": "1309933588",
+      "title": "高危品类榜单业务",
+      "url": "https://km.sankuai.com/page/1309933588",
+      "status": "no_permission",
+      "relationship": "direct_link",
+      "reason": "学城接口明确返回当前账号无阅读权限",
+      "saved_date": "2026-11-19"
+    },
+    {
+      "id": "1309830046",
+      "title": "榜单业务",
+      "url": "https://km.sankuai.com/page/1309830046",
+      "status": "no_permission",
+      "relationship": "direct_link",
+      "reason": "学城接口明确返回当前账号无阅读权限",
+      "saved_date": "2026-11-19"
+    },
+    {
+      "id": "270298402",
+      "title": "高危品类（性感）",
+      "url": "https://km.sankuai.com/page/270298402",
+      "status": "no_permission",
+      "relationship": "direct_link",
+      "reason": "学城接口明确返回当前账号无阅读权限",
+      "saved_date": "2026-11-19"
+    },
+    {
+      "id": "1309870243",
+      "title": "榜单业务",
+      "url": "https://km.sankuai.com/page/1309870243",
+      "status": "no_permission",
+      "relationship": "direct_link",
+      "reason": "学城接口明确返回当前账号无阅读权限",
+      "saved_date": "2026-11-19"
+    },
+    {
+      "id": "270269900",
+      "title": "酒吧、KTV、娱乐会所",
+      "url": "https://km.sankuai.com/page/270269900",
+      "status": "no_permission",
+      "relationship": "direct_link",
+      "reason": "学城接口明确返回当前账号无阅读权限",
+      "saved_date": "2026-11-19"
+    },
+    {
+      "id": "637101953",
+      "title": "医美标准",
+      "url": "https://km.sankuai.com/page/637101953",
+      "status": "no_permission",
+      "relationship": "direct_link",
+      "reason": "学城接口明确返回当前账号无阅读权限",
+      "saved_date": "2026-11-19"
+    },
+    {
+      "id": "1213018209",
+      "title": "商户名",
+      "url": "https://km.sankuai.com/page/1213018209",
+      "status": "no_permission",
+      "relationship": "direct_link",
+      "reason": "学城接口明确返回当前账号无阅读权限",
+      "saved_date": "2026-11-19"
+    },
+    {
+      "id": "532736842",
+      "title": "高危品类",
+      "url": "https://km.sankuai.com/page/532736842",
+      "status": "no_permission",
+      "relationship": "direct_link",
+      "reason": "学城接口明确返回当前账号无阅读权限",
+      "saved_date": "2026-11-19"
+    },
+    {
+      "id": "532909577",
+      "title": "点评+到店的评论业务",
+      "url": "https://km.sankuai.com/page/532909577",
+      "status": "no_permission",
+      "relationship": "direct_link",
+      "reason": "学城接口明确返回当前账号无阅读权限",
+      "saved_date": "2026-11-19"
+    },
+    {
+      "id": "548712443",
+      "title": "商户名",
+      "url": "https://km.sankuai.com/page/548712443",
+      "status": "no_permission",
+      "relationship": "direct_link",
+      "reason": "学城接口明确返回当前账号无阅读权限",
+      "saved_date": "2026-11-19"
+    },
+    {
+      "id": "532830127",
+      "title": "团单",
+      "url": "https://km.sankuai.com/page/532830127",
+      "status": "no_permission",
+      "relationship": "direct_link",
+      "reason": "学城接口明确返回当前账号无阅读权限",
+      "saved_date": "2026-11-19"
+    },
+    {
+      "id": "532907411",
+      "title": "高危品类-用户回应",
+      "url": "https://km.sankuai.com/page/532907411",
+      "status": "no_permission",
+      "relationship": "direct_link",
+      "reason": "学城接口明确返回当前账号无阅读权限",
+      "saved_date": "2026-11-19"
+    },
+    {
+      "id": "532801638",
+      "title": "零售收银数据",
+      "url": "https://km.sankuai.com/page/532801638",
+      "status": "no_permission",
+      "relationship": "direct_link",
+      "reason": "学城接口明确返回当前账号无阅读权限",
+      "saved_date": "2026-11-19"
+    },
+    {
+      "id": "532912065",
+      "title": "推荐菜",
+      "url": "https://km.sankuai.com/page/532912065",
+      "status": "no_permission",
+      "relationship": "direct_link",
+      "reason": "学城接口明确返回当前账号无阅读权限",
+      "saved_date": "2026-11-19"
+    },
+    {
+      "id": "1319397021",
+      "title": "商户名标准",
+      "url": "https://km.sankuai.com/page/1319397021",
+      "status": "no_permission",
+      "relationship": "direct_link",
+      "reason": "学城接口明确返回当前账号无阅读权限",
+      "saved_date": "2026-11-19"
+    },
+    {
+      "id": "2722967110",
+      "title": "性文化与自伤审核标准",
+      "url": "https://km.sankuai.com/collabpage/2722967110",
+      "status": "saved",
+      "relationship": "direct_link",
+      "format": "2.0",
+      "deleted": false,
+      "saved_date": "2026-11-19"
+    },
+    {
+      "id": "1626219089",
+      "title": "营销导流审核标准",
+      "url": "https://km.sankuai.com/collabpage/1626219089",
+      "status": "saved",
+      "relationship": "direct_link",
+      "format": "2.0",
+      "deleted": false,
+      "saved_date": "2026-11-19"
+    },
+    {
+      "id": "270747201",
+      "title": "高危品类",
+      "url": "https://km.sankuai.com/page/270747201",
+      "status": "no_permission",
+      "relationship": "direct_link",
+      "reason": "学城接口明确返回当前账号无阅读权限",
+      "saved_date": "2026-11-19"
+    },
+    {
+      "id": "2715173386",
+      "title": "学城文档 2715173386（标题未读取）",
+      "url": "https://km.sankuai.com/collabpage/2715173386",
+      "status": "no_permission",
+      "relationship": "direct_link",
+      "reason": "学城接口明确返回当前账号无阅读权限",
+      "saved_date": "2026-11-19"
+    },
+    {
+      "id": "1626442233",
+      "title": "虚假审核标准",
+      "url": "https://km.sankuai.com/collabpage/1626442233",
+      "status": "no_permission",
+      "relationship": "direct_link",
+      "reason": "学城接口明确返回当前账号无阅读权限",
+      "saved_date": "2026-11-19"
+    },
+    {
+      "id": "1200594341",
+      "title": "内容推荐审核标准",
+      "url": "https://km.sankuai.com/page/1200594341",
+      "status": "no_permission",
+      "relationship": "direct_link",
+      "reason": "学城接口明确返回当前账号无阅读权限",
+      "saved_date": "2026-11-19"
+    },
+    {
+      "id": "1218115668",
+      "title": "3、接入-美团feeds现有type整理",
+      "url": "https://km.sankuai.com/page/1218115668",
+      "status": "saved",
+      "relationship": "direct_link",
+      "format": "2.0",
+      "deleted": false,
+      "saved_date": "2026-11-19"
+    },
+    {
+      "id": "1985937886",
+      "title": "平台保护审核标准",
+      "url": "https://km.sankuai.com/collabpage/1985937886",
+      "status": "saved",
+      "relationship": "direct_link",
+      "format": "2.0",
+      "deleted": false,
+      "saved_date": "2026-11-19"
+    },
+    {
+      "id": "1627666362",
+      "title": "流量造假审核标准",
+      "url": "https://km.sankuai.com/collabpage/1627666362?from=citadel_collabpage",
+      "status": "saved",
+      "relationship": "direct_link",
+      "format": "2.0",
+      "deleted": false,
+      "saved_date": "2026-11-19"
+    },
+    {
+      "id": "270443918",
+      "title": "美团外卖",
+      "url": "https://km.sankuai.com/page/270443918",
+      "status": "no_permission",
+      "relationship": "direct_link",
+      "reason": "学城接口明确返回当前账号无阅读权限",
+      "saved_date": "2026-11-19"
+    },
+    {
+      "id": "1627767469",
+      "title": "内容低质审核标准",
+      "url": "https://km.sankuai.com/collabpage/1627767469",
+      "status": "saved",
+      "relationship": "direct_link",
+      "format": "2.0",
+      "deleted": false,
+      "saved_date": "2026-11-19"
+    },
+    {
+      "id": "313559681",
+      "title": "点评业务",
+      "url": "https://km.sankuai.com/page/313559681",
+      "status": "no_permission",
+      "relationship": "direct_link",
+      "reason": "学城接口明确返回当前账号无阅读权限",
+      "saved_date": "2026-11-19"
+    },
+    {
+      "id": "2746422590",
+      "title": "AI生成审核标准",
+      "url": "https://km.sankuai.com/collabpage/2746422590",
+      "status": "saved",
+      "relationship": "direct_link",
+      "format": "2.0",
+      "deleted": false,
+      "saved_date": "2026-11-19"
+    },
+    {
+      "id": "2732771854",
+      "title": "生态标准-通用审核标准",
+      "url": "https://km.sankuai.com/collabpage/2732771854",
+      "status": "saved",
+      "relationship": "direct_link",
+      "format": "2.0",
+      "deleted": false,
+      "saved_date": "2026-11-19"
+    },
+    {
+      "id": "1200574894",
+      "title": "到家商品审核标准",
+      "url": "https://km.sankuai.com/page/1200574894",
+      "status": "no_permission",
+      "relationship": "direct_link",
+      "reason": "学城接口明确返回当前账号无阅读权限",
+      "saved_date": "2026-11-19"
+    },
+    {
+      "id": "1673989461",
+      "title": "C类 | 业态标准适用任务流",
+      "url": "https://km.sankuai.com/collabpage/1673989461",
+      "status": "saved",
+      "relationship": "direct_link",
+      "format": "2.0",
+      "deleted": false,
+      "saved_date": "2026-11-19"
+    },
+    {
+      "id": "1294713871",
+      "title": "买菜商品审核标准",
+      "url": "https://km.sankuai.com/page/1294713871",
+      "status": "no_permission",
+      "relationship": "direct_link",
+      "reason": "学城接口明确返回当前账号无阅读权限",
+      "saved_date": "2026-11-19"
+    },
+    {
+      "id": "1301966708",
+      "title": "商品合规标准",
+      "url": "https://km.sankuai.com/page/1301966708",
+      "status": "saved",
+      "relationship": "direct_link",
+      "format": "1.0",
+      "deleted": false,
+      "saved_date": "2026-11-19"
+    },
+    {
+      "id": "1297234982",
+      "title": "团好货审核标准",
+      "url": "https://km.sankuai.com/page/1297234982",
+      "status": "no_permission",
+      "relationship": "direct_link",
+      "reason": "学城接口明确返回当前账号无阅读权限",
+      "saved_date": "2026-11-19"
+    },
+    {
+      "id": "1200534995",
+      "title": "优选商品审核标准",
+      "url": "https://km.sankuai.com/page/1200534995",
+      "status": "no_permission",
+      "relationship": "direct_link",
+      "reason": "学城接口明确返回当前账号无阅读权限",
+      "saved_date": "2026-11-19"
+    },
+    {
+      "id": "1900795097",
+      "title": "学城文档 1900795097（标题未读取）",
+      "url": "https://km.sankuai.com/collabpage/1900795097#id-%EF%BC%88%E4%B8%80%EF%BC%89%E4%BD%8E%E8%B4%A8%E7%9B%B4%E6%92%AD%E7%9B%B8%E5%85%B3",
+      "status": "restricted_environment",
+      "relationship": "direct_link",
+      "reason": "当前内容含高密文档，需在安全屋环境中访问",
+      "saved_date": "2026-11-19"
+    },
+    {
+      "id": "1315508186",
+      "title": "到综医美业务标准",
+      "url": "https://km.sankuai.com/page/1315508186",
+      "status": "no_permission",
+      "relationship": "direct_link",
+      "reason": "学城接口明确返回当前账号无阅读权限",
+      "saved_date": "2026-11-19"
+    },
+    {
+      "id": "1964067884",
+      "title": "美团直播规则通用V3版本-封面",
+      "url": "https://km.sankuai.com/collabpage/1964067884",
+      "status": "saved",
+      "relationship": "direct_link",
+      "format": "2.0",
+      "deleted": false,
+      "saved_date": "2026-11-19"
+    },
+    {
+      "id": "1315429710",
+      "title": "直播标准-美团优选",
+      "url": "https://km.sankuai.com/page/1315429710",
+      "status": "no_permission",
+      "relationship": "direct_link",
+      "reason": "学城接口明确返回当前账号无阅读权限",
+      "saved_date": "2026-11-19"
+    },
+    {
+      "id": "2717987808",
+      "title": "美团直播规则通用V3版本-评论",
+      "url": "https://km.sankuai.com/collabpage/2717987808",
+      "status": "saved",
+      "relationship": "direct_link",
+      "format": "2.0",
+      "deleted": false,
+      "saved_date": "2026-11-19"
+    },
+    {
+      "id": "1315542100",
+      "title": "优选业务封面&标题特殊标准",
+      "url": "https://km.sankuai.com/page/1315542100",
+      "status": "no_permission",
+      "relationship": "direct_link",
+      "reason": "学城接口明确返回当前账号无阅读权限",
+      "saved_date": "2026-11-19"
+    },
+    {
+      "id": "2708605652",
+      "title": "学城文档 2708605652（标题未读取）",
+      "url": "https://km.sankuai.com/collabpage/2708605652",
+      "status": "no_permission",
+      "relationship": "direct_link",
+      "reason": "学城接口明确返回当前账号无阅读权限",
+      "saved_date": "2026-11-19"
+    },
+    {
+      "id": "2771303884",
+      "title": "违禁短剧审核标准",
+      "url": "https://km.sankuai.com/collabpage/2771303884",
+      "status": "saved",
+      "relationship": "direct_link",
+      "format": "2.0",
+      "deleted": false,
+      "saved_date": "2026-11-19"
+    },
+    {
+      "id": "2726934609",
+      "title": "团视频交易图文低质审核标准",
+      "url": "https://km.sankuai.com/collabpage/2726934609",
+      "status": "saved",
+      "relationship": "direct_link",
+      "format": "2.0",
+      "deleted": false,
+      "saved_date": "2026-11-19"
+    },
+    {
+      "id": "1315899461",
+      "title": "用户审核标准",
+      "url": "https://km.sankuai.com/page/1315899461",
+      "status": "no_permission",
+      "relationship": "direct_link",
+      "reason": "学城接口明确返回当前账号无阅读权限",
+      "saved_date": "2026-11-19"
+    },
+    {
+      "id": "1316020972",
+      "title": "商户审核标准",
+      "url": "https://km.sankuai.com/page/1316020972",
+      "status": "no_permission",
+      "relationship": "direct_link",
+      "reason": "学城接口明确返回当前账号无阅读权限",
+      "saved_date": "2026-11-19"
+    },
+    {
+      "id": "1065027299",
+      "title": "用户违规具体标准",
+      "url": "https://km.sankuai.com/page/1065027299",
+      "status": "saved",
+      "relationship": "direct_link",
+      "format": "1.0",
+      "deleted": false,
+      "saved_date": "2026-11-19"
+    },
+    {
+      "id": "1383511721",
+      "title": "招嫖用户标准",
+      "url": "https://km.sankuai.com/collabpage/1383511721",
+      "status": "saved",
+      "relationship": "direct_link",
+      "format": "2.0",
+      "deleted": false,
+      "saved_date": "2026-11-19"
+    },
+    {
+      "id": "1406727810",
+      "title": "招嫖用户回扫补充标准",
+      "url": "https://km.sankuai.com/collabpage/1406727810",
+      "status": "saved",
+      "relationship": "direct_link",
+      "format": "2.0",
+      "deleted": false,
+      "saved_date": "2026-11-19"
+    },
+    {
+      "id": "1214312557",
+      "title": "用户昵称标准",
+      "url": "https://km.sankuai.com/page/1214312557",
+      "status": "saved",
+      "relationship": "direct_link",
+      "format": "1.0",
+      "deleted": false,
+      "saved_date": "2026-11-19"
+    },
+    {
+      "id": "1229198252",
+      "title": "IM标准",
+      "url": "https://km.sankuai.com/page/1229198252",
+      "status": "saved",
+      "relationship": "direct_link",
+      "format": "1.0",
+      "deleted": false,
+      "saved_date": "2026-11-19"
+    },
+    {
+      "id": "1293537692",
+      "title": "1）交互类组合审核标准",
+      "url": "https://km.sankuai.com/page/1293537692",
+      "status": "no_permission",
+      "relationship": "direct_link",
+      "reason": "学城接口明确返回当前账号无阅读权限",
+      "saved_date": "2026-11-19"
+    },
+    {
+      "id": "1222921548",
+      "title": "标星词使用标准",
+      "url": "https://km.sankuai.com/page/1222921548",
+      "status": "saved",
+      "relationship": "direct_link",
+      "format": "1.0",
+      "deleted": false,
+      "saved_date": "2026-11-19"
+    },
+    {
+      "id": "1221479927",
+      "title": "骑手社区星标辱骂处置分级标准",
+      "url": "https://km.sankuai.com/page/1221479927",
+      "status": "no_permission",
+      "relationship": "direct_link",
+      "reason": "学城接口明确返回当前账号无阅读权限",
+      "saved_date": "2026-11-19"
+    },
+    {
+      "id": "1317609823",
+      "title": "年中敏感节点-拦截图片标准",
+      "url": "https://km.sankuai.com/page/1317609823",
+      "status": "saved",
+      "relationship": "direct_link",
+      "format": "1.0",
+      "deleted": false,
+      "saved_date": "2026-11-19"
+    },
+    {
+      "id": "1248178078",
+      "title": "003 冬（残）奥会线上内安标准",
+      "url": "https://km.sankuai.com/page/1248178078",
+      "status": "saved",
+      "relationship": "direct_link",
+      "format": "1.0",
+      "deleted": false,
+      "saved_date": "2026-11-19"
+    },
+    {
+      "id": "1285166107",
+      "title": "2022全国两会标准",
+      "url": "https://km.sankuai.com/page/1285166107",
+      "status": "saved",
+      "relationship": "direct_link",
+      "format": "1.0",
+      "deleted": false,
+      "saved_date": "2026-11-19"
+    },
+    {
+      "id": "1212297337",
+      "title": "十九届六中全会防控标准",
+      "url": "https://km.sankuai.com/page/1212297337",
+      "status": "saved",
+      "relationship": "direct_link",
+      "format": "1.0",
+      "deleted": false,
+      "saved_date": "2026-11-19"
+    },
+    {
+      "id": "1307956682",
+      "title": "BJWXB通知2022年4月25日拆解",
+      "url": "https://km.sankuai.com/page/1307956682",
+      "status": "no_permission",
+      "relationship": "direct_link",
+      "reason": "学城接口明确返回当前账号无阅读权限",
+      "saved_date": "2026-11-19"
+    },
+    {
+      "id": "1272733192",
+      "title": "反垄断标准",
+      "url": "https://km.sankuai.com/page/1272733192",
+      "status": "no_permission",
+      "relationship": "direct_link",
+      "reason": "学城接口明确返回当前账号无阅读权限",
+      "saved_date": "2026-11-19"
+    },
+    {
+      "id": "1316145522",
+      "title": "0518落地标准",
+      "url": "https://km.sankuai.com/page/1316145522",
+      "status": "no_permission",
+      "relationship": "direct_link",
+      "reason": "学城接口明确返回当前账号无阅读权限",
+      "saved_date": "2026-11-19"
+    },
+    {
+      "id": "1221263259",
+      "title": "691基地相关管控标准",
+      "url": "https://km.sankuai.com/page/1221263259",
+      "status": "no_permission",
+      "relationship": "direct_link",
+      "reason": "学城接口明确返回当前账号无阅读权限",
+      "saved_date": "2026-11-19"
+    },
+    {
+      "id": "1280562724",
+      "title": "丑化乡村生活、抹黑乡村振兴内容打击标准",
+      "url": "https://km.sankuai.com/page/1280562724",
+      "status": "no_permission",
+      "relationship": "direct_link",
+      "reason": "学城接口明确返回当前账号无阅读权限",
+      "saved_date": "2026-11-19"
+    },
+    {
+      "id": "1221413674",
+      "title": "违禁买卖-22年公考助考信息打击标准",
+      "url": "https://km.sankuai.com/page/1221413674",
+      "status": "no_permission",
+      "relationship": "direct_link",
+      "reason": "学城接口明确返回当前账号无阅读权限",
+      "saved_date": "2026-11-19"
+    },
+    {
+      "id": "1219095226",
+      "title": "违禁买卖-NLP教练技术有害信息打击标准",
+      "url": "https://km.sankuai.com/page/1219095226",
+      "status": "no_permission",
+      "relationship": "direct_link",
+      "reason": "学城接口明确返回当前账号无阅读权限",
+      "saved_date": "2026-11-19"
+    },
+    {
+      "id": "1264759287",
+      "title": "违禁买卖-代开发票",
+      "url": "https://km.sankuai.com/page/1264759287",
+      "status": "no_permission",
+      "relationship": "direct_link",
+      "reason": "学城接口明确返回当前账号无阅读权限",
+      "saved_date": "2026-11-19"
+    },
+    {
+      "id": "1215691562",
+      "title": "违禁买卖-烟花爆竹",
+      "url": "https://km.sankuai.com/page/1215691562",
+      "status": "no_permission",
+      "relationship": "direct_link",
+      "reason": "学城接口明确返回当前账号无阅读权限",
+      "saved_date": "2026-11-19"
+    },
+    {
+      "id": "1143149255",
+      "title": "中美不当言论标准",
+      "url": "https://km.sankuai.com/page/1143149255",
+      "status": "no_permission",
+      "relationship": "direct_link",
+      "reason": "学城接口明确返回当前账号无阅读权限",
+      "saved_date": "2026-11-19"
+    },
+    {
+      "id": "1047058197",
+      "title": "关于清朗·未成年人网络环境整治管控标准",
+      "url": "https://km.sankuai.com/page/1047058197",
+      "status": "saved",
+      "relationship": "direct_link",
+      "format": "1.0",
+      "deleted": false,
+      "saved_date": "2026-11-19"
+    },
+    {
+      "id": "1213160443",
+      "title": "鱿鱼游戏标准",
+      "url": "https://km.sankuai.com/page/1213160443",
+      "status": "saved",
+      "relationship": "direct_link",
+      "format": "1.0",
+      "deleted": false,
+      "saved_date": "2026-11-19"
+    },
+    {
+      "id": "1206782818",
+      "title": "“一日男友”审核标准",
+      "url": "https://km.sankuai.com/page/1206782818",
+      "status": "saved",
+      "relationship": "direct_link",
+      "format": "1.0",
+      "deleted": false,
+      "saved_date": "2026-11-19"
+    },
+    {
+      "id": "1227274452",
+      "title": "女仆涉黄治理标准",
+      "url": "https://km.sankuai.com/page/1227274452",
+      "status": "saved",
+      "relationship": "direct_link",
+      "format": "1.0",
+      "deleted": false,
+      "saved_date": "2026-11-19"
+    },
+    {
+      "id": "1229878836",
+      "title": "南京大屠杀公祭日内容发布审核标准",
+      "url": "https://km.sankuai.com/page/1229878836",
+      "status": "saved",
+      "relationship": "direct_link",
+      "format": "1.0",
+      "deleted": false,
+      "saved_date": "2026-11-19"
+    },
+    {
+      "id": "1299382129",
+      "title": "胎儿性别鉴定",
+      "url": "https://km.sankuai.com/page/1299382129",
+      "status": "saved",
+      "relationship": "direct_link",
+      "format": "1.0",
+      "deleted": false,
+      "saved_date": "2026-11-19"
+    },
+    {
+      "id": "1216044815",
+      "title": "洋节管控标准方案",
+      "url": "https://km.sankuai.com/page/1216044815",
+      "status": "saved",
+      "relationship": "direct_link",
+      "format": "1.0",
+      "deleted": false,
+      "saved_date": "2026-11-19"
+    },
+    {
+      "id": "1230713162",
+      "title": "圣诞节管控标准",
+      "url": "https://km.sankuai.com/page/1230713162",
+      "status": "saved",
+      "relationship": "direct_link",
+      "format": "1.0",
+      "deleted": false,
+      "saved_date": "2026-11-19"
+    },
+    {
+      "id": "1273780486",
+      "title": "传染病（新冠Covid-19）疫情突发应急审核标准v2.5",
+      "url": "https://km.sankuai.com/page/1273780486",
+      "status": "saved",
+      "relationship": "direct_link",
+      "format": "1.0",
+      "deleted": false,
+      "saved_date": "2026-11-19"
+    },
+    {
+      "id": "1294258078",
+      "title": "社会负面事件之特大交通事故（MU5735）",
+      "url": "https://km.sankuai.com/page/1294258078",
+      "status": "no_permission",
+      "relationship": "direct_link",
+      "reason": "学城接口明确返回当前账号无阅读权限",
+      "saved_date": "2026-11-19"
+    },
+    {
+      "id": "1270162756",
+      "title": "电子烟管控补充规则20220107",
+      "url": "https://km.sankuai.com/page/1270162756",
+      "status": "saved",
+      "relationship": "direct_link",
+      "format": "1.0",
+      "deleted": false,
+      "saved_date": "2026-11-19"
+    },
+    {
+      "id": "1269178268",
+      "title": "剧本杀《椰枣》相关处置标准",
+      "url": "https://km.sankuai.com/page/1269178268",
+      "status": "saved",
+      "relationship": "direct_link",
+      "format": "1.0",
+      "deleted": false,
+      "saved_date": "2026-11-19"
+    },
+    {
+      "id": "1286567096",
+      "title": "战争冲突应急增补标准",
+      "url": "https://km.sankuai.com/page/1286567096",
+      "status": "saved",
+      "relationship": "direct_link",
+      "format": "1.0",
+      "deleted": false,
+      "saved_date": "2026-11-19"
+    },
+    {
+      "id": "1275813182",
+      "title": "违禁游戏应急增补标准",
+      "url": "https://km.sankuai.com/page/1275813182",
+      "status": "no_permission",
+      "relationship": "direct_link",
+      "reason": "学城接口明确返回当前账号无阅读权限",
+      "saved_date": "2026-11-19"
+    },
+    {
+      "id": "1276502679",
+      "title": "三春（春节、春晚、春运）专项应急增补标准",
+      "url": "https://km.sankuai.com/page/1276502679",
+      "status": "no_permission",
+      "relationship": "direct_link",
+      "reason": "学城接口明确返回当前账号无阅读权限",
+      "saved_date": "2026-11-19"
+    },
+    {
+      "id": "1284421381",
+      "title": "公立医院评价-个人隐私、人身攻击、过激辱骂标准",
+      "url": "https://km.sankuai.com/page/1284421381",
+      "status": "saved",
+      "relationship": "direct_link",
+      "format": "1.0",
+      "deleted": false,
+      "saved_date": "2026-11-19"
+    },
+    {
+      "id": "1278133459",
+      "title": "金银箔粉食物审核标准",
+      "url": "https://km.sankuai.com/page/1278133459",
+      "status": "saved",
+      "relationship": "direct_link",
+      "format": "1.0",
+      "deleted": false,
+      "saved_date": "2026-11-19"
+    }
+  ]
+}

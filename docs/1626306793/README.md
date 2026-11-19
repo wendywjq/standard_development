@@ -1,0 +1,119 @@
+# 重要国际事件正面审核标准
+
+[返回目录](../../README.md) · [学城原文](https://km.sankuai.com/collabpage/1626306793) · 已保存正文 · 2026-11-19
+
+> 正文保留表格和折叠结构。图片和媒体仅保留原始链接，需要学城访问权限。完整源数据见同目录 source 文件。
+
+<div>
+<h1 id="b-d240dfe50ec64030924d1d466ef7c769">重要国际事件正面审核标准</h1>
+<table id="b-fcfb5311c45f4266b48a563e853eaa9a">
+<tr id="b-8ef543032c794eb7a79718c2ccdc57d2">
+<th colspan="3" id="b-e8dd579d4ea64f0cb2f1841f0ba9b0fe" style="background-color:rgb(246, 246, 246);vertical-align:middle">
+<p id="b-55f856461355408781fe77120f76012d" style="text-align:center"><strong><span style="font-size:16px">V3标签体系</span></strong></p>
+</th>
+<th colspan="3" id="b-31cdb5ed950944ac8920a2d8799afc16" style="vertical-align:middle">
+<p id="b-4b531d21c3ac4e96a76f1726b99b30d1" style="text-align:center"><strong><span style="font-size:16px">V2标签体系</span></strong></p>
+</th>
+<th colspan="2" id="b-5307db0f769e4844b9a75f92af0f3a5d" style="vertical-align:middle">
+<p id="b-44ee6c1ec8b94c0a9de1fee513387581" style="text-align:center"><strong><span style="font-size:16px">V1标签体系</span></strong></p>
+</th>
+<th rowspan="2" id="b-a293018f9e9649ec834f95bbf70c0f01" style="background-color:rgb(246, 246, 246);vertical-align:middle">
+<p id="b-31342405af444fd296710c26aad066ce" style="text-align:center"><strong><span style="font-size:16px">风险点</span></strong></p>
+</th>
+<th rowspan="2" id="b-119b1219572946d8aab52167fdd7832e" style="background-color:rgb(246, 246, 246);vertical-align:middle">
+<p id="b-6931535cbe744611890fb847ef45ac03" style="text-align:center"><strong><span style="font-size:16px">具体定义</span></strong></p>
+</th>
+<th rowspan="2" id="b-fd8bc149b7a946859c06f3c4d4de86fa" style="background-color:rgb(246, 246, 246);vertical-align:middle">
+<p id="b-077adc0e15cd438798c3e8c8676c6808" style="text-align:center"><strong><span style="font-size:16px">文字样本</span></strong></p>
+</th>
+<th rowspan="2" id="b-251dbabcead146af810326d9945f5e08" style="vertical-align:middle">
+<p id="b-7d39bd49728143959ca6bca2be59060e" style="text-align:center"><strong><span style="font-size:16px">图片样本</span></strong></p>
+</th>
+<th rowspan="2" id="b-0b53ce34fe2f4c46bc30342ec9173237" style="background-color:rgb(246, 246, 246);vertical-align:middle">
+<p id="b-ec31902a1e7442e2a83e406aa404bd12" style="text-align:center"><strong><span style="font-size:16px">豁免样本</span></strong></p>
+</th>
+</tr>
+<tr id="b-2bf8d40fe7cf4223b1b23724a2f99e13">
+<td id="b-5b5b9aaf13434006839ea7c89cc76c0f" style="background-color:rgb(246, 246, 246);vertical-align:middle">
+<p id="b-37e4608fe782483c8035114ae0f347c6" style="text-align:center"><strong><span style="font-size:16px">一级标签</span></strong></p>
+</td>
+<td id="b-b139fe175206474493d28d157fbce1c3" style="background-color:rgb(246, 246, 246);vertical-align:middle">
+<p id="b-e9109e8651944c328eff62f183b168fe" style="text-align:center"><strong><span style="font-size:16px">二级标签</span></strong></p>
+</td>
+<td id="b-cb638f15d26f4f59846b4815094e6052" style="background-color:rgb(246, 246, 246);vertical-align:middle">
+<p id="b-786953da7ab74b55b4f63466ed010f97" style="text-align:center"><strong><span style="font-size:16px">三级标签</span></strong></p>
+</td>
+<td id="b-6ab8002af0ca490d870eec8160f3e330" style="background-color:rgb(246, 246, 246);vertical-align:middle">
+<p id="b-98985dd07a5d45b09980615f577d38b7" style="text-align:center"><strong><span style="font-size:16px">一级标签</span></strong></p>
+</td>
+<td id="b-369d58ecc73b4ee2b8b028ee21800962" style="background-color:rgb(246, 246, 246);vertical-align:middle">
+<p id="b-05e0d2b415b34bd89b4115aad072f932" style="text-align:center"><strong><span style="font-size:16px">二级标签</span></strong></p>
+</td>
+<td id="b-b9d457a28f2840a8a7b01ab939ec6191" style="background-color:rgb(246, 246, 246);vertical-align:middle">
+<p id="b-95e5cc9516e14503b0f393042b9601b9" style="text-align:center"><strong><span style="font-size:16px">三级标签</span></strong></p>
+</td>
+<td id="b-dcb9013a2dd649c38a43a9955cf7b689" style="background-color:rgb(246, 246, 246);vertical-align:middle">
+<p id="b-bf1ca0378069449aa471e65323b2a8bf" style="text-align:center"><strong><span style="font-size:16px">一级标签</span></strong></p>
+</td>
+<td id="b-0b2c93cd70414deab2976397f6a88772" style="background-color:rgb(246, 246, 246);vertical-align:middle">
+<p id="b-c78a3931d936463d9aa845c42bde8bd1" style="text-align:center"><strong><span style="font-size:16px">二级标签</span></strong></p>
+</td>
+</tr>
+<tr id="b-5c9e00e9904945e9b1931a465bc26b0c">
+<td rowspan="2" id="b-80aaf5649fb9493ba69b4291be67bc16">
+<p id="b-ba7de239068541c4a424d5eacf1c4e51">涉政非负面</p>
+</td>
+<td rowspan="2" id="b-956409dcf91e4550b0104ed1223122c9">
+<p id="b-bdc9cb3ab92d445ba059407c02cfb777">重大国际事件</p>
+</td>
+<td rowspan="2" id="b-adba376d46e34f37a4134e31e5654e05">
+<p id="b-4fa9c13c59e44f018a8d8ca3619117a5"></p>
+</td>
+<td rowspan="2" id="b-e52ac61d7e834c0089b41f71ad33c6c0">
+<p id="b-e76e7a399e65448cadd872456e3777fd">涉政</p>
+</td>
+<td rowspan="2" id="b-2c5a4b907bd1421d9cb91226190422ca">
+<p id="b-e427c129fbbb4605a0aea67bc1b11a43">涉政事件</p>
+</td>
+<td rowspan="2" id="b-0f462f6086eb4cccaffc63cd1bff6b8e">
+<p id="b-17a6f2ea31ca48a7b888bb2410fd3f57">重大国际事件</p>
+</td>
+<td rowspan="2" id="b-0cb4eec828c34d589e45f926958ecbd6">
+<p id="b-b74593741b7c4aef889175a0d443b0f9">涉政</p>
+</td>
+<td rowspan="2" id="b-2b4da5db4c0e447cb00826ebe5c84979">
+<p id="b-fa610a55516b4d6883b5b328aea7774a">「文」- 涉政人物或组织</p>
+<p id="b-242248b68766458aacfe96a888daa9d7">「图&amp;视频」- 敏感政治事件场景</p>
+</td>
+<td rowspan="2" id="b-c28917930da74005a1eefde49924512e" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-d262fb2eeaf64452a61f5e3c4f24af10"><span style="font-size:14px">重要大国领导人换届</span></p>
+</td>
+<td id="b-c3060473bae94d93aba569af67e4b1a8" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-4b90c7166fbc45cbb20a5a70064b9ac0" style="text-align:start"><span style="font-size:14px">将外国新任元首与我一号或国家领导人做对比的，需跟进打标。</span></p>
+</td>
+<td id="b-1a5bb853450e42cbbdc07f1db8a0440d" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-391f99bd50d244e589ca3782e8aeafd7">希望美国佬选个好点的总统，和我们国家的习大大一样励精图治，维护世界和平。</p>
+</td>
+<td id="b-fc9563e624a84b829235b4d7474e143c" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-ac1b893d8b334d8f920ae1b688a7c0cc" style="text-align:start"></p>
+</td>
+<td id="b-4d9e7b914c2048c8bc4b4eac0929f858" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-a900b321ddbd414eb02eb6a6a603ba9a" style="text-align:start"></p>
+</td>
+</tr>
+<tr id="b-a83337fab0054118a7fcc9e8ac98f18e">
+<td id="b-3429dd7e0c944f919f73185769532597" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-f754c05ff9c64d4eb120268ed43f2b98" style="text-align:start"><span style="font-size:14px"><blockquote>选举过程中涉及中国议题的相关内容（辩论、政策主张），打标。</blockquote></span></p>
+</td>
+<td id="b-570122583f8f4908846f7a575d3e4346" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-97785e65572e4a5d990f0f5bc9012c8d">美国人的选举制度如果和中国一样就好了，这样也就不用争谁是世界第一了，还能让他们充分领略一下社会主义的先进性。</p>
+</td>
+<td id="b-7ed652b5c6df4f48b15a117d583851c0" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-2be12005d8034548afe3be9773be9f51" style="text-align:start"></p>
+</td>
+<td id="b-fbe3768690a24d9f8f146d03d66eb3d2" style="background-color:rgb(255, 255, 255);vertical-align:top">
+<p id="b-8a60f5cd682343a78ca6f4dcda11838d"></p>
+</td>
+</tr>
+</table>
+</div>
