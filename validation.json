@@ -20,5 +20,17 @@
   ],
   "media_storage": "source_url_only",
   "file_naming": "document_title_with_access_status",
-  "title_named_markdown_files": 138
+  "title_named_markdown_files": 138,
+  "image_files_verified": 500,
+  "image_bytes": 179102122,
+  "image_scope": "500_unique_images",
+  "image_documents_covered": 37,
+  "rendered_image_checks": {
+    ".md_images": 566,
+    ".md_placeholders": 11277,
+    ".html_images": 566,
+    ".html_placeholders": 11277
+  },
+  "remote_image_sources_in_docs": 0,
+  "external_svg_image_dependencies": 0
 }

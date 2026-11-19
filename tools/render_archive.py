@@ -5,6 +5,7 @@ from html import escape
 from html.parser import HTMLParser
 from urllib.parse import urlsplit, quote
 import collections, copy, hashlib, json, re, xml.etree.ElementTree as ET
+from sync_images import image_key
 
 BASE = Path(__file__).resolve().parents[1]
 DOCS = BASE / 'docs'
@@ -14,6 +15,17 @@ DATE = '2026-11-19'
 SOURCE = 'https://km.sankuai.com/collabpage/1637005052#b-921650b1a29b4bd2bd2f815014f77623'
 records = json.loads((BASE / 'manifest.json').read_text())['documents']
 by_id = {n['id']: n for n in records}
+image_sync_path = BASE / 'image-sync.json'
+image_sync = json.loads(image_sync_path.read_text()) if image_sync_path.exists() else {'images': [], 'complete': False}
+image_results = {item['key']: item for item in image_sync['images']}
+document_image_stats = collections.defaultdict(collections.Counter)
+seen_document_images = set()
+for item in image_results.values():
+    for document_id in item.get('document_ids',[]):
+        identity=(document_id,item['status'],item.get('sha256') if item['status']=='saved' else item['key'])
+        if identity not in seen_document_images:
+            document_image_stats[document_id][item['status']] += 1
+            seen_document_images.add(identity)
 assets = []
 render_notes = []
 VOID = {'area', 'base', 'br', 'col', 'embed', 'hr', 'img', 'input', 'link', 'meta', 'param', 'source', 'track', 'wbr'}
@@ -76,8 +88,10 @@ def render(n, target='html'):
         elif tag == 'km-catalog': el.tag = 'div'; el.text = '文档目录：使用浏览器查找，或展开文中折叠内容。'
         elif tag in {'km-page-tree','km-doc-list-view'}:
             el.tag='p';el.text='下级目录组件保留于源文件；本次范围为汇总表直接链接文档。'
-        elif tag in {'km-drawio','km-minder','km-attachment','km-video','km-audio'}:
-            kind = {'km-drawio':'流程图','km-minder':'思维导图','km-attachment':'附件','km-video':'视频','km-audio':'音频'}[tag]
+        elif tag == 'km-drawio':
+            el.tag='img';el.set('alt',attrs.get('name') or '流程图')
+        elif tag in {'km-minder','km-attachment','km-video','km-audio'}:
+            kind = {'km-minder':'思维导图','km-attachment':'附件','km-video':'视频','km-audio':'音频'}[tag]
             url=attrs.get('src') or attrs.get('url') or '';name=attrs.get('name') or attrs.get('title') or kind
             el.tag='figure';el.text=None
             ET.SubElement(el,'figcaption').text=f'{kind}：{name}（原始链接，可能需要学城权限）'
@@ -111,13 +125,25 @@ def render(n, target='html'):
                     dest=Path(by_id[cid][path_key]).name
                     el.set('href',quote(dest,safe='')+('#'+frag if frag else ''))
                     el.set('title','学城原文：'+url+'；'+STATUS[by_id[cid]['status']])
+                elif image_results.get(image_key(url),{}).get('status')=='saved':
+                    el.set('href','../'+quote(image_results[image_key(url)]['path'],safe='/'))
         if el.tag == 'img':
             url=el.get('src','')
-            if not safe_url(url):el.attrib.pop('src',None)
-            el.set('alt',el.get('alt') or attrs.get('name') or '原文图片（需学城权限）')
+            result=image_results.get(image_key(url),{}) if url else {'status':'missing_url','reason':'原文图片缺少地址'}
+            alt=el.get('alt') or attrs.get('name') or ('流程图' if tag=='km-drawio' else '原文图片')
+            if result.get('status')=='saved':
+                el.set('src','../'+quote(result['path'],safe='/'));el.set('alt',alt)
+                el.set('title','已同步到仓库，无需学城登录')
+            else:
+                reason=result.get('reason') or '图片尚未同步'
+                el.tag='span';el.attrib.clear();el.set('class','image-unavailable');el.set('title',url)
+                el.text='【图片未选入本次 500 张同步】' if result.get('status')=='not_selected' else '【'+alt+'未同步：'+reason+'】'
             if target=='html':
-                el.set('loading','lazy')
-                assets.append({'document_id':n['id'],'kind':'图片','name':el.get('alt'),'url':url,'storage':'source_url_only'})
+                if el.tag=='img':el.set('loading','lazy')
+                item={'document_id':n['id'],'kind':'流程图' if tag=='km-drawio' else '图片','name':alt,'url':url,'storage':'repository' if result.get('status')=='saved' else 'unavailable','status':result.get('status','pending')}
+                if result.get('path'):item['path']=result['path']
+                if result.get('reason'):item['reason']=result['reason']
+                assets.append(item)
         styles=[]
         for key,prop in [('color','color'),('bgColor','background-color'),('font-size','font-size'),('verticalAlign','vertical-align'),('align','text-align')]:
             val=attrs.get(key)
@@ -137,6 +163,7 @@ def render(n, target='html'):
 CSS='''*{box-sizing:border-box}body{margin:0;color:#202c40;background:#f5f6f8;font:15px/1.75 system-ui,-apple-system,"PingFang SC",sans-serif}a{color:#175ca8;text-decoration:none;overflow-wrap:anywhere}a:hover{text-decoration:underline}header{background:#fff;border-bottom:1px solid #dde2e8;padding:20px 28px}header h1{margin:0;font-size:25px}header p{margin:5px 0;color:#5c6878}main{padding:24px 28px}article{padding:24px;background:#fff;border:1px solid #e0e5ea;border-radius:8px;overflow-x:auto}h1{font-size:28px}h2{font-size:23px}h3{font-size:20px}p{overflow-wrap:anywhere}table{border-collapse:collapse;min-width:100%;font-size:14px}td,th{border:1px solid #ccd4dd;padding:9px;vertical-align:top;min-width:105px}td p,th p{margin:4px 0}td img{max-width:300px}img{max-width:100%;height:auto}details{margin:8px 0;border:1px solid #e0e5eb;border-radius:5px;padding:8px}summary{cursor:pointer;font-weight:600}pre{overflow:auto;background:#f5f7fa;padding:14px}blockquote,.note{margin:14px 0;padding:12px 18px;background:#eff5fc;border-left:4px solid #7da7d4}figure{padding:12px;border:1px dashed #c8d2df;margin:10px 0}.notice{background:#fff6dc;border-left:4px solid #c39324;padding:12px 16px;margin:0 0 20px}.unavailable{background:#fff2ef;padding:20px}.muted{font-size:13px;color:#657487}.toolbar{display:flex;flex-wrap:wrap;gap:14px;margin:10px 0}.index{max-width:1300px;margin:auto}.index td:first-child{min-width:45px}input[type=search]{width:100%;font:inherit;padding:12px;border:1px solid #bcc9d8;border-radius:6px;margin-bottom:20px}.badge{display:inline-block;white-space:nowrap;padding:2px 8px;background:#edf0f4;border-radius:4px}.badge.saved{background:#e7f5ec;color:#21633b}:target{outline:2px solid #df9b39;scroll-margin-top:15px}@media(max-width:700px){header{padding:16px}main{padding:12px}article{padding:14px}td,th{padding:7px}}
 '''
 (BASE/'archive.css').write_text(CSS)
+(BASE/'archive.css').write_text(CSS+'\n.image-unavailable{display:inline-block;padding:3px 6px;margin:3px;color:#765a23;background:#fff5dc;font-size:12px;border-radius:3px}\n')
 
 
 def page(title,body,root=False):
@@ -152,12 +179,14 @@ for i,n in enumerate(records,1):
     preview_url=quote(n['preview_path'],safe='/')
     toolbar='<div class="toolbar"><a href="../index.html">全部文档</a><a href="'+escape(n['url'],quote=True)+'">学城原文</a><a href="../'+md_url+'">GitHub 阅读版</a></div>'
     header='<header><h1>'+escape(n['title'])+'</h1><p>'+STATUS[n['status']]+' · 文档 ID '+n['id']+' · 保存日期 '+DATE+'</p>'+toolbar+'</header>'
-    note='<p class="notice">正文与表格已保存；图片、附件、音视频、思维导图及流程图保留原始链接，可能需要学城登录和对应权限。未展开保存正文中的二级引用链接。</p>' if n['status']=='saved' else ''
+    stats=document_image_stats[n['id']]
+    image_note=f"本篇已同步 {stats['saved']} 张不同图片，无需学城登录；{stats['not_selected']} 张未纳入本次 500 张同步范围。未能下载的图片已在原位置注明原因。"
+    note='<p class="notice">'+image_note+'<a href="../IMAGE_REPORT.md">查看图片同步清单</a>。附件、音视频及思维导图保留原始链接。</p>' if n['status']=='saved' else ''
     (BASE/n['preview_path']).write_text(page(n['title'],header+'<main>'+note+'<article>'+body+'</article></main>'))
     md='# '+n['title']+'\n\n[返回目录](../README.md) · [学城原文]('+n['url']+') · '+STATUS[n['status']]+' · '+DATE+'\n\n'
     if n['status']=='saved':
         source_url=quote(n['source_paths']['json'],safe='/')
-        md+='> 正文保留表格和折叠结构。图片和媒体仅保留原始链接，需要学城访问权限。完整源数据见 [原始文件](../'+source_url+')。\n\n'
+        md+='> '+image_note+'[图片同步清单](../IMAGE_REPORT.md)。附件、音视频及思维导图保留原始链接。完整源数据见 [原始文件](../'+source_url+')。\n\n'
     md+=render(n,'md')+'\n'
     (BASE/n['markdown_path']).write_text(md)
     label=escape(n['title']);status=STATUS[n['status']]
@@ -165,10 +194,10 @@ for i,n in enumerate(records,1):
     mdrows.append('| '+str(i)+' | ['+n['title'].replace('|','\\|')+']('+md_url+') | '+status+' | '+n['id']+' |')
 counts=collections.Counter(n['status'] for n in records)
 intro=f"共 {len(records)} 篇：正文已保存 {counts['saved']} 篇；无权限 {counts['no_permission']} 篇；需安全屋环境 {counts['restricted_environment']} 篇。"
-body='<header><div class="index"><h1>标准文档归档</h1><p>'+intro+'</p><p class="muted">来源：05-标准汇总表 V3.0 · '+DATE+' · <a href="'+SOURCE+'">查看来源</a></p></div></header><main class="index"><p class="notice">归档范围：汇总表本身与其中 137 篇直接链接。无权限内容仅保存占位记录。媒体保留原链接，未申请任何权限。</p><input type="search" id="search" placeholder="按标题、文档 ID 或状态查找" aria-label="搜索文档"><article><table><thead><tr><th>序号</th><th>文档</th><th>状态</th><th>ID</th></tr></thead><tbody>'+''.join(rows)+'</tbody></table></article></main><script>document.getElementById("search").addEventListener("input",function(){const q=this.value.trim().toLowerCase();document.querySelectorAll("tbody tr").forEach(row=>row.hidden=!row.textContent.toLowerCase().includes(q));});</script>'
+body='<header><div class="index"><h1>标准文档归档</h1><p>'+intro+'</p><p class="muted">来源：05-标准汇总表 V3.0 · '+DATE+' · <a href="'+SOURCE+'">查看来源</a></p></div></header><main class="index"><p class="notice">归档范围：汇总表本身与其中 137 篇直接链接。无权限内容仅保存占位记录。本次同步 500 张不同图片，其余图片已备注，未申请任何权限。</p><input type="search" id="search" placeholder="按标题、文档 ID 或状态查找" aria-label="搜索文档"><article><table><thead><tr><th>序号</th><th>文档</th><th>状态</th><th>ID</th></tr></thead><tbody>'+''.join(rows)+'</tbody></table></article></main><script>document.getElementById("search").addEventListener("input",function(){const q=this.value.trim().toLowerCase();document.querySelectorAll("tbody tr").forEach(row=>row.hidden=!row.textContent.toLowerCase().includes(q));});</script>'
 (BASE/'index.html').write_text(page('标准文档归档',body,True))
-(BASE/'README.md').write_text('# 标准文档归档\n\n'+intro+'\n\n来源：[05-标准汇总表 V3.0]('+SOURCE+')。保存日期：'+DATE+'。\n\n本次保存汇总表及其 137 篇直接链接，不递归抓取每篇正文中的参考链接或下级目录。各文档保留原文标题、表格合并结构、折叠内容与来源链接。无权限和安全屋限制均已记录，未申请权限。\n\n- 在 GitHub 中阅读：点击下表文档标题。\n- 本地浏览：用浏览器打开 [index.html](index.html)，支持按标题、ID、状态搜索。也可在仓库目录运行 `python3 -m http.server 8000` 后访问 `http://localhost:8000`。\n- 文件命名：`docs/<学城标题>.md`；无权限文件标注 `（无权限）`，安全屋限制另行标注。同名文档附文档 ID 区分；无法读取标题时明确标注 `标题未读取`。\n- 完整来源：`sources/<学城标题>.json`；2.0 文档另有 `.xml`，1.0 文档另有 `.html`。预览文件位于 `previews/<学城标题>.html`。\n- [权限与读取限制清单](ACCESS_REPORT.md) · [机器可读清单](manifest.json) · [图片与媒体引用](media.json)\n\n> 图片、音视频、附件、思维导图与流程图保留原始地址，未下载二进制文件；查看时仍可能需要学城登录及对应权限。此副本不提供完整离线媒体。部分学城专有组件显示为原文链接或源内容提示，原始数据完整保留于 source 文件。原文的敏感内容提示仍予保留。\n\n| 序号 | 文档 | 状态 | 文档 ID |\n| --- | --- | --- | --- |\n'+'\n'.join(mdrows)+'\n')
-(BASE/'media.json').write_text(json.dumps({'storage':'source_url_only','references':assets,'unsupported_components':render_notes},ensure_ascii=False,indent=2))
+(BASE/'README.md').write_text('# 标准文档归档\n\n'+intro+'\n\n来源：[05-标准汇总表 V3.0]('+SOURCE+')。保存日期：'+DATE+'。\n\n本次保存汇总表及其 137 篇直接链接，不递归抓取每篇正文中的参考链接或下级目录。各文档保留原文标题、表格合并结构、折叠内容与来源链接。无权限和安全屋限制均已记录，未申请权限。\n\n- 在 GitHub 中阅读：点击下表文档标题。\n- 本地浏览：用浏览器打开 [index.html](index.html)，支持按标题、ID、状态搜索。也可在仓库目录运行 `python3 -m http.server 8000` 后访问 `http://localhost:8000`。\n- 文件命名：`docs/<学城标题>.md`；无权限文件标注 `（无权限）`，安全屋限制另行标注。同名文档附文档 ID 区分；无法读取标题时明确标注 `标题未读取`。\n- 完整来源：`sources/<学城标题>.json`；2.0 文档另有 `.xml`，1.0 文档另有 `.html`。预览文件位于 `previews/<学城标题>.html`。\n- [权限与读取限制清单](ACCESS_REPORT.md) · [图片同步清单](IMAGE_REPORT.md) · [机器可读清单](manifest.json) · [图片与媒体引用](media.json)\n\n> 本次从各篇文档中轮流选择 500 张不同图片，已保存到 `assets/images/`，并改为仓库内相对链接，无需学城登录即可查看。未选入、无权限或下载失败的图片均在原位置注明。音视频、普通附件及思维导图保留原始链接；原始文档数据及原文提示保持保留。\n\n| 序号 | 文档 | 状态 | 文档 ID |\n| --- | --- | --- | --- |\n'+'\n'.join(mdrows)+'\n')
+(BASE/'media.json').write_text(json.dumps({'storage':'selected_images_in_repository','image_scope':'500_unique_images','references':assets,'unsupported_components':render_notes},ensure_ascii=False,indent=2))
 report='# 权限与读取限制清单\n\n核查日期：'+DATE+'。逐篇执行只读操作；未申请、修改或授予权限。\n\n无权限条目的名称取自汇总表链接文字；未读取到实际标题的文档明确标注“标题未读取”。文件名同时注明访问限制。\n\n'+intro+'\n\n'
 for status in ['no_permission','restricted_environment','read_failed']:
     group=[n for n in records if n['status']==status]
@@ -176,8 +205,17 @@ for status in ['no_permission','restricted_environment','read_failed']:
     report+='## '+STATUS[status]+f'（{len(group)} 篇）\n\n| 文档 | ID | 原因 |\n| --- | --- | --- |\n'
     for n in group:report+='| ['+n['title'].replace('|','\\|')+']('+n['url']+') | '+n['id']+' | '+n['reason']+' |\n'
     report+='\n'
-report+='安全屋文档并不等同于已确认无阅读权限；当前环境无法读取，未请求安全屋 Token 或尝试其他访问路径。\n\n图片、媒体及附件仅保存原始链接，不将链接有效性等同于已下载或可离线访问。\n'
+report+='安全屋文档并不等同于已确认无阅读权限；当前环境无法读取，未请求安全屋 Token 或尝试其他访问路径。\n\n按本次范围同步 500 张不同图片；无权限或下载失败的图片在原位置备注，详见 [图片同步清单](IMAGE_REPORT.md)。未申请图片下载权限。非图片媒体与附件保留原始链接。\n'
 (BASE/'ACCESS_REPORT.md').write_text(report)
+unique_images={r['path']:r for r in image_results.values() if r.get('status')=='saved'}
+image_report='# 图片同步清单\n\n本次范围：从各篇文档中轮流选择，共同步 '+str(len(unique_images))+' 张不同图片。图片保存于 `assets/images/`，文档使用仓库内相对链接，无需登录学城即可查看。\n\n未纳入 500 张范围的图片标注为“未选入本次同步”；权限不足、资源缺失及下载失败分别注明实际原因，未申请任何权限。音视频、普通附件及思维导图不在本次图片下载范围内。\n\n| 文档 | 已同步图片 | 未选入 | 无权限 | 其他下载问题 |\n| --- | --- | --- | --- | --- |\n'
+for n in records:
+    stats=document_image_stats[n['id']]
+    if not stats:continue
+    other=sum(count for status,count in stats.items() if status not in ['saved','not_selected','no_permission'])
+    image_report+='| ['+n['title'].replace('|','\\|')+']('+quote(n['markdown_path'],safe='/')+') | '+str(stats['saved'])+' | '+str(stats['not_selected'])+' | '+str(stats['no_permission'])+' | '+str(other)+' |\n'
+image_report+='\n统计按每篇文档内不同图片资源计数。同一图片可被多篇文档引用，仓库按文件内容去重，因此各行相加可能超过 500。逐项结果及来源见 [image-sync.json](image-sync.json)。\n'
+(BASE/'IMAGE_REPORT.md').write_text(image_report)
 checksums={str(p.relative_to(BASE)):hashlib.sha256(p.read_bytes()).hexdigest() for p in sorted(SOURCES.iterdir()) if p.is_file()}
 (BASE/'source-checksums.json').write_text(json.dumps(checksums,ensure_ascii=False,indent=2)+'\n')
 print(json.dumps({'documents':len(records),'counts':dict(counts),'media_references':len(assets),'source_files':len(checksums)},ensure_ascii=False))

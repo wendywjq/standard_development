@@ -2240,5 +2240,12 @@
       }
     }
   ],
-  "file_naming": "document_title_with_access_status"
+  "file_naming": "document_title_with_access_status",
+  "image_sync": {
+    "scope": "500_unique_images",
+    "selected_files": 500,
+    "report": "IMAGE_REPORT.md",
+    "selection_file": "IMAGE_SELECTION.json",
+    "permissions_requested": false
+  }
 }
